@@ -1,0 +1,772 @@
+{
+  "medicina": [
+    {
+      "id": "e3c110f1f730",
+      "titulo": "STAT+: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few",
+      "url": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/?utm_campaign=rss",
+      "resumo": "Exon-skipping drugs present a critical test for the FDA’s goal of encouraging treatments for rare disease.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-07T08:30:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.154373+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/Exon-Skipping-handout-1024x576.jpg",
+      "score": 6.11,
+      "cobertura": []
+    },
+    {
+      "id": "7877866eb58f",
+      "titulo": "Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance",
+      "url": "https://medicalxpress.com/news/2026-10-key-driver-aggressive-prostate-cancer.html",
+      "resumo": "Researchers at Fred Hutch Cancer Center have identified a previously overlooked molecular regulator that helps determine whether prostate tumors remain sensitive to treatment or evolve into a more aggressive, drug-resistant form of the disease.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-07T15:00:02+00:00",
+      "coletado_em": "2026-10-07T16:29:41.153849+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/key-driver-of-aggressi.jpg",
+      "score": 5.885,
+      "cobertura": []
+    },
+    {
+      "id": "73d7ef075b6a",
+      "titulo": "Starting Alzheimer's treatment earlier increases benefits to patients and society",
+      "url": "https://medicalxpress.com/news/2026-10-alzheimer-treatment-earlier-benefits-patients.html",
+      "resumo": "New treatments that can slow the progression of Alzheimer's disease could provide significant lifetime benefits to patients and society, with even greater benefits when initiated earlier, according to new research from the USC Schaeffer Center for Health Policy & Economics.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-07T13:00:01+00:00",
+      "coletado_em": "2026-10-07T16:29:41.153849+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-alzheimers.jpg",
+      "score": 5.684,
+      "cobertura": []
+    },
+    {
+      "id": "6211eb205b84",
+      "titulo": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
+      "url": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
+      "resumo": "Caribou Biosciences is shutting down after failing to raise the money necessary to fund a late-stage clinical trial of its off-the-shelf CAR-T therapy for lymphoma.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-07T08:30:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.154373+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-1179020747-1024x576.jpg",
+      "score": 5.61,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "d940f4250ec7",
+      "titulo": "Why rediscovering extinct species can actually be a bad thing",
+      "url": "https://www.newscientist.com/article/2590861-why-rediscovering-extinct-species-can-actually-be-a-bad-thing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Finding that long-lost plants and animals are still alive often isn’t an unmitigated cause for celebration, says evolutionary biologist Aelys Humphreys. To get to grips with the true scale of species loss, we need to completely change how we think about extinction",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-07T15:00:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.198647+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313988491.jpg",
+      "score": 5.685,
+      "cobertura": []
+    },
+    {
+      "id": "6a066c1a0725",
+      "titulo": "Tortoise beetles use pigmentation protein to shield bacteria that help digest plants",
+      "url": "https://phys.org/news/2026-10-tortoise-beetles-pigmentation-protein-shield.html",
+      "resumo": "More than 80 years ago, scientists discovered that differences in yellow pigmentation were critical to courtship success and failure for fruit flies. It was one of the first demonstrations linking genes to complex behavior, and ever since, the Yellow proteins that paint these shades in nature have been a fruitful source of scientific inquiry.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-07T15:40:08+00:00",
+      "coletado_em": "2026-10-07T16:29:41.154721+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/beetles-build-with-a-y.jpg",
+      "score": 5.457,
+      "cobertura": []
+    },
+    {
+      "id": "6527524fe302",
+      "titulo": "Gut bacteria reveal ancient ties to human migrations across continents, genetic analysis suggests",
+      "url": "https://phys.org/news/2026-10-gut-bacteria-reveal-ancient-human.html",
+      "resumo": "As waves of humans left Africa tens of thousands of years ago, eventually populating the entire planet, they were joined on their world-conquering ride by the trillions of microorganisms that compose the gut microbiome.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-07T15:01:10+00:00",
+      "coletado_em": "2026-10-07T16:29:41.154721+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2015/hadza.jpg",
+      "score": 5.387,
+      "cobertura": []
+    },
+    {
+      "id": "b81164d43034",
+      "titulo": "Genome accessibility reveals disease risk that gene expression misses",
+      "url": "https://www.nature.com/articles/d41586-026-03072-5",
+      "resumo": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03072-5 Most disease-associated genetic alterations do not affect the genes themselves, but instead change how strongly they are expressed, often by modifying genome accessibility. Gene expression and accessibility have now been analysed simultaneously in 10 million immune cells from 1,108 people, linking disease-associated changes in accessibility to gene expression.",
+      "fonte": "Nature",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-07T00:00:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.155543+00:00",
+      "imagem_feed": null,
+      "score": 5.271,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "42327a98fe3f",
+      "titulo": "Harmonic Drive to share how integrated actuators can reduce engineering at RoboBusiness",
+      "url": "https://www.therobotreport.com/harmonic-drive-share-how-integrated-actuators-reduce-engineering-robobusiness/",
+      "resumo": "Attendees will learn how integrated actuators can reduce engineering effort by simplifying system integration. The post Harmonic Drive to share how integrated actuators can reduce engineering at RoboBusiness appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-07T12:24:09+00:00",
+      "coletado_em": "2026-10-07T16:29:41.156573+00:00",
+      "imagem_feed": null,
+      "score": 4.979,
+      "cobertura": []
+    },
+    {
+      "id": "413bbac650f9",
+      "titulo": "'SANDO' system ensures a robot's flight path will remain collision-free in uncharted territory",
+      "url": "https://techxplore.com/news/2026-10-sando-robot-flight-path-collision.html",
+      "resumo": "Uncrewed aerial vehicles (UAVs) could fly deep into the heart of a raging wildfire, avoiding sudden flare-ups and dodging falling tree branches to gather critical information for rescuers. But in this dangerous situation, the UAV could easily be damaged or destroyed by falling debris.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-07T14:40:09+00:00",
+      "coletado_em": "2026-10-07T16:29:41.156735+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/planning-system-ensure.jpg",
+      "score": 4.85,
+      "cobertura": []
+    },
+    {
+      "id": "28e59be558ca",
+      "titulo": "Threadlike motor uses sliding fibers to drive flexible robotic devices without gears",
+      "url": "https://techxplore.com/news/2026-10-threadlike-motor-fibers-flexible-robotic.html",
+      "resumo": "In 2023, researchers in the Soft Transducers Laboratory in EPFL's School of Engineering presented the world's first pump in the form of a fiber. The pump's flexible tubing can generate its own fluid pressure and flow rate and be sewn into smart textiles to circulate fluids for thermoregulation and haptic feedback or to power wearable assistive devices.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-07T14:20:13+00:00",
+      "coletado_em": "2026-10-07T16:29:41.156735+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-design-a-m.jpg",
+      "score": 4.816,
+      "cobertura": []
+    },
+    {
+      "id": "0bc79e0e51a9",
+      "titulo": "Renault Niagara chega em novembro para desafiar Toro e Hilux; saiba mais",
+      "url": "https://canaltech.com.br/carros/renault-niagara-chega-em-novembro-para-desafiar-toro-e-hilux-saiba-mais/",
+      "resumo": "A Renault está pronta para agitar o mercado de picapes médias no Brasil com a Niagara . A caminhonete já começou a sair da linha de montagem na Argentina e tem chegada confirmada para o nosso mercado em novembro. A marca aposta em um design moderno e em um conjunto mecânico que promete agradar tanto quem busca desempenho quanto quem precisa de robustez no dia a dia. O lançamento é estratégico : a Niagara entra em um segmento competitivo, onde rivais como Fiat Toro e Toyota Hilux já estão consolidados. Para se destacar, a Renault investiu em tecnologia, eficiência e praticidade , trazendo uma proposta que combina força e conforto. O objetivo é conquistar consumidores que desejam uma picape versátil , capaz de atender diferentes perfis de uso. A fábrica de Santa Isabel, em Córdoba, foi totalmente modernizada para receber a produção da Niagara, que fez sua primeira aparição em 2024, como herdeira da Oroch . Mais de 60 novos robôs foram instalados e processos de qualidade foram aprimorados. Esse investimento mostra o quanto a marca está comprometida em entregar um produto confiável e competitivo para o mercado latino-americano. Motor 1.3 turbo flex é \"coração\" da Niagara O coração da N",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "astrofisica"
+      ],
+      "publicado": "2026-10-07T16:09:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.177497+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/GJR7Xk1zHkEPOg84dviyIhPXzWA=/0x0/filters:format(webp):quality(85)/06d37caa-c697-4766-9685-13cde866540d.jpeg",
+      "score": 4.561,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "c1004d4bf06a",
+      "titulo": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1099202/",
+      "resumo": "Security updates have been issued by AlmaLinux (bind, dovecot, freerdp, kernel, mariadb-connector-c, mod_auth_openidc, nodejs22, nodejs:22, sudo, and vim), Debian (node-shell-quote, puma, rails, ruby-jwt, and suricata-update), Fedora (chromium, cockpit, flocq, freerdp, gappalib-coq, golang-x-mod, httpd, janus, libical, musescore, python3-docs, python3.14, python3.15, rocq, rocq-stdlib, tesseract, why3, and zenon), Mageia (srt and tor), Oracle (freerdp, kernel, libpcap, mariadb-connector-c, nodejs22, sudo, and vim), Red Hat (expat and grafana), Slackware (openssh), SUSE (chromium, docker-stable, firefox, jupyter-jupyterlab, libtcnative-1-0, tomcat, tomcat10, libtcnative-1-0, tomcat11, openexr, python310, python313-azure-storage-queue, python313-langchain-anthropic, python313-sglang, python313-Werkzeug, and valkey), and Ubuntu (fluidsynth, freerdp3, freetype, golang-1.18, golang-1.21, golang-1.24, gst-plugins-good1.0, libsoup2.4, libsoup3, libwebsockets, linux, linux-aws, linux-gcp, linux-gke, linux-ibm, linux-oracle, linux-realtime, linux-azure, linux-azure-fde, linux-nvidia-tegra, linux-oem-7.0, redis, sg3-utils, tesseract, and u-boot).",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-07T13:08:53+00:00",
+      "coletado_em": "2026-10-07T16:29:41.157544+00:00",
+      "imagem_feed": null,
+      "score": 5.198,
+      "cobertura": []
+    },
+    {
+      "id": "94930e049f95",
+      "titulo": "The Async Multiprocessing Has Sound Foundations in Linux, But Further Testing Is Needed",
+      "url": "https://www.infoq.com/news/2026/10/linux-amp-analysis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "At Embedded Linux Conference Europe 2026, Wolfram Sang discussed the Linux building blocks for asymmetric multiprocessing (AMP). He highlighted the solid foundation but noted challenges like limited contributor coverage and fragmented testing. Sang's work on a hardware-spinlock driver revealed maintenance complexities and the need for more reviewers and testers to support evolving AMP systems. By Olimpiu Pop",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-07T16:16:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.156982+00:00",
+      "imagem_feed": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+      "score": 5.174,
+      "cobertura": []
+    },
+    {
+      "id": "d78e31136760",
+      "titulo": "OpenAI announces 722 mathematical discoveries in one go",
+      "url": "https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "AI has been growing ever more capable in mathematics and OpenAI has now released hundreds of papers at the same time – to the astonishment of mathematicians",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-07T10:29:19+00:00",
+      "coletado_em": "2026-10-07T16:29:41.198647+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315638405.jpg",
+      "score": 4.764,
+      "cobertura": []
+    },
+    {
+      "id": "00462ba5ad04",
+      "titulo": "A new Raspberry Pi Desktop release is finally available for x86-64",
+      "url": "https://lwn.net/Articles/1099206/",
+      "resumo": "Simon Long has announced a long-awaited release of Raspberry Pi OS, based on Debian 13 (\"trixie\") , for x86-64 systems. We managed to find the time to update the Desktop for the Buster and Bullseye releases of Debian, but then we all just got too busy with other things, and, while we left the Bullseye version on the website for anyone who wanted it, we simply didn't have time to release any newer versions. But people kept on asking for it – we get two or three emails every week asking when the PC Desktop will be updated, and we haven't had an answer, because we honestly didn't know when we might get a chance to do it. We've continually tried to allocate time to be able to work on this, but it hasn't been easy. [...] Earlier this year, we (or rather Serge) finally got the latest version of the Desktop running on top of a Debian Trixie image. It's now based on 64-bit Debian (the amd64 architecture) rather than the older 32-bit version, as Debian itself has stopped supporting 32-bit for PC architectures. This shouldn't be a major problem – most PCs made in the last 15 years or so will quite happily run the 64-bit version of Debian, as will most Intel-based Macs. (Debian support for Ap",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-07T13:26:25+00:00",
+      "coletado_em": "2026-10-07T16:29:41.157544+00:00",
+      "imagem_feed": null,
+      "score": 4.727,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "2524b98e3404",
+      "titulo": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+      "url": "https://spectrum.ieee.org/anderon-quantum-fab",
+      "resumo": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award with $1 billion in cash and contributing intellectual property, assets, and skilled workers. Headquartered in Albany, N.Y., Anderon builds on an existing operation at Albany NanoTech, where IBM has made quantum wafers for more than five years, says CEO Mukesh Khare . That existing infrastructure has helped Anderon get started: Its first wafers are already moving through a production-scale, 300-millimeter line. Quantum computing “is moving from science to real commercial impact now,” Khare says. “That means the industry also needs a more stable manufacturing source for building quantum chips.” If Anderon is successful, it could do for quantum hardware what TSMC did for conventional chips: let companies focus on designing chips without each one having to build a multibillion-dollar factory for the underlying hardware. What an Automated Quantum Fab Can Offer IBM says shifting much of its qua",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "hardware",
+        "quantica"
+      ],
+      "publicado": "2026-10-07T13:09:13+00:00",
+      "coletado_em": "2026-10-07T16:29:41.157930+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/several-people-dressed-in-clean-suits-while-working-in-a-semiconductor-manufacturing-lab.jpg?id=68054174&width=980",
+      "score": 6.299,
+      "cobertura": []
+    },
+    {
+      "id": "8e8a8419de44",
+      "titulo": "Why I upgraded to a 4K OLED PC gaming monitor",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/why-i-upgraded-to-a-4k-oled-pc-gaming-monitor-and-why-you-should-or-shouldnt",
+      "resumo": "4K 240Hz OLED monitors now cost under $700. I upgraded from a 1440p IPS and can't go back. Here's why I switched, who should upgrade, and who should wait.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-07T14:38:31+00:00",
+      "coletado_em": "2026-10-07T16:29:41.158253+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/9DmrWojppqAQd4J7Q64uch-1920-80.jpg",
+      "score": 5.497,
+      "cobertura": [
+        "https://www.pcworld.com/article/2833659/best-monitor-deals-amazon-prime-day.html"
+      ]
+    },
+    {
+      "id": "4d01072eb305",
+      "titulo": "Samsung lança tablets S12 no Brasil; preços sobem até R$ 2 mil",
+      "url": "https://tecnoblog.net/noticias/samsung-lanca-tablets-s12-no-brasil-precos-sobem-ate-r-2-mil/",
+      "resumo": "Galaxy Tab S12 Ultra e S12 Plus trazem chip Dimensity 9500, Android 17 e tela em AMOLED Dinâmico 2X. Samsung lança tablets S12 no Brasil; preços sobem até R$ 2 mil",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "astrofisica"
+      ],
+      "publicado": "2026-10-07T14:07:28+00:00",
+      "coletado_em": "2026-10-07T16:29:41.173865+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/LssCIhKO9Xg",
+      "score": 5.494,
+      "cobertura": [
+        "https://canaltech.com.br/tablet/samsung-lanca-nova-geracao-de-tablets-top-de-linha-com-galaxy-tab-s12-ultra/"
+      ]
+    },
+    {
+      "id": "507ed3fcccb6",
+      "titulo": "New Linux tech compresses memory in RAM, as RAM, for 452x speedup",
+      "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
+      "resumo": "The new method allows access using standard memory semantics instead of as a block device, drastically improving performance.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-07T16:20:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.158253+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/gfoMfGRQze7gtw7Ddg8FZM-1920-80.jpg",
+      "score": 5.181,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "9023d7b9f473",
+      "titulo": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+      "resumo": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-06T13:00:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.158932+00:00",
+      "imagem_feed": null,
+      "score": 7.409,
+      "cobertura": [
+        "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
+        "https://phys.org/news/2026-10-webb-captures-commotion-nebula-stellar.html"
+      ]
+    },
+    {
+      "id": "a5fc6efa194c",
+      "titulo": "Webb captures commotion from nebula's stellar jets",
+      "url": "https://phys.org/news/2026-10-webb-captures-commotion-nebula-stellar.html",
+      "resumo": "The NASA/ESA/CSA James Webb Space Telescope has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129—a cauldron of cosmic creation, 3,300 light-years from Earth. Webb captured infrared light, which pierces through the dense matter that scatters or absorbs other types of light. This region, rife with stellar objects in different stages of their lives, offers an opportunity to explore how stars shape their surroundings.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-06T17:40:01+00:00",
+      "coletado_em": "2026-10-07T16:29:41.159501+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/webb-captures-commotio.jpg",
+      "score": 7.085,
+      "cobertura": [
+        "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+        "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets"
+      ]
+    },
+    {
+      "id": "98e882af6339",
+      "titulo": "Webb captures commotion from nebula’s stellar jets",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
+      "resumo": "Image: Webb captures commotion from nebula’s stellar jets",
+      "fonte": "ESA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-06T13:00:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.159319+00:00",
+      "imagem_feed": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg",
+      "score": 6.709,
+      "cobertura": [
+        "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+        "https://phys.org/news/2026-10-webb-captures-commotion-nebula-stellar.html"
+      ]
+    },
+    {
+      "id": "12d568f68ffd",
+      "titulo": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+      "resumo": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-07T13:09:15+00:00",
+      "coletado_em": "2026-10-07T16:29:41.159751+00:00",
+      "imagem_feed": null,
+      "score": 5.549,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "03ae3c0e231a",
+      "titulo": "Quanfluence Raises $10 Million to Build Photonic Quantum Computer",
+      "url": "https://thequantuminsider.com/2026/10/07/quanfluence-10-million-photonic-quantum-computer/",
+      "resumo": "Insider Brief PRESS RELEASE — Quanfluence, a Bengaluru-based deep technology company building photonic quantum computers, has raised USD 10 million in a funding round led by Chiratae Ventures. Pi Ventures, which led Quanfluence’s seed round in 2024, returned as co-investor. Rainmatter by Zerodha also invested in this round. The capital will be deployed to build […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-07T12:41:29+00:00",
+      "coletado_em": "2026-10-07T16:29:41.160014+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-07_17-40.png",
+      "score": 5.306,
+      "cobertura": []
+    },
+    {
+      "id": "2524b98e3404",
+      "titulo": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+      "url": "https://spectrum.ieee.org/anderon-quantum-fab",
+      "resumo": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award with $1 billion in cash and contributing intellectual property, assets, and skilled workers. Headquartered in Albany, N.Y., Anderon builds on an existing operation at Albany NanoTech, where IBM has made quantum wafers for more than five years, says CEO Mukesh Khare . That existing infrastructure has helped Anderon get started: Its first wafers are already moving through a production-scale, 300-millimeter line. Quantum computing “is moving from science to real commercial impact now,” Khare says. “That means the industry also needs a more stable manufacturing source for building quantum chips.” If Anderon is successful, it could do for quantum hardware what TSMC did for conventional chips: let companies focus on designing chips without each one having to build a multibillion-dollar factory for the underlying hardware. What an Automated Quantum Fab Can Offer IBM says shifting much of its qua",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "hardware",
+        "quantica"
+      ],
+      "publicado": "2026-10-07T13:09:13+00:00",
+      "coletado_em": "2026-10-07T16:29:41.157930+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/several-people-dressed-in-clean-suits-while-working-in-a-semiconductor-manufacturing-lab.jpg?id=68054174&width=980",
+      "score": 5.299,
+      "cobertura": []
+    },
+    {
+      "id": "5accca56c6dd",
+      "titulo": "KQC Quantum and Charlton Aria Agree on Nasdaq Business Combination",
+      "url": "https://thequantuminsider.com/2026/10/07/kqc-quantum-nasdaq-charlton-aria-merger/",
+      "resumo": "Insider Brief PRESS RELEASE — KQC Quantum, Inc. (“KQC Parent”), the Delaware parent company of Korea Quantum Computing Co., Ltd. (“KQC” or the “Company”), which helps enterprises adopt quantum computing and quantum-safe security, and Charlton Aria Acquisition Corporation (Nasdaq: CHAR) (“Charlton Aria”), a publicly traded special purpose acquisition company, today announced that they have entered […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-07T16:22:35+00:00",
+      "coletado_em": "2026-10-07T16:29:41.160014+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-07_21-19.png",
+      "score": 5.186,
+      "cobertura": []
+    },
+    {
+      "id": "6f52a80c8ff6",
+      "titulo": "Haiqu Releases AgenticOS to Plan and Check Quantum Research",
+      "url": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
+      "resumo": "Insider Brief PRESS RELEASE — Existing AI models have advanced to the point that they can contribute to real science, but they have their limits. An AI agent can produce convincing math and working code, but it might alter the underlying science while doing so, leaving researchers with results that look right but aren’t. Today, Haiqu is […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-07T15:42:10+00:00",
+      "coletado_em": "2026-10-07T16:29:41.160014+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg",
+      "score": 5.111,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "8e8a8419de44",
+      "titulo": "Why I upgraded to a 4K OLED PC gaming monitor",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/why-i-upgraded-to-a-4k-oled-pc-gaming-monitor-and-why-you-should-or-shouldnt",
+      "resumo": "4K 240Hz OLED monitors now cost under $700. I upgraded from a 1440p IPS and can't go back. Here's why I switched, who should upgrade, and who should wait.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-07T14:38:31+00:00",
+      "coletado_em": "2026-10-07T16:29:41.158253+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/9DmrWojppqAQd4J7Q64uch-1920-80.jpg",
+      "score": 5.997,
+      "cobertura": [
+        "https://www.pcworld.com/article/2833659/best-monitor-deals-amazon-prime-day.html"
+      ]
+    },
+    {
+      "id": "bdfd3ab1643c",
+      "titulo": "Windows and Surface event: how to watch and what to expect",
+      "url": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
+      "resumo": "Microsoft is heading to San Francisco this morning to reveal what's coming next for Windows and Surface and a \"conversation on how local AI will shape the next chapter of the PC.\" That conversation will include Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan Davuluri. I'm expecting to hear […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-07T13:12:56+00:00",
+      "coletado_em": "2026-10-07T16:29:41.167203+00:00",
+      "imagem_feed": null,
+      "score": 5.905,
+      "cobertura": [
+        "https://www.techspot.com/news/114124-microsoft-windows-surface-event-starts-10-pt-1.html"
+      ]
+    },
+    {
+      "id": "3038c28c5dfb",
+      "titulo": "Microsoft's Windows and Surface event starts at 1 pm ET, watch it live for more on RTX Spark",
+      "url": "https://www.techspot.com/news/114124-microsoft-windows-surface-event-starts-10-pt-1.html",
+      "resumo": "Microsoft CEO Satya Nadella, Windows and Devices boss Pavan Davuluri, and Nvidia CEO Jensen Huang will all be attending the event. Microsoft's latest teaser includes images of the Surface Laptop Ultra, and the Surface RTX Spark Dev Box could also make an appearance. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-07T10:15:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.166168+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-07-ts3_thumbs-d3d.jpg",
+      "score": 5.794,
+      "cobertura": [
+        "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch"
+      ]
+    },
+    {
+      "id": "acbaa26e7fc6",
+      "titulo": "Best USB-C hubs and dongles: Add ports to your laptop or tablet",
+      "url": "https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html",
+      "resumo": "The best USB-C hubs add ports to your PC, providing connections to legacy peripherals like mice, keyboards, printers, or more. If you follow my advice, you shouldn’t pay that much for a hub, either. Most users will probably be happy with any of my standard hub recommendations. But if you want to go further, I have additional options for more specialized purposes. Those include USB-C docking stations that sit on your desk, plus some higher-end alternatives: DisplayLink docks , as well as the best Thunderbolt docks . They cost more, but provide more functionality. (A FAQ at the end of this roundup can help you decide.) I keep at least one of these lightweight little USB-C hubs in my backpack at all times. You should too! Why you should trust PCWorld for USB-C hub reviews and buying advice: PCWorld has been supplying news, reviews, and recommendations for the best computing products since our first magazines hit newsstand shelves in 1983. We maintain a rigorous testing process, and our reviews are not influenced by advertisers or other considerations. Most of these products were purchased directly by PCWorld reviewers, but in certain cases review units have been provided by the manufa",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-07T16:00:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.161234+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/402858-0-03897400-1791388836-testung-usb-c-hubs-primary-edit.png",
+      "score": 5.644,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "e3c4600c5330",
+      "titulo": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+      "resumo": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid robot learning, a central problem in embodied AI and Physical AI, needs data that internet video and existing motion capture datasets cannot provide. How FrameNet , a linguistic framework for human action, can guide motion capture collection to systematically cover a broad range of whole-body motion. Why synchronized object trajectories and meshes make human-object interaction data useful for teaching robots real-world tasks such as carrying, pushing, and pulling. How reinforcement learning policies trained on this motion capture data improve with scale, and how sim-to-real transfer carries them onto a physical humanoid robot. Download this free whitepaper now!",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-07T13:49:48+00:00",
+      "coletado_em": "2026-10-07T16:29:41.167650+00:00",
+      "imagem_feed": "https://assets.rbl.ms/68382308/origin.png",
+      "score": 5.365,
+      "cobertura": []
+    },
+    {
+      "id": "8933958a4a1a",
+      "titulo": "Samsung lança nova geração de tablets top de linha com Galaxy Tab S12 Ultra",
+      "url": "https://canaltech.com.br/tablet/samsung-lanca-nova-geracao-de-tablets-top-de-linha-com-galaxy-tab-s12-ultra/",
+      "resumo": "A Samsung, apresentou nesta quarta-feira (7) os novos Galaxy Tab S12 Ultra e Galaxy Tab S12+ , que formam a nova geração de tablets top de linha da marca. A dupla combina telas grandes, bateria de longa duração e recursos de inteligência artificial (IA) integrados ao ecossistema Galaxy. Os dois modelos são equipados com o MediaTek Dimensity 9500 , fabricado em processo de 3 nm, e contam com 12 GB de RAM e 512 GB de armazenamento , além de suporte para cartões microSD de até 2 TB. Em comparação com o Galaxy Tab S11 Ultra, a Samsung promete ganhos de até 61% em NPU, 19% em CPU e 17% em GPU . 📱 Encontre as melhores promoções de tablets no WhatsApp do CT Ofertas Na parte visual, os aparelhos apostam em painéis Dynamic AMOLED 2X de 120 Hz , com brilho de pico de até 1.600 nits. Ambos contam ainda com Vision Booster para ajustar o brilho de acordo com as condições de iluminação. Os lançamentos incluem ainda S Pen, além de serem equipados com Android 17, One UI 9 e Galaxy AI. A ideia é que os usuários tenham acesso facilitado a recursos voltados para anotações, pesquisa, criação de conteúdo e multitarefa. Tab S12 Ultra combina tela gigante e alta performance O Galaxy Tab S12 Ultra concent",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-07T14:54:30+00:00",
+      "coletado_em": "2026-10-07T16:29:41.177497+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/ODIESGP0koCDS43dCXNzjzQvVRc=/0x0/filters:format(webp):quality(85)/4022d883-f86b-4bf1-af23-bc451798f8d5.jpg",
+      "score": 4.925,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/samsung-lanca-tablets-s12-no-brasil-precos-sobem-ate-r-2-mil/",
+        "https://www.pcworld.com/article/3254908/samsungs-ultra-light-galaxy-book6-is-250-off-for-prime-day.html"
+      ]
+    },
+    {
+      "id": "941c6d59eb57",
+      "titulo": "Concorrente do Office e do Google, LibreOffice diz que não ter IA é vantagem",
+      "url": "https://canaltech.com.br/internet-e-redes-sociais/concorrente-do-office-e-do-google-libreoffice-diz-que-nao-ter-ia-e-vantagem/",
+      "resumo": "O LibreOffice decidiu transformar uma ausência comum em outros tempos em argumento de venda em plena corrida da inteligência artificial. A suíte gratuita e de código aberto afirma que não oferecer IA generativa por padrão é uma vantagem , principalmente para usuários e organizações preocupados com privacidade e controle sobre documentos. A posição foi detalhada pela The Document Foundation , entidade responsável pelo projeto, e repercutida pela TechCrunch nesta terça-feira (6). A decisão coloca o LibreOffice em uma direção diferente da adotada por Microsoft e Google. Enquanto Copilot e Gemini ganham cada vez mais espaço dentro de Word, Excel, Google Docs e outros aplicativos de produtividade, o projeto afirma que não pretende adicionar uma IA integrada ao pacote no futuro próximo. Isso não significa que a ferramenta descarte a tecnologia. A fundação diz que pode reconsiderar a decisão caso encontre uma implementação que cumpra os requisitos definidos pelo projeto. Por que o LibreOffice não quer IA integrada? A principal preocupação está no destino dos dados usados pelos modelos. Segundo a The Document Foundation, documentos podem conter prontuários médicos, processos jurídicos, inf",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "biologia",
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-06T23:01:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.177497+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/YJRhvfpTMAZkyRyPf1D--jZj0TE=/0x0/filters:format(webp):quality(85)/b295fe43-9262-4698-ab9f-3b9dd32955b8.png",
+      "score": 4.829,
+      "cobertura": []
+    },
+    {
+      "id": "d78e31136760",
+      "titulo": "OpenAI announces 722 mathematical discoveries in one go",
+      "url": "https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "AI has been growing ever more capable in mathematics and OpenAI has now released hundreds of papers at the same time – to the astonishment of mathematicians",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-07T10:29:19+00:00",
+      "coletado_em": "2026-10-07T16:29:41.198647+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315638405.jpg",
+      "score": 4.764,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "cc4fdbf1eb49",
+      "titulo": "Researchers set large-scale perovskite photovoltaic efficiency world record",
+      "url": "https://techxplore.com/news/2026-10-large-scale-perovskite-photovoltaic-efficiency.html",
+      "resumo": "UNSW researchers have teamed up with industry partner UtmoLight to achieve a world-record efficiency for a large-area perovskite solar submodule. The UNSW team, led by Xiaojing Hao, a Scientia professor, achieved a certified stabilized power conversion efficiency of 23.5%, beating the previous benchmark by 0.6 percentage points.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-07T11:20:01+00:00",
+      "coletado_em": "2026-10-07T16:29:41.168853+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/unsw-leverages-industr.jpg",
+      "score": 5.034,
+      "cobertura": []
+    },
+    {
+      "id": "db137c7c9018",
+      "titulo": "New photocatalysts boost solar hydrogen production through improved metal dispersion",
+      "url": "https://techxplore.com/news/2026-10-photocatalysts-boost-solar-hydrogen-production.html",
+      "resumo": "A laboratory study has improved the production of green hydrogen using solar energy, thanks to photocatalysts that incorporate metals subjected to various treatments designed to enhance dispersion and photocatalytic activity.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-06T19:20:07+00:00",
+      "coletado_em": "2026-10-07T16:29:41.168853+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/uco-team-seeks-a-green.jpg",
+      "score": 4.639,
+      "cobertura": []
+    },
+    {
+      "id": "ac9f1787b51f",
+      "titulo": "Modified cellulose removes over 99% of lead from methanol-based solar cell recycling waste",
+      "url": "https://techxplore.com/news/2026-10-cellulose-methanol-based-solar-cell.html",
+      "resumo": "Conventional metal recovery technologies do not adequately recover critical metals from effluents containing hydrophilic organic solvents. Researchers investigated dithiocarbamate-functionalized cellulose DPE6 to assess how organic solvents affect its metal sorption capability and to develop a separation and recovery technology applicable to actual effluents. The results show highly efficient critical metal recovery and are expected to contribute to the effective use of finite metal resources and the realization of a sustainable society. The research is published in the journal ACS Applied Materials & Interfaces.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-06T18:40:11+00:00",
+      "coletado_em": "2026-10-07T16:29:41.168853+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/modified-cellulose-rem.jpg",
+      "score": 4.617,
+      "cobertura": []
+    },
+    {
+      "id": "26bc3795066e",
+      "titulo": "Physicists just found the ‘ghost’ of superconductivity",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
+      "resumo": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly, these patterns appear to survive after ordinary superconductivity disappears, suggesting that the electron pairs responsible for superconductivity may begin forming before the material actually becomes superconducting.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-07T12:34:39+00:00",
+      "coletado_em": "2026-10-07T16:29:41.168616+00:00",
+      "imagem_feed": null,
+      "score": 4.495,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "3b9809f2bbfa",
+      "titulo": "AIDA64 confirma novos processadores Intel Core Ultra 4000; veja o que esperar",
+      "url": "https://canaltech.com.br/hardware/aida64-confirma-novos-processadores-intel-core-ultra-4000-veja-o-que-esperar/",
+      "resumo": "Com o fim do ano chegando, cresce a expectativa pela chegada da nova geração de processadores ao mercado. Enquanto não temos nada oficial de nenhum dos lados, vazamentos continuam mostrando que a Intel realmente está mudando a nomenclatura (de novo) de suas CPUs . Quem diz isso agora é o AIDA64 em sua nova atualização, confirmando os Core Ultra 4000 . Quando os processadores Core Ultra chegaram há quase três anos, foi estabelecida a primeira geração dessa nova fase como Core Ultra 100 , mas somente para notebooks. Depois, os Core Ultra 200 chegaram para PC de mesa, sendo essa a estreia dessa nova geração nos desktops. Já os Core Ultra 300 (atual geração) são exclusivos de notebooks. No patch de atualização do AIDA64, vemos a menção \"Intel Core Ultra 5/7/9 4xxx Series\" . Quando todos pensavam que a Intel continuaria o esquema dessa nova nomenclatura, veio a surpresa da mudança. Em vez de seguir com três dígitos como vinha fazendo, ela volta aos quatro dígitos. Essa, no entanto, não é a primeira nem a última vez que vazamentos indicam essa mudança. Linha mobile HX também usará a nova nomenclatura Ao que tudo indica, além do segmento de desktop, o s SKUs Nova Lake mobile também usarão",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-07T15:14:00+00:00",
+      "coletado_em": "2026-10-07T16:29:41.177497+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qORqHpNqADsM6YEqHiFe99N1WE0=/0x0/filters:format(webp):quality(85)/0557aa90-d8be-480a-bc51-5e7a8f6d6b01.jpg",
+      "score": 4.459,
+      "cobertura": []
+    },
+    {
+      "id": "4d0ab1e7dd59",
+      "titulo": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "resumo": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-07T13:48:45+00:00",
+      "coletado_em": "2026-10-07T16:29:41.169140+00:00",
+      "imagem_feed": null,
+      "score": 4.263,
+      "cobertura": []
+    },
+    {
+      "id": "d66d9be23ec1",
+      "titulo": "GTA 6 vai forçar donos de PS5 desbloqueado a atualizar firmware",
+      "url": "https://canaltech.com.br/games/gta-6-vai-forcar-donos-de-ps5-desbloqueado-a-atualizar-firmware/",
+      "resumo": "Um vazamento aponta que GTA 6 rodará no PS5 apenas a partir da atualização 14.10.00.00 ou mais atuais , com o material presente no banco de dados da PlayStation Store . O usuário que recorre ao desbloqueio Relapse (disponível na versão 13.60) não poderá jogar sem comprometer o uso de firmwares alternativos. O relatório foi descoberto pelo PlayStation Game Size, o que já deixou muitos jogadores irritados. Na prática, se o título fosse liberado hoje, quem não tem a versão recente do sistema operacional não conseguiria iniciar sua aventura pela região de Leonida. No que isso implica? Simples, quem desbloqueou o PS5 ou o PS5 Pro e roda o homebrew e os diversos emuladores acessíveis, terá de fazer o update e “perder” tudo isso para jogar o próximo lançamento da Rockstar Games . A partir daí, cada usuário terá de definir a sua prioridade para a utilização do console de mesa da Sony. Não há qualquer previsão para o sistema alternativo funcionar na atualização 14.10 ou versões mais recentes, logo o público que realizar o procedimento ficará apenas com o software oficial — que roda os títulos em disco (por enquanto) e os disponíveis na PS Store. Porém, ainda há tempo. O conteúdo do update a",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-06T20:01:29+00:00",
+      "coletado_em": "2026-10-07T16:29:41.177497+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/_BONac5J-BLPAfgX_pdVtTZwZks=/0x0/filters:format(webp):quality(85)/8d7e1512-7200-45ca-a326-86ac607437b2.jpg",
+      "score": 3.213,
+      "cobertura": []
+    },
+    {
+      "id": "2feff9fc17b6",
+      "titulo": "Xiaomi “caro demais”? Vazamento sugere que o 18 Ultra foi cancelado",
+      "url": "https://tecnoblog.net/noticias/vazamento-sugere-que-xiaomi-18-ultra-foi-cancelado-por-ser-caro-demais/",
+      "resumo": "Smartphone poderia chegar às prateleiras custando o equivalente a R$ 2.230 a mais. Xiaomi “caro demais”? Vazamento sugere que o 18 Ultra foi cancelado",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-06T14:41:50+00:00",
+      "coletado_em": "2026-10-07T16:29:41.173865+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/xiaomi-17-ultra-1.jpg",
+      "score": 3.201,
+      "cobertura": []
+    }
+  ]
+}
