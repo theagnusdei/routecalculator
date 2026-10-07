@@ -1,0 +1,138 @@
+# Fontes gratuitas (RSS/Atom públicos) por editoria.
+# peso: autoridade da fonte de 0.0 a 1.0 (fontes oficiais/científicas > portais > agregadores).
+# Feeds quebrados não derrubam a execução: são apenas registrados no log.
+# Rode `python -m scitekvision verificar-feeds` para testar todos.
+
+categorias:
+  medicina:
+    nome: Medicina
+    palavras_chave: [medicine, medical, clinical, trial, patient, disease, cancer, vaccine, therapy, drug, FDA, health,
+                     medicina, médico, paciente, doença, câncer, vacina, terapia, saúde, tratamento]
+    feeds:
+      - {url: "https://www.nih.gov/news-releases/feed.xml", fonte: NIH, peso: 1.0}
+      - {url: "https://www.who.int/rss-feeds/news-english.xml", fonte: OMS/WHO, peso: 0.95}
+      - {url: "https://www.sciencedaily.com/rss/health_medicine.xml", fonte: ScienceDaily, peso: 0.8}
+      - {url: "https://medicalxpress.com/rss-feed/", fonte: Medical Xpress, peso: 0.75}
+      - {url: "https://www.statnews.com/feed/", fonte: STAT News, peso: 0.85}
+      - {url: "https://agencia.fiocruz.br/rss.xml", fonte: Agência Fiocruz, peso: 0.9}
+
+  biologia:
+    nome: Biologia
+    palavras_chave: [biology, gene, genome, cell, protein, species, evolution, CRISPR, microbiome, ecology, DNA, RNA,
+                     biologia, genética, célula, proteína, espécie, evolução, genoma]
+    feeds:
+      - {url: "https://phys.org/rss-feed/biology-news/", fonte: Phys.org, peso: 0.75}
+      - {url: "https://www.sciencedaily.com/rss/plants_animals.xml", fonte: ScienceDaily, peso: 0.8}
+      - {url: "https://www.quantamagazine.org/biology/feed/", fonte: Quanta Magazine, peso: 0.9}
+      - {url: "https://www.nature.com/nature.rss", fonte: Nature, peso: 1.0}
+      - {url: "https://revistapesquisa.fapesp.br/feed/", fonte: Revista Pesquisa FAPESP, peso: 0.9}
+
+  robotica:
+    nome: Robótica
+    palavras_chave: [robot, robotics, humanoid, drone, autonomous, actuator, manipulator, exoskeleton,
+                     robô, robótica, humanoide, autônomo]
+    feeds:
+      - {url: "https://spectrum.ieee.org/feeds/topic/robotics.rss", fonte: IEEE Spectrum, peso: 0.95}
+      - {url: "https://www.therobotreport.com/feed/", fonte: The Robot Report, peso: 0.8}
+      - {url: "https://techxplore.com/rss-feed/robotics-news/", fonte: Tech Xplore, peso: 0.75}
+      - {url: "https://news.mit.edu/rss/topic/robotics", fonte: MIT News, peso: 1.0}
+
+  software:
+    nome: Software
+    palavras_chave: [software, open source, programming, developer, Linux, Windows, release, framework, cloud, security,
+                     vulnerability, app, código aberto, programação, desenvolvedor, atualização]
+    feeds:
+      - {url: "https://github.blog/feed/", fonte: GitHub Blog, peso: 0.85}
+      - {url: "https://www.infoq.com/feed/", fonte: InfoQ, peso: 0.8}
+      - {url: "https://feeds.arstechnica.com/arstechnica/technology-lab", fonte: Ars Technica, peso: 0.85}
+      - {url: "https://www.theregister.com/software/headlines.atom", fonte: The Register, peso: 0.75}
+      - {url: "https://lwn.net/headlines/newrss", fonte: LWN.net, peso: 0.85}
+
+  hardware:
+    nome: Hardware
+    palavras_chave: [chip, semiconductor, processor, CPU, GPU, TSMC, Intel, AMD, Nvidia, memory, DRAM, transistor, nanometer,
+                     semicondutor, processador, memória]
+    feeds:
+      - {url: "https://spectrum.ieee.org/feeds/topic/semiconductors.rss", fonte: IEEE Spectrum, peso: 0.95}
+      - {url: "https://www.tomshardware.com/feeds/all", fonte: "Tom's Hardware", peso: 0.8}
+      - {url: "https://techxplore.com/rss-feed/hardware-news/", fonte: Tech Xplore, peso: 0.75}
+      - {url: "https://www.theregister.com/data_centre/headlines.atom", fonte: The Register, peso: 0.75}
+
+  astrofisica:
+    nome: Astrofísica
+    palavras_chave: [galaxy, star, black hole, exoplanet, telescope, JWST, Webb, cosmology, supernova, dark matter, nebula,
+                     galáxia, estrela, buraco negro, exoplaneta, telescópio, cosmologia, matéria escura]
+    feeds:
+      - {url: "https://www.nasa.gov/news-release/feed/", fonte: NASA, peso: 1.0}
+      - {url: "https://www.esa.int/rssfeed/Our_Activities/Space_Science", fonte: ESA, peso: 1.0}
+      - {url: "https://www.eso.org/public/news/feed/", fonte: ESO, peso: 1.0}
+      - {url: "https://phys.org/rss-feed/space-news/astronomy/", fonte: Phys.org, peso: 0.75}
+      - {url: "https://www.sciencedaily.com/rss/space_time.xml", fonte: ScienceDaily, peso: 0.8}
+      - {url: "https://www.space.com/feeds/all", fonte: Space.com, peso: 0.7}
+
+  quantica:
+    nome: Engenharia e Computação Quântica
+    palavras_chave: [quantum, qubit, entanglement, superconducting, error correction, quantum computer,
+                     quântico, quântica, qubits, emaranhamento]
+    feeds:
+      - {url: "https://thequantuminsider.com/feed/", fonte: The Quantum Insider, peso: 0.8}
+      - {url: "https://phys.org/rss-feed/physics-news/quantum-physics/", fonte: Phys.org, peso: 0.75}
+      - {url: "https://www.sciencedaily.com/rss/computers_math/quantum_computers.xml", fonte: ScienceDaily, peso: 0.8}
+      - {url: "https://news.mit.edu/rss/topic/quantum-computing", fonte: MIT News, peso: 1.0}
+      - {url: "https://spectrum.ieee.org/feeds/topic/computing.rss", fonte: IEEE Spectrum, peso: 0.9}
+
+  computadores_pessoais:
+    nome: Computadores Pessoais
+    palavras_chave: [laptop, notebook, desktop, PC, Windows, macOS, MacBook, Chromebook, Copilot+, Snapdragon, motherboard, SSD,
+                     computador, notebook, placa-mãe]
+    feeds:
+      - {url: "https://www.pcworld.com/feed", fonte: PCWorld, peso: 0.8}
+      - {url: "https://www.techspot.com/backend.xml", fonte: TechSpot, peso: 0.7}
+      - {url: "https://www.tomshardware.com/feeds/all", fonte: "Tom's Hardware", peso: 0.8}
+      - {url: "https://www.theverge.com/rss/index.xml", fonte: The Verge, peso: 0.75}
+
+  inteligencia_artificial:
+    nome: Inteligência Artificial
+    palavras_chave: [AI, artificial intelligence, machine learning, LLM, neural network, model, Claude, Gemini, GPT, agent,
+                     inteligência artificial, aprendizado de máquina, IA]
+    feeds:
+      - {url: "https://news.mit.edu/rss/topic/artificial-intelligence2", fonte: MIT News, peso: 1.0}
+      - {url: "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss", fonte: IEEE Spectrum, peso: 0.95}
+      - {url: "https://blog.google/technology/ai/rss/", fonte: Google Blog, peso: 0.85}
+      - {url: "https://openai.com/news/rss.xml", fonte: OpenAI, peso: 0.85}
+      - {url: "https://techcrunch.com/category/artificial-intelligence/feed/", fonte: TechCrunch, peso: 0.75}
+      - {url: "https://huggingface.co/blog/feed.xml", fonte: Hugging Face, peso: 0.8}
+
+  # --- Editorias correlatas (opcionais: entram se houver material relevante) ---
+  energia_materiais:
+    nome: Energia e Novos Materiais
+    opcional: true
+    palavras_chave: [battery, solar, fusion, graphene, superconductor, material, hydrogen,
+                     bateria, solar, fusão, grafeno, supercondutor, hidrogênio]
+    feeds:
+      - {url: "https://www.sciencedaily.com/rss/matter_energy.xml", fonte: ScienceDaily, peso: 0.8}
+      - {url: "https://phys.org/rss-feed/technology-news/energy-green-tech/", fonte: Phys.org, peso: 0.75}
+
+  ciberseguranca:
+    nome: Cibersegurança
+    opcional: true
+    palavras_chave: [ransomware, breach, vulnerability, CVE, malware, zero-day, phishing, vazamento, ataque hacker]
+    feeds:
+      - {url: "https://www.cisa.gov/news.xml", fonte: CISA, peso: 1.0}
+      - {url: "https://krebsonsecurity.com/feed/", fonte: Krebs on Security, peso: 0.85}
+
+# Portais gerais: cada item é classificado por palavras-chave em uma ou mais editorias.
+portais_gerais:
+  - {url: "https://agencia.fapesp.br/rss/", fonte: Agência FAPESP, peso: 0.9}
+  - {url: "https://jornal.usp.br/feed/", fonte: Jornal da USP, peso: 0.85}
+  - {url: "https://www.gov.br/mcti/pt-br/RSS", fonte: MCTI, peso: 0.85}
+  - {url: "https://olhardigital.com.br/feed/", fonte: Olhar Digital, peso: 0.65}
+  - {url: "https://tecnoblog.net/feed/", fonte: Tecnoblog, peso: 0.65}
+  - {url: "https://canaltech.com.br/rss/", fonte: Canaltech, peso: 0.6}
+  - {url: "https://www.newscientist.com/feed/home/", fonte: New Scientist, peso: 0.85}
+  - {url: "https://www.sciencenews.org/feed", fonte: Science News, peso: 0.9}
+  - {url: "https://arstechnica.com/science/feed/", fonte: Ars Technica, peso: 0.85}
+
+# Termos que derrubam a relevância (promoções, listas de compras etc.)
+termos_penalizados: [deal, deals, discount, "% off", sale, coupon, "best buy", "black friday", promoção, cupom, desconto, oferta,
+                     sponsored, patrocinado, podcast, webinar]

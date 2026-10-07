@@ -1,0 +1,51 @@
+# Configuração geral do agente SciTekVision
+fuso_horario: America/Sao_Paulo
+
+prazos:
+  # Depois deste horário nenhum artigo novo é redigido (os pendentes são sinalizados).
+  redacao: "10:00"
+  # Horário-limite de entrega dos .docx no repositório (usado nos avisos e no PR).
+  entrega: "10:30"
+
+coleta:
+  # Janela de notícias consideradas (horas antes do momento da coleta).
+  janela_horas: 36
+  timeout_segundos: 20
+  max_itens_por_feed: 40
+  user_agent: "SciTekVisionBot/1.0 (+https://github.com/; agente editorial sem fins de scraping massivo)"
+
+selecao:
+  artigos_por_categoria: 1     # mínimo exigido; aumente se quiser mais
+  reservas_por_categoria: 3    # candidatos de reserva caso o principal falhe na extração
+  meia_vida_recencia_horas: 12
+  min_caracteres_texto: 900    # texto extraído menor que isso => tenta a reserva
+
+redacao:
+  # Ordem de tentativa. Todos têm opção sem custo extra:
+  #  - claude-cli : Claude Code em modo headless (usa sua assinatura Claude Pro/Max via CLAUDE_CODE_OAUTH_TOKEN)
+  #  - gemini     : Google AI Studio, nível gratuito (GEMINI_API_KEY)
+  #  - anthropic  : API paga da Anthropic (ANTHROPIC_API_KEY) — só se quiser pagar por uso
+  #  - mock       : texto fictício para testes
+  backends: [claude-cli, gemini]
+  palavras_min: 500
+  palavras_max: 900
+  max_caracteres_fonte: 40000
+  modelos:
+    claude-cli: claude-sonnet-5-5
+    anthropic: claude-opus-5-5
+    gemini: gemini-2.5-flash
+  # Limite de requisições/minuto do nível gratuito do Gemini — o redator espera entre chamadas.
+  pausa_entre_chamadas_segundos:
+    gemini: 7
+    claude-cli: 0
+    anthropic: 0
+    mock: 0
+
+imagens:
+  largura_max_px: 1600
+  usar_wikimedia_como_reserva: true
+
+saida:
+  pasta_edicoes: edicoes
+  pasta_candidatos: dados/candidatos
+  nome_publicacao: SciTekVision

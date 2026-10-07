@@ -1,0 +1,35 @@
+# Coletas noturnas: acumulam candidatos no pool da edição seguinte.
+# Horários em UTC (Brasília = UTC-3): 01:00, 04:00 e 07:00 UTC = 22:00, 01:00 e 04:00 BRT.
+name: Coleta noturna
+
+on:
+  schedule:
+    - cron: "7 1,4,7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scitekvision-dados
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m scitekvision coletar
+      - name: Salvar pool de candidatos
+        run: |
+          git config user.name "scitekvision-bot"
+          git config user.email "scitekvision-bot@users.noreply.github.com"
+          git add dados/candidatos
+          git diff --cached --quiet || git commit -m "coleta: candidatos $(date -u +%FT%H:%MZ)"
+          git pull --rebase origin "${GITHUB_REF_NAME}" && git push
