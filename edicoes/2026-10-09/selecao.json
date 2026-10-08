@@ -1,0 +1,774 @@
+{
+  "medicina": [
+    {
+      "id": "d483fc5eb6ae",
+      "titulo": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
+      "url": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss",
+      "resumo": "Argenx said its blockbuster drug Vyvgart didn’t outperform placebo in a Phase 3 trial of patients with Sjögren's disease, a chronic autoimmune disorder.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-08T14:02:29+00:00",
+      "coletado_em": "2026-10-08T16:29:24.472147+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2021/12/GettyImages-1076619156-1024x576.jpg",
+      "score": 6.586,
+      "cobertura": []
+    },
+    {
+      "id": "aa30bc085e23",
+      "titulo": "Randomized trial finds targeting individual metastases in oligometastatic breast cancer does not improve survival",
+      "url": "https://medicalxpress.com/news/2026-10-randomized-trial-individual-metastases-oligometastatic.html",
+      "resumo": "Treating individual metastatic tumors with highly focused radiation or surgery did not improve progression-free or overall survival for patients with oligometastatic breast cancer receiving first-line systemic therapy, according to results from the randomized NRG-BR002 clinical trial led by researchers at The University of Texas MD Anderson Cancer Center.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-08T16:00:11+00:00",
+      "coletado_em": "2026-10-08T16:29:24.471413+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/breast-cancer-4.jpg",
+      "score": 6.495,
+      "cobertura": []
+    },
+    {
+      "id": "b231a269ebfb",
+      "titulo": "STAT+: AI for breast cancer risk prediction goes DTC, regulatory cloud over Utah sandbox, and AI psychosis",
+      "url": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss",
+      "resumo": "In this edition of STAT's Health Tech: The story of a startup taking its algorithm for breast cancer risk prediction directly to patients, and more.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-08T15:43:59+00:00",
+      "coletado_em": "2026-10-08T16:29:24.472147+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2025/12/AP184433899449-1024x576.jpg",
+      "score": 6.264,
+      "cobertura": []
+    },
+    {
+      "id": "0b0354cf748e",
+      "titulo": "An experimental drug kills fat cells, rather than shrinking them",
+      "url": "https://www.sciencenews.org/article/experimental-drug-kills-fat-cells",
+      "resumo": "Participants in two small trials lost dangerous fat around their internal organs. This fat is linked to health issues like diabetes and heart problems.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-10-08T13:00:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.521430+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100626_TS_fatmelting_main.jpg?w=800",
+      "score": 6.135,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "f2d3377fbd2a",
+      "titulo": "Changes in DNA packaging help immune cells swell and burst",
+      "url": "https://phys.org/news/2026-10-dna-packaging-immune-cells.html",
+      "resumo": "Immune cells are the elite athletes of the human body. While other cells stay in place, immune cells travel throughout our bodies, squeezing through small channels, stretching themselves, sampling the surfaces of other cells and swallowing up invaders. One of their most extreme behaviors is NETosis, a process in which certain immune cells burst and release their DNA as a way to trap pathogens.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-08T15:20:13+00:00",
+      "coletado_em": "2026-10-08T16:29:24.472586+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-makes-an-immune-c.jpg",
+      "score": 5.421,
+      "cobertura": []
+    },
+    {
+      "id": "0b0354cf748e",
+      "titulo": "An experimental drug kills fat cells, rather than shrinking them",
+      "url": "https://www.sciencenews.org/article/experimental-drug-kills-fat-cells",
+      "resumo": "Participants in two small trials lost dangerous fat around their internal organs. This fat is linked to health issues like diabetes and heart problems.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-10-08T13:00:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.521430+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100626_TS_fatmelting_main.jpg?w=800",
+      "score": 5.135,
+      "cobertura": []
+    },
+    {
+      "id": "d5a91a5fad3f",
+      "titulo": "Compact CRISPR alternative uses bacterial proteins to insert large DNA segments",
+      "url": "https://phys.org/news/2026-10-compact-crispr-alternative-bacterial-proteins.html",
+      "resumo": "A new engineered gene-editing system, proven in bacteria and showing promise for use in plants, animals and humans, addresses some limitations of current gene-editing tools, with the goal of improving their use in research, crop development and disease treatment.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-07T18:40:01+00:00",
+      "coletado_em": "2026-10-08T16:29:24.472586+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-technique-holds-pr.jpg",
+      "score": 5.117,
+      "cobertura": []
+    },
+    {
+      "id": "6a0ff1474687",
+      "titulo": "Brain cells regulate cholesterol to control neuron signaling",
+      "url": "https://phys.org/news/2026-10-brain-cells-cholesterol-neuron.html",
+      "resumo": "Cholesterol, a fat-like substance in the body best known for its role in cardiovascular health, also plays a key role in how neurons—foundational cells for the brain's ability to process and integrate information—communicate with one another. Now, research led by Vitaly A. Klyachko, a professor in the WashU Medicine Department of Cell Biology & Physiology, has shown that brain cells called astrocytes regulate cholesterol supply to modulate neuronal communication. The findings are published in the Journal of Cell Biology.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-08T12:00:32+00:00",
+      "coletado_em": "2026-10-08T16:29:24.472586+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-cells-regulate-c.jpg",
+      "score": 5.094,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "a2b57285998e",
+      "titulo": "This Disembodied Hand Is All the Robot You Need",
+      "url": "https://spectrum.ieee.org/walking-robotic-hand",
+      "resumo": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic hand into a completely self-contained robot that walks on its fingertips while using those same fingers to manipulate its environment. Besides making the perfect Halloween accessory for anyone planning to dress up as a member of The Addams Family – who were famously accompanied by a disembodied walking hand called Thing – the researchers say the approach could make it possible to operate controls and handle objects in places a traditional robot arm can’t reach. Soft Robotics Lab, ETH Zurich/YouTube Amirhossein Kazemipour , a Ph.D. candidate in the Soft Robotics Lab at ETH Zurich in Switzerland who led the project, believes this hand could prove useful in contexts like fiddly maintenance tasks in industrial settings, or in search and rescue, where a robot could detach its hand to explore confined spaces too tight for the rest of its body. More broadly, he says, the work is a step toward a new approach to robotics in which body parts are not confined to a single role. “I wanted to see how m",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-08T12:00:02+00:00",
+      "coletado_em": "2026-10-08T16:29:24.474062+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-detached-robotic-hand-using-its-five-fingers-to-walk.jpg?id=68383398&width=980",
+      "score": 5.693,
+      "cobertura": []
+    },
+    {
+      "id": "e3c4600c5330",
+      "titulo": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+      "resumo": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid robot learning, a central problem in embodied AI and Physical AI, needs data that internet video and existing motion capture datasets cannot provide. How FrameNet , a linguistic framework for human action, can guide motion capture collection to systematically cover a broad range of whole-body motion. Why synchronized object trajectories and meshes make human-object interaction data useful for teaching robots real-world tasks such as carrying, pushing, and pulling. How reinforcement learning policies trained on this motion capture data improve with scale, and how sim-to-real transfer carries them onto a physical humanoid robot. Download this free whitepaper now!",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial",
+        "robotica"
+      ],
+      "publicado": "2026-10-07T13:49:48+00:00",
+      "coletado_em": "2026-10-08T16:29:24.474062+00:00",
+      "imagem_feed": "https://assets.rbl.ms/68382308/origin.png",
+      "score": 5.079,
+      "cobertura": []
+    },
+    {
+      "id": "6b2f68612d16",
+      "titulo": "AWS launches open-source Physical AI Toolchain for robotics",
+      "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+      "resumo": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and continuous improvement. The post AWS launches open-source Physical AI Toolchain for robotics appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-08T13:23:58+00:00",
+      "coletado_em": "2026-10-08T16:29:24.474547+00:00",
+      "imagem_feed": null,
+      "score": 5.073,
+      "cobertura": []
+    },
+    {
+      "id": "a17e8f391a98",
+      "titulo": "Helm.ai reaches $70M in signed commercial contracts for its foundation models",
+      "url": "https://www.therobotreport.com/helm-ai-reaches-70m-signed-commercial-contracts-foundation-models/",
+      "resumo": "Helm.ai trained its foundation models using its unsupervised 'deep teaching' methodology to master the structure of the physical world itself. The post Helm.ai reaches $70M in signed commercial contracts for its foundation models appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-08T15:55:31+00:00",
+      "coletado_em": "2026-10-08T16:29:24.474547+00:00",
+      "imagem_feed": null,
+      "score": 4.836,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "d8eb8a566e38",
+      "titulo": "Cloudflare Open Sources Decision Models for AI Agents",
+      "url": "https://www.infoq.com/news/2026/10/clef-decision-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "During its recent “Birthday Week”, Cloudflare announced Clef, a set of open-weight AI models designed to choose between predefined options rather than generate text. Cloudflare released 9B- and 27B-parameter models, along with a platform for adapting them to specific decision-making tasks. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-08T06:54:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.475042+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/clef-decision-models/en/headerimage/generatedHeaderImage-1791183801035.jpg",
+      "score": 6.349,
+      "cobertura": [
+        "https://huggingface.co/blog/LiquidAI/open-d1"
+      ]
+    },
+    {
+      "id": "66ab6345abf4",
+      "titulo": "ChatGPT passa por transformação e libera nova interface visual para todos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-passa-por-transformacao-e-libera-nova-interface-visual-para-todos/",
+      "resumo": "A OpenAI começou a liberar o Intelligent UI , nova interface do ChatGPT que transforma as respostas do chatbot em experiências visuais e interativas. A novidade acompanha o lançamento do GPT-6 e adiciona recursos, como gráficos editáveis, calculadoras personalizadas, mapas, diagramas explicativos e botões clicáveis, às conversas. Com a atualização, o ChatGPT amplia as respostas para além dos tradicionais blocos de texto e adapta a apresentação ao tipo de tarefa . Uma pergunta sobre um assunto complexo pode resultar em um diagrama interativo e um pedido envolvendo cálculos pode gerar uma ferramenta específica para resolver o problema. A tecnologia também pode criar mapas para planejar viagens, comparadores de assentos em avião ou combinações de roupas e jogos retrô inspirados em clássicos, como Snake, Breakout e Pong. A proposta da OpenAI é facilitar o aprendizado e tarefas do dia a dia sem que o usuário precise sair da conversa para encontrar uma ferramenta adequada. O sistema combina diferentes componentes visuais e monta a interface enquanto a resposta é criada. Entre os exemplos apresentados pela empresa estão diagramas para explicar a sustentação de uma asa de avião ou a anatom",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T14:04:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/X75exDrm4c-DJ8PJNayvoTJ_nNI=/0x0/filters:format(webp):quality(85)/e33901de-8cc7-4e78-bf2b-5efc2a3130b3.webp",
+      "score": 5.339,
+      "cobertura": [
+        "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+      ]
+    },
+    {
+      "id": "1204ed3560d5",
+      "titulo": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1099388/",
+      "resumo": "Security updates have been issued by AlmaLinux (bind, firefox, freerdp, ghostscript, glibc, kernel, kernel-rt, perl-DBI, python3.12, rust-rpm-sequoia, rust-sequoia-sq, rust-sequoia-sqv, and vim), Debian (gst-plugins-base1.0, python3.11, and xz-utils), Fedora (7zip, chromium, curl, docker-buildx, kernel, Lmod, and sos), Mageia (tesseract), Oracle (dovecot, firefox, freerdp, gd, ghostscript, kernel, librabbitmq, perl-DBI, python3.12, rust-rpm-sequoia, rust-sequoia-sqv, sg3_utils, vim, and virtuoso-opensource), Slackware (xorg-server), SUSE (aliyun-cli, busybox, cadvisor, chromedriver, chromium, crane, distribution-registry, fetchmail, fio, ghostscript, golang-github-prometheus-alertmanager, google-osconfig-agent, govulncheck-vulndb, libsoup, libXtst, openexr, prometheus-blackbox_exporter, python-fsspec, rpcbind, rsyslog, rustup, wireshark, wpa_supplicant, and zcode), and Ubuntu (erlang, golang-golang-x-net, gst-plugins-ugly1.0, lxml, poppler, and sudo).",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-08T13:11:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.475737+00:00",
+      "imagem_feed": null,
+      "score": 5.202,
+      "cobertura": []
+    },
+    {
+      "id": "557ec8ed536b",
+      "titulo": "Microsoft acaba com festa dos PC gamers e nega que GTA 6 rodará via Xbox Cloud Gaming",
+      "url": "https://canaltech.com.br/games/microsoft-acaba-com-festa-dos-pc-gamers-e-nega-que-gta-6-rodara-via-xbox-cloud-gaming/",
+      "resumo": "O chefe de estratégia do XBOX, Matthew Ball, desmentiu uma reportagem do site The Verge que afirmava que o XBOX teria direitos exclusivos de streaming para GTA 6. A informação sugeria que os jogadores de PC poderiam jogar o game da Rockstar pelo XBOX Cloud Gaming , uma forma de contornar a ausência do título nos computadores. Embora a notícia pudesse ser animadora para os jogadores de PC, Ball afirmou em uma publicação no X, nesta terça-feira (6), que esse não é o caso. \"Embora seja ótimo ver a empolgação com GTA 6 e o XBOX, isso também levou a algumas informações incorretas\", declarou. \"Estamos ansiosos para lançar GTA 6 no XBOX em 19 de novembro, embora o jogo não seja transmitido via streaming exclusivamente nem para PC.\" A informação, no entanto, não deixou claro se o XBOX não contará com streaming no PC ou se GTA 6 estará ausente de qualquer serviço em nuvem , como o NVIDIA GeForce NOW e o Amazon Luna. Ball sugere que os jogadores poderão transmitir o jogo nos consoles XBOX por meio do recurso 'Stream Your Own Game' . Também não houve menção sobre a possibilidade de jogar GTA 6 no celular via nuvem. Vale lembrar que não é de hoje que a Rockstar adota uma estratégia focada em c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-08T14:11:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": null,
+      "score": 5.05,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/microsoft-nega-exclusividade-de-gta-6-no-xbox-cloud-gaming/"
+      ]
+    }
+  ],
+  "hardware": [
+    {
+      "id": "ad0a4ed9aa06",
+      "titulo": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
+      "url": "https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai",
+      "resumo": "Microsoft's Surface Laptop Ultra is now available for pre-order. The company revealed some new Windows 11 features, a new magnetic USB Type-C port, and that the system will work with \"hundreds\" of video games.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-07T18:07:54+00:00",
+      "coletado_em": "2026-10-08T16:29:24.476417+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/9tQ4RNRtkMp8pBrNew8d7X-1920-80.jpg",
+      "score": 6.75,
+      "cobertura": [
+        "https://www.pcworld.com/article/3255200/the-surface-laptop-ultra-is-an-ai-monster-with-a-laptop-problem.html",
+        "https://www.techspot.com/news/114130-microsoft-surface-laptop-ultra-starts-2600-running-nvidia.html",
+        "https://www.techspot.com/news/114139-nvidia-microsoft-agentic-pc-era-starts-surface-laptop.html"
+      ]
+    },
+    {
+      "id": "de2f6415acd3",
+      "titulo": "Preços dos notebooks com NVIDIA RTX Spark assustam e geram revolta",
+      "url": "https://canaltech.com.br/notebook/precos-dos-notebooks-com-nvidia-rtx-spark-assustam-e-geram-revolta/",
+      "resumo": "Vivemos o pior momento para comprar hardware por conta da atual crise, com escassez de componentes que tem levado os preços à estratosfera. Não é diferente com os notebooks equipados com o novo chip NVIDIA RTX Spark , anunciados hoje, que têm preço inicial de US$ 2.600, mas podem chegar a quase 3x mais , dependendo da configuração e da marca. O SoC da NVIDIA vem com duas configurações diferentes, que alteram a quantidade de núcleos da CPU (18 e 20) e dos núcleos gráficos (5.120 e 6.144 núcleos) . Além disso, dependendo da fabricante, os notebooks podem ter de 24 a 128 GB de memória RAM unificada , além de 512 GB a 2 TB de SSD NVMe . Não bastasse somente essa parte do hardware, existem ainda a qualidade da construção, quantidade de portas, sistema de refrigeração e tipo de painel usado . Tudo isso altera consideravelmente o valor final de um notebook em geral e não seria diferente nesse caso. Vamos dar uma olhada em alguns exemplos. Preços dos notebooks com RTX Spark A Microsoft roubou a cena por ter feito um evento junto com a NVIDIA , mas outras fabricantes, como Dell, Lenovo, MSI, HP e ASUS também já anunciaram seus modelos. Os notebooks equipados com 24 GB de memória RAM, 512 GB",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T14:36:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": null,
+      "score": 5.593,
+      "cobertura": []
+    },
+    {
+      "id": "66ab6345abf4",
+      "titulo": "ChatGPT passa por transformação e libera nova interface visual para todos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-passa-por-transformacao-e-libera-nova-interface-visual-para-todos/",
+      "resumo": "A OpenAI começou a liberar o Intelligent UI , nova interface do ChatGPT que transforma as respostas do chatbot em experiências visuais e interativas. A novidade acompanha o lançamento do GPT-6 e adiciona recursos, como gráficos editáveis, calculadoras personalizadas, mapas, diagramas explicativos e botões clicáveis, às conversas. Com a atualização, o ChatGPT amplia as respostas para além dos tradicionais blocos de texto e adapta a apresentação ao tipo de tarefa . Uma pergunta sobre um assunto complexo pode resultar em um diagrama interativo e um pedido envolvendo cálculos pode gerar uma ferramenta específica para resolver o problema. A tecnologia também pode criar mapas para planejar viagens, comparadores de assentos em avião ou combinações de roupas e jogos retrô inspirados em clássicos, como Snake, Breakout e Pong. A proposta da OpenAI é facilitar o aprendizado e tarefas do dia a dia sem que o usuário precise sair da conversa para encontrar uma ferramenta adequada. O sistema combina diferentes componentes visuais e monta a interface enquanto a resposta é criada. Entre os exemplos apresentados pela empresa estão diagramas para explicar a sustentação de uma asa de avião ou a anatom",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T14:04:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/X75exDrm4c-DJ8PJNayvoTJ_nNI=/0x0/filters:format(webp):quality(85)/e33901de-8cc7-4e78-bf2b-5efc2a3130b3.webp",
+      "score": 5.339,
+      "cobertura": [
+        "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+      ]
+    },
+    {
+      "id": "9b37f84625f0",
+      "titulo": "AI or ‘super intelligence’? Trump isn’t the only one who is confused",
+      "url": "https://www.newscientist.com/article/2592404-ai-or-super-intelligence-trump-isnt-the-only-one-who-is-confused/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "US President Donald Trump has declared that artificial intelligence should now be called “super intelligence”. Columnist Jacob Aron explains where that term came from and explores whether its many historical meanings apply today",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T16:07:59+00:00",
+      "coletado_em": "2026-10-08T16:29:24.520358+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315533241.jpg",
+      "score": 5.309,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "18308fd5f241",
+      "titulo": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+      "resumo": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
+      "fonte": "ESA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-08T09:00:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.477485+00:00",
+      "imagem_feed": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_27_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_27_March_2022_card_full.png",
+      "score": 5.598,
+      "cobertura": [
+        "https://phys.org/news/2026-10-solar-orbiter-tracks-mysterious-magnetic.html"
+      ]
+    },
+    {
+      "id": "eecc8ede0a1a",
+      "titulo": "NASA Advances LISA Mission Contributions With New Test Telescope",
+      "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+      "resumo": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-08T15:31:24+00:00",
+      "coletado_em": "2026-10-08T16:29:24.477211+00:00",
+      "imagem_feed": null,
+      "score": 5.391,
+      "cobertura": []
+    },
+    {
+      "id": "445788b02493",
+      "titulo": "Largest 2D map of the universe helps scientists discover new gravitational lenses",
+      "url": "https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html",
+      "resumo": "Using data from the DESI Legacy Imaging Surveys, with help from artificial intelligence, an international team of scientists has discovered 70 new gravitational lenses—rare cosmic alignments that act as natural magnifying glasses. The new lenses further expand one of the largest collections of confirmed lenses to date and will allow scientists to study dark matter, galaxy evolution and the structure of the universe.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-08T13:40:12+00:00",
+      "coletado_em": "2026-10-08T16:29:24.477684+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/largest-2d-map-of-the.jpg",
+      "score": 5.249,
+      "cobertura": []
+    },
+    {
+      "id": "fba604786471",
+      "titulo": "Da proteção física ao bem-estar psicológico: entenda o novo papel da CIPA+A nas empresas",
+      "url": "https://jornal.usp.br/atualidades/da-protecao-fisica-ao-bem-estar-psicologico-entenda-o-novo-papel-da-cipaa-nas-empresas/",
+      "resumo": "Além de prevenir riscos de acidentes, a CIPA passa a ter o dever de atuar na prevenção e no combate ao assédio sexual, moral e a outras formas de violência no trabalho",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-08T14:53:34+00:00",
+      "coletado_em": "2026-10-08T16:29:24.491394+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/20170707_00_SegurancaTrabalho.jpg",
+      "score": 5.174,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "2658f4cd653f",
+      "titulo": "Quantum Source’s QS-LINK Uses a Single Atom to Help Quantum Processors Connect",
+      "url": "https://thequantuminsider.com/2026/10/08/quantum-sources-qs-link-uses-a-single-atom-to-help-quantum-processors-connect/",
+      "resumo": "Insider Brief PRESS RELEASE — Quantum Source, developer of compound photon-atom technology that makes photonic quantum computers practical, published the first technical details of its proprietary QS-LINK, an interconnect built to break the bottleneck that keeps quantum computers from scaling beyond a single processor. Using a single rubidium atom as quantum memory, QS-LINK holds the entanglement with […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-08T14:26:44+00:00",
+      "coletado_em": "2026-10-08T16:29:24.478252+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-Source.jpg",
+      "score": 5.977,
+      "cobertura": []
+    },
+    {
+      "id": "c278956c640f",
+      "titulo": "Quantinuum Processors Stand Out in Study of Quantum Error-Correction Operations",
+      "url": "https://thequantuminsider.com/2026/10/08/quantinuum-processors-stand-out-in-study-of-quantum-error-correction-operations/",
+      "resumo": "Insider Brief PRESS RELEASE — Quantinuum’s processors handled a key step toward quantum error correction more reliably than the other machines in a new study, which also proposes a simpler way to judge whether hardware is ready for that step. The study, posted on the preprint server arXiv, found that these measurements and the actions […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-08T13:16:36+00:00",
+      "coletado_em": "2026-10-08T16:29:24.478252+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-9.08.52-AM-1.png",
+      "score": 5.361,
+      "cobertura": []
+    },
+    {
+      "id": "3fe1651449cb",
+      "titulo": "PsiQuantum Receives Conditional $150M Loan Commitment From U.S. Department of War",
+      "url": "https://thequantuminsider.com/2026/10/08/psiquantum-conditional-150m-loan-california-quantum-facility/",
+      "resumo": "Insider Brief PRESS RELEASE — PsiQuantum announced today that the company has received a conditional commitment for a loan of up to $150 million from the U.S. Department of War’s Office of Strategic Capital (OSC), which would expand the company’s advanced manufacturing and prototyping capabilities in the United States. The financing would support PsiQuantum’s 140,000-square-foot […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-08T15:14:31+00:00",
+      "coletado_em": "2026-10-08T16:29:24.478252+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-08_20-13.png",
+      "score": 5.061,
+      "cobertura": []
+    },
+    {
+      "id": "979d60f646e5",
+      "titulo": "NSF Launches New Programs for Quantum Innovation and STEM Research",
+      "url": "https://thequantuminsider.com/2026/10/08/nsf-new-quantum-research-stem-workforce-programs/",
+      "resumo": "Insider Brief PRESS RELEASE — The U.S. National Science Foundation today announced plans to launch a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golden Age, the first comprehensive rethinking of the U.S. science and technology enterprise in the last 80+ years. These new programs […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-08T15:10:03+00:00",
+      "coletado_em": "2026-10-08T16:29:24.478252+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-08_20-09.png",
+      "score": 5.053,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "5d4511a5bbb2",
+      "titulo": "Nvidia and Microsoft say the \"agentic PC\" era starts with the Surface Laptop Ultra",
+      "url": "https://www.techspot.com/news/114139-nvidia-microsoft-agentic-pc-era-starts-surface-laptop.html",
+      "resumo": "At yesterday's big Microsoft-Nvidia launch event, Huang stated, with Nadella's strong endorsement, that the new Surface Laptop Ultra, along with all the new Windows-based PCs running Nvidia's RTX Spark chip, heralds the reinvention of the PC, marking the dawn of the agentic PC era. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-08T14:42:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.486258+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-08-ts3_thumbs-c3d.jpg",
+      "score": 7.704,
+      "cobertura": [
+        "https://www.pcworld.com/article/3255200/the-surface-laptop-ultra-is-an-ai-monster-with-a-laptop-problem.html",
+        "https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai"
+      ]
+    },
+    {
+      "id": "003ab5ac16a1",
+      "titulo": "The Surface Laptop Ultra is an AI monster with a laptop problem",
+      "url": "https://www.pcworld.com/article/3255200/the-surface-laptop-ultra-is-an-ai-monster-with-a-laptop-problem.html",
+      "resumo": "Microsoft’s new Surface Laptop Ultra is powered by a Mediatek CPU and Nvidia’s powerful RTX Spark SoC, which is mainly designed to run local AI models on the user’s lap. Five competing laptops—from Dell, HP, MSI and more—will offer additional options. Here’s the thinking. Microsoft is banking on near-future AI developers and enthusiasts running local AI models and tools directly from their PC. If needed, they’ll tap Microsoft’s Copilot AI for more horsepower. Microsoft calls this “hybrid intelligence” and it’s basically an acknowledgement that users won’t necessarily care which device does what. It’s a compromise, as is most anything that’s AI-related in productivity: some love it, others despise it. There are further tradeoffs. Users will be able to run models locally, but the Surface Laptop Ultra ships with a 140W power adapter. That’s a signal that it will consume much more power than typical laptops, though not gaming laptops. (That’s another question: is this a gaming laptop? Microsoft showed just a single Gears of War game running on the Ultra, with no indication of frame rate.) Nevertheless, I left the Windows and Surface Event with a question that no one at Microsoft could ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-07T20:15:07+00:00",
+      "coletado_em": "2026-10-08T16:29:24.479519+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3255200-0-48162900-1791407081-Microsoft-Surface-Laptop-Ultra-at-Windows-and-Surface-Event-October-2026.jpg?quality=50&strip=all",
+      "score": 6.821,
+      "cobertura": [
+        "https://www.techspot.com/news/114139-nvidia-microsoft-agentic-pc-era-starts-surface-laptop.html",
+        "https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai"
+      ]
+    },
+    {
+      "id": "40b8f7d2a91a",
+      "titulo": "Nvidia’s first RTX Spark laptops cost up to $7,000. Here’s what you get",
+      "url": "https://www.pcworld.com/article/3256085/here-are-all-the-rtx-spark-laptops-available-at-launch-going-up-to-7000.html",
+      "resumo": "There’s a brand new platform for Windows-powered laptops arriving soon, with a familiar name and some shockingly high prices. If you’ve been following the high-end hardware news in 2026… then I’m sorry. But possibly the most exciting thing to land in some time is Nvidia’s Spark RTX, an Arm-based chip that’s now going into consumer laptops, headlined by the Surface Laptop Ultra . “Consumer” gets a bit of an asterisk there. While these Arm-based laptops are at least somewhat similar to Qualcomm-powered Snapdragon models we’ve seen for the last few years, there’s nothing spare or affordable about them. With chips custom-tuned for “AI” at every level, tons of speedy, expensive integrated RAM, and an integrated GPU that matches an RTX 5070 (at least on paper), Nvidia and its partners want these laptops to hit at the high end. They certainly land at high-end prices. RTX Spark laptops start at $2,600 USD, and only get more expensive. Microsoft’s flagship Surface Laptop Ultra is a cool three grand at the recommended configuration. Pre-orders are available now, and shipments should be arriving next week. Here’s an at-a-glance look at all the RTX Spark laptops announced so far: Microsoft Sur",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-08T15:27:29+00:00",
+      "coletado_em": "2026-10-08T16:29:24.479519+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3256085-0-46145100-1791476569-RTX-Spark-notebooks.jpg?quality=50&strip=all",
+      "score": 6.084,
+      "cobertura": []
+    },
+    {
+      "id": "34415a13cc1c",
+      "titulo": "Best antivirus for Windows PC in 2026: 7 apps to keep your PC safe",
+      "url": "https://www.pcworld.com/article/407277/best-antivirus-for-windows-pc.html",
+      "resumo": "You need antivirus software. Because of AI , online threats keep getting more sophisticated—more and more AI-fueled attacks pop up with each passing week. Even the tech-savvy and cautious can get tricked into exposing themselves to malware, spyware, ransomware, or a phishing attack. This guide compares the best Windows antivirus suites, including when Windows Security is enough and when extra privacy, parental, or identity tools make a paid suite worth it. Make sure you understand how all our picks differ before settling on any one choice. For instance, Norton is great for all around value, but Avast is great for ease of use, AVG for budget buyers, Avira Prime for beginners, McAfee for the privacy-conscious, and Panda for a surfeit of features. Not to mention what Windows Security brings to the table at no cost at all. PROMOTION Get Unlimited VPN for only $5/month! Stay safe online with unlimited VPN, up to $1 Million of Identity Protection coverage, and AI-powered Cybersecurity software all for no more than $11 per month on the highest tier plan! Save now! Why you should trust PCWorld for antivirus reviews: PCWorld has been deep in the trenches of testing computer hardware, softwa",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-08T16:00:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.479519+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/407277-0-19864500-1791475229-IMG_3733-sz.jpg?quality=50&strip=all",
+      "score": 5.644,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "9b37f84625f0",
+      "titulo": "AI or ‘super intelligence’? Trump isn’t the only one who is confused",
+      "url": "https://www.newscientist.com/article/2592404-ai-or-super-intelligence-trump-isnt-the-only-one-who-is-confused/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "US President Donald Trump has declared that artificial intelligence should now be called “super intelligence”. Columnist Jacob Aron explains where that term came from and explores whether its many historical meanings apply today",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T16:07:59+00:00",
+      "coletado_em": "2026-10-08T16:29:24.520358+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315533241.jpg",
+      "score": 5.809,
+      "cobertura": []
+    },
+    {
+      "id": "e9412c80c28c",
+      "titulo": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "resumo": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T16:00:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.488949+00:00",
+      "imagem_feed": null,
+      "score": 5.694,
+      "cobertura": []
+    },
+    {
+      "id": "eec7f6ee74fd",
+      "titulo": "Dell entra na corrida para ensinar agentes de IA a “entender” as empresas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/dell-entra-na-corrida-para-ensinar-agentes-de-ia-a-entender-as-empresas/",
+      "resumo": "A Dell entrou na disputa para resolver um dos problemas que dificultam o uso de agentes de inteligência artificial dentro das empresas: fazer com que esses sistemas entendam o significado dos dados que encontram. A companhia apresentou nesta semana novas tecnologias que conectam informações espalhadas por diferentes sistemas e explicam à IA quais termos, relações e fontes devem ser considerados em cada tarefa. Os principais recursos, porém, só chegam no primeiro semestre de 2027. O movimento coloca a Dell em uma corrida que já envolve empresas como Databricks, Snowflake e Nvidia . O objetivo é criar uma espécie de camada de contexto entre os modelos de IA e os dados corporativos, necessária quando um agente precisa fazer mais do que simplesmente localizar um documento. O problema ganhou importância conforme as empresas começaram a experimentar agentes em tarefas reais. Um levantamento da Modern Data Company com mais de 540 profissionais de 66 países mostrou que 57,3% das organizações já testam ou utilizam agentes de IA , mas apenas 8,4% consideram confiáveis o suficiente os dados que alimentam esses sistemas para uso em produção . Qualidade e confiança nos dados apareceram entre as",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T10:30:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/v52yOjp38_5Bwx_5DdtSgeGatU4=/0x0/filters:format(webp):quality(85)/9c3bb917-f771-47fc-b878-6170ad7eab14.png",
+      "score": 5.515,
+      "cobertura": []
+    },
+    {
+      "id": "fb1e407f7e73",
+      "titulo": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
+      "resumo": "If there is any place that would be off-limits to AI, the control room of a nuclear power plant certainly sounds like one. The nuclear industry is historically cautious and risk averse—understandable given the possible catastrophic consequences of an accident or a mistake. Even well-trained managers struggle with the operational complexity of a nuclear reactor. It’s not the kind of setting that seems well suited to a powerful but error-prone new technology. Reality tells a startlingly different story. A variety of companies have begun to offer AI solutions for nuclear power. This year, nearly the entire fleet of 94 U.S. nuclear reactors has been offered the chance to integrate AI into its operations, and most have taken it. In August, California-based Atomic Canyon launched NIVA , the Nuclear Industry Virtual Assistant, which was developed in cooperation with nuclear industry groups. The assistant was pilot tested in nuclear plants run by Constellation Energy and is now available to the United States’ entire fleet of reactors. (Constellation declined to be interviewed for this story.) Meanwhile, the AI-for-nuclear startup Nuclearn says its products have gone to work with more than ",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T14:28:17+00:00",
+      "coletado_em": "2026-10-08T16:29:24.488012+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/three-men-smiling-together-in-front-of-an-exascale-supercomputer.jpg?id=68384674&width=980",
+      "score": 5.43,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "ebff1a84aecd",
+      "titulo": "Platinum in fuel cells lasts longer with nitrogen-enhanced graphene wrapper",
+      "url": "https://techxplore.com/news/2026-10-platinum-fuel-cells-longer-nitrogen.html",
+      "resumo": "Researchers from Nagoya University in Japan have developed a durable fuel-cell catalyst by wrapping platinum nanoparticles in nitrogen-containing graphene and placing them on carbon nanotubes. This design retained 96.9% of its active surface after 30,000 durability cycles, pointing towards fuel cells with longer lifespans and lower platinum demand.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-08T13:20:01+00:00",
+      "coletado_em": "2026-10-08T16:29:24.489843+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/platinum-in-fuel-cells.jpg",
+      "score": 4.717,
+      "cobertura": []
+    },
+    {
+      "id": "f63e3f94740b",
+      "titulo": "Simple modification improves commercial resin for direct air capture",
+      "url": "https://techxplore.com/news/2026-10-simple-modification-commercial-resin-air.html",
+      "resumo": "To mitigate climate change, direct air capture of carbon dioxide (CO₂) from the atmosphere has emerged as an increasingly attractive option for limiting global warming. But scaling up systems to remove and safely store enough CO₂ faces major obstacles, according to researchers at the Georgia Tech School of Chemical and Biomolecular Engineering (ChBE).",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-08T15:40:12+00:00",
+      "coletado_em": "2026-10-08T16:29:24.489843+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/co2.jpg",
+      "score": 4.457,
+      "cobertura": []
+    },
+    {
+      "id": "91ad335e6dcf",
+      "titulo": "SUV usado da BYD \"no precinho\" custa menos que um Volkswagen Tera",
+      "url": "https://canaltech.com.br/carros/suv-usado-da-byd-no-precinho-custa-menos-que-um-volkswagen-tera/",
+      "resumo": "Comprar um SUV elétrico usado pode colocar na garagem um carro de categoria superior sem necessariamente exigir um orçamento muito maior. Um bom exemplo é o BYD Yuan Plus 2023 , que aparece na Tabela Fipe de outubro de 2026 por R$ 149.088. O valor chama a atenção quando comparado ao de um Volkswagen Tera High 0km . A versão mais equipada do S UV compacto chega a R$ 150.580 com pintura, a penas R$ 1.492 acima do BYD usado . A diferença é pequena, mas os dois modelos têm propostas bastante diferentes. Nas dimensões, o elétrico chinês ostenta 4,455 metros de comprimento , 1,875 m de largura, 1,615 m de altura e 2,720 m de entre-eixos. O porta-malas comporta 312 litros. Para efeito de comparação, o entre-eixos é maior que o do Toyota Corolla Cross , que tem 2,64 metros. BYD Yuan Plus tem 204 cv e autonomia de 294 km O conjunto elétrico do Yuan Plus utiliza um motor instalado no eixo dianteiro, capaz de entregar 204 cv e 31,6 kgf/m de torque . A tração é dianteira e a velocidade máxima chega a 160 km/h. A bateria tem capacidade de 60,5 kWh e permite rodar até 294 km segundo o ciclo do Inmetro . O modelo também aceita recarga rápida em corrente contínua de até 80 kW. SUV elétrico tem pac",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-08T13:01:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/VyNH0jbkCOaZB2IiPM15wyXN9Ug=/0x0/filters:format(webp):quality(85)/6581dbe4-90c2-4fce-ba44-6020688f30eb.jpg",
+      "score": 4.236,
+      "cobertura": []
+    },
+    {
+      "id": "5b9f6dfa352f",
+      "titulo": "Eight ways to feed ourselves if rogue AI destroys modern agriculture",
+      "url": "https://techxplore.com/news/2026-10-ways-rogue-ai-destroys-modern.html",
+      "resumo": "The capacity of rogue AI agents to destroy our species within the next decade has recently been a hot topic of debate. Fears have been voiced within the industry about the rapidly increasing capabilities of artificial intelligence.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-08T13:20:46+00:00",
+      "coletado_em": "2026-10-08T16:29:24.489843+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/eight-ways-to-feed-our.jpg",
+      "score": 4.218,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "2e813880dd89",
+      "titulo": "Microsoft larga na frente e anuncia notebook monstruoso equipado com RTX Spark",
+      "url": "https://canaltech.com.br/notebook/microsoft-larga-na-frente-e-anuncia-notebook-monstruoso-equipado-com-rtx-spark/",
+      "resumo": "Depois de muitos rumores e vazamentos, os notebooks com chip RTX Spark foram oficializados . Em um evento da NVIDIA com a Microsoft, com a presença dos CEOs Jensen Huang e Satya Nadella, foi revelado o primeiro modelo: o Surface Laptop Ultra . Como nada tem custado pouco no mercado de hardware hoje, o preço começa em nada menos que US$ 2.599 . O grande diferencial do Surface Laptop Ultra está na adoção do SoC RTX Spark, que une núcleos gráficos, CPU e NPU da NVIDIA, tudo com grande foco em processamento de IA . O objetivo é permitir que modelos de linguagem avançados e agentes de IA rodem diretamente no portátil, reduzindo a latência e a dependência da nuvem. O lançamento do notebook e a tecnologia dentro dele coincidem com atualizações relevantes no Windows 11 , projetadas para integrar novos recursos de IA agêntica, capazes de executar tarefas complexas e automatizadas em segundo plano, a pedido do usuário. Configurações do Surface Ultra No quesito especificações técnicas, o Surface Laptop Ultra não economiza na construção. O modelo conta com um painel Mini-LED PixelSense de 15 polegadas com pico de brilho de 2.000 nits . Segundo a Microsoft, o touchpad é 30% maior do que o de um",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-08T13:09:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": null,
+      "score": 3.949,
+      "cobertura": []
+    },
+    {
+      "id": "b2d560936a22",
+      "titulo": "Hackers vazam dados da Trump Mobile e escancaram despreparo da operadora",
+      "url": "https://canaltech.com.br/seguranca/hackers-vazam-dados-da-trump-mobile-e-escancaram-despreparo-da-operadora/",
+      "resumo": "A Trump Mobile enfrenta um novo problema de segurança após hackers divulgarem dados pessoais ligados a 3.615 pessoas na dark web. O vazamento inclui nomes, endereços residenciais, e-mails, números de telefone e informações sobre pedidos, enquanto os criminosos afirmam que a empresa chegou a dizer que não tinha uma equipe interna preparada para lidar com a invasão . O ataque foi reivindicado pelo grupo de cibercriminosos BYOD. Segundo os hackers, a entrada nos sistemas ocorreu após a infecção do computador de um funcionário da Liberty Mobile com um trojan de acesso remoto, conhecido pela sigla RAT. A empresa da Flórida fornece a infraestrutura de operadora móvel virtual, ou MVNO, usada pela Trump Mobile. Ainda não há uma confirmação independente sobre a maneira exata como a invasão ocorreu. Trump Mobile e Liberty Mobile também não haviam divulgado uma explicação pública sobre o incidente até a publicação das reportagens consultadas. Hackers dizem que Trump Mobile não tinha equipe para lidar com ataque O ponto que mais chama atenção no episódio aparece no relato dos próprios invasores. O BYOD afirma ter avisado a Trump Mobile sobre a invasão e diz que recebeu como resposta que a empr",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-07T21:01:00+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qal3GtHlrbZd5PdaYpoNXwUpscU=/0x0/filters:format(webp):quality(85)/be9f29e1-d9bf-489d-90d4-c3d6ea4d1f61.png",
+      "score": 3.249,
+      "cobertura": []
+    },
+    {
+      "id": "4d0ab1e7dd59",
+      "titulo": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "resumo": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-07T13:48:45+00:00",
+      "coletado_em": "2026-10-08T16:29:24.490172+00:00",
+      "imagem_feed": null,
+      "score": 2.978,
+      "cobertura": []
+    },
+    {
+      "id": "7e7aac1a3fde",
+      "titulo": "Novo Redmi Turbo da Xiaomi vazou: bateria gigante de 10.000 mAh e chip top",
+      "url": "https://canaltech.com.br/smartphone/novo-redmi-turbo-da-xiaomi-vazou-bateria-gigante-de-10000-mah-e-chip-top/",
+      "resumo": "A Redmi está preparando uma nova geração do Turbo 6 , e um vazamento indica que o modelo mais potente da linha pode chegar com bateria de 10.000 mAh e chip Dimensity 9500s . O aparelho deve ser chamado de Redmi Turbo 6 Max e também pode ter uma tela enorme, próxima de 7 polegadas. As informações foram divulgadas pelo conhecido informante Digital Chat Station (DCS). Embora ele não tenha citado diretamente o nome do celular, os detalhes coincidem com rumores anteriores sobre o Turbo 6 Max. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Segundo o vazamento, o novo celular terá uma tela grande, com tamanho ainda não confirmado. Rumores anteriores apontam para uma tela OLED plana de aproximadamente 7 polegadas, com resolução 2K. O modelo também pode ter uma estrutura central de metal e leitor de impressões digitais ultrassônico integrado à tela. Bateria de 10.000 mAh é um dos destaques A bateria deve ser outro ponto forte do Redmi Turbo 6 Max. Informações anteriores já indicavam uma capacidade de 10.000 mAh, enquanto o novo vazamento fala em uma bateria que ultrapassa essa marca. Ainda não há detalhes sobre velocidade de carregamento ou autonomia estimada. O visual trase",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-08T13:11:18+00:00",
+      "coletado_em": "2026-10-08T16:29:24.499300+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/VNetv7A1SWy-7zybiwzANxPuu_s=/0x0/filters:format(webp):quality(85)/e75092fe-2ee6-4acd-9505-a3e31b96b5cb.png",
+      "score": 1.253,
+      "cobertura": []
+    }
+  ]
+}
