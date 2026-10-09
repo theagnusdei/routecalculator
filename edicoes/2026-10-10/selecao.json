@@ -1,0 +1,754 @@
+{
+  "medicina": [
+    {
+      "id": "77a91de5790f",
+      "titulo": "Deep learning model using ECGs during sleep studies can predict cardiovascular outcomes",
+      "url": "https://medicalxpress.com/news/2026-10-deep-ecgs-cardiovascular-outcomes.html",
+      "resumo": "A research team supported by the National Institutes of Health (NIH) has found that electrocardiograms (ECGs) administered during sleep and paired with sleep stage information can be used to determine the risk of future adverse cardiac events. The study, which used a deep learning approach, suggests that using ECGs to predict which patients have a greater risk of poor heart-related outcomes could help guide clinical decision-making. The findings were published in the journal SLEEP.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-09T15:20:20+00:00",
+      "coletado_em": "2026-10-09T16:13:54.522234+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-learning-model-us.jpg",
+      "score": 6.949,
+      "cobertura": [
+        "https://www.nih.gov/news-events/news-releases/deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes"
+      ]
+    },
+    {
+      "id": "5c30f3757763",
+      "titulo": "STAT+: Pharmalittle: We’re reading about a setback for Argenx, Lilly suits over copycat versions of an obesity drug, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/09/pharmalittle-were-reading-about-a-setback-for-argenx-lilly-suits-over-copycat-versions-of-an-obesity-drug-and-more/?utm_campaign=rss",
+      "resumo": "The FDA flagged a potential safety signal after four patient deaths in a trial testing a schizophrenia drug, Argenx faces an unusual setback, and more pharma news.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-09T13:17:20+00:00",
+      "coletado_em": "2026-10-09T16:13:54.523103+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "score": 6.537,
+      "cobertura": []
+    },
+    {
+      "id": "c41478c09f63",
+      "titulo": "First real-world study of safety and quality of patient-facing AI in primary care",
+      "url": "https://medicalxpress.com/news/2026-10-real-world-safety-quality-patient.html",
+      "resumo": "The aging population, workforce changes and patients' increasingly complex medical needs are all factors straining primary care systems around the world. Artificial intelligence tools have emerged as a potential means of extending the capabilities of health care workers, including in primary care settings. Large language models (LLMs), also known as chatbots, have performed extremely well in simulations. However, little is known about how these systems perform with real patients.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-09T14:20:17+00:00",
+      "coletado_em": "2026-10-09T16:13:54.522234+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/medicine-and-ai.jpg",
+      "score": 5.843,
+      "cobertura": []
+    },
+    {
+      "id": "b54c506d5e30",
+      "titulo": "STAT+: Life Biosciences share glaucoma study updates for its cellular reprogramming drug",
+      "url": "https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/?utm_campaign=rss",
+      "resumo": "Life Biosciences said yesterday that three glaucoma patients have now received a single injection of its experimental cellular reprogramming drug, with no serious adverse events.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-09T15:41:39+00:00",
+      "coletado_em": "2026-10-09T16:13:54.523103+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2018/08/AdobeStock_174911303-1024x576.jpeg",
+      "score": 5.789,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "28eef5cf81e5",
+      "titulo": "Tiny marine microbe sheds new light on how little genetic machinery a cell needs to survive",
+      "url": "https://phys.org/news/2026-10-tiny-marine-microbe-genetic-machinery.html",
+      "resumo": "Scientists have discovered a previously unknown microorganism that has the smallest genome ever found and may be able to replicate and express its own genetic information.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-09T15:00:12+00:00",
+      "coletado_em": "2026-10-09T16:13:54.523658+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-microbe.jpg",
+      "score": 5.913,
+      "cobertura": []
+    },
+    {
+      "id": "895d2925484f",
+      "titulo": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+      "url": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+      "resumo": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas. The post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first appeared on Quanta Magazine",
+      "fonte": "Quanta Magazine",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-09T14:03:07+00:00",
+      "coletado_em": "2026-10-09T16:13:54.524552+00:00",
+      "imagem_feed": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Waddington-cr.MarkBelan-Default.webp",
+      "score": 5.263,
+      "cobertura": []
+    },
+    {
+      "id": "dadd39fff210",
+      "titulo": "New 'computational microscope' simulates DNA packaging at more than ten times previous scale",
+      "url": "https://phys.org/news/2026-10-microscope-simulates-dna-packaging-ten.html",
+      "resumo": "The DNA in our cells wraps around proteins called histones to form nucleosomes, which organize into chromatin. This organization helps pack genetic material into the nucleus and influences how easily genes can be read and DNA damage repaired. Understanding how chromatin changes requires studying molecular movements and interactions that are difficult to capture experimentally.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-08T22:10:01+00:00",
+      "coletado_em": "2026-10-09T16:13:54.523658+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-computational-mi.jpg",
+      "score": 5.254,
+      "cobertura": []
+    },
+    {
+      "id": "20c846a62ea0",
+      "titulo": "3D genome 'entanglement' may explain how cephalopods evolved complex brains",
+      "url": "https://phys.org/news/2026-10-3d-genome-entanglement-cephalopods-evolved.html",
+      "resumo": "Octopuses, squid and cuttlefish, collectively known as coleoid cephalopods, have evolved exceptionally large and elaborately structured nervous systems capable of complex behaviors such as problem-solving and rapid camouflage. A new study by scientists at the University of Vienna suggests that the origins of this complexity may lie not just in the genes themselves, but in how the genome is organized in 3D.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-09T09:00:12+00:00",
+      "coletado_em": "2026-10-09T16:13:54.523658+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-structure-of-dna-ma.jpg",
+      "score": 4.867,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "c9f887d67911",
+      "titulo": "Two-armed robot throws and catches balls with human-like movements",
+      "url": "https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html",
+      "resumo": "Humans can move their limbs very rapidly and coordinate their movements with high precision to tackle specific manual tasks. While robots have become increasingly advanced in recent years, many of them remain less agile than humans and struggle to interact with moving objects of different shapes, weights and textures.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-09T13:40:04+00:00",
+      "coletado_em": "2026-10-09T16:13:54.525888+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-armed-robot-throws-3.jpg",
+      "score": 4.775,
+      "cobertura": []
+    },
+    {
+      "id": "a2b57285998e",
+      "titulo": "This Disembodied Hand Is All the Robot You Need",
+      "url": "https://spectrum.ieee.org/walking-robotic-hand",
+      "resumo": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic hand into a completely self-contained robot that walks on its fingertips while using those same fingers to manipulate its environment. Besides making the perfect Halloween accessory for anyone planning to dress up as a member of the Addams Family—who were famously accompanied by a disembodied walking hand called Thing —this robotic hand could make it possible to operate controls and handle objects in places a traditional robot arm can’t reach, the researchers say. Soft Robotics Lab, ETH Zurich/YouTube Amirhossein Kazemipour , a Ph.D. candidate in the Soft Robotics Lab at ETH Zurich who led the project, believes this hand could prove useful in contexts like fiddly maintenance tasks in industrial settings, or in search and rescue, where a robot could detach its hand to explore confined spaces too tight for the rest of its body. More broadly, he says, the work is a step toward a new approach to robotics in which body parts are not confined to a single role. “I wanted to see how much a roboti",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-08T12:00:02+00:00",
+      "coletado_em": "2026-10-09T16:13:54.525198+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-detached-robotic-hand-using-its-five-fingers-to-walk.jpg?id=68383398&width=980",
+      "score": 4.542,
+      "cobertura": []
+    },
+    {
+      "id": "bcb1ebbc55ff",
+      "titulo": "Jabil discusses the pace of humanoid robot development and production",
+      "url": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
+      "resumo": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress. The post Jabil discusses the pace of humanoid robot development and production appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-08T16:16:21+00:00",
+      "coletado_em": "2026-10-09T16:13:54.525703+00:00",
+      "imagem_feed": null,
+      "score": 3.901,
+      "cobertura": []
+    },
+    {
+      "id": "6b2f68612d16",
+      "titulo": "AWS launches open-source Physical AI Toolchain for robotics",
+      "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+      "resumo": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and continuous improvement. The post AWS launches open-source Physical AI Toolchain for robotics appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-08T13:23:58+00:00",
+      "coletado_em": "2026-10-09T16:13:54.525703+00:00",
+      "imagem_feed": null,
+      "score": 3.825,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "b0820d20d904",
+      "titulo": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1099587/",
+      "resumo": "Security updates have been issued by AlmaLinux (bind, bind9.16, freerdp, glibc, kbd, mod_auth_openidc, openssl, perl-DBI, python3.12, python3.14, and tftp), Debian (rails and twitter-bootstrap3), Fedora (barman, cockpit, hcloud, libmodsecurity, nginx-mod-modsecurity, perl-DBI, sudo, and xorg-x11-server-Xwayland), Mageia (libxfont2), Oracle (bind9.18, firefox, kernel, nodejs24, perl-DBI, and vim), Red Hat (kernel, libreswan, opentelemetry-collector, osbuild-composer, rhc, and runc), SUSE (alloy, amazon-ecs-init, bind, busybox, distribution, emacs, ghostscript, glibc, GraphicsMagick, hauler, helm, helm3, jackson-annotations, jackson-core, jackson-databind, kernel, libpoppler-cpp3, libxtst, logback, nvidia-open-driver-G07-signed, perl-DBI, php-composer2, pi-coding-agent, portprotonqt, pvetui, python-hpack, python313-GitPython, and wpa_supplicant), and Ubuntu (apache2, bluez, libarchive, libde265, libgit2, libpng1.6, libxml2, linux, linux-aws, linux-aws-6.8, linux-aws-fips, linux-fips, linux-realtime, linux-realtime-6.8, linux-aws-7.0, linux-azure, linux-azure-6.8, linux-azure-fde, linux-azure-fde-6.8, linux-azure-fips, linux-azure-7.0, linux-azure-fde-7.0, linux-gcp, linux-gcp-6.8, li",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-09T13:08:14+00:00",
+      "coletado_em": "2026-10-09T16:13:54.526982+00:00",
+      "imagem_feed": null,
+      "score": 5.723,
+      "cobertura": []
+    },
+    {
+      "id": "c69b5d743c62",
+      "titulo": "Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%",
+      "url": "https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Shopify has updated its Checkout Blocks app, transitioning five high-traffic checkout UI extensions to remote-dom using Preact and Polaris web components. The rewrite, which involved moving to TypeScript and a new API version, led to significant reductions in bundle sizes and load times. From October 1, 2026, only the updated versions will be supported. By Daniel Curtis",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-09T15:01:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.526210+00:00",
+      "imagem_feed": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+      "score": 5.064,
+      "cobertura": []
+    },
+    {
+      "id": "7a9b78b4d99f",
+      "titulo": "Backup e conversas no WhatsApp: como salvar, restaurar e resolver problemas de sincronização",
+      "url": "https://canaltech.com.br/apps/backup-e-conversas-no-whatsapp-como-salvar-restaurar-e-resolver-problemas-de-sincronizacao/",
+      "resumo": "O WhatsApp permite salvar conversas no Google Drive ou no iCloud , restaurar o histórico e transferir mensagens para outro celular. Além disso, é possível guardar chats individualmente e recuperar conteúdos que ainda estejam em uma cópia de segurança. Testado e atualizado pela equipe do Canaltech em outubro de 2026 na versão mais recente do app. Como fazer o backup do WhatsApp Veja como fazer uma cópia de segurança de suas conversas no WhatsApp: Antes de começar, confira se a Conta do Google ou da Apple está conectada ao celular e se há espaço disponível no aparelho e na nuvem . Veja como salvar: Abra o WhatsApp; Entre nas configurações; Acesse “Conversas”; Toque em “Backup de conversas”; No Android, escolha a Conta do Google; Faça o backup; Aguarde a conclusão. Como configurar o backup automático e conferir a última cópia Na tela “Backup de conversas”, escolha a frequência do salvamento automático . É possível programar o app para fazer cópias diárias, semanais ou mensais. Como verificar o horário do último backup O WhatsApp informa o horário da última cópia de segurança no menu de ajustes do backup . Lá, você consegue verificar tanto a data e hora quanto o tamanho total do arquiv",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-09T15:46:40+00:00",
+      "coletado_em": "2026-10-09T16:13:54.553540+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/nGcpQTOgX1dLK-S0a5O9yc3cmy0=/0x0/filters:format(webp):quality(85)/b41e93bc-2a94-43c3-b325-be20ded078c4.png",
+      "score": 5.048,
+      "cobertura": []
+    },
+    {
+      "id": "39cf35f093a8",
+      "titulo": "Olson and Söderqvist Discuss Valkey’s Evolution and Future Past Caching Use Cases at OSS EU",
+      "url": "https://www.infoq.com/news/2026/10/valkey-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Valkey is a growing project, launched as a fork of Redis over two years ago, supported by twelve maintainers and nine committee members from various companies. Recent developments include enhanced throughput, improved cluster functionality, and plans for features like synchronous replication and tiered storage. The project also emphasises security and release efficiency through automation. By Olimpiu Pop",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-09T09:09:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.526210+00:00",
+      "imagem_feed": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+      "score": 5.029,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "b08bd5352fa4",
+      "titulo": "Gigabyte's latest BIOS update hints at Intel's Raptor Lake Next Launch in 2027",
+      "url": "https://www.tomshardware.com/pc-components/cpus/gigabytes-latest-bios-update-hints-at-intels-raptor-lake-next-launch-in-2027-new-cpus-may-support-both-ddr4-and-ddr5-memory",
+      "resumo": "Gigabyte confirms BIOS support for upcoming Intel LGA 1700 processors on B760 and H610 motherboards, with the rumored Raptor Lake Next lineup expected in early 2027 to support both DDR4 and DDR5 memory.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-09T13:43:01+00:00",
+      "coletado_em": "2026-10-09T16:13:54.527484+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/wAeeAwvMatDXEYWHPqobid-1920-80.png",
+      "score": 5.93,
+      "cobertura": []
+    },
+    {
+      "id": "506da5a2e0fd",
+      "titulo": "PC shipments tumble over 20% in 3Q26 as chip shortages bite",
+      "url": "https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year",
+      "resumo": "PC shipments for the third quarter of 2026 drop by 15.8 million units, with Lenovo, HP, and Dell being hit the hardest. Memory chip manufacturers estimate that the situation will not improve until 2028 or 2029, even as Acer believes that PC prices will decline by late 2027.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-09T11:10:05+00:00",
+      "coletado_em": "2026-10-09T16:13:54.527484+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf-1920-80.jpg",
+      "score": 5.193,
+      "cobertura": []
+    },
+    {
+      "id": "5e300b5581c1",
+      "titulo": "AMD attempted to crush the 'Megahertz myth' with its Performance Rating system on this day 25 years ago",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-tried-to-crush-the-megahertz-myth-25-years-ago-today-debuting-its-performance-rating-system-athlon-xp-chips-introduced-the-scheme-which-endured-until-intel-lost-its-clock-speed-advantage-with-pentium-m",
+      "resumo": "Today, a quarter of a century ago, AMD launched its AMD Athlon XP processor family and its Performance Rating (PR) naming scheme.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-09T09:30:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.527484+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/fyTXKsuTYKKbJQu7FCQUPP-1920-80.jpg",
+      "score": 5.056,
+      "cobertura": []
+    },
+    {
+      "id": "2612b32e5281",
+      "titulo": "Nova busca do Windows 11 vai mudar o jeito que você usa o PC",
+      "url": "https://canaltech.com.br/software/nova-busca-do-windows-11-vai-mudar-o-jeito-que-voce-usa-o-pc/",
+      "resumo": "A busca do Windows 11 finalmente foi atualizada e se tornou mais inteligente. A Microsoft revelou a nova versão do componente na última quarta-feira (07), durante evento de apresentação do novo Surface com chip RTX Spark. Com a mudança, a ferramenta deixa de ser apenas um localizador de apps e arquivos para se transformar em uma alternativa para controlar todo o computador pela Barra de Tarefas . É possível executar tarefas pelo PC em comandos rápidos e ainda acionar o Copilot. A barra de pesquisas padrão do Windows é pouco funcional e não responde bem a erros de digitação, por exemplo, normalmente sugerindo um resultado do Bing no lugar de uma informação que deveria ser encontrada no PC. O ajuste melhora a compreensão do contexto e traz resultados mais inteligentes. O que é possível fazer com a nova barra de busca do Windows? Algumas das funções disponíveis incluem: Novo visual para destacar prévias de arquivos Consulta rápida de informações na web, como previsão do tempo e ações da bolsa de valores, com prévias mais diretas Mudanças nas configurações, como “Ativar modo escuro” ou “Ligar Bluetooth”; Ajustes rápidos na tela, como “Minimizar todas as janelas” ou “Organizar janelas n",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-09T15:11:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.553540+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/UlI4fTaZ97dd7aYXetMq8a-ogDk=/0x0/filters:format(webp):quality(85)/925a20ef-4bf5-4b79-8b34-d8ecdde4f80e.png",
+      "score": 4.982,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "5c5bd7e10e10",
+      "titulo": "SPHEREx spots menagerie of brown dwarfs with atmospheric water and methane",
+      "url": "https://phys.org/news/2026-10-spherex-menagerie-brown-dwarfs-atmospheric.html",
+      "resumo": "NASA's SPHEREx (Spectro-Photometer for the History of the universe, Epoch of Reionization, and ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant planets in our own solar system.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-09T13:20:05+00:00",
+      "coletado_em": "2026-10-09T16:13:54.528751+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-spherex-telescop-2.jpg",
+      "score": 6.742,
+      "cobertura": [
+        "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/"
+      ]
+    },
+    {
+      "id": "4780d1b34443",
+      "titulo": "Cosmic House of Mirrors",
+      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+      "resumo": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-09T13:57:24+00:00",
+      "coletado_em": "2026-10-09T16:13:54.528250+00:00",
+      "imagem_feed": null,
+      "score": 6.254,
+      "cobertura": []
+    },
+    {
+      "id": "bc9fa6700145",
+      "titulo": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+      "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+      "resumo": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-08T18:22:48+00:00",
+      "coletado_em": "2026-10-09T16:13:54.528250+00:00",
+      "imagem_feed": null,
+      "score": 6.066,
+      "cobertura": [
+        "https://phys.org/news/2026-10-spherex-menagerie-brown-dwarfs-atmospheric.html"
+      ]
+    },
+    {
+      "id": "e3acd72e9aba",
+      "titulo": "Programa USP 60+ reúne especialistas em simpósio sobre Envelhecimento Ativo",
+      "url": "https://jornal.usp.br/cadernodecultura/programa-usp-60-reune-especialistas-em-simposio-sobre-envelhecimento-ativo/",
+      "resumo": "Encontro de dois dias no Espaço Brasiliana aborda diversos temas, do bem-estar psicológico à vacinação",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "astrofisica"
+      ],
+      "publicado": "2026-10-09T13:51:21+00:00",
+      "coletado_em": "2026-10-09T16:13:54.543140+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20180510_0949252-1024x538.jpg",
+      "score": 5.094,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "aa2a4858e6a6",
+      "titulo": "Quobly and SiPearl Partner to Explore European CPU-QPU Integration For Sovereign Quantum Computing",
+      "url": "https://thequantuminsider.com/2026/10/09/quobly-and-sipearl-partner-to-explore-european-cpu-qpu-integration-for-sovereign-quantum-computing/",
+      "resumo": "Insider Brief PRESS RELEASE — Quobly, a French quantum computing company developing industrially scalable quantum computers based on silicon spin qubits, and SiPearl, the designer of European high-performance energy-efficient CPUs for sovereign supercomputing, AI and data centre, have signed a Memorandum of Understanding (MoU) to combine their respective technologies and expertise towards a sovereign quantum […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-09T10:56:18+00:00",
+      "coletado_em": "2026-10-09T16:13:54.529327+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/SiPearlxQuobly.jpg",
+      "score": 6.173,
+      "cobertura": []
+    },
+    {
+      "id": "9a38f07fd451",
+      "titulo": "Superconducting circuit links smaller photon groups into larger entangled states",
+      "url": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html",
+      "resumo": "Quantum computers, computer systems that leverage the laws of quantum mechanics, store and process information using qubits (i.e., quantum bits). In many quantum computers, qubits are linked via entanglement, a quantum mechanical effect that connects particles in such a way that their shared state cannot be described as separate, independent states.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-09T12:00:06+00:00",
+      "coletado_em": "2026-10-09T16:13:54.529658+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-strategy-to-link-gro.jpg",
+      "score": 6.116,
+      "cobertura": []
+    },
+    {
+      "id": "cb27c83cc56c",
+      "titulo": "IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect",
+      "url": "https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/",
+      "resumo": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced the achievement of entanglement rates above 1,000 per second (1 kHz) between a trapped ion qubit and a solid-state memory, through a photonic interconnect. Entanglement is the quantum connection that lets separate systems work together, and it […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-09T13:20:20+00:00",
+      "coletado_em": "2026-10-09T16:13:54.529327+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-09_18-19.png",
+      "score": 5.892,
+      "cobertura": []
+    },
+    {
+      "id": "3b304643bc3a",
+      "titulo": "Guest Post: Quantum Computing’s Transistor Moment",
+      "url": "https://thequantuminsider.com/2026/10/09/guest-post-quantum-computings-transistor-moment/",
+      "resumo": "A new paper demonstrating Grover’s search on a room-temperature diamond processor may echo the transistor’s takeover from vacuum tubes – and raises questions about how much vacuum-dependent quantum hardware survives the same transition. Guest Post By Prof. Dr. Marius Grundmann, CEO, SAXON Q Every disruptive technology has a quiet laboratory result that outsiders miss and […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-09T14:45:33+00:00",
+      "coletado_em": "2026-10-09T16:13:54.529327+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-10.40.29-AM-1.png",
+      "score": 5.037,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "2612b32e5281",
+      "titulo": "Nova busca do Windows 11 vai mudar o jeito que você usa o PC",
+      "url": "https://canaltech.com.br/software/nova-busca-do-windows-11-vai-mudar-o-jeito-que-voce-usa-o-pc/",
+      "resumo": "A busca do Windows 11 finalmente foi atualizada e se tornou mais inteligente. A Microsoft revelou a nova versão do componente na última quarta-feira (07), durante evento de apresentação do novo Surface com chip RTX Spark. Com a mudança, a ferramenta deixa de ser apenas um localizador de apps e arquivos para se transformar em uma alternativa para controlar todo o computador pela Barra de Tarefas . É possível executar tarefas pelo PC em comandos rápidos e ainda acionar o Copilot. A barra de pesquisas padrão do Windows é pouco funcional e não responde bem a erros de digitação, por exemplo, normalmente sugerindo um resultado do Bing no lugar de uma informação que deveria ser encontrada no PC. O ajuste melhora a compreensão do contexto e traz resultados mais inteligentes. O que é possível fazer com a nova barra de busca do Windows? Algumas das funções disponíveis incluem: Novo visual para destacar prévias de arquivos Consulta rápida de informações na web, como previsão do tempo e ações da bolsa de valores, com prévias mais diretas Mudanças nas configurações, como “Ativar modo escuro” ou “Ligar Bluetooth”; Ajustes rápidos na tela, como “Minimizar todas as janelas” ou “Organizar janelas n",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-09T15:11:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.553540+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/UlI4fTaZ97dd7aYXetMq8a-ogDk=/0x0/filters:format(webp):quality(85)/925a20ef-4bf5-4b79-8b34-d8ecdde4f80e.png",
+      "score": 5.482,
+      "cobertura": []
+    },
+    {
+      "id": "483db3e02120",
+      "titulo": "Best gaming monitors 2026: Displays that will do your games justice",
+      "url": "https://www.pcworld.com/article/813301/best-gaming-monitors.html",
+      "resumo": "Any monitor can be used for PC gaming, but a display built for productivity will likely leave you underwhelmed. Limited contrast, blurry motion, and slow refresh rates still hold basic productivity monitors back in games. Fortunately, there’s no shortage of excellent gaming monitors available at a wide range of price points—and the best of them embrace cutting-edge technology unavailable in any other PC display. The following are the best gaming monitors we’ve tested throughout this year and last. If you want to learn more about what we look for in a good gaming monitor and how we test them, scroll further down the page. Why you should trust PCWorld for monitors reviews and buying advice: We’re PCWorld, after all. We’ve been covering PCs since 1983, and we now review dozens of monitors every year. All of our recommendations have been personally tested and vetted by our expert reviewers, who’ve applied not only performance benchmarks but rigorous usability standards. MSI MPG 272URX – Best gaming monitor Pros 26.5-inch 4K OLED panel looks sharp Great contrast and color performance Strong motion clarity Respectable HDR performance Lots of connectivity including USB-C Cons Design is a ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-09T16:00:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.530524+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/813301-0-64202600-1791561631-dell-3223q-1.jpg?quality=50&strip=all",
+      "score": 5.173,
+      "cobertura": []
+    },
+    {
+      "id": "09574cb54243",
+      "titulo": "Microsoft and Adobe hit with green-card suspensions as Vance accuses tech firms of sidelining American workers",
+      "url": "https://www.techspot.com/news/114154-microsoft-adobe-hit-green-card-suspensions-vance-accuses.html",
+      "resumo": "The suspension targets the Permanent Labor Certification program, better known as PERM. Adobe, Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies, and Capgemini are also affected. Labor Secretary Keith Sonderling said officials would stop accepting new applications and processing pending ones from the companies. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-09T13:38:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.536924+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-09-ts3_thumbs-9ed.jpg",
+      "score": 5.121,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud"
+      ]
+    },
+    {
+      "id": "b5ef4a056ade",
+      "titulo": "Is your graphics card getting too hot? This tip will boost its performance",
+      "url": "https://www.pcworld.com/article/3244556/is-your-graphics-card-getting-too-hot-this-tip-will-boost-its-performance.html",
+      "resumo": "Graphics cards don’t simply die of old age — they usually suffocate due to neglect. The biggest enemy is dust, which settles on the cooling fins like an insulating layer and sabotages the cooling performance. However, before you take any action, you should carry out a professional diagnosis. Use the free tool Hwinfo for this. Launch the program in ‘Sensors only’ mode and look for the ‘GPU Hotspot Temperature’ reading under your graphics card. This reading represents the hottest spot directly on the silicon chip. Compare it with the normal ‘GPU Temperature,’ which is the average reading. A difference (delta) of more than 20 degrees Celsius under full load is a clear warning sign. It suggests that contact between the chip and the cooler is poor — for example, because the thermal paste has dried out or is unevenly distributed. If the delta is as high as 30 degrees Celsius or more, the card will already be significantly throttling its clock speed to prevent damage (thermal throttling). When carrying out PC maintenance, do pay special attention to your graphics card. After all, with the right GPU care, you can specifically prevent performance losses. Dell The first step in maintenance i",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-09T14:30:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.530524+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3244556-0-08238600-1791556218-nvidia7.jpg?quality=50&strip=all",
+      "score": 5.01,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "76d765ca9c9f",
+      "titulo": "Google piora o Gemini para quem não é assinante a partir de hoje (9)",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-piora-o-gemini-para-quem-nao-e-assinante-a-partir-de-hoje-9/",
+      "resumo": "O Google começa a limitar, nesta sexta-feira (9), os recursos disponíveis para usuários da versão gratuita do Gemini. A partir de agora, quem utiliza a inteligência artificial (IA) sem pagar uma assinatura perde o acesso aos modelos Flash e Pro , que passam a ser exclusivos dos planos pagos. A mudança também afeta assinantes do Google AI Plus, opção mais barata oferecida pela empresa. As restrições haviam sido anunciadas no início do mês, conforme noticiado pelo Canaltech . Segundo a página de suporte do Google, a atualização começa a valer hoje para contas pessoais sem assinatura, mas pode levar algum tempo para aparecer para todos os usuários. O que muda no Gemini gratuito? Com a atualização, quem não paga pelo Gemini fica limitado ao modelo Flash-Lite , versão mais leve da IA do Google, voltada para respostas rápidas e tarefas menos complexas. Até então, esses usuários também conseguiam utilizar o Flash e o Pro, embora com restrições de uso. O último é direcionado a atividades que exigem maior capacidade de raciocínio, como programação, análise de informações e resolução de problemas complexos. A alteração significa que usuários gratuitos deixam de ter a opção de selecionar mode",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-09T13:06:35+00:00",
+      "coletado_em": "2026-10-09T16:13:54.553540+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
+      "score": 5.77,
+      "cobertura": []
+    },
+    {
+      "id": "1026f44da2bc",
+      "titulo": "Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
+      "url": "https://tecnoblog.net/noticias/claude-haiku-5-5-anthropic-lanca-modelo-de-ia-mais-rapido-e-barato/",
+      "resumo": "Nova inteligência pode custar 95% menos que o Sonnet 5.5 e empresa fala em desempenho superior ao GPT-6 Luna. Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-09T03:12:57+00:00",
+      "coletado_em": "2026-10-09T16:13:54.548224+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-5.jpg",
+      "score": 5.193,
+      "cobertura": []
+    },
+    {
+      "id": "47672f48bba9",
+      "titulo": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "resumo": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-08T18:18:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.540071+00:00",
+      "imagem_feed": null,
+      "score": 4.813,
+      "cobertura": []
+    },
+    {
+      "id": "b7942fed5b9f",
+      "titulo": "A16z’s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "resumo": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-09T15:43:33+00:00",
+      "coletado_em": "2026-10-09T16:13:54.540071+00:00",
+      "imagem_feed": null,
+      "score": 4.692,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "fecd05bdfe1f",
+      "titulo": "Scientists find hidden materials that could improve batteries and solar fuels",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+      "resumo": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to help produce clean hydrogen. The new version has a different atomic structure and interacts with light in a strikingly different way, potentially opening new possibilities for solar fuels, catalysts, and electronics.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-09T10:20:23+00:00",
+      "coletado_em": "2026-10-09T16:13:54.540730+00:00",
+      "imagem_feed": null,
+      "score": 5.823,
+      "cobertura": []
+    },
+    {
+      "id": "de99b5c583d8",
+      "titulo": "iPhone Air 2 pode ficar mais fino sem piorar (ainda mais) a bateria",
+      "url": "https://tecnoblog.net/noticias/iphone-air-2-pode-ficar-mais-fino-sem-piorar-ainda-mais-a-bateria/",
+      "resumo": "Segunda geração também deve ganhar câmera ultrawide de 48 MP e chip A20 Pro. iPhone Air 2 pode ficar mais fino sem piorar (ainda mais) a bateria",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-09T11:44:20+00:00",
+      "coletado_em": "2026-10-09T16:13:54.548224+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/sKJ0_NNcJzI",
+      "score": 4.293,
+      "cobertura": []
+    },
+    {
+      "id": "dba6ce8b9048",
+      "titulo": "Zankore's AI factory: Can Central Java afford the water cost?",
+      "url": "https://techxplore.com/news/2026-10-zankore-ai-factory-central-java.html",
+      "resumo": "Indosat Ooredoo Hutchison, together with Ooredoo Group, Nokia and Nvidia, plans to develop Zankore, an artificial intelligence (AI) infrastructure platform aimed at serving the region.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-09T11:20:02+00:00",
+      "coletado_em": "2026-10-09T16:13:54.541050+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/zankores-ai-factory-ca.jpg",
+      "score": 4.057,
+      "cobertura": []
+    },
+    {
+      "id": "2758d9f6e5c0",
+      "titulo": "Heat-storing gel could cut buildings' energy consumption",
+      "url": "https://techxplore.com/news/2026-10-gel-energy-consumption.html",
+      "resumo": "Heating and cooling buildings account for a large portion of global energy use. A research team in the Texas A&M University Department of Materials Science and Engineering was featured on the cover of ACS Applied Materials & Interfaces for a study that aims to reduce that energy consumption.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-08T20:40:04+00:00",
+      "coletado_em": "2026-10-09T16:13:54.541050+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/heat-storing-gel-could.jpg",
+      "score": 3.696,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "adc4c25fb726",
+      "titulo": "Logitech prepara versão mais barata do mouse consagrado MX Master 4",
+      "url": "https://canaltech.com.br/hardware/logitech-prepara-versao-mais-barata-do-mouse-consagrado-mx-master-4/",
+      "resumo": "Lançado oficialmente como a nova referência em periféricos de produtividade, o Logitech MX Master 4, lançado há mais de um ano , pode ganhar uma versão simplificada e mais barata em breve . Vazamentos recentes divulgados pelo leaker Roland Quandt indicam que a fabricante suíça desenvolve o \" MX Master 4 SE \", modelo que deve reutilizar a estrutura ergonômica consagrada da linha, mas reduzindo alguns recursos para atingir um preço inicial mais amigável. A sigla \"SE\" costuma indicar produtos de entrada dentro do portfólio de grandes empresas de tecnologia, o que fortalece os rumores de cortes pontuais no periférico. Como o MX Master 4 original se destaca pela introdução de motores de feedback tátil e um botão dedicado sob o apoio do polegar para acionar os atalhos do menu \"Actions Ring\", esses recursos avançados surgem como os principais candidatos a ficarem de fora no modelo mais modesto . O que pode mudar para baratear o dispositivo Um dos destaques da quarta geração desse mouse é o sensor Darkfield de 8.000 DPI capaz de rastrear em superfícies de vidro, além da roda de rolagem eletromagnética MagSpeed e do motor háptico integrado, que vibra para confirmar ações na tela. Para reduz",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-09T15:15:59+00:00",
+      "coletado_em": "2026-10-09T16:13:54.553540+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/MX-_OktZC1ry34iX5mQHrfOTK3g=/0x0/filters:format(webp):quality(85)/984d73cc-2a9c-4576-953b-a7b0f8cec38f.png",
+      "score": 4.492,
+      "cobertura": []
+    },
+    {
+      "id": "e9e14e02417d",
+      "titulo": "GTA 6: vazamento de 24 minutos tem corridas e nudez dos protagonistas",
+      "url": "https://tecnoblog.net/noticias/gta-6-sofre-vazamento-de-24-minutos-com-corridas-e-nudez-dos-protagonistas/",
+      "resumo": "É o primeiro grande vazamento desde a gameplay estendida exibida na Netflix em setembro. GTA 6: vazamento de 24 minutos tem corridas e nudez dos protagonistas",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-09T13:22:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.548224+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/VQRLujxTm3c",
+      "score": 4.445,
+      "cobertura": []
+    },
+    {
+      "id": "4951ca7a524b",
+      "titulo": "CISA, FBI, NSA and International Partners Warn of China-based Cybersecurity Company Enabling Threat Actors to Target Multiple Critical Infrastructure Sectors Worldwide",
+      "url": "https://www.cisa.gov/news-events/news/cisa-fbi-nsa-and-international-partners-warn-china-based-cybersecurity-company-enabling-threat",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-08T12:00:00+00:00",
+      "coletado_em": "2026-10-09T16:13:54.541447+00:00",
+      "imagem_feed": null,
+      "score": 3.392,
+      "cobertura": []
+    },
+    {
+      "id": "0ad43d44b2f8",
+      "titulo": "Galaxy S27 Ultra pode ficar sem Exynos 2700 e usar Snapdragon no mundo todo",
+      "url": "https://canaltech.com.br/smartphone/galaxy-s27-ultra-pode-ficar-sem-exynos-2700-e-usar-snapdragon-no-mundo-todo/",
+      "resumo": "O Galaxy S27 Ultra pode chegar ao mercado sem o Exynos 2700 , processador desenvolvido pela própria Samsung. Novos rumores indicam que a fabricante deve reservar o chip para os modelos Galaxy S27, S27+ e S27 Pro em boa parte do mundo, enquanto o modelo Ultra pode usar um processador Snapdragon em todos os mercados. A informação vem do informante sul-coreano yeux1122. Segundo ele, a Samsung trabalha com uma distribuição diferente dos processadores para a linha de celulares prevista para 2027, e a possibilidade de equipar o Ultra com o Exynos 2700 seria muito improvável. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas O Exynos 2700 deve equipar os Galaxy S27, S27+ e S27 Pro na Coreia do Sul, Europa, Índia e outras regiões. Nos Estados Unidos, esses modelos também podem receber chips da Qualcomm, empresa responsável pela linha Snapdragon. Já o Galaxy S27 Ultra teria o Snapdragon 8 Elite Extreme Gen 6 em todas as regiões. A Samsung ainda não confirmou oficialmente os planos para a próxima geração, prevista para o início de 2027. O vazamento também indica que a produção do Exynos 2700 deve crescer entre 8% e 11% em relação à geração anterior, o Exynos 2600. A ampliação es",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-09T09:16:59+00:00",
+      "coletado_em": "2026-10-09T16:13:54.553540+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9Czka33tq2m-6ZSH12-KEaOR1ls=/0x0/filters:format(webp):quality(85)/54e23f90-f357-4a02-ac67-0a69e6ef650b.jpg",
+      "score": 0.939,
+      "cobertura": []
+    }
+  ]
+}
