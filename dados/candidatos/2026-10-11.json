@@ -17,6 +17,22 @@
   "cobertura": []
  },
  {
+  "id": "03161c84ba14",
+  "titulo": "Quer jogar com mais fluidez? Veja uma seleção de monitores gamer em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/10/reviews/quer-jogar-com-mais-fluidez-veja-uma-selecao-de-monitores-gamer-em-promocao-na-amazon-5/",
+  "resumo": "Quem leva os games a sério sabe que um bom monitor faz toda a diferença na experiência de jogo. Taxa de atualização alta, tempo de resposta baixo e tecnologias como G-SYNC e FreeSync são diferenciais que eliminam o tearing e deixam a imagem muito mais suave. Separamos três opções de monitores gamer que estão em […] O post Quer jogar com mais fluidez? Veja uma seleção de monitores gamer em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-10T14:20:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.659625+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "0400dd3adc4d",
   "titulo": "Streaming do seu jeito: veja uma seleção de dispositivos em promoção na Amazon",
   "url": "https://olhardigital.com.br/2026/10/10/reviews/streaming-do-seu-jeito-veja-uma-selecao-de-dispositivos-em-promocao-na-amazon/",
@@ -89,8 +105,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
-   "astrofisica"
+   "astrofisica",
+   "hardware"
   ],
   "publicado": "2026-10-09T14:20:21+00:00",
   "coletado_em": "2026-10-10T13:34:58.012619+00:00",
@@ -275,6 +291,22 @@
   "cobertura": []
  },
  {
+  "id": "0decde66c5ee",
+  "titulo": "Anthropic is cutting off its internal evaluations from the internet",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+  "resumo": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-10T14:41:16+00:00",
+  "coletado_em": "2026-10-10T15:23:32.652341+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "0ea9d786e45e",
   "titulo": "AI agent makers are promising privacy — will they deliver?",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
@@ -419,6 +451,22 @@
   "publicado": "2026-10-09T12:35:32+00:00",
   "coletado_em": "2026-10-10T13:34:58.005811+00:00",
   "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2016/09/colunista_radioUSP-marceloFinger-3-1024x1024.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "1b600895636d",
+  "titulo": "Radiation exposure linked to pulmonary hypertension after lung cancer treatment",
+  "url": "https://medicalxpress.com/news/2026-10-exposure-linked-pulmonary-hypertension-lung.html",
+  "resumo": "Lung cancer patients undergoing radiation treatment may be at higher risk of developing pulmonary hypertension, a type of high blood pressure that affects the arteries that carry blood from the right side of the heart to the lungs. Over time, that heightened pressure can lead to right-sided heart failure.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-10T14:40:01+00:00",
+  "coletado_em": "2026-10-10T15:23:32.639608+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2021/doctor-2.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -641,13 +689,30 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
+   "computadores_pessoais",
    "hardware",
-   "computadores_pessoais"
+   "software"
   ],
   "publicado": "2026-10-09T15:11:00+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/UlI4fTaZ97dd7aYXetMq8a-ogDk=/0x0/filters:format(webp):quality(85)/925a20ef-4bf5-4b79-8b34-d8ecdde4f80e.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "286055e5f917",
+  "titulo": "Senate investigation says that some AI data center claims are misleading",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data",
+  "resumo": "A Senate investigation on AI data centers question that costs and benefits that AI hyperscalers show when they apply for permits to put up their developments. The report says that these claims are misleading and that they don't show the real impact of these sites on the local economy.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-10T14:40:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.644286+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Bz7D4w5AHyfAYVYhZ3v2vm-1920-80.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -691,13 +756,30 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
    "astrofisica",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-10-09T13:58:15+00:00",
   "coletado_em": "2026-10-10T13:34:58.012619+00:00",
   "imagem_feed": "https://www.youtube.com/embed/A5E0GDs37F8",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "2a6bfea0142b",
+  "titulo": "We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11",
+  "url": "https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios",
+  "resumo": "We managed to install Windows 7 on a modern PC and put it to the test across eight DirectX 11 games and two DirectX 9 titles to see how its gaming performance compares to Windows 11 today.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-10T13:40:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.644286+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/GK5BBzfVnS4uShqz4uQXpb-1920-80.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -741,8 +823,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "software",
-   "astrofisica"
+   "astrofisica",
+   "software"
   ],
   "publicado": "2026-10-09T16:43:24+00:00",
   "coletado_em": "2026-10-10T13:34:58.012619+00:00",
@@ -762,6 +844,22 @@
   ],
   "publicado": "2026-10-09T16:40:14+00:00",
   "coletado_em": "2026-10-10T13:34:58.004374+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "30aa1cf96e27",
+  "titulo": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+  "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+  "resumo": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-10T14:00:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.652341+00:00",
   "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
@@ -998,8 +1096,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "energia_materiais"
+   "energia_materiais",
+   "software"
   ],
   "publicado": "2026-10-09T14:27:33+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -1015,9 +1113,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "medicina",
+   "energia_materiais",
    "hardware",
-   "energia_materiais"
+   "medicina"
   ],
   "publicado": "2026-10-09T15:10:33+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -1103,6 +1201,24 @@
   "publicado": "2026-10-10T10:30:00+00:00",
   "coletado_em": "2026-10-10T13:34:57.993556+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/W4bNjvtdxZJqKsG4ybdwT7-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "42b6aff38e6b",
+  "titulo": "Hora de renovar o seu setup: selecionamos notebooks em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/10/reviews/hora-de-renovar-o-seu-setup-selecionamos-notebooks-em-promocao-na-amazon/",
+  "resumo": "Se você está pensando em trocar de notebook ou adquirir um para trabalho, estudos ou uso do dia a dia, a Amazon reúne agora uma boa seleção de opções com preços competitivos. Separamos três modelos que se destacam pela configuração e custo-benefício, indo do compacto e acessível ao intermediário bem equipado. Confira. Notebook Samsung Galaxy […] O post Hora de renovar o seu setup: selecionamos notebooks em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "astrofisica",
+   "computadores_pessoais",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-10T14:00:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.659625+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -1306,14 +1422,30 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "computadores_pessoais",
-   "inteligencia_artificial"
+   "hardware",
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-09T19:03:00+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/7slffTq-h_798KVVjhgawkOqxYY=/0x0/filters:format(webp):quality(85)/629a5fa4-fdc4-4f64-acfb-1b71844c2f8d.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "4bd21ff859a6",
+  "titulo": "Survey says workers are pretending to use AI to impress their bosses, but many don't know what they're doing",
+  "url": "https://www.techspot.com/news/114160-workers-pretending-use-ai-impress-their-bosses-but.html",
+  "resumo": "According to the findings, which come from research conducted in part by business intelligence firm Visier, nearly half of surveyed US employees misreport how much they use generative AI in the workplace. Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-10T14:01:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.651372+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-10-ts3_thumbs-058.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1429,6 +1561,22 @@
   "publicado": "2026-10-09T12:17:11+00:00",
   "coletado_em": "2026-10-10T13:34:57.995415+00:00",
   "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-09_17-16.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5550ecb77a55",
+  "titulo": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+  "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+  "resumo": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-10T14:18:59+00:00",
+  "coletado_em": "2026-10-10T15:23:32.645007+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -1884,6 +2032,38 @@
   "cobertura": []
  },
  {
+  "id": "7114c24151bf",
+  "titulo": "The medicine of the future could be driven by mechanical cell memory",
+  "url": "https://medicalxpress.com/news/2026-10-medicine-future-driven-mechanical-cell.html",
+  "resumo": "It's not a cure for baldness. But it might eliminate crow's feet and laugh lines by telling the tissues in your face how to remember their more elastic youth.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-10T13:40:01+00:00",
+  "coletado_em": "2026-10-10T15:23:32.639608+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/old-woman-laughing-1.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "727c3d004d8e",
+  "titulo": "Against the odds: Why some ecosystems thrive",
+  "url": "https://phys.org/news/2026-10-odds-ecosystems.html",
+  "resumo": "From coral reefs in Papua New Guinea to chimpanzees in West Africa, grizzly bears in Canada and albatross colonies off Tasmania, some ecosystems are thriving despite climate change, habitat loss and other environmental pressures.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-10T13:40:10+00:00",
+  "coletado_em": "2026-10-10T15:23:32.640867+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/against-the-odds-why-s-3.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "76485e72fdd9",
   "titulo": "Use this promo code to get an $810 1TB cloud storage lifetime subscription for $130",
   "url": "https://www.pcworld.com/article/3255961/use-this-promo-code-to-get-an-810-1tb-cloud-storage-lifetime-subscription-for-130.html",
@@ -2179,6 +2359,22 @@
   "cobertura": []
  },
  {
+  "id": "809098db807e",
+  "titulo": "K-pop star Sunmi loves Notion and ear cleaning videos",
+  "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+  "resumo": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-10T15:00:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.652341+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "80bfff9fd7a3",
   "titulo": "Gol lidera ranking dos carros usados mais vendidos em setembro",
   "url": "https://canaltech.com.br/carros/gol-lidera-ranking-dos-carros-usados-mais-vendidos-em-setembro/",
@@ -2346,8 +2542,8 @@
   "fonte": "Olhar Digital",
   "peso_fonte": 0.65,
   "categorias": [
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-10T12:40:00+00:00",
   "coletado_em": "2026-10-10T13:34:58.010341+00:00",
@@ -2493,8 +2689,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-10-09T19:34:14+00:00",
   "coletado_em": "2026-10-10T13:34:58.012619+00:00",
@@ -2510,9 +2706,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "robotica",
    "hardware",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "robotica"
   ],
   "publicado": "2026-10-09T22:08:00+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -2629,6 +2825,24 @@
   "publicado": "2026-10-09T13:05:36+00:00",
   "coletado_em": "2026-10-10T13:34:57.995415+00:00",
   "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-09_18-03.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9af3e3b2d31a",
+  "titulo": "O que é root no Android?",
+  "url": "https://canaltech.com.br/apps/o-que-e-root-no-android/",
+  "resumo": "Muitos usuários do Android consideram fazer root para ter mais controle sobre o celular e acessar recursos que ficam limitados pelas fabricantes ou operadoras. O procedimento costuma ser procurado por quem quer remover aplicativos pré-instalados, personalizar a interface ou modificar funções do sistema que não estão disponíveis na configuração de fábrica. Embora o Android tenha componentes de código aberto, as fabricantes aplicam restrições e permissões para proteger o sistema e os dados do usuário. O root altera essas limitações e concede privilégios elevados de administração, conhecidos como acesso de superusuário. Esse acesso abre novas possibilidades de personalização, mas também modifica o modelo de segurança do Android. Por isso, fazer root envolve riscos que devem ser considerados, como perda de suporte da fabricante, exposição maior a malwares e a possibilidade de inutilizar o aparelho em caso de erro durante o processo. A seguir, confira: O que é root no Android? Qual é a diferença entre root e jailbreak? Qual é a diferença entre root e bootloader? Quais são os riscos e benefícios de fazer root no Android? O que é root no Android? Fazer root no Android é obter privilégios ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "inteligencia_artificial",
+   "ciberseguranca"
+  ],
+  "publicado": "2026-10-10T14:00:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.664740+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/wV0ZkBgUGG9lPqd8RomzDBkE0QE=/0x0/filters:format(webp):quality(85)/e7f7a28b-2006-43d4-a3a8-3d72a3c4cd77.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -2880,14 +3094,30 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
+   "ciberseguranca",
    "hardware",
    "inteligencia_artificial",
-   "ciberseguranca"
+   "software"
   ],
   "publicado": "2026-10-09T18:02:01+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/g5fEjAjhd2BEKhuULNzOTYq7BHw=/0x0/filters:format(webp):quality(85)/7521ad58-c9a9-47a2-9ed1-1311edab69dd.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a893947d303d",
+  "titulo": "Here are the top AI agents that can live in your text messages",
+  "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "resumo": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-10T14:00:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.653754+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -2940,6 +3170,22 @@
   "cobertura": []
  },
  {
+  "id": "aac4e45abf28",
+  "titulo": "Quer jogar com tudo? Confira uma seleção de notebooks gamer em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/10/reviews/quer-jogar-com-tudo-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon/",
+  "resumo": "Se você está em busca de um notebook gamer para elevar sua experiência nos jogos — seja para rodar títulos pesados com fluidez ou para ter uma máquina versátil no dia a dia —, separamos três opções que estão em oferta agora na Amazon. Confira as características de cada um e escolha o que melhor […] O post Quer jogar com tudo? Confira uma seleção de notebooks gamer em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-10T13:40:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.659625+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "ac2c548222f7",
   "titulo": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
@@ -2980,8 +3226,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "ciberseguranca"
+   "ciberseguranca",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-09T15:15:59+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -3111,8 +3357,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-09T13:15:20+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -3224,8 +3470,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-09T17:12:00+00:00",
@@ -3347,6 +3593,71 @@
   "cobertura": []
  },
  {
+  "id": "c0c6819d1f8a",
+  "titulo": "A healthy Nordic diet may help you to live longer, but liver benefits remain unclear",
+  "url": "https://medicalxpress.com/news/2026-10-healthy-nordic-diet-longer-liver.html",
+  "resumo": "In general, people who eat a healthy diet give themselves a significantly better chance of avoiding some major diseases than those who don't. The Nordic diet, also known as a northern version of the Mediterranean diet, is a healthy, sustainable way of eating based on traditional foods of countries like Norway, Sweden, Denmark and Finland. It includes plant foods and berries, whole grains, low-fat dairy products and fatty fish.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-10T14:20:01+00:00",
+  "coletado_em": "2026-10-10T15:23:32.639608+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/fatty-fish.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c0f75c9b297d",
+  "titulo": "This week on Tom's Hardware Premium: October 10, 2026",
+  "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more",
+  "resumo": "This week on Tom's Hardware Premium, we covered how the AI buildout is affecting the industry supporting it across all axioms, including in law, chip design, manufacturing, and finance.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-10T15:00:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.644286+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/jq3f9gJdDJqZFw6FQjz6MV-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c4a2b69b6127",
+  "titulo": "High rare earth demand could complicate Europe's offshore wind ambitions",
+  "url": "https://techxplore.com/news/2026-10-high-rare-earth-demand-complicate.html",
+  "resumo": "Wind turbines, devices that can convert energy from the wind into electricity, do not burn fuel during operation and could thus reduce greenhouse gas emissions. Despite their possible environmental advantages, building these devices depends heavily on the mines and factories supplying the metals they are made of.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-10T15:20:07+00:00",
+  "coletado_em": "2026-10-10T15:23:32.654609+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/offshore-wind-1.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c6686da8d187",
+  "titulo": "Hora de trocar o relógio: veja uma seleção de smartwatches em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/10/reviews/hora-de-trocar-o-relogio-veja-uma-selecao-de-smartwatches-em-promocao-na-amazon-5/",
+  "resumo": "Se você está pensando em dar um upgrade no pulso, este é um bom momento para agir. Reunimos três opções de smartwatches disponíveis na Amazon com recursos interessantes para diferentes perfis — do usuário casual ao que pratica esportes com frequência. Confira as ofertas abaixo e escolha o modelo certo para você. Haiz My Watch […] O post Hora de trocar o relógio: veja uma seleção de smartwatches em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-10T13:20:00+00:00",
+  "coletado_em": "2026-10-10T15:23:32.659625+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "c66c61ed90a4",
   "titulo": "Microsoft is turning Windows Search into an AI agent-like experience",
   "url": "https://www.techspot.com/news/114141-windows-search-getting-ai-makeover-microsoft-pushes-toward.html",
@@ -3419,8 +3730,8 @@
   "peso_fonte": 0.6,
   "categorias": [
    "astrofisica",
-   "inteligencia_artificial",
-   "ciberseguranca"
+   "ciberseguranca",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-09T17:28:23+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -3484,10 +3795,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "astrofisica",
-   "inteligencia_artificial"
+   "hardware",
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-09T19:03:00+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -3599,9 +3910,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
    "hardware",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-09T21:02:00+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -3730,8 +4041,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
-   "energia_materiais"
+   "energia_materiais",
+   "hardware"
   ],
   "publicado": "2026-10-09T11:44:20+00:00",
   "coletado_em": "2026-10-10T13:34:58.012619+00:00",
@@ -3827,8 +4138,8 @@
   "fonte": "Jornal da USP",
   "peso_fonte": 0.85,
   "categorias": [
-   "medicina",
-   "astrofisica"
+   "astrofisica",
+   "medicina"
   ],
   "publicado": "2026-10-09T13:51:21+00:00",
   "coletado_em": "2026-10-10T13:34:58.005811+00:00",
@@ -3853,6 +4164,23 @@
   "cobertura": []
  },
  {
+  "id": "e7497a511d4c",
+  "titulo": "PS5 hack delivers native PS2 disc support and 4K upscaling where Sony refused to — after PS2 breakthrough, homebrew dev confirms PS3 disc support is next for PS5",
+  "url": "https://www.tomshardware.com/video-games/playstation/ps5-hack-delivers-native-ps2-disc-support-and-4k-upscaling-where-sony-refused-to-after-ps2-breakthrough-homebrew-dev-confirms-ps3-disc-support-is-next-for-ps5",
+  "resumo": "Modder Sword has released PS5SX2 for the PlayStation 5, allowing gamers to play discs from previous PlayStation 2 games.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-10T15:17:15+00:00",
+  "coletado_em": "2026-10-10T15:23:32.644286+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Vs5YqdvyGBxJt8irFJM7aK-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "e7c393eecc79",
   "titulo": "Review Ford Maverick Lariat Hybrid: uma picape que “pensa” como carro",
   "url": "https://canaltech.com.br/carros/review-ford-maverick-lariat-hybrid-uma-picape-que-pensa-como-carro/",
@@ -3860,8 +4188,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "biologia",
-   "astrofisica"
+   "astrofisica",
+   "biologia"
   ],
   "publicado": "2026-10-10T12:03:00+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -3877,8 +4205,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-09T16:46:36+00:00",
@@ -3996,6 +4324,23 @@
   "publicado": "2026-10-09T15:50:01+00:00",
   "coletado_em": "2026-10-10T13:34:57.988322+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/-high-blood-pressure.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ebe454de4b83",
+  "titulo": "Lâmpada inteligente gasta luz desligada pelo Wi-Fi? Nós calculamos",
+  "url": "https://canaltech.com.br/casa-conectada/lampada-inteligente-gasta-luz-desligada-pelo-wi-fi-nos-calculamos/",
+  "resumo": "Uma lâmpada inteligente realmente gasta energia quando está desligada , mas isso não significa que o chamado consumo fantasma seja capaz de causar um grande impacto na conta de luz. Como o dispositivo precisa continuar conectado ao Wi-Fi para receber comandos, uma pequena parte dos circuitos permanece funcionando mesmo quando os LEDs estão apagados. Para descobrir o tamanho desse gasto, podemos usar como referência uma lâmpada Wi-Fi com 0,4 W de consumo em standby , valor informado nas especificações de um modelo da TP-Link. Esse número pode variar bastante conforme o produto e os recursos incorporados, mas essa já é uma boa base. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Quanto uma lâmpada inteligente gasta desligada? Considerando uma lâmpada consumindo 0,4 W durante 24 horas por dia, o cálculo mensal fica assim: 0,4 W ÷ 1.000 × 24 horas × 30 dias = 0,288 kWh por mês. Ou seja, mesmo permanecendo conectada ao Wi-Fi durante o mês inteiro, uma unidade consumiria menos de 0,3 kWh mensais apenas em standby. Agora, aplicando as tarifas informadas para as maiores cidades brasileiras, o custo seria aproximadamente: Curitiba (R$ 0,85/kWh): R$ 0,24 por mês; São Paulo (R",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-10T14:30:01+00:00",
+  "coletado_em": "2026-10-10T15:23:32.664740+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/jj5zFrX_BkkVFjsoXfqL1yI9jC4=/0x0/filters:format(webp):quality(85)/56b28596-5623-4d46-8501-6e6f3c51ba88.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -4119,8 +4464,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-09T16:30:04+00:00",
@@ -4153,10 +4498,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
-   "inteligencia_artificial",
-   "ciberseguranca"
+   "ciberseguranca",
+   "hardware",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-09T18:01:42+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",
@@ -4207,10 +4552,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "robotica",
    "astrofisica",
+   "energia_materiais",
    "inteligencia_artificial",
-   "energia_materiais"
+   "robotica"
   ],
   "publicado": "2026-10-10T10:30:00+00:00",
   "coletado_em": "2026-10-10T13:34:58.015623+00:00",

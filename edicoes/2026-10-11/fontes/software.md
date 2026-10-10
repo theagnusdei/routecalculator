@@ -1,0 +1,26 @@
+# Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing
+
+- Editoria: Software (`software`)
+- Fonte: InfoQ — https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Autor: Steef-Jan Wiggers
+- Publicado: 2026-10-10T07:12:00+00:00
+- Score: 4.946
+- Imagem: imagens/software-cloudflare-traces-turns-the-proxy-layer.jpg | crédito: InfoQ | licença: © do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)
+
+## Outras coberturas
+- nenhuma
+
+## Texto extraído
+
+Cloudflare has recently made Traces available in open beta, extending automatic tracing from Workers to the rest of the request path. Security rules, transformations, cache decisions, routing, Worker execution, and origin handling now appear as OpenTelemetry spans in a single request-level timeline, without any instrumentation to write. A pricing change arrives with it, and it applies to Workers Tracing too.
+This fills a well-known gap for developers running distributed tracing through a proxy. Previously, the trace showed the client and then the application, with everything in between inferred from logs and configuration. Each supported step now arrives as a span with its timing, outcome, and attributes.
+The questions Cloudflare uses as examples are the ones developers actually open tickets about. Which security rule blocked the request, and how long did rule evaluation take? Did a Transform Rule rewrite the URL before the application received it, and where did that happen relative to routing? Which Page Rule, Snippet, or Worker handled the request, and which route pattern matched? And where did the time go: one example shows a cache miss where 527ms of a 539ms request went to getting a response from the origin.
+Nested cache, upstream, and origin spans showing where a request spent its time (Source: Cloudflare blog post)
+Context propagation is what makes it more than a Cloudflare-only view. Traces can accept a W3C traceparent header from an incoming request, so Cloudflare spans join a trace that started upstream, and can forward a new traceparent to the origin for instrumented services to continue. An incoming propagation policy controls whether Cloudflare accepts context from callers at all, which matters because accepting a trace ID from any client opens the door to noise.
+Sampling runs on the same rules engine Cloudflare uses elsewhere. Teams set a baseline rate, perhaps 1% in normal operation, then write Trace Rules that override it for matching traffic. One example traces every request for a single customer's hostname, source IP, or identifying header while everyone else stays at the baseline. Another captures every request carrying a temporary debug header during an investigation. Rules can target paths, methods, headers, addresses, geographies, or combinations of those.
+Spans export over OTLP to any compatible backend. Teams configure an account-level destination, then choose which domains send traces to it. Cloudflare frames this as a commitment to OpenTelemetry and to keeping the data portable across observability tools.
+There is an agent angle. Through the Cloudflare Observability MCP server, a coding agent can query traces using the SQL API, compare failed traces against successful ones to find where the spans diverge, and connect those findings to code in the repository. This continues the pattern InfoQ covered in Cloudflare's agent tracing work in August, where telemetry becomes something an agent reads rather than a dashboard a person watches.
+Teams already using Workers Tracing should note the pricing change, which is the second in two months. That August coverage reported that every span would become a billable event from October 1, 2026. Cloudflare now replaces that model on December 1, 2026, charging instead for data ingested and retention. The free plan includes 0.5GB of ingestion per day with seven-day retention and no additional usage. Paid and Enterprise plans include 50GB of ingestion and 10GB-month of storage per billing cycle, with additional usage at $0.25 per GB ingested and $0.10 per GB-month stored. Retention of up to one year is listed as coming soon.
+Charging by volume rather than by span is the more consequential half. Sampling decisions now map directly to a bill, which explains why Trace Rules take the shape they do: keep the baseline low, raise it for the traffic under investigation.
+Coverage is partial by design, and Cloudflare lists what is still missing. Broader automatic instrumentation is planned across the HTTP request path, including DDoS rules and Access, and the Workers execution path, including Workflows, Queues, and Pipelines. Also planned are authenticated context propagation, so trusted callers can continue a trace without Cloudflare accepting context from everyone, ad hoc tracing of a specific request without changing the baseline rate, and OpenTelemetry API support in Workers for adding attributes to existing spans.
+Traces is available in open beta from the dashboard, the API, or Terraform, on any domain, with export to an OTLP destination.
