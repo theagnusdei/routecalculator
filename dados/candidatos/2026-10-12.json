@@ -16,6 +16,22 @@
   "cobertura": []
  },
  {
+  "id": "0244fe4e53f8",
+  "titulo": "Como seu provedor de internet vigia o que você faz em casa e como impedir",
+  "url": "https://canaltech.com.br/seguranca/como-seu-provedor-de-internet-vigia-o-que-voce-faz-em-casa-e-como-impedir/",
+  "resumo": "Seu provedor de internet ocupa uma posição privilegiada para acompanhar o que você faz no computador e no celular. Mesmo quando sites e aplicativos usam criptografia, a empresa responsável pela banda larga pode identificar dados como o endereço IP usado pelo cliente , horários de conexão, volume de tráfego e, dependendo da configuração da rede, os serviços ou domínios acessados. Isso não significa que a operadora consiga abrir suas conversas no WhatsApp, descobrir sua senha bancária ou ler qualquer página visitada. Protocolos como HTTPS criptografam o conteúdo transmitido entre o aparelho e o site, enquanto outras ferramentas podem reduzir ainda mais os dados disponíveis para o provedor. A quantidade de informações visíveis depende das tecnologias usadas pelo site, pelo dispositivo e pela própria conexão. O que seu provedor consegue ver? Para acessar um site, o celular ou computador precisa primeiro descobrir onde ele está hospedado. Uma das etapas envolve o DNS , sistema responsável por transformar endereços como “canaltech.com.br” no endereço IP usado pelos computadores para encontrar aquele servidor. Consultas tradicionais de DNS podem trafegar sem criptografia. Nesse cenário, o",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-11T15:00:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.785007+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/__W5gzOs8RUwQ46XWdFFBgINtgY=/0x0/filters:format(webp):quality(85)/35487b21-cf0c-4bfa-8cae-a099d8b1e043.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "036e03b91bc2",
   "titulo": "Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A’ parody",
   "url": "https://www.tomshardware.com/video-games/developer-turns-classic-windows-minesweeper-into-hand-holding-big-budget-triple-a-parody-browser-reboot-mocks-modern-gaming-with-chatty-npcs-internal-monologues-and-promised-loot-boxes",
@@ -79,6 +95,22 @@
   "publicado": "2026-10-10T08:14:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.172471+00:00",
   "imagem_feed": "https://image.theregister.com/?imageId=5238106&width=800",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "0aa56ca5c390",
+  "titulo": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+  "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+  "resumo": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the Witch, or, as it […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-11T15:15:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.780654+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -148,6 +180,25 @@
   "cobertura": []
  },
  {
+  "id": "18712a4592a2",
+  "titulo": "Quer jogar no PC? Confira uma seleção de notebooks gamer em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/11/reviews/quer-jogar-no-pc-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-3/",
+  "resumo": "Se você está em busca de um notebook gamer para jogar com fluidez, trabalhar com edição ou simplesmente ter mais desempenho no dia a dia, a Amazon reúne boas opções em promoção agora. Selecionamos três modelos com placas de vídeo dedicadas, telas de alta taxa de atualização e processadores de última geração — confira abaixo. […] O post Quer jogar no PC? Confira uma seleção de notebooks gamer em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "software",
+   "hardware",
+   "computadores_pessoais",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-11T13:40:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.782588+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "1b600895636d",
   "titulo": "Radiation exposure linked to pulmonary hypertension after lung cancer treatment",
   "url": "https://medicalxpress.com/news/2026-10-exposure-linked-pulmonary-hypertension-lung.html",
@@ -204,11 +255,11 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "medicina",
    "biologia",
-   "software",
+   "computadores_pessoais",
    "hardware",
-   "computadores_pessoais"
+   "medicina",
+   "software"
   ],
   "publicado": "2026-10-10T17:30:02+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
@@ -305,8 +356,8 @@
   "fonte": "Olhar Digital",
   "peso_fonte": 0.65,
   "categorias": [
-   "medicina",
-   "hardware"
+   "hardware",
+   "medicina"
   ],
   "publicado": "2026-10-11T13:20:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.180151+00:00",
@@ -472,8 +523,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "astrofisica"
+   "astrofisica",
+   "software"
   ],
   "publicado": "2026-10-11T13:00:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
@@ -565,6 +616,22 @@
   "cobertura": []
  },
  {
+  "id": "46f254df7048",
+  "titulo": "Precisando de um mouse gamer? Separamos ótimas opções sem fio em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/11/reviews/precisando-de-um-mouse-gamer-separamos-otimas-opcoes-sem-fio-em-promocao-na-amazon/",
+  "resumo": "Se você está de olho em um mouse gamer sem fio para elevar o seu setup, este é o momento certo para agir. Reunimos três opções que valem a atenção, com modelos de marcas como Logitech e Redragon, cada um com características que atendem diferentes perfis de jogador. Confira a seleção abaixo. Mouse Gamer Sem […] O post Precisando de um mouse gamer? Separamos ótimas opções sem fio em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-11T14:40:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.782588+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "471122e13576",
   "titulo": "Florida's dengue outbreak is now the largest in a US state in decades",
   "url": "https://medicalxpress.com/news/2026-10-florida-dengue-outbreak-largest-state.html",
@@ -592,6 +659,22 @@
   ],
   "publicado": "2026-10-11T00:23:19+00:00",
   "coletado_em": "2026-10-11T13:59:22.168786+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "4951046f9d03",
+  "titulo": "Stable kernels 7.2.10 and 6.18.56",
+  "url": "https://lwn.net/Articles/1099764/",
+  "resumo": "The 7.2.10 and 6.18.56 stable kernels have been released. Each contains another several hundred important fixes.",
+  "fonte": "LWN.net",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-11T14:35:57+00:00",
+  "coletado_em": "2026-10-11T15:42:07.777045+00:00",
   "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
@@ -641,6 +724,22 @@
   "publicado": "2026-10-11T12:20:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.180151+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "503f16c5065f",
+  "titulo": "Google faces backlash against India data center",
+  "url": "https://techxplore.com/news/2026-10-google-backlash-india-center.html",
+  "resumo": "Handcuffs encircle Google's logo on one campaign poster, while another warns that people \"cannot drink data\", as opposition mounts to the tech giant's planned AI mega-facility in India.",
+  "fonte": "Tech Xplore",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "hardware"
+  ],
+  "publicado": "2026-10-11T15:29:03+00:00",
+  "coletado_em": "2026-10-11T15:42:07.777825+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/india-connectivity-upg.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -722,6 +821,39 @@
   "publicado": null,
   "coletado_em": "2026-10-11T13:59:22.167912+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5abd98f66c36",
+  "titulo": "Super El Niño bate recorde e deve se intensificar até dezembro",
+  "url": "https://olhardigital.com.br/2026/10/11/ciencia-e-espaco/super-el-nino-bate-recorde-e-deve-se-intensificar-ate-dezembro/",
+  "resumo": "Fenômeno já registra temperaturas de até 4 °C acima da média no Pacífico tropical e pode estar entre os mais fortes desde 1950 O post Super El Niño bate recorde e deve se intensificar até dezembro apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-11T13:33:01+00:00",
+  "coletado_em": "2026-10-11T15:42:07.782588+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5bec070a4a8f",
+  "titulo": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+  "resumo": "Canadian YouTuber Anthony Sistilli says police questioned him after he built an ALPR camera designed to track police vehicles, leading to an ironic discussion over the privacy risks of mass license-plate surveillance.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-11T15:11:18+00:00",
+  "coletado_em": "2026-10-11T15:42:07.777286+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/WJrY9d2HjL3PDjrJgd8Hg3-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -830,8 +962,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-10T20:30:02+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
@@ -851,6 +983,38 @@
   ],
   "publicado": "2026-10-11T00:00:24+00:00",
   "coletado_em": "2026-10-11T13:59:22.168786+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "6b4a2639ae88",
+  "titulo": "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries",
+  "url": "https://medicalxpress.com/news/2026-10-high-blood-pressure-500k-cvd.html",
+  "resumo": "Effective management of high blood pressure could prevent more than 518,000 annual deaths from cardiovascular disease around the world, according to preliminary research presented at the American Heart Association's Hypertension Scientific Sessions 2026. The meeting is in Arlington, Virginia, Oct. 7–11, 2026, and focuses on recent advances in basic and clinical research on high blood pressure and its relationship to cardiac and kidney disease, stroke, obesity and genetics.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-11T14:20:01+00:00",
+  "coletado_em": "2026-10-11T15:42:07.774698+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-blood-pressure-2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "6b99493bcea1",
+  "titulo": "Velocidade e espaço de sobra: SSDs em promoção para turbinar seu PC ou notebook",
+  "url": "https://olhardigital.com.br/2026/10/11/reviews/velocidade-e-espaco-de-sobra-ssds-em-promocao-para-turbinar-seu-pc-ou-notebook/",
+  "resumo": "Se o seu computador ainda roda com HD ou um SSD lento, está na hora de mudar isso. Reunimos uma seleção de SSDs NVMe Gen4 em oferta na Amazon — opções que entregam velocidade real no dia a dia, seja para jogos, edição ou uso geral. Confira os destaques: Western Digital SSD WD Green SN3000 […] O post Velocidade e espaço de sobra: SSDs em promoção para turbinar seu PC ou notebook apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-11T15:00:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.782588+00:00",
   "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
@@ -1002,6 +1166,23 @@
   "cobertura": []
  },
  {
+  "id": "7b8d133e5868",
+  "titulo": "Hora de trocar o notebook: selecionamos ótimas opções em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/11/reviews/hora-de-trocar-o-notebook-selecionamos-otimas-opcoes-em-promocao-na-amazon-2/",
+  "resumo": "Se você está pensando em renovar o computador ou adquirir um notebook pela primeira vez, a Amazon reúne agora uma seleção com boas opções para diferentes perfis de uso e orçamento. Reunimos três modelos em destaque — do compacto e acessível ao intermediário completo — para ajudar você a encontrar o ideal. Confira. Notebook Samsung […] O post Hora de trocar o notebook: selecionamos ótimas opções em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "computadores_pessoais",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-11T14:00:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.782588+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "7dd79671fe95",
   "titulo": "Ukranian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
   "url": "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost",
@@ -1131,6 +1312,22 @@
   "cobertura": []
  },
  {
+  "id": "90270b46833f",
+  "titulo": "Quer um setup mais competitivo? Confira esta seleção de monitores gamer em promoção",
+  "url": "https://olhardigital.com.br/2026/10/11/reviews/quer-um-setup-mais-competitivo-confira-esta-selecao-de-monitores-gamer-em-promocao/",
+  "resumo": "Se você está pensando em renovar o setup ou dar aquele upgrade na sua estação de jogo, a hora é agora. Reunimos três monitores gamer com ótimas especificações técnicas — incluindo altas taxas de atualização, baixíssima latência e suporte a tecnologias de sincronização — todos disponíveis na Amazon. Confira os destaques: Monitor Gamer AOC AGON […] O post Quer um setup mais competitivo? Confira esta seleção de monitores gamer em promoção apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-11T14:20:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.782588+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "90919facc964",
   "titulo": "Horse-based activities may help autistic youth with behavioral and emotional challenges",
   "url": "https://medicalxpress.com/news/2026-10-horse-based-autistic-youth-behavioral.html",
@@ -1159,6 +1356,23 @@
   "publicado": "2026-10-10T17:00:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/zXbaDpimkoV2XaGIgFsD3TxZwCg=/0x0/filters:format(webp):quality(85)/01d373c5-9ec3-49b7-a134-be2d0fd175d7.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "94464f6ce689",
+  "titulo": "Fotos apagadas deixam rastros perigosos no Windows; veja como eliminar tudo",
+  "url": "https://canaltech.com.br/software/como-eliminar-rastros-fotos-apagadas-windows/",
+  "resumo": "Mesmo após apagar uma foto, o Windows ainda pode armazenar registros do arquivo no sistema . Isso ocorre com a criação de dados temporários, mas há um caminho para removê-los rapidamente no PC. Por padrão, o Explorador de Arquivos cria miniaturas para a pré-visualização de imagens e armazena os arquivos em cache . A medida agiliza o carregamento dos resultados ao abrir a mesma pasta novamente, mas também abre uma brecha para encontrar rastros de conteúdos que já foram apagados. Vale destacar que nem toda imagem apagada ganha uma miniatura própria , mas existe um caminho para evitar a dor de cabeça e possíveis problemas com privacidade. Onde ficam os rastros de imagens apagadas? Os arquivos temporários com as miniaturas ficam armazenados no caminho %LocalAppData%\\Microsoft\\Windows\\Explorer e recebem nomes como “thumbcache_2560” (a numeração varia de acordo com a resolução da imagem). O formato é o .db , usado para bases de dados, e não é possível acessar as imagens diretamente pelo Explorador de Arquivos — é necessário usar um software para extrair as informações. Normalmente, as miniaturas são criadas ao abrir os arquivos pelo Explorador do Windows . Caso você delete uma imagem sem",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-11T14:30:03+00:00",
+  "coletado_em": "2026-10-11T15:42:07.785007+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/LEYBJ9AdKuNyez2-YjVoobihBtU=/0x0/filters:format(webp):quality(85)/bc999872-9ba1-4b02-8014-230264876e53.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -1236,14 +1450,31 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "medicina",
    "astrofisica",
+   "energia_materiais",
    "inteligencia_artificial",
-   "energia_materiais"
+   "medicina"
   ],
   "publicado": "2026-10-10T18:00:02+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/mx1Vb4hygrPtdjeptiSfaEy8Ox8=/0x0/filters:format(webp):quality(85)/a20bf476-a796-4bca-ae28-4710e3d8781c.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "99282021ed35",
+  "titulo": "Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot",
+  "url": "https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution",
+  "resumo": "In PC DIY it might still be worth challenging convention, as TrashBench shows with his GPU hotspot getting up to 19C cooler.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-11T14:23:20+00:00",
+  "coletado_em": "2026-10-11T15:42:07.777286+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/wJDbFvnkLTtTzjKhAnum3Q-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1288,9 +1519,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
+   "ciberseguranca",
    "inteligencia_artificial",
-   "ciberseguranca"
+   "software"
   ],
   "publicado": "2026-10-10T14:00:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
@@ -1565,8 +1796,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "biologia",
    "astrofisica",
+   "biologia",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-10T19:01:00+00:00",
@@ -1615,13 +1846,45 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
    "astrofisica",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-10T19:19:27+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/OWrxJ9vIMuNjFsErCOPjJd45f0U=/0x0/filters:format(webp):quality(85)/5c798aa2-ad32-4327-99cd-8c3dd527689b.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ba5db8106c64",
+  "titulo": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+  "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+  "resumo": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-11T14:00:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.781569+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "bba8d46d5962",
+  "titulo": "NASA dumped over 800GB of Artemis II data online",
+  "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+  "resumo": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and crew-annotated […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-11T15:34:40+00:00",
+  "coletado_em": "2026-10-11T15:42:07.780654+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -1682,8 +1945,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "astrofisica"
+   "astrofisica",
+   "software"
   ],
   "publicado": "2026-10-10T21:00:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
@@ -1726,6 +1989,25 @@
   "cobertura": []
  },
  {
+  "id": "c6b9e17dbeb4",
+  "titulo": "Celular burro: 5 modelos com \"bateria infinita\" para fugir do WhatsApp",
+  "url": "https://canaltech.com.br/smartphone/celular-burro-5-modelos-com-bateria-infinita-para-fugir-do-whatsapp/",
+  "resumo": "O \"smartphone\" você já conhece: está inserido no seu dia a dia. Mas sabia que a moda agora são os chamados celulares burros , ou dumb phones? São aparelhos que deixam de lado o touchscreen e os aplicativos dos smartphones para apostar no básico, como ligações, SMS, rádio FM, música e câmera simples. A ideia é fazer o telefone voltar a ser telefone numa tentativa de reduzir a exposição às telas. Sem redes sociais, navegador completo e aplicativos como WhatsApp, o celular deixa de disputar atenção o tempo todo, então o resultado é um dispositivo mais simples, barato e que costuma gastar bem menos energia. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A bateria é outro atrativo. Telas pequenas, processadores modestos e sistemas enxutos ajudam esses aparelhos a passar vários dias longe da tomada. Os jovens estão trocando smartphones por \"celulares burros\" . Se é isso que você procura, veja nossa lista de celulares burros com \"bateria infinita\" para fugir do WhatsApp: Nokia 110 4G; Nokia 225 4G; Nokia 2660 Flip; Positivo P41 4G; Positivo P51 4G. 1. Nokia 110 4G O Nokia 110 4G é um dos exemplos mais simples da categoria. Tem tela pequena, teclado físico, rádio FM, Blueto",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "astrofisica",
+   "inteligencia_artificial",
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-11T14:00:02+00:00",
+  "coletado_em": "2026-10-11T15:42:07.785007+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/zgZwJaThPrHoJCSmwJKe4QT_AxY=/0x0/filters:format(webp):quality(85)/7d3bc37a-b17f-4790-8ae2-613101e1b26d.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "c6ec72e75db6",
   "titulo": "Como o carro de trás sabe que um elétrico está freando sem pisar no pedal?",
   "url": "https://canaltech.com.br/carros/como-o-carro-de-tras-sabe-que-um-eletrico-esta-freando-sem-pisar-no-pedal/",
@@ -1755,6 +2037,22 @@
   "publicado": "2026-10-10T15:40:01+00:00",
   "coletado_em": "2026-10-11T13:59:22.169364+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/kids-on-playground.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c749ff2b24fa",
+  "titulo": "Star Citizen's single-player spin-off gets a Steam page, and early hands-on reports",
+  "url": "https://www.techspot.com/news/114162-star-citizen-single-player-spin-off-gets-steam.html",
+  "resumo": "Anyone who still believes in Wing Commander creator Chris Roberts' vision after 14 years of repeated delays can now wishlist Squadron 42 on Steam. The space simulation action game is a solo, story-based spinoff of Roberts' MMO, Star Citizen, which remains deep in development. Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-11T15:06:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.779890+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2018/10/2018-10-11-ts3_thumbs-093.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2008,10 +2306,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "hardware",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-10T16:07:47+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
@@ -2095,8 +2393,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "biologia",
-   "astrofisica"
+   "astrofisica",
+   "biologia"
   ],
   "publicado": "2026-10-10T12:03:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
@@ -2166,6 +2464,38 @@
   "publicado": "2026-10-10T23:01:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.170031+00:00",
   "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2208749912-1024x576.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ee46ad261eb7",
+  "titulo": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
+  "url": "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "Researchers from Meta, MIT, and the University of Washington introduce Context Language Models (CLMs), a new approach that enables language models to manage and edit their own context rather than relying on predefined mechanisms for summarization, compression, and information retrieval, reporting substantial gains in both performance and computational efficiency. By Sergio De Simone",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-11T14:00:00+00:00",
+  "coletado_em": "2026-10-11T15:42:07.776763+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/10/context-language-models/en/headerimage/gemini-agentic-vision-1791724239724.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ef1f640c0c70",
+  "titulo": "Power, water, jobs: Google on India data center concerns",
+  "url": "https://techxplore.com/news/2026-10-power-jobs-google-india-center.html",
+  "resumo": "Construction of a massive Google data center in the Indian city of Visakhapatnam has been met with resistance from residents who fear the impact on the environment and their lives.",
+  "fonte": "Tech Xplore",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "hardware"
+  ],
+  "publicado": "2026-10-11T15:40:06+00:00",
+  "coletado_em": "2026-10-11T15:42:07.777825+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/residents-in-visakhapa.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2241,10 +2571,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "robotica",
    "astrofisica",
+   "energia_materiais",
    "inteligencia_artificial",
-   "energia_materiais"
+   "robotica"
   ],
   "publicado": "2026-10-10T10:30:00+00:00",
   "coletado_em": "2026-10-11T13:59:22.183436+00:00",
