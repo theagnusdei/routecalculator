@@ -1,0 +1,681 @@
+{
+  "medicina": [
+    {
+      "id": "36a00ae7dec7",
+      "titulo": "The shape of water at a key tau hotspot helps drive dementia-linked clumping",
+      "url": "https://medicalxpress.com/news/2026-10-key-tau-hotspot-dementia-linked.html",
+      "resumo": "Diseases such as Alzheimer's and frontotemporal dementia are considered neurodegenerative tauopathies, in which tau proteins in the brain misfold and lead to cognitive decline. Until now, it has been unclear how misfolded tau recruits other seemingly healthy tau and causes it to misfold and clump.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-12T19:00:03+00:00",
+      "coletado_em": "2026-10-12T19:04:08.631249+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/brain-9.jpg",
+      "score": 5.542,
+      "cobertura": []
+    },
+    {
+      "id": "b99b0596a1bf",
+      "titulo": "Study examines long-term mental health and alcohol use trajectories following disasters",
+      "url": "https://medicalxpress.com/news/2026-10-term-mental-health-alcohol-trajectories.html",
+      "resumo": "A study of people who had been exposed to a disaster found different long-term patterns of alcohol use and mental health that were interrelated and influenced by individual differences and the type of disaster they experienced. The study, published in Alcohol: Clinical and Experimental Research, calls attention to the long-term mental and behavioral health challenges of people who have experienced disasters and the need for interventions tailored to their particular mental health profiles to prevent problem drinking.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-12T19:00:07+00:00",
+      "coletado_em": "2026-10-12T19:04:08.631249+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2022/hurricane-1.jpg",
+      "score": 5.542,
+      "cobertura": []
+    },
+    {
+      "id": "0ff5d25ab53a",
+      "titulo": "New research shows promise for treating hepatitis C in pregnancy",
+      "url": "https://medicalxpress.com/news/2026-10-hepatitis-pregnancy.html",
+      "resumo": "Researchers and clinicians at WashU Medicine are helping reshape how hepatitis C virus (HCV) is treated during pregnancy, with a new study showing that a commonly used antiviral regimen can be used safely and effectively in pregnant patients in real-world care.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-12T17:20:12+00:00",
+      "coletado_em": "2026-10-12T19:04:08.631249+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-shows-pro-1.jpg",
+      "score": 5.36,
+      "cobertura": []
+    },
+    {
+      "id": "acffc0a33eb8",
+      "titulo": "Experiments reveal how DNA-packaging protein mutation promotes breast cancer spread",
+      "url": "https://medicalxpress.com/news/2026-10-reveal-dna-packaging-protein-mutation.html",
+      "resumo": "A research team led by professor Chan Kui-ming from the Department of Biomedical Sciences at CityUHK discovered that H2BE113K, a missense H2B mutation, promotes colony formation and lung metastasis in breast cancer. The research revealed that H2BE113K plays a critical role in chromatin regulation, cellular function and breast cancer progression, shedding light on new targeted therapies for breast cancer.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-12T16:00:01+00:00",
+      "coletado_em": "2026-10-12T19:04:08.631249+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/experiments-reveal-how-1.jpg",
+      "score": 5.225,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "5aced7b1f86f",
+      "titulo": "AI platform and database map protein phase separation across species",
+      "url": "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html",
+      "resumo": "Scientists at Nanyang Technological University, Singapore (NTU Singapore) have developed an AI-powered database and a platform that could enable researchers to more accurately predict which proteins undergo phase separation—a process through which proteins in cells separate like oil droplets in water.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-12T13:20:16+00:00",
+      "coletado_em": "2026-10-12T19:04:08.632336+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2018/fungi.jpg",
+      "score": 5.486,
+      "cobertura": []
+    },
+    {
+      "id": "81c44165934b",
+      "titulo": "DNA reveals genetic divide in Australian brolgas, with southern birds facing greater diversity risks",
+      "url": "https://phys.org/news/2026-10-dna-reveals-genetic-australian-brolgas.html",
+      "resumo": "New research on the brolga, an iconic Australian crane species, has shown important genetic differences between northern and southeastern populations, with evidence that those in western Victoria are at increased risk, likely heightened by the loss of wetlands.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-12T12:40:04+00:00",
+      "coletado_em": "2026-10-12T19:04:08.632336+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-finds-victori.jpg",
+      "score": 5.432,
+      "cobertura": []
+    },
+    {
+      "id": "c21ba3291859",
+      "titulo": "Scarred blood vessels may be one clue to APOE4’s Alzheimer’s risk",
+      "url": "https://www.sciencenews.org/article/scar-tissue-blood-vessels-alzheimers",
+      "resumo": "Scientists know APOE4 raises Alzheimer’s risk. A surprising change in blood vessel cells may help explain how.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-12T16:00:00+00:00",
+      "coletado_em": "2026-10-12T19:04:08.686004+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100826_RJM_Alzheimers_main_aa1b64.jpg?w=800",
+      "score": 5.175,
+      "cobertura": []
+    },
+    {
+      "id": "84e24c358a7e",
+      "titulo": "'Molecular sunscreen' may explain why DNA uses thymine despite its vulnerability to UV damage",
+      "url": "https://phys.org/news/2026-10-molecular-sunscreen-dna-thymine-vulnerability.html",
+      "resumo": "Scientists have long sought to understand the complex origins of intelligent life. It remains unclear how biological systems not only formed but survived and persisted under the extreme conditions of primordial Earth's hostile climate. Now, researchers at Texas A&M University are using light-based technologies to uncover new clues to help solve this evolutionary puzzle.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-12T14:40:02+00:00",
+      "coletado_em": "2026-10-12T19:04:08.632336+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrical-engineering.jpg",
+      "score": 5.101,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "fb73046bfc9e",
+      "titulo": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
+      "url": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/",
+      "resumo": "Daifuku's Cecile Dick-Calmes said success is no longer measured solely by automation density or equipment utilization. The post Closing the reality gap: Why real-time execution has become the new competitive advantage appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-12T14:30:33+00:00",
+      "coletado_em": "2026-10-12T19:04:08.634482+00:00",
+      "imagem_feed": null,
+      "score": 4.437,
+      "cobertura": []
+    },
+    {
+      "id": "9b5a9eb2aa89",
+      "titulo": "IA cria bots ultra-realistas para enganar golpistas em chamadas",
+      "url": "https://olhardigital.com.br/2026/10/12/seguranca/ia-cria-bots-ultra-realistas-para-enganar-golpistas-em-chamadas/",
+      "resumo": "Robôs da Apate simulam vítimas, ocupam golpistas por horas e coletam dados que podem ajudar a identificar operações fraudulentas O post IA cria bots ultra-realistas para enganar golpistas em chamadas apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "robotica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-12T18:19:56+00:00",
+      "coletado_em": "2026-10-12T19:04:08.649999+00:00",
+      "imagem_feed": null,
+      "score": 4.367,
+      "cobertura": []
+    },
+    {
+      "id": "f5491d5d6a96",
+      "titulo": "A IA Agêntica e a reconfiguração oculta da infraestrutura de TI",
+      "url": "https://canaltech.com.br/inteligencia-artificial/a-ia-agentica-e-a-reconfiguracao-oculta-da-infraestrutura-de-ti/",
+      "resumo": "A evolução da inteligência artificial nas empresas seguia, até recentemente, um modelo reativo em que usuários enviavam perguntas a um modelo de linguagem e recebiam respostas textuais ou resumos em segundos. No entanto, estamos cruzando a fronteira em direção à era da IA Agêntica. O foco deixa de ser o atendimento a comandos pontuais e passa a ser o fluxo de trabalho autônomo: sistemas compostos por múltiplos \"agentes\" digitais que raciocinam, consultam bancos de dados, chamam APIs externas, executam códigos e coordenam tarefas complexas em segundo plano, sem necessidade de intervenção humana a cada etapa. Essa mudança de paradigma transforma radicalmente o ecossistema e as exigências sobre a infraestrutura computacional. Enquanto as implantações tradicionais de IA operavam com uma proporção histórica de 1 processador (CPU) para cada 4 ou 8 aceleradores gráficos (GPUs) f ocados puramente em inferência, a IA agêntica está empurrando a arquitetura para algo muito mais próximo da razão de 1:1 . Em alguns cenários de alta concorrência, a demanda por recursos do processador central supera até mesmo a demanda pelo acelerador gráfico. Por que GPUs potentes não bastam para escalar a IA Is",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "robotica",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-12T11:55:10+00:00",
+      "coletado_em": "2026-10-12T19:04:08.654410+00:00",
+      "imagem_feed": null,
+      "score": 3.623,
+      "cobertura": []
+    },
+    {
+      "id": "ccb14b8a4dff",
+      "titulo": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+      "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+      "resumo": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach. The post Will ‘boring’ robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-11T12:36:24+00:00",
+      "coletado_em": "2026-10-12T19:04:08.634482+00:00",
+      "imagem_feed": null,
+      "score": 3.244,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "01803a85ea56",
+      "titulo": "Presentation: You Can't Trust Your AI Bill. And Neither Can I",
+      "url": "https://www.infoq.com/presentations/ai-cloud-cost-economics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Erik Peterson discusses why AI spend is eclipsing cloud bills, triggering a major software engineering cost crisis. He explains tokenmaxxing, unit economics, forced developer promotions, and why fully autonomous AI will write, deploy, and govern code by 2028. By Erik Peterson",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-12T11:00:00+00:00",
+      "coletado_em": "2026-10-12T19:04:08.634986+00:00",
+      "imagem_feed": "https://res.infoq.com/presentations/ai-cloud-cost-economics/en/mediumimage/erik-peterson-medium-1791451373591.jpg",
+      "score": 5.455,
+      "cobertura": []
+    },
+    {
+      "id": "a8f27609d8d9",
+      "titulo": "[$] The 2026 Maintainers Summit",
+      "url": "https://lwn.net/Articles/1099594/",
+      "resumo": "The Maintainers Summit is a one-day, invitation-only gathering of about 30 kernel developers; it is held once each year to discuss policy-related issues that are not always amenable to resolution via email. The 2026 event was scheduled for October 8 in Prague, Czechia. Unsurprisingly, the discussion there was dominated by large language models (LLMs) and their effect on the development community, but some time was also found to talk about security bugs and long-term succession planning.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-12T15:27:27+00:00",
+      "coletado_em": "2026-10-12T19:04:08.635805+00:00",
+      "imagem_feed": null,
+      "score": 5.173,
+      "cobertura": []
+    },
+    {
+      "id": "fd1572d0296b",
+      "titulo": "LineageOS 24 released",
+      "url": "https://lwn.net/Articles/1099950/",
+      "resumo": "The LineageOS project, which produces an Android-based distribution for mobile devices, has announced the release of LineageOS 24.0. We're a bit sentimental about this release, as it precedes a really fun upcoming milestone. On December 24, 2026, LineageOS will celebrate 10 years. It's a remarkable milestone for a project built by a passionate community of developers, maintainers, contributors, and users who have kept so many devices alive along the way. [...] We've been hard at work rebasing all of our changes and features since Android 17's release in June. Android 17's first release mainly contained iterative improvements and some UI/UX refinements, but due to our previous efforts adapting to Google's heavy refactoring over the last several versions, we were able to rebase onto Android 17's code-base faster than anticipated. Yes you read that right: We're early this year!",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-12T13:13:57+00:00",
+      "coletado_em": "2026-10-12T19:04:08.635805+00:00",
+      "imagem_feed": null,
+      "score": 4.978,
+      "cobertura": []
+    },
+    {
+      "id": "a834bb181c1d",
+      "titulo": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1099949/",
+      "resumo": "Security updates have been issued by AlmaLinux (cjose, compat-openssl10, compat-openssl11, curl, dogtag-pki, dovecot, emacs, glibc, kernel, openssl, python3.12, python3.14, and sssd), Debian (chromium, ghostscript, tor, and vips), Fedora (kernel, libical, markdownlint-cli2, openbao, openvpn, php-getid3, python3.10, python3.11, and python3.13), Mageia (capnproto, chirp, flatpak, freetype2, hamlib, mingw-pcre2, pcre2, openssl, tomcat, tomcat-native, and xdg-dbus-proxy), Oracle (bind, cjose, dogtag-pki, dovecot, firefox, kernel, nodejs:24, openssl, pki-core:10.6, python3.12, python3.14, ruby:2.5, rust-sequoia-sq, sssd, and tftp), Red Hat (libxml2), Slackware (mutt), SUSE (apache-sshd, bind, ccache, chromium, cpp13, dash, expat, fetchmail, flatpak, golang-github-prometheus-prometheus, grafana, system-user-grafana, incus, libpng16-16, libsoup, logback, openssh8.4, perl-DBI, php8, python3-paramiko, python312, python313-asyncpg, python313-azure-identity, python313-Babel, python313-Beaker, python313-bjoern, python313-black, python313-Brotli, python313-CairoSVG, python313-Flask-Cors, python313-FontTools, python313-Jinja2, python313-jwcrypto, python313-MechanicalSoup, python313-oauthlib, pyt",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-12T13:00:41+00:00",
+      "coletado_em": "2026-10-12T19:04:08.635805+00:00",
+      "imagem_feed": null,
+      "score": 4.96,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "df51f421615f",
+      "titulo": "AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+      "resumo": "At the OCP Global Summit, AMD revealed Helion, a rack-scale reference design for agentic AI that can house up to 32,768 Zen 6 CPU cores.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-12T13:00:00+00:00",
+      "coletado_em": "2026-10-12T19:04:08.636296+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/KwFreiH9LLPrsYZGRWvHU4-1920-80.png",
+      "score": 5.109,
+      "cobertura": []
+    },
+    {
+      "id": "6fb167d67fa8",
+      "titulo": "Coder creates NvidiaWatch tracker site that monitors hundreds of GPU driver bugs",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/coder-creates-nvidiawatch-tracker-site-that-monitors-hundreds-of-gpu-driver-bugs-site-charts-open-issues-fixes-and-forum-feedback-across-updates",
+      "resumo": "independent-arg built this labor of love for the Nvidia community.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-12T12:00:00+00:00",
+      "coletado_em": "2026-10-12T19:04:08.636296+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg",
+      "score": 5.03,
+      "cobertura": []
+    },
+    {
+      "id": "ea8f69762256",
+      "titulo": "Vapor-clearing channels could keep powerful chips cool with less risk of short circuits",
+      "url": "https://techxplore.com/news/2026-10-vapor-channels-powerful-chips-cool.html",
+      "resumo": "Integrated circuits are electronic chips containing the interconnected components that process information or control electrical signals inside many electronic devices. These chips are known to generate heat as they operate, which can affect the safety and performance of electronics.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-10-12T18:40:10+00:00",
+      "coletado_em": "2026-10-12T19:04:08.637059+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cooling-design-cou.jpg",
+      "score": 5.004,
+      "cobertura": []
+    },
+    {
+      "id": "e846b67bab12",
+      "titulo": "Buyer pays $350 for broken RTX 4090 project only to find realistic fake GPU die and swapped memory",
+      "url": "https://www.tomshardware.com/pc-components/gpus/buyer-pays-usd350-for-broken-rtx-4090-project-only-to-find-realistic-fake-gpu-die-and-swapped-memory-russian-repair-specialist-reveals-sophisticated-new-cam-using-dummy-pcbs",
+      "resumo": "A customer paid approximately $350 for what appeared to be a repairable RTX 4090, only to receive a fake GPU with components that were painstakingly designed to resemble the real thing.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-12T11:30:00+00:00",
+      "coletado_em": "2026-10-12T19:04:08.636296+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/AHLzG85JoQ8gEdtunRTbDM-1920-80.jpg",
+      "score": 4.992,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "bb08aa7a0e7a",
+      "titulo": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+      "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+      "resumo": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-12T17:45:27+00:00",
+      "coletado_em": "2026-10-12T19:04:08.637309+00:00",
+      "imagem_feed": null,
+      "score": 4.854,
+      "cobertura": []
+    },
+    {
+      "id": "17cb17986e3b",
+      "titulo": "ALMA catches a dying star mid-transformation, with a ring from its last outburst",
+      "url": "https://phys.org/news/2026-10-alma-dying-star-mid-outburst.html",
+      "resumo": "Astronomers have used radio observations from the Atacama Large Millimeter/submillimeter Array (ALMA) to catch a dying star in the middle of a dramatic transformation, and the data show a ring that records its final outburst. The new research was posted to the arXiv preprint server on Sept. 18. The paper has been accepted for publication in The Astrophysical Journal.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-12T15:00:49+00:00",
+      "coletado_em": "2026-10-12T19:04:08.637668+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/alma-catches-a-dying-s.jpg",
+      "score": 4.632,
+      "cobertura": []
+    },
+    {
+      "id": "b7cfc42745df",
+      "titulo": "Alternative gravity theory offers possible explanation for dark energy changing over time",
+      "url": "https://phys.org/news/2026-10-alternative-gravity-theory-explanation-dark.html",
+      "resumo": "For many years, the simplest view of dark energy has been that it remains unchanged. Throughout cosmic history, the mysterious ingredient believed to drive the universe's accelerated expansion is thought to have behaved in the same way at every epoch. However, an increasing number of observations are challenging this idea.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-12T17:40:14+00:00",
+      "coletado_em": "2026-10-12T19:04:08.637668+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dark-energy.jpg",
+      "score": 4.395,
+      "cobertura": []
+    },
+    {
+      "id": "5ff94a9eb153",
+      "titulo": "Physics Nobel highlights Antarctica's role in exploring the cosmos",
+      "url": "https://phys.org/news/2026-10-physics-nobel-highlights-antarctica-role.html",
+      "resumo": "When Belgian American particle physicist Francis Halzen was awarded the 2026 Nobel Prize in physics \"for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin,\" it was a reminder that for more than a century, scientists have treated Antarctica's environments as windows onto worlds beyond Earth.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-12T17:20:01+00:00",
+      "coletado_em": "2026-10-12T19:04:08.637668+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-building-with-a-towe.jpg",
+      "score": 4.359,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "9c5e09ca986e",
+      "titulo": "In Step Toward Quantum Networking, Penn Study Finds Quantum Light Pattern Can Survive Loss of Entanglement",
+      "url": "https://thequantuminsider.com/2026/10/12/in-step-toward-quantum-networking-penn-study-finds-quantum-light-pattern-can-survive-loss-of-entanglement/",
+      "resumo": "Insider Brief University of Pennsylvania researchers have used a photonic chip to transfer a winding pattern in quantum light that survived noise even after entanglement disappeared, which they say could help develop quantum networks. Currently, scientists and engineers are exploring ways to create a quantum network that could, for example, connect two quantum computers in […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-12T15:01:15+00:00",
+      "coletado_em": "2026-10-12T19:04:08.638698+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Skymion.webp",
+      "score": 5.783,
+      "cobertura": []
+    },
+    {
+      "id": "e444f9b2ceab",
+      "titulo": "Quantum Meet Quantum: Hybrid Quantum Computer Lets Scientists Peak in on Foundational Quantum Effect",
+      "url": "https://thequantuminsider.com/2026/10/12/quantum-meet-quantum-hybrid-quantum-computer-lets-scientists-peak-in-on-foundational-quantum-effect/",
+      "resumo": "Insider Brief PRESS RELEASE — Physicists in the Department of Physics, University of Oxford, have used a hybrid quantum computer, formed by qubits and quantum oscillators, to observe the Aharonov-Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can acquire a measurable phase by travelling around a magnetic […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-12T07:07:37+00:00",
+      "coletado_em": "2026-10-12T19:04:08.638698+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_Hybrid-quantum.jpg",
+      "score": 5.703,
+      "cobertura": []
+    },
+    {
+      "id": "ed20d1f3bfc6",
+      "titulo": "One step closer to quantum computers that can correct their own mistakes",
+      "url": "https://phys.org/news/2026-10-closer-quantum.html",
+      "resumo": "Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-12T15:20:22+00:00",
+      "coletado_em": "2026-10-12T19:04:08.638977+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-move-a-step.jpg",
+      "score": 5.162,
+      "cobertura": []
+    },
+    {
+      "id": "9414052da3e2",
+      "titulo": "WISeSat.Space Develops Post-Quantum Security for Satellite Communications",
+      "url": "https://thequantuminsider.com/2026/10/12/wisesat-space-post-quantum-security-satellite-communications/",
+      "resumo": "Insider Brief PRESS RELEASE — WISeSat.Space (Nasdaq: SAIQ) (“WISeSat.Space” or the “Company”) today outlined its strategy to integrate post-quantum cryptography (“PQC”) into its next-generation satellite communications and Internet of Things (“IoT”) architecture, supporting the migration objectives established by U.S. Executive Order 14412, Securing the Nation Against Advanced Cryptographic Attacks. The Company is developing a security […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-12T17:50:35+00:00",
+      "coletado_em": "2026-10-12T19:04:08.638698+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-12_22-49.png",
+      "score": 5.063,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "5fb2cb5f1cda",
+      "titulo": "Your SSD might be lying about its storage capacity. Here’s how to check",
+      "url": "https://www.pcworld.com/article/3251958/your-ssd-might-be-lying-about-its-storage-capacity-heres-how-to-check.html",
+      "resumo": "If you buy an external SSD or a USB stick today that’s being offered at a bargain price with astronomical storage capacities, you should be rather skeptical. The reason: The market is currently being flooded with sophisticated counterfeit storage devices. Manipulated controller firmware can trick the operating system into believing the device has more capacity than physically exists. Here’s an example: Imagine you’ve bought a supposed 4TB SSD on a well-known online platform and your Windows Explorer also displays this capacity. In reality, however, the drive contains only a comparatively tiny 64GB chip. The insidious thing about this manipulation is that the controller has been programmed to appear to acknowledge write operations successfully, even when the physical storage has long since been exhausted. External storage devices with huge capacities at bargain prices sound too good to be true – and in many cases, they are. It’s better to rely on products from brand-name manufacturers. Samsung As soon as the actual capacity is exceeded, the drive either starts overwriting the oldest data at the beginning of the storage or simply dumps new data packets into a digital black hole, whil",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-12T14:30:00+00:00",
+      "coletado_em": "2026-10-12T19:04:08.640133+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3251958-0-70814300-1791815430-kingston4.jpg?quality=50&strip=all",
+      "score": 5.236,
+      "cobertura": []
+    },
+    {
+      "id": "e5f69c54e27e",
+      "titulo": "Laptop stands aren’t as stupid as I thought",
+      "url": "https://www.pcworld.com/article/2956569/laptop-stands-arent-as-stupid-as-i-thought.html",
+      "resumo": "When I was reaching out to companies in search of ridiculous standing desk accessories for a recent article I wrote, a laptop stand was on my list of must-gets. I don’t mean the desk converters that give you a standing desk-like experience, but the little ones that just seem to prop the laptop up a bit . As a perennial desktop user they always seemed like a waste of time to me. Just get a desktop, or another monitor, right? Well consider me suitably chastised and with enough humble pie in my stomach that I won’t need to eat for a week, because these things aren’t as stupid as I thought. In fact, after a couple of months of playing around with one, they’re actually pretty great. I’m an idiot . And to prove just how much, here are all the useful ways I’ve found to use my new laptop stand. What’s in a laptop stand? Jon Martindale Just before we dive into what I like about my new laptop stand, let’s just define what we’re talking about. The one I have is this overblown, overpriced thing from Egonofis . Gorgeous as it is – it even matches the wood grain of my desk – it’s completely unnecessary. Branch does one which is both sturdy and attractive, with similarly wood-grain inspired styli",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-12T13:00:00+00:00",
+      "coletado_em": "2026-10-12T19:04:08.640133+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/2956569-0-65121800-1791810049-laptopstand00.jpg?quality=50&strip=all",
+      "score": 5.109,
+      "cobertura": []
+    },
+    {
+      "id": "fc6335c8808d",
+      "titulo": "Notebooks devem ficar mais caros em 2027, aponta relatório",
+      "url": "https://tecnoblog.net/noticias/notebooks-devem-ficar-mais-caros-em-2027-aponta-relatorio/",
+      "resumo": "TrendForce relaciona aumento de preços causado por encarecimento de componentes e menor demanda de computadores. Notebooks devem ficar mais caros em 2027, aponta relatório",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-12T12:14:05+00:00",
+      "coletado_em": "2026-10-12T19:04:08.652450+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2025/12/capa-aumento-eletronicos-2026-04.png",
+      "score": 5.098,
+      "cobertura": []
+    },
+    {
+      "id": "b6ce25ac78a3",
+      "titulo": "6 melhores IAs para estudar para o Enem",
+      "url": "https://canaltech.com.br/inteligencia-artificial/melhores-ias-para-estudar-enem/",
+      "resumo": "Estudar para o Enem não significa apenas passar horas diante dos livros. Você também precisa revisar o conteúdo, resolver questões, identificar onde estão suas dificuldades e encontrar maneiras de memorizar o que aprendeu. É justamente nessa rotina que as ferramentas de inteligência artificial podem ajudar . É possível usar uma IA para montar um cronograma, transformar uma apostila em flashcards, criar um simulado ou explicar aquela questão que parece impossível de entender. Algumas ferramentas são específicas para o Enem e outras funcionam melhor como apoio para determinadas etapas da preparação. 6 ferramentas de IA para estudar para o Enem Confira seis ferramentas de IA para se preparar para a prova do Enem: Gemini Akira Enem Gemini Notebook ChatGPT Perplexity Deepseek 1. Gemini Se você está na fase de fazer muitos exercícios para o Enem, o Gemini pode ajudar com simulados gratuitos e interativos . A ferramenta oferece testes no aplicativo e no Modo IA da Busca, desenvolvidos com base em questões oficiais do exame em parceria com a edtech brasileira Akira Enem. É possível fazer um simulado completo ou escolher uma área específica para treinar. Depois de responder às questões, a f",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-12T18:30:05+00:00",
+      "coletado_em": "2026-10-12T19:04:08.654410+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/xYq-w_7A3y5ErYVhpUSNc_JjTJk=/0x0/filters:format(webp):quality(85)/e035c04b-ebb1-4ee1-9fc3-84c0172ec1c3.jpg",
+      "score": 5.035,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "0ed98d3b2521",
+      "titulo": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+      "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+      "resumo": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developing an infrastructure to understand the mechanics behind the chatbot’s behavior and to ensure its underlying architecture produces reliable outputs. Gurmeet Saran Employer Anthropic in San Francisco Title Member of technical staff Member grade IEEE senior member Alma maters University of Kalyani, in India; Birla Institute of Technology and Science, in Pilani, India “My job is to make sure the data is accurate, structured, and trustworthy, and that private data stays private,” he says. “As I learned earlier in my career, privacy can’t be a layer you bolt on—it has to be part of the architecture from the start.” If you can’t trust the logic, he adds, you can’t make reliable claims about the behavior, and that has real safety implications. Safety is a priority for Anthropic, he says. According to Claude’s mission statement , the company wants the AI agent to be “genuinely",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-12T18:00:02+00:00",
+      "coletado_em": "2026-10-12T19:04:08.646642+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/an-indian-man-in-a-dress-shirt-smiling-in-front-of-the-entrance-to-an-office-building.jpg?id=68416593&width=980",
+      "score": 6.53,
+      "cobertura": []
+    },
+    {
+      "id": "b6ce25ac78a3",
+      "titulo": "6 melhores IAs para estudar para o Enem",
+      "url": "https://canaltech.com.br/inteligencia-artificial/melhores-ias-para-estudar-enem/",
+      "resumo": "Estudar para o Enem não significa apenas passar horas diante dos livros. Você também precisa revisar o conteúdo, resolver questões, identificar onde estão suas dificuldades e encontrar maneiras de memorizar o que aprendeu. É justamente nessa rotina que as ferramentas de inteligência artificial podem ajudar . É possível usar uma IA para montar um cronograma, transformar uma apostila em flashcards, criar um simulado ou explicar aquela questão que parece impossível de entender. Algumas ferramentas são específicas para o Enem e outras funcionam melhor como apoio para determinadas etapas da preparação. 6 ferramentas de IA para estudar para o Enem Confira seis ferramentas de IA para se preparar para a prova do Enem: Gemini Akira Enem Gemini Notebook ChatGPT Perplexity Deepseek 1. Gemini Se você está na fase de fazer muitos exercícios para o Enem, o Gemini pode ajudar com simulados gratuitos e interativos . A ferramenta oferece testes no aplicativo e no Modo IA da Busca, desenvolvidos com base em questões oficiais do exame em parceria com a edtech brasileira Akira Enem. É possível fazer um simulado completo ou escolher uma área específica para treinar. Depois de responder às questões, a f",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-12T18:30:05+00:00",
+      "coletado_em": "2026-10-12T19:04:08.654410+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/xYq-w_7A3y5ErYVhpUSNc_JjTJk=/0x0/filters:format(webp):quality(85)/e035c04b-ebb1-4ee1-9fc3-84c0172ec1c3.jpg",
+      "score": 5.535,
+      "cobertura": []
+    },
+    {
+      "id": "59b3b3f0c8ef",
+      "titulo": "Obra transforma notícias do presente em ficção distópica sobre o futuro da inteligência artificial",
+      "url": "https://jornal.usp.br/radio-usp/obra-transforma-noticias-do-presente-em-ficcao-distopica-sobre-o-futuro-da-inteligencia-artificial/",
+      "resumo": "\"2047: Arquivos do depois de antes\" aborda os impactos ambientais e sociais da IA em uma narrativa que combina escrita automatizada, vídeos e instalação artística",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-12T11:48:10+00:00",
+      "coletado_em": "2026-10-12T19:04:08.649050+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_giselle--1024x1024.jpg",
+      "score": 5.164,
+      "cobertura": []
+    },
+    {
+      "id": "f5491d5d6a96",
+      "titulo": "A IA Agêntica e a reconfiguração oculta da infraestrutura de TI",
+      "url": "https://canaltech.com.br/inteligencia-artificial/a-ia-agentica-e-a-reconfiguracao-oculta-da-infraestrutura-de-ti/",
+      "resumo": "A evolução da inteligência artificial nas empresas seguia, até recentemente, um modelo reativo em que usuários enviavam perguntas a um modelo de linguagem e recebiam respostas textuais ou resumos em segundos. No entanto, estamos cruzando a fronteira em direção à era da IA Agêntica. O foco deixa de ser o atendimento a comandos pontuais e passa a ser o fluxo de trabalho autônomo: sistemas compostos por múltiplos \"agentes\" digitais que raciocinam, consultam bancos de dados, chamam APIs externas, executam códigos e coordenam tarefas complexas em segundo plano, sem necessidade de intervenção humana a cada etapa. Essa mudança de paradigma transforma radicalmente o ecossistema e as exigências sobre a infraestrutura computacional. Enquanto as implantações tradicionais de IA operavam com uma proporção histórica de 1 processador (CPU) para cada 4 ou 8 aceleradores gráficos (GPUs) f ocados puramente em inferência, a IA agêntica está empurrando a arquitetura para algo muito mais próximo da razão de 1:1 . Em alguns cenários de alta concorrência, a demanda por recursos do processador central supera até mesmo a demanda pelo acelerador gráfico. Por que GPUs potentes não bastam para escalar a IA Is",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "robotica",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-12T11:55:10+00:00",
+      "coletado_em": "2026-10-12T19:04:08.654410+00:00",
+      "imagem_feed": null,
+      "score": 5.123,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "542d7e8ac045",
+      "titulo": "O que significa o ícone de escudo na bateria do Samsung Galaxy?",
+      "url": "https://canaltech.com.br/apps/o-que-e-icone-escudo-bateria-samsung-galaxy/",
+      "resumo": "O ícone de escudo ao lado da bateria em um celular Samsung Galaxy pode parecer um alerta de segurança, mas sua função está relacionada à preservação da bateria. O símbolo indica que a “ Proteção da bateria” está ativa no aparelho. Os celulares atuais usam baterias de íons de lítio, que sofrem desgaste natural ao longo do tempo. Manter o componente em 100% de carga por períodos prolongados pode acelerar esse processo, especialmente quando o aparelho permanece conectado à tomada por muitas horas. Para reduzir o desgaste, a Samsung oferece recursos que controlam o carregamento de acordo com o modo escolhido. As opções disponíveis podem variar conforme o modelo do Galaxy e a versão da One UI, inclusive em alguns modelos Galaxy, os recursos de “Proteção da bateria” podem vir ativados por padrão de fábrica. Como funciona a proteção da bateria nos celulares Galaxy? Quando a “Proteção da bateria” está ativada, o sistema modifica o carregamento para reduzir o tempo em que a bateria permanece em níveis elevados. O recurso oferece diferentes modos, dependendo do aparelho: Básico: interrompe o carregamento quando a bateria chega a 100%. O processo volta a ocorrer quando o nível cai para 95%, c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-12T14:00:01+00:00",
+      "coletado_em": "2026-10-12T19:04:08.654410+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/viS5nzv5A_l5YwvDwHVFrs0ZjSg=/0x0/filters:format(webp):quality(85)/9db9f6cb-b9b9-4720-b1ba-fd23f5c8138d.jpg",
+      "score": 4.092,
+      "cobertura": []
+    },
+    {
+      "id": "b65cf6cbe51e",
+      "titulo": "Zinc-air batteries gain new momentum with long-lasting catalyst",
+      "url": "https://techxplore.com/news/2026-10-zinc-air-batteries-gain-momentum.html",
+      "resumo": "Zinc-air batteries can store significantly more energy than lithium-ion batteries, but until now have been virtually impossible to recharge. A team led by Professor Jörg J. Schneider from the Department of Chemistry has now demonstrated how a material made of iron, nickel and carbon enables the battery to be charged and discharged up to 500 times.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-11T16:20:01+00:00",
+      "coletado_em": "2026-10-12T19:04:08.648670+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-at-develop-a.jpg",
+      "score": 3.977,
+      "cobertura": []
+    },
+    {
+      "id": "fa35895bd292",
+      "titulo": "Scientists discover a hidden factor that can make or break chemical reactions",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
+      "resumo": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the proportion of the desired product from 16% to 97%. By controlling acidity near electrodes, they developed a promising way to manufacture chemicals for plastics, medicines, and other products using oxygen and electricity instead of hazardous added oxidants.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-12T06:24:46+00:00",
+      "coletado_em": "2026-10-12T19:04:08.648330+00:00",
+      "imagem_feed": null,
+      "score": 3.363,
+      "cobertura": []
+    },
+    {
+      "id": "566c76b829f6",
+      "titulo": "Scientists make stunning discovery that could help explain why life exists",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
+      "resumo": "Scientists have discovered that the universe's fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential biological processes, potentially preventing life as we know it. Surprisingly, these life-friendly conditions existed billions of years before living cells appeared. The findings raise intriguing questions about why the laws of physics seem so well suited to life.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-11T16:35:58+00:00",
+      "coletado_em": "2026-10-12T19:04:08.637932+00:00",
+      "imagem_feed": null,
+      "score": 2.834,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": []
+}
