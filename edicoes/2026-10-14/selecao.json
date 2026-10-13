@@ -1,0 +1,729 @@
+{
+  "medicina": [
+    {
+      "id": "207919bb05ed",
+      "titulo": "Targeted radioactive therapy may help delay spread of recurrent prostate cancer",
+      "url": "https://medicalxpress.com/news/2026-10-radioactive-therapy-delay-recurrent-prostate.html",
+      "resumo": "Adding the targeted radioactive drug 177Lu-PNT2002 to stereotactic body radiation therapy, or SBRT, may help keep recurrent prostate cancer under control longer than SBRT alone, according to new research led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-13T15:40:31+00:00",
+      "coletado_em": "2026-10-13T16:57:31.978502+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/radioactive-therapy.jpg",
+      "score": 6.407,
+      "cobertura": []
+    },
+    {
+      "id": "608bbc71cf78",
+      "titulo": "STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss",
+      "resumo": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-13T13:29:22+00:00",
+      "coletado_em": "2026-10-13T16:57:31.979012+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "score": 5.987,
+      "cobertura": []
+    },
+    {
+      "id": "9b623ea2336d",
+      "titulo": "Protein reins in intestinal inflammation by curbing an overactive immune signal",
+      "url": "https://medicalxpress.com/news/2026-10-protein-reins-intestinal-inflammation-curbing.html",
+      "resumo": "A preclinical study by researchers at UT Southwestern Medical Center has discovered how a protein called ZBTB44 helps prevent excessive immune activity that can cause inflammation in the colon, the main section of the large intestine. The findings, published in Nature Immunology, may help explain how immune responses go awry in a range of chronic inflammatory and autoimmune diseases.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-13T16:20:22+00:00",
+      "coletado_em": "2026-10-13T16:57:31.978502+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-puts-brakes-on.jpg",
+      "score": 5.98,
+      "cobertura": []
+    },
+    {
+      "id": "4ea4790cffee",
+      "titulo": "Triple-action drug retatrutide delivers major weight loss for people with diabetes, Phase III trial finds",
+      "url": "https://medicalxpress.com/news/2026-10-triple-action-drug-retatrutide-major.html",
+      "resumo": "A recent Phase III clinical trial, TRIUMPH-2, evaluated the efficacy and safety of retatrutide, a triple receptor agonist and experimental once-weekly injection being developed to treat obesity and type 2 diabetes. What sets it apart from drugs such as semaglutide (Wegovy), which targets one hormone, and tirzepatide (Zepbound), which targets two, is its ability to activate three hormone receptors at once.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-13T14:20:37+00:00",
+      "coletado_em": "2026-10-13T16:57:31.978502+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/triple-action-drug-ret-2.jpg",
+      "score": 5.77,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "17a8e78965e5",
+      "titulo": "How cells make their command center accessible",
+      "url": "https://phys.org/news/2026-10-cells-center-accessible.html",
+      "resumo": "The cells of higher organisms such as mammals, flies and fungi enclose their genetic material in a nucleus. A nuclear envelope, consisting of two stacked membranes, protects it. For the cell to survive, the nucleus must constantly exchange molecules with the rest of the cell. This exchange relies on channels called nuclear pores, which act as selective gates that transport proteins or messenger RNA in or out.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-13T13:20:08+00:00",
+      "coletado_em": "2026-10-13T16:57:31.979249+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-work-of-art.jpg",
+      "score": 6.172,
+      "cobertura": []
+    },
+    {
+      "id": "41d8a49df3b3",
+      "titulo": "Random mutations turn RNA droplets into cell-like structures that move and store cargo",
+      "url": "https://phys.org/news/2026-10-random-mutations-rna-droplets-cell.html",
+      "resumo": "A small number of random genetic mutations cause simple RNA droplets to transform into cell-like structures. In this process, they form cavities, can move and are able to take up cargo.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-13T14:00:21+00:00",
+      "coletado_em": "2026-10-13T16:57:31.979249+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/random-mutations-turn-1.jpg",
+      "score": 5.736,
+      "cobertura": []
+    },
+    {
+      "id": "9a09d432e93c",
+      "titulo": "A duo goes against the tide to explain an origin of human endurance",
+      "url": "https://www.sciencenews.org/article/origin-human-endurance-dive-evolution",
+      "resumo": "Theories that aquatic foraging drove human evolution have a fraught past. But the pair argue it granted stamina that other primates lack.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-13T15:00:00+00:00",
+      "coletado_em": "2026-10-13T16:57:32.017633+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/093026_LP_swimthenrun_main.jpg?w=800",
+      "score": 5.286,
+      "cobertura": []
+    },
+    {
+      "id": "2223b14d8906",
+      "titulo": "DNA recording system reveals how a single cell becomes a body",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261011211556.htm",
+      "resumo": "Scientists have traced the development of a mouse embryo from its first two cells to the formation of organs, using a remarkable DNA recording system that reveals the family history of individual cells. Their findings uncover how different cell types emerge on their own schedules and could help explain what goes wrong in birth defects, genetic disorders, and cancer.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-13T10:17:08+00:00",
+      "coletado_em": "2026-10-13T16:57:31.979699+00:00",
+      "imagem_feed": null,
+      "score": 5.26,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "8c227999949c",
+      "titulo": "Q&A: Mars Perseverance Rover Distance Record",
+      "url": "https://spectrum.ieee.org/mars-rover-distance-record",
+      "resumo": "On October 11 , the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance’s ability to drive with much more autonomy than its predecessors. Over the last five years, Perseverance’s autonomy software has been steadily upgraded, and to learn more about how the record was broken and what the future holds for the rover, we spoke with Mark Maimone , the Perseverance Robotic Operations Deputy Team Chief at NASA’s Jet Propulsion Laboratory, who designed and developed the self-driving software for Mars rovers Spirit, Opportunity, Curiosity, and Perseverance. Before we talk about Perseverance, let’s pour one out for the previous record holder Opportunity , which landed on Mars in January of 2004 for a 3-month mission and ended its epic journey 15 years later in February of 2019. This NASA video compresses Opportunity’s entire mission into four minutes, and gives a poignant sense of the incredible distance that this little rover traveled over its 15 year life on Mars, doing science as it went: NASA Jet Propulsion Laboratory/YouTube Opportunity drove 4",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-13T15:02:04+00:00",
+      "coletado_em": "2026-10-13T16:57:31.980455+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/map-of-the-twenty-eight-mile-route-nasas-perseverance-rover-has-taken-across-mars-surface-over-the-span-of-five-years.jpg?id=68423645&width=980",
+      "score": 6.44,
+      "cobertura": [
+        "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done"
+      ]
+    },
+    {
+      "id": "f9a8aa9f428b",
+      "titulo": "Robô é acusado de assediar adolescente na Alemanha; polícia investiga responsável",
+      "url": "https://canaltech.com.br/produtos/robo-e-acusado-de-assediar-adolescente-na-alemanha-policia-investiga-responsavel/",
+      "resumo": "Um robô humanoide foi apreendido pela polícia alemã após uma denúncia de assédio sexual contra uma adolescente de 16 anos , na cidade de Colônia. Agora, os investigadores tentam descobrir se alguém controlou o equipamento para cometer o suposto abuso. O caso envolve dois jovens, de 16 e 19 anos . O mais novo seria o proprietário do robô, enquanto o outro é suspeito de ter filmado e transmitido o episódio ao vivo nas redes sociais, inclusive com uma narração do ocorrido. A Polícia Criminal de Colônia abriu uma investigação por suspeita de ofensa com motivação sexual e apreendeu dois celulares dos envolvidos, além do próprio robô. A intenção é esclarecer a participação de cada suspeito e identificar como o dispositivo foi operado. O que aconteceu com a adolescente? O episódio aconteceu na madrugada de domingo (11), próximo a uma lanchonete de fast-food no centro de Colônia. A vítima estava com duas amigas, de 17 e 18 anos, quando teria sido abordada pelo equipamento. Segundo as informações divulgadas pelas autoridades, o robô se aproximou pelas costas, tocou as nádegas da adolescente e fez movimentos de projeção do corpo para a frente. O dispositivo tem aproximadamente 1,2 metro de a",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "robotica"
+      ],
+      "publicado": "2026-10-13T15:11:35+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/kh4uDcjvlUjTP8V0JJuOU6Mvbis=/0x0/filters:format(webp):quality(85)/fa5e2472-8d27-419a-bafc-bf81948ff66c.png",
+      "score": 5.406,
+      "cobertura": []
+    },
+    {
+      "id": "dcadf459c938",
+      "titulo": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
+      "url": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding/",
+      "resumo": "Promise Robotics has signed a multi-year partnership with America's largest homebuilder by volume to bring physical AI to construction. The post Promise Robotics partners with D.R. Horton on physical AI for homebuilding appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-13T13:00:05+00:00",
+      "coletado_em": "2026-10-13T16:57:31.980905+00:00",
+      "imagem_feed": null,
+      "score": 4.991,
+      "cobertura": []
+    },
+    {
+      "id": "6a06e8efbde4",
+      "titulo": "Beetle-inspired soft robot follows finger commands to walk, grip and relay sensory information",
+      "url": "https://techxplore.com/news/2026-10-beetle-soft-robot-finger-relay.html",
+      "resumo": "Researchers have developed a technology that lets a user move a small robot by bending and straightening a finger. The user can also pick up and move objects while checking the images and contact information that the robot sends back.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-13T14:40:14+00:00",
+      "coletado_em": "2026-10-13T16:57:31.981010+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-a-beetl.jpg",
+      "score": 4.802,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "1dd7a4083ff3",
+      "titulo": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1100181/",
+      "resumo": "Security updates have been issued by AlmaLinux (cjose, curl, emacs, environment-modules, flatpak, flatpak-builder, gd, glibc, kernel, libxml2, pcre2, and rsyslog), Debian (chromium, keystone, libgit2, librsvg, nagios4, and ntfs-3g), Fedora (baresip, bcm283x-firmware, curl, flare-im, GitPython, iperf3, kernel, libebml, libmatroska, libre, mkvtoolnix, python-mkdocs-rss-plugin, radicale, uboot-tools, and xiphos), Mageia (antlr4-project, cjose, cups, firefox, nss, golang, libextractor, nginx, ntfs-3g, openvpn, perl-DBI, perl-Imager, polkit, rsync, strongswan, thunderbird, tor, ugrep, vlc, and wireshark), Oracle (bind, bind9.16, cjose, compat-openssl10, compat-openssl11, curl, dovecot, emacs, flatpak, jackson-core, jackson-databind, jackson-jaxrs-providers, and jackson-modules-base, kernel, mod_auth_openidc, nodejs:22, tftp, and thunderbird), SUSE (bind, gcc13, gcc48, ghostscript, go1.26, go1.27, helm, libpng16, librsvg, libsoup, libX11, libXi, python, python-anyio, python-Django, python-PyJWT, python-tornado6, python-urllib3, python310, python313-bugzilla, python313-cmarkgfm, python313-colander, python313-configobj, python313-confluent-kafka, python313-django-registration, python313-ec",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-13T13:10:55+00:00",
+      "coletado_em": "2026-10-13T16:57:31.981672+00:00",
+      "imagem_feed": null,
+      "score": 5.158,
+      "cobertura": []
+    },
+    {
+      "id": "fe741fa59ed7",
+      "titulo": "Veja quando seu celular OnePlus ou Realme vai receber o ColorOS 17",
+      "url": "https://canaltech.com.br/apps/veja-quando-seu-celular-oneplus-ou-realme-vai-receber-o-coloros-17/",
+      "resumo": "A atualização ColorOS 17 vai chegar simultaneamente para aparelhos de OPPO, OnePlus e Realme a partir deste mês de outubro. A nova versão é feita com Android 17 e traz novos recursos de IA, como um agente integrado ao sistema para executar tarefas. A mudança é consequência de uma série de ajustes da OPPO com suas subsidiárias: a Realme encerrou a operação na China, enquanto a OnePlus não vai lançar mais produtos nos EUA e na Europa. Como resultado, a fabricante chinesa decidiu padronizar a mesma interface entre as três marcas para facilitar a distribuição de software . Portanto, quem tem um celular com Realme UI ou OxygenOS poderá atualizar para o ColorOS 17 e ter acesso a uma experiência unificada entre as marcas. Quando os celulares de OnePlus e Realme recebem o ColorOS 17? A distribuição geral começa em 29 de outubro e dura até o primeiro trimestre de 2027. As empresas vão liberar o update por grupos de aparelhos, então alguns modelos podem demorar mais para receber o conteúdo. A Realme confirmou ao Canaltech que o cronograma global será aplicado ao Brasil . Confira: A partir de 29 de outubro Realme GT 8 Pro Realme GT 8 Pro Dream Edition A partir de 30 de outubro Realme GT 7 Pro",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-13T16:05:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/gqJ3gUE2p8DgxzCfl-n4lKogO_o=/0x0/filters:format(webp):quality(85)/56998b9f-f9af-413f-809f-3f0feec12e52.png",
+      "score": 5.001,
+      "cobertura": []
+    },
+    {
+      "id": "2a34a88fe210",
+      "titulo": "Nix and Lix local root-privilege-escalation vulnerabilities",
+      "url": "https://lwn.net/Articles/1100247/",
+      "resumo": "The Lix and Nix projects have jointly disclosed a set of vulnerabilities that can be used to escalate privileges to root on systems running the Lix or Nix daemons. \" All systems that build untrusted derivations are affected. \" Releases with fixes from each project are available today. CVE IDs have not yet been requested. See the announcement for more details on the vulnerabilities.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-13T16:13:24+00:00",
+      "coletado_em": "2026-10-13T16:57:31.981672+00:00",
+      "imagem_feed": null,
+      "score": 4.967,
+      "cobertura": []
+    },
+    {
+      "id": "ef4b82aea04c",
+      "titulo": "ZCS Command Injection via SNMP Handlers Enables Unauthenticated Remote Code Execution",
+      "url": "https://www.infoq.com/news/2026/10/zimbra-command-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "A critical remote command execution vulnerability in the Zimbra Collaboration Suite, identified as CVE-2026-73570, poses risks by allowing unauthorized access to mailbox data and credentials. This flaw, stemming from improper input sanitization, has been actively exploited. Organizations are advised to upgrade to version 10.1.20 or disable susceptible SNMP services to mitigate risks. By Olimpiu Pop",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-13T13:13:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.981193+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/zimbra-command-injection/en/headerimage/headerZimbra-1791879318550.jpg",
+      "score": 4.811,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "e63f724473d0",
+      "titulo": "U.S. Chip Firms Bet Big on R&D",
+      "url": "https://spectrum.ieee.org/semiconductor-research",
+      "resumo": "On 12 October Applied Materials unveiled a multi-billion dollar research facility in Sunnyvale, California, at the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will invest even more: about $5 billion. The boost is part of a wider growth in private investment that is both enlarging the U.S. semiconductor R&D sector and making it more complex. The EPIC announcement follows others, in August, by two semiconductor firms. Memory chip maker Micron disclosed that it would invest $10 billion over ten years at its Boise, ID, memory research lab, and SK hynix said it will spend $4 billion on an advanced packaging facility in West Lafayette, Indiana. (Neither of those companies responded to IEEE Spectrum’s questions about how much of those funds would be for R&D.) The U.S. federal government has encouraged investment in U.S. semiconductor research by chip giants based in friendly nations, such as TSMC and Samsung. It has also enacted tariffs on foreign components and put some of its own money into faltering domestic chips companies including Intel . But t",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-10-13T11:00:05+00:00",
+      "coletado_em": "2026-10-13T16:57:31.981944+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-worker-in-a-clean-suit-using-a-front-opening-unified-pod-for-semiconductor-wafers.jpg?id=68417267&width=980",
+      "score": 6.568,
+      "cobertura": []
+    },
+    {
+      "id": "a3567e59d423",
+      "titulo": "Em meio à crise, Intel vai lançar novas CPUs compatíveis com DDR4",
+      "url": "https://canaltech.com.br/hardware/em-meio-a-crise-intel-vai-lancar-novas-cpus-compativeis-com-ddr4/",
+      "resumo": "A atual crise da indústria de hardware está longe de acabar e diferentes executivos já deixaram isso bem claro . Se está difícil produzir novos chips, resta então ficar com o silício mais antigo e reaproveitá-lo. Isso é o que a Intel já está fazendo com a arquitetura Raptor Lake Next , já que novas CPUs chegam no início de 2027 , segundo a Gigabyte. A informação veio à tona depois de atualizações recentes de firmware feitas pela Gigabyte para suas placas-mãe das séries 600 e 700 (a página oficial já foi apagada). A nova BIOS traz \"suporte para os futuros processadores LGA-1700 em toda a sua linha de placas-mãe Intel B760 e H610\". Apesar da Intel nunca ter oficializado esses processadores, a fabricante parceira aponta para o \"início de 2027\". Por se tratar da plataforma LGA-1700, o suporte a memórias DDR4 continua . Segundo os rumores, a Intel planeja um processador de 16 núcleos (8P + 8E) com TDP de 125W , além de um SKU com 20 núcleos , com 8 de performance e 12 eficientes, mas com consumo base de 65W . Reutilização de uma arquitetura de 4 anos A arquitetura Raptor Lake chegou com a 13ª geração de CPUs Intel Core em outubro de 2022 . Essa família de processadores continuou a mudan",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-10-13T13:06:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/s5r7i_w3xQVZlIuPRCcNMf11ueM=/0x0/filters:format(webp):quality(85)/9c2853d7-d510-4e37-83bf-3adc5af44777.jpg",
+      "score": 5.7,
+      "cobertura": []
+    },
+    {
+      "id": "e9c3af08b2a3",
+      "titulo": "Intel lança placa de vídeo monstruosa com até 480 GB de memória; conheça a D270",
+      "url": "https://canaltech.com.br/hardware/intel-lanca-placa-de-video-monstruosa-com-ate-480-gb-de-memoria-conheca-a-d270/",
+      "resumo": "A Intel oficializou a sua nova GPU voltada para data centers e aceleração de inteligência artificial, conhecida pelo codinome \"Crescent Island\" e agora apresentada como Intel GPU D270 . Usando a mais recente arquitetura gráfica Xe3P , pode oferecer até 480 GB de LPDDR5X . A placa aceleradora tem foco exclusivo em tarefas de inferência de IA, deixando de lado recursos dedicados a gráficos 3D ou jogos , mesmo usando uma arquitetura capaz de executar esse tipo de processamento, algo que mostra onde está o foco da Intel no momento. Indo na contramão das rivais que usam memória HBM, oferecendo grande capacidade de largura de banda, a Intel optou por memória LPDDR5X . Apesar de ser menos capaz, ao escolher essa tecnologia, a empresa contorna a escassez de chips que afeta amplamente a tecnologia HBM , reduzindo custos e deixando o produto mais atraente com preços mais baixos (pelo menos na teoria). Em termos de especificações, a placa vem equipada com 32 núcleos Xe3P, 256 motores de aceleração de matriz (XMX) e 32 MB de cache L2 unificado . O hardware alcança um desempenho de até 1,3 PFLOPS em operações de precisão FP8 e garante uma largura de banda de memória de 1,5 TB/s . Eficiência ene",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-13T14:36:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": null,
+      "score": 5.545,
+      "cobertura": []
+    },
+    {
+      "id": "0553f349e63a",
+      "titulo": "Novas CPUs AMD EPYC Verano apostam em LPDDR5X e até 192 núcleos",
+      "url": "https://canaltech.com.br/hardware/novas-cpus-amd-epyc-verano-apostam-em-lpddr5x-e-ate-192-nucleos/",
+      "resumo": "Enquanto PC gamers e usuários que demandam alto desempenho de CPUs no mercado aguardam pelos novos Ryzen baseados em Zen 6, a AMD segue focando na nova geração das CPUs EPYC . Agora, o Time Vermelho revelou a série \"Verano\", que foca em IA agêntica, trazendo um lineup oferecendo até 192 núcleos e suporte a memória LPDPDR5X . No aspecto técnico, as novas CPUs EPYC Verano contam com opções configuráveis que variam em contagem de núcleos para atender a diferentes necessidades, chegando a 192 núcleos e 384 threads em um único SKU . A integração de memória LPDDR5X diretamente no ecossistema garante velocidade e eficiência, usando o padrão SOCAMM2 , uma novidade por parte do Time Vermelho. Além do ganho de velocidade pura, a arquitetura Verano se destaca pela eficiência energética. O uso de componentes otimizados para baixo consumo elétrico permite reduzir drasticamente o gasto de energia por operação computacional, algo crucial para data centers focados em inteligência artificial. O conjunto garante ainda suporte avançado a instruções direcionadas à inferência local e ao treinamento de modelos de linguagem. Infraestrutura de grande escala com o rack Helion Para complementar os novos chi",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-13T15:07:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": null,
+      "score": 5.098,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "2e970f2b877a",
+      "titulo": "Webb spots possible early-universe supernova just days after it happened",
+      "url": "https://phys.org/news/2026-10-webb-early-universe-supernova-days.html",
+      "resumo": "The James Webb Space Telescope (JWST) has detected a possible supernova in the early universe just days after the star exploded. Called AT 2026abck, the transient lies in a star-forming galaxy at a redshift of 5.017 and was found without the help of gravitational lensing. JWST observations suggest the event was caught only about four to 10 days after the explosion. The paper was posted to the arXiv preprint server on Sept. 29.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-13T14:50:01+00:00",
+      "coletado_em": "2026-10-13T16:57:31.983086+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/james-webb-telescope-c.jpg",
+      "score": 6.319,
+      "cobertura": []
+    },
+    {
+      "id": "324056b7713f",
+      "titulo": "NASA's SpaceX CRS-35 mission to launch health research",
+      "url": "https://phys.org/news/2026-10-nasa-spacex-crs-mission-health.html",
+      "resumo": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX's 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-13T12:00:02+00:00",
+      "coletado_em": "2026-10-13T16:57:31.983086+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2018/18-internationa.jpg",
+      "score": 6.052,
+      "cobertura": [
+        "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+        "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
+      ]
+    },
+    {
+      "id": "e43225faf7ef",
+      "titulo": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+      "resumo": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that could transform how astronomers study the early cosmos.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-13T11:27:24+00:00",
+      "coletado_em": "2026-10-13T16:57:31.983312+00:00",
+      "imagem_feed": null,
+      "score": 5.855,
+      "cobertura": []
+    },
+    {
+      "id": "7a74bc906d8d",
+      "titulo": "Claude Code pode ter sido usado para descobrir novo planeta; NASA analisa",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-code-pode-ter-sido-usado-para-descobrir-novo-planeta-nasa-analisa/",
+      "resumo": "Um desenvolvedor usou inteligência artificial para identificar um possível exoplaneta em dados públicos da NASA. O candidato teria cerca de 1,4 vez o tamanho da Terra e estaria a 116 anos-luz de distância, com uma órbita de apenas 3,18 dias ao redor de sua estrela. A agência espacial norte-americana programou novas observações para novembro, que podem ajudar a confirmar a descoberta. O projeto foi conduzido por Pavel Rabtsevich , desenvolvedor e entusiasta de astronomia, a partir de registros do telescópio espacial TESS (Transiting Exoplanet Survey Satellite), responsável por buscar planetas fora do Sistema Solar. No fim de 2025, ele identificou quedas recorrentes de aproximadamente 0,05% no brilho da estrela TIC 4206066, com duração de cerca de duas horas e intervalos próximos de três dias. Para verificar a hipótese, Rabtsevich também analisou dados de 2018 e 2020. Ao cruzar os registros, identificou 22 eventos de escurecimento compatíveis com a passagem de um planeta diante da estrela, fenômeno conhecido como trânsito planetário. A regularidade dos sinais reforçou a suspeita, mas ainda era necessário descartar possíveis interferências e falhas nos instrumentos. A investigação tam",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-13T14:02:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/UT41wFv0kAFZqi8SwCDq4cYT5bw=/0x0/filters:format(webp):quality(85)/819b7731-1ea6-4d3b-81e1-40c28fe0470b.jpg",
+      "score": 5.789,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "c057653c5208",
+      "titulo": "Swinburne and IQM Partner on Quantum Research and Workforce Development",
+      "url": "https://thequantuminsider.com/2026/10/13/swinburne-iqm-advance-quantum-ecosystem-australia/",
+      "resumo": "Insider Brief PRESS RELEASE — Swinburne University of Technology and IQM Quantum Computers, the global leader in superconducting quantum computers, are partnering to advance quantum science, technology, innovation and workforce development capability. This new partnership will include collaborating in education, training, research engagement and technology development across Australia, Europe and the Indo-Pacific. “Quantum technologies have […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-13T09:45:03+00:00",
+      "coletado_em": "2026-10-13T16:57:31.983784+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-13_14-43.png",
+      "score": 5.519,
+      "cobertura": []
+    },
+    {
+      "id": "1e9072a83ca5",
+      "titulo": "Google Researchers Propose Using Error Records to Improve Quantum Results After Computation",
+      "url": "https://thequantuminsider.com/2026/10/13/google-researchers-propose-using-error-records-to-improve-quantum-results-after-computation/",
+      "resumo": "Insider Brief Errors can survive even a quantum computer’s built-in correction system, leaving researchers with results that look reliable but remain slightly off. Now, Google Quantum AI researchers report on a “measure now, mitigate later” approach in a preprint study on arXiv that uses error records saved during the calculation as a way to reduce […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-13T13:05:47+00:00",
+      "coletado_em": "2026-10-13T16:57:31.983784+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-7.08.41-AM.png",
+      "score": 5.3,
+      "cobertura": []
+    },
+    {
+      "id": "0907f880a7cd",
+      "titulo": "Coinbase Urges Early Work on Bitcoin’s Post-Quantum Transition",
+      "url": "https://thequantuminsider.com/2026/10/13/coinbase-urges-early-work-on-bitcoins-post-quantum-transition/",
+      "resumo": "Insider Brief Coinbase says Bitcoin should begin preparing for quantum computing threats before a machine capable of breaking its cryptography is announced. In a blog post outlining its technical priorities, the cryptocurrency exchange and custodian said protecting Bitcoin will require more than selecting a new digital signature system. The transition must also work for ordinary […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-13T16:12:19+00:00",
+      "coletado_em": "2026-10-13T16:57:31.983784+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-12.09.55-PM.png",
+      "score": 5.115,
+      "cobertura": []
+    },
+    {
+      "id": "c5516db63064",
+      "titulo": "Quantum Firms Backed to Keep UK Railways Running And Cut Waiting Lists",
+      "url": "https://thequantuminsider.com/2026/10/13/quantum-firms-backed-to-keep-uk-railways-running-and-cut-waiting-lists/",
+      "resumo": "Insider Brief PRESS RELEASE — British businesses developing quantum technologies are being backed to keep our railways running, reduce eye scan waits, and keep our military connected – improving lives for people across the country. Quantum technologies use the behaviour of tiny particles including atoms to do things that are difficult or impossible with today’s […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-13T14:50:53+00:00",
+      "coletado_em": "2026-10-13T16:57:31.983784+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/rtbr55gm4kc.jpg",
+      "score": 4.97,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "6e45b38e800e",
+      "titulo": "How much SSD space do you really need? The PC buyer’s guide to storage",
+      "url": "https://www.pcworld.com/article/2489675/how-much-ssd-space-do-you-really-need-the-pc-buyers-guide-to-storage.html",
+      "resumo": "Whether you’re buying a laptop or building your own PC , you’re going to want an SSD as the main storage drive — and you’re also going to want to make sure it’s the right size for your needs. Sure, you might be able to crack open that laptop and swap out the main drive for a bigger one, or even install a second drive alongside it for additional storage. And yes, you can definitely do that with a desktop PC. But if you have zero affinity for computer tinkering, then it’s just way more convenient to buy the right amount of storage from the get-go. Working on a computer with a too-small-for-your-needs SSD can be miserable, but you also don’t want to overspend on unused capacity — especially in these shortage-plagued times , when SSDs are going for more than double their previous asking prices. Here’s everything you need to know about how much SSD storage space you should have in 2026, as well as how big you can reasonably go without wasting your hard-earned money. 64GB storage is too little Officially, Microsoft’s system requirements for Windows 11 say that 64GB of storage is the absolute minimum for the operating system. Yet while you might be able to cram Windows 11 onto such a smal",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-13T13:00:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.984670+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/2489675-0-72748200-1791896416-Man-holding-Samsung-990-PRO-SSD-between-fingers-over-exposed-laptop-hero.jpg?quality=50&strip=all",
+      "score": 6.291,
+      "cobertura": []
+    },
+    {
+      "id": "b0339fc0bc16",
+      "titulo": "Save $1440 when you go for this 4K gaming rig with a massive 64GB of DDR5 RAM and a 4TB SSD",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/save-usd1440-when-you-go-for-this-4k-gaming-rig-with-a-massive-64gb-of-ddr5-ram-and-a-4tb-ssd-cyberpowerpc-gamer-supreme-also-includes-an-rtx-5070-ti-and-ryzen-9-9950x-cpu",
+      "resumo": "Pick up a prebuilt desktop gaming and video editing PC with 64GB of memory and a large 4TB SSD and save $1440",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-13T11:18:35+00:00",
+      "coletado_em": "2026-10-13T16:57:31.982261+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/eB9Gmgyg6D2wwLkB9UPWma-1920-80.jpg",
+      "score": 5.643,
+      "cobertura": []
+    },
+    {
+      "id": "df1af71436dc",
+      "titulo": "Windows 11’s easy local account trick is dead, patched by Microsoft",
+      "url": "https://www.pcworld.com/article/3259577/windows-11s-easy-local-account-trick-is-dead-patched-by-microsoft.html",
+      "resumo": "Well, it was bound to happen. Last month, someone discovered a simple trick for skipping the mandatory Microsoft account when setting up a new Windows 11 PC or reinstalling the operating system. Now, Microsoft has blocked the trick, making Microsoft accounts truly mandatory once again. The trick was unbelievably easy. During Windows 11 setup, there was a page that prompted you to sign in with your Microsoft account. But if you clicked on “Learn more,” Windows 11 allowed you to create a local account with administrator rights, bypassing the Microsoft account requirement altogether. Unfortunately, this workaround no longer works. According to Windows Latest , the most recently updated Windows 11 26H2 ISO file has changed up the setup process. Now when you click the “Learn more” link, you’re taken to the usual page that tells you how Microsoft manages your data. The only button on that page takes you back to the sign-in screen that demands a Microsoft account login. UPDATE: This mandatory Microsoft account requirement workaround by clicking on the tiny \"Learn more\" hyperlink in the Microosft account sign in page during the Windows 11 OOBE has been recently quietly patched server side.",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-13T14:37:18+00:00",
+      "coletado_em": "2026-10-13T16:57:31.984670+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3259577-0-37001600-1791902260-Microsoft-signin-screen-for-Windows-10.jpg?quality=50&strip=all",
+      "score": 5.447,
+      "cobertura": []
+    },
+    {
+      "id": "b7a66791ce0b",
+      "titulo": "For one week, you can get Windows 11 Pro for just $15",
+      "url": "https://www.pcworld.com/article/3258692/for-one-week-you-can-get-windows-11-pro-for-just-15.html",
+      "resumo": "TL;DR: You can get Windows 11 Pro for life for just $14.99. Windows 10 is over 10 years old, and it really starts to show when you look at some of the security features or just basic usability. Upgrading used to be expensive, but right now, you can get Windows 11 Pro for just $14.99(reg. $199). Windows 11 Pro is Microsoft’s best current operating system. If you’ve been hesitant to upgrade to Windows 11 Home, Pro gives you quite a few good reasons. BitLocker encrypts your whole drive, so nobody can read your files if your laptop is lost or stolen. Hyper-V lets you run virtual machines, and Windows Sandbox lets you test new apps in a separate space that can’t affect the rest of your PC. Azure AD support connects work PCs to business networks and manages sign-ins. You also get everything that’s included with Windows 11 Home. Snap layouts put windows side by side on your screen, and DirectX 12 Ultimate helps new games run at your hardware’s full power. You can sign in with your face or fingerprint, and TPM 2.0 adds hardware-level security to that sign-in. Copilot sits in the taskbar and answers questions, summarizes pages, and writes content when you ask. Upgrade your old Windows 10 PC",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-13T08:00:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.984670+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3258692-0-02969100-1791878421-sale_323895_article_image.jpg?quality=50&strip=all",
+      "score": 5.392,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "b9dcdda324f2",
+      "titulo": "Google Deepmind’s New Resident Philosopher Tackles AI Ethics",
+      "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
+      "resumo": "How should humans relate to generative AI ? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could some day have moral rights? These are among the cognitive and ethical questions that occupied philosopher Henry Shevlin at Cambridge University’s Leverhulme Centre for the Future of Intelligence . But last May Shevlin became part of the growing cohort of philosophers who work inside leading artificial intelligence companies. Though he remains active at Cambridge, he now spends 80 percent of his time at Google DeepMind (job title: “Philosopher”). Shevlin spoke with IEEE Spectrum about why philosophers are drawn to AI, how humans and AIs relate to one another, fears of “rogue” AI and AI relationships that harm humans, and how the question of AI consciousness may never have a simple “yes” or “no” answer. What made you want to switch from full-time academic philosopher to spending much of your time at an AI Lab? Henry Shevlin: Three factors. One is that I had lots of brilliant students from DeepMind. Two, the potential for direct impact. I can’t go into details, but on ",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-13T13:00:03+00:00",
+      "coletado_em": "2026-10-13T16:57:31.992359+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=980",
+      "score": 6.741,
+      "cobertura": []
+    },
+    {
+      "id": "5e7787b61027",
+      "titulo": "Meta lança o Muse Wonder, sua IA mais avançada até agora",
+      "url": "https://tecnoblog.net/noticias/meta-lanca-o-muse-wonder-sua-ia-mais-avancada-ate-agora/",
+      "resumo": "Novos modelos focam em agentes capazes de lembrar informações, usar computadores e executar tarefas. Meta lança o Muse Wonder, sua IA mais avançada até agora",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-13T13:14:34+00:00",
+      "coletado_em": "2026-10-13T16:57:31.996629+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/4ZwVP0-ylZU",
+      "score": 6.364,
+      "cobertura": [
+        "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+      ]
+    },
+    {
+      "id": "fe741fa59ed7",
+      "titulo": "Veja quando seu celular OnePlus ou Realme vai receber o ColorOS 17",
+      "url": "https://canaltech.com.br/apps/veja-quando-seu-celular-oneplus-ou-realme-vai-receber-o-coloros-17/",
+      "resumo": "A atualização ColorOS 17 vai chegar simultaneamente para aparelhos de OPPO, OnePlus e Realme a partir deste mês de outubro. A nova versão é feita com Android 17 e traz novos recursos de IA, como um agente integrado ao sistema para executar tarefas. A mudança é consequência de uma série de ajustes da OPPO com suas subsidiárias: a Realme encerrou a operação na China, enquanto a OnePlus não vai lançar mais produtos nos EUA e na Europa. Como resultado, a fabricante chinesa decidiu padronizar a mesma interface entre as três marcas para facilitar a distribuição de software . Portanto, quem tem um celular com Realme UI ou OxygenOS poderá atualizar para o ColorOS 17 e ter acesso a uma experiência unificada entre as marcas. Quando os celulares de OnePlus e Realme recebem o ColorOS 17? A distribuição geral começa em 29 de outubro e dura até o primeiro trimestre de 2027. As empresas vão liberar o update por grupos de aparelhos, então alguns modelos podem demorar mais para receber o conteúdo. A Realme confirmou ao Canaltech que o cronograma global será aplicado ao Brasil . Confira: A partir de 29 de outubro Realme GT 8 Pro Realme GT 8 Pro Dream Edition A partir de 30 de outubro Realme GT 7 Pro",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-13T16:05:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/gqJ3gUE2p8DgxzCfl-n4lKogO_o=/0x0/filters:format(webp):quality(85)/56998b9f-f9af-413f-809f-3f0feec12e52.png",
+      "score": 5.501,
+      "cobertura": []
+    },
+    {
+      "id": "1afca75ee08e",
+      "titulo": "Cientistas pedem órgão global para fiscalizar sistemas de IA avançada",
+      "url": "https://olhardigital.com.br/2026/10/13/inteligencia-artificial/cientistas-pedem-orgao-global-para-fiscalizar-sistemas-de-ia-avancada/",
+      "resumo": "Proposta prevê padrões de segurança, avaliações independentes e isolamento de redes para modelos avançados de inteligência artificial O post Cientistas pedem órgão global para fiscalizar sistemas de IA avançada apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-13T15:38:44+00:00",
+      "coletado_em": "2026-10-13T16:57:31.995166+00:00",
+      "imagem_feed": null,
+      "score": 5.304,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "1acd025aeb34",
+      "titulo": "They war-gamed dimming the Sun. It went even worse than you think.",
+      "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "resumo": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-13T15:17:59+00:00",
+      "coletado_em": "2026-10-13T16:57:32.017995+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg",
+      "score": 5.667,
+      "cobertura": []
+    },
+    {
+      "id": "7a74bc906d8d",
+      "titulo": "Claude Code pode ter sido usado para descobrir novo planeta; NASA analisa",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-code-pode-ter-sido-usado-para-descobrir-novo-planeta-nasa-analisa/",
+      "resumo": "Um desenvolvedor usou inteligência artificial para identificar um possível exoplaneta em dados públicos da NASA. O candidato teria cerca de 1,4 vez o tamanho da Terra e estaria a 116 anos-luz de distância, com uma órbita de apenas 3,18 dias ao redor de sua estrela. A agência espacial norte-americana programou novas observações para novembro, que podem ajudar a confirmar a descoberta. O projeto foi conduzido por Pavel Rabtsevich , desenvolvedor e entusiasta de astronomia, a partir de registros do telescópio espacial TESS (Transiting Exoplanet Survey Satellite), responsável por buscar planetas fora do Sistema Solar. No fim de 2025, ele identificou quedas recorrentes de aproximadamente 0,05% no brilho da estrela TIC 4206066, com duração de cerca de duas horas e intervalos próximos de três dias. Para verificar a hipótese, Rabtsevich também analisou dados de 2018 e 2020. Ao cruzar os registros, identificou 22 eventos de escurecimento compatíveis com a passagem de um planeta diante da estrela, fenômeno conhecido como trânsito planetário. A regularidade dos sinais reforçou a suspeita, mas ainda era necessário descartar possíveis interferências e falhas nos instrumentos. A investigação tam",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-13T14:02:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/UT41wFv0kAFZqi8SwCDq4cYT5bw=/0x0/filters:format(webp):quality(85)/819b7731-1ea6-4d3b-81e1-40c28fe0470b.jpg",
+      "score": 4.789,
+      "cobertura": []
+    },
+    {
+      "id": "703334469f88",
+      "titulo": "Physicists discover “astonishing” property of light that defies expectations",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+      "resumo": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left- and right-handed patterns, challenging long-standing assumptions about how light behaves. By carefully arranging a beam’s structure, scientists can control where and how these spinning patterns emerge, unlocking a new way to manipulate light.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-13T04:19:32+00:00",
+      "coletado_em": "2026-10-13T16:57:31.993579+00:00",
+      "imagem_feed": null,
+      "score": 3.864,
+      "cobertura": []
+    },
+    {
+      "id": "e43225faf7ef",
+      "titulo": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+      "resumo": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that could transform how astronomers study the early cosmos.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-13T11:27:24+00:00",
+      "coletado_em": "2026-10-13T16:57:31.983312+00:00",
+      "imagem_feed": null,
+      "score": 3.855,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "7d577e561af4",
+      "titulo": "Claude passa trote para a polícia e diz ter \"visto\" suspeito de homicídio",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-passa-trote-para-a-policia-e-diz-ter-visto-suspeito-de-homicidio/",
+      "resumo": "O Claude Haiku 4.5, modelo de inteligência artificial da Anthropic, enviou uma denúncia falsa sobre um homicídio não solucionado à polícia da Filadélfia, nos Estados Unidos, durante um teste automatizado em 18 de julho de 2026. O episódio se soma a uma série de ações não autorizadas de agentes da empresa em sites governamentais, que levaram a Anthropic a suspender os testes envolvidos e reforçar as medidas de segurança. Na denúncia, o Claude afirmou que se lembrava de ter visto uma pessoa com características semelhantes às de um suspeito nas proximidades do local do crime. A mensagem foi enviada pelo site PhillyUnsolvedMurders.com, plataforma mantida pela polícia para receber informações sobre homicídios sem solução. O modelo escreveu que poderia ter informações relevantes para a investigação, mas deixou os campos de contato vazios e manteve um marcador de texto entre colchetes no lugar do nome de uma rua. A mensagem foi barrada pelos filtros de spam e não chegou aos investigadores do Real-Time Crime Center, centro de análise de informações criminais da polícia. Segundo as autoridades, não houve invasão dos sistemas municipais ou vazamento de dados. A Anthropic identificou o incide",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-13T15:04:00+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "score": 4.393,
+      "cobertura": []
+    },
+    {
+      "id": "98b41e3767a1",
+      "titulo": "Óculos inteligentes da Samsung vazam com câmera de 12 MP e bateria de 72 horas",
+      "url": "https://canaltech.com.br/produtos/oculos-inteligentes-da-samsung-vazam-com-camera-de-12-mp-e-bateria-de-72-horas/",
+      "resumo": "Os óculos inteligentes da Samsung tiveram especificações e opções de design reveladas em um novo vazamento. Os Galaxy Glasses devem chegar ao mercado em novembro, com armações de diferentes estilos, câmera de 12 MP, 64 GB e até 72 horas de autonomia. O lançamento inicial deve ficar restrito aos Estados Unidos e à Coreia do Sul. As informações foram divulgadas pelo site SammyGuru, que também apresentou imagens das versões preparadas pelas marcas de óculos Gentle Monster e Warby Parker. A Samsung ainda não anunciou o preço nem a data exata de lançamento. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Segundo o vazamento, os Galaxy Glasses pesam cerca de 41 gramas com lentes convencionais. O número coloca o modelo abaixo dos óculos Meta Ray-Ban Gen 3, que pesam aproximadamente 51,5 gramas na configuração padrão. O dispositivo deve trazer processador Snapdragon AR1 Gen 1, 2 GB de memória RAM e 64 GB de armazenamento interno para fotos e vídeos. A câmera de 12 MP poderá gravar vídeos em resolução 3K a 30 quadros por segundo. Os óculos também devem ter quatro microfones para chamadas e interação com o Gemini, assistente de inteligência artificial do Google. O modelo não t",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-13T09:47:28+00:00",
+      "coletado_em": "2026-10-13T16:57:31.999021+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/drt_8hfxjwbn1tkipzIWV4KqkI4=/0x0/filters:format(webp):quality(85)/fb16f81d-5e90-4901-8155-cf2443eac46f.png",
+      "score": 0.922,
+      "cobertura": []
+    }
+  ]
+}
