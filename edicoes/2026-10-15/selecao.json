@@ -1,0 +1,756 @@
+{
+  "medicina": [
+    {
+      "id": "19aa65a88cc0",
+      "titulo": "Jawbone necrosis in advanced breast cancer: Study highlights the importance of oral health",
+      "url": "https://medicalxpress.com/news/2026-10-jawbone-necrosis-advanced-breast-cancer.html",
+      "resumo": "Antiresorptive drugs, which reduce bone breakdown, are an important part of treatment for breast cancer that has spread to the bones. However, their use can be associated with medication-related osteonecrosis of the jaw (MRONJ), a condition in which bone tissue in the jaw dies. In a Finnish registry study, osteonecrosis of the jaw was diagnosed in 12.6% of patients treated with denosumab during long-term follow-up.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-14T14:00:06+00:00",
+      "coletado_em": "2026-10-14T14:31:32.254095+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2022/toothbrush.jpg",
+      "score": 6.49,
+      "cobertura": []
+    },
+    {
+      "id": "8d95df0aba03",
+      "titulo": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+      "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
+      "resumo": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced…",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-14T11:53:49+00:00",
+      "coletado_em": "2026-10-14T14:31:32.255066+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2025/10/AdobeStock_1666420695-1024x576.jpeg",
+      "score": 6.068,
+      "cobertura": []
+    },
+    {
+      "id": "d5b5d59c55ec",
+      "titulo": "DR Congo Ebola vaccine trial to begin within weeks: WHO",
+      "url": "https://medicalxpress.com/news/2026-10-dr-congo-ebola-vaccine-trial.html",
+      "resumo": "The first clinical trial of an Ebola vaccine is expected to begin in the Democratic Republic of Congo by the end of October, World Health Organization experts said Tuesday.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-14T09:20:01+00:00",
+      "coletado_em": "2026-10-14T14:31:32.254095+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/ebola.jpg",
+      "score": 6.032,
+      "cobertura": []
+    },
+    {
+      "id": "b394772c5de2",
+      "titulo": "Septic shock trial finds escalating treatment earlier does not improve patient outcomes",
+      "url": "https://medicalxpress.com/news/2026-10-septic-trial-escalating-treatment-earlier.html",
+      "resumo": "A new study from researchers at Intermountain Health in Salt Lake City found that starting an advanced medication earlier for critically ill patients with life-threatening septic shock does not improve their survival, shorten hospital stays or improve their recovery compared with waiting until their condition potentially worsens.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-14T13:00:01+00:00",
+      "coletado_em": "2026-10-14T14:31:32.254095+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-finds-escala.jpg",
+      "score": 5.881,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "e43381f9f5a5",
+      "titulo": "DNA analysis uncovers first known genetic connection between rare New Caledonian plant and parasitic plant",
+      "url": "https://phys.org/news/2026-10-dna-analysis-uncovers-genetic-rare.html",
+      "resumo": "A new genetic analysis tool developed by UF assistant professor of biology Liming Cai, Ph.D., has led to the discovery of the first known interaction between Amborella, a rare New Caledonian plant, and a parasitic plant called Hachettea.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-14T14:20:16+00:00",
+      "coletado_em": "2026-10-14T14:31:32.255775+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-analysis-uncovers.jpg",
+      "score": 6.028,
+      "cobertura": []
+    },
+    {
+      "id": "6764702fcb2d",
+      "titulo": "Giant bacteria could be living in your gut",
+      "url": "https://www.newscientist.com/article/2593632-giant-bacteria-could-be-living-in-your-gut/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Bacteria that are visible without a microscope are generally found in mangroves and fish, but an analysis of different species from around the world suggests they also reside in the human gut",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-14T13:00:00+00:00",
+      "coletado_em": "2026-10-14T14:31:32.308569+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316443414.jpg",
+      "score": 5.681,
+      "cobertura": []
+    },
+    {
+      "id": "10f547cab72e",
+      "titulo": "Introduced species aren't good or bad—they are labeled according to human interests",
+      "url": "https://phys.org/news/2026-10-species-good-bad-human.html",
+      "resumo": "In George Orwell's 1945 allegorical novella \"Animal Farm,\" pigs coach the other revolutionary farm animals in their new creed of Animalism using the memorable maxim: four legs good, two legs bad.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-14T13:20:02+00:00",
+      "coletado_em": "2026-10-14T14:31:32.255775+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/camels-in-australia.jpg",
+      "score": 5.417,
+      "cobertura": []
+    },
+    {
+      "id": "70d4e454ed7a",
+      "titulo": "Rare cancer spread between twins in utero",
+      "url": "https://www.newscientist.com/article/2593625-rare-cancer-spread-between-twins-in-utero/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "In a very rare case, a fetus developed cancer in the uterus, and these tumour cells spread to her twin sister",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-10-14T11:21:20+00:00",
+      "coletado_em": "2026-10-14T14:31:32.308569+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316594558.jpg",
+      "score": 5.015,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "8c227999949c",
+      "titulo": "Q&A: Mars Perseverance Rover Sets a Distance Record",
+      "url": "https://spectrum.ieee.org/mars-rover-distance-record",
+      "resumo": "On October 11 , the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance’s ability to drive with much more autonomy than its predecessors. Over the last five years, Perseverance’s autonomy software has been steadily upgraded, and to learn more about how the record was broken and what the future holds for the rover, we spoke with Mark Maimone , the Perseverance Robotic Operations Deputy Team Chief at NASA’s Jet Propulsion Laboratory, who designed and developed the self-driving software for Mars rovers Spirit, Opportunity, Curiosity, and Perseverance. Before we talk about Perseverance, let’s pour one out for the previous record holder Opportunity , which landed on Mars in January of 2004 for a 3-month mission and ended its epic journey 15 years later in February of 2019. This NASA video compresses Opportunity’s entire mission into four minutes, and gives a poignant sense of the incredible distance that this little rover traveled over its 15 year life on Mars, doing science as it went: NASA Jet Propulsion Laboratory/YouTube Opportunity drove 4",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-13T15:02:04+00:00",
+      "coletado_em": "2026-10-14T14:31:32.258053+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=980",
+      "score": 6.165,
+      "cobertura": [
+        "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+        "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done"
+      ]
+    },
+    {
+      "id": "9b9a13ce4b03",
+      "titulo": "Timken Precision Drives puts the motion challenge first in humanoid robots",
+      "url": "https://www.therobotreport.com/timken-precision-drives-puts-motion-challenge-first-humanoid-robots/",
+      "resumo": "Timken combines the expertise of Cone Drive, SPINEA, CGI Motion, and Timken Encoders to develop application-specific motion systems. The post Timken Precision Drives puts the motion challenge first in humanoid robots appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-14T12:20:19+00:00",
+      "coletado_em": "2026-10-14T14:31:32.258746+00:00",
+      "imagem_feed": null,
+      "score": 5.163,
+      "cobertura": []
+    },
+    {
+      "id": "391a919e29f8",
+      "titulo": "Can you trust a robot in charge?",
+      "url": "https://techxplore.com/news/2026-10-robot.html",
+      "resumo": "From monitoring public spaces to responding to requests for help, security robots are beginning to take on roles once held by people. As they gain authority, researchers are asking what it might take for the public to trust them.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-14T11:20:21+00:00",
+      "coletado_em": "2026-10-14T14:31:32.258951+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/robot-handshake.jpg",
+      "score": 4.714,
+      "cobertura": []
+    },
+    {
+      "id": "ca242bd630ed",
+      "titulo": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+      "url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+      "resumo": "With the expansion, NYSOFA and Intuition Robotics established a new three-year, $2.1 million agreement to keep rolling out ElliQ. The post NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-13T23:22:05+00:00",
+      "coletado_em": "2026-10-14T14:31:32.258746+00:00",
+      "imagem_feed": null,
+      "score": 4.233,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "4004d72c6a96",
+      "titulo": "Tiny11 puts Windows 11 on a diet without the PowerShell workout",
+      "url": "https://www.theregister.com/os-platforms/2026/10/14/tiny11-puts-windows-11-on-a-diet-without-the-powershell-workout/5303034",
+      "resumo": "New desktop app simplifies stripping out bundled software, with heavier cuts carrying security and support risks",
+      "fonte": "The Register",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-14T14:15:00+00:00",
+      "coletado_em": "2026-10-14T14:31:32.259831+00:00",
+      "imagem_feed": "https://image.theregister.com/?imageId=256812&width=800",
+      "score": 6.518,
+      "cobertura": []
+    },
+    {
+      "id": "fb533deeea94",
+      "titulo": "[$] Collaborating with out-of-tree tracers",
+      "url": "https://lwn.net/Articles/1099300/",
+      "resumo": "LTTng creator Mathieu Desnoyers seems a bit trapped in something of a catch-22 . At the 2026 Linux Plumbers Conference (LPC), he led a discussion on the problem he is having in trying to collaborate with other tracing projects (e.g. ftrace , perf ) in the kernel. The feedback he has gotten, both over the years and more recently, does not show a path that would allow him to contribute the 21-year-old GPLv2-licensed LTTng tracing framework, or, incrementally, features from it, to the mainline kernel.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-14T13:56:50+00:00",
+      "coletado_em": "2026-10-14T14:31:32.260101+00:00",
+      "imagem_feed": null,
+      "score": 5.484,
+      "cobertura": []
+    },
+    {
+      "id": "f3337d837f28",
+      "titulo": "Spotify: como ajustar a qualidade das músicas e economizar dados",
+      "url": "https://canaltech.com.br/apps/spotify-como-ajustar-a-qualidade-das-musicas-e-economizar-dados/",
+      "resumo": "O Spotify permite mudar a qualidade da transmissão , ajustar graves e agudos e equilibrar o volume entre músicas. Além disso, é possível ativar o modo de economia para fazer streaming sem acabar com o seu plano de dados . Testado e atualizado pela equipe do Canaltech em outubro de 2026, na versão mais recente do Spotify. Como mudar a qualidade do áudio no Spotify A seleção da qualidade da reprodução está disponível nas configurações do app. No celular Para alterar a qualidade pelo celular: Abra o Spotify; Toque na sua foto de perfil; Entre em “Configurações e privacidade”; Acesse “Qualidade de mídia”; Escolha a qualidade para Wi-Fi, dados móveis ou downloads. No PC No app para Windows, macOS e Linux, faça o seguinte: Clique na foto de perfil; Entre em “Configurações”; Localize “Qualidade de áudio”; Selecione a opção desejada. Dá para alterar a qualidade no webapp? Não é possível escolher a qualidade manualmente na versão web. Qual qualidade escolher? Veja as diferenças entre os modos de qualidade disponíveis: Automática: acompanha as condições da conexão; Baixa: prioriza a economia de dados; Normal: opção intermediária para o uso diário; Alta: transmite aproximadamente 160 Kb/s; Al",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-14T13:24:15+00:00",
+      "coletado_em": "2026-10-14T14:31:32.283982+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/jSPMAQziM-TK6AcSa8mTkvHBxLY=/0x0/filters:format(webp):quality(85)/195eb128-e72a-4a98-8125-359a775ae5e0.png",
+      "score": 5.475,
+      "cobertura": []
+    },
+    {
+      "id": "83f8f0629d48",
+      "titulo": "KDE Plasma 6.8 released",
+      "url": "https://lwn.net/Articles/1100429/",
+      "resumo": "Version 6.8 of the KDE Plasma desktop has been released. The The KDE project has timed the release to coincide with the 30th anniversary of Matthias Ettrich's email announcing the project: Unix popularity grows thanks to the free variants, mostly Linux. But still a consistent, nice looking free desktop-environment is missing. There are several nice either free or low-priced applications available, so that Linux/X11 would almost fit everybody needs if we could offer a real GUI. Notable changes include accessibility improvements, inclusion of the Kup backup tool as part of Plasma, as well as the ability to include system audio and microphone input in Spectacle screen recordings. Plasma 6.8 also drops support for Plasma X11 sessions, as was announced in November 2025. X11 applications are still supported via XWayland, and KDE applications will continue to support X11 \" for the foreseeable future \". See the KDE wiki for a list of major user-facing changes, and the changelog for all changes since Plasma 6.7.5.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-14T13:41:09+00:00",
+      "coletado_em": "2026-10-14T14:31:32.260101+00:00",
+      "imagem_feed": null,
+      "score": 5.455,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "e63f724473d0",
+      "titulo": "U.S. Chip Firms Bet Big on R&D",
+      "url": "https://spectrum.ieee.org/semiconductor-research",
+      "resumo": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will invest even more: about $5 billion. The boost is part of a wider growth in private investment that is both enlarging the U.S. semiconductor R&D sector and making it more complex. The EPIC announcement follows others, in August, by two semiconductor firms. Memory chipmaker Micron disclosed that it would invest $10 billion over 10 years at its Boise, Idaho, memory research lab, and SK Hynix said it will spend $4 billion on an advanced packaging facility in West Lafayette, Ind. (Neither of those companies responded to IEEE Spectrum ’s questions about how much of those funds would be for R&D.) The U.S. federal government has encouraged investment in U.S. semiconductor research by chip giants based in friendly nations, such as TSMC and Samsung. It has also enacted tariffs on foreign components and put some of its own money into faltering domestic chip companies including Intel . But the real",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-10-13T11:00:05+00:00",
+      "coletado_em": "2026-10-14T14:31:32.260716+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-worker-in-a-clean-suit-using-a-front-opening-unified-pod-for-semiconductor-wafers.jpg?id=68417267&width=980",
+      "score": 5.558,
+      "cobertura": []
+    },
+    {
+      "id": "e177ae3b1bea",
+      "titulo": "Analyzing Intel's EMIB and Foveros advanced packaging roadmaps",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/analyzing-intels-emib-and-foveros-advanced-packaging-roadmaps-how-intel-plans-to-scale-chips-in-every-direction",
+      "resumo": "Intel was the first large chipmaker to start using advanced packaging methods in 2017 – 2019. But where are Intel's EMIB and Foveros technologies today and where are they heading?",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-14T12:50:00+00:00",
+      "coletado_em": "2026-10-14T14:31:32.261253+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/kF34ZcVuL5GZsmkRd7GZND-1920-80.jpg",
+      "score": 5.514,
+      "cobertura": []
+    },
+    {
+      "id": "6a3209c9b8b6",
+      "titulo": "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-gpu-prices-spike-in-japan-prices-up-to-41-percent-higher-than-amazon-us-rtx-5060-ti-sees-the-biggest-increase-among-the-rtx-50-series-stack",
+      "resumo": "A Japanese retailer has increased the prices of RTX 50-series GPUs between 12.71% and 41.10%, with the mainstream models bearing the brunt of the price increases.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-14T10:25:00+00:00",
+      "coletado_em": "2026-10-14T14:31:32.261253+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/U37JMzEFMUFRssy5cPVvyE-1920-80.jpg",
+      "score": 5.277,
+      "cobertura": []
+    },
+    {
+      "id": "52b18f0a35ea",
+      "titulo": "SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket",
+      "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
+      "resumo": "SK hynix detailed H-TPU, tiny in-house cores that offload routine I/O from the Arm CPUs in its next enterprise SSD controllers.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-14T14:00:00+00:00",
+      "coletado_em": "2026-10-14T14:31:32.261253+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vz5pTVmQQQr3XcmP2xscZg-1920-80.png",
+      "score": 5.14,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "973e4df371b0",
+      "titulo": "NASA’s Record-Setting Perseverance Rover Team",
+      "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+      "resumo": "Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover distance record on the Red Planet. Positioned in front of the team is OPTIMISM (Operational Perseverance Twin for Integration of Mechanisms and Instruments […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-13T17:48:46+00:00",
+      "coletado_em": "2026-10-14T14:31:32.262111+00:00",
+      "imagem_feed": null,
+      "score": 5.605,
+      "cobertura": [
+        "https://spectrum.ieee.org/mars-rover-distance-record",
+        "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done"
+      ]
+    },
+    {
+      "id": "ddd45202aaed",
+      "titulo": "New evidence points to two feeding black holes just 175 parsecs apart lurking in the early universe",
+      "url": "https://phys.org/news/2026-10-evidence-black-holes-parsecs-lurking.html",
+      "resumo": "Astronomers have found two actively feeding supermassive black holes separated by just 175 parsecs (570 light-years) in a galaxy seen when the universe was only about 2 billion years old. The system, MG B2016+112, lies at a redshift of 3.273 and is the most compact dual AGN known at this redshift. The study was posted to the arXiv preprint server on Sept. 25.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-14T13:40:17+00:00",
+      "coletado_em": "2026-10-14T14:31:32.262654+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-evidence-points-to-3.jpg",
+      "score": 5.454,
+      "cobertura": []
+    },
+    {
+      "id": "2e970f2b877a",
+      "titulo": "Webb spots possible early-universe supernova just days after it happened",
+      "url": "https://phys.org/news/2026-10-webb-early-universe-supernova-days.html",
+      "resumo": "The James Webb Space Telescope (JWST) has detected a possible supernova in the early universe just days after the star exploded. Called AT 2026abck, the transient lies in a star-forming galaxy at a redshift of 5.017 and was found without the help of gravitational lensing. JWST observations suggest the event was caught only about four to 10 days after the explosion. The paper was posted to the arXiv preprint server on Sept. 29.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-13T14:50:01+00:00",
+      "coletado_em": "2026-10-14T14:31:32.262654+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/james-webb-telescope-c.jpg",
+      "score": 5.059,
+      "cobertura": []
+    },
+    {
+      "id": "a90f0d715316",
+      "titulo": "NASA's Perseverance Mars rover breaks interplanetary driving record — and it's far from done",
+      "url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done",
+      "resumo": "NASA's Perseverance Mars rover has broken the record for the farthest distance driven on a world beyond Earth, passing its smaller cousin Opportunity.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-13T14:14:29+00:00",
+      "coletado_em": "2026-10-14T14:31:32.263326+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/VJ9eKiRyZouYVMCkwnuaVf-1920-80.png",
+      "score": 4.892,
+      "cobertura": [
+        "https://spectrum.ieee.org/mars-rover-distance-record",
+        "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/"
+      ]
+    }
+  ],
+  "quantica": [
+    {
+      "id": "a362045bdf6f",
+      "titulo": "MIT Bengaluru Launches Quantum-Hub@MAHE With 25-Qubit System",
+      "url": "https://thequantuminsider.com/2026/10/14/mit-bengaluru-launches-quantum-hub-mahe-25-qubit-system/",
+      "resumo": "Insider Brief PRESS RELEASE — Manipal Institute of Technology, Bengaluru (MIT Bengaluru) on Tuesday launched Manipal House of Quantum, Quantum-Hub@MAHE. Established by Manipal Academy of Higher Education (MAHE), an Institution of Eminence Deemed to be University, the initiative will advance quantum hardware experimentation, engineering education and indigenous technology development in alignment with India’s National Quantum […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-14T11:35:50+00:00",
+      "coletado_em": "2026-10-14T14:31:32.263862+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-14_16-34.png",
+      "score": 5.389,
+      "cobertura": []
+    },
+    {
+      "id": "d97170eeae67",
+      "titulo": "Quantum network test checks entanglement without having to trust detectors",
+      "url": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html",
+      "resumo": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-14T11:00:01+00:00",
+      "coletado_em": "2026-10-14T14:31:32.264204+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-for-che.jpg",
+      "score": 5.182,
+      "cobertura": []
+    },
+    {
+      "id": "32de3f3ff9d3",
+      "titulo": "Jamming the flow to enable memory in quantum materials",
+      "url": "https://phys.org/news/2026-10-enable-memory-quantum-materials.html",
+      "resumo": "Understanding and controlling phase transitions are fundamental to physics and central to many technological revolutions. There is currently strong interest in materials with coupled structural and electronic phase transitions, where controlling the transition plasticity naturally yields built-in memory—a key step in emulating neurons and synapses for \"neuromorphic\" or brain-like computing technologies.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-14T14:00:26+00:00",
+      "coletado_em": "2026-10-14T14:31:32.264204+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-memory.jpg",
+      "score": 4.991,
+      "cobertura": []
+    },
+    {
+      "id": "09149acce177",
+      "titulo": "Siloton Wins £8.4 Million Innovate UK Contract for Quantum Eye Imaging",
+      "url": "https://thequantuminsider.com/2026/10/14/siloton-8-4-million-innovate-uk-quantum-eye-imaging/",
+      "resumo": "Insider Brief PRESS RELEASE — Bristol-based Siloton has been awarded a major contract to accelerate the development of its groundbreaking handheld eye imaging system, which makes the detection and monitoring of retinal diseases more accessible to patients. The med-tech start-up has secured £8.4 million from Innovate UK, part of UK Research and Innovation (UKRI), through […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-14T11:49:59+00:00",
+      "coletado_em": "2026-10-14T14:31:32.263862+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-14_16-48.png",
+      "score": 4.912,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "45a3a1e71105",
+      "titulo": "Your 4TB SSD probably has the wrong cluster size for large files",
+      "url": "https://www.pcworld.com/article/3229547/your-4tb-ssd-probably-has-the-wrong-cluster-size-for-large-files.html",
+      "resumo": "In an age of 4TB SSDs and massive NVMe drives, many users tend to leave the entire storage space as a single, huge system drive. While this is convenient, from an administrative point of view it is a risky move that amounts to flying blind. Instead, we recommend strategically partitioning your largest drives. This brings tangible benefits for data security, system recovery, and backup efficiency. Think of partitions as digital firewalls within your hardware. If your operating system becomes corrupted by a faulty driver, a failed update, or even malware, a clean reinstallation is often the quickest way back to a stable system. However, if you’ve stored everything on a single partition, you’ll have to laboriously back up terabytes of data before reinstalling, or risk losing it when formatting the drive. By separating the operating system onto partition C: and your user data onto partition D:, you can completely wipe and reinstall Windows, while your game collections, video projects, and documents on the second partition remain completely untouched. This not only saves time but also spares you a lot of stress in crisis situations. You should partition high-capacity drives – for greate",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-14T14:30:00+00:00",
+      "coletado_em": "2026-10-14T14:31:32.265359+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3229547-0-93051100-1791988228-kingston65.jpg?quality=50&strip=all",
+      "score": 5.697,
+      "cobertura": []
+    },
+    {
+      "id": "f3337d837f28",
+      "titulo": "Spotify: como ajustar a qualidade das músicas e economizar dados",
+      "url": "https://canaltech.com.br/apps/spotify-como-ajustar-a-qualidade-das-musicas-e-economizar-dados/",
+      "resumo": "O Spotify permite mudar a qualidade da transmissão , ajustar graves e agudos e equilibrar o volume entre músicas. Além disso, é possível ativar o modo de economia para fazer streaming sem acabar com o seu plano de dados . Testado e atualizado pela equipe do Canaltech em outubro de 2026, na versão mais recente do Spotify. Como mudar a qualidade do áudio no Spotify A seleção da qualidade da reprodução está disponível nas configurações do app. No celular Para alterar a qualidade pelo celular: Abra o Spotify; Toque na sua foto de perfil; Entre em “Configurações e privacidade”; Acesse “Qualidade de mídia”; Escolha a qualidade para Wi-Fi, dados móveis ou downloads. No PC No app para Windows, macOS e Linux, faça o seguinte: Clique na foto de perfil; Entre em “Configurações”; Localize “Qualidade de áudio”; Selecione a opção desejada. Dá para alterar a qualidade no webapp? Não é possível escolher a qualidade manualmente na versão web. Qual qualidade escolher? Veja as diferenças entre os modos de qualidade disponíveis: Automática: acompanha as condições da conexão; Baixa: prioriza a economia de dados; Normal: opção intermediária para o uso diário; Alta: transmite aproximadamente 160 Kb/s; Al",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-14T13:24:15+00:00",
+      "coletado_em": "2026-10-14T14:31:32.283982+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/jSPMAQziM-TK6AcSa8mTkvHBxLY=/0x0/filters:format(webp):quality(85)/195eb128-e72a-4a98-8125-359a775ae5e0.png",
+      "score": 5.475,
+      "cobertura": []
+    },
+    {
+      "id": "d818915d77cd",
+      "titulo": "Carbon fiber, magnesium, ceraluminum: Why your next laptop will feel different",
+      "url": "https://www.pcworld.com/article/3038742/carbon-fiber-magnesium-ceraluminum-why-your-next-laptop-will-feel-different.html",
+      "resumo": "Laptops feel different this year. I mean, literally. Advances in laptop materials are changing the game. Forget plastic versus metal. PC makers are now competing on physical feel—and there’s a whole new world of different metals and alloys to choose from. Laptop chassis materials are something else these days. I recently wrote about how plastic laptops are underrated —plastic isn’t a bad material for laptops these days, with well-made plastic laptops sporting a comfortable rubbery touch that doesn’t creak like they once did. In a world where spec sheets have less and less to differentiate them, this is the next path for PC makers who want to stand out. Different makers, different philosophies At CES 2026, I found myself touching a lot of Asus laptops with Asus’ new lightweight material called “ceraluminum.” Laptops like the Zenbook A14 aren’t just incredibly lightweight—Asus wants you to know that ceraluminum (i.e., ceramic-coated aluminum) is more durable than a typical aluminum chassis while also weighing less. The Asus Zenbook A14 sports the company’s new “ceraluminum” material. Michael Crider/Foundry Later, I was holding the HP OmniBook Ultra 14 while an HP representative expla",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-14T12:00:00+00:00",
+      "coletado_em": "2026-10-14T14:31:32.265359+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3038742-0-20117100-1791979234-Asus-Zenbook-A16-at-CES-2026.jpg?quality=50&strip=all",
+      "score": 5.429,
+      "cobertura": []
+    },
+    {
+      "id": "5d0003c81597",
+      "titulo": "Microsoft breaks record, fixing 1,416 security flaws. Update Windows now",
+      "url": "https://www.pcworld.com/article/3260668/microsoft-breaks-record-fixing-1416-security-flaws-update-windows-now.html",
+      "resumo": "Yesterday was October Patch Tuesday, and Microsoft’s security updates addressed 1,416 new vulnerabilities. Not only is that another record broken, but it’s also the first time over 1,000 flaws were fixed in a single month. Indeed, October 2026 saw more security vulnerabilities fixed in the month than were fixed in any previous year . Alongside flaws fixed in Windows and Office, we also saw a bunch of fixes in Exchange Server, SQL Server, Hyper-V, Skype for Business, Microsft Defender, .NET Framework, Visual Studio, and Microsoft’s cloud services. Microsoft classifies 85 of the 1,416 vulnerabilities as “critical,” including 67 remote code execution (RCE) vulnerabilities. The other vulnerabilities are classified as “high risk,” with one vulnerability already being exploited in the wild while two were publicly known in advance. The next Patch Tuesday is scheduled for November 10th, 2026. Windows security vulnerabilities A large number of the vulnerabilities—over 1,000 this time—are spread across the various Windows versions (10, 11, Server) for which Microsoft still provides security updates, including Windows 10 via the Extended Security Updates program, which was extended until Octo",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-14T14:25:06+00:00",
+      "coletado_em": "2026-10-14T14:31:32.265359+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3260668-0-65803000-1791987917-WindowsUpdate.jpg?quality=50&strip=all",
+      "score": 5.188,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "f1e7d3acc468",
+      "titulo": "IA mais poderosa do Google, Gemini 4 Argon chega para assinantes Pro e Ultra na web",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-mais-poderosa-do-google-gemini-4-argon-chega-para-assinantes-pro-e-ultra-na-web/",
+      "resumo": "O Google liberou, nesta terça-feira (13), o Gemini 4 Argon para assinantes dos planos Google AI Pro e AI Ultra . Descrito pela empresa como seu modelo de inteligência artificial mais poderoso até o momento, ele está disponível no aplicativo Gemini e na versão web, com melhorias em raciocínio, programação e execução autônoma de tarefas. Antes restrito a um grupo menor de usuários, o modelo passou por ajustes de segurança contra jailbreaks , tentativas de contornar as proteções da IA. A versão pública também apresenta respostas mais objetivas, com menos repetições e frases genéricas, além de atualizações frequentes sobre o andamento de tarefas demoradas. Quais são as novidades do Gemini 4 Argon? Um dos destaques é a integração com mais de 40 aplicativos , como Instacart, OpenTable, Adobe e Shopify. O sistema pode executar atividades, como compras de supermercado, reservas em restaurantes e trabalhos de design, inclusive sem que o usuário precise acompanhar cada etapa diante do computador. O modelo ainda recebeu melhorias na comunicação , com respostas diretas e menos hesitação, além de atualizações sobre o progresso de operações longas. A proposta é tornar as interações mais claras e",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-14T10:35:07+00:00",
+      "coletado_em": "2026-10-14T14:31:32.283982+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5jdyO3twq8569KV8WJILGd3du2w=/0x0/filters:format(webp):quality(85)/e10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg",
+      "score": 5.693,
+      "cobertura": []
+    },
+    {
+      "id": "b9dcdda324f2",
+      "titulo": "Google Deepmind’s New Resident Philosopher Tackles AI Ethics",
+      "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
+      "resumo": "How should humans relate to generative AI ? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could some day have moral rights? These are among the cognitive and ethical questions that occupied philosopher Henry Shevlin at Cambridge University’s Leverhulme Centre for the Future of Intelligence . But last May Shevlin became part of the growing cohort of philosophers who work inside leading artificial intelligence companies. Though he remains active at Cambridge, he now spends 80 percent of his time at Google DeepMind (job title: “Philosopher”). Shevlin spoke with IEEE Spectrum about why philosophers are drawn to AI, how humans and AIs relate to one another, fears of “rogue” AI and AI relationships that harm humans, and how the question of AI consciousness may never have a simple “yes” or “no” answer. What made you want to switch from full-time academic philosopher to spending much of your time at an AI Lab? Henry Shevlin: Three factors. One is that I had lots of brilliant students from DeepMind. Two, the potential for direct impact. I can’t go into details, but on ",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-13T13:00:03+00:00",
+      "coletado_em": "2026-10-14T14:31:32.274067+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=980",
+      "score": 5.608,
+      "cobertura": []
+    },
+    {
+      "id": "6cc299d7d4b7",
+      "titulo": "Gemini ganha integração com a Play Store para baixar apps direto no chat",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-integracao-com-a-play-store-para-baixar-apps-direto-no-chat/",
+      "resumo": "O Google anunciou o Play in Gemini , recurso que integra o assistente de inteligência artificial à Play Store. Com a novidade, o Gemini poderá recomendar jogos e aplicativos durante as conversas e exibir links para instalar os programas a partir do chat. A integração também terá suporte a deep links , que direcionam o usuário para páginas, conteúdos ou seções específicas dentro dos aplicativos recomendados. Assim, será possível acessar determinadas funções sem precisar procurar manualmente pelo conteúdo após abrir o app. O Google também anunciou o Game Finder , recurso que facilita a busca por jogos e aplicativos. Outra novidade envolve o Ask Play , ferramenta de busca da loja que ganhou uma opção para comparar aplicativos com comandos em linguagem natural e já está disponível no app.. O recurso apresenta opções de conectividade, modelo de monetização e impacto dos apps, para ajudar na escolha entre diferentes alternativas. Além disso, o Google vai fazer ajustes na interface da Play Store para diferentes dispositivos e ambientes. O layout será adaptado para telas de carros, espaços tridimensionais em dispositivos Android XR e Chromebooks. Ainda, as páginas temáticas de esportes da ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-14T13:03:00+00:00",
+      "coletado_em": "2026-10-14T14:31:32.283982+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 5.437,
+      "cobertura": []
+    },
+    {
+      "id": "a0892db8f84e",
+      "titulo": "99 lança IA que detecta possíveis acidentes de moto e aciona ajuda",
+      "url": "https://canaltech.com.br/apps/99-lanca-ia-que-detecta-possiveis-acidentes-de-moto-e-aciona-ajuda/",
+      "resumo": "A 99 anunciou nesta quarta-feira (14) uma ferramenta de inteligência artificial (IA) capaz de identificar possíveis acidentes durante deslocamentos de moto e acionar uma equipe de segurança, mesmo que os envolvidos não peçam ajuda. O \"Suporte em Tempo Real\" começa pelos serviços de duas rodas, como 99Moto e 99Food. A novidade foi apresentada durante o 99 Tech Summit, realizado no Rio de Janeiro, e utiliza informações do trajeto para reconhecer comportamentos que podem indicar uma ocorrência, como frenagens bruscas, mudanças repentinas de velocidade e desvios de rota. Quando o sistema identifica uma situação suspeita, um alerta é enviado a uma equipe especializada da 99, que funciona 24 horas por dia, sete dias por semana, segundo a empresa. Os profissionais podem entrar em contato tanto com o motociclista quanto com o passageiro para verificar o que aconteceu e oferecer assistência. Dependendo da situação, o atendimento pode incluir o acionamento do Serviço de Atendimento Móvel de Urgência (SAMU) e o início dos procedimentos para utilização do seguro. Segundo a 99, todas as corridas realizadas pela plataforma contam com seguro de vida. Como a IA da 99 identifica possíveis acidentes",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-14T14:26:09+00:00",
+      "coletado_em": "2026-10-14T14:31:32.283982+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/YOTEjIenh27R9j_W1TzBU-Yzmno=/0x0/filters:format(webp):quality(85)/36680bb1-93d6-4436-93df-521797c1bdc7.png",
+      "score": 5.09,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "7ba34bcc64ed",
+      "titulo": "Nova usina solar com hidrogênio chinesa \"ligaria\" capital brasileira por 37 dias",
+      "url": "https://canaltech.com.br/eletro/nova-usina-solar-com-hidrogenio-chinesa-ligaria-capital-brasileira-por-37-dias/",
+      "resumo": "Uma nova etapa do maior complexo integrado de energia solar, baterias e hidrogênio da China entrou em operação nesta quarta-feira (14). Instalado em Rudong, na província costeira de Jiangsu, o projeto é tão grande que sua produção anual de eletricidade seria equivalente a aproximadamente 37 dias de todo o consumo de uma capital brasileira como Curitiba . Isso não significa que a instalação conseguiria manter a capital paranaense literalmente ligada durante 37 dias consecutivos. A comparação considera apenas o volume de energia produzido ao longo de um ano pela parte fotovoltaica do complexo e o consumo médio diário de Curitiba. Há limitações de potência, armazenamento e, obviamente, distância entre os dois lugares. O complexo de Guohua Rudong reúne 400 MW de geração fotovoltaica , uma estação de baterias com potência de 60 MW e capacidade de 120 MWh e uma instalação capaz de produzir até 1.500 metros cúbicos padrão de hidrogênio por hora. Há ainda uma subestação de 220 kV responsável pela integração do projeto à rede elétrica. Hidrogênio resolve ponto fraco da energia solar A ideia é aproveitar melhor uma das maiores limitações da energia solar: o fato de sua produção variar bastan",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-14T14:06:30+00:00",
+      "coletado_em": "2026-10-14T14:31:32.283982+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/JpFlm_tdoZUK3zWQuLRe8dE2S34=/0x0/filters:format(webp):quality(85)/86ae3fba-9a7c-4bc4-8dcf-56ead5d1e928.jpg",
+      "score": 6.052,
+      "cobertura": []
+    },
+    {
+      "id": "13f7a74d62c6",
+      "titulo": "Engineers develop wearable solar device to power soldiers' gear in the field",
+      "url": "https://techxplore.com/news/2026-10-wearable-solar-device-power-soldiers.html",
+      "resumo": "A U.S. soldier may carry up to 20 pounds (9 kilograms) of batteries to power communications equipment and other electronics on missions. New research from FIU could help lighten that load. A team of engineers has developed a dual-use, razor-thin solar device that can harvest sunlight to generate electricity and also produce light.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-14T14:20:01+00:00",
+      "coletado_em": "2026-10-14T14:31:32.276103+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineers-develop-wear.jpg",
+      "score": 5.528,
+      "cobertura": []
+    },
+    {
+      "id": "45b2bfd923ce",
+      "titulo": "Bamboo emerges as potential source of affordable, low-carbon transportation fuels",
+      "url": "https://techxplore.com/news/2026-10-bamboo-emerges-potential-source-carbon.html",
+      "resumo": "A new study by researchers, including those in Worcester Polytechnic Institute's Department of Chemical Engineering, has found that the fastest-growing plant on Earth may offer a sustainable and cost-effective alternative to petroleum-derived transportation fuels.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-14T14:00:14+00:00",
+      "coletado_em": "2026-10-14T14:31:32.276103+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/bamboo-emerges-as-pote.jpg",
+      "score": 4.491,
+      "cobertura": []
+    },
+    {
+      "id": "aae09ef53e06",
+      "titulo": "Xiaomi lança Redmi Watch 6 Lite e Active no Brasil",
+      "url": "https://tecnoblog.net/noticias/xiaomi-lanca-redmi-watch-6-lite-e-active-no-brasil/",
+      "resumo": "Novos smartwatches têm telas Amoled, chamadas por Bluetooth e bateria de até 18 dias. Xiaomi lança Redmi Watch 6 Lite e Active no Brasil",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-14T11:51:08+00:00",
+      "coletado_em": "2026-10-14T14:31:32.280035+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/redmi-watch-6-lite.jpg",
+      "score": 4.464,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "78394b2e6b36",
+      "titulo": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "resumo": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-14T14:22:49+00:00",
+      "coletado_em": "2026-10-14T14:31:32.276512+00:00",
+      "imagem_feed": null,
+      "score": 5.033,
+      "cobertura": []
+    },
+    {
+      "id": "82dc29831787",
+      "titulo": "Rei da produtividade, Logitech MX Master 4 ganha Edição Especial com visual ousado",
+      "url": "https://canaltech.com.br/hardware/rei-da-produtividade-logitech-mx-master-4-ganha-edicao-especial-com-visual-ousado/",
+      "resumo": "Depois de rumores apontarem que a Logitech estaria trabalhando em uma versão \"SE\" para o seu mouse topo de linha , novos vazamentos divulgados revelam agora detalhes visuais do periférico. As renderizações do MX Master 4 Special Edition mostram que o modelo preserva a consagrada ergonomia da série, mas introduz ajustes estéticos e modificações pontuais no acabamento para se diferenciar da versão tradicional lançada anteriormente . As imagens vazadas revelam um esquema de cores diferenciado, mantendo o formato voltado para o conforto. As imagens vazadas mostram que o MX Master 4 usará uma mistura nas cores branca e vermelha. O corpo do mouse ganhou detalhes como setas e traços na cor vermelha, além do botão de DPI também nessa cor, com destaque para o nome \"Special Edition\" no clique direito. Já o clique esquerdo ganhou uma texturização. O que esperar do novo Master MX4 Segundo Roland Quandt do Winfuture, quem vazou as imagens, nada muda em termos de especificações . Ou seja, podemos esperar o sensor Darkfield de alta precisão, rolagem eletromagnética MagSpeed e resposta tátil integrada no apoio do polegar. Para a versão Special Edition, a expectativa da indústria é que a empresa ma",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-14T14:10:04+00:00",
+      "coletado_em": "2026-10-14T14:31:32.283982+00:00",
+      "imagem_feed": null,
+      "score": 4.259,
+      "cobertura": []
+    },
+    {
+      "id": "83d130e7ba9f",
+      "titulo": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "resumo": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-13T23:24:53+00:00",
+      "coletado_em": "2026-10-14T14:31:32.276512+00:00",
+      "imagem_feed": null,
+      "score": 3.386,
+      "cobertura": []
+    },
+    {
+      "id": "63168f4d30b5",
+      "titulo": "Intermediário da Samsung pode chegar em 2027 com câmera de 7 anos atrás; entenda",
+      "url": "https://canaltech.com.br/smartphone/intermediario-da-samsung-pode-chegar-em-2027-com-camera-de-7-anos-atras-entenda/",
+      "resumo": "O Samsung Galaxy A58 5G deve chegar ao mercado em 2027 com poucas mudanças no conjunto de câmeras. Segundo vazamentos, o intermediário terá câmera principal de 50 MP, ultrawide de 12 MP e macro de 5 MP, sensor que estreou no Galaxy A51, em 2020. A câmera frontal também deve continuar com 12 MP. As informações foram divulgadas pelo site holandês GalaxyClub. Caso as especificações se confirmem, o futuro modelo poderá repetir uma configuração que já tem vários anos, mesmo com a expectativa de aumento no preço. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Então o conjunto fotográfico esperado para o Galaxy A58 5G não deve trazer grandes novidades em relação à geração anterior. A câmera principal de 50 MP e a ultrawide de 12 MP devem continuar entre as opções para fotografar, enquanto o sensor frontal de 12 MP será responsável pelas selfies. O componente que mais chama a atenção é a câmera macro de 5 MP. Ela estreou no Galaxy A51, lançado em 2020, e pode chegar a 2027 sem mudanças. O sensor é voltado para fotografias de objetos pequenos e detalhes de perto. A permanência dessa câmera chama a atenção porque a linha Galaxy A está entre as famílias intermediárias mais imp",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-14T10:03:28+00:00",
+      "coletado_em": "2026-10-14T14:31:32.283982+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/oDwlxyazOPK2GNrbVRUJrWDscso=/0x0/filters:format(webp):quality(85)/c79c2c8a-b478-45ee-b9c1-1fef44c5bc46.jpeg",
+      "score": 1.145,
+      "cobertura": []
+    }
+  ]
+}
