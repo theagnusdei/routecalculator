@@ -1,0 +1,754 @@
+{
+  "medicina": [
+    {
+      "id": "4827c6a8bf95",
+      "titulo": "Lactation drug could reduce breast cancer risk after childbirth, study suggests",
+      "url": "https://medicalxpress.com/news/2026-10-lactation-drug-breast-cancer-childbirth.html",
+      "resumo": "An international team of scientists has found that a lactation drug could reduce the risk of breast cancer in mothers after childbirth. Cabergoline, a medication used to stop milk production after pregnancy loss or when breastfeeding is not possible, is generally well tolerated by patients with few side effects. But it may also offer unexpected benefits.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-15T14:00:01+00:00",
+      "coletado_em": "2026-10-15T14:10:51.108405+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-mum.jpg",
+      "score": 6.029,
+      "cobertura": []
+    },
+    {
+      "id": "763982ab07ae",
+      "titulo": "Researchers explore outcomes for patients with high potassium",
+      "url": "https://medicalxpress.com/news/2026-10-explore-outcomes-patients-high-potassium.html",
+      "resumo": "High levels of potassium in the blood, common in people on certain medications or with kidney disease, often come with no symptoms but can be deadly in severe cases.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-15T13:00:12+00:00",
+      "coletado_em": "2026-10-15T14:10:51.108405+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/patient-4.jpg",
+      "score": 5.418,
+      "cobertura": []
+    },
+    {
+      "id": "53591425d735",
+      "titulo": "Natural substance from seaweed has strong antioxidant properties",
+      "url": "https://medicalxpress.com/news/2026-10-natural-substance-seaweed-strong-antioxidant.html",
+      "resumo": "Extended studies of fucoidan, a bioactive compound found in the cell walls of brown seaweed, confirm its potential to combat oxidative stress in future disease treatments—but it remains a long way from mass production and routine medical use.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-15T12:40:01+00:00",
+      "coletado_em": "2026-10-15T14:10:51.108405+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/natural-substance-from.jpg",
+      "score": 5.383,
+      "cobertura": []
+    },
+    {
+      "id": "9467dc8083df",
+      "titulo": "Brain implants are helping people who’ve lost their voice",
+      "url": "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries",
+      "resumo": "The technology could get those with ALS, Parkinson’s disease and brain injuries “talking” again.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-15T13:00:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.165645+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/1126_podcast_feat.jpg?w=800",
+      "score": 5.368,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "47bf2bd0d029",
+      "titulo": "Candida auris copies its entire genome to survive antifungal treatment, research reveals",
+      "url": "https://phys.org/news/2026-10-candida-auris-entire-genome-survive.html",
+      "resumo": "New research has revealed an unexpected new mechanism through which the killer fungus Candida auris is resisting antifungal drug treatment. A team led by the University of Exeter and City St George's, University of London, discovered that the fungus creates multiple versions of its entire genome, including mutating a gene that plays a role in cell wall integrity, called \"Crazy-one\" (CRZ1).",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-15T09:00:08+00:00",
+      "coletado_em": "2026-10-15T14:10:51.109875+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/unexpected-discovery-o.jpg",
+      "score": 5.533,
+      "cobertura": []
+    },
+    {
+      "id": "442d91a26a06",
+      "titulo": "How Do Fungi Keep the Planet Healthy?",
+      "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+      "resumo": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
+      "fonte": "Quanta Magazine",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-15T13:40:13+00:00",
+      "coletado_em": "2026-10-15T14:10:51.111169+00:00",
+      "imagem_feed": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E10-cr-Chanelle-Nibbelink-Default-NO-LOGO.webp",
+      "score": 5.442,
+      "cobertura": []
+    },
+    {
+      "id": "cfb725db661d",
+      "titulo": "Engineered enzyme could improve detection of HIV and other viruses",
+      "url": "https://phys.org/news/2026-10-enzyme-hiv-viruses.html",
+      "resumo": "Scientists have long used a powerful gene-editing tool called CRISPR to make precise changes to DNA. But a different version of the technology, known as Cas13a, targets RNA, the genetic material found in viruses such as HIV. Now, researchers at Rice University have developed an improved version of Cas13a that could make it easier to detect HIV and other RNA viruses in blood and environmental samples. The study was published in Cell Chemical Biology.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-14T21:00:11+00:00",
+      "coletado_em": "2026-10-15T14:10:51.109875+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/rice-scientists-engine-1.jpg",
+      "score": 5.291,
+      "cobertura": []
+    },
+    {
+      "id": "ad170460d3a1",
+      "titulo": "Finding new ways to catch a thief—via intruders' airborne eDNA",
+      "url": "https://phys.org/news/2026-10-ways-thief-intruders-airborne-edna.html",
+      "resumo": "Environmental DNA (eDNA) is increasingly being investigated by forensic scientists as a tool to help solve criminal cases that lack biological traces—and attention is also turning to collecting trace airborne eDNA left behind by intruders in residential burglaries.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-15T13:00:09+00:00",
+      "coletado_em": "2026-10-15T14:10:51.109875+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/burglar.jpg",
+      "score": 4.918,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "c50118c63ad1",
+      "titulo": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
+      "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+      "resumo": "Nyobolt is providing power technology for Digit 5 that enables Agility's humanoid to work up to 20 hours a day. The post Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-15T10:59:24+00:00",
+      "coletado_em": "2026-10-15T14:10:51.112019+00:00",
+      "imagem_feed": null,
+      "score": 5.063,
+      "cobertura": []
+    },
+    {
+      "id": "801c62dc9a9c",
+      "titulo": "AI drone outpaces former world champions using one camera and no GPS",
+      "url": "https://techxplore.com/news/2026-10-ai-drone-outpaces-world-champions.html",
+      "resumo": "What does it take for an autonomous robot to be faster around a course than human drone pilots? At these dizzying speeds, humans need lightning-fast reflexes. Researchers at Delft University of Technology (the Netherlands) have developed an AI system that enables a racing drone to navigate demanding courses at extreme speed using only a single camera. It outperformed even former world champion human drone pilots in a race.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-14T18:00:07+00:00",
+      "coletado_em": "2026-10-15T14:10:51.112262+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-science-behind-the-5.jpg",
+      "score": 4.673,
+      "cobertura": []
+    },
+    {
+      "id": "9b9a13ce4b03",
+      "titulo": "Timken Precision Drives puts the motion challenge first in humanoid robots",
+      "url": "https://www.therobotreport.com/timken-precision-drives-puts-motion-challenge-first-humanoid-robots/",
+      "resumo": "Timken combines the expertise of Cone Drive, SPINEA, CGI Motion, and Timken Encoders to develop application-specific motion systems. The post Timken Precision Drives puts the motion challenge first in humanoid robots appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-14T12:20:19+00:00",
+      "coletado_em": "2026-10-15T14:10:51.112019+00:00",
+      "imagem_feed": null,
+      "score": 3.85,
+      "cobertura": []
+    },
+    {
+      "id": "391a919e29f8",
+      "titulo": "Can you trust a robot in charge?",
+      "url": "https://techxplore.com/news/2026-10-robot.html",
+      "resumo": "From monitoring public spaces to responding to requests for help, security robots are beginning to take on roles once held by people. As they gain authority, researchers are asking what it might take for the public to trust them.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-14T11:20:21+00:00",
+      "coletado_em": "2026-10-15T14:10:51.112262+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/robot-handshake.jpg",
+      "score": 3.474,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "6bb54fdd42b7",
+      "titulo": "KDE releases documentary",
+      "url": "https://lwn.net/Articles/1100787/",
+      "resumo": "As part of KDE's 30th anniversary celebration , the project has released The KDE Documentary — A Story of Free Software Underdogs ( YouTube video ): The story starts in 1996, when Matthias Ettrich, a student at the University of Tübingen, posted to a Usenet group asking for programmers to help build a desktop for Linux. What followed became KDE, one of the largest free software communities in the world. KDE made Linux usable as a desktop for people who weren't system administrators, giving it a complete, consistent graphical environment at a time when there was none. The film covers the highs and lows of three decades of KDE: the Qt licensing fight and the rivalry with GNOME; the success of KHTML, the browser engine that became the basis of Apple's WebKit and Google's Chrome; and the contentious release of KDE 4 and the rebuild that followed.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-15T13:24:31+00:00",
+      "coletado_em": "2026-10-15T14:10:51.114143+00:00",
+      "imagem_feed": null,
+      "score": 5.963,
+      "cobertura": []
+    },
+    {
+      "id": "3e392f2e7007",
+      "titulo": "Ubuntu 26.10 released",
+      "url": "https://lwn.net/Articles/1100786/",
+      "resumo": "Canonical has announced the release of Ubuntu 26.10 (\"Stonking Stingray\"): Ubuntu 26.10 advances enterprise security features, completes the rollout of the Rust-based uutils coreutils , and strengthens integrations for user authentication using Microsoft Entra ID. [...] Ubuntu 26.10 also ships with GNOME 51, bringing a smoother, more responsive desktop, better display handling, improved accessibility, and refinements across core applications. In addition, the Ubuntu App Center now provides a more consistent experience for managing snaps and debs. See the release notes for a list of new features as well as incompatible changes between 26.10 and prior Ubuntu releases.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-15T13:19:23+00:00",
+      "coletado_em": "2026-10-15T14:10:51.114143+00:00",
+      "imagem_feed": null,
+      "score": 5.953,
+      "cobertura": []
+    },
+    {
+      "id": "ca25a1962320",
+      "titulo": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1100785/",
+      "resumo": "Security updates have been issued by AlmaLinux (environment-modules, flatpak-builder, kernel, kernel-rt, librabbitmq, libreoffice, libsoup, mod_auth_openidc:2.3, nodejs:22, nodejs:24, OpenEXR, opentelemetry-collector, pki-core:10.6, postgresql:12, python-tornado, python36:3.6, ruby:3.3, tftp, and xorg-x11-server), Debian (buildstream, firefox-esr, mariadb, and sogo), Fedora (exim, freerdp, python3-docs, and python3.14), Mageia (drakx-installer-images, kernel, kmod-nvidia-current-wopengpu, kmod-virtualbox), Oracle (curl, emacs, environment-modules, flatpak, flatpak-builder, gd, hplip, kbd, kernel, librabbitmq, libreoffice, libxml2, microcode_ctl, mod_auth_openidc:2.3, nodejs:22, OpenEXR, pcre2, perl-DBI, python-tornado, rsyslog, tftp, thunderbird, and xorg-x11-server), Red Hat (compat-libtiff3, firefox, ghostscript, idm:DL1, ipa, kernel, kernel-rt, libtiff, lrzsz, and mariadb-connector-c), Slackware (libarchive), SUSE (amazon-cloudwatch-agent, bind, container-suseconnect, containerd, glibc, google-osconfig-agent, helm, kernel, python312, python313-oletools, python313-openpyxl, python313-orjson, python313-paramiko, python313-pipreqs, python313-py, python313-pycryptodome, python313-py",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-15T13:09:44+00:00",
+      "coletado_em": "2026-10-15T14:10:51.114143+00:00",
+      "imagem_feed": null,
+      "score": 5.936,
+      "cobertura": []
+    },
+    {
+      "id": "05fea74d39cc",
+      "titulo": "Seven stable kernels for Thursday with fix for critical vulnerability",
+      "url": "https://lwn.net/Articles/1100611/",
+      "resumo": "Greg Kroah-Hartman has announced the release of the 7.2.11 , 6.18.57 , 6.12.113 , 6.6.159 , 6.1.190 , 5.15.223 , and 5.10.272 stable kernels. This series includes, among other things, a fix for a critical vulnerability ( CVE-2026-99999 ). The flaw in skb_checksum_help() would allow an IPv4 packet with bad checksum metadata to \" corrupt the network header and cause a bunch of mischief \" in the words of patch author Michael S. Tsirkin. As usual, all users are advised to upgrade.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-15T13:01:31+00:00",
+      "coletado_em": "2026-10-15T14:10:51.114143+00:00",
+      "imagem_feed": null,
+      "score": 5.421,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "07bf2c4eb28e",
+      "titulo": "We tested the RTX Spark Superchip in Microsoft's Surface Laptop Ultra",
+      "url": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit",
+      "resumo": "We've tested Nvidia's RTX Spark against the latest and greatest from Apple and AMD to see how Nvidia's efforts to transform the PC for the agentic AI era stack up.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-15T12:00:21+00:00",
+      "coletado_em": "2026-10-15T14:10:51.114931+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/fjj25iPAmmb4jTtvMyDBnn-1920-80.jpg",
+      "score": 5.964,
+      "cobertura": []
+    },
+    {
+      "id": "7614b79a3818",
+      "titulo": "NVIDIA lança RTX Spark com GPU Blackwell e até 128 GB de RAM",
+      "url": "https://canaltech.com.br/hardware/nvidia-lanca-rtx-spark-com-gpu-blackwell-e-ate-128-gb-de-ram/",
+      "resumo": "A NVIDIA anunciou nesta quinta-feira (15) o RTX Spark, seu novo superchip para notebooks e desktops compactos com Windows. A plataforma reúne GPU Blackwell com até 6.144 CUDA Cores , CPU ARM de até 20 núcleos e até 128 GB de memória RAM unificada. O Canaltech acompanhou a apresentação durante o NVIDIA RTX Spark Editor's Day, realizado em 8 de outubro, em São Francisco (EUA). Desenvolvido em parceria com a MediaTek, o chipset aposta em alto desempenho para jogos, criação de conteúdo e inteligência artificial em computadores mais finos e leves. Diferentemente de uma placa de vídeo dedicada, os chips RTX Spark integram CPU, GPU e controlador de memória em uma única plataforma, com foco em desempenho e eficiência energética. Os primeiros notebooks equipados com a novidade chegam ao mercado nesta sexta-feira (16), com preços a partir de US$ 2.599 . Desktops compactos estão previstos para novembro. RTX Spark combina GPU Blackwell e CPU ARM de até 20 núcleos O RTX Spark utiliza dois blocos principais, chamados tiles, conectados pela tecnologia NVLink C2C. Um abriga a GPU Blackwell, enquanto o outro reúne a CPU ARM, o controlador de memória e os componentes de entrada e saída. Na configura",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-15T12:00:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/JlxWBajgehy6LF3NAuRirEmpgk0=/0x0/filters:format(webp):quality(85)/4773f360-f445-4a57-863b-49e84d94d7ba.jpg",
+      "score": 5.863,
+      "cobertura": []
+    },
+    {
+      "id": "aceb625e679d",
+      "titulo": "NVIDIA quer transformar PCs com RTX Spark em centrais de casa inteligente",
+      "url": "https://canaltech.com.br/hardware/nvidia-quer-transformar-pcs-com-rtx-spark-em-centrais-de-casa-inteligente/",
+      "resumo": "A NVIDIA quer transformar os computadores com RTX Spark em centrais de controle para casas inteligentes. A proposta é utilizar desktops compactos com inteligência artificial para gerenciar dispositivos conectados, monitorar câmeras de segurança e organizar tarefas da família, tudo por meio de comandos em linguagem natural. O Canaltech conheceu a novidade durante o NVIDIA RTX Spark Editor's Day, realizado em 8 de outubro, em São Francisco, nos Estados Unidos. A ideia é que um computador permaneça ligado continuamente, como uma espécie de assistente doméstico capaz de tomar decisões e executar tarefas. A plataforma utiliza a capacidade de processamento dos RTX Spark , que combinam GPU Blackwell, CPU ARM desenvolvida com a MediaTek e até 128 GB de memória RAM unificada. Segundo a NVIDIA, o hardware permite executar modelos avançados de IA local mente, com menor dependência de servidores externos. Casa inteligente terá um agente de IA próprio A principal mudança proposta pela NVIDIA está na maneira como os dispositivos inteligentes são controlados. Atualmente, muitas automações dependem de regras configuradas pelo usuário. É preciso definir, por exemplo, que determinada lâmpada deve ac",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-15T12:00:06+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/89_ZBnZ2u2iTMLINq4dY8ja8vZE=/0x0/filters:format(webp):quality(85)/5cd2d347-9cda-490a-b8d2-108790557a11.jpg",
+      "score": 5.863,
+      "cobertura": []
+    },
+    {
+      "id": "f44129446431",
+      "titulo": "RTX Spark promete melhorar jogos no Windows ARM; veja o que muda",
+      "url": "https://canaltech.com.br/hardware/rtx-spark-promete-melhorar-jogos-no-windows-arm-veja-o-que-muda/",
+      "resumo": "A NVIDIA anunciou melhorias para jogos em computadores com RTX Spark , seu novo superchip desenvolvido em parceria com a MediaTek. As novidades incluem otimizações no Windows ARM , ampliação da compatibilidade com jogos e uma versão mais rápida e econômica do DLSS 5 . O Canaltech acompanhou as apresentações durante o NVIDIA RTX Spark Editor's Day, realizado em 8 de outubro, em São Francisco, nos Estados Unidos. A fabricante destacou o trabalho conjunto com a Microsoft para levar a experiência de jogos de PC aos novos notebooks. A proposta é executar títulos exigentes em computadores finos e leves, com recursos como ray tracing e geração de quadros por inteligência artificial. Para isso, as empresas precisam superar algumas limitações de compatibilidade da arquitetura ARM. Windows ARM recebe otimizações para jogos Um dos principais desafios do RTX Spark é executar jogos desenvolvidos para processadores x64, arquitetura utilizada pela maioria dos computadores com chips Intel e AMD. A Microsoft utiliza o Prism , sistema que permite executar determinados aplicativos x64 em dispositivos ARM. Para o RTX Spark , o emulador recebeu otimizações específicas de desempenho e estabilidade. Segu",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-15T12:00:05+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/PEuU2gvSxrDAlZKHBZ4zu8o-tSQ=/0x0/filters:format(webp):quality(85)/c0589cf3-a768-4e7c-9187-33e5ea569563.jpg",
+      "score": 5.863,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "65af277310e3",
+      "titulo": "Beat light pollution with these six portable telescopes",
+      "url": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
+      "resumo": "Sick of skyglow spoiling your stargazing? These six telescopes are portable enough that you can easily pack them away and seek out darker skies.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-15T13:00:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.117081+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/tagaccN2B423BVxCHJ2Qj6-1920-80.jpg",
+      "score": 5.268,
+      "cobertura": []
+    },
+    {
+      "id": "7985234528f3",
+      "titulo": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
+      "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
+      "resumo": "The discovery of surprising molecules of methanol and associated maser activity has expanded the inventory of the chemical starter kit that builds planets in young star systems.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-15T12:00:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.117081+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/GS5DX5J9YLhHC7HSYZHFCD-1920-80.png",
+      "score": 4.663,
+      "cobertura": []
+    },
+    {
+      "id": "57b1a69ca2b1",
+      "titulo": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "resumo": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-14T16:46:58+00:00",
+      "coletado_em": "2026-10-15T14:10:51.115940+00:00",
+      "imagem_feed": null,
+      "score": 4.581,
+      "cobertura": []
+    },
+    {
+      "id": "6b38e26f43e2",
+      "titulo": "NASA’s Space X CRS-35 Launch Jellyfish",
+      "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+      "resumo": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-14T15:18:38+00:00",
+      "coletado_em": "2026-10-15T14:10:51.115940+00:00",
+      "imagem_feed": null,
+      "score": 4.534,
+      "cobertura": [
+        "https://www.space.com/space-exploration/launches-spacecraft/cosmic-jellyfish-wows-skywatchers-after-spacex-launch-space-photo-of-the-day-for-oct-14-2026"
+      ]
+    }
+  ],
+  "quantica": [
+    {
+      "id": "090ae6560c7d",
+      "titulo": "FirstQFM Model Cuts Single-Qubit Gate Times by 33% on QuantWare Processor",
+      "url": "https://thequantuminsider.com/2026/10/15/firstqfm-model-cuts-single-qubit-gate-times-33-percent-quantware/",
+      "resumo": "Insider Brief PRESS RELEASE — FirstQFM today announced results from applying FirstQFM’s quantum foundation model to a QuantWare superconducting quantum processor at the Israeli Quantum Computing Center (IQCC). FirstQFM’s foundation model builds on top of Quantum Machines’ native calibration stack, and generated single-qubit gates that reduced execution time by 33% on a QuantWare Contralto-D21 QPU. […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-15T09:21:07+00:00",
+      "coletado_em": "2026-10-15T14:10:51.117600+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-19.png",
+      "score": 5.713,
+      "cobertura": []
+    },
+    {
+      "id": "e97fbc858ab8",
+      "titulo": "D-Wave Delivers Advantage2 Annealing Quantum Computer to Italy",
+      "url": "https://thequantuminsider.com/2026/10/15/dwave-delivers-italy-first-annealing-quantum-computer/",
+      "resumo": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing annealing and gate-model systems, software and services, today announced at Digital Innovation Forum 2026 that its Advantage2TM annealing quantum computer has arrived in Lombardy, Italy, for installation at Villa Saporiti in Como. Funded by […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-15T12:58:14+00:00",
+      "coletado_em": "2026-10-15T14:10:51.117600+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_17-56.png",
+      "score": 5.565,
+      "cobertura": []
+    },
+    {
+      "id": "b944512b499f",
+      "titulo": "Photonics Simulation Software Startup EMode Photonix Raises $1 Million Pre-Seed",
+      "url": "https://thequantuminsider.com/2026/10/15/photonics-simulation-software-startup-emode-photonix-raises-1-million-pre-seed/",
+      "resumo": "Insider Brief PRESS RELEASE — EMode Photonix (EMode, Inc.), a startup delivering powerful simulation tools to allow novel photonics technologies for quantum computers to be developed faster, has raised a $1 million pre-seed round. The round was led by Ground State Ventures, with participation from Harlow Capital Management. Integrated photonics is one of the fastest growing […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-15T12:06:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.117600+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/EMode-Photonix.jpg",
+      "score": 5.473,
+      "cobertura": []
+    },
+    {
+      "id": "f4b6254e36bc",
+      "titulo": "Argonne Researchers Couple Spin Waves With Superconducting Circuits",
+      "url": "https://thequantuminsider.com/2026/10/15/argonne-spin-waves-superconducting-circuits/",
+      "resumo": "Insider Brief PRESS RELEASE — Quantum information systems could one day shape everyday life through faster computing and more secure communication. A new result from the U.S. Department of Energy’s Argonne National Laboratory and the University of Illinois Urbana-Champaign marks an important step for magnetic spins — a quantum property of matter that can be […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-15T11:05:55+00:00",
+      "coletado_em": "2026-10-15T14:10:51.117600+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_16-04.png",
+      "score": 5.374,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "d9b5e14345a1",
+      "titulo": "Google’s new Googlebook has clever AI tricks. I’d still pick a Windows laptop",
+      "url": "https://www.pcworld.com/article/3258718/googles-new-googlebook-has-clever-ai-tricks-id-still-pick-a-windows-laptop.html",
+      "resumo": "Googlebooks are here, promising productivity aplenty within the Google ecosystem. But how do Google’s new productivity features compare versus the more familiar Windows 11? That’s the goal for Smart Mode this week: examining how you (and I) can use Googlebooks as productivity devices, specifically looking at several of the features both offer. Unfortunately, two of the most novel platforms the PC has seen in years — the Googlebook and the Nvidia RTX Spark platform — have landed on the PC within a week or so of each other. I would have liked to have been part of the Googlebook launch, but it took place in my colleague Michael Crider’s backyard , and he already has an extensive professional history covering Android devices. My colleague Ashley Biancuzzo was first out of the gate with our review of the Acer Googlebook 14 . (She did a terrific job. Read it! I definitely did.) My own review is a work in progress…and you’re reading some of it right now. I’m currently typing this on Lenovo’s Googlebook 15 , which I’m crushed to find has an uncharacteristically crappy keyboard. So far, I have few complaints about the hardware, which wasn’t expected to be the star of the show, anyway. Inste",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-15T12:00:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.119081+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3258718-0-31244600-1792065635-Googlebook-vs-Windows-PC.jpg?quality=50&strip=all",
+      "score": 5.963,
+      "cobertura": []
+    },
+    {
+      "id": "7614b79a3818",
+      "titulo": "NVIDIA lança RTX Spark com GPU Blackwell e até 128 GB de RAM",
+      "url": "https://canaltech.com.br/hardware/nvidia-lanca-rtx-spark-com-gpu-blackwell-e-ate-128-gb-de-ram/",
+      "resumo": "A NVIDIA anunciou nesta quinta-feira (15) o RTX Spark, seu novo superchip para notebooks e desktops compactos com Windows. A plataforma reúne GPU Blackwell com até 6.144 CUDA Cores , CPU ARM de até 20 núcleos e até 128 GB de memória RAM unificada. O Canaltech acompanhou a apresentação durante o NVIDIA RTX Spark Editor's Day, realizado em 8 de outubro, em São Francisco (EUA). Desenvolvido em parceria com a MediaTek, o chipset aposta em alto desempenho para jogos, criação de conteúdo e inteligência artificial em computadores mais finos e leves. Diferentemente de uma placa de vídeo dedicada, os chips RTX Spark integram CPU, GPU e controlador de memória em uma única plataforma, com foco em desempenho e eficiência energética. Os primeiros notebooks equipados com a novidade chegam ao mercado nesta sexta-feira (16), com preços a partir de US$ 2.599 . Desktops compactos estão previstos para novembro. RTX Spark combina GPU Blackwell e CPU ARM de até 20 núcleos O RTX Spark utiliza dois blocos principais, chamados tiles, conectados pela tecnologia NVLink C2C. Um abriga a GPU Blackwell, enquanto o outro reúne a CPU ARM, o controlador de memória e os componentes de entrada e saída. Na configura",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-15T12:00:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/JlxWBajgehy6LF3NAuRirEmpgk0=/0x0/filters:format(webp):quality(85)/4773f360-f445-4a57-863b-49e84d94d7ba.jpg",
+      "score": 5.863,
+      "cobertura": []
+    },
+    {
+      "id": "f44129446431",
+      "titulo": "RTX Spark promete melhorar jogos no Windows ARM; veja o que muda",
+      "url": "https://canaltech.com.br/hardware/rtx-spark-promete-melhorar-jogos-no-windows-arm-veja-o-que-muda/",
+      "resumo": "A NVIDIA anunciou melhorias para jogos em computadores com RTX Spark , seu novo superchip desenvolvido em parceria com a MediaTek. As novidades incluem otimizações no Windows ARM , ampliação da compatibilidade com jogos e uma versão mais rápida e econômica do DLSS 5 . O Canaltech acompanhou as apresentações durante o NVIDIA RTX Spark Editor's Day, realizado em 8 de outubro, em São Francisco, nos Estados Unidos. A fabricante destacou o trabalho conjunto com a Microsoft para levar a experiência de jogos de PC aos novos notebooks. A proposta é executar títulos exigentes em computadores finos e leves, com recursos como ray tracing e geração de quadros por inteligência artificial. Para isso, as empresas precisam superar algumas limitações de compatibilidade da arquitetura ARM. Windows ARM recebe otimizações para jogos Um dos principais desafios do RTX Spark é executar jogos desenvolvidos para processadores x64, arquitetura utilizada pela maioria dos computadores com chips Intel e AMD. A Microsoft utiliza o Prism , sistema que permite executar determinados aplicativos x64 em dispositivos ARM. Para o RTX Spark , o emulador recebeu otimizações específicas de desempenho e estabilidade. Segu",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-15T12:00:05+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/PEuU2gvSxrDAlZKHBZ4zu8o-tSQ=/0x0/filters:format(webp):quality(85)/c0589cf3-a768-4e7c-9187-33e5ea569563.jpg",
+      "score": 5.863,
+      "cobertura": []
+    },
+    {
+      "id": "e16e6ad1fc3c",
+      "titulo": "Best Chromebooks 2026: Top picks for work, school, and more",
+      "url": "https://www.pcworld.com/article/608636/best-chromebooks.html",
+      "resumo": "A laptop doesn’t need to do everything to be useful, you know. That’s the Chromebook in a nutshell. It keeps most of the experience inside a browser, which leaves behind the complexity that comes with a Windows PC. They can be remarkably quick, straightforward, and easy to live with. For this roundup, we focused on the models that deliver that experience without making big compromises on speed and battery life. Every laptop here was tested hands-on. If you’d rather step outside Google’s ecosystem, PCWorld has a separate roundup of the best Windows laptops . And if you’re curious where Chromebooks are headed next, check out this deep dive into the new AI-powered Googlebooks. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 70 laptops every year. All of the picks below have been personally tested and vetted by our experts, who’ve applied not only performance benchmarks but rigorous usability standards. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches your budget. Asus Chromebook Plus CX34 – Best overall Chromebook",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-14T16:00:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.119081+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/608636-0-09508700-1791993630-ports.jpg?quality=50&strip=all",
+      "score": 5.255,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "e7de8e97c96a",
+      "titulo": "Google avisa que vai tirar modelos Pro do plano básico do Gemini",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-avisa-que-vai-tirar-modelos-pro-do-plano-basico-do-gemini/",
+      "resumo": "O Google começou a notificar por e-mail os assinantes do plano Google AI Plus de que eles perderão a capacidade de selecionar os modelos Pro no aplicativo Gemini e no Modo IA da Busca, além de perder o acesso aos novos modelos focados em raciocínio. Com a mudança, os usuários interessados em continuar utilizando os modelos mais capazes da empresa terão que fazer um upgrade para o plano Google AI Pro, que custa R$ 96,99 por mês, ou para o plano AI Ultra, a partir de R$ 779,90 por mês. Com a restrição, os assinantes do plano AI Plus vão ter acesso apenas aos modelos Flash e Flash Lite , que a empresa afirma serem desenvolvidos com foco em velocidade e inteligência. Para as conversas já existentes que utilizaram algum modelo Pro, os usuários poderão dar continuidade ao histórico, mas terão que alternar obrigatoriamente para um modelo diferente para prosseguir com a interação. Já os usuários do plano gratuito também vão sofrer restrições, com a perda do acesso aos modelos Flash mais recentes, de acordo com a documentação de suporte do Google. A alteração ocorre em paralelo à expansão da linha de modelos do Google. A empresa anunciou recentemente a disponibilização do Gemini 4 Argon par",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-15T14:01:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5jdyO3twq8569KV8WJILGd3du2w=/0x0/filters:format(webp):quality(85)/e10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg",
+      "score": 6.081,
+      "cobertura": []
+    },
+    {
+      "id": "d11f830a4d0b",
+      "titulo": "Android ganha superproteção por IA que esconde senhas na tela e barra mensagens falsas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/android-ganha-superprotecao-por-ia-que-esconde-senhas-na-tela-e-barra-mensagens-falsas/",
+      "resumo": "O Google anunciou novas ferramentas de segurança para o Android e o Google Messages com inteligência artificial (IA) para identificar mensagens suspeitas, combater golpes telefônicos e proteger dados pessoais. As novidades incluem a ocultação automática de senhas durante o compartilhamento de tela, a análise de conversas com possíveis golpistas e o bloqueio de chamadas falsas que se passam por bancos. A distribuição começa em outubro de 2026 e ocorrerá gradualmente, conforme o modelo do aparelho e a versão do sistema. No Google Messages, o Modo de Proteção Avançada usa modelos Gemini na nuvem para analisar conversas com números desconhecidos e identificar sinais de engenharia social. O processamento ocorre por meio do Private AI Compute, tecnologia que, segundo o Google, protege os dados em um ambiente isolado e impede o acesso da própria empresa ao conteúdo analisado. O aplicativo também receberá a verificação de links com o Gemini Nano , modelo executado no próprio celular que avalia endereços desconhecidos com base em informações da web em tempo real. Os avisos sobre links suspeitos serão aprimorados, e os alertas de golpes na barra de notificações serão expandidos para centenas",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-15T13:06:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/UIlJpm4QwnL3MamZdBWBL2DAW3U=/0x0/filters:format(webp):quality(85)/b5481344-2e66-4646-a421-ca72494cb652.png",
+      "score": 5.979,
+      "cobertura": []
+    },
+    {
+      "id": "aceb625e679d",
+      "titulo": "NVIDIA quer transformar PCs com RTX Spark em centrais de casa inteligente",
+      "url": "https://canaltech.com.br/hardware/nvidia-quer-transformar-pcs-com-rtx-spark-em-centrais-de-casa-inteligente/",
+      "resumo": "A NVIDIA quer transformar os computadores com RTX Spark em centrais de controle para casas inteligentes. A proposta é utilizar desktops compactos com inteligência artificial para gerenciar dispositivos conectados, monitorar câmeras de segurança e organizar tarefas da família, tudo por meio de comandos em linguagem natural. O Canaltech conheceu a novidade durante o NVIDIA RTX Spark Editor's Day, realizado em 8 de outubro, em São Francisco, nos Estados Unidos. A ideia é que um computador permaneça ligado continuamente, como uma espécie de assistente doméstico capaz de tomar decisões e executar tarefas. A plataforma utiliza a capacidade de processamento dos RTX Spark , que combinam GPU Blackwell, CPU ARM desenvolvida com a MediaTek e até 128 GB de memória RAM unificada. Segundo a NVIDIA, o hardware permite executar modelos avançados de IA local mente, com menor dependência de servidores externos. Casa inteligente terá um agente de IA próprio A principal mudança proposta pela NVIDIA está na maneira como os dispositivos inteligentes são controlados. Atualmente, muitas automações dependem de regras configuradas pelo usuário. É preciso definir, por exemplo, que determinada lâmpada deve ac",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-15T12:00:06+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/89_ZBnZ2u2iTMLINq4dY8ja8vZE=/0x0/filters:format(webp):quality(85)/5cd2d347-9cda-490a-b8d2-108790557a11.jpg",
+      "score": 5.863,
+      "cobertura": []
+    },
+    {
+      "id": "a0e0fec2c2b5",
+      "titulo": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "resumo": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "fonte": "OpenAI",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-14T12:00:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.126762+00:00",
+      "imagem_feed": null,
+      "score": 4.991,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "4a872c4d870e",
+      "titulo": "Carregar o carro elétrico em casa aumenta quanto na conta de luz?",
+      "url": "https://canaltech.com.br/carros/carregar-o-carro-eletrico-em-casa-aumenta-quanto-na-conta-de-luz/",
+      "resumo": "Uma das principais dúvidas de quem pensa em comprar um carro elétrico é bastante simples: quanto a conta de luz vai aumentar depois que o carro começar a ser carregado em casa? Afinal, a economia com combustível é um dos grandes atrativos dos modelos elétricos, mas a energia usada para abastecer a bateria também tem um custo. Para descobrir quanto isso representa no bolso , podemos usar como referência o BYD Dolphin Mini , um dos carros elétricos mais conhecidos do mercado brasileiro. A versão equipada com bateria de 38 kWh tem autonomia de até 280 km pelo ciclo do Inmetro , embora o alcance real possa variar de acordo com trânsito, velocidade, temperatura e estilo de condução. O valor da energia também muda conforme a distribuidora , os impostos e o consumo total da residência. Neste cálculo, a referência é uma casa atendida pela Enel São Paulo em outubro de 2026 , considerando a tarifa residencial vigente e a bandeira verde definida pela Aneel para o mês. ( Enel ) Quanto custa o kWh em São Paulo em outubro? Desde 4 de julho de 2026, a tarifa residencial convencional da Enel SP é de R$ 0,78938 por kWh , valor que corresponde à soma da TUSD, de R$ 0,47242/kWh, com a tarifa de energ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-15T10:03:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/l5-v8X3l_ksDrD4wMrXdx2tXxnU=/0x0/filters:format(webp):quality(85)/cb367453-25db-4e4c-a5f5-65ce0d7da143.jpg",
+      "score": 4.175,
+      "cobertura": []
+    },
+    {
+      "id": "13f7a74d62c6",
+      "titulo": "Engineers develop wearable solar device to power soldiers' gear in the field",
+      "url": "https://techxplore.com/news/2026-10-wearable-solar-device-power-soldiers.html",
+      "resumo": "A U.S. soldier may carry up to 20 pounds (9 kilograms) of batteries to power communications equipment and other electronics on missions. New research from FIU could help lighten that load. A team of engineers has developed a dual-use, razor-thin solar device that can harvest sunlight to generate electricity and also produce light.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-14T14:20:01+00:00",
+      "coletado_em": "2026-10-15T14:10:51.128016+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineers-develop-wear.jpg",
+      "score": 4.054,
+      "cobertura": []
+    },
+    {
+      "id": "0708075a9290",
+      "titulo": "Behind AI's carbon footprint, a potential climate tool",
+      "url": "https://techxplore.com/news/2026-10-ai-carbon-footprint-potential-climate.html",
+      "resumo": "Artificial intelligence has become a lightning rod in climate debates over concerns about the growing carbon footprint of the data centers powering the technology.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-15T07:07:29+00:00",
+      "coletado_em": "2026-10-15T14:10:51.128016+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/ais-carbon-footpring-w.jpg",
+      "score": 3.881,
+      "cobertura": []
+    },
+    {
+      "id": "347ea01dcf15",
+      "titulo": "Ultrafast oxide-ion conductors offer route to low-temperature fuel cells",
+      "url": "https://techxplore.com/news/2026-10-ultrafast-oxide-ion-conductors-route.html",
+      "resumo": "Solid-oxide fuel cells (SOFCs), which convert chemical energy directly into electrical power, are promising energy-conversion technologies because they can operate on various fuels, including hydrogen, natural gas and biogas.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-14T18:40:08+00:00",
+      "coletado_em": "2026-10-15T14:10:51.128016+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-ultrafast-solid.jpg",
+      "score": 3.698,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "78394b2e6b36",
+      "titulo": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "resumo": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-14T14:22:49+00:00",
+      "coletado_em": "2026-10-15T14:10:51.128430+00:00",
+      "imagem_feed": null,
+      "score": 3.556,
+      "cobertura": []
+    },
+    {
+      "id": "450868f93fb4",
+      "titulo": "Falha amadora: Senha '123456' expõe dados de todos os habitantes de um país europeu",
+      "url": "https://canaltech.com.br/seguranca/falha-amadora-senha-123456-expoe-dados-de-todos-os-habitantes-de-um-pais-europeu/",
+      "resumo": "Um vazamento na base de dados da Central de Registros de Pessoas da Dinamarca expôs os dados de mais de 8 milhões de pessoas no país europeu por causa de um erro simples de segurança. Um hacker que alega a autoria do ataque afirma que teve acesso aos dados após usar a senha “123456” . De acordo com o jornal dinamarquês Politiken, a pessoa afirmou que não tem interesse em vender os dados. Pelo menos três contas corporativas usavam a senha extremamente básica , incluindo um perfil com acesso de administrador. O vazamento foi confirmado pelo órgão dinamarquês no começo deste mês e expôs dados de 8,8 milhões de pessoas. O comunicado oficial alega que a invasão aconteceu após ataque a uma empresa com acesso à base de dados da Central. Dias depois, a empresa Pays ApS, com acesso às credenciais, informou que foi vítima de um incidente cibernético. Por que você não deve usar a senha “123456” Senhas como “123456” , “senha” ou “senha123” podem parecer opções práticas para não esquecer as credenciais, mas na verdade são um alvo fácil para hackers. Os códigos estão entre os mais usados do mundo e normalmente são experimentados por invasores nas primeiras tentativas de roubar a conta de alguém.",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-14T18:33:00+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qxmQ63SISLCmxNmH66gYW5JF_uU=/0x0/filters:format(webp):quality(85)/51c43451-aea4-4840-8595-0878554d431a.jpeg",
+      "score": 3.244,
+      "cobertura": []
+    },
+    {
+      "id": "1735baf2e92b",
+      "titulo": "Frustrado, leaker de GTA 6 encerra vazamentos após não bater meta de \"arrecadação\"",
+      "url": "https://canaltech.com.br/games/frustrado-leaker-de-gta-6-encerra-vazamentos-apos-nao-bater-meta-de-arrecadacao/",
+      "resumo": "O leaker CyberLeek, conhecido por diversos vazamentos de GTA 6 , afirmou nesta quarta-feira (14) que encerrará as atividades contra a Rockstar . De acordo com a figura anônima, a arrecadação de US$ 30 milhões em criptomoedas não atingiu o resultado esperado e ele não publicará a versão do jogo que está em suas mãos. Contudo, o invasor não sairá sem causar estragos. Antes de desaparecer, foram divulgados diversos trechos das missões finais de Grand Theft Auto VI na internet — sem os devidos contextos, mas é importante estar alerta para receber spoilers que podem surgir a partir do conteúdo. Nas redes sociais, CyberLeek diz que não mostrará o fim da aventura porque “arruinará a experiência dos jogadores, que não fizeram nada de errado”. Ainda assim, apontou que divulgará detalhes da narrativa se a Rockstar ou qualquer entidade derrubar o seu website. Ou seja, o autor dos vazamentos vai parar de falar sobre GTA 6 “por enquanto”. Se o estúdio, a Take-Two Interactive ou alguma organização provocá-lo, ele reserva-se o direito de encarar o desafio com a build que continua consigo. Se tudo der certo, não veremos mais trechos até o lançamento, em 19 de novembro de 2026. O objetivo do leaker",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-14T17:21:51+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Gm_MHFabkXXLZoJfQYXgmSbLQfc=/0x0/filters:format(webp):quality(85)/6ce1c0da-31c0-420a-9456-29aa6c799cb6.jpg",
+      "score": 3.201,
+      "cobertura": []
+    },
+    {
+      "id": "13120c34ffca",
+      "titulo": "Novo dobrável top da Honor terá câmera de 50 MP e bateria gigante, diz leaker",
+      "url": "https://canaltech.com.br/smartphone/novo-dobravel-top-da-honor-tera-camera-de-50-mp-e-bateria-gigante-diz-leaker/",
+      "resumo": "O próximo celular dobrável premium da Honor pode chegar ao mercado com uma câmera principal de 50 MP com abertura variável e bateria de 6.000 mAh . As especificações do suposto Honor Magic V7 foram reveladas pelo informante Digital Chat Station em uma publicação na rede social chinesa Weibo nesta quinta (15), meses antes do lançamento previsto. Segundo o vazamento, o Honor Magic V7 vai ter uma tela externa de 6,5 polegadas e um painel interno de aproximadamente 8,15 polegadas. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A tela maior deve usar a tecnologia UTG, que permite a fabricação de displays ultrafinos de vidro para celulares dobráveis. Para efeito de comparação, o Honor Magic V6, anunciado em março de 2026, tem uma tela externa de 6,52 polegadas e um display interno de 7,95 polegadas. Se as informações estiverem certas, o sucessor vai ter uma tela interna um pouco maior, enquanto o painel externo ficará ligeiramente menor. Câmera principal de 50 MP e zoom periscópico O conjunto fotográfico também pode receber novidades. De acordo com o informante, o protótipo do Magic V7 tem um sensor principal SmartSens SC595 de 50 MP, com tamanho de 1/1,28 polegada. A câm",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-15T11:21:03+00:00",
+      "coletado_em": "2026-10-15T14:10:51.135457+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/0WTQfmlg9xxRjKiCD5re5XR_LRM=/0x0/filters:format(webp):quality(85)/778c5c04-9857-4e13-b002-a3ff4875fc82.png",
+      "score": 1.298,
+      "cobertura": []
+    }
+  ]
+}
