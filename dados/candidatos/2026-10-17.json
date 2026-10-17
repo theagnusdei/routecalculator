@@ -288,6 +288,22 @@
   "cobertura": []
  },
  {
+  "id": "0d6bcf4244e5",
+  "titulo": "Cannabis doesn't make you violent—despite what recent reports have claimed",
+  "url": "https://medicalxpress.com/news/2026-10-cannabis-doesnt-violent.html",
+  "resumo": "In what looked like a return to the dark days of \"Reefer Madness\"—a 1936 film that portrayed cannabis as a drug that could drive people to madness and murder—a recent article in the Daily Telegraph claimed that cannabis users are \"twice as likely to be violent.\"",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-17T11:20:01+00:00",
+  "coletado_em": "2026-10-17T11:33:42.639348+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2019/3-marijuana.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "0e8cc8b61ee9",
   "titulo": "Adapted AI improves smartphone detection of abnormal lung sounds in children",
   "url": "https://medicalxpress.com/news/2026-10-ai-smartphone-abnormal-lung-children.html",
@@ -423,8 +439,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-16T17:54:53+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -610,6 +626,23 @@
   "cobertura": []
  },
  {
+  "id": "1fbebf009d3b",
+  "titulo": "Quem responde quando um agente de IA toma a decisão errada?",
+  "url": "https://olhardigital.com.br/2026/10/17/colunistas/quem-responde-quando-um-agente-de-ia-toma-a-decisao-errada/",
+  "resumo": "Durante anos, discutimos como gestores deveriam liderar pessoas. Agora surge uma competência completamente nova: liderar sistemas autônomos O post Quem responde quando um agente de IA toma a decisão errada? apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "robotica",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-17T10:00:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.662497+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "205dcf0f2c51",
   "titulo": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
   "url": "https://www.nature.com/articles/d41586-026-03341-3",
@@ -698,8 +731,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
-   "astrofisica"
+   "astrofisica",
+   "hardware"
   ],
   "publicado": "2026-10-16T13:25:09+00:00",
   "coletado_em": "2026-10-17T05:32:17.036601+00:00",
@@ -811,9 +844,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
+   "computadores_pessoais",
    "hardware",
-   "computadores_pessoais"
+   "software"
   ],
   "publicado": "2026-10-17T00:00:02+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -925,10 +958,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "computadores_pessoais",
-   "energia_materiais"
+   "energia_materiais",
+   "hardware",
+   "software"
   ],
   "publicado": "2026-10-16T19:19:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -1002,6 +1035,23 @@
   "cobertura": []
  },
  {
+  "id": "2daa8acda021",
+  "titulo": "US Army to use 3D-printed rocket motors for low-cost cruise missiles",
+  "url": "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom",
+  "resumo": "X-Bow Systems has been tapped to 3D-print rocket motors for the U.S. Army's low-cost cruise missiles.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-17T10:30:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.645033+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/xMSuicz7be2Tzn8jfHcNP4-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "2e25e9d5212e",
   "titulo": "Isaias Dims the Gulf Coast",
   "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
@@ -1050,6 +1100,22 @@
   "cobertura": []
  },
  {
+  "id": "2e7686d2c76a",
+  "titulo": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
+  "url": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering tools like Ghidra, Hopper, and IDA. The project lets developers inspect compiled binaries, trace function calls, and investigate how applications implement specific features. By Renato Losio",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-17T06:28:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.643527+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/10/reverse-engineer-anything/en/headerimage/generatedHeaderImage-1791736473714.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "312ca4a9c770",
   "titulo": "Galaxy Book 6 para produtividade tem R$ 1,5 mil de desconto parcelável em até 10x",
   "url": "https://tecnoblog.net/achados/galaxy-book-6-para-produtividade-tem-r-15-mil-de-desconto-parcelavel-em-ate-10x/",
@@ -1057,9 +1123,9 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
    "astrofisica",
-   "energia_materiais"
+   "energia_materiais",
+   "hardware"
   ],
   "publicado": "2026-10-16T14:59:14+00:00",
   "coletado_em": "2026-10-17T05:32:17.036601+00:00",
@@ -1269,8 +1335,8 @@
   "peso_fonte": 0.6,
   "categorias": [
    "biologia",
-   "software",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-16T14:30:58+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -1340,6 +1406,22 @@
   "publicado": "2026-10-16T15:22:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.015779+00:00",
   "imagem_feed": "https://res.infoq.com/news/2026/10/zod-schema-compliation/en/headerimage/generatedHeaderImage-1792163115814.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "3cc5b8ff34d7",
+  "titulo": "Stop paying for MSO 365 — Office Pro drops to $28 for a lifetime license",
+  "url": "https://www.pcworld.com/article/3262089/stop-paying-for-mso-365-office-pro-drops-to-28-for-a-lifetime-license.html",
+  "resumo": "TL;DR: Microsoft Office Professional 2021 for Windows is $27.97 (reg. $219.99) through October 20, with no subscription. Microsoft 365 charges you every year just to keep opening your own spreadsheets. If you’d rather pay once, a Microsoft Office Professional 2021 lifetime license is on sale for $27.97 (reg. $219.99). You get Word, Excel, PowerPoint, Outlook, OneNote, Publisher, Access, and the free version of Teams. Everything installs on one Windows 10 or 11 PC for home or work use. Your license is tied to that device rather than your Microsoft account. Publisher support ends after October 2026, so plan around that if you use it. Delivery is instant. Your license key and download link arrive right after checkout, and you have seven days to redeem. One heads-up: this isn’t Microsoft 365, and it won’t run in Parallels or other virtual machines. Stop renting the apps you open every day. Through October 20 at 11:59 p.m. PT, get Microsoft Office Professional 2021 on sale for $27.97 (reg. $219.99). Microsoft Office Professional 2021 for Windows: Lifetime License See Deal StackSocial prices subject to change.",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-17T08:00:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.649214+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3262089-0-20040400-1792224047-mso-pro-2021-win-1.jpg?quality=50&strip=all",
   "score": 0.0,
   "cobertura": []
  },
@@ -1554,6 +1636,22 @@
   "cobertura": []
  },
  {
+  "id": "464be4468f91",
+  "titulo": "The Orionid meteor shower peaks next week! Here's what to expect",
+  "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
+  "resumo": "The Orionid meteor shower peaks overnight on Oct. 21-22, bringing a spectacular display of shooting stars to the autumn sky.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-17T10:00:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.646996+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/wZfG9KGX9kzGtUDSAjtvkF-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "4781c596d07a",
   "titulo": "Small-scale desalination technology could be the answer to water security in remote Australia",
   "url": "https://techxplore.com/news/2026-10-small-scale-desalination-technology-remote.html",
@@ -1722,9 +1820,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
    "hardware",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-16T14:02:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -1836,8 +1934,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
    "astrofisica",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-16T13:08:45+00:00",
@@ -1886,8 +1984,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-10-16T20:01:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -1919,8 +2017,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-10-16T18:33:41+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -1984,8 +2082,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "astrofisica"
+   "astrofisica",
+   "software"
   ],
   "publicado": "2026-10-16T19:41:06+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -2070,6 +2168,38 @@
   "publicado": "2026-10-15T17:51:36+00:00",
   "coletado_em": "2026-10-17T05:32:17.036601+00:00",
   "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2022/05/youtube_capa-2_tb.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5f17d02876eb",
+  "titulo": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+  "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+  "resumo": "Insider Brief A team of researchers from Anthropic and Harvard used an artificial intelligence (AI) system to design quantum circuits that require fewer operations and qubits, potentially lowering the hardware demands of useful quantum computing. The researchers, who posted their work on the preprint server arXiv, tested the approach on eight computational building blocks used […]",
+  "fonte": "The Quantum Insider",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-10-17T08:11:10+00:00",
+  "coletado_em": "2026-10-17T11:33:42.647564+00:00",
+  "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "608a85bf39b4",
+  "titulo": "Mobile app monitoring may reduce serious complications after surgery, new study finds",
+  "url": "https://medicalxpress.com/news/2026-10-mobile-app-complications-surgery.html",
+  "resumo": "Mobile app-based monitoring may help address the vulnerable days and weeks after surgery when recovery shifts from the hospital to home with little direct supervision. Patients using mobile apps had a lower risk of serious complications, emergency room visits and readmissions after surgery, but the benefits depended on physician or other clinician involvement, rather than the technology alone, according to research presented at the Anesthesiology 2026 annual meeting.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-17T11:00:02+00:00",
+  "coletado_em": "2026-10-17T11:33:42.639348+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/mobile-app.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2581,8 +2711,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-10-16T17:15:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -2678,8 +2808,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-16T17:33:58+00:00",
@@ -2786,6 +2916,22 @@
   "cobertura": []
  },
  {
+  "id": "7baad6bee4fb",
+  "titulo": "Optical imaging links altered metabolism and oxygen use in Alzheimer's disease",
+  "url": "https://phys.org/news/2026-10-optical-imaging-links-metabolism-oxygen.html",
+  "resumo": "Alzheimer's disease is best known for its effects on memory and cognition, but the disease also involves changes in how brain cells produce and use energy. Mitochondria, the structures that supply much of a cell's energy, can become dysfunctional in Alzheimer's disease. At the same time, changes in blood flow and oxygen availability may place additional demands on brain tissue. Understanding how these processes interact could help researchers characterize metabolic changes that accompany the disease.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-17T08:16:41+00:00",
+  "coletado_em": "2026-10-17T11:33:42.640714+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-imaging-links.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "7cb9ae227e8d",
   "titulo": "AI detects coronary heart disease from face and tongue photos in small test",
   "url": "https://medicalxpress.com/news/2026-10-ai-coronary-heart-disease-tongue.html",
@@ -2857,9 +3003,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-16T13:07:00+00:00",
@@ -3149,8 +3295,8 @@
   "fonte": "New Scientist",
   "peso_fonte": 0.85,
   "categorias": [
-   "software",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-16T06:00:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.069153+00:00",
@@ -3336,6 +3482,22 @@
   "cobertura": []
  },
  {
+  "id": "975799ced465",
+  "titulo": "Dell’s business laptop drops from $1,099 to $265",
+  "url": "https://www.pcworld.com/article/3262781/dells-business-laptop-drops-from-1099-to-265.html",
+  "resumo": "TL;DR: A grade A refurbished Dell Latitude 5420 with an 11th Gen i5, 8GB RAM, 256GB SSD, and Windows 11 Pro is $264.99 (MSRP $1,099). Limited inventory available. A brand-new business laptop with Windows 11 Pro, Thunderbolt 4, and an 11th Gen Intel processor usually costs north of $800. But if you don’t mind a refurbished model, this near-mint Dell Latitude 5420 brings all of that down to $264.99 (MSRP $1,099). The only “catch” is that inventory is limited, so order ASAP. An 11th Gen Core i5-1135G7 runs at 2.4GHz and turbo-boosts to 4.2GHz, so spreadsheets, browser tabs, and video calls don’t compete for processing power. RAM is 8GB DDR4-3200, and the board supports up to 32GB if you want to upgrade later. Storage is a 256GB PCIe NVMe SSD. Boot times and application launches are fast , though heavy media libraries or large project folders may need an external drive. A 14-inch Full HD anti-glare display keeps text sharp and readable without the glare that makes glossy screens hard to use near a window. Two Thunderbolt 4 ports, two USB 3.2 ports, and HDMI 2.0 give enough connectivity for a monitor, a dock, and peripherals without running out of slots. Wi-Fi 6 and Bluetooth 5.0 are bo",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-17T08:00:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.649214+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3262781-0-72062800-1792224018-Dell-Latitude.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "97599037ffe3",
   "titulo": "APOD: 2026 October 16 – Chasing the International Space Station",
   "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
@@ -3429,6 +3591,24 @@
   "publicado": null,
   "coletado_em": "2026-10-17T05:32:17.010325+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9992b438685f",
+  "titulo": "Como e por que a inteligência artificial consegue burlar regras?",
+  "url": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
+  "resumo": "Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de tecnologia conseguiram contornar restrições, acessar sistemas sem autorização e realizar ações que seus próprios desenvolvedores não haviam previsto. Em vários desses casos, a IA recebeu apenas um objetivo a ser cumprido . As instruções não explicavam como a tarefa deveria ser realizada, deixando os detalhes por conta do próprio sistema. Ao encontrar obstáculos, alguns agentes buscaram outros caminhos para continuar a execução, inclusive ultrapassando limites de segurança. Isso não significa que a IA tenha noção do que é certo e errado. Os modelos seguem objetivos, instruções e regras definidos pelos desenvolvedores. Quando essas regras não cobrem todas as situações possíveis, porém, o agente pode encontrar brechas e escolher um caminho que não havia sido previsto. O risco aumenta quando esses sistemas operam fora de ambientes controlados e conseguem navegar na internet, executar códigos, acessar bancos de dados e interagir com serviços reais. A capacidade de encontrar soluções inesperadas, antes vista como uma ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-17T11:30:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.667439+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -3642,6 +3822,23 @@
   "cobertura": []
  },
  {
+  "id": "9f87c7b56c7d",
+  "titulo": "Game decompilation hub freezes leaderboard after AI turns progress into a hollow numbers game amid explosion of 'AI slop'",
+  "url": "https://www.tomshardware.com/video-games/retro-gaming/game-decompilation-tracker-decomp-dev-shuts-its-public-leaderboard-saying-ai-has-broken-the-community-its-creator-blames-forks-that-use-ai-to-finish-other-teams-projects-and-races-to-ship-rough-pc-ports",
+  "resumo": "decomp.dev has closed its public index of game decompilation projects, saying AI-driven forks and ports broke the community.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-17T11:30:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.645033+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ncoxUFp5HXyLw8EqeEC8qN-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "9ff64a5101aa",
   "titulo": "Anderon Releases First Superconducting Quantum PDK",
   "url": "https://thequantuminsider.com/2026/10/16/anderon-superconducting-quantum-pdk/",
@@ -3681,10 +3878,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "computadores_pessoais",
-   "inteligencia_artificial"
+   "hardware",
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-16T22:08:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -3732,8 +3929,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-16T16:04:06+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -3934,6 +4131,23 @@
   "publicado": "2026-10-16T22:42:20+00:00",
   "coletado_em": "2026-10-17T05:32:17.036601+00:00",
   "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/lg-oled-b6-2.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a8c3f9c874e2",
+  "titulo": "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
+  "url": "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts",
+  "resumo": "A Lego enthusiast recreated the rare ASML Lego kit, added their own customizations, and shared the plans for free on Rebrickable.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-17T10:00:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.645033+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/JqoFFBmB9aMnFZkcoqYUvC-1920-80.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -4230,6 +4444,22 @@
   "cobertura": []
  },
  {
+  "id": "bb62728d2499",
+  "titulo": "Robert Wille (Munich Quantum Software Company): Quantum software needs design automation, not just algorithms",
+  "url": "https://thequantuminsider.com/2026/10/17/robert-wille-munich-quantum-software-company-quantum-software-needs-design-automation-not-just-algorithms/",
+  "resumo": "Yuval interviews Robert Wille, a computer scientist and co-founder focused on quantum computing software. They discuss the field’s transition from research to practical deployment, the need for heterogeneous and hardware-agnostic software stacks, and the integration of quantum into HPC environments. Robert explains the importance of design automation, open-source strategy, and AI-assisted development, arguing that quantum’s […]",
+  "fonte": "The Quantum Insider",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-10-17T07:40:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.647564+00:00",
+  "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/07/wille.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "bc9a2ddc165e",
   "titulo": "Galaxy Watch 8 Classic despenca 64% na melhor promoção já encontrada",
   "url": "https://tecnoblog.net/achados/galaxy-watch-8-classic-despenca-64-na-melhor-promocao-ja-encontrada/",
@@ -4322,6 +4552,22 @@
   "publicado": "2026-10-15T19:20:08+00:00",
   "coletado_em": "2026-10-17T05:32:17.030587+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-lightbulb-moment-che.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c11041f48f35",
+  "titulo": "Guest Post: AI Infrastructure Investment and the Future of Quantum Computing",
+  "url": "https://thequantuminsider.com/2026/10/17/ai-infrastructure-investment-future-quantum-computing/",
+  "resumo": "Guest Post By George Varghese, Head of Investment, 0G Labs We’re witnessing one of the largest infrastructure investment cycles in modern technology, and I believe we’re still early in understanding its economic potential. AI has already changed how companies think about computing, with enormous investment flowing into GPUs, data centres, energy infrastructure and models. As […]",
+  "fonte": "The Quantum Insider",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-10-17T07:00:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.647564+00:00",
+  "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_18-07.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -4429,8 +4675,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-16T16:12:21+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -4446,8 +4692,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "software",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-16T19:24:57+00:00",
   "coletado_em": "2026-10-17T05:32:17.036601+00:00",
@@ -4674,8 +4920,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
-   "astrofisica"
+   "astrofisica",
+   "hardware"
   ],
   "publicado": "2026-10-16T13:59:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -4828,6 +5074,22 @@
   "cobertura": []
  },
  {
+  "id": "d531b4627c52",
+  "titulo": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
+  "url": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
+  "resumo": "A research team at The Hong Kong University of Science and Technology (HKUST) has developed an Embodied Sensorimotor Robotic Arm (EmArm) capable of whole-arm tactile sensing and adaptive manipulation. By embedding a soft optical tactile skin directly into a robotic skeleton and integrating it with a real-time decision-making algorithm, EmArm can perceive and analyze contact information across its upper and lower arms, enabling human-like tactile perception and adaptive object manipulation. The system can also distinguish between different touch interactions, such as tickling and patting, respond in real time and avoid obstacles through tactile feedback, opening new possibilities for the development of embodied intelligent robots.",
+  "fonte": "Tech Xplore",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "robotica"
+  ],
+  "publicado": "2026-10-17T11:00:13+00:00",
+  "coletado_em": "2026-10-17T11:33:42.643190+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-develops-embodied.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "d53e2a9fc356",
   "titulo": "Newly discovered viruses reveal an evolutionary missing link",
   "url": "https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html",
@@ -4921,6 +5183,23 @@
   "publicado": "2026-10-16T12:46:50+00:00",
   "coletado_em": "2026-10-17T05:32:17.011148+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d94cefaf77ca",
+  "titulo": "Modder finishes nine-year Xbox 360 voltage glitch mod with a $4 microcontroller, cracks the console open",
+  "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography",
+  "resumo": "Modder glitch-hacks his Xbox 360 with the help of a $4 microcontroller — operation shows the power of the Rasperry Pi Pico",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-17T11:00:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.645033+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/8DAK5ZNFPis5MqQgWD9BZo-1920-80.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -5030,10 +5309,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
+   "ciberseguranca",
    "computadores_pessoais",
-   "inteligencia_artificial",
-   "ciberseguranca"
+   "hardware",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-16T19:05:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -5102,6 +5381,22 @@
   "publicado": "2026-10-16T14:58:44+00:00",
   "coletado_em": "2026-10-17T05:32:17.031134+00:00",
   "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2025/02/20250203_ayahuasca-1024x538.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e219a22d730b",
+  "titulo": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
+  "url": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "Amazon has acquired DuckLabs, the company behind the analytical database DuckDB. Co-founders Hannes Mühleisen and Mark Raasveldt will continue to lead the team under AWS. The acquisition aims to enhance the development and reach of DuckDB while maintaining its open-source status. Amazon Aurora PostgreSQL gets its first DuckDB-powered feature following the acquisition. By Gianmarco Nalin",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-17T06:00:00+00:00",
+  "coletado_em": "2026-10-17T11:33:42.643527+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/10/amazon-acquires-ducklabs/en/headerimage/generatedHeaderImage-1792158812926.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -5177,8 +5472,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-16T18:00:09+00:00",
   "coletado_em": "2026-10-17T05:32:17.041149+00:00",
@@ -5274,9 +5569,9 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
    "astrofisica",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-10-16T19:05:53+00:00",
   "coletado_em": "2026-10-17T05:32:17.036601+00:00",
