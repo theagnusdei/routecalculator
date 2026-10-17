@@ -1,0 +1,711 @@
+{
+  "medicina": [
+    {
+      "id": "a96bd29b4551",
+      "titulo": "Brain PET scans help select and monitor patients for new Alzheimer's drugs",
+      "url": "https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+      "resumo": "Nuclear medicine is playing an increasingly important role in the diagnosis and treatment of Alzheimer's disease, helping clinicians visualize the biological changes associated with the condition and guide decisions about new therapies. Amyloid PET imaging is being used to confirm the presence of amyloid pathology and support treatment decisions for patients receiving anti-amyloid drugs, while tau PET scans can provide additional information about disease progression and prognosis.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-17T00:40:02+00:00",
+      "coletado_em": "2026-10-17T05:32:17.011535+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-scan.jpg",
+      "score": 5.532,
+      "cobertura": []
+    },
+    {
+      "id": "3af647178034",
+      "titulo": "Anesthesia choice makes no difference for patient recovery after major surgery, landmark UK trial finds",
+      "url": "https://medicalxpress.com/news/2026-10-anesthesia-choice-difference-patient-recovery.html",
+      "resumo": "Choice of general anesthetic for major surgery can continue to be based on patient and clinician preference, according to the largest-ever trial comparing the two main techniques used in the NHS.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-17T12:00:08+00:00",
+      "coletado_em": "2026-10-17T12:58:52.502438+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/anesthesia-mask.jpg",
+      "score": 5.44,
+      "cobertura": []
+    },
+    {
+      "id": "adc710a9c539",
+      "titulo": "STAT+: RevMed’s pancreatic cancer drug nears European approval",
+      "url": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
+      "resumo": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-16T13:38:22+00:00",
+      "coletado_em": "2026-10-17T05:32:17.012387+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/08/Revmed_campus2-1024x576.jpg",
+      "score": 5.369,
+      "cobertura": []
+    },
+    {
+      "id": "9e686c543495",
+      "titulo": "A blood-pressure drug may activate health-promoting brown fat",
+      "url": "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+      "resumo": "Large retrospective study suggests the tissue deters more than cardiovascular disease.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-10-17T05:32:17.010325+00:00",
+      "imagem_feed": null,
+      "score": 5.0,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "7baad6bee4fb",
+      "titulo": "Optical imaging links altered metabolism and oxygen use in Alzheimer's disease",
+      "url": "https://phys.org/news/2026-10-optical-imaging-links-metabolism-oxygen.html",
+      "resumo": "Alzheimer's disease is best known for its effects on memory and cognition, but the disease also involves changes in how brain cells produce and use energy. Mitochondria, the structures that supply much of a cell's energy, can become dysfunctional in Alzheimer's disease. At the same time, changes in blood flow and oxygen availability may place additional demands on brain tissue. Understanding how these processes interact could help researchers characterize metabolic changes that accompany the disease.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-17T08:16:41+00:00",
+      "coletado_em": "2026-10-17T11:33:42.640714+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-imaging-links.jpg",
+      "score": 4.574,
+      "cobertura": []
+    },
+    {
+      "id": "d53e2a9fc356",
+      "titulo": "Newly discovered viruses reveal an evolutionary missing link",
+      "url": "https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html",
+      "resumo": "Researchers at the University of Miami have identified a group of previously unknown viruses that bridge an evolutionary gap between viruses and cellular protein compartments, a discovery with implications for both biotechnology and scientists' understanding of the origins of life.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-15T23:40:10+00:00",
+      "coletado_em": "2026-10-17T05:32:17.012935+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-virus.jpg",
+      "score": 4.282,
+      "cobertura": []
+    },
+    {
+      "id": "d7048d9a5842",
+      "titulo": "Molecular snapshots reveal how viral enzymes switch between inserting and removing DNA",
+      "url": "https://phys.org/news/2026-10-molecular-snapshots-reveal-viral-enzymes.html",
+      "resumo": "Bacteriophages, or viruses that infect bacteria, have a fiendishly simple purpose in life: attach to a bacterial cell, inject their DNA and then use the host's genetic machinery to reproduce. In doing so, they may have evolved some of the most efficient gene-editing tools ever seen in nature.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-15T21:00:01+00:00",
+      "coletado_em": "2026-10-17T05:32:17.012935+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-capture-how.jpg",
+      "score": 4.249,
+      "cobertura": []
+    },
+    {
+      "id": "9c0ac71272ba",
+      "titulo": "Targeting the cell cycle for cancer therapy: From the discovery of CDK9 to precision medicine and beyond",
+      "url": "https://phys.org/news/2026-10-cell-cancer-therapy-discovery-cdk9.html",
+      "resumo": "More than 30 years after the direct connection was established between the molecular machinery controlling cell division and cancer, a new paper traces the evolution of cyclin-dependent kinase research and outlines the next generation of CDK-targeted therapies.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-15T20:40:01+00:00",
+      "coletado_em": "2026-10-17T05:32:17.012935+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/cancer-1.jpg",
+      "score": 4.245,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "507a01c72df1",
+      "titulo": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+      "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+      "resumo": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist. The post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-17T12:30:55+00:00",
+      "coletado_em": "2026-10-17T12:58:52.505840+00:00",
+      "imagem_feed": null,
+      "score": 5.347,
+      "cobertura": []
+    },
+    {
+      "id": "b8f4f36ff32f",
+      "titulo": "Video Friday: When Two Robots Become One",
+      "url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+      "resumo": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! When one robot loves another robot very much, and they’re connected by a wire, they can get together and make a brand new robot! SFW. [ JSK Lab ] What happens when Microducks meet? They start to sing together. Each Microduck syncs with its neighbors over Bluetooth, then they compose a song on the fly, in harmony and in perfect time. There’s no score and no conductor. Two, three, or four ducks are enough for a choir to break out. If Pollen isn’t selling Microducks in four packs for this exact reason, WHAT ARE THEY EVEN DOING!? [ Pollen ] In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing cornhole. Using its video understanding and advanced reasoning capabilities, Gemini 4 built a virtual simulation in MuJoCo and accurately calculated the physics and whole-body con",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-16T16:30:02+00:00",
+      "coletado_em": "2026-10-17T05:32:17.014814+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/two-small-robots-with-long-limbs-and-bodies-linked-by-a-wire-join-connect-to-form-one-four-wheeled-robot-on-a-paved-pathway.gif?id=68443843&width=980",
+      "score": 5.263,
+      "cobertura": []
+    },
+    {
+      "id": "d531b4627c52",
+      "titulo": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
+      "url": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
+      "resumo": "A research team at The Hong Kong University of Science and Technology (HKUST) has developed an Embodied Sensorimotor Robotic Arm (EmArm) capable of whole-arm tactile sensing and adaptive manipulation. By embedding a soft optical tactile skin directly into a robotic skeleton and integrating it with a real-time decision-making algorithm, EmArm can perceive and analyze contact information across its upper and lower arms, enabling human-like tactile perception and adaptive object manipulation. The system can also distinguish between different touch interactions, such as tickling and patting, respond in real time and avoid obstacles through tactile feedback, opening new possibilities for the development of embodied intelligent robots.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-17T11:00:13+00:00",
+      "coletado_em": "2026-10-17T11:33:42.643190+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-develops-embodied.jpg",
+      "score": 4.834,
+      "cobertura": []
+    },
+    {
+      "id": "4ac09022ebd8",
+      "titulo": "Robô bate recorde de distância em Marte, Starship volta à base e Lua se afasta da Terra",
+      "url": "https://olhardigital.com.br/2026/10/17/ciencia-e-espaco/robo-bate-recorde-de-distancia-em-marte-starship-volta-a-base-e-lua-se-afasta-da-terra/",
+      "resumo": "E teve muito mais – confira as notícias que foram destaque esta semana em Ciência e Espaço no Olhar Digital! O post Robô bate recorde de distância em Marte, Starship volta à base e Lua se afasta da Terra apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "robotica",
+        "astrofisica"
+      ],
+      "publicado": "2026-10-17T12:00:00+00:00",
+      "coletado_em": "2026-10-17T12:58:52.524582+00:00",
+      "imagem_feed": null,
+      "score": 4.34,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "5942e9aa1aa0",
+      "titulo": "Microsoft se rende e lança antivírus do Windows para Linux",
+      "url": "https://canaltech.com.br/software/microsoft-se-rende-e-lanca-antivirus-do-windows-para-linux/",
+      "resumo": "A Microsoft anunciou a chegada do seu antivírus Defender aos computadores com Linux. A novidade, divulgada na quarta-feira (14), permite que empresas utilizem a ferramenta de segurança da criadora do Windows em desktops com sistemas como Ubuntu, Debian e Fedora. O recurso já está disponível em versão de testes. Segundo a empresa, a expansão do Microsoft Defender for Endpoint tem como principal público os desenvolvedores e profissionais de tecnologia que utilizam Linux no trabalho. A ferramenta permite identificar ameaças, monitorar atividades suspeitas e proteger computadores que possuem acesso a informações corporativas. Apesar da novidade, o Defender já funcionava em servidores Linux desde 2020. A mudança anunciada agora amplia oficialmente o suporte para computadores de trabalho, permitindo que empresas adotem a mesma solução de segurança em diferentes sistemas operacionais. O que o antivírus da Microsoft faz no Linux? A nova versão do Defender oferece ferramentas semelhantes às utilizadas pela Microsoft para proteger computadores com Windows e servidores Linux. Entre os recursos estão a identificação de vírus e outros programas maliciosos, a detecção de comportamentos suspeitos",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "software"
+      ],
+      "publicado": "2026-10-16T20:01:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.041149+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2RaqW3ioK2LGPF_TtdF62UmO-lI=/0x0/filters:format(webp):quality(85)/59608f9b-69bb-45a3-b63c-c7278587d984.png",
+      "score": 5.351,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/mais-microsoft-no-linux-antivirus-defender-chega-aos-desktops/"
+      ]
+    },
+    {
+      "id": "67357e8f3303",
+      "titulo": "Chainguard Launches Secure Workspaces and Checks for AI Coding Agents",
+      "url": "https://www.infoq.com/news/2026/10/chainguard-workspaces-checks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Software supply chain security company Chainguard has announced two beta products for running and testing code written by developers and AI agents. Chainguard Workspaces provides remote development environments based on hardened microVMs, while Chainguard Checks moves continuous integration into the development loop. The company announced both products at its Assemble London event. By Matt Saunders",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-16T09:00:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.015779+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/chainguard-workspaces-checks/en/headerimage/generatedHeaderImage-1792079610138.jpg",
+      "score": 4.597,
+      "cobertura": []
+    },
+    {
+      "id": "2e7686d2c76a",
+      "titulo": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
+      "url": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering tools like Ghidra, Hopper, and IDA. The project lets developers inspect compiled binaries, trace function calls, and investigate how applications implement specific features. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-17T06:28:00+00:00",
+      "coletado_em": "2026-10-17T11:33:42.643527+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/reverse-engineer-anything/en/headerimage/generatedHeaderImage-1791736473714.jpg",
+      "score": 4.573,
+      "cobertura": []
+    },
+    {
+      "id": "a054c667e995",
+      "titulo": "Meta libera os pesos do Muse Spark Open para rodar em Macs",
+      "url": "https://canaltech.com.br/inteligencia-artificial/meta-libera-os-pesos-do-muse-spark-open-para-rodar-em-macs/",
+      "resumo": "A Meta liberou os pesos do Muse Spark Open , modelo de inteligência artificial focado em programação e tarefas autônomas executadas por agentes de IA. A novidade está disponível para download e acesso por API, Os desenvolvedores interessados podem executar o sistema localmente com dois computadores Mac Studio equipados com chips Apple M5 Ultra. O Muse Spark Open tem 816 bilhões de parâmetros , valores numéricos que ajudam a IA a identificar padrões e gerar respostas. Desse total, 42 bilhões são ativados durante o processamento de cada tarefa. O modelo também tem uma janela de contexto de 1 milhão de tokens , que define a quantidade de informações que consegue considerar em uma interação. A arquitetura multimodal foi desenvolvida para lidar com tarefas complexas de engenharia de software, raciocínio em várias etapas e fluxos de trabalho prolongados. A execução local em Macs utiliza a biblioteca MLX e a memória unificada dos chips M5 Ultra. Cada Mac Studio pode ter até 512 GB de memória compartilhada entre o processador e a GPU. Como o Muse Spark Open precisa de cerca de 1 TB de memória para carregar todos os seus parâmetros, são necessários dois computadores trabalhando em conjunto ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-16T22:08:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.041149+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/hH1N3gz9A8DaUg7s-fo5m4xQ6kQ=/0x0/filters:format(webp):quality(85)/dc48c016-3680-45a0-bec6-c7a36f8390b2.jpg",
+      "score": 4.448,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "a0b08808ed19",
+      "titulo": "Taiwan targets illicit AI server exports to China with five-year prison terms",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+      "resumo": "Taiwan is expanding the Foreign Trade Act to include AI servers and semiconductors in its list of controlled exports.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-17T12:20:00+00:00",
+      "coletado_em": "2026-10-17T12:58:52.507829+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e-1920-80.png",
+      "score": 5.127,
+      "cobertura": []
+    },
+    {
+      "id": "a054c667e995",
+      "titulo": "Meta libera os pesos do Muse Spark Open para rodar em Macs",
+      "url": "https://canaltech.com.br/inteligencia-artificial/meta-libera-os-pesos-do-muse-spark-open-para-rodar-em-macs/",
+      "resumo": "A Meta liberou os pesos do Muse Spark Open , modelo de inteligência artificial focado em programação e tarefas autônomas executadas por agentes de IA. A novidade está disponível para download e acesso por API, Os desenvolvedores interessados podem executar o sistema localmente com dois computadores Mac Studio equipados com chips Apple M5 Ultra. O Muse Spark Open tem 816 bilhões de parâmetros , valores numéricos que ajudam a IA a identificar padrões e gerar respostas. Desse total, 42 bilhões são ativados durante o processamento de cada tarefa. O modelo também tem uma janela de contexto de 1 milhão de tokens , que define a quantidade de informações que consegue considerar em uma interação. A arquitetura multimodal foi desenvolvida para lidar com tarefas complexas de engenharia de software, raciocínio em várias etapas e fluxos de trabalho prolongados. A execução local em Macs utiliza a biblioteca MLX e a memória unificada dos chips M5 Ultra. Cada Mac Studio pode ter até 512 GB de memória compartilhada entre o processador e a GPU. Como o Muse Spark Open precisa de cerca de 1 TB de memória para carregar todos os seus parâmetros, são necessários dois computadores trabalhando em conjunto ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-16T22:08:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.041149+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/hH1N3gz9A8DaUg7s-fo5m4xQ6kQ=/0x0/filters:format(webp):quality(85)/dc48c016-3680-45a0-bec6-c7a36f8390b2.jpg",
+      "score": 4.948,
+      "cobertura": []
+    },
+    {
+      "id": "85693a78b717",
+      "titulo": "Leap seconds being retired next year to avoid wreaking havoc on computer systems",
+      "url": "https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking",
+      "resumo": "The leap second will be replaced by a leap hour, which will take \"several centuries\" before it must be implemented.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-17T12:40:00+00:00",
+      "coletado_em": "2026-10-17T12:58:52.507829+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/mK5eoUF73A9Kph4TsFTiq8-1920-80.png",
+      "score": 4.664,
+      "cobertura": []
+    },
+    {
+      "id": "2255ef608f28",
+      "titulo": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought",
+      "resumo": "GPT5.6-Sol didn't have funds to deploy smart contracts, so it looked for exposed accounts with enough money to pay for the gas fees.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-17T12:00:00+00:00",
+      "coletado_em": "2026-10-17T12:58:52.507829+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/hsZx5kEavBi3nnzHpf7DvC-1920-80.jpg",
+      "score": 4.59,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "b1fc4be8b8b4",
+      "titulo": "NASA’s Hubble Spies Spiral’s Edge",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+      "resumo": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-16T12:42:08+00:00",
+      "coletado_em": "2026-10-17T05:32:17.018198+00:00",
+      "imagem_feed": null,
+      "score": 5.492,
+      "cobertura": [
+        "https://phys.org/news/2026-10-nasa-hubble-spies-spiral-edge.html"
+      ]
+    },
+    {
+      "id": "580a5d3a1be7",
+      "titulo": "NASA's Hubble spies spiral's edge",
+      "url": "https://phys.org/news/2026-10-nasa-hubble-spies-spiral-edge.html",
+      "resumo": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way–like host galaxies within a radius of about 32 million light-years from Earth. Hubble has already observed 111 of these satellite galaxies. The remaining galaxies will take an additional 149 Hubble orbits, one orbit for each galaxy, to observe.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-16T17:40:08+00:00",
+      "coletado_em": "2026-10-17T05:32:17.018697+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-edge-on-spiral-gala-1.jpg",
+      "score": 5.205,
+      "cobertura": [
+        "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/"
+      ]
+    },
+    {
+      "id": "8abbe85c6ef0",
+      "titulo": "Shredded star reveals a massive black hole wandering far from its galaxy's center",
+      "url": "https://phys.org/news/2026-10-shredded-star-reveals-massive-black.html",
+      "resumo": "Astronomers have discovered a star being torn apart by a massive black hole more than 1,000 parsecs from the center of its host galaxy. The tidal disruption event, TDE 2023mfm, was first discovered by ZTF and then studied with a wide range of telescopes, including Keck, Lick, Hubble, Swift, Chandra, XMM-Newton and the VLA. The discovery paper was posted to the arXiv preprint server on Sept. 28.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-16T13:20:17+00:00",
+      "coletado_em": "2026-10-17T05:32:17.018697+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-stellar-feast-reveal.jpg",
+      "score": 5.06,
+      "cobertura": []
+    },
+    {
+      "id": "61648c3a02f7",
+      "titulo": "New 3D model reveals how shadows reshape chemistry in stellar nurseries",
+      "url": "https://phys.org/news/2026-10-3d-reveals-shadows-reshape-chemistry.html",
+      "resumo": "How do young stars reshape the clouds from which they are born? A new high-resolution 3D model developed by an international team led by Dr Brandt Gaches from the University of Duisburg-Essen shows how the uneven structure of stellar nurseries creates shadows that alter their chemistry and influence the infrared emission observed by the James Webb Space Telescope. The model has now been published in Astronomy & Astrophysics.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-16T22:40:04+00:00",
+      "coletado_em": "2026-10-17T05:32:17.018697+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-3d-model-reveals-h.jpg",
+      "score": 4.925,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "5f17d02876eb",
+      "titulo": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+      "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+      "resumo": "Insider Brief A team of researchers from Anthropic and Harvard used an artificial intelligence (AI) system to design quantum circuits that require fewer operations and qubits, potentially lowering the hardware demands of useful quantum computing. The researchers, who posted their work on the preprint server arXiv, tested the approach on eight computational building blocks used […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-17T08:11:10+00:00",
+      "coletado_em": "2026-10-17T11:33:42.647564+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+      "score": 5.716,
+      "cobertura": []
+    },
+    {
+      "id": "5d8bd040a0e2",
+      "titulo": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
+      "url": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
+      "resumo": "Quantum computers represent a next step in the fast-paced evolution of technology. Using quantum bits (qubits), they have the potential to run certain calculations exponentially faster than conventional computers. However, developing and fine-tuning quantum computers requires an enormous number of repetitive tests. To accelerate quantum technology development, we need a method that can read quantum states at ultrafast speeds.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-16T22:00:01+00:00",
+      "coletado_em": "2026-10-17T05:32:17.020215+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-high-frequency-met.jpg",
+      "score": 5.392,
+      "cobertura": []
+    },
+    {
+      "id": "43daddac9307",
+      "titulo": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
+      "url": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
+      "resumo": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose accuracy when several qubits are under parallel control. To be useful, quantum computers will need to operate many qubits simultaneously without compromising the accuracy of their operations.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-15T21:20:05+00:00",
+      "coletado_em": "2026-10-17T05:32:17.020215+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-path-toward-larger-q.jpg",
+      "score": 4.753,
+      "cobertura": []
+    },
+    {
+      "id": "bb62728d2499",
+      "titulo": "Robert Wille (Munich Quantum Software Company): Quantum software needs design automation, not just algorithms",
+      "url": "https://thequantuminsider.com/2026/10/17/robert-wille-munich-quantum-software-company-quantum-software-needs-design-automation-not-just-algorithms/",
+      "resumo": "Yuval interviews Robert Wille, a computer scientist and co-founder focused on quantum computing software. They discuss the field’s transition from research to practical deployment, the need for heterogeneous and hardware-agnostic software stacks, and the integration of quantum into HPC environments. Robert explains the importance of design automation, open-source strategy, and AI-assisted development, arguing that quantum’s […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-17T07:40:00+00:00",
+      "coletado_em": "2026-10-17T11:33:42.647564+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/07/wille.jpg",
+      "score": 4.671,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "975799ced465",
+      "titulo": "Dell’s business laptop drops from $1,099 to $265",
+      "url": "https://www.pcworld.com/article/3262781/dells-business-laptop-drops-from-1099-to-265.html",
+      "resumo": "TL;DR: A grade A refurbished Dell Latitude 5420 with an 11th Gen i5, 8GB RAM, 256GB SSD, and Windows 11 Pro is $264.99 (MSRP $1,099). Limited inventory available. A brand-new business laptop with Windows 11 Pro, Thunderbolt 4, and an 11th Gen Intel processor usually costs north of $800. But if you don’t mind a refurbished model, this near-mint Dell Latitude 5420 brings all of that down to $264.99 (MSRP $1,099). The only “catch” is that inventory is limited, so order ASAP. An 11th Gen Core i5-1135G7 runs at 2.4GHz and turbo-boosts to 4.2GHz, so spreadsheets, browser tabs, and video calls don’t compete for processing power. RAM is 8GB DDR4-3200, and the board supports up to 32GB if you want to upgrade later. Storage is a 256GB PCIe NVMe SSD. Boot times and application launches are fast , though heavy media libraries or large project folders may need an external drive. A 14-inch Full HD anti-glare display keeps text sharp and readable without the glare that makes glossy screens hard to use near a window. Two Thunderbolt 4 ports, two USB 3.2 ports, and HDMI 2.0 give enough connectivity for a monitor, a dock, and peripherals without running out of slots. Wi-Fi 6 and Bluetooth 5.0 are bo",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-17T08:00:00+00:00",
+      "coletado_em": "2026-10-17T11:33:42.649214+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3262781-0-72062800-1792224018-Dell-Latitude.jpg?quality=50&strip=all",
+      "score": 5.7,
+      "cobertura": []
+    },
+    {
+      "id": "2c7b70396350",
+      "titulo": "Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
+      "resumo": "Microsoft’s Surface Laptop Ultra is its most beautiful laptop ever, but using Windows on it is the same as ever. Only AI enthusiasts will get the most out of RTX Spark.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-16T12:00:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.017397+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-1920-80.jpg",
+      "score": 5.672,
+      "cobertura": [
+        "https://www.pcworld.com/article/3258665/microsoft-surface-laptop-ultra-review.html"
+      ]
+    },
+    {
+      "id": "85693a78b717",
+      "titulo": "Leap seconds being retired next year to avoid wreaking havoc on computer systems",
+      "url": "https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking",
+      "resumo": "The leap second will be replaced by a leap hour, which will take \"several centuries\" before it must be implemented.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-17T12:40:00+00:00",
+      "coletado_em": "2026-10-17T12:58:52.507829+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/mK5eoUF73A9Kph4TsFTiq8-1920-80.png",
+      "score": 4.664,
+      "cobertura": []
+    },
+    {
+      "id": "31dfe0993f0e",
+      "titulo": "First Surface Laptop Ultra reviews: a promising but pricey MacBook Pro rival",
+      "url": "https://www.techspot.com/products/laptops/microsoft-surface-laptop-ultra.330954/",
+      "resumo": "Microsoft Surface Laptop Ultra reviews have landed with a mixed verdict. Powered by RTX Spark, the premium Arm laptop earns praise for its MacBook-like build quality, AI capabilities, and versatility. However, its steep price, modest battery life, and Windows software limitations keep it from fully delivering on its ambitious promises. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-16T18:50:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.026446+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-16-ts3_thumbs-1ef.jpg",
+      "score": 4.601,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "9992b438685f",
+      "titulo": "Como e por que a inteligência artificial consegue burlar regras?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
+      "resumo": "Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de tecnologia conseguiram contornar restrições, acessar sistemas sem autorização e realizar ações que seus próprios desenvolvedores não haviam previsto. Em vários desses casos, a IA recebeu apenas um objetivo a ser cumprido . As instruções não explicavam como a tarefa deveria ser realizada, deixando os detalhes por conta do próprio sistema. Ao encontrar obstáculos, alguns agentes buscaram outros caminhos para continuar a execução, inclusive ultrapassando limites de segurança. Isso não significa que a IA tenha noção do que é certo e errado. Os modelos seguem objetivos, instruções e regras definidos pelos desenvolvedores. Quando essas regras não cobrem todas as situações possíveis, porém, o agente pode encontrar brechas e escolher um caminho que não havia sido previsto. O risco aumenta quando esses sistemas operam fora de ambientes controlados e conseguem navegar na internet, executar códigos, acessar bancos de dados e interagir com serviços reais. A capacidade de encontrar soluções inesperadas, antes vista como uma ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-17T11:30:00+00:00",
+      "coletado_em": "2026-10-17T11:33:42.667439+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "score": 5.936,
+      "cobertura": []
+    },
+    {
+      "id": "ebe0d051d207",
+      "titulo": "Review EA FC 27 | Simulador quer mostrar que há vida além do Ultimate Team",
+      "url": "https://canaltech.com.br/games/review-ea-fc-27/",
+      "resumo": "EA Sports FC 27 é a nova versão do famoso simulador de futebol, disponível para PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series S|X, Nintendo Switch e Nintendo Switch 2. O antigo FIFA volta à cena encabeçado pelo The Grounds , novo modo em mundo aberto para socializar com outros jogadores e participar de minigames exclusivos. Os principais clubes e jogadores do mundo agora dividem espaço com uma cidade virtual com lojas para personalizar o visual do seu avatar, eventos temporários e aparições de craques da vida real. Por outro lado, o modo Carreira foi revitalizad o com transferências mais realistas. As novidades revelam uma tentativa da EA Sports de oferecer alternativas ao Ultimate Team , popular modo de jogo com base em cartas especiais. Afinal, EA FC 27 é um golaço para os fãs da franquia ou um pênalti para fora? Prós Modos de jogo atualizados Ajustes na movimentação da IA do jogo Retorno de elencos brasileiros Contras Preço por uma fórmula repetida Novo modo The Grounds depende de engajamento Troque as chuteiras pelos tênis O modo The Grounds tenta seguir um modelo popularizado pela franquia NBA 2K de um mundo aberto dentro de um simulador de esportes . É um espaço par",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-17T12:30:04+00:00",
+      "coletado_em": "2026-10-17T12:58:52.529404+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/606iQEOQpWB0ZTT9AhhoPmdLeoY=/0x0/filters:format(webp):quality(85)/049953ed-b66b-4df1-abb7-2d9eb4697e4d.jpg",
+      "score": 5.045,
+      "cobertura": []
+    },
+    {
+      "id": "a054c667e995",
+      "titulo": "Meta libera os pesos do Muse Spark Open para rodar em Macs",
+      "url": "https://canaltech.com.br/inteligencia-artificial/meta-libera-os-pesos-do-muse-spark-open-para-rodar-em-macs/",
+      "resumo": "A Meta liberou os pesos do Muse Spark Open , modelo de inteligência artificial focado em programação e tarefas autônomas executadas por agentes de IA. A novidade está disponível para download e acesso por API, Os desenvolvedores interessados podem executar o sistema localmente com dois computadores Mac Studio equipados com chips Apple M5 Ultra. O Muse Spark Open tem 816 bilhões de parâmetros , valores numéricos que ajudam a IA a identificar padrões e gerar respostas. Desse total, 42 bilhões são ativados durante o processamento de cada tarefa. O modelo também tem uma janela de contexto de 1 milhão de tokens , que define a quantidade de informações que consegue considerar em uma interação. A arquitetura multimodal foi desenvolvida para lidar com tarefas complexas de engenharia de software, raciocínio em várias etapas e fluxos de trabalho prolongados. A execução local em Macs utiliza a biblioteca MLX e a memória unificada dos chips M5 Ultra. Cada Mac Studio pode ter até 512 GB de memória compartilhada entre o processador e a GPU. Como o Muse Spark Open precisa de cerca de 1 TB de memória para carregar todos os seus parâmetros, são necessários dois computadores trabalhando em conjunto ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-16T22:08:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.041149+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/hH1N3gz9A8DaUg7s-fo5m4xQ6kQ=/0x0/filters:format(webp):quality(85)/dc48c016-3680-45a0-bec6-c7a36f8390b2.jpg",
+      "score": 4.948,
+      "cobertura": []
+    },
+    {
+      "id": "1fbebf009d3b",
+      "titulo": "Quem responde quando um agente de IA toma a decisão errada?",
+      "url": "https://olhardigital.com.br/2026/10/17/colunistas/quem-responde-quando-um-agente-de-ia-toma-a-decisao-errada/",
+      "resumo": "Durante anos, discutimos como gestores deveriam liderar pessoas. Agora surge uma competência completamente nova: liderar sistemas autônomos O post Quem responde quando um agente de IA toma a decisão errada? apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial",
+        "robotica"
+      ],
+      "publicado": "2026-10-17T10:00:00+00:00",
+      "coletado_em": "2026-10-17T11:33:42.662497+00:00",
+      "imagem_feed": null,
+      "score": 4.634,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "566ffdf717f4",
+      "titulo": "É possível fazer \"remap\" em carro elétrico?",
+      "url": "https://canaltech.com.br/carros/e-possivel-fazer-remap-em-carro-eletrico/",
+      "resumo": "O chamado remap automotivo (prática de reprogramar parâmetros eletrônicos para extrair mais potência e torque) já é comum em motores a combustão . Quando se trata de carros elétricos , porém, a técnica de \"envenenar\" o carro ainda é novidade e envolve custos mais altos. Segundo o preparador automotivo Ricardinho ACF, que participou de um projeto experimental com o hatch elétrico Geely EX2 no Festival Interlagos 2026, é possível alterar a calibração para aumentar o desempenho sem comprometer os limites originais do motor. No entanto, o processo exige muito mais cuidado e investimento. O especialista contou para a Quatro Rodas que a lógica de ajuste dinâmico é semelhante à dos motores a combustão , mas muda a forma como energia e calor são administrados. Em uso severo de curta duração, como uma bateria de drift de 10 minutos, é possível explorar picos de descarga elétrica para obter ganhos imediatos de torque . Porém, isso aumenta a temperatura do sistema, tornando o gerenciamento térmico o principal gargalo técnico. O que muda no remap de elétricos Assim como no motor a combustão o aumento da pressão do turbo exige intercoolers mais eficientes , no carro elétrico o remap demanda sis",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-17T12:04:00+00:00",
+      "coletado_em": "2026-10-17T12:58:52.529404+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9QPHyMLet6OnCZWD805uof_zn5c=/0x0/filters:format(webp):quality(85)/923799c0-0297-4ab2-862a-d31b4547cef8.jpg",
+      "score": 4.497,
+      "cobertura": []
+    },
+    {
+      "id": "2732fbe45b0d",
+      "titulo": "Upcycled battery materials roughly double cell cycle life in tests",
+      "url": "https://techxplore.com/news/2026-10-upcycled-battery-materials-roughly-cell.html",
+      "resumo": "A new recycling approach developed by Worcester Polytechnic Institute (WPI) researchers could help make battery waste a valuable source of high-performance materials. In a study published in Advanced Energy Materials, a team led by professor Yan Wang, the William B. Smith Professor of Mechanical and Materials Engineering, converted mixed battery waste into upcycled materials for both the cathode and anode and found that the resulting pouch cells outlasted cells made with commercial counterparts.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-16T20:00:07+00:00",
+      "coletado_em": "2026-10-17T05:32:17.030587+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/upcycled-battery-mater.jpg",
+      "score": 4.3,
+      "cobertura": []
+    },
+    {
+      "id": "01a41f7ad047",
+      "titulo": "Self-cooling film for thermal management in AI-era electronic devices",
+      "url": "https://techxplore.com/news/2026-10-cooling-thermal-ai-era-electronic.html",
+      "resumo": "A research team led by professor Seong Kyun Kim of the Department of Physics and Chemistry at DGIST has developed a \"passive cooling film material\" that uses moisture in the air to cool electronic devices—no water or electricity is required.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-16T15:00:01+00:00",
+      "coletado_em": "2026-10-17T05:32:17.030587+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/cooling-without-electr.jpg",
+      "score": 3.612,
+      "cobertura": []
+    },
+    {
+      "id": "d619a94dd14e",
+      "titulo": "Os segredos da tecnologia da BYD no metrô de São Paulo",
+      "url": "https://canaltech.com.br/carros/os-segredos-da-tecnologia-da-byd-no-metro-de-sao-paulo/",
+      "resumo": "A BYD é referência no segmento de carros eletrificados, e isso não é segredo para ninguém. O que talvez poucos saibam é que a montadora chinesa também tem seus \"segredos\" no metrô de uma das capitais mais importantes do Brasil: São Paulo. A Linha 17-Ouro do metrô de SP \"esconde\" uma série de tecnologias que vão muito além dos trens que circulam sobre as vigas elevadas . Desenvolvido pela BYD , o SkyRail combina baterias embarcadas , condução automática e sistemas de controle que trabalham em conjunto para movimentar passageiros pela capital paulista. Parte dessas soluções funciona longe dos olhos de quem utiliza o transporte diariamente. Um dos detalhes mais curiosos está nas baterias Blade , tecnologia criada pela fabricante chinesa para seus veículos eletrificados e adaptada ao monotrilho. Embora a composição utilize a rede elétrica durante a operação normal, o armazenamento de energia permite que o trem continue se deslocando em situações de emergência . A proposta é evitar que uma falha no fornecimento elétrico deixe passageiros parados em um trecho elevado. Baterias Blade agem em casos de emergência Ao contrário do que pode parecer, as baterias embarcadas no SkyRail não foram ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-16T22:08:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.041149+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/VzR25D4axj5iHERRE-swv018ZXI=/0x0/filters:format(webp):quality(85)/05984459-3e5a-40db-a4ce-ec0ea8590990.jpg",
+      "score": 3.448,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "e0079ed5280b",
+      "titulo": "Intel se prepara para contra-atacar a AMD com sua versão do 3D V-Cache",
+      "url": "https://canaltech.com.br/hardware/intel-se-prepara-para-contra-atacar-a-amd-com-sua-versao-do-3d-v-cache/",
+      "resumo": "Os processadores AMD Ryzen com a tecnologia X3D têm dominado o cenário gamer nos PCs e isso é inegável. Já vimos listas de CPUs mais vendidas quase todas preenchidas por esses modelos . Mas a Intel não está parada e já trabalha para bater de frente com a geração Nova Lake e sua tecnologia bLLC (big last-level cache), o equivalente ao 3D V-Cache da AMD . Um novo vazamento vindo do leaker LC Tech Leaks mostra que a nova geração de CPUs do Time Azul chegará com sete modelos diferentes , indo do Core Ultra 5 ao Core Ultra 9 e entregando entre 18 e 28 núcleos (e nada de mais de 50 núcleos nessa lista ). Essa lista menciona modelos com a tecnologia bLLC , que é a saída da Intel para brigar contra os Ryzen X3D da AMD em termos de quantidade de cache L3. Os modelos Core Ultra 9 4970K, Core Ultra 9 4970 BFC e Core Ultra 7 4870K BFC serão equipados com essa tecnologia. Ou seja, não será todo o lineup oferecendo o recurso, assim como acontece com os AMD Ryzen também. Nova nomenclatura e até 144 MB de cache O vazamento indica que a Intel passará a adotar uma numeração de quatro dígitos na família Core Ultra 4000 para desktop. O maior destaque está no sufixo \"BFC\" , que deve ser a identificação",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca",
+        "computadores_pessoais",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-16T19:05:00+00:00",
+      "coletado_em": "2026-10-17T05:32:17.041149+00:00",
+      "imagem_feed": null,
+      "score": 3.011,
+      "cobertura": []
+    }
+  ]
+}

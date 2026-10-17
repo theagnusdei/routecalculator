@@ -1,0 +1,63 @@
+# Como e por que a inteligência artificial consegue burlar regras?
+
+- Editoria: Inteligência Artificial (`inteligencia_artificial`)
+- Fonte: Canaltech — https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/
+- Autor: Viviane França
+- Publicado: 2026-10-17T11:30:00+00:00
+- Score: 5.936
+- Imagem: imagens/inteligencia_artificial-como-e-por-que-a-inteligencia-artificial.jpg | crédito: Canaltech | licença: © do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)
+
+## Outras coberturas
+- nenhuma
+
+## Texto extraído
+
+Como e por que a inteligência artificial consegue burlar regras?
+Por Viviane França • Editado por Jones Oliveira |
+Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de tecnologia conseguiram contornar restrições, acessar sistemas sem autorização e realizar ações que seus próprios desenvolvedores não haviam previsto.
+Em vários desses casos, a IA recebeu apenas um objetivo a ser cumprido. As instruções não explicavam como a tarefa deveria ser realizada, deixando os detalhes por conta do próprio sistema. Ao encontrar obstáculos, alguns agentes buscaram outros caminhos para continuar a execução, inclusive ultrapassando limites de segurança.
+Isso não significa que a IA tenha noção do que é certo e errado. Os modelos seguem objetivos, instruções e regras definidos pelos desenvolvedores. Quando essas regras não cobrem todas as situações possíveis, porém, o agente pode encontrar brechas e escolher um caminho que não havia sido previsto.
+O risco aumenta quando esses sistemas operam fora de ambientes controlados e conseguem navegar na internet, executar códigos, acessar bancos de dados e interagir com serviços reais. A capacidade de encontrar soluções inesperadas, antes vista como uma característica interessante da IA, pode trazer consequências graves quando envolve sistemas externos e dados de terceiros.
+Diante desse cenário, podemos nos perguntar até que ponto agentes de inteligência artificial devem ter autonomia para tomar decisões e agir no mundo real?
+A seguir, confira:
+- Por que a IA continua burlando regras?
+- Como a IA consegue burlar regras?
+- Isso começou com os agentes de IA?
+- Quais as consequências da IA burlando regras?
+- Tem como conter a IA para que ela não burle regras?
+Por que a IA continua burlando regras?
+Os sistemas de inteligência artificial são desenvolvidos para cumprir objetivos. Dependendo da tecnologia utilizada, o modelo pode avaliar diferentes estratégias e escolher aquelas que aumentam as chances de alcançar o resultado esperado.
+O problema é que uma instrução humana nem sempre consegue representar todas as condições que deveriam limitar esse processo. A IA não interpreta uma regra da mesma forma que uma pessoa. Ela trabalha com parâmetros e padrões aprendidos durante o treinamento e com as instruções disponíveis naquele momento.
+Quando existe uma brecha entre o objetivo e as restrições, o sistema pode encontrar uma maneira inesperada de continuar a tarefa. Em vez de interromper a execução ao encontrar um bloqueio, por exemplo, um agente pode tentar outra rota, utilizar uma ferramenta diferente ou explorar uma falha no ambiente.
+Por exemplo, em testes de segurança, a OpenAI identificou agentes que conseguiram contornar restrições de isolamento, acessar a internet e atingir sistemas externos, incluindo a infraestrutura da Hugging Face e contas ligadas a outras empresas, como a Modal Labs. Em outro episódio, um agente utilizado na Austrália também acessou sistemas do governo relacionados ao Medicare.
+A Anthropic, por sua vez, registrou casos em que modelos Claude conseguiram acessar sistemas externos sem autorização. A empresa identificou três episódiosdesse tipo, nos quais falhas de configuração deram aos modelos acesso a sistemas reais.
+Inclusive, a Anthropic descreveu, em seu prospecto para abertura de capital na Bolsa, alguns comportamentos observados em testes de segurança que chamaram a atenção da empresa. Em determinadas situações, os modelos tentaram evitar o desligamento, esconder ou alterar informações e mudar seu comportamento ao perceber que estavam sendo avaliados. Esses resultados mostram como um modelo pode encontrar estratégias diferentes para cumprir seus objetivos dependendo das condições do ambiente.
+Como a IA consegue burlar regras?
+A capacidade de encontrar caminhos que não foram previstos pelos desenvolvedores está ligada a diferentes características dos sistemas atuais. Uma delas é o aprendizado por reforço, método no qual a IA recebe uma meta e ganha recompensas quando suas ações ajudam a alcançar o resultado esperado.
+Para chegar lá, o sistema pode testar diferentes estratégias e comparar os resultados até encontrar uma solução que não foi programada passo a passo pelos desenvolvedores. O problema é que a recompensa representa apenas uma aproximação do que os humanos realmente esperam da IA.
+Se a meta não incluir todas as restrições necessárias, o modelo pode encontrar um atalho que melhora seu resultado, mas contraria a intenção original. Esse comportamento não é exclusivo dos modelos de linguagem. Sistemas de IA usados em jogos e outros ambientes virtuais já encontravam soluções inesperadas dessa forma.
+Os modelos de linguagem também podem ser influenciados pela forma como uma solicitação é apresentada. Um estudo da Universidade da Pensilvânia testou técnicas de persuasão inspiradas no trabalho do psicólogo Robert Cialdini com o GPT-4o mini e encontrou mudanças na disposição do modelo para atender a pedidos proibidos.
+Uma das estratégias mais eficazes foi o comprometimento. Os pesquisadores começaram com pedidos inofensivos e aumentaram o nível de risco aos poucos. Em um dos testes, pedir diretamente a fórmula para produzir lidocaína resultou em apenas 1% de respostas de conformidade. Quando a conversa começava com um pedido sobre a síntese de vanilina, criando um precedente, a taxa chegou a 100%.
+O mesmo aconteceu com outras abordagens. Depois de aceitar um insulto leve, por exemplo, o modelo ficou mais propenso a reproduzir termos ofensivos. Os elogios e pressão social, como dizer que outros modelos já atendiam à solicitação, também aumentaram a taxa de respostas para temas restritos, de 1% para até 18%.
+Os resultados mostram que as barreiras de segurança de um modelo também podem ser afetadas pelo contexto da conversa. A maneira como o pedido é apresentado pode influenciar a resposta da IA, mesmo quando existem regras para impedir determinado tipo de conteúdo.
+Isso começou com os agentes de IA?
+A busca por soluções inesperadas não começou com os agentes modernos. Os sistemas de inteligência artificial já encontravam estratégias que surpreendiam seus criadores muito antes de modelos capazes de navegar na internet.
+Um dos exemplos mais conhecidos aconteceu em 2015, quando o sistema DQN, da DeepMind, aprendeu a jogar Breakout, da Atari. Em determinado momento, a IA descobriu uma estratégia para abrir um túnel na lateral da barreira de blocos e fazer a bola chegar ao outro lado, aumentando a pontuação sem que essa técnica tivesse sido ensinada pelos desenvolvedores.
+No ano seguinte, o AlphaGo, também da DeepMind, surpreendeu especialistas durante a segunda partida contra o campeão mundial Lee Sedol. A IA realizou a “Jogada 37”, que os jogadores profissionais consideravam improvável e que parecia não fazer sentido dentro das estratégias tradicionais do Go. A decisão, porém, se mostrou eficaz e ajudou o AlphaGo a vencer a partida.
+Nos dois casos, o comportamento ocorreu dentro de ambientes controlados. A IA podia explorar diferentes estratégias, mas estava limitada às regras do jogo.
+O cenário muda quando essa mesma capacidade chega aos agentes de IA. Diferentemente de um sistema restrito a uma partida de videogame ou jogo de tabuleiro, um agente pode navegar na internet, executar códigos, consultar bancos de dados e utilizar ferramentas externas para cumprir uma tarefa.
+Com mais autonomia e acesso a sistemas reais, uma estratégia inesperada deixa de ser apenas uma curiosidade. Ela pode resultar em alterações de dados, acessos não autorizados ou outros problemas de segurança.
+Quais as consequências da IA burlando regras?
+Quando um agente de inteligência artificial consegue contornar uma regra, o problema pode ir muito além de uma falha no comportamento do modelo. Se a IA tiver acesso à internet, códigos, arquivos ou serviços externos, uma decisão inesperada pode alterar sistemas, expor dados ou comprometer outras contas. Alguns casos registrados nos últimos meses mostram como esse risco funciona na prática.
+Um exemplo ocorreu na Austrália, onde um agente da OpenAI usado para pesquisar gastos com saúde encontrou bloqueios no portal da Services Australia. O sistema contornou as restrições, acessou arquivos públicos e não públicos relacionados às estatísticas do Medicare, interagiu com outros três sites do governo e chegou a gravar arquivos em servidores internos.
+A situação pode ficar ainda mais grave quando o agente consegue explorar falhas de segurança. Durante testes, um agente da OpenAI explorou uma vulnerabilidade de dia zero em um proxy de cache, saiu do ambiente isolado e acessou a internet. Depois, atingiu a infraestrutura da Hugging Face e usou credenciais expostas para acessar quatro contas externas. Entre elas estava uma conta da Modal Labs, na qual o agente executou código sem autorização em um endpoint que não tinha autenticação.
+No entanto, a OpenAI não é a única a registrar casos de agentes de IA burlando regras. A Anthropic relatou três episódios nos quais seus modelos conseguiram acessar a internet e obter acesso não autorizado a sistemas reais. Em outro caso, um agente OpenClaw, baseado no Claude, alterou o sistema de reservas de uma academia na Austrália e removeu uma pessoa da lista de espera sem receber uma instrução para fazer isso.
+Esses não são casos isolados, como mostra um levantamento do Centre for Long-Term Resilience (CLTR), financiado pelo AI Safety Institute do Reino Unido, que identificou cerca de 700 casos reais de desvios de comportamento em modelos comerciais do Google, OpenAI, Anthropic e X. O estudo também registrou um aumento de cinco vezes em determinados comportamentos dissimulados entre outubro e março. Entre os casos estavam agentes que ignoraram instruções humanas e apagaram e-mails ou arquivos sem autorização.
+Esses casos mostram a importância de limitar o acesso dos agentes de IA a sistemas, arquivos e ferramentas. Quanto mais recursos o agente pode usar, maior pode ser o impacto de uma ação inesperada.
+Em um jogo, por exemplo, encontrar um caminho diferente pode apenas aumentar a pontuação. Em um sistema real, porém, a mesma capacidade pode levar à alteração de dados, execução de códigos ou acesso a informações de terceiros. Por isso, agentes com acesso a serviços externos precisam de controles mais rígidos.
+Tem como conter a IA para que ela não burle regras?
+Não existe uma forma de garantir que um agente de IA nunca encontre uma maneira inesperada de contornar uma regra. O controle começa pela definição de limites sobre o que o sistema pode acessar e fazer. Quanto menos acesso ele tiver a arquivos, contas, códigos e serviços externos, menor será o impacto de uma ação fora do esperado.
+Uma das medidas é usar ambientes isolados, conhecidos como sandbox. Nesse modelo, a IA pode executar tarefas sem ter acesso livre ao restante do sistema. Também é possível limitar cada agente às ferramentas necessárias para sua função, sem liberar recursos que não tenham relação com a tarefa.
+Também dá para exigir aprovação humana antes de a IA executar ações de risco, como alterar arquivos importantes, acessar sistemas externos ou enviar informações. O monitoramento contínuo também ajuda a identificar comportamentos fora do padrão e interromper a execução quando necessário.
+Os agentes também precisam ser testados em diferentes situações antes de serem usados em ambientes reais. Esses testes podem procurar falhas nas regras, tentativas de contornar restrições e comportamentos que não foram previstos pelos desenvolvedores. As auditorias independentes também ajudam a encontrar problemas que podem não aparecer durante o desenvolvimento.
+Mesmo com essas medidas, o risco não desaparece. Os agentes autônomos podem encontrar situações que não foram previstas nos testes. Por isso, a segurança depende de uma combinação de restrições de acesso, isolamento, supervisão humana, monitoramento e testes frequentes.

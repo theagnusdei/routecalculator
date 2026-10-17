@@ -633,8 +633,8 @@
   "fonte": "Olhar Digital",
   "peso_fonte": 0.65,
   "categorias": [
-   "robotica",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "robotica"
   ],
   "publicado": "2026-10-17T10:00:00+00:00",
   "coletado_em": "2026-10-17T11:33:42.662497+00:00",
@@ -687,6 +687,23 @@
   "publicado": "2026-10-15T20:04:53+00:00",
   "coletado_em": "2026-10-17T05:32:17.029510+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "2255ef608f28",
+  "titulo": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought",
+  "resumo": "GPT5.6-Sol didn't have funds to deploy smart contracts, so it looked for exposed accounts with enough money to pay for the gas fees.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-17T12:00:00+00:00",
+  "coletado_em": "2026-10-17T12:58:52.507829+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/hsZx5kEavBi3nnzHpf7DvC-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1377,6 +1394,22 @@
   "cobertura": []
  },
  {
+  "id": "3af647178034",
+  "titulo": "Anesthesia choice makes no difference for patient recovery after major surgery, landmark UK trial finds",
+  "url": "https://medicalxpress.com/news/2026-10-anesthesia-choice-difference-patient-recovery.html",
+  "resumo": "Choice of general anesthetic for major surgery can continue to be based on patient and clinician preference, according to the largest-ever trial comparing the two main techniques used in the NHS.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-17T12:00:08+00:00",
+  "coletado_em": "2026-10-17T12:58:52.502438+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/anesthesia-mask.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "3b45f54452ce",
   "titulo": "This could be your last chance to grab an RTX 5090",
   "url": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl",
@@ -1732,6 +1765,23 @@
   "cobertura": []
  },
  {
+  "id": "4ac09022ebd8",
+  "titulo": "Robô bate recorde de distância em Marte, Starship volta à base e Lua se afasta da Terra",
+  "url": "https://olhardigital.com.br/2026/10/17/ciencia-e-espaco/robo-bate-recorde-de-distancia-em-marte-starship-volta-a-base-e-lua-se-afasta-da-terra/",
+  "resumo": "E teve muito mais – confira as notícias que foram destaque esta semana em Ciência e Espaço no Olhar Digital! O post Robô bate recorde de distância em Marte, Starship volta à base e Lua se afasta da Terra apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "robotica",
+   "astrofisica"
+  ],
+  "publicado": "2026-10-17T12:00:00+00:00",
+  "coletado_em": "2026-10-17T12:58:52.524582+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "4bcc93752476",
   "titulo": "No DREAM, fewer offspring: Protein complex may play key role in plant fertility",
   "url": "https://phys.org/news/2026-10-offspring-protein-complex-play-key.html",
@@ -1809,6 +1859,22 @@
   "publicado": "2026-10-16T08:30:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.012387+00:00",
   "imagem_feed": "https://www.statnews.com/wp-content/uploads/2025/07/GettyImages-2208174977-1024x576.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "507a01c72df1",
+  "titulo": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+  "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+  "resumo": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist. The post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies appeared first on The Robot Report .",
+  "fonte": "The Robot Report",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "robotica"
+  ],
+  "publicado": "2026-10-17T12:30:55+00:00",
+  "coletado_em": "2026-10-17T12:58:52.505840+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -1923,6 +1989,22 @@
   "publicado": null,
   "coletado_em": "2026-10-17T05:32:17.010325+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "566ffdf717f4",
+  "titulo": "É possível fazer \"remap\" em carro elétrico?",
+  "url": "https://canaltech.com.br/carros/e-possivel-fazer-remap-em-carro-eletrico/",
+  "resumo": "O chamado remap automotivo (prática de reprogramar parâmetros eletrônicos para extrair mais potência e torque) já é comum em motores a combustão . Quando se trata de carros elétricos , porém, a técnica de \"envenenar\" o carro ainda é novidade e envolve custos mais altos. Segundo o preparador automotivo Ricardinho ACF, que participou de um projeto experimental com o hatch elétrico Geely EX2 no Festival Interlagos 2026, é possível alterar a calibração para aumentar o desempenho sem comprometer os limites originais do motor. No entanto, o processo exige muito mais cuidado e investimento. O especialista contou para a Quatro Rodas que a lógica de ajuste dinâmico é semelhante à dos motores a combustão , mas muda a forma como energia e calor são administrados. Em uso severo de curta duração, como uma bateria de drift de 10 minutos, é possível explorar picos de descarga elétrica para obter ganhos imediatos de torque . Porém, isso aumenta a temperatura do sistema, tornando o gerenciamento térmico o principal gargalo técnico. O que muda no remap de elétricos Assim como no motor a combustão o aumento da pressão do turbo exige intercoolers mais eficientes , no carro elétrico o remap demanda sis",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-17T12:04:00+00:00",
+  "coletado_em": "2026-10-17T12:58:52.529404+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/9QPHyMLet6OnCZWD805uof_zn5c=/0x0/filters:format(webp):quality(85)/923799c0-0297-4ab2-862a-d31b4547cef8.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2622,6 +2704,22 @@
   "cobertura": []
  },
  {
+  "id": "6e5bf6774929",
+  "titulo": "Apple’s HomeView is just the latest threat to online recipe writers",
+  "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+  "resumo": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the kitchen […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-17T12:00:00+00:00",
+  "coletado_em": "2026-10-17T12:58:52.518256+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "6f0ec75f9d13",
   "titulo": "Elorian’s first AI model wants to reason with images, not just about them",
   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
@@ -2884,6 +2982,22 @@
   "cobertura": []
  },
  {
+  "id": "7aa7ab3f9af0",
+  "titulo": "It’s a dream week for tech docs",
+  "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+  "resumo": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc Andreessen and the future of […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-17T12:00:00+00:00",
+  "coletado_em": "2026-10-17T12:58:52.518256+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "7adbcb78330d",
   "titulo": "Nvidia is no longer a PC gaming company. Get used to it",
   "url": "https://www.pcworld.com/article/3260897/nvidia-is-no-longer-a-pc-gaming-company-get-used-to-it.html",
@@ -3075,6 +3189,23 @@
   "publicado": "2026-10-16T00:00:00+00:00",
   "coletado_em": "2026-10-17T05:32:17.029997+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "85693a78b717",
+  "titulo": "Leap seconds being retired next year to avoid wreaking havoc on computer systems",
+  "url": "https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking",
+  "resumo": "The leap second will be replaced by a leap hour, which will take \"several centuries\" before it must be implemented.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-17T12:40:00+00:00",
+  "coletado_em": "2026-10-17T12:58:52.507829+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/mK5eoUF73A9Kph4TsFTiq8-1920-80.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -3602,9 +3733,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
    "hardware",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-17T11:30:00+00:00",
   "coletado_em": "2026-10-17T11:33:42.667439+00:00",
@@ -3918,6 +4049,23 @@
   "publicado": "2026-10-16T23:40:01+00:00",
   "coletado_em": "2026-10-17T05:32:17.011535+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/acne-3.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a0b08808ed19",
+  "titulo": "Taiwan targets illicit AI server exports to China with five-year prison terms",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+  "resumo": "Taiwan is expanding the Foreign Trade Act to include AI servers and semiconductors in its list of controlled exports.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-17T12:20:00+00:00",
+  "coletado_em": "2026-10-17T12:58:52.507829+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e-1920-80.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -5433,6 +5581,22 @@
   "cobertura": []
  },
  {
+  "id": "e64cbf4ebe8f",
+  "titulo": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
+  "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
+  "resumo": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-17T12:00:00+00:00",
+  "coletado_em": "2026-10-17T12:58:52.509793+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/iVJb9CchfRZdqfZQhAUxWS-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "e65aeee14db6",
   "titulo": "Napping linked to dementia risk",
   "url": "https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
@@ -5558,6 +5722,23 @@
   "publicado": "2026-10-15T19:20:11+00:00",
   "coletado_em": "2026-10-17T05:32:17.012935+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-common-weed-called-o.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ebe0d051d207",
+  "titulo": "Review EA FC 27 | Simulador quer mostrar que há vida além do Ultimate Team",
+  "url": "https://canaltech.com.br/games/review-ea-fc-27/",
+  "resumo": "EA Sports FC 27 é a nova versão do famoso simulador de futebol, disponível para PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series S|X, Nintendo Switch e Nintendo Switch 2. O antigo FIFA volta à cena encabeçado pelo The Grounds , novo modo em mundo aberto para socializar com outros jogadores e participar de minigames exclusivos. Os principais clubes e jogadores do mundo agora dividem espaço com uma cidade virtual com lojas para personalizar o visual do seu avatar, eventos temporários e aparições de craques da vida real. Por outro lado, o modo Carreira foi revitalizad o com transferências mais realistas. As novidades revelam uma tentativa da EA Sports de oferecer alternativas ao Ultimate Team , popular modo de jogo com base em cartas especiais. Afinal, EA FC 27 é um golaço para os fãs da franquia ou um pênalti para fora? Prós Modos de jogo atualizados Ajustes na movimentação da IA do jogo Retorno de elencos brasileiros Contras Preço por uma fórmula repetida Novo modo The Grounds depende de engajamento Troque as chuteiras pelos tênis O modo The Grounds tenta seguir um modelo popularizado pela franquia NBA 2K de um mundo aberto dentro de um simulador de esportes . É um espaço par",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "computadores_pessoais",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-17T12:30:04+00:00",
+  "coletado_em": "2026-10-17T12:58:52.529404+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/606iQEOQpWB0ZTT9AhhoPmdLeoY=/0x0/filters:format(webp):quality(85)/049953ed-b66b-4df1-abb7-2d9eb4697e4d.jpg",
   "score": 0.0,
   "cobertura": []
  },
