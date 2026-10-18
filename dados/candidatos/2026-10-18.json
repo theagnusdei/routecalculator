@@ -65,6 +65,22 @@
   "cobertura": []
  },
  {
+  "id": "032c254bd2a8",
+  "titulo": "One million migrating raptors dodge illegal hunters above Georgia's Black Sea coast",
+  "url": "https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html",
+  "resumo": "Standing on a verdant hill above Georgia's Black Sea coast, ornithologist Bart Hoekstra looked out over one of the world's greatest wildlife spectacles unfolding before him—then gunshots pierced the air.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-18T11:39:23+00:00",
+  "coletado_em": "2026-10-18T12:02:10.445517+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-black-sea-and-cauc.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "040296880882",
   "titulo": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space",
   "url": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space",
@@ -537,6 +553,22 @@
   "cobertura": []
  },
  {
+  "id": "37cd2565715a",
+  "titulo": "Next-generation total-body PET scanner can produce diagnostic-quality images in as little as 1 minute",
+  "url": "https://medicalxpress.com/news/2026-10-generation-total-body-pet-scanner.html",
+  "resumo": "A next-generation total-body PET/CT scanner can produce diagnostic-quality images in as little as 1 minute of scanning, according to research presented today at the 39th Annual Congress of the European Association of Nuclear Medicine (EANM'26). Even its fastest images were rated more highly on average than those from a standard PET/CT scanner.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-18T06:00:01+00:00",
+  "coletado_em": "2026-10-18T12:02:10.444986+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-scanner.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "3874eab7e7dc",
   "titulo": "Introducing GNOME OS Preview",
   "url": "https://lwn.net/Articles/1101057/",
@@ -601,6 +633,22 @@
   "cobertura": []
  },
  {
+  "id": "3b2fd57518af",
+  "titulo": "One AI subscription to replace them all is $99.99 for life",
+  "url": "https://www.pcworld.com/article/3262817/one-ai-subscription-to-replace-them-all-is-99-99-for-life.html",
+  "resumo": "TL;DR: 1min.AI puts GPT-5.5 Pro, Claude 4.6 Sonnet, Gemini 3.1 Pro, and several other major AI models behind a single lifetime license for $99.99 (MSRP $540). Paying for ChatGPT, Claude, and Gemini separately costs well over $60 per month. 1min.AI bundles all three flagships and several more into one platform with a lifetime license for $99.99 (MSRP $540). Access the ideal AI model instantly for any workflow. Claude 4.6 Sonnet refines your written drafts, GPT-5.5 Pro handles extensive research queries, and Gemini 3.1 Pro distills dense PDFs. Enjoy all three under a single account—without recurring monthly fees or multiple invoices. Beyond chat, 1min.AI includes image generation, background removal, text-to-speech, voice cloning, video creation, and a blog article generator, all drawing from the same monthly credit pool. An Advanced Business Plan comes with 4,000,000 credits per month , and logging in daily earns another 15,000 free credits. Up to 20 team members can share a single account. Stop paying a separate subscription for every AI model. Get a lifetime 1min.AI Advanced Business Plan for $99.99 (MSRP $540). 1min.AI Advanced Business Plan Lifetime Subscription See Deal StackSo",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-18T08:00:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.449300+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3262817-0-34414700-1792310423-1minAI.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "3cc5b8ff34d7",
   "titulo": "Stop paying for MSO 365 — Office Pro drops to $28 for a lifetime license",
   "url": "https://www.pcworld.com/article/3262089/stop-paying-for-mso-365-office-pro-drops-to-28-for-a-lifetime-license.html",
@@ -645,6 +693,40 @@
   "publicado": "2026-10-17T17:00:00+00:00",
   "coletado_em": "2026-10-18T05:48:35.243528+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "3fd96395fa0e",
+  "titulo": "Researchers train AI to detect concealed handguns using Wi-Fi signals",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals-open-source-wifirenet-achieves-precision-detection-on-older-802-11a-standard-by-analyzing-how-weapons-distort-wireless-signals",
+  "resumo": "Researchers have developed WiFireNet, an AI system that detects concealed handguns from Wi-Fi channel-state information, achieving 72.5% average precision in controlled indoor tests without cameras or metal detectors.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-18T11:00:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.447328+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/kfvNwDT4D6jpoBvqVwPdcE-1920-80.webp",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "4106b04bd4c2",
+  "titulo": "DJI’s first battery-swapping dock gets drones recharged and back in the air in under 45 seconds",
+  "url": "https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale",
+  "resumo": "DJI Dock 4 swaps the Matrice 5TD drone’s battery in 25 seconds, but the system has no FCC clearance for sale in the U.S.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-18T10:30:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.447328+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/7UPUu58BKnXpWmHdJqSowb-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1006,6 +1088,22 @@
   "cobertura": []
  },
  {
+  "id": "5f17d02876eb",
+  "titulo": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+  "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+  "resumo": "Insider Brief A team of researchers from Anthropic and Harvard used an artificial intelligence (AI) system to design quantum circuits that require fewer operations and qubits, potentially lowering the hardware demands of useful quantum computing. The researchers, who posted their work on the preprint server arXiv, tested the approach on eight computational building blocks used […]",
+  "fonte": "The Quantum Insider",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-10-17T08:11:10+00:00",
+  "coletado_em": "2026-10-18T12:02:10.448619+00:00",
+  "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "608a85bf39b4",
   "titulo": "Mobile app monitoring may reduce serious complications after surgery, new study finds",
   "url": "https://medicalxpress.com/news/2026-10-mobile-app-complications-surgery.html",
@@ -1166,6 +1264,22 @@
   "cobertura": []
  },
  {
+  "id": "6c0e722863cc",
+  "titulo": "Lion droppings yield previously unknown microbial species, exposing hidden diversity inside Africa's big cats",
+  "url": "https://phys.org/news/2026-10-lion-yield-previously-unknown-microbial.html",
+  "resumo": "Scientists know a great deal about how lions hunt, breed and survive, but the microscopic communities living inside them have remained largely unexplored. Now, a study of wild lions in Namibia is beginning to change that, while revealing how much biology is still missing from the world's genomic databases.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-18T12:00:01+00:00",
+  "coletado_em": "2026-10-18T12:02:10.445517+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/2026-10---inside-a-lio.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "6c695b528e97",
   "titulo": "NIH makes major investments to advance human-based research infrastructure and technologies",
   "url": "https://www.nih.gov/news-events/news-releases/nih-makes-major-investments-advance-human-based-research-infrastructure-technologies",
@@ -1215,6 +1329,23 @@
   "cobertura": []
  },
  {
+  "id": "70cb9c60d988",
+  "titulo": "300-plus local data center bans have only delayed just three US projects",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027",
+  "resumo": "SemiAnalysis mapped more than 300 local data center moratoriums against the US pipeline and found only three projects actually delayed.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-18T11:45:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.447328+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/LRwmwu7XEdDMQkb8uQgofm-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "718c687956a6",
   "titulo": "O que acontece quando falta memória RAM no PC gamer?",
   "url": "https://canaltech.com.br/hardware/o-que-acontece-quando-falta-memoria-ram-no-pc-gamer/",
@@ -1222,8 +1353,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-10-17T18:00:00+00:00",
   "coletado_em": "2026-10-18T05:48:35.249127+00:00",
@@ -1308,6 +1439,22 @@
   "publicado": "2026-10-17T14:30:00+00:00",
   "coletado_em": "2026-10-18T05:48:35.243528+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7aa07fac1bdf",
+  "titulo": "10 best places to see the 2027 total solar eclipse in Spain",
+  "url": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
+  "resumo": "From the Costa del Sol to whitewashed mountain villages, here are 10 of the best places in southern Spain to experience the Aug. 2, 2027 total solar eclipse.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-18T10:00:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.448352+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ogbdiZLSzih7BPFkzC9mPd-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1409,6 +1556,22 @@
   "cobertura": []
  },
  {
+  "id": "88738c0c89e6",
+  "titulo": "'Let's all choose to make tomorrow better', Artemis II astronauts honored with Stephen Hawking Medal at Starmus",
+  "url": "https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus",
+  "resumo": "The Artemis II crew have joined an impressive list of honourees, including Buzz Aldrin, Jane Goodall and David Attenborough.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-18T09:12:51+00:00",
+  "coletado_em": "2026-10-18T12:02:10.448352+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ZintzwFGEKDLuB9J6Z6U9g-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "88e74690a415",
   "titulo": "Bose’s new wired earbuds are simple in the best way",
   "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
@@ -1480,8 +1643,8 @@
   "fonte": "New Scientist",
   "peso_fonte": 0.85,
   "categorias": [
-   "medicina",
-   "biologia"
+   "biologia",
+   "medicina"
   ],
   "publicado": "2026-10-17T18:30:00+00:00",
   "coletado_em": "2026-10-18T05:48:35.267804+00:00",
@@ -1609,9 +1772,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
    "hardware",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-17T11:30:00+00:00",
   "coletado_em": "2026-10-18T05:48:35.249127+00:00",
@@ -1852,6 +2015,23 @@
   "cobertura": []
  },
  {
+  "id": "a257dddc2d05",
+  "titulo": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+  "resumo": "Anthropic's proposal requires evaluators to report any imminent risk to the Department of Commerce within 72 hours, after which the Department must present the evidence to a federal judge and await an order.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-18T11:25:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.447328+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/SVPa8KkaDwkeyAtLnMhyKW-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "a4860b40b1dd",
   "titulo": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
   "url": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
@@ -1864,6 +2044,22 @@
   "publicado": "2026-10-16T18:00:00+00:00",
   "coletado_em": "2026-10-18T05:48:35.241930+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vTN6JFYPH9Cp9wSooT4ftf-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a4cfa48e5145",
+  "titulo": "Cities want to put the boot on robotaxis",
+  "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+  "resumo": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-18T12:00:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.450168+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -2014,6 +2210,22 @@
   "cobertura": []
  },
  {
+  "id": "ae3b73414b00",
+  "titulo": "Antes de investir em IA, sua empresa já automatizou o básico? A maioria ainda não",
+  "url": "https://olhardigital.com.br/2026/10/18/colunistas/antes-de-investir-em-ia-sua-empresa-ja-automatizou-o-basico-a-maioria-ainda-nao/",
+  "resumo": "Antes de perguntar \"qual IA minha empresa deveria adotar?\", a pergunta mais útil é outra: quais processos da minha operação já estão automatizados? O post Antes de investir em IA, sua empresa já automatizou o básico? A maioria ainda não apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-18T10:02:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.451969+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "b140e0bf691c",
   "titulo": "OpenAI models hacked a crypto wallet and breached more websites",
   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
@@ -2126,6 +2338,38 @@
   "cobertura": []
  },
  {
+  "id": "bb62728d2499",
+  "titulo": "Robert Wille (Munich Quantum Software Company): Quantum software needs design automation, not just algorithms",
+  "url": "https://thequantuminsider.com/2026/10/17/robert-wille-munich-quantum-software-company-quantum-software-needs-design-automation-not-just-algorithms/",
+  "resumo": "Yuval interviews Robert Wille, a computer scientist and co-founder focused on quantum computing software. They discuss the field’s transition from research to practical deployment, the need for heterogeneous and hardware-agnostic software stacks, and the integration of quantum into HPC environments. Robert explains the importance of design automation, open-source strategy, and AI-assisted development, arguing that quantum’s […]",
+  "fonte": "The Quantum Insider",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-10-17T07:40:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.448619+00:00",
+  "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/07/wille.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "bbfbf2721275",
+  "titulo": "Cover 10 devices with AdGuard VPN for five years at $34.97",
+  "url": "https://www.pcworld.com/article/3262840/cover-10-devices-with-adguard-vpn-for-five-years-at-34-97.html",
+  "resumo": "TL;DR: Get five years of AdGuard VPN on up to 10 devices for $34.97 (MSRP $359.40) through October 25. A VPN usually means one more subscription that renews every year. AdGuard VPN encrypts your internet traffic on up to 10 devices at once, and a 5-year subscription is on sale for $34.97 (MSRP $359.40). That price comes to about $7 a year. One account connects up to 10 devices at the same time, enough for a gaming PC, a laptop, phones, and tablets around the house. With servers in more than 70 locations, you can connect through another country to reach region-locked streaming libraries and sites. Data is unlimited, so long downloads and late-night streaming don’t count against a cap. AdGuard runs its own security protocol and follows a strict zero-logging policy , so your browsing history isn’t stored. You can use it on Android and iOS, and on Windows and Mac through the browser. This plan is for new AdGuard VPN users only, and you have 30 days to redeem your code. AdGuard notes that the VPN may not work well in China. Through October 25, you can get an AdGuard VPN 5-year subscription on sale for $34.97 (MSRP $359.40). AdGuard VPN: 5-Yr Subscription See Deal StackSocial prices subj",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-18T08:00:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.449300+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3262840-0-52354000-1792310452-AdGuard-VPN.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "bc5d593e0deb",
   "titulo": "Celulares Android têm ID secreto que vigia tudo o que você pesquisa; veja como excluir",
   "url": "https://canaltech.com.br/apps/id-secreto-celulares-android-vigia-tudo-sobre-voce/",
@@ -2187,6 +2431,22 @@
   "publicado": "2026-10-17T15:00:01+00:00",
   "coletado_em": "2026-10-18T05:48:35.238663+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/scavengers.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c11041f48f35",
+  "titulo": "Guest Post: AI Infrastructure Investment and the Future of Quantum Computing",
+  "url": "https://thequantuminsider.com/2026/10/17/ai-infrastructure-investment-future-quantum-computing/",
+  "resumo": "Guest Post By George Varghese, Head of Investment, 0G Labs We’re witnessing one of the largest infrastructure investment cycles in modern technology, and I believe we’re still early in understanding its economic potential. AI has already changed how companies think about computing, with enormous investment flowing into GPUs, data centres, energy infrastructure and models. As […]",
+  "fonte": "The Quantum Insider",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-10-17T07:00:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.448619+00:00",
+  "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_18-07.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -2498,6 +2758,23 @@
   "cobertura": []
  },
  {
+  "id": "d7252f1b7ceb",
+  "titulo": "Flock camera locations revealed on MapQuest’s new Surveillance Layer",
+  "url": "https://www.tomshardware.com/software/maps/flock-camera-locations-revealed-on-mapquests-new-surveillance-layer-users-can-now-see-placement-and-direction-of-known-license-plate-readers-from-multiple-companies",
+  "resumo": "This new feature could help users avoid Flock and other ALPR cameras.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-18T10:00:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.447328+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "d85a6b074d7e",
   "titulo": "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments",
   "url": "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -2772,6 +3049,23 @@
   "publicado": "2026-10-17T12:30:04+00:00",
   "coletado_em": "2026-10-18T05:48:35.249127+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/606iQEOQpWB0ZTT9AhhoPmdLeoY=/0x0/filters:format(webp):quality(85)/049953ed-b66b-4df1-abb7-2d9eb4697e4d.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ec7d30c970fe",
+  "titulo": "Ajuste escondido faz Gemini dar respostas muito melhores; veja como fazer",
+  "url": "https://canaltech.com.br/inteligencia-artificial/como-fazer-gemini-dar-respostas-melhores/",
+  "resumo": "Uma configuração do Gemini permite conectar serviços do Google para fornecer mais contexto às respostas. Com a integração ativada, a IA pode consultar informações disponíveis em aplicativos como Gmail, Google Drive e Google Docs. Quem já usou o Gemini para uma tarefa com informações pessoais sabe como isso pode ser trabalhoso. Muitas vezes, é preciso abrir um documento, procurar a informação, copiar o trecho e colar tudo no chat. O mesmo acontece quando o dado está em um e-mail antigo ou em uma nota do Google Keep. Com os serviços conectados, o Gemini pode buscar essas informações quando necessário e usá-las para responder ao pedido. Assim, a IA tem mais contexto sobre o usuário e não começa cada conversa do zero. Sobre a privacidade, os dados do Google Workspace não são utilizados para treinar o modelo do Gemini. A IA apenas acessa essas informações quando necessário para usá-las como contexto nas respostas. Como melhorar as respostas do Gemini? A opção para conectar aplicativos no Gemini fica nas configurações da IA. Veja como ativar: Abra o Gemini; No menu lateral, entre nas “Configurações” (ícone de engrenagem); Clique em “ Inteligência Personalizada ”; Toque em “Apps conectado",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-18T11:30:00+00:00",
+  "coletado_em": "2026-10-18T12:02:10.453772+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
   "score": 0.0,
   "cobertura": []
  },
