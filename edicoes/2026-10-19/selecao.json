@@ -1,0 +1,629 @@
+{
+  "medicina": [
+    {
+      "id": "2b81af547203",
+      "titulo": "Two omicron variants replicate more efficiently in gut tissue models, experiments reveal",
+      "url": "https://medicalxpress.com/news/2026-10-omicron-variants-replicate-efficiently-gut.html",
+      "resumo": "A research team from the School of Public Health at the LKS Faculty of Medicine, the University of Hong Kong (HKUMed), has discovered that emerging omicron sublineages of SARS-CoV-2 use distinct biological strategies to spread and cause disease. Specifically, the XBB.1.5 and EG.5.1 variants are better adapted for respiratory spread and may pose a heightened risk of severe respiratory disease, while BA.2.86 and JN.1 tend to replicate more effectively in the intestines, potentially opening alternative transmission routes.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-18T13:00:01+00:00",
+      "coletado_em": "2026-10-18T13:19:01.159904+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkumed-reveals-emergin.jpg",
+      "score": 6.014,
+      "cobertura": []
+    },
+    {
+      "id": "9e686c543495",
+      "titulo": "A blood-pressure drug may activate health-promoting brown fat",
+      "url": "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+      "resumo": "Large retrospective study suggests the tissue deters more than cardiovascular disease.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-10-18T13:19:01.158900+00:00",
+      "imagem_feed": null,
+      "score": 5.0,
+      "cobertura": []
+    },
+    {
+      "id": "637251830052",
+      "titulo": "Continuous glucose monitors help type 2 diabetes patients spend 5 more hours a day in healthy blood sugar range",
+      "url": "https://medicalxpress.com/news/2026-10-glucose-diabetes-patients-hours-day.html",
+      "resumo": "Continuous glucose monitors (CGMs) could transform diabetes management for millions of Americans with type 2 diabetes who don't take insulin, according to findings published in the New England Journal of Medicine.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-17T19:00:01+00:00",
+      "coletado_em": "2026-10-18T13:19:01.159904+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/continuous-glucose-mon.jpg",
+      "score": 4.744,
+      "cobertura": []
+    },
+    {
+      "id": "8d169688d563",
+      "titulo": "Wearing headphones during surgery may reduce nausea and vomiting afterward",
+      "url": "https://medicalxpress.com/news/2026-10-headphones-surgery-nausea-vomiting-afterward.html",
+      "resumo": "Patients who wore noise-canceling headphones during minimally invasive gynecological surgery were significantly less likely to experience postoperative nausea and vomiting (PONV), suggest findings from a randomized clinical trial presented at the Anesthesiology 2026 annual meeting.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-17T18:30:07+00:00",
+      "coletado_em": "2026-10-18T13:19:01.159904+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/headphones.jpg",
+      "score": 4.725,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "8eec50eb14fd",
+      "titulo": "Noise-cancelling headphones prevent vomiting after surgery",
+      "url": "https://www.newscientist.com/article/2594276-noise-cancelling-headphones-prevent-vomiting-after-surgery/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Nausea and vomiting are common after surgery, which may be partly related to the noises patients are exposed to, even under general anaesthetic. Wearing noise-cancelling headphones while on the operating table reduces the risk",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-10-17T18:30:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.182547+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316882731.jpg",
+      "score": 4.525,
+      "cobertura": []
+    },
+    {
+      "id": "032c254bd2a8",
+      "titulo": "One million migrating raptors dodge illegal hunters above Georgia's Black Sea coast",
+      "url": "https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html",
+      "resumo": "Standing on a verdant hill above Georgia's Black Sea coast, ornithologist Bart Hoekstra looked out over one of the world's greatest wildlife spectacles unfolding before him—then gunshots pierced the air.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-18T11:39:23+00:00",
+      "coletado_em": "2026-10-18T13:19:01.160479+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-black-sea-and-cauc.jpg",
+      "score": 4.367,
+      "cobertura": []
+    },
+    {
+      "id": "0ea766856293",
+      "titulo": "What a worm's brain can teach us about sex differences in the nervous system",
+      "url": "https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html",
+      "resumo": "Ever wonder what goes on inside the brain of a worm—how it processes information, responds to stimuli and perceives the world around it? Northeastern University researchers have opened up that can of worms, specifically the one containing C. elegans, a tiny roundworm that's one of the most extensively studied animals in biology.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-17T21:20:01+00:00",
+      "coletado_em": "2026-10-18T13:19:01.160479+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-open-up-a.jpg",
+      "score": 3.844,
+      "cobertura": []
+    },
+    {
+      "id": "113c1c4b82ca",
+      "titulo": "Hand-cranked device tells blood type and red cell levels in 1 minute",
+      "url": "https://phys.org/news/2026-10-cranked-device-blood-red-cell.html",
+      "resumo": "When someone is badly injured, doctors urgently need two facts: the patient's blood type, so that a transfusion is safe, and their hematocrit, the share of the blood made up of red blood cells, which reveals blood loss or anemia. Hospitals measure both with large machines that need electricity and trained staff, which are often unavailable in ambulances, disaster zones or remote clinics.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-17T16:00:01+00:00",
+      "coletado_em": "2026-10-18T13:19:01.160479+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/hand-cranked-device-te.jpg",
+      "score": 3.634,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "871c9c8bb40b",
+      "titulo": "How to choose a BLDC motor for robotic arms and mobile robots",
+      "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
+      "resumo": "Several factors, from sensors to safety and robotic arms or mobile platforms, help determine the selection of a brushless DC or BLDC motor. The post How to choose a BLDC motor for robotic arms and mobile robots appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-18T12:30:50+00:00",
+      "coletado_em": "2026-10-18T13:19:01.161433+00:00",
+      "imagem_feed": null,
+      "score": 4.809,
+      "cobertura": []
+    },
+    {
+      "id": "507a01c72df1",
+      "titulo": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+      "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+      "resumo": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist. The post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-17T12:30:55+00:00",
+      "coletado_em": "2026-10-18T13:19:01.161433+00:00",
+      "imagem_feed": null,
+      "score": 3.877,
+      "cobertura": []
+    },
+    {
+      "id": "4fb414b14cbf",
+      "titulo": "ADI explains the race to make AI physical",
+      "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+      "resumo": "A new ADI whitepaper examines the challenges and opportunities in moving physical AI out of labs into production machinery. The post ADI explains the race to make AI physical appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-17T21:33:57+00:00",
+      "coletado_em": "2026-10-18T13:19:01.161433+00:00",
+      "imagem_feed": null,
+      "score": 3.705,
+      "cobertura": []
+    },
+    {
+      "id": "d531b4627c52",
+      "titulo": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
+      "url": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
+      "resumo": "A research team at The Hong Kong University of Science and Technology (HKUST) has developed an Embodied Sensorimotor Robotic Arm (EmArm) capable of whole-arm tactile sensing and adaptive manipulation. By embedding a soft optical tactile skin directly into a robotic skeleton and integrating it with a real-time decision-making algorithm, EmArm can perceive and analyze contact information across its upper and lower arms, enabling human-like tactile perception and adaptive object manipulation. The system can also distinguish between different touch interactions, such as tickling and patting, respond in real time and avoid obstacles through tactile feedback, opening new possibilities for the development of embodied intelligent robots.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-17T11:00:13+00:00",
+      "coletado_em": "2026-10-18T13:19:01.161555+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-develops-embodied.jpg",
+      "score": 3.487,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "b8ae40df1f14",
+      "titulo": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
+      "url": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "On October 24, AWS will operate its European Sovereign Cloud without a connection to the AWS Global Network backbone, with a team of EU residents and the region’s own hardware and software. AWS says neither of the two systems being severed is operation-critical, and practitioners are divided over whether the exercise answers the question customers are asking. By Steef-Jan Wiggers",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-18T05:30:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.161774+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/en/headerimage/generatedHeaderImage-1791945895599.jpg",
+      "score": 4.973,
+      "cobertura": []
+    },
+    {
+      "id": "2e7686d2c76a",
+      "titulo": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
+      "url": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering tools like Ghidra, Hopper, and IDA. The project lets developers inspect compiled binaries, trace function calls, and investigate how applications implement specific features. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-17T06:28:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.161774+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/reverse-engineer-anything/en/headerimage/generatedHeaderImage-1791736473714.jpg",
+      "score": 3.537,
+      "cobertura": []
+    },
+    {
+      "id": "9992b438685f",
+      "titulo": "Como e por que a inteligência artificial consegue burlar regras?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
+      "resumo": "Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de tecnologia conseguiram contornar restrições, acessar sistemas sem autorização e realizar ações que seus próprios desenvolvedores não haviam previsto. Em vários desses casos, a IA recebeu apenas um objetivo a ser cumprido . As instruções não explicavam como a tarefa deveria ser realizada, deixando os detalhes por conta do próprio sistema. Ao encontrar obstáculos, alguns agentes buscaram outros caminhos para continuar a execução, inclusive ultrapassando limites de segurança. Isso não significa que a IA tenha noção do que é certo e errado. Os modelos seguem objetivos, instruções e regras definidos pelos desenvolvedores. Quando essas regras não cobrem todas as situações possíveis, porém, o agente pode encontrar brechas e escolher um caminho que não havia sido previsto. O risco aumenta quando esses sistemas operam fora de ambientes controlados e conseguem navegar na internet, executar códigos, acessar bancos de dados e interagir com serviços reais. A capacidade de encontrar soluções inesperadas, antes vista como uma ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-17T11:30:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.169495+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "score": 3.05,
+      "cobertura": []
+    },
+    {
+      "id": "e219a22d730b",
+      "titulo": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
+      "url": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Amazon has acquired DuckLabs, the company behind the analytical database DuckDB. Co-founders Hannes Mühleisen and Mark Raasveldt will continue to lead the team under AWS. The acquisition aims to enhance the development and reach of DuckDB while maintaining its open-source status. Amazon Aurora PostgreSQL gets its first DuckDB-powered feature following the acquisition. By Gianmarco Nalin",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-17T06:00:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.161774+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/amazon-acquires-ducklabs/en/headerimage/generatedHeaderImage-1792158812926.jpg",
+      "score": 3.028,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "69f8edc97d35",
+      "titulo": "Chip fab engineering game goes viral in Taiwan",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
+      "resumo": "A new 3D web game where you live 'A Day in the Life of a Semiconductor Wafer Factory Worker' has gone viral in Taiwan, where it was developed.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-18T12:50:33+00:00",
+      "coletado_em": "2026-10-18T13:19:01.162370+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/emSPKHqypgWdvGHE8rXasc-1920-80.jpg",
+      "score": 5.646,
+      "cobertura": []
+    },
+    {
+      "id": "b78fcb7cebf1",
+      "titulo": "Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version",
+      "url": "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster",
+      "resumo": "Nvidia's latest DLSS Neural Renderer, extracted from NBA 2K27 (again), is being tested on unsupported games and shows up to a 90% performance gain over the previous NR model.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-18T12:45:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.162370+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/D2wF99DV4KRfYPYVeR3eWb-1920-80.jpg",
+      "score": 5.136,
+      "cobertura": []
+    },
+    {
+      "id": "52790d2f3b28",
+      "titulo": "MIT engineers build soft 3D shape-sensing skin for gaming and VR",
+      "url": "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error",
+      "resumo": "MIT engineers embedded soft optical fibers in a silicone sheet that reconstructs its own 3D shape, aimed at gaming, VR, and physical therapy.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-18T12:25:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.162370+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/AoiE9uB5AeDWhPjLmoTh43-1920-80.jpg",
+      "score": 4.599,
+      "cobertura": []
+    },
+    {
+      "id": "22a1748c3726",
+      "titulo": "Typo-squatting attacks with major domains are still viable",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
+      "resumo": "Typo-squatting attacks with major domains are still viable — corner cases with Cyrillic characters still evade the best checks",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-18T12:05:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.162370+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/SQzRnE4jQMZ8s6EjxkPFB6-1920-80.jpg",
+      "score": 4.562,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "7bc9c0a173d2",
+      "titulo": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+      "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+      "resumo": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-18T12:00:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.163516+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1920-80.png",
+      "score": 5.753,
+      "cobertura": []
+    },
+    {
+      "id": "d4e2b83a8987",
+      "titulo": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+      "resumo": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-18T04:05:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.162956+00:00",
+      "imagem_feed": null,
+      "score": 4.673,
+      "cobertura": []
+    },
+    {
+      "id": "71b09f20293a",
+      "titulo": "Lone, starless cloud may be a 'dark' galaxy",
+      "url": "https://phys.org/news/2026-10-lone-starless-cloud-dark-galaxy.html",
+      "resumo": "Astronomers using China's FAST radio telescope have discovered a compact cloud of hydrogen with no visible stars or galaxy around it. This could be one of the strongest candidates yet for an isolated \"dark galaxy,\" containing nearly 500,000 times the sun's mass in neutral hydrogen. The discovery paper was posted to the arXiv preprint server on Sept. 24.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-17T13:40:04+00:00",
+      "coletado_em": "2026-10-18T13:19:01.163162+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-lone-starless-cloud.jpg",
+      "score": 4.56,
+      "cobertura": []
+    },
+    {
+      "id": "e5df6de9b0a2",
+      "titulo": "Preview Crazy Taxi: World Tour | jogo diverte na BGS 2026, apesar do desempenho",
+      "url": "https://canaltech.com.br/games/preview-crazy-taxi-world-tour/",
+      "resumo": "A SEGA pegou todos de surpresa durante o The Game Awards 2023 ao anunciar o retorno de franquias adormecidas. Uma dessas IPs que retornaria para o público moderno era Crazy Taxi: World Tour, produzido pelas mãos de ninguém menos que o criador da série, Kenji Kanno. Quase três anos mais tarde, a produtora japonesa trouxe uma demonstração de Crazy Taxi: World Tour para a Brasil Game Show 2026 e convidou o Canaltech para um teste de cerca de 30 minutos. Na feira, pudemos explorar um pouco do jogo ambientado nas áreas da Baía de São Francisco e da Alemanha , que chega no início de 2027 para PC, Nintendo Switch 2, PlayStation 5 e XBOX. Afinal, o retorno do clássico do Dreamcast merece cinco estrelas? Crazy Taxi: World Tour promete gráficos bonitos em um mundo um pouco cruel Embora Crazy Taxi: World Tour tenha sido anunciado inicialmente como um jogo com foco em multiplayer massivo , o criador da série acalentou nossos corações ao afirmar, anos depois da revelação, que o título tem foco no single-player com modos para mais de um jogador. A IP é conhecida por sua gameplay bem arcade, diferente dos titãs de corrida como Forza e Gran Turismo aos quais estamos acostumados hoje em dia . Isso ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-18T12:30:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.169495+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/8kRh91aBW1s2rc18EaGdpOvfb1c=/0x0/filters:format(webp):quality(85)/e6639faf-958b-46c4-a0a3-a9200ef95d57.png",
+      "score": 4.508,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "60d1791b6be3",
+      "titulo": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
+      "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+      "resumo": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-17T18:00:02+00:00",
+      "coletado_em": "2026-10-18T13:19:01.163919+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-error-correction-t.jpg",
+      "score": 5.205,
+      "cobertura": []
+    },
+    {
+      "id": "467bf208bab5",
+      "titulo": "Hybrid diamond chip strengthens interactions between light and quantum bits",
+      "url": "https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html",
+      "resumo": "Researchers have developed and demonstrated a new hybrid photonic platform that integrates quantum emitters with photonic devices, providing a way to reliably control the interaction between photons and quantum information carriers. The chip-based platform, which combines gallium phosphide (GaP) with a diamond substrate, could help make quantum networks more practical by providing a way to connect quantum devices over long distances.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-18T13:00:05+00:00",
+      "coletado_em": "2026-10-18T13:19:01.163919+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/illustration-showing-g.jpg",
+      "score": 5.014,
+      "cobertura": []
+    },
+    {
+      "id": "5f17d02876eb",
+      "titulo": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+      "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+      "resumo": "Insider Brief A team of researchers from Anthropic and Harvard used an artificial intelligence (AI) system to design quantum circuits that require fewer operations and qubits, potentially lowering the hardware demands of useful quantum computing. The researchers, who posted their work on the preprint server arXiv, tested the approach on eight computational building blocks used […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-17T08:11:10+00:00",
+      "coletado_em": "2026-10-18T13:19:01.163811+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+      "score": 4.572,
+      "cobertura": []
+    },
+    {
+      "id": "bb62728d2499",
+      "titulo": "Robert Wille (Munich Quantum Software Company): Quantum software needs design automation, not just algorithms",
+      "url": "https://thequantuminsider.com/2026/10/17/robert-wille-munich-quantum-software-company-quantum-software-needs-design-automation-not-just-algorithms/",
+      "resumo": "Yuval interviews Robert Wille, a computer scientist and co-founder focused on quantum computing software. They discuss the field’s transition from research to practical deployment, the need for heterogeneous and hardware-agnostic software stacks, and the integration of quantum into HPC environments. Robert explains the importance of design automation, open-source strategy, and AI-assisted development, arguing that quantum’s […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-17T07:40:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.163811+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/07/wille.jpg",
+      "score": 3.561,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "b78fcb7cebf1",
+      "titulo": "Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version",
+      "url": "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster",
+      "resumo": "Nvidia's latest DLSS Neural Renderer, extracted from NBA 2K27 (again), is being tested on unsupported games and shows up to a 90% performance gain over the previous NR model.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-18T12:45:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.162370+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/D2wF99DV4KRfYPYVeR3eWb-1920-80.jpg",
+      "score": 4.636,
+      "cobertura": []
+    },
+    {
+      "id": "52790d2f3b28",
+      "titulo": "MIT engineers build soft 3D shape-sensing skin for gaming and VR",
+      "url": "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error",
+      "resumo": "MIT engineers embedded soft optical fibers in a silicone sheet that reconstructs its own 3D shape, aimed at gaming, VR, and physical therapy.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-18T12:25:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.162370+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/AoiE9uB5AeDWhPjLmoTh43-1920-80.jpg",
+      "score": 4.599,
+      "cobertura": []
+    },
+    {
+      "id": "975799ced465",
+      "titulo": "Dell’s business laptop drops from $1,099 to $265",
+      "url": "https://www.pcworld.com/article/3262781/dells-business-laptop-drops-from-1099-to-265.html",
+      "resumo": "TL;DR: A grade A refurbished Dell Latitude 5420 with an 11th Gen i5, 8GB RAM, 256GB SSD, and Windows 11 Pro is $264.99 (MSRP $1,099). Limited inventory available. A brand-new business laptop with Windows 11 Pro, Thunderbolt 4, and an 11th Gen Intel processor usually costs north of $800. But if you don’t mind a refurbished model, this near-mint Dell Latitude 5420 brings all of that down to $264.99 (MSRP $1,099). The only “catch” is that inventory is limited, so order ASAP. An 11th Gen Core i5-1135G7 runs at 2.4GHz and turbo-boosts to 4.2GHz, so spreadsheets, browser tabs, and video calls don’t compete for processing power. RAM is 8GB DDR4-3200, and the board supports up to 32GB if you want to upgrade later. Storage is a 256GB PCIe NVMe SSD. Boot times and application launches are fast , though heavy media libraries or large project folders may need an external drive. A 14-inch Full HD anti-glare display keeps text sharp and readable without the glare that makes glossy screens hard to use near a window. Two Thunderbolt 4 ports, two USB 3.2 ports, and HDMI 2.0 give enough connectivity for a monitor, a dock, and peripherals without running out of slots. Wi-Fi 6 and Bluetooth 5.0 are bo",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-17T08:00:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.164572+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3262781-0-72062800-1792224018-Dell-Latitude.jpg?quality=50&strip=all",
+      "score": 4.568,
+      "cobertura": []
+    },
+    {
+      "id": "22a1748c3726",
+      "titulo": "Typo-squatting attacks with major domains are still viable",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
+      "resumo": "Typo-squatting attacks with major domains are still viable — corner cases with Cyrillic characters still evade the best checks",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-18T12:05:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.162370+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/SQzRnE4jQMZ8s6EjxkPFB6-1920-80.jpg",
+      "score": 4.562,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "631c78f18e27",
+      "titulo": "Giving AI a “crystal clear” view of the materials world",
+      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "resumo": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-18T04:00:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.165831+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Synthetic-Narratives-01-press.jpg?itok=Bh8fzury",
+      "score": 5.468,
+      "cobertura": []
+    },
+    {
+      "id": "ec7d30c970fe",
+      "titulo": "Ajuste escondido faz Gemini dar respostas muito melhores; veja como fazer",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-fazer-gemini-dar-respostas-melhores/",
+      "resumo": "Uma configuração do Gemini permite conectar serviços do Google para fornecer mais contexto às respostas. Com a integração ativada, a IA pode consultar informações disponíveis em aplicativos como Gmail, Google Drive e Google Docs. Quem já usou o Gemini para uma tarefa com informações pessoais sabe como isso pode ser trabalhoso. Muitas vezes, é preciso abrir um documento, procurar a informação, copiar o trecho e colar tudo no chat. O mesmo acontece quando o dado está em um e-mail antigo ou em uma nota do Google Keep. Com os serviços conectados, o Gemini pode buscar essas informações quando necessário e usá-las para responder ao pedido. Assim, a IA tem mais contexto sobre o usuário e não começa cada conversa do zero. Sobre a privacidade, os dados do Google Workspace não são utilizados para treinar o modelo do Gemini. A IA apenas acessa essas informações quando necessário para usá-las como contexto nas respostas. Como melhorar as respostas do Gemini? A opção para conectar aplicativos no Gemini fica nas configurações da IA. Veja como ativar: Abra o Gemini; No menu lateral, entre nas “Configurações” (ícone de engrenagem); Clique em “ Inteligência Personalizada ”; Toque em “Apps conectado",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-18T11:30:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.169495+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 5.401,
+      "cobertura": []
+    },
+    {
+      "id": "9992b438685f",
+      "titulo": "Como e por que a inteligência artificial consegue burlar regras?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
+      "resumo": "Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de tecnologia conseguiram contornar restrições, acessar sistemas sem autorização e realizar ações que seus próprios desenvolvedores não haviam previsto. Em vários desses casos, a IA recebeu apenas um objetivo a ser cumprido . As instruções não explicavam como a tarefa deveria ser realizada, deixando os detalhes por conta do próprio sistema. Ao encontrar obstáculos, alguns agentes buscaram outros caminhos para continuar a execução, inclusive ultrapassando limites de segurança. Isso não significa que a IA tenha noção do que é certo e errado. Os modelos seguem objetivos, instruções e regras definidos pelos desenvolvedores. Quando essas regras não cobrem todas as situações possíveis, porém, o agente pode encontrar brechas e escolher um caminho que não havia sido previsto. O risco aumenta quando esses sistemas operam fora de ambientes controlados e conseguem navegar na internet, executar códigos, acessar bancos de dados e interagir com serviços reais. A capacidade de encontrar soluções inesperadas, antes vista como uma ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-17T11:30:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.169495+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "score": 4.55,
+      "cobertura": []
+    },
+    {
+      "id": "ae3b73414b00",
+      "titulo": "Antes de investir em IA, sua empresa já automatizou o básico? A maioria ainda não",
+      "url": "https://olhardigital.com.br/2026/10/18/colunistas/antes-de-investir-em-ia-sua-empresa-ja-automatizou-o-basico-a-maioria-ainda-nao/",
+      "resumo": "Antes de perguntar \"qual IA minha empresa deveria adotar?\", a pergunta mais útil é outra: quais processos da minha operação já estão automatizados? O post Antes de investir em IA, sua empresa já automatizou o básico? A maioria ainda não apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-18T10:02:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.167319+00:00",
+      "imagem_feed": null,
+      "score": 4.104,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "566ffdf717f4",
+      "titulo": "É possível fazer \"remap\" em carro elétrico?",
+      "url": "https://canaltech.com.br/carros/e-possivel-fazer-remap-em-carro-eletrico/",
+      "resumo": "O chamado remap automotivo (prática de reprogramar parâmetros eletrônicos para extrair mais potência e torque) já é comum em motores a combustão . Quando se trata de carros elétricos , porém, a técnica de \"envenenar\" o carro ainda é novidade e envolve custos mais altos. Segundo o preparador automotivo Ricardinho ACF, que participou de um projeto experimental com o hatch elétrico Geely EX2 no Festival Interlagos 2026, é possível alterar a calibração para aumentar o desempenho sem comprometer os limites originais do motor. No entanto, o processo exige muito mais cuidado e investimento. O especialista contou para a Quatro Rodas que a lógica de ajuste dinâmico é semelhante à dos motores a combustão , mas muda a forma como energia e calor são administrados. Em uso severo de curta duração, como uma bateria de drift de 10 minutos, é possível explorar picos de descarga elétrica para obter ganhos imediatos de torque . Porém, isso aumenta a temperatura do sistema, tornando o gerenciamento térmico o principal gargalo técnico. O que muda no remap de elétricos Assim como no motor a combustão o aumento da pressão do turbo exige intercoolers mais eficientes , no carro elétrico o remap demanda sis",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-17T12:04:00+00:00",
+      "coletado_em": "2026-10-18T13:19:01.169495+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9QPHyMLet6OnCZWD805uof_zn5c=/0x0/filters:format(webp):quality(85)/923799c0-0297-4ab2-862a-d31b4547cef8.jpg",
+      "score": 3.065,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": []
+}
