@@ -1,5 +1,21 @@
 [
  {
+  "id": "01b9610d97d9",
+  "titulo": "Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes",
+  "url": "https://www.nature.com/articles/s41586-026-11293-x",
+  "resumo": "Nature, Published online: 19 October 2026; doi:10.1038/s41586-026-11293-x Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes",
+  "fonte": "Nature",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-19T00:00:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.930645+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "02a68bf587bc",
   "titulo": "UKRI Backs UK Quantum Businesses With Share of £50 Million",
   "url": "https://thequantuminsider.com/2026/10/19/ukri-backs-uk-quantum-businesses-with-share-of-50-million/",
@@ -98,6 +114,22 @@
   "cobertura": []
  },
  {
+  "id": "05406f171938",
+  "titulo": "gamescom latam 2027 abre inscrições para o BIG Festival e propostas de palestras",
+  "url": "https://olhardigital.com.br/2026/10/19/games-e-consoles/gamescom-latam-2027-abre-inscricoes-para-big-festival-e-palestras/",
+  "resumo": "Desenvolvedores de todo o mundo podem inscrever seus jogos gratuitamente até janeiro; evento também recebe sugestões de conteúdos para sua programação de negócios O post gamescom latam 2027 abre inscrições para o BIG Festival e propostas de palestras apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-19T14:33:55+00:00",
+  "coletado_em": "2026-10-19T16:28:48.949100+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "057cf1d48273",
   "titulo": "Physicists prove a long-suspected quantum speed limit for thermalization",
   "url": "https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html",
@@ -110,6 +142,23 @@
   "publicado": "2026-10-18T17:20:01+00:00",
   "coletado_em": "2026-10-19T14:37:09.764726+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-search-is-over-sci.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "0618ca744b65",
+  "titulo": "A Chinese hacker used AI agents to break into more than 100 company websites",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo",
+  "resumo": "A Chinese hacker reportedly used a fleet of AI agents to break into more than 100 company websites, including farm equipment maker Deers and appliance outfit SharkNinja.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-19T15:36:50+00:00",
+  "coletado_em": "2026-10-19T16:28:48.934596+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/A7Q3HWnLkUvNjuKTfUNdPA-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -189,6 +238,22 @@
   ],
   "publicado": "2026-10-19T14:03:28+00:00",
   "coletado_em": "2026-10-19T14:37:09.768939+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "08d37a40f06b",
+  "titulo": "Apple teases MacBook Pro event next week",
+  "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+  "resumo": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-19T16:04:29+00:00",
+  "coletado_em": "2026-10-19T16:28:48.942775+00:00",
   "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
@@ -485,6 +550,22 @@
   "cobertura": []
  },
  {
+  "id": "1c8295df0cef",
+  "titulo": "Fast-tracked genetic testing helping sick kids",
+  "url": "https://medicalxpress.com/news/2026-10-fast-tracked-genetic-sick-kids.html",
+  "resumo": "A new genetic testing approach for sick children with immune conditions could slash diagnosis waiting times from 12 months to as little as two weeks, University of Queensland research has found.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T15:00:16+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-test-1.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "1e5878b2220a",
   "titulo": "Marginalization, lack of primary care provider increase risk of early death from metastatic breast cancer",
   "url": "https://medicalxpress.com/news/2026-10-marginalization-lack-primary-early-death.html",
@@ -497,6 +578,22 @@
   "publicado": "2026-10-19T04:10:01+00:00",
   "coletado_em": "2026-10-19T14:37:09.756506+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/breast-cancer.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "1ee0724d2416",
+  "titulo": "Samsung domina: selecionamos as melhores TVs QLED em promoção na Amazon agora",
+  "url": "https://olhardigital.com.br/2026/10/19/reviews/samsung-domina-selecionamos-as-melhores-tvs-qled-em-promocao-na-amazon-agora/",
+  "resumo": "Se você está de olho em uma TV nova com qualidade de imagem de alto nível, este é o momento certo para conferir o que a Amazon tem disponível. Reunimos três modelos Samsung QLED que estão em oferta e que valem muito a atenção — desde opções com tecnologia Neo QLED e Mini LED até […] O post Samsung domina: selecionamos as melhores TVs QLED em promoção na Amazon agora apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T15:14:39+00:00",
+  "coletado_em": "2026-10-19T16:28:48.949100+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -540,9 +637,9 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
    "astrofisica",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-10-19T13:39:20+00:00",
   "coletado_em": "2026-10-19T14:37:09.775957+00:00",
@@ -607,9 +704,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
    "astrofisica",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-18T19:04:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -626,8 +723,8 @@
   "peso_fonte": 0.6,
   "categorias": [
    "astrofisica",
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-10-19T09:30:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -668,6 +765,41 @@
   "cobertura": []
  },
  {
+  "id": "26e649131321",
+  "titulo": "Americana é presa após bloquear caminho de robô entregador de comida",
+  "url": "https://canaltech.com.br/produtos/americana-e-presa-apos-bloquear-caminho-de-robo-entregador-de-comida/",
+  "resumo": "Uma mulher de 78 anos foi presa na Filadélfia, nos Estados Unidos, após bloquear a passagem de um robô de entregas da Uber . O caso ocorreu no dia 14 de outubro e Carolyn Marvin, professora aposentada da Universidade da Pensilvânia, afirmou que a atitude foi tomada em forma de protesto contra a substituição de trabalhadores humanos por máquinas. A ocorrência aconteceu na rua Filbert, perto do mercado Reading Terminal Market, e Marvin saía de uma consulta para tomar a vacina contra a gripe quando viu o equipamento na calçada. Segundo a polícia local, agentes foram chamados após relatos de uma confusão envolvendo a mulher e o robô. 🤩 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A docente teria ignorado diversas ordens para liberar a passagem e acabou detida sob acusação de conduta desordeira. Em entrevista à emissora ABC13, Marvin explicou o motivo dos bloqueios. \"Eu sei que eles estão tirando o emprego dos entregadores humanos e, por isso, tenho protestado contra eles sempre que os vejo, ficando na frente deles e impedindo-os de avançar\", afirmou Marvin. Marvin considera a atitude um direito protegido pela Primeira Emenda da Constituição dos Estados Unidos , que prot",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "medicina",
+   "robotica",
+   "inteligencia_artificial",
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-19T15:25:29+00:00",
+  "coletado_em": "2026-10-19T16:28:48.952752+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "278d8e76056f",
+  "titulo": "Depression trial finds home brain stimulation with gaming is feasible, but questions remain",
+  "url": "https://medicalxpress.com/news/2026-10-depression-trial-home-brain-gaming.html",
+  "resumo": "A new international clinical trial has found that people living with major depression can reliably use a noninvasive brain stimulation system at home. Published in JAMA Network Open, the study shows that a relatively complex remote treatment protocol can be delivered safely and feasibly across several countries, while also underscoring the need to better understand what drives symptom improvement in depression trials.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T15:00:02+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-brain-stimulation-2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "2797c96d06ed",
   "titulo": "Starlink Mini no apartamento: funciona ou o sinal fica bloqueado?",
   "url": "https://canaltech.com.br/telecom/starlink-mini-no-apartamento-funciona-ou-o-sinal-fica-bloqueado/",
@@ -680,6 +812,41 @@
   "publicado": "2026-10-18T13:30:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/U1a-xxE2gejIKRjDAlxtRPqbhQY=/0x0/filters:format(webp):quality(85)/840cabc0-6a7e-4610-a7d8-816373ce6aa4.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "2862b8b0ca32",
+  "titulo": "Já conseguiram rodar jogos de PS5 no Xbox Series X; veja como",
+  "url": "https://canaltech.com.br/games/ja-conseguiram-rodar-jogos-de-ps5-ja-rodam-no-xbox-series-x-veja-como/",
+  "resumo": "O desenvolvedor conhecido como Devran Cosmo Uenal conseguiu inicializar e rodar jogos de PlayStation 5 no XBOX Series X. A façanha só foi possível graças ao PS5X, um port adaptado do emulador open-source de PC KytyPS5 rodando no Dev Mode do console. Quatro jogos do PS5 funcionaram com controles do XBOX: Quake II, GEX Trilogy, Hellboy: Web of Wyrd e Marvel Cosmic Invasion . Alguns desses títulos, como Quake II, conseguem atingir entre 25 e 45 FPS . Tanto o PlayStation 5 quanto o XBOX Series X compartilham arquiteturas parecidas, com sistemas equipados com processadores AMD Zen 2 x86-64, gráficos RDNA 2 e 16 GB GDDR6. Isso permite que o PS5X atue como uma camada de compatibilidade e traduza instruções diretamente da CPU, sem necessariamente simular o hardware do PS5 do zero. Vale notar que o KytyPS5 de PC utiliza a API Vulkan 1.3, incompatível com consoles XBOX. Para contornar o obstáculo e conseguir renderizar os gráficos dos jogos de PS5 no XBOX Series X, Uenal contou com o auxílio de inteligência artificial para traduzir comandos gráficos e recompilar shaders para DirectX 11 e 12. É importante ressaltar que o PS5X roda apenas no Dev Mode do XBOX Series X . A Microsoft limita o uso",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "hardware",
+   "computadores_pessoais",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T15:12:01+00:00",
+  "coletado_em": "2026-10-19T16:28:48.952752+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "292580429c9b",
+  "titulo": "Amazon is funding a new nuclear plant in Indiana",
+  "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+  "resumo": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-19T15:44:20+00:00",
+  "coletado_em": "2026-10-19T16:28:48.942775+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -739,11 +906,11 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
+   "ciberseguranca",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial",
-   "ciberseguranca"
+   "software"
   ],
   "publicado": "2026-10-19T13:49:01+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -823,10 +990,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
    "computadores_pessoais",
-   "energia_materiais"
+   "energia_materiais",
+   "hardware"
   ],
   "publicado": "2026-10-18T18:00:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -851,6 +1018,22 @@
   "cobertura": []
  },
  {
+  "id": "331693f7665c",
+  "titulo": "Galaxy Buds 4 têm promoção histórica com queda de 50% de desconto",
+  "url": "https://tecnoblog.net/achados/galaxy-buds-4-tem-promocao-historica-com-queda-de-50-de-desconto/",
+  "resumo": "Galaxy Buds 4 têm ANC e áudio Hi-Fi de 24 bits; fones da Samsung saem pela metade do preço em oferta histórica no Pix com cupom do Mercado Livre, que vai acabar logo Galaxy Buds 4 têm promoção histórica com queda de 50% de desconto",
+  "fonte": "Tecnoblog",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-19T14:29:38+00:00",
+  "coletado_em": "2026-10-19T16:28:48.951361+00:00",
+  "imagem_feed": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "333c9f07b617",
   "titulo": "[$] Cross-crate forward declarations in Rust",
   "url": "https://lwn.net/Articles/1099596/",
@@ -863,6 +1046,22 @@
   "publicado": "2026-10-19T13:50:49+00:00",
   "coletado_em": "2026-10-19T14:37:09.761846+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "33908c993643",
+  "titulo": "STAT+: The umpires getting rich off surprise medical bills, and MLB job lock",
+  "url": "https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/?utm_campaign=rss",
+  "resumo": "We dig into trust, prices, and a bit of baseball in this week's Health Care Inc. newsletter.",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T15:43:35+00:00",
+  "coletado_em": "2026-10-19T16:28:48.929151+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2300263931-1024x576.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -880,6 +1079,23 @@
   "publicado": "2026-10-18T14:00:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "37585b6fd429",
+  "titulo": "VBIOS on RTX cards can be modified without flashing thanks to a solo developer’s project",
+  "url": "https://www.tomshardware.com/pc-components/gpu-drivers/vbios-on-rtx-cards-can-be-modified-without-flashing-thanks-to-a-solo-developers-project-provides-a-ui-for-quick-vbios-configuration",
+  "resumo": "Flashing the VBIOS is risky and can brick a GPU, but this VBIOS configurator uses an Nvidia register key to override VBIOS settings without flashing.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-19T16:13:19+00:00",
+  "coletado_em": "2026-10-19T16:28:48.934596+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/YFFrf4eYE3Q6QpkEfGBua5-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -932,6 +1148,22 @@
   "cobertura": []
  },
  {
+  "id": "39b96cbb54cb",
+  "titulo": "The PlayStation 5 is powered by a GPU roughly equal to which PC graphics card?",
+  "url": "https://www.techspot.com/trivia/158-playstation-5-powered-gpu-roughly-equal-which-pc/",
+  "resumo": "Is it closest to a Radeon, GeForce, or Intel graphics equivalent? Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-19T16:01:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.941755+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2024/09/2024-09-13-ts3_thumbs-f02.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "39f8400b84e3",
   "titulo": "Por que jogos de mundo aberto demoram para carregar assets?",
   "url": "https://canaltech.com.br/hardware/por-que-jogos-de-mundo-aberto-demoram-para-carregar-assets/",
@@ -939,8 +1171,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware"
+   "hardware",
+   "software"
   ],
   "publicado": "2026-10-18T21:00:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -1104,12 +1336,28 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "astrofisica"
+   "astrofisica",
+   "software"
   ],
   "publicado": "2026-10-19T14:02:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/JkOmnZ9R8wZn9WJmUe6lDqA_7SI=/0x0/filters:format(webp):quality(85)/564ba672-ab17-4976-b509-c26cb6450ab0.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "42520225a90e",
+  "titulo": "How plants unwittingly help fungal pathogens",
+  "url": "https://phys.org/news/2026-10-unwittingly-fungal-pathogens.html",
+  "resumo": "Infecting a maize plant is no simple task for a fungal pathogen such as Ustilago maydis. A group of researchers led by Heinrich Heine University Düsseldorf (HHU) has now uncovered how the fungus detects that it has successfully entered its host. This signal triggers changes in fungal growth, as the researchers report in Nature Communications.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-19T15:20:10+00:00",
+  "coletado_em": "2026-10-19T16:28:48.929567+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-unwittingly.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1148,6 +1396,22 @@
   "cobertura": []
  },
  {
+  "id": "45dc99d3768d",
+  "titulo": "Researchers use artificial intelligence to design potential antiviral compounds",
+  "url": "https://phys.org/news/2026-10-artificial-intelligence-potential-antiviral-compounds.html",
+  "resumo": "Viral infections can be difficult to treat because viruses evolve rapidly, allowing them to develop resistance to drugs designed to attack viral proteins directly.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-19T16:00:06+00:00",
+  "coletado_em": "2026-10-19T16:28:48.929567+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-artifi.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "467bf208bab5",
   "titulo": "Hybrid diamond chip strengthens interactions between light and quantum bits",
   "url": "https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html",
@@ -1171,11 +1435,11 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "astrofisica",
+   "energia_materiais",
+   "hardware",
    "inteligencia_artificial",
-   "energia_materiais"
+   "software"
   ],
   "publicado": "2026-10-19T13:20:34+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -1216,6 +1480,22 @@
   "cobertura": []
  },
  {
+  "id": "4b9cc1c65f16",
+  "titulo": "Best USB-C monitors 2026: 3 displays that excel at connectivity",
+  "url": "https://www.pcworld.com/article/1377172/best-usb-c-monitors.html",
+  "resumo": "USB-C is the one connection to rule them all. Its popularity has made USB-C a common sight on new monitors. A USB-C monitor can act as USB hub, giving you additional ports for connecting various USB devices, but the monitor’s USB-C port can also serve as a video-input alternative to HDMI or DisplayPort; and some USB-C monitors can even charge a connected device while in use. The details of USB-C can be confusing, however, and pricing for USB-C monitors is often higher than that for monitors that lack the interface. See our buyers’ guide below our recommendations to better understand the nuances. Why you should trust PCWorld for monitor reviews and buying advice: PCWorld prides itself on PC hardware experience and expertise. We’ve been covering PCs since 1983, and we review dozens of monitors every year. All of our recommendations have been personally tested and vetted by our expert reviewers, who’ve applied not only performance benchmarks but rigorous usability standards. Dell Ultrasharp U3225QE – Best USB-C monitor overall Pros Functional, professional design Thunderbolt 4, USB-C, Ethernet, and 140 watts of Power Delivery New generation of IPS Black boosts contrast ratio Excellent",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-19T16:00:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.938451+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/1377172-0-06635800-1792425628-dell-ultrasharp-u3223qe-5.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "4ced4408d662",
   "titulo": "Melatonin and Ambien before surgery may improve sleep, reduce pain and opioid use after surgery",
   "url": "https://medicalxpress.com/news/2026-10-melatonin-ambien-surgery-pain-opioid.html",
@@ -1228,6 +1508,22 @@
   "publicado": "2026-10-18T21:50:01+00:00",
   "coletado_em": "2026-10-19T14:37:09.756506+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/surgical-room.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5091583126c4",
+  "titulo": "An eating disorder may be hiding in plain sight among adults with type 2 diabetes",
+  "url": "https://medicalxpress.com/news/2026-10-disorder-plain-sight-adults-diabetes.html",
+  "resumo": "Eating disorders are often dismissed as a lack of discipline or picky eating by much of society. Whether it's anorexia, bulimia or binge eating disorder, they are serious mental health conditions that require medical monitoring as well as nutrition counseling. In a recent study published in Diabetic Medicine, researchers from the University of Southern Denmark examined how common binge eating disorder (BED) symptoms are among adults with type 2 diabetes in the country.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T16:00:19+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-eating-disorder-is.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1291,8 +1587,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
-   "astrofisica"
+   "astrofisica",
+   "hardware"
   ],
   "publicado": "2026-10-19T12:59:57+00:00",
   "coletado_em": "2026-10-19T14:37:09.775957+00:00",
@@ -1313,6 +1609,22 @@
   "publicado": "2026-10-19T12:00:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.764090+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/kGytMDGTe48qG3bhMYp9MA-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "54133dbc9ea4",
+  "titulo": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions",
+  "url": "https://www.infoq.com/news/2026/10/pinterest-event-time-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "Pinterest has introduced event time-based partition finalization for its database ingestion framework. The mechanism uses Apache Flink to track event time and Apache Iceberg metadata to publish a non-regressing watermark, helping downstream jobs determine when continuously ingested CDC data is sufficiently complete for processing. By Leela Kumili",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-19T14:37:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.933172+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/10/pinterest-event-time-partition/en/headerimage/generatedHeaderImage-1791063877867.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1378,6 +1690,23 @@
   "publicado": "2026-10-18T16:03:01+00:00",
   "coletado_em": "2026-10-19T14:37:09.762313+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/BeW2F22fUfKmgBpAPSsk2m-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5a073ffe28dd",
+  "titulo": "Samsung Galaxy A17 ou A07? Veja uma seleção com os melhores modelos em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/19/reviews/samsung-galaxy-a17-ou-a07-veja-uma-selecao-com-os-melhores-modelos-em-promocao-na-amazon/",
+  "resumo": "Se você está de olho em um smartphone Samsung com bom custo-benefício, a Amazon reúne agora algumas opções interessantes da linha Galaxy para diferentes perfis de usuário. Reunimos três modelos em oferta — do intermediário Galaxy A07 ao mais equipado Galaxy A17 — para ajudar você a encontrar o aparelho certo sem complicação. Samsung Galaxy […] O post Samsung Galaxy A17 ou A07? Veja uma seleção com os melhores modelos em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "astrofisica",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T15:54:39+00:00",
+  "coletado_em": "2026-10-19T16:28:48.949100+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -1475,6 +1804,22 @@
   "publicado": "2026-10-19T13:48:56+00:00",
   "coletado_em": "2026-10-19T14:37:09.771053+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5f77327f49e2",
+  "titulo": "'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up",
+  "url": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up",
+  "resumo": "Using NASA’s SPHEREx spacecraft, astronomers have studied a horde of mysterious \"failed stars,\" or brown dwarfs, not-so-stellar loners that wander the darkness of space alone.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-19T15:06:38+00:00",
+  "coletado_em": "2026-10-19T16:28:48.936608+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/5e5fjCVmUiUuAYQxmHxS7R-1920-80.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -2030,6 +2375,38 @@
   "cobertura": []
  },
  {
+  "id": "7d1e0e80e5d4",
+  "titulo": "[$] Development statistics for the 7.3 kernel",
+  "url": "https://lwn.net/Articles/1100241/",
+  "resumo": "Linus Torvalds released the 7.3 kernel, at the end of the usual nine-week development cycle, on October 18. This cycle, abundantly fueled by LLM-assisted contributions, broke just about every record imaginable. As usual, we have compiled some statistics showing how this release, which is expected to be the next long-term-support (LTS) kernel, came together. Also included is an attempt to determine whether automated patch review is actually reducing the number of bugs introduced into the kernel.",
+  "fonte": "LWN.net",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-19T15:45:24+00:00",
+  "coletado_em": "2026-10-19T16:28:48.934064+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7fe9d39ef186",
+  "titulo": "Early-onset colorectal cancer patients from disadvantaged neighborhoods may have higher cancer-specific mortality",
+  "url": "https://medicalxpress.com/news/2026-10-early-onset-colorectal-cancer-patients.html",
+  "resumo": "Between 2011 and 2022, patients from the most disadvantaged neighborhoods in Kentucky and Georgia who were diagnosed with early-onset colorectal cancer (CRC) had a 30% increased risk of CRC-specific death compared with those from the most advantaged neighborhoods, according to a study presented at the 19th AACR Conference on The Science of Cancer Health Disparities, held Oct. 18–21, 2026.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T15:40:10+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/patients.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "7ff3938ff700",
   "titulo": "Curbing the neutrophil surge: New treatment offers hope for autoimmune diseases",
   "url": "https://medicalxpress.com/news/2026-10-curbing-neutrophil-surge-treatment-autoimmune.html",
@@ -2111,6 +2488,26 @@
   "cobertura": []
  },
  {
+  "id": "8486ec1db3d6",
+  "titulo": "Mod leva Ray Reconstruction e frame gen da NVIDIA às placas da AMD",
+  "url": "https://canaltech.com.br/hardware/mod-leva-ray-reconstruction-e-dlss-a-placas-da-amd-sem-perda-de-fps/",
+  "resumo": "Quem imaginaria que as tecnologias proprietárias da NVIDIA, exclusivas para as placas GeForce RTX, funcionariam em GPUs da rival AMD algum dia? Bem, o fato é que a comunidade tinha esperança e vemos agora diversas tecnologias da suíte DLSS rodando em placas Radeon RX , como Ray Reconstruction e gerador de múltiplos quadros do DLSS 4.5 , entre outras. O mod DLSS-NR-on-AMD traz agora mais do que somente o upscaling do lado verde da disputa, como adiciona também o Ray Reconstruction , responsável por melhorar o processamento de Ray Tracing com IA, bem como o gerador de quadros e seus diferentes modos que multiplicam a taxa de FPS com inteligência artificial também. Agora, qualquer Radeon RX 7000 e RX 9000 pode rodar o modelo F de reconstrução de raios e os modelos M e L de Super Resolution (upscaling). Adicione a isso o Frame Generation até 4x . O mod funciona somente no Windows 11 e em jogos com DirectX 12 que suportam o DLSS, FSR ou XeSS . Segundo a comunidade, a maioria dos jogos que se encaixam nesse perfil suporta a modificação, embora Alan Wake 2, Resident Evil Requiem e Pragmata pareçam não suportá-la ainda. DLSS 5 também funciona nas Radeon E já existem testes na internet most",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "biologia",
+   "software",
+   "hardware",
+   "computadores_pessoais",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T16:04:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.952752+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "871c9c8bb40b",
   "titulo": "How to choose a BLDC motor for robotic arms and mobile robots",
   "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
@@ -2123,6 +2520,22 @@
   "publicado": "2026-10-18T12:30:50+00:00",
   "coletado_em": "2026-10-19T14:37:09.760667+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "87d82cdcaef5",
+  "titulo": "Non-noble-metal electrode slashes green hydrogen production costs, overcoming a key bottleneck",
+  "url": "https://techxplore.com/news/2026-10-noble-metal-electrode-slashes-green.html",
+  "resumo": "A research team led by Dr. Kyung-Soo Kang and Dr. Hyun-Jun Lee from the Hydrogen Energy Research Division of the Korea Institute of Energy Research (KIER) has developed Ni/Co-based heterostructure water electrolysis electrodes that deliver higher hydrogen production efficiency than conventional noble-metal electrodes.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-19T15:40:26+00:00",
+  "coletado_em": "2026-10-19T16:28:48.945225+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/kiers-non-noble-metal.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2159,6 +2572,22 @@
   "cobertura": []
  },
  {
+  "id": "8c4f2972ea51",
+  "titulo": "Congo's fast-moving Ebola outbreak spreads to eighth province",
+  "url": "https://medicalxpress.com/news/2026-10-congo-fast-ebola-outbreak-eighth.html",
+  "resumo": "The Ebola outbreak in Congo has reached an eighth province in the country's north, authorities said on Sunday as the spread of the world's fastest-growing outbreak of the disease on record continues to outpace response efforts.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T16:00:16+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/congo-ebola-3.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "8c858bf2c9da",
   "titulo": "The painstaking task of cataloging the world's species",
   "url": "https://phys.org/news/2026-10-painstaking-task-world-species.html",
@@ -2182,8 +2611,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-19T12:17:49+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -2320,6 +2749,22 @@
   "cobertura": []
  },
  {
+  "id": "91c6c01dee7a",
+  "titulo": "Discovery of T. rex’s cousin upends our understanding of tyrannosaur evolution",
+  "url": "https://www.newscientist.com/article/2594525-discovery-of-t-rexs-cousin-upends-our-understanding-of-tyrannosaur-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+  "resumo": "A dinosaur that is new to science has features of both subfamilies of the tyrannosaur group, complicating our understanding of how they evolved",
+  "fonte": "New Scientist",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-19T15:00:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.982696+00:00",
+  "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317313480.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "9279cf6bb0c3",
   "titulo": "Democrats think cracking down on AI could give them an edge",
   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
@@ -2332,6 +2777,22 @@
   "publicado": "2026-10-19T12:00:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.768939+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "945589651c2b",
+  "titulo": "Proposed computer framework could connect Alzheimer's data to guide personalized care",
+  "url": "https://medicalxpress.com/news/2026-10-framework-alzheimer-personalized.html",
+  "resumo": "Alzheimer's disease may not be a single, uniform condition, but a complex disorder shaped by different combinations of cognitive symptoms, brain changes, biology, genetics and risk factors. A team of researchers propose using advanced computational modeling to bring these different layers together and build a more complete profile of each patient. The approach could eventually support more personalized diagnosis, better patient stratification and treatments tailored to the processes driving disease in each individual.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T15:20:07+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-computational-fram.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2396,6 +2857,22 @@
   "publicado": "2026-10-19T09:19:45+00:00",
   "coletado_em": "2026-10-19T14:37:09.755826+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "973656b68865",
+  "titulo": "X-rays reveal surprisingly long-lived spin waves in copper oxide",
+  "url": "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html",
+  "resumo": "Today's computer technology, based on silicon chips, is slowly reaching its physical limits. Components cannot be miniaturized indefinitely, and clock speeds cannot be increased indefinitely. At the same time, huge AI data centers are being built in many places, and these consume an immense amount of electricity. This is why scientists around the world are searching for novel materials that can replace or complement silicon technology and consume significantly less electricity.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-10-19T15:40:06+00:00",
+  "coletado_em": "2026-10-19T16:28:48.937317+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/x-rays-show-how-quasip.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2465,6 +2942,39 @@
   "cobertura": []
  },
  {
+  "id": "9b8d10eaf98f",
+  "titulo": "Devs colocam iOS 16 para rodar de verdade no Redmi Note 12",
+  "url": "https://canaltech.com.br/software/devs-colocam-ios-16-para-rodar-de-verdade-no-redmi-note-12/",
+  "resumo": "Um grupo de desenvolvedores conseguiu instalar e executar o iOS 16 , sistema operacional da Apple, em um Redmi Note 12 4G , da Xiaomi. O projeto utiliza componentes originais do software dos iPhones e já permite navegar pela interface, usar a tela sensível ao toque e controlar o volume do aparelho. A experiência foi divulgada nesta segunda-feira (19) pelo portal XimiTime. Diferentemente de aplicativos que apenas imitam a aparência dos iPhones, os desenvolvedores conseguiram inicializar uma versão adaptada do próprio sistema da Apple. Em imagens divulgadas pelos responsáveis pelo projeto, o Redmi Note 12 aparece executando a interface do iOS. Na seção de configurações, o aparelho é identificado como um iPhone X, com a versão 16 do sistema operacional. O experimento também teve seu código disponibilizado publicamente no GitHub, sob o nome \"ios-topaz\". Apesar dos avanços, o software ainda está em fase experimental e não permite utilizar o celular Android como um iPhone convencional. Como conseguiram instalar o iOS no Redmi Note 12? Para fazer a adaptação, os desenvolvedores utilizaram o XNU, núcleo de código aberto empregado pela Apple em sistemas como iOS e macOS. Conhecido como kern",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-19T16:01:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.952752+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/MW_zHX3EQGnpXJ-zejcUBp1Ix94=/0x0/filters:format(webp):quality(85)/6999cab2-842e-4799-9940-61bcff1ff361.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9c444144ec34",
+  "titulo": "Hacker usou IA para invadir mais de 100 sites com baixo custo, diz Reuters",
+  "url": "https://olhardigital.com.br/2026/10/19/inteligencia-artificial/hacker-usou-ia-para-invadir-mais-de-100-sites-com-baixo-custo-diz-reuters/",
+  "resumo": "Hacker usa agentes de IA para invadir sites de mais de 100 empresas, explorar falhas de segurança e executar ataques com pouca intervenção humana O post Hacker usou IA para invadir mais de 100 sites com baixo custo, diz Reuters apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T14:29:19+00:00",
+  "coletado_em": "2026-10-19T16:28:48.949100+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "9d6e908a2a9f",
   "titulo": "PS6 pode ser o console mais caro da história, custando mais de R$ 6 mil",
   "url": "https://canaltech.com.br/games/ps6-pode-ser-o-console-mais-caro-da-historia-custando-mais-de-r-6-mil/",
@@ -2472,10 +2982,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
+   "ciberseguranca",
    "computadores_pessoais",
-   "ciberseguranca"
+   "hardware"
   ],
   "publicado": "2026-10-19T14:26:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -2581,6 +3091,54 @@
   "cobertura": []
  },
  {
+  "id": "a09ad7f6aaf6",
+  "titulo": "Martian Dawn",
+  "url": "https://www.nasa.gov/image-article/martian-dawn/",
+  "resumo": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-19T16:03:51+00:00",
+  "coletado_em": "2026-10-19T16:28:48.935537+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a0d6570148ed",
+  "titulo": "Ancient technique can improve the bland taste of beans",
+  "url": "https://phys.org/news/2026-10-ancient-technique-bland-beans.html",
+  "resumo": "Faba beans are rich in protein and can easily be grown in Denmark—yet they are more often used as animal feed than as food for people. One of the main reasons is that their flavor does not meet consumer expectations compared with beef, pork or chicken.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-19T16:20:18+00:00",
+  "coletado_em": "2026-10-19T16:28:48.929567+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/faba-beans.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a1e14e2189f9",
+  "titulo": "JEP 543 Finalizes Structured Concurrency in JDK 28, Ending Seven Preview Rounds",
+  "url": "https://www.infoq.com/news/2026/10/jep-543-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "JDK 28 finalizes structured concurrency through JEP 543, with no API changes from JDK 27. Teams on JDK 27 only need to drop --enable-preview and recompile. Code written for JDK 25 or 26 must adapt to the R_X exception type parameter, ExecutionException wrapping, and the abstract timeout() joiner callback. By A N M Bazlur Rahman",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-19T14:30:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.933172+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/10/jep-543-jdk-28/en/headerimage/generatedHeaderImage-1792296304479.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "a1f535f5e972",
   "titulo": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
   "url": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
@@ -2642,6 +3200,22 @@
   "publicado": "2026-10-19T11:00:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.765700+00:00",
   "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3262772-0-97955500-1792407636-IMG_9100.jpeg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a46a086afa8c",
+  "titulo": "Gut microbiome could help identify people at risk of dementia",
+  "url": "https://medicalxpress.com/news/2026-10-gut-microbiome-people-dementia.html",
+  "resumo": "In what is thought to be the first study of its kind, researchers from Cardiff University and Imperial College London examined both gut bacteria and chemicals. Their findings could support earlier diagnosis and help spot people at risk of faster decline.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T16:20:12+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2022/gut.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2742,6 +3316,22 @@
   "cobertura": []
  },
  {
+  "id": "ac7e2afd5a93",
+  "titulo": "Childhood adversity linked to billions in health and economic costs—new research",
+  "url": "https://medicalxpress.com/news/2026-10-childhood-adversity-linked-billions-health.html",
+  "resumo": "Childhood trauma can leave scars that last long after the experiences themselves have ended. Its effects can reach into adult life, increasing the risk of mental illness, physical health problems and other difficulties.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T15:20:01+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/childhood-adversity.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "adb231452233",
   "titulo": "China’s Tuoyuan Targets Neutral-Atom Quantum Computing",
   "url": "https://thequantuminsider.com/2026/10/19/chinas-tuoyuan-targets-neutral-atom-quantum-computing/",
@@ -2754,6 +3344,22 @@
   "publicado": "2026-10-19T11:00:57+00:00",
   "coletado_em": "2026-10-19T14:37:09.764511+00:00",
   "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2juj2cxwb7u.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "aec5005a6c0b",
+  "titulo": "Kodama raises $7M to bring robotics to forestry",
+  "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/",
+  "resumo": "Kodama is working on automating forestry and logging equipment, starting with teleoperation and collecting valuable data on the way. The post Kodama raises $7M to bring robotics to forestry appeared first on The Robot Report .",
+  "fonte": "The Robot Report",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "robotica"
+  ],
+  "publicado": "2026-10-19T15:55:12+00:00",
+  "coletado_em": "2026-10-19T16:28:48.932691+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -2781,13 +3387,29 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-18T20:00:06+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/oUMoXDQPn-yOR44vobblskhdmhY=/0x0/filters:format(webp):quality(85)/8342f4ab-4e48-4190-8797-8ab3823ce499.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "b19a11e56625",
+  "titulo": "Brief self-care meditation boosts body confidence",
+  "url": "https://medicalxpress.com/news/2026-10-meditation-boosts-body-confidence.html",
+  "resumo": "Australian adults who completed the self-compassion meditation training reported significantly increased body appreciation, positive well-being and lower self-judgment. The benefits were still evident six weeks after the program concluded, and frequency of practice alone did not drive the size of change.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T15:40:16+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/meditation.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2799,10 +3421,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "biologia",
-   "hardware",
    "astrofisica",
-   "energia_materiais"
+   "biologia",
+   "energia_materiais",
+   "hardware"
   ],
   "publicado": "2026-10-19T10:59:46+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -2941,6 +3563,22 @@
   "cobertura": []
  },
  {
+  "id": "bbde549f108a",
+  "titulo": "Dependência da Starlink preocupa governos e expõe poder de Elon Musk",
+  "url": "https://olhardigital.com.br/2026/10/19/ciencia-e-espaco/dependencia-da-starlink-preocupa-governos-e-expoe-poder-de-elon-musk/",
+  "resumo": "A Starlink conecta zonas remotas e virou peça importante em guerras. Entenda como funciona a rede de Elon Musk e por que preocupa governos O post Dependência da Starlink preocupa governos e expõe poder de Elon Musk apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-19T15:09:24+00:00",
+  "coletado_em": "2026-10-19T16:28:48.949100+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "bbfbf2721275",
   "titulo": "Cover 10 devices with AdGuard VPN for five years at $34.97",
   "url": "https://www.pcworld.com/article/3262840/cover-10-devices-with-adguard-vpn-for-five-years-at-34-97.html",
@@ -2980,8 +3618,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-10-18T18:30:04+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
@@ -3102,6 +3740,22 @@
   "cobertura": []
  },
  {
+  "id": "c83c0fb0a3c4",
+  "titulo": "STAT+: China moves to restrict foreign biotech acquisitions",
+  "url": "https://www.statnews.com/2026/10/19/biotech-news-china-moves-to-restrict-foreign-biotech-acquisitons/?utm_campaign=rss",
+  "resumo": "China is proposing new restrictions on foreign acquisitions of critical biopharma technologies, as the country seeks to retain control over its burgeoning drug development industry.",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T14:58:31+00:00",
+  "coletado_em": "2026-10-19T16:28:48.929151+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_584101476-1024x576.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "ca1d38b4e698",
   "titulo": "Algae fossils from Cambrian explosion hint at sophisticated reproductive system",
   "url": "https://phys.org/news/2026-10-algae-fossils-cambrian-explosion-hint.html",
@@ -3130,6 +3784,38 @@
   "publicado": "2026-10-19T05:30:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.761558+00:00",
   "imagem_feed": "https://image.theregister.com/?imageId=5302167&width=800",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "cb243a98d7f5",
+  "titulo": "Anthropic quer barrar IAs apenas diante de riscos extremos",
+  "url": "https://tecnoblog.net/noticias/anthropic-quer-barrar-ias-apenas-diante-de-riscos-extremos/",
+  "resumo": "Projeto prevê bloqueio de modelos que ameacem causar mais de 50 mortes ou ferimentos graves, ou prejuízos acima de US$ 1 bilhão. Anthropic quer barrar IAs apenas diante de riscos extremos",
+  "fonte": "Tecnoblog",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T15:31:29+00:00",
+  "coletado_em": "2026-10-19T16:28:48.951361+00:00",
+  "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-3.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "cbb8c1f536ee",
+  "titulo": "Usuários usam IA para remover anúncios e mudar interfaces de TVs",
+  "url": "https://tecnoblog.net/noticias/usuarios-usam-ia-para-remover-anuncios-e-mudar-interfaces-de-tvs/",
+  "resumo": "Projetos usam ferramentas como Claude Code para criar launchers personalizados. Usuários usam IA para remover anúncios e mudar interfaces de TVs",
+  "fonte": "Tecnoblog",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T15:41:42+00:00",
+  "coletado_em": "2026-10-19T16:28:48.951361+00:00",
+  "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/smart-tv-tcl-c7l-imagem-divulgacao.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -3179,6 +3865,22 @@
   "publicado": "2026-10-19T12:26:15+00:00",
   "coletado_em": "2026-10-19T14:37:09.762313+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/GPKBhsmjD7H3HLGG7cGhmb-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "cd50c8bc3e8e",
+  "titulo": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
+  "url": "https://www.nature.com/articles/d41586-026-03275-w",
+  "resumo": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03275-w A Nature investigation identified more than 30 requests since 2024 to US universities in a campaign questioning climate attribution science.",
+  "fonte": "Nature",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-19T00:00:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.930645+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -3376,6 +4078,22 @@
   "cobertura": []
  },
  {
+  "id": "d58c6e824d3a",
+  "titulo": "The science and politics behind the panic over ultraprocessed foods",
+  "url": "https://medicalxpress.com/news/2026-10-science-politics-panic-ultraprocessed-foods.html",
+  "resumo": "Ultraprocessed foods have a terrible reputation.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T14:40:09+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2018/candy.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "d7252f1b7ceb",
   "titulo": "Flock camera locations revealed on MapQuest’s new Surveillance Layer",
   "url": "https://www.tomshardware.com/software/maps/flock-camera-locations-revealed-on-mapquests-new-surveillance-layer-users-can-now-see-placement-and-direction-of-known-license-plate-readers-from-multiple-companies",
@@ -3426,6 +4144,38 @@
   "cobertura": []
  },
  {
+  "id": "d812edd94956",
+  "titulo": "Tongue exercises for ALS patients show promise in preclinical study",
+  "url": "https://medicalxpress.com/news/2026-10-tongue-als-patients-preclinical.html",
+  "resumo": "Research at the University of Missouri could lead to new therapies for people with amyotrophic lateral sclerosis (ALS) and other motor neuron diseases. In a preclinical model, the researchers discovered that tongue exercise can improve the activity of surviving neurons that control tongue movement, helping them compensate as other neurons are lost.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T16:20:14+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/tongue-exercises-for-a.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d88320583f8c",
+  "titulo": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+  "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+  "resumo": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T15:37:09+00:00",
+  "coletado_em": "2026-10-19T16:28:48.944096+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "d97cdc3fc822",
   "titulo": "Quanto custaria um Etios sedan hoje, com a inflação?",
   "url": "https://canaltech.com.br/carros/quanto-custaria-um-etios-sedan-hoje-com-a-inflacao/",
@@ -3439,6 +4189,22 @@
   "publicado": "2026-10-18T22:02:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.777103+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/sbya3W4GsxKxv1uYy4zaJP1o_vE=/0x0/filters:format(webp):quality(85)/b4ff71d6-8bcf-4131-8a5a-7f511026c1a9.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d9a310bcce73",
+  "titulo": "Girls vaping at higher rates than boys, national study finds",
+  "url": "https://medicalxpress.com/news/2026-10-girls-vaping-higher-boys-national.html",
+  "resumo": "For decades, boys and men were more likely than their female peers to use nicotine. But a new study from MUSC shows that among U.S. adolescents, that pattern has reversed for vaping.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T15:00:09+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/vaping-4.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -3539,6 +4305,22 @@
   "cobertura": []
  },
  {
+  "id": "e23b83628cf2",
+  "titulo": "Rolling without wheels: How dwarf reedsnakes coordinate their bodies for high-speed escapes",
+  "url": "https://phys.org/news/2026-10-wheels-dwarf-reedsnakes-bodies-high.html",
+  "resumo": "Small snakes called dwarf reedsnakes can escape danger by rolling rapidly along the ground. Researchers investigated how they perform this unusual form of locomotion using multi-angle video analyses. The results show that the snakes use precisely coordinated body movements that keep their heads facing the direction of travel and at a relatively stable height, even as the posterior body undergoes large rotational movements.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-19T15:00:04+00:00",
+  "coletado_em": "2026-10-19T16:28:48.929567+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-snakes-roll-at-hig.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "e2cc0b0fede0",
   "titulo": "When a younger sibling has a disability, it places a strain on older children",
   "url": "https://medicalxpress.com/news/2026-10-younger-sibling-disability-strain-older.html",
@@ -3551,6 +4333,22 @@
   "publicado": "2026-10-19T14:00:12+00:00",
   "coletado_em": "2026-10-19T14:37:09.756506+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/siblings.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e389e5eeed98",
+  "titulo": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+  "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+  "resumo": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-19T14:41:48+00:00",
+  "coletado_em": "2026-10-19T16:28:48.942775+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -3568,6 +4366,22 @@
   "publicado": "2026-10-18T13:24:23+00:00",
   "coletado_em": "2026-10-19T14:37:09.762313+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/g6GuNaVQYV63v7z4CrSphL-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e77c31feba8b",
+  "titulo": "Nvidia says the RTX 5090 isn't discontinued, but most listings are over $9,300",
+  "url": "https://www.techspot.com/news/114254-nvidia-rtx-5090-production-but-absence-company-us.html",
+  "resumo": "Prolific leaker MEGAsizeGPU last week wrote that Nvidia had \"confirmed\" the GB202 chip used in the RTX 5090 would no longer be used in new RTX 5090 cards. Instead, future supplies of the GPU would be used exclusively for RTX Pro Blackwell-based models. Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-19T16:14:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.941755+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2024/11/2024-11-17-ts3_thumbs-3e0.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -3734,6 +4548,23 @@
   "cobertura": []
  },
  {
+  "id": "f16dc4222814",
+  "titulo": "IPO da dona do Claude tem corte de US$ 500 bi e acende alerta de bolha",
+  "url": "https://canaltech.com.br/mercado/ipo-da-dona-do-claude-tem-corte-de-us-500-bi-e-acende-alerta-de-bolha/",
+  "resumo": "A expectativa de avaliação da Anthropic, empresa responsável pela inteligência artificial Claude, sofreu um corte de US$ 500 bilhões (cerca de 25%) antes de sua estreia na Bolsa de Valores. Segundo a Reuters, investidores passaram a considerar que a companhia vale US$ 1,5 trilhão , abaixo dos US$ 2 trilhões projetados anteriormente, aumentando os temores sobre uma possível bolha no mercado de IA. Com este valor de mercado atualizado, a companhia ocuparia hoje a 11ª posição entre as empresas mais valiosas do mundo. A redução foi discutida após uma reunião com investidores realizada na última quarta-feira (14), na sede da empresa, em São Francisco, nos Estados Unidos. A abertura de capital, conhecida como IPO, está prevista para novembro. O valor ainda não representa uma perda efetiva de mercado, já que a Anthropic continua sendo uma empresa privada. Trata-se de uma revisão das expectativas de alguns investidores sobre quanto a companhia poderá valer quando suas ações começarem a ser negociadas. De acordo com quatro fontes ouvidas pela Reuters, o principal motivo para a mudança foi a desaceleração no crescimento da receita, apesar de a Anthropic continuar apresentando resultados bili",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T15:01:00+00:00",
+  "coletado_em": "2026-10-19T16:28:48.952752+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "f1e485888d76",
   "titulo": "Segurança da Conta Google: como ativar 2FA, trocar senha e desconectar dispositivos",
   "url": "https://canaltech.com.br/apps/seguranca-da-conta-google-como-ativar-2fa-trocar-senha-e-desconectar-dispositivos/",
@@ -3750,6 +4581,22 @@
   "cobertura": []
  },
  {
+  "id": "f29c0f5b25c3",
+  "titulo": "Common cold sore virus may reprogram the brain's immune defenses",
+  "url": "https://medicalxpress.com/news/2026-10-common-cold-sore-virus-reprogram.html",
+  "resumo": "Researchers at the University of Colorado Anschutz have discovered how herpes simplex virus type 1 (HSV-1), the virus that causes cold sores, can fundamentally change how the brain's immune cells respond to infection, revealing a potentially important connection between viral infection, chronic inflammation and Alzheimer's disease.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-19T14:40:01+00:00",
+  "coletado_em": "2026-10-19T16:28:48.928295+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2019/braincells.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "f5d8fcb91735",
   "titulo": "How good are your AI-detection skills? Test yourself with these games",
   "url": "https://www.pcworld.com/article/3259867/how-good-are-your-ai-detection-skills-test-yourself-with-these-games.html",
@@ -3762,6 +4609,22 @@
   "publicado": "2026-10-19T10:30:00+00:00",
   "coletado_em": "2026-10-19T14:37:09.765700+00:00",
   "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3259867-0-84514500-1792405831-Slop-Sense.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "f93d80856f11",
+  "titulo": "People are using AI to make their smart TVs dumb again",
+  "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+  "resumo": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-19T16:13:22+00:00",
+  "coletado_em": "2026-10-19T16:28:48.944096+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
