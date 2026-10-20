@@ -1,0 +1,767 @@
+{
+  "medicina": [
+    {
+      "id": "c03fe86864f0",
+      "titulo": "New commentary calls for shift to nurse-sensitive outcome measures",
+      "url": "https://medicalxpress.com/news/2026-10-commentary-shift-nurse-sensitive-outcome.html",
+      "resumo": "Current health care metrics fail to capture the true value of acute and critical care nursing, evaluating the profession primarily by the absence of patient harm rather than positive clinical outcomes, according to a commentary in JAMA Internal Medicine.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-20T11:00:01+00:00",
+      "coletado_em": "2026-10-20T14:19:33.767202+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/critical-care.jpg",
+      "score": 6.2,
+      "cobertura": []
+    },
+    {
+      "id": "cc4f713169e7",
+      "titulo": "New PET imaging approach detects almost all lesions in common form of kidney cancer",
+      "url": "https://medicalxpress.com/news/2026-10-pet-imaging-approach-lesions-common.html",
+      "resumo": "A new PET imaging approach detected 97.9% of lesions in clear cell renal cell carcinoma (ccRCC), potentially giving clinicians a more complete picture of the location and extent of a patient's disease, according to research presented at the 39th Annual Congress of the European Association of Nuclear Medicine (EANM'26).",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-20T07:50:01+00:00",
+      "coletado_em": "2026-10-20T14:19:33.767202+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/kidney-cancer.jpg",
+      "score": 5.925,
+      "cobertura": []
+    },
+    {
+      "id": "af41fd893ed4",
+      "titulo": "IA prevê chances de sobrevivência de pacientes com câncer a partir de selfie",
+      "url": "https://olhardigital.com.br/2026/10/20/medicina-e-saude/ia-preve-chances-de-sobrevivencia-de-pacientes-com-cancer-a-partir-de-selfie/",
+      "resumo": "Treinada com mais de 40 milhões de fotos, a IA pode ajudar médicos a avaliar riscos antes de tratamentos contra o câncer O post IA prevê chances de sobrevivência de pacientes com câncer a partir de selfie apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "medicina",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-20T13:34:31+00:00",
+      "coletado_em": "2026-10-20T14:19:33.783554+00:00",
+      "imagem_feed": null,
+      "score": 5.865,
+      "cobertura": []
+    },
+    {
+      "id": "e3ee64a5ab2e",
+      "titulo": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
+      "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
+      "resumo": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-20T12:37:18+00:00",
+      "coletado_em": "2026-10-20T14:19:33.767760+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_kreiter10192026danafarber13-1024x576.jpg",
+      "score": 5.662,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "e362479758b5",
+      "titulo": "Keeping jumping genes in place: New role for protein complex discovered",
+      "url": "https://phys.org/news/2026-10-genes-role-protein-complex.html",
+      "resumo": "As much as half of the human genome is composed of so-called \"jumping genes.\" These DNA sequences can make copies of themselves that are inserted back into the genome at another location, playing a significant functional role in creating the diversity that drives evolution and in regulating how other genes are turned on or off. However, their jumps can also make the genome less stable and create mutations that have been associated with neurodevelopmental disorders, autoimmune disease and cancer.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-20T12:40:04+00:00",
+      "coletado_em": "2026-10-20T14:19:33.768102+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/keeping-jumping-genes.jpg",
+      "score": 6.367,
+      "cobertura": []
+    },
+    {
+      "id": "6b8eedcb7d96",
+      "titulo": "Could wood provide a better home for oil-degrading microbes?",
+      "url": "https://phys.org/news/2026-10-wood-home-oil-degrading-microbes.html",
+      "resumo": "According to a study conducted by researchers at Sultan Qaboos University, the material used to support microbial biofilms could influence their potential role in treating water generated during oil production. The research was led by Ph.D. candidate Arwa Al-Hadhrami under the supervision of Dr. Daniel Blackburn and conducted by a Sultan Qaboos University team representing the College of Agricultural and Marine Sciences and the Water Research Center, Oman. The results are published in Environmental Advances.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-20T13:40:16+00:00",
+      "coletado_em": "2026-10-20T14:19:33.768102+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-wood-provide-a-b.jpg",
+      "score": 4.976,
+      "cobertura": []
+    },
+    {
+      "id": "9474f8036c99",
+      "titulo": "Octopus and cuttlefish suckers may have evolved by repurposing ancient developmental genes",
+      "url": "https://phys.org/news/2026-10-octopus-cuttlefish-suckers-evolved-repurposing.html",
+      "resumo": "Cephalopods, like the octopus, have specialized arms and suckers, but how these structures evolved from the simple bodies of their mollusk ancestors remains a mystery. Researchers from the University of Tokyo compared gene activity during embryonic development of cuttlefish, octopus and snail body parts. They found that several genes associated with appendage patterning showed expression along developing cephalopod arms, but no comparable patterns in developing suckers. Developing suckers instead expressed Ets1, a gene associated with early embryonic development in mollusks. The findings suggest cephalopods evolved suckers by reusing existing genes in new ways.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-20T13:30:01+00:00",
+      "coletado_em": "2026-10-20T14:19:33.768102+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-are-cephalopods-su-1.jpg",
+      "score": 4.957,
+      "cobertura": []
+    },
+    {
+      "id": "42d59de91dc1",
+      "titulo": "Researchers explore the valuable connection between birds, memory and territory in Chile",
+      "url": "https://phys.org/news/2026-10-explore-valuable-birds-memory-territory.html",
+      "resumo": "Black-necked swans, spot-flanked gallinules, southern lapwings, austral thrushes and dozens of other bird species fly across the Río Cruces Wetland, carrying the biocultural memory of the territory. Both resident birds and species that migrate throughout the year bear witness to the many changes this landscape has undergone over time.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-20T13:20:04+00:00",
+      "coletado_em": "2026-10-20T14:19:33.768102+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-explores-the-1.jpg",
+      "score": 4.939,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "b657bbd1f782",
+      "titulo": "The Robot I Didn’t Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "resumo": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the real world. Engineered to lift 23-kilogram bins onto high shelves and with a battery that can run for 90 minutes on a 9-minute charge, Digit 5’s goal is to handle heavy warehouse tasks shift after shift, filling the need for labor in jobs that are too physically stressful or too dull for humans to want to do. Digit 5 is what Agility has been working toward for over a decade. But the robot is heavy and bulky, lacking the graceful natural motion of its predecessors, and it’s farther than I thought possible from the robot I dreamed of building when I started this company. To deliver a useful commercial product, Agility has taken a path that is very different from what I first imagined. From ATRIAS to Digit My dream has always been to build robots that combine locomotion and manipulation to move through the world and interact with it as people do. I seek a mastery of motion, achieved throug",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-19T13:00:03+00:00",
+      "coletado_em": "2026-10-20T14:19:33.769323+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/author-jonathan-hurst-a-tall-slim-white-man-wearing-a-black-long-sleeve-shirt-and-dark-jeans-stands-next-to-his-digit-5-humano.jpg?id=68441166&width=980",
+      "score": 5.113,
+      "cobertura": []
+    },
+    {
+      "id": "d2673d3dc3e6",
+      "titulo": "Gecko Robotics secures $300M contract with the U.S. Navy",
+      "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
+      "resumo": "Gecko claimed this signals the Pentagon’s confidence that it is a core military capability that is delivering results. The post Gecko Robotics secures $300M contract with the U.S. Navy appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-20T10:25:47+00:00",
+      "coletado_em": "2026-10-20T14:19:33.770180+00:00",
+      "imagem_feed": null,
+      "score": 4.997,
+      "cobertura": []
+    },
+    {
+      "id": "453a18d1aa0b",
+      "titulo": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
+      "url": "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/",
+      "resumo": "Surgery Mode in Unfold AI brings patient-specific 3D maps to give an enhanced view of cancer anatomy during robotic prostate procedures. The post Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-20T12:59:43+00:00",
+      "coletado_em": "2026-10-20T14:19:33.770180+00:00",
+      "imagem_feed": null,
+      "score": 4.752,
+      "cobertura": []
+    },
+    {
+      "id": "3c9efc8a7931",
+      "titulo": "Intel revela superchip Razor Lake-AX com GPU monstruosa e 700 TOPS de IA",
+      "url": "https://canaltech.com.br/hardware/intel-revela-superchip-razor-lake-ax-com-gpu-monstruosa-e-700-tops-de-ia/",
+      "resumo": "A Intel revelou oficialmente o seu cronograma de lançamentos para sistemas de robótica e inteligência artificial, confirmando a chegada dos novos processadores Razor Lake-AX para o ano de 2028 . O anúncio foi realizado pelo executivo Cho Min-sung durante a conferência Semiconductors Powering Humanoids, na Coreia do Sul, destacando que a nova plataforma terá como meta entregar até 700 TOPS de desempenho computacional voltado para inteligência artificial . A marca de 700 TOPS representa um avanço considerável dentro do catálogo de SoCs da fabricante. Para efeito de comparação, a atual plataforma de referência da Intel para robótica, baseada nos chips Panther Lake (Core Ultra 300), alcança até 180 TOPS de desempenho combinado de IA . Com o salto de arquitetura do Razor Lake-AX, o Time Azul pretende multiplicar em quase 4x o poder de processamento teórico focado em automação e robôs humanoides. Foco em robôs humanoides e arquitetura avançada A confirmação do Razor Lake-AX revela os planos da Intel para expandir o uso de seus chips além dos PCs de mesa e notebooks. Vazamentos anteriores sobre o chip indicavam configurações robustas contendo entre 16 e 32 núcleos gráficos baseados na arq",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-19T18:04:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2MKsxCQaKOEtxU_sFLawEubtF_M=/0x0/filters:format(webp):quality(85)/56d26c42-5beb-49a4-99e3-687baa0f855c.jpg",
+      "score": 4.721,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "9c406b04d589",
+      "titulo": "Novo launcher Xodus Nexus permite rodar jogos do Xbox no Linux",
+      "url": "https://canaltech.com.br/games/novo-launcher-xodus-nexus-permite-rodar-jogos-do-xbox-no-linux/",
+      "resumo": "A comunidade open-source deu mais um passo importante para aproximar a biblioteca de jogos da Microsoft dos sistemas operacionais baseados em Linux. Isso acontece agora com o Xodus Nexus , um novo gerenciador de jogos de código aberto voltado especialmente para donos de consoles portáteis como o Steam Deck . A ferramenta simplifica a instalação , o gerenciamento de assinaturas e a navegação da biblioteca do Xbox Game Pass diretamente pelo SteamOS e por distribuições Linux, eliminando a dependência de métodos complexos ou do uso exclusivo de navegadores web via nuvem. App promete ser simples, mas intuitivo Até então, acessar o ecossistema do Xbox no sistema operacional da Valve exigia configurações manuais trabalhosas para rodar o Xbox Cloud Gaming ou a instalação completa do Windows na máquina. O Xodus Nexus chega com uma interface gráfica intuitiva que integra as funcionalidades desenvolvidas pelo projeto Xodus , permitindo navegar pelo catálogo do serviço, autenticar a conta da Microsoft com segurança e gerenciar downloads com poucos cliques. A interface foi projetada sob medida para telas sensíveis ao toque e navegação por controles , se adaptando perfeitamente ao modo de exibiç",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-20T14:06:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/psQSt1EDRZU7TXrsVe-Z3bi8Y8A=/0x0/filters:format(webp):quality(85)/2762b74f-c066-4c7c-8e1b-481d10a21ccf.jpg",
+      "score": 6.074,
+      "cobertura": []
+    },
+    {
+      "id": "f039f9c5cc12",
+      "titulo": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1101617/",
+      "resumo": "Security updates have been issued by AlmaLinux (environment-modules, kernel, pcs, perl-URI, python3.14-urllib3, and webkit2gtk3), Debian (python-django), Fedora (bind, bind-dyndb-ldap, chromium, cifs-utils, curl, haveged, python3.15, qt5-qtbase, rust-rbw, rust-routinator, rust-rustls, xorg-x11-server, and xorg-x11-server-Xwayland), Mageia (firefox, firefox-l10n, nss, flatpak-builder, imagemagick, libpng, libxi, libxpm, libxtst, openssh, postgis, and thunderbird), Oracle (emacs, environment-modules, libsoup, perl-URI, python3.14-urllib3, webkit2gtk3, and xorg-x11-server), Red Hat (go-fdo-client, go-fdo-server, golang, kernel, kernel-rt, openssh, postgresql:16, postgresql:18, and rust-sequoia-sq), SUSE (alsa, AusweisApp, chromedriver, ffmpeg-4, kubernetes, libsoup2, nvidia-open-driver-G07-signed, p11-kit, perl-Net-OAuth, perl-Net-Whois-Raw, pgvector-devel, pi-coding-agent, podman, python, python3, python3-base, python3-doc, python315, python36, thunderbird, and velociraptor), and Ubuntu (cifs-utils, curl, golang-1.22, libxtst, openssh, openssh-gssapi, and php8.5, php8.3, php8.1, php7.4, php7.2, php7.0, php5).",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-20T13:06:38+00:00",
+      "coletado_em": "2026-10-20T14:19:33.771121+00:00",
+      "imagem_feed": null,
+      "score": 5.414,
+      "cobertura": []
+    },
+    {
+      "id": "382ce7d16fd9",
+      "titulo": "GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale",
+      "url": "https://www.infoq.com/news/2026/10/github-runner-controller-0-15/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "GitHub has released Actions Runner Controller (ARC) 0.15.0, introducing reliability, scalability, and observability improvements for organisations running self-hosted GitHub Actions runners on Kubernetes. By Craig Risi",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-20T12:00:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.770564+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/github-runner-controller-0-15/en/headerimage/generatedHeaderImage-1791971221854.jpg",
+      "score": 4.949,
+      "cobertura": []
+    },
+    {
+      "id": "0ff13dc43176",
+      "titulo": "OpenBSD 8.0 released",
+      "url": "https://lwn.net/Articles/1101536/",
+      "resumo": "OpenBSD 8.0 has been released. There are many new features, including the addition of hibernate support for arm64, an increase in the kernel virtual address space for amd64 to 512GB, quite a few improvements for the qwx driver that supports Qualcomm WiFi 6 devices, and much more. See the full changelog for details.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-20T13:07:14+00:00",
+      "coletado_em": "2026-10-20T14:19:33.771121+00:00",
+      "imagem_feed": null,
+      "score": 4.915,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "a3e1d93e65d8",
+      "titulo": "Mysterious AMD Zen 6 APU with 24GB of LPDDR5 memory appears in benchmarks — chip may be for next-gen Steam Deck or gaming handhelds",
+      "url": "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds",
+      "resumo": "The engineering sample features six CPU cores, 24GB of LPDDR5 memory running at 9,600 MT/s, and an integrated GPU clocked at 2.4 GHz, although its connection to a future Steam Deck remains unconfirmed.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-20T13:59:43+00:00",
+      "coletado_em": "2026-10-20T14:19:33.771698+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/F2eBRdr2oBGZeuWJZ9qPYQ-1920-80.jpg",
+      "score": 6.662,
+      "cobertura": []
+    },
+    {
+      "id": "c36f7fe55260",
+      "titulo": "Modal taps Nvidia Vera CPUs after firm's internal tests show 2x throughput over Intel and AMD chips",
+      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-vera-cpu-deployed-at-ai-startup-modal-alongside-existing-x86-fleet-internal-testing-showed-2x-throughput-compared-to-amd-and-intel",
+      "resumo": "Nvidia's Vera CPU delivers twice the performance of Intel and AMD chips in AI agent workloads, Modal claims.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-20T11:50:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.771698+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "score": 6.432,
+      "cobertura": []
+    },
+    {
+      "id": "1b01ac9301ae",
+      "titulo": "Novo notebook da Xiaomi terá chip Intel Wildcat Lake e memória RAM expansível",
+      "url": "https://canaltech.com.br/notebook/novo-notebook-da-xiaomi-tera-chip-intel-wildcat-lake-e-memoria-ram-expansivel/",
+      "resumo": "A Xiaomi está prestes a renovar a sua linha de notebooks com o novo Redmi Book 16 que acabou de ter um benchmark vazado. O modelo foi identificado com o processador Intel Core 5 320, da família de entrada Wildcat Lake, com 6 núcleos e 16 GB de memória RAM DDR5 em formato SODIMM . A presença de pentes removíveis indica suporte a upgrade pelo usuário , mantendo características como a bateria de 80 Wh e tela IPS de 16 polegadas (120 Hz e resolução 1600p) . Os testes do Geekbench não surpreendem, já que o portátil registrou resultados condizentes com o foco em eficiência energética , priorizando a autonomia em relação ao desempenho multithread bruto quando comparado aos antecessores. A pontuação obtida reforça o foco da Xiaomi em entregar um notebook capaz de rodar tarefas de escritório e mídia com menor geração de calor e consumo de bateria contido. A arquitetura Intel Wildcat Lake e o foco em eficiência A plataforma Wildcat Lake representa a aposta da Intel para renovar o segmento intermediário de portáteis e ultrabooks acessíveis. Projetada para focar na eficiência energética , a arquitetura simplifica a contagem de núcleos para otimizar o consumo por watt, oferecendo uma alternativ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T10:35:04+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/xydq5LzMfYsc6Lebn3F_xmMXops=/0x0/filters:format(webp):quality(85)/11753260-f0dc-4448-8914-3208465750c4.jpg",
+      "score": 5.711,
+      "cobertura": []
+    },
+    {
+      "id": "c32bd47de3c4",
+      "titulo": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+      "url": "https://spectrum.ieee.org/community-college-semiconductors",
+      "resumo": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such workers will only reach about 62,000 people, the National Network for Microelectronics Education (NNME) estimated in July. “The US is facing a critical shortage of workers for the semiconductor industry,” says Jennifer Taylor-Mendoza , president of West Valley College in Saratoga, California. “Rebuilding this workforce is not optional.” “Community colleges are the gateway,” says Leah Palmer, Executive Director of the Arizona Advanced Manufacturing Institute at Maricopa Community Colleges (MCC), a network of 10 colleges. “Not everyone can afford university. Not everyone is prepared for university.” But community colleges are well placed to meet those potential workers where they are and help them fill the need of the semiconductor industry. The biggest shortage is of engineers, who make up about 60 percent of the total unmet demand, the NNME reports. But technicians to maintain machines,",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-10-20T13:00:02+00:00",
+      "coletado_em": "2026-10-20T14:19:33.771332+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/college-students-in-clean-room-suits-and-gloves-working-in-a-lab.jpg?id=68452869&width=980",
+      "score": 5.503,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "25cdf5deac1a",
+      "titulo": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
+      "resumo": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary images expose the hidden forces shaping galaxies across the universe and offer clues about the Milky Way's own past and future.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-20T06:17:55+00:00",
+      "coletado_em": "2026-10-20T14:19:33.772818+00:00",
+      "imagem_feed": null,
+      "score": 5.658,
+      "cobertura": []
+    },
+    {
+      "id": "942675d8d227",
+      "titulo": "Elon Musk quer doar ações da SpaceX para crianças nos EUA",
+      "url": "https://tecnoblog.net/noticias/elon-musk-quer-doar-acoes-da-spacex-para-criancas-nos-eua/",
+      "resumo": "CEO da empresa estaria disposto a ceder US$ 10,5 bilhões em programa de contas para crianças e adolescentes. Elon Musk quer doar ações da SpaceX para crianças nos EUA",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-20T12:45:04+00:00",
+      "coletado_em": "2026-10-20T14:19:33.785116+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-tbr-space-x-elon-musk.png",
+      "score": 5.576,
+      "cobertura": [
+        "https://canaltech.com.br/mercado/elon-musk-promete-distribuir-us-105-bilhoes-em-acoes-da-spacex-a-criancas/"
+      ]
+    },
+    {
+      "id": "a1ede2f06f17",
+      "titulo": "Webb reveals metal-rich gas around Milky Way's central black hole",
+      "url": "https://phys.org/news/2026-10-webb-reveals-metal-rich-gas.html",
+      "resumo": "The gas orbiting Sagittarius A (Sgr A*), the supermassive black hole at the center of the Milky Way galaxy, is rich in metals, researchers at McGill University's Trottier Space Institute have found. The metal enrichment probably resulted from stars that exploded and released material into the black hole's surroundings over time, they said.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-19T20:00:15+00:00",
+      "coletado_em": "2026-10-20T14:19:33.772665+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-swirling-vortex-of-h.jpg",
+      "score": 5.244,
+      "cobertura": []
+    },
+    {
+      "id": "225809f86952",
+      "titulo": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
+      "url": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
+      "resumo": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-20T14:00:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.773041+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/SYz8yGvWhQXAWk9JrqK369-1920-80.png",
+      "score": 4.863,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "bff141e12ac1",
+      "titulo": "A quantum computing feat brings the ‘megaquops’ era a step closer",
+      "url": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
+      "resumo": "Error correction creates qubits that glitch only 5 out of a million times, the first step toward a new phase for quantum computing.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-20T13:00:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.805947+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_EC_megaquop_main.jpg?w=800",
+      "score": 6.853,
+      "cobertura": []
+    },
+    {
+      "id": "0ab7f414abd6",
+      "titulo": "NowSecure Finds No Detectable PQC Code in 97% of Mobile Apps",
+      "url": "https://thequantuminsider.com/2026/10/20/nowsecure-97-percent-mobile-apps-no-pqc-code/",
+      "resumo": "Insider Brief PRESS RELEASE — NowSecure today released an analysis, conducted with NowSecure Platform, of 136,711 iOS and Android apps. It found that 97% contain no detectable post-quantum cryptography (PQC), the new generation of encryption standards designed to withstand attacks from quantum computers. Even among the most popular U.S. apps, fewer than 1 in 10 […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-20T13:25:26+00:00",
+      "coletado_em": "2026-10-20T14:19:33.773357+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-20_18-20.png",
+      "score": 5.598,
+      "cobertura": []
+    },
+    {
+      "id": "d06ebd0b7062",
+      "titulo": "Error-correction record pushes quantum computers closer to usefulness",
+      "url": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Useful quantum computers will have to use many “logical qubits” as their computational building blocks, and researchers just broke the record for how reliable they can be",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-19T12:00:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.805016+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316895337.jpg",
+      "score": 5.287,
+      "cobertura": []
+    },
+    {
+      "id": "a336ef3df065",
+      "titulo": "Monarch Quantum Supplies Photonics Hardware for NASA Gravity Sensor Mission",
+      "url": "https://thequantuminsider.com/2026/10/20/monarch-quantum-photonics-hardware-nasa-gravity-sensor/",
+      "resumo": "Insider Brief PRESS RELEASE — Monarch Quantum extends congratulations to Infleqtion on receiving the $20 million NASA follow-on contract supporting the Quantum Gravity Gradiometer Pathfinder (QGGPf). Led by NASA’s Jet Propulsion Laboratory in Southern California, the mission is anticipated to demonstrate the world’s first space-based Earth quantum gravity gradient sensor. The award advances the mission […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-20T14:02:17+00:00",
+      "coletado_em": "2026-10-20T14:19:33.773357+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-20_19-00.png",
+      "score": 5.167,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "c93f12587e6d",
+      "titulo": "I tested Microsoft’s $2,600 Surface Laptop Ultra with RTX Spark: 8 things I learned",
+      "url": "https://www.pcworld.com/article/3262052/i-tested-microsofts-2600-surface-laptop-ultra-with-rtx-spark-8-things-i-learned.html",
+      "resumo": "Does “free tokens” mean anything to you? If so, read on. What about quality Windows on Arm gaming? Get in line. Solid productivity? You’re in the right place. The Surface Laptop Ultra and its RTX Spark brethren are here. I tested Microsoft’s Surface Laptop Ultra for about a week, pushing it to its limits. You can read my full review here , but be warned: it clocks in at about 5,000 words, only because I’m an obsessive productivity nerd. If I want to know what makes it tick, why shouldn’t you? Microsoft Surface Laptop Ultra Read our review Price When Reviewed: Base price: $2,599.99 Reviewed price: $3,699.99 Best Prices Today: $3,699.99 at Amazon | $3699.99 at B&H | $3699.99 at Microsoft My editors suggested something a bit more succinct, summing up the high points of the review. So here’s the story of the Surface Laptop Ultra and its brethren: a surprisingly average CPU, paired with a terrific GPU and good battery life, but with all the qualms Windows on Arm brings. I thought, oh, Arm — haven’t all the problems been solved with Qualcomm’s Snapdragon chips ? Apparently not! I was forced to work with a beta version of Adobe Premiere, so there’s development work to be done. Here’s what",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-20T13:00:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.774272+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3262052-0-87844800-1792501233-Microsoft-Surface-Laptop-Ultra-back.jpg?quality=50&strip=all",
+      "score": 6.053,
+      "cobertura": []
+    },
+    {
+      "id": "07f28f16ab35",
+      "titulo": "Star Wars Galactic Racer misses the glory days of podracing as much as we do",
+      "url": "https://www.pcworld.com/article/3263758/star-wars-galactic-racer-misses-the-glory-days-of-podracing-as-much-as-we-do.html",
+      "resumo": "Star Wars: Galactic Racer is not a podracing game. But it is a game about podracing… and a lot more. Perhaps more than the developers actually intended. If you’ll indulge me a little, I’ll unpack this. Welcome to the Boost Mode newsletter. Every week I share my insights on PC gaming, desktop setups, and hardware optimization. I also track down some of the most interesting PC and nerd news from around the web, plus a PC game pick you might not have seen elsewhere. Want this newsletter to come directly to your inbox? Sign up on our website ! Yeah, it’s a pretty good game First, Galactic Racer is a pretty darn good arcade racing game. It’s an easy recommendation if you’ve ever enjoyed a game like F-Zero or Wipeout , or of course the original Episode 1 Racer from way back in the 90s. It’s got a decent roguelike singleplayer mode, competitive multiplayer, lots of customization options, some very pretty graphics, and most essentially, an incredible feeling of speed. Galactic Racer trailer I especially like the little sci-fi touches that make this game more than just a set of cars and tracks. Before each race you can do a little quick-time button-tapping event to warm up your hovercar’s p",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-20T12:00:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.774272+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3263758-0-55502600-1792497633-image_a0477c.png",
+      "score": 5.449,
+      "cobertura": []
+    },
+    {
+      "id": "3c05aa7b77b5",
+      "titulo": "Dell lança notebook econômico com mais de 20 horas de bateria",
+      "url": "https://canaltech.com.br/notebook/dell-lanca-notebook-economico-com-mais-de-20-horas-de-bateria/",
+      "resumo": "Focando em um custo menor para alcançar um público maior, a Dell oficializou no mercado global o novo Dell 14S . Equipado com os novos processadores da plataforma Intel Wildcat Lake , o notebook chama a atenção pelo conjunto focado em portabilidade e eficiência energética , prometendo mais de 20 horas de reprodução contínua de mídia em testes oficiais, com preço inicial de US$ 649 e chegando a US$ 1.499 na versão máxima. A nova versão chega para complementar a linha lançada no início do ano, oferecendo opções de configuração com as CPUs Intel Core 5 320 e Core 7 350 . O modelo de entrada conta com 8 GB de memória RAM LPDDR5x e SSD de 256 GB , mas a fabricante disponibiliza versões com até 16 GB de RAM e 1 TB de armazenamento via SSD PCIe Gen 4 . No quesito tela, a opção padrão traz painel de 14 polegadas com resolução 1200p e taxa de 60 Hz , podendo ser personalizada para uma versão IPS mais avançada de resolução 1800p, brilho de 450 nits e taxa de atualização de 120 Hz. Bateria de longa duração em um chassi leve O grande destaque do Dell 14S está no equilíbrio entre autonomia e peso. Pesando apenas 1,15 kg , o dispositivo conta com uma bateria de 3 células de 61,2 Wh que atinge at",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T12:35:07+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2DR83_8BYoUImbdDxbCaf5P5jhY=/0x0/filters:format(webp):quality(85)/12cfdfbb-042d-49c2-abf3-0ca2f002afd6.png",
+      "score": 5.409,
+      "cobertura": []
+    },
+    {
+      "id": "2841e9341a01",
+      "titulo": "Sem retrabalho: Gemini Notebook agora pede sua opinião antes de criar slides e vídeos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/sem-retrabalho-gemini-notebook-agora-pede-sua-opiniao-antes-de-criar-slides-e-videos/",
+      "resumo": "O Google anunciou uma atualização do Gemini Notebook, antigo NotebookLM, que dá mais controle ao usuário na criação de apresentações de slides e resumos em vídeo. Em vez de gerar o material logo após a primeira instrução, a inteligência artificial agora interrompe o processo para sugerir tópicos com base nas fontes enviadas e pedir a orientação do usuário. A nova experiência começa na janela de chat. Ao pedir um vídeo ou um conjunto de slides, o Gemini Notebook gera um questionário com tópicos extraídos do próprio material de origem. Depois que o usuário confirma os pontos que quer abordar, ele pode definir o formato e o estilo visual. Para ajustes mais detalhados, a ferramenta tem a chave de revisão . Quando ela está ativada, o plano aparece no painel de estúdio, com as opções “Review outline notes” para slides e “Review producer notes” para vídeos. Assim, o usuário pode fazer mudanças antes da renderização, como reorganizar a ordem de uma cena ou incluir um resumo executivo no início. O fluxo também se adapta a diferentes perfis de uso . Quem já inclui instruções detalhadas no pedido inicial vai direto para a etapa de revisão do plano. Já quem prefere uma entrega automática pode ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T14:04:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
+      "score": 5.07,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "0dbde1ea1153",
+      "titulo": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "resumo": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-19T18:20:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.779091+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-jameel-clinic-fetal-brain.jpg?itok=TGq3tK5p",
+      "score": 5.93,
+      "cobertura": [
+        "https://medicalxpress.com/news/2026-10-ai-symmetry-prenatal-diagnosis-reliable.html"
+      ]
+    },
+    {
+      "id": "e208bb1c248b",
+      "titulo": "AI can give you your voice back",
+      "url": "https://www.sciencenews.org/article/ai-voice-restore-identity-the-deep-end",
+      "resumo": "People who have lost the ability to talk are finding new voices with technology. This technological feat is changing what it means to lose a voice.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-20T11:00:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.805947+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_LS_TDE_S2E3_main1.jpg?w=800",
+      "score": 5.15,
+      "cobertura": []
+    },
+    {
+      "id": "77c2667b879f",
+      "titulo": "Inteligência artificial, extrema-direita e crises globais desafiam o futuro da humanidade",
+      "url": "https://jornal.usp.br/radio-usp/inteligencia-artificial-extrema-direita-e-crises-globais-desafiam-o-futuro-da-humanidade/",
+      "resumo": "Reflexão relaciona avanços científicos, riscos da superinteligência artificial e lições históricas do nazifascismo para questionar os rumos políticos, tecnológicos e ambientais do mundo contemporâneo",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-20T12:11:09+00:00",
+      "coletado_em": "2026-10-20T14:19:33.781526+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_martin2--1024x1024.jpg",
+      "score": 5.117,
+      "cobertura": []
+    },
+    {
+      "id": "208dc20e81cf",
+      "titulo": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "resumo": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-20T13:00:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.779678+00:00",
+      "imagem_feed": null,
+      "score": 5.103,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "edf575bd1e47",
+      "titulo": "Middle East fuel crunch drives solar push in tiny Fiji",
+      "url": "https://techxplore.com/news/2026-10-middle-east-fuel-crunch-solar.html",
+      "resumo": "Power cables weave through palm trees high above Fiji's Rukurukulevu village, linking residents to the national grid and a select few to solar panels.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T10:20:01+00:00",
+      "coletado_em": "2026-10-20T14:19:33.780303+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-photo-taken-on-oc-2.jpg",
+      "score": 5.138,
+      "cobertura": []
+    },
+    {
+      "id": "2841e9341a01",
+      "titulo": "Sem retrabalho: Gemini Notebook agora pede sua opinião antes de criar slides e vídeos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/sem-retrabalho-gemini-notebook-agora-pede-sua-opiniao-antes-de-criar-slides-e-videos/",
+      "resumo": "O Google anunciou uma atualização do Gemini Notebook, antigo NotebookLM, que dá mais controle ao usuário na criação de apresentações de slides e resumos em vídeo. Em vez de gerar o material logo após a primeira instrução, a inteligência artificial agora interrompe o processo para sugerir tópicos com base nas fontes enviadas e pedir a orientação do usuário. A nova experiência começa na janela de chat. Ao pedir um vídeo ou um conjunto de slides, o Gemini Notebook gera um questionário com tópicos extraídos do próprio material de origem. Depois que o usuário confirma os pontos que quer abordar, ele pode definir o formato e o estilo visual. Para ajustes mais detalhados, a ferramenta tem a chave de revisão . Quando ela está ativada, o plano aparece no painel de estúdio, com as opções “Review outline notes” para slides e “Review producer notes” para vídeos. Assim, o usuário pode fazer mudanças antes da renderização, como reorganizar a ordem de uma cena ou incluir um resumo executivo no início. O fluxo também se adapta a diferentes perfis de uso . Quem já inclui instruções detalhadas no pedido inicial vai direto para a etapa de revisão do plano. Já quem prefere uma entrega automática pode ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T14:04:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
+      "score": 4.57,
+      "cobertura": []
+    },
+    {
+      "id": "41d0d77d2daa",
+      "titulo": "BYD \"rebatiza\" Dolphin híbrido antes da chegada ao Brasil",
+      "url": "https://canaltech.com.br/carros/byd-rebatiza-dolphin-hibrido-antes-da-chegada-ao-brasil/",
+      "resumo": "O Dolphin GT chega ao mercado brasileiro em fevereiro de 2027 . As informações são de Jorge Moraes, colunista da CNN, e indicam que o novo hatch híbrido plug-in (PHEV) da gigante chinesa vai passar por uma pequena mudança de nome em relação ao Dolphin G, disponível no mercado europeu. Por aqui, o modelo desembarca com produção nas instalações da BYD em Camaçari (BA) como estratégia da marca para preencher a lacuna entre o Dolphin Mini e o Dolphin tradicional. Além disso, o lançamento integra a estratégia de ampliação do portfólio de eletrificados da chinesa no Brasil. Projetado como um veículo pensado para mercados globais, é esperado que o hatch seja oferecido em uma faixa competitiva para disputar a preferência de consumidores que buscam a transição para a eletrificação com apoio do motor a combustão. Abaixo, o CT Auto te conta como vai ser o modelo. BYD Dolphin GT Já sabemos que o Dolphin GT vai compartilhar o conjunto mecânico do SUV Atto 2 e do Song Pro , combinando um motor 1.5 aspirado a uma unidade elétrica e câmbio e-CVT . O pacote entregará potências entre 177 cv e 197 cv com torque de 30,6 kgfm , além de baterias de até 18 kWh que entregam alcance elétrico estimado em at",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T12:53:57+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/jDCvJUTvzoLbfYc1jtVC9YSAYzg=/0x0/filters:format(webp):quality(85)/2ba34ae6-5a11-4056-adde-a5bb6eb698ae.png",
+      "score": 4.442,
+      "cobertura": []
+    },
+    {
+      "id": "3ec9dcddaf22",
+      "titulo": "Globalized financial systems help green the world, according to study",
+      "url": "https://techxplore.com/news/2026-10-globalized-financial-green-world.html",
+      "resumo": "The globalization of financial systems can play a vital role in protecting the environment and boosting the green revolution by increasing investment in renewable energy, cleaner technologies and other environmentally sustainable innovations, according to a new study published in the journal Letters in Spatial and Resource Sciences.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T13:16:46+00:00",
+      "coletado_em": "2026-10-20T14:19:33.780303+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-network.jpg",
+      "score": 4.433,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "5f2037864b2f",
+      "titulo": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "resumo": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-19T13:48:56+00:00",
+      "coletado_em": "2026-10-20T14:19:33.780560+00:00",
+      "imagem_feed": null,
+      "score": 3.535,
+      "cobertura": []
+    },
+    {
+      "id": "f38409944e1b",
+      "titulo": "Governo dos EUA bane IA chinesa DeepSeek por risco de espionagem e malware",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governo-dos-eua-bane-ia-chinesa-deepseek-por-risco-de-espionagem-e-malware/",
+      "resumo": "O Departamento de Segurança Interna dos Estados Unidos (DHS) determinou a remoção da inteligência artificial chinesa DeepSeek dos sistemas de todas as agências governamentais civis do país. A proibição inclui produtos e serviços de outras empresas que usem o modelo, além de ferramentas criadas pelas próprias agências com a tecnologia. Com a medida, funcionários públicos federais e prestadores de serviços do governo ficam proibidos de usar essas soluções. A decisão foi tomada por preocupações com a segurança nacional . Segundo o governo dos EUA, a DeepSeek pode enviar dados confidenciais para a China sem autorização, gerar informações que ajudem a monitorar cidadãos e órgãos públicos norte-americanos e conter programas maliciosos ou falhas graves de segurança. Segundo um aviso oficial do DHS, a ferramenta apresenta múltiplos vetores de ameaça . A determinação integra um conjunto de ações para proteger os sistemas governamentais, que inclui o monitoramento do tráfego de dados de entrada e saída nos sites das agências federais, ordenado em um memorando emitido em julho, mas tornado público em 19 de outubro. A nova ordem amplia as restrições ao uso da DeepSeek no setor público dos Esta",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-19T19:06:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/3znMYBPi5S1REf1XVU22f5z1VEg=/0x0/filters:format(webp):quality(85)/293f03e5-f006-4276-88b3-c2b4572031db.png",
+      "score": 3.259,
+      "cobertura": []
+    },
+    {
+      "id": "3c9efc8a7931",
+      "titulo": "Intel revela superchip Razor Lake-AX com GPU monstruosa e 700 TOPS de IA",
+      "url": "https://canaltech.com.br/hardware/intel-revela-superchip-razor-lake-ax-com-gpu-monstruosa-e-700-tops-de-ia/",
+      "resumo": "A Intel revelou oficialmente o seu cronograma de lançamentos para sistemas de robótica e inteligência artificial, confirmando a chegada dos novos processadores Razor Lake-AX para o ano de 2028 . O anúncio foi realizado pelo executivo Cho Min-sung durante a conferência Semiconductors Powering Humanoids, na Coreia do Sul, destacando que a nova plataforma terá como meta entregar até 700 TOPS de desempenho computacional voltado para inteligência artificial . A marca de 700 TOPS representa um avanço considerável dentro do catálogo de SoCs da fabricante. Para efeito de comparação, a atual plataforma de referência da Intel para robótica, baseada nos chips Panther Lake (Core Ultra 300), alcança até 180 TOPS de desempenho combinado de IA . Com o salto de arquitetura do Razor Lake-AX, o Time Azul pretende multiplicar em quase 4x o poder de processamento teórico focado em automação e robôs humanoides. Foco em robôs humanoides e arquitetura avançada A confirmação do Razor Lake-AX revela os planos da Intel para expandir o uso de seus chips além dos PCs de mesa e notebooks. Vazamentos anteriores sobre o chip indicavam configurações robustas contendo entre 16 e 32 núcleos gráficos baseados na arq",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-19T18:04:00+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2MKsxCQaKOEtxU_sFLawEubtF_M=/0x0/filters:format(webp):quality(85)/56d26c42-5beb-49a4-99e3-687baa0f855c.jpg",
+      "score": 3.221,
+      "cobertura": []
+    },
+    {
+      "id": "6c1827e5f2c2",
+      "titulo": "Celular top da Xiaomi pode decepcionar no preço e na bateria; entenda",
+      "url": "https://canaltech.com.br/smartphone/celular-top-da-xiaomi-pode-decepcionar-no-preco-e-na-bateria-entenda/",
+      "resumo": "Muito tem se falado sobre o aumento de preços dos smartphones , e o preço do Xiaomi 18 Pro vazou: € 1.449 (cerca de R$ 8.563), enquanto o Xiaomi 18 Pro Max deve custar € 1.849 (R$ 10.923). Os preços ainda não foram confirmados, mas vazamentos também indicam uma redução na capacidade das baterias das versões internacionais. As informações foram divulgadas pelo site YTechB, que identificou dados no Registro Europeu de Produtos para Rotulagem Energética (EPREL). A previsão é que os dois celulares cheguem a outros mercados em breve, com 12 GB de memória RAM e opções de 256 GB ou 512 GB de armazenamento. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Segundo o vazamento, o Xiaomi 18 Pro custará € 1.449 (R$ 8.563) na versão com 256 GB. A configuração com 512 GB deve sair por € 1.649 (R$ 9.747). O Xiaomi 18 Pro Max deve ser vendido por € 1.849 (R$ 10.923), com 512 GB de armazenamento. Os valores chamam a atenção quando comparados aos da geração anterior. O Xiaomi 17 chegou à Europa por € 999 (R$ 5.904), enquanto o Xiaomi 17 Ultra foi lançado por € 1.499 (R$ 8.859). A Xiaomi não lançou uma versão Pro globalmente na geração passada, mas o novo Pro pode custar apenas € 50 (R$",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-20T09:56:59+00:00",
+      "coletado_em": "2026-10-20T14:19:33.787602+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/LjKF2gYxn2PjVeJVjsS9bOMU8yE=/0x0/filters:format(webp):quality(85)/b58b8e4d-2692-4946-9c20-4185fcde4867.jpg",
+      "score": 1.153,
+      "cobertura": []
+    }
+  ]
+}
