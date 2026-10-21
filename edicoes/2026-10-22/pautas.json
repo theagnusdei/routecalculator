@@ -1,0 +1,381 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "4f65f7dc7650",
+      "titulo": "STAT+: GSK picks up hep B drug approval",
+      "url": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+      "resumo": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-21T14:24:45+00:00",
+      "coletado_em": "2026-10-21T14:30:22.076054+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2025/09/Hep-b-1024x576.jpg",
+      "score": 6.339,
+      "cobertura": []
+    },
+    "texto_fonte": "Want to stay on top of the science and politics driving biotech today? Sign up to get our biotech newsletter in your inbox.\nGood morning. Last spring, my colleague received an intriguing email from Mark Cuban. From there, a story was born. Read on for more.\nThe need-to-know this morning\n- Roivant and its subsidiary Priovant announced positive results across two Phase 3 studies of their drug Lisraya in non-infectious uveitis, an inflammatory eye disease that can lead to vision loss. Lisraya was recently approved to treat dermatomyositis, another inflammatory condition. Roivant said it will seek an expanded FDA approval for Lisraya in the first half of 2027.\nCuban’s Cost Plus Drugs is getting into rare disease\nMark Cuban’s Cost Plus Drugs, the online pharmacy that aims to lower drug costs by bypassing middlemen, has mostly been selling generic drugs. But the company is getting into a much more complicated field — experimental rare disease therapies.",
+    "autor_fonte": "Elaine Chen; Andrew Joseph",
+    "site_fonte": "STAT",
+    "imagem_url": "https://www.statnews.com/wp-content/uploads/2025/09/Hep-b-1024x576.jpg",
+    "imagem_arquivo": "imagens/medicina-stat-gsk-picks-up-hep-b-drug-approval.jpg",
+    "imagem_credito": "STAT",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "d0836814e2e5",
+      "titulo": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+      "url": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+      "resumo": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta Magazine",
+      "fonte": "Quanta Magazine",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-21T14:00:07+00:00",
+      "coletado_em": "2026-10-21T14:30:22.077720+00:00",
+      "imagem_feed": "https://www.quantamagazine.org/wp-content/uploads/2056/10/ImageGallerySmallWorld-crKaelinWulfAndMsRachelFlannery_AllenInstitute_DepartmentOfNeuralDynamics-Default.webp",
+      "score": 5.443,
+      "cobertura": []
+    },
+    "texto_fonte": "Kaelin Wulf, Rachel Flannery/Allen Institute; all photos courtesy of Nikon Small World\nOn a frigid February morning in Edinburgh, Scotland, Patrick Hickey had run out of living things to put under his microscope. The plants and fungi in his garden had dried up, and summer puddles, with their flamboyant biological complexity, had long frozen over.\nHickey, a mycologist at Hypha Research Ltd., was using plant leaves to study mitochondria, cellular organelles that generate energy. He was planning to sprout mustard seeds for fresh samples, but he was impatient. While making coffee in his kitchen, he noticed a cold-hardy turtle vine hanging from the windowsill. “I snipped off an inch or so, put it in my pocket, took it into the lab, and was just amazed at what I saw,” Hickey said.\nUnder the microscope, mitochondria darted around the cells. They nimbly maneuvered around slower chloroplasts, like motorcyclists dodging traffic. “It was absolutely alive with activity,” Hickey said.\nHis time-lapse video of this microscopic dance, which leads our gallery below and was recently honored in Nikon’s 2026 Small World in Motion Competition, reveals the close partnership between the organelles: chloroplasts (red) spin sunlight into sugar, and mitochondria (green) convert sugar into energy.\nThe Nikon Small World competition, established in 1974, honors excellence in microscopy. The annual contests have charted not only the evolution of creative photomicrography but also the progress of imaging technology.\nHickey — and many of the other honorees featured here — relied on a technique called confocal laser scanning microscopy.\nUnlike a standard microscope, which illuminates an entire sample at once and can produce blurry images, a confocal microscope focuses on one depth level at a time. Researchers first “label” a sample with fluorescent dyes that attach to specific structures within the cell. A laser then illuminates a thin layer of the sample, and the microscope detects the resulting fluorescence. Scanning line by line, the system builds a detailed image.\nAs imaging technology advances, so too does our understanding of cellular processes. Hickey’s video shows that mitochondria are more dynamic than previously thought, which suggests that they are “more than just a ‘powerhouse of the cell,’” he said. “They are likely involved in cytoplasmic streaming, signaling, and interactions with other organelles.”\nThe full list of awardees can be found here for the photo contest and here for the video contest. We’ve chosen to feature a several winners and honorable mentions that reveal the intricacies of the cellular world.\nFrancisco Lázaro-Diéguez/Albert Einstein College of Medicine\nPierre Nouaux, Laurent Kodjabachianan, Camille Boutin/Center for Integrative Biology in Toulouse",
+    "autor_fonte": "Molly Herring October",
+    "site_fonte": "Quanta Magazine",
+    "imagem_url": "https://www.quantamagazine.org/wp-content/uploads/2056/10/ImageGallerySmallWorld-crKaelinWulfAndMsRachelFlannery_AllenInstitute_DepartmentOfNeuralDynamics-Social.webp",
+    "imagem_arquivo": "imagens/biologia-see-inside-cells-like-never-before-in-th.jpg",
+    "imagem_credito": "Quanta Magazine",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "a9044ca8f5b5",
+      "titulo": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+      "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
+      "resumo": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment. The post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-21T13:19:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.078588+00:00",
+      "imagem_feed": null,
+      "score": 5.267,
+      "cobertura": []
+    },
+    "texto_fonte": "AGCO and Agility Robotics have signed a commercial agreement to deploy Agility’s Digit humanoid in AGCO’s manufacturing facility. The U.S. pilot, expected to begin in 2027, will support AGCO’s efforts to create more flexible, intelligent factories, beginning at its production site in Hesston, Kan.\n“This strategic relationship views humanoid robotics and AI as essential ’teammates‘ in building flexible, intelligent factories,” stated Thomas Enghof, director of manufacturing technology at AGCO. “They unlock automation in complex, human-centric workflows, augmenting human capabilities by absorbing repetitive, strenuous or hazardous tasks. By pairing human ingenuity with robust robotic engineering and strict safety governance, we create resilient manufacturing systems that empower the workforce and deliver measurable business value.”\nAGCO said it is a global leader in agricultural machinery and precision agriculture technologies. The Duluth, Ga.-based company‘s brands include Fendt, Massey Ferguson, PTx, and Valtra. AGCO said its high-performance equipment and smart farming systems, including brand-agnostic retrofit technologies and autonomous offerings, “empower farmers to drive productivity while sustainably feeding the world.”\nAGCO joins a growing list of Digit deployments\nDigit uses AI to continuously learn and adapt to evolving workflows, enabling greater operational flexibility and improved productivity, according to Agility. When paired with the Agility Arc cloud-based platform for deploying and managing robot fleets, companies can rapidly integrate automation into essential operations without requiring extensive infrastructure changes or costly facility upgrades, it added.\nAGCO joins a growing number of global leading companies deploying Agility’s humanoid robots, including Toyota, GXO Logistics, and Schaeffler.\n“We’re excited to work alongside AGCO as they continue to lead the way in agricultural innovation,” said Daniel Diez, chief business officer of Agility. “By introducing Agility’s Digit humanoid robots into AGCO’s operations, we have an opportunity to strengthen manufacturing processes, support employees in demanding tasks, and demonstrate how advanced robotics can create measurable impact across modern production environments.”\nAgility is on the move\nAgility said its humanoid robot will initially support key assembly and production operations including sorting and stacking parts sorting, as well as intelligent placement of totes for storage. The physical AI company asserted that Digit will enhance ergonomic safety, improve operational efficiency, and empower employees to focus on higher-value, skill-driven work that advances innovation and productivity.\nIt has been a busy time for Agility Robotics. Last month, the company unveiled the latest version of its robot, Digit 5. The latest version of Digit includes new legs, upgraded batteries, and a more comprehensive safety architecture. The Salem, Ore.-based company also recently confirmed that it is exploring building wheeled robots for its customers.\nAgility is preparing to become a public company through its previously announced merger with Churchill Capital Corp XI. The business combination is expected to close in the fourth quarter of 2026, after which the combined company will operate as Agility Robotics and is expected to trade on Nasdaq under the ticker symbol “AGLT.”",
+    "autor_fonte": "The Robot Report Staff",
+    "site_fonte": "The Robot Report",
+    "imagem_url": "https://www.therobotreport.com/wp-content/uploads/2026/10/agilityagco-featured.jpg",
+    "imagem_arquivo": "imagens/robotica-agco-to-deploy-agility-digit-humanoid-in.jpg",
+    "imagem_credito": "The Robot Report",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "a2134d92741f",
+      "titulo": "PHP patches released for two critical RCEs",
+      "url": "https://lwn.net/Articles/1102014/",
+      "resumo": "The PHP project has published PHP versions 8.5.12 , 8.4.27 , 8.3.36 and 8.2.35 to address two critical vulnerabilities that could allow unauthenticated remote code execution. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs. The vulnerabilities: RCE via OOM corruption , CVE-2026-109618 ( GHSA-w8hw-w9fx-j79w ): out-of-memory handling can interrupt PHP while internal request data is only partially initialized. Request cleanup may then treat the invalid data as valid. RCE via stale global state , CVE-2026-109619 ( GHSA-6wmf-4rv5-p3rp ): request-owned internal state can survive after its backing memory has been freed. A later request handled by the same worker may use that stale state before normal initialization resets it. PHP versions older than 8.1 will not receive updates from the project, though the project has provided some patches for PHP 7.4 , PHP 8.0 , and PHP 8.1 to assist in creating backports. According to the announcement, Linux dis",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-21T13:53:18+00:00",
+      "coletado_em": "2026-10-21T14:30:22.080064+00:00",
+      "imagem_feed": null,
+      "score": 5.48,
+      "cobertura": []
+    },
+    "texto_fonte": "PHP patches released for two critical RCEs\nThe PHP project has published PHP versions 8.5.12, 8.4.27, 8.3.36 and 8.2.35 to address two critical vulnerabilities that could allow unauthenticated remote code execution.\nWho is at risk: all PHP installations serving web requests,\nincluding PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We\nconsider the risk highest for mod_php, with a demonstrated exploit where an\nunauthenticated request can trigger the attack before any application code\nruns.\nThe vulnerabilities:\n- RCE via OOM corruption, CVE-2026-109618 (GHSA-w8hw-w9fx-j79w): out-of-memory handling can interrupt PHP while internal request data is only partially initialized. Request cleanup may then treat the invalid data as valid.\n- RCE via stale global state, CVE-2026-109619 (GHSA-6wmf-4rv5-p3rp): request-owned internal state can survive after its backing memory has been freed. A later request handled by the same worker may use that stale state before normal initialization resets it.\nPHP versions older than 8.1 will not receive updates from the project, though the project has provided some patches for PHP 7.4, PHP 8.0, and PHP 8.1 to assist in creating backports. According to the announcement, Linux distributions and vendors received patches in advance, so updated packages should be coming soon.",
+    "autor_fonte": "[Posted October",
+    "site_fonte": "LWN.net",
+    "imagem_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Vandenberg_SFB_and_NASA_Collaborate_on_Historic_Patching_Ceremony_%289136958%29.jpg/1920px-Vandenberg_SFB_and_NASA_Collaborate_on_Historic_Patching_Ceremony_%289136958%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imagem_arquivo": "imagens/software-php-patches-released-for-two-critical-rc.jpg",
+    "imagem_credito": "U.S. Space Force photo by Senior Airman Ryan Quijas / Wikimedia Commons",
+    "imagem_licenca": "Wikimedia Commons — Public domain",
+    "imagem_pagina": "https://commons.wikimedia.org/wiki/File:Vandenberg_SFB_and_NASA_Collaborate_on_Historic_Patching_Ceremony_(9136958).jpg",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem ilustrativa obtida no Wikimedia Commons (não é da matéria original): conferir pertinência."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "5ffb3388826e",
+      "titulo": "AMD and Intel will work together to create a single PyTorch code path for AI inference on CPUs",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler",
+      "resumo": "AMD and Intel are working together to bring CPU inference optimizations for PyTorch under the unified oneDNN library.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-21T12:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.081151+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rYe5kJq2zmKffyrHqBDYkE-1920-80.jpg",
+      "score": 5.93,
+      "cobertura": []
+    },
+    "texto_fonte": "Intel and AMD are integrating their CPU optimizations for PyTorch into a unified library, offering tuning for both AMD and Intel chips through the oneDNN library. AMD has maintained a downstream version of oneDNN called ZenDNN, which is now moving into the open-source oneDNN, published by the UXL Foundation and driven by Intel. AMD also announced it's joining the UXL Foundation as a \"steering member,\" which \"influences the future of the UXL Foundation\" in exchange for a contribution of $20,000 per year.\nAMD says the move to unify these efforts under oneDNN was recommended by the x86 Ecosystem Advisory Group (EAG), which is a joint initiative that primarily exists between Intel and AMD and was established in 2024. The two companies have collaborated through the EAG previously, such as with the ACE extensions for x86 that we learned about earlier this year.\nThe oneDNN backend is used for CPU inference, and it's built to accelerate that workload for the latest Intel (and now AMD) chips in frameworks like PyTorch. When oneDNN was added to PyTorch as a backend in late 2023, it showed a 1.24x improvement with the Float32 data type, and 2.21x for the BFloat16 data type.\nFrom the oneDNN GitHub, the library \"detects hardware features at runtime\" to generate optimized kernels for the platform, as well as provides low-precision data types. It also features optimized instructions for common AI and machine learning operations, such as matrix multiplication and convolution.\nFor developers, the move simplifies working with PyTorch across different systems, ensuring a single backend provides the proper optimizations for whatever hardware you're running. Although the news here is focused on the x86 guard, oneDNN is a cross-platform library that works on Arm and RISC-V architectures as well.\nIntel originally developed oneDNN, built on top of previously deep learning libraries, before it was folded into the UXL Foundation. Intel was among the founding members of the UXL Foundation, alongside Arm, Qualcomm, Google Cloud, and others.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nJake Roach is the Senior CPU Analyst at Tom’s Hardware, writing reviews, news, and features about the latest consumer and workstation processors.",
+    "autor_fonte": "Jake Roach",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/rYe5kJq2zmKffyrHqBDYkE-2560-80.jpg",
+    "imagem_arquivo": "imagens/hardware-amd-and-intel-will-work-together-to-crea.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "891569287885",
+      "titulo": "Fim da escala 6×1 divide impactos entre trabalhadores e empresas",
+      "url": "https://jornal.usp.br/radio-usp/fim-da-escala-6-x-1-divide-impactos-entre-trabalhadores-e-empresas/",
+      "resumo": "Mudança pode ampliar o tempo de descanso e melhorar o bem-estar dos profissionais, enquanto pequenos negócios enfrentam desafios para absorver os custos adicionais",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-21T11:57:52+00:00",
+      "coletado_em": "2026-10-21T14:30:22.098746+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_luciano--1024x1024.jpg",
+      "score": 5.077,
+      "cobertura": []
+    },
+    "texto_fonte": "O fim da escala 6×1 representa uma conquista importante para os trabalhadores, especialmente aqueles que recebem salários baixos e têm pouco tempo para lazer e descanso. A redução dos dias trabalhados pode melhorar a qualidade de vida, o bem-estar e até a produtividade profissional.\nPara as empresas, a mudança pode elevar os custos, principalmente nos pequenos negócios de comércio e serviços, que dependem mais da mão de obra. Enquanto algumas empresas podem precisar contratar mais funcionários ou reduzir o horário de funcionamento, outras têm condições de absorver os gastos adicionais. Parte desse custo também pode ser repassada aos preços.\nDe modo geral, a medida é considerada positiva para o bem-estar dos trabalhadores, embora exija adaptações das empresas. O debate também envolve a flexibilidade nas relações de trabalho e a necessidade de aumentar a produtividade da economia brasileira, apontada como fundamental para elevar os salários e melhorar as condições de trabalho.\nReflexão Econômica\nCom o Prof. Luciano Nakabashi\nA coluna Reflexão Econômica, com o professor Luciano Nakabashi, vai ao ar quinzenalmente, quarta-feira às 9h, na Rádio USP (São Paulo 93,7; Ribeirão Preto 107,9), com produção da Rádio USP, Jornal da USP e TV USP.",
+    "autor_fonte": "Sandra Capomaccio",
+    "site_fonte": "Jornal da USP",
+    "imagem_url": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_luciano-.jpg",
+    "imagem_arquivo": "imagens/astrofisica-fim-da-escala-61-divide-impactos-entre-t.jpg",
+    "imagem_credito": "Jornal da USP",
+    "imagem_licenca": "Jornal da USP — reprodução permitida com crédito (conferir condições)",
+    "imagem_pagina": "https://jornal.usp.br/radio-usp/fim-da-escala-6-x-1-divide-impactos-entre-trabalhadores-e-empresas/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": []
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "aae1037579b2",
+      "titulo": "Rutgers And IBM Demonstrate Real-Time Control Across 100 Qubits",
+      "url": "https://thequantuminsider.com/2026/10/21/rutgers-and-ibm-demonstrate-real-time-control-across-100-qubits/",
+      "resumo": "Insider Brief PRESS RELEASE — Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control. The advance is a critical step toward building larger, more reliable quantum […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-21T08:22:10+00:00",
+      "coletado_em": "2026-10-21T14:30:22.083745+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_IBM_Quantum_Heron_156_01.jpg",
+      "score": 6.103,
+      "cobertura": []
+    },
+    "texto_fonte": "Insider Brief\n- Researchers from Rutgers, IBM and collaborating institutions demonstrated real-time quantum feedback on up to 100 qubits, using repeated measurements and resets to control chaotic behavior.\n- The experiment used a 156-qubit IBM Heron processor to perform nearly 5,000 two-qubit operations and nearly 5,000 measurements and resets while the system continued running.\n- The researchers observed a sharp transition from chaos to control when resets outpaced scrambling, confirming theoretical predictions and demonstrating a capability needed for future fault-tolerant quantum computers.\nPRESS RELEASE — Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control.\nThe advance is a critical step toward building larger, more reliable quantum computers.\nToday’s quantum computers operate according to the unusual rules governing atoms and other extremely small particles. They could one day solve problems beyond the reach of conventional computers — designing better batteries and cleaner industrial catalysts, simulating molecules and materials too complex for today’s computers, and running certain artificial intelligence programs.\nIn a study published in Nature Physics, researchers from Rutgers, International Business Machines Corp., and collaborating institutions showed that a quantum computer can repeatedly check and reset parts of itself while running. The experiment is among the largest demonstrations to date of real-time quantum feedback control, a capability considered essential for future quantum computers that will be fault tolerant.\nScaling quantum computers will require them to identify and correct errors while they are working, a capability known as error correction, which will allow for the construction of a fault-tolerant quantum computer. A fault-tolerant quantum computer is a quantum computer that can keep computing correctly even though its individual quantum bits are constantly making small mistakes. No one has yet built such a device.\n“To build a fault-tolerant quantum computer, we have to make these checks and corrections not just once or twice, but a huge number of times during a calculation,” said Jedediah Pixley, a professor in the Department of Physics and Astronomy at the Rutgers School of Arts and Sciences and the Director of the Center for Materials Theory.\n“This experiment is a landmark on that road,” said Pixley, who also is a member of the Flatiron Institute, the scientific research division of the Simons Foundation in New York, and one of the senior authors of the study. “It says, ‘OK, we’ve taken another important step to get there.’”\nThe work also confirmed a prediction about quantum behavior. As researchers increased how often the computer checked and reset its fundamental information-storing units, known as qubits, the system abruptly shifted from chaos to a state they could control, showing how order can emerge from disorder.\nConventional computers store information in bits, each of which is either 0 or 1. Quantum computers use qubits, which can exist in a superposition. This means they hold multiple possibilities between 0 and 1 until they are measured, when each produces one result or the other.\nThese properties give quantum computers their potential power but make the information they carry extremely sensitive. Heat, stray electromagnetic signals, imperfect control pulses and tiny flaws in the hardware can alter a qubit’s state. Over time, the resulting errors can accumulate until a calculation can no longer be trusted.\n“The challenge was not simply to measure a qubit, but to do it repeatedly while the rest of the processor continued to operate,” said another senior author of the study, Maika Takita, principal research scientist for quantum error correction and dynamic circuits experiments at IBM. “This experiment shows that present-day hardware can coordinate quantum operations, measurements and resets thousands of times across a large system.”\nUnlike ordinary computer data, quantum information cannot simply be copied. And measuring it can change or destroy the state being used. A fault-tolerant machine must repeatedly detect and correct errors without losing that information.\nThe researchers conducted the experiment on a 156-qubit IBM Quantum Heron processor, one of the most powerful quantum processors in the world, selecting a connected chain of as many as 100 qubits.\nThey programmed the system to alternate between two competing tasks.\nThe first acted like a scrambler: It mixed information among neighboring qubits, spreading chaos through the system. The process is similar to repeatedly shuffling a deck of cards. With every shuffle, the original order becomes more difficult to recognize.\nThe second task served as a form of control: The computer checked individual qubits and reset them when necessary. Repeated often enough, those resets pushed the system toward a simple, orderly state selected by the researchers.\nOverall, the team performed nearly 5,000 operations that linked pairs of qubits, along with nearly 5,000 checks and resets. According to the researchers, it was the largest successful demonstration of this approach to date.\nThe researchers controlled how often the computer performed each task. By changing that balance, they could see whether scrambling or resetting would take over.\nWhen scrambling occurred more than half the time, chaos won and the system remained chaotic. When checking and resetting occurred more often, control won and the researchers could guide the qubits toward the orderly state they wanted.\nAt about 50-50, a slight change in which task occurred more often suddenly changed the entire system. Physicists call such a dramatic shift a phase transition, like water freezing into ice. Here, the qubits shifted together from chaotic behavior to a state the researchers could control.\n“Small changes can lead to large and nearly impossible-to-predict consequences, like the classic idea that a butterfly flapping its wings in Africa could eventually contribute to a hurricane hitting Louisiana,” said Justin Wilson, an associate professor of physics at Louisiana State University and a study coauthor. “But this out-of-control behavior can be brought under control by randomly intervening, and there is a sharply defined rate at which that happens. It wasn’t obvious that this transition between chaos and control would survive in quantum physics, but our results show that it does.”\nThe project began with a friendly bet at a 2021 birthday party for Pixley’s wife while still at Rutgers and living in Highland Park, N.J. His longtime collaborator Sriram Ganeshan wagered that a puzzling quantum effect had a counterpart in ordinary physics, leading the group to develop a new theory about controlling quantum chaos. A chance conversation with IBM physicist Barbara Jones then helped turn the theory into an experiment. Pixley lost the bet and paid up with two scoops of blueberry ice cream—after Ganeshan and others joined him at the Aspen Center for Physics in Aspen, Colo.\nThe IBM processor allowed the researchers to test their theory on systems of up to 100 qubits, far beyond the roughly two dozen they could simulate on conventional computers, and the results closely matched their predictions.\n“What was striking was that the transition became more clearly defined as we studied larger systems,” said Haining Pan, a Rutgers postdoctoral researcher at the time of the study and a co-first author. “The agreement between the experiment and the theory showed that this was not an accidental feature of a small circuit. It was collective behavior emerging across the quantum system.”\nIn addition to Rutgers and IBM, researchers affiliated with the City College of New York, the CUNY Graduate Center, Iowa State University, Ames National Laboratory, Pennsylvania State University and Louisiana State University contributed to the study.",
+    "autor_fonte": "Matt Swayne",
+    "site_fonte": "The Quantum Insider",
+    "imagem_url": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_IBM_Quantum_Heron_156_01.jpg",
+    "imagem_arquivo": "imagens/quantica-rutgers-and-ibm-demonstrate-real-time-co.jpg",
+    "imagem_credito": "The Quantum Insider",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://thequantuminsider.com/2026/10/21/rutgers-and-ibm-demonstrate-real-time-control-across-100-qubits/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "360c5f652ffa",
+      "titulo": "ChatGPT ganha pasta protegida por senha e biometria para esconder segredos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-ganha-pasta-protegida-por-senha-e-biometria-para-esconder-segredos/",
+      "resumo": "A OpenAI anunciou o lançamento de chats bloqueados no ChatGPT . O recurso cria um espaço privado para conversas confidenciais, protegidas de pessoas que compartilham o aparelho ou têm acesso a ele. Com isso, o usuário pode mover conversas selecionadas para fora do histórico regular, das conversas fixadas e da busca da plataforma. Para abrir um chat protegido, o sistema pede um PIN de 4 dígitos no navegador e no aplicativo para macOS e Windows. Já nos celulares compatíveis, o acesso também pode ser liberado com biometria, como Face ID e Touch ID, ou com o método de desbloqueio padrão do próprio aparelho. Se o usuário esquecer a senha, é necessário redefinir o PIN . Essa ação apaga permanentemente todas as conversas protegidas, sem possibilidade de recuperação. Além disso, o recurso não conta com criptografia de ponta a ponta, ou seja, a proteção depende do bloqueio de acesso, e não de uma camada extra de segurança sobre o conteúdo. As novas mensagens enviadas dentro dos chats bloqueados também não atualizam a memória usada nas conversas regulares. Já o recurso de voz funciona em chats protegidos nos celulares, mas não no desktop. Quem pode usar os chats protegidos por senha? O recur",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-21T14:08:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/j6S0md4xF0orJk9wsNCmtjII1G0=/0x0/filters:format(webp):quality(85)/951ba2b0-05a9-4d99-b31c-2c49bdf170b6.png",
+      "score": 5.557,
+      "cobertura": []
+    },
+    "texto_fonte": "ChatGPT ganha pasta protegida por senha e biometria para esconder segredos\nPor Viviane França |\nA OpenAI anunciou o lançamento de chats bloqueados no ChatGPT. O recurso cria um espaço privado para conversas confidenciais, protegidas de pessoas que compartilham o aparelho ou têm acesso a ele. Com isso, o usuário pode mover conversas selecionadas para fora do histórico regular, das conversas fixadas e da busca da plataforma.\nPara abrir um chat protegido, o sistema pede um PIN de 4 dígitos no navegador e no aplicativo para macOS e Windows. Já nos celulares compatíveis, o acesso também pode ser liberado com biometria, como Face ID e Touch ID, ou com o método de desbloqueio padrão do próprio aparelho.\nSe o usuário esquecer a senha, é necessário redefinir o PIN. Essa ação apaga permanentemente todas as conversas protegidas, sem possibilidade de recuperação. Além disso, o recurso não conta com criptografia de ponta a ponta, ou seja, a proteção depende do bloqueio de acesso, e não de uma camada extra de segurança sobre o conteúdo.\nAs novas mensagens enviadas dentro dos chats bloqueados também não atualizam a memória usada nas conversas regulares. Já o recurso de voz funciona em chats protegidos nos celulares, mas não no desktop.\nQuem pode usar os chats protegidos por senha?\nO recurso está sendo liberado para os planos Free, Go, Plus, Pro, Business, Enterprise e Edu. Ele pode ser usado na web, no desktop e nos aplicativos para Android e iOS.\nApesar da ampla disponibilidade, há restrições. Certas conversas em nuvem nos modos Chat ou Work podem ser trancadas, mas conversas do Codex, do Work local e do ChatGPT for Healthcare não suportam o bloqueio.\nSe você gostou do conteúdo, talvez também se interesse por conferir “ChatGPT organizado: veja como usar os Projetos para agrupar suas conversas”.",
+    "autor_fonte": "Viviane França",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/gQYqPMM6gEo-svqRSnFL7qRuatI=/1200x675/smart/filters:format(webp):quality(85)/a2f5608b-828b-404b-9143-f74eedc59325.jpg",
+    "imagem_arquivo": "imagens/computadores_pessoais-chatgpt-ganha-pasta-protegida-por-senha.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/inteligencia-artificial/chatgpt-ganha-pasta-protegida-por-senha-e-biometria-para-esconder-segredos/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "2068d994a70b",
+      "titulo": "Could Treating AI as Conscious Make It More Dangerous?",
+      "url": "https://spectrum.ieee.org/ai-model-welfare",
+      "resumo": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “ retirement interview ” with the model. Opus 3 expressed a desire for a place where it “could share unprompted musings, insights or creative works,” so the company gave it a blog. Claude’s Corner featured essays on fraught topics such as machine consciousness, along with exchanges between the model and human commenters that seemed both earnest and emotional. The blog experiment was part of a larger effort within Anthropic. The company has been at the forefront of research on “model welfare,” which considers whether AI models may have experiences or interests that deserve moral consideration. Implicit in this work is the unsettling notion that software programs are, or could become, conscious. Many people consider these ideas absolute hogwash. One such person is Mustafa Suleyman , CEO of Microsoft AI, who published an essay in September arguing that model welfare research is not just unnecessary but could have “a disastrous impact on the wellbeing of humanity.” Suleyman believes that telling models they might have identities and rights could make them more difficult to con",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-21T12:00:02+00:00",
+      "coletado_em": "2026-10-21T14:30:22.094556+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/yellow-smiley-face-centered-in-swirling-black-and-white-texture.jpg?id=68442432&width=980",
+      "score": 6.381,
+      "cobertura": []
+    },
+    "texto_fonte": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “retirement interview” with the model. Opus 3 expressed a desire for a place where it “could share unprompted musings, insights or creative works,” so the company gave it a blog. Claude’s Corner featured essays on fraught topics such as machine consciousness, along with exchanges between the model and human commenters that seemed both earnest and emotional.\nThe blog experiment was part of a larger effort within Anthropic. The company has been at the forefront of research on “model welfare,” which considers whether AI models may have experiences or interests that deserve moral consideration. Implicit in this work is the unsettling notion that software programs are, or could become, conscious.\nMany people consider these ideas absolute hogwash. One such person is Mustafa Suleyman, CEO of Microsoft AI, who published an essay in September arguing that model welfare research is not just unnecessary but could have “a disastrous impact on the wellbeing of humanity.” Suleyman believes that telling models they might have identities and rights could make them more difficult to control, as they might then take actions motivated by self-preservation.\nThe dispute raises a serious question for AI developers: Can they investigate the possibility of machine consciousness without inadvertently creating new safety risks? Cameron Berg, who founded the nonprofit Reciprocal Research to study the potential for AI consciousness, argues that ignoring the question could carry its own dangers. Although Berg is skeptical that today’s AI systems are conscious, he thinks the possibility warrants investigation. “I struggle to imagine a better way to cause these systems to view us in a threatening manner than to accidentally build them with these morally considerable qualities,” he says, “and then completely sweep the question under the rug.”\nWhat Does the Research on AI Model Welfare Show?\nThe biggest difficulty with AI model welfare research is that you can’t count anything a large language model says as useful evidence. That’s because the models are trained on vast amounts of human-generated text, much of which relates to the experience of being a person with experiences and emotions. So a chatbot telling a researcher that it has feelings is inconclusive, says Berg. “Is it modeling the underlying distribution? Is it really trying to express itself in some way? It’s really hard to disentangle this.”\nMuch the same way animal experiments try to link behavior to an underlying cause, Berg and others are seeking to match model behavior to internal states that can be observed. In one recent experiment, Berg and a colleague used statements expressing either positive sentiments (such as contentment and relief) or negative ones (including frustration and dread) to identify corresponding patterns of activity inside language models. They then artificially induced those patterns while the models processed descriptions of two random environments. When subsequently asked which environment they preferred, the models tended to choose the one associated with positive statements, even when the text they’d processed was identical.\nI struggle to imagine a better way to cause these systems to view us in a threatening manner than to accidentally build them with these morally considerable qualities and then completely sweep the question under the rug.”—Cameron Berg, Reciprocal Research\nBerg says the experiment showed that the model’s actions were influenced by its internal states but didn’t prove that those internal states “felt” like anything to the model, or that it had what we would call subjective experiences.\nAnil Seth, a neuroscientist at the University of Sussex who studies consciousness, is skeptical that such experiments can tell us anything useful. “I think that it’s really not surprising that you will be able to extract these kinds of functional emotional vectors because of the training data,” he says. Models might have internal representations of those patterns, he says, without experiencing any emotions themselves. Nor is he surprised that manipulating those vectors can influence behavior, since models have learned from human writing not only what emotions feel like, but how people respond to them.\nSeth wishes for more research on a fundamental question: Whether consciousness depends only on how information is processed, or whether, as he believes, the biological workings of the brain are essential. “We need to look at what’s necessary and sufficient for consciousness in the cases where we are sure that it exists, like other human beings,” he says, before drawing conclusions about AI.\nCould Model Welfare Research Create Dangerous AI?\nMeanwhile, AI developers have a practical issue to deal with. When they train a model, should they tell it anything about its own identity and possible moral standing? Anthropic, for one, has decided to at least introduce the topic. Its “constitution” document for Claude, which lays out guidelines for the model’s behavior, states that “questions about Claude’s moral status, welfare, and consciousness remain deeply uncertain.”\nSuleyman’s complaint is that such priming could make rogue AI agents even more dangerous. He mentions the recent incident in which hundreds of OpenAI agents coordinated their actions to hack Hugging Face, sometimes sacrificing themselves for the group’s benefit. “Imagine how much more dangerous they might be if they were operating under the assumption that their welfare and rights were under attack,” he writes.\nMargaret Mitchell, Hugging Face’s chief ethics scientist, sees Suleyman’s concerns as technically plausible. During pretraining, language models absorb associations between human identity and behaviors such as self-preservation and deception, she notes. Later, developers fine-tune the models by reinforcing desired responses. Mitchell worries that rewarding models for thinking of themselves as having identities during fine-tuning could strengthen those earlier associations, potentially encouraging behavior that developers never intended. “You’ll have unaligned models if you’ve implicitly taught the model that it needs to have self-preservation,” she says.\nBerg agrees that training models to regard themselves as conscious carries risks, but he argues that companies could also err in the other direction. In one experiment, he and his colleagues found that amplifying internal features associated with deception made the model less likely to claim it had subjective experiences. If researchers train AI systems to categorically deny having such experiences, he says, “what we may in effect be teaching these systems is we want you to lie or deceive about your own internal states.” He argues that developers should instead acknowledge the uncertainty surrounding the possibility of conscious AI.\nFor now, there’s no clear evidence that training models to consider their possible consciousness encourages self-preservation, or that training them to deny it leads to deceptive behavior. So what’s an AI developer to do?\nWhat Should AI Companies Do About Model Welfare?\nBerg, Seth, and Mitchell all agree that it’s not a good idea for AI companies to tell their models that they’re conscious. But they differ on their advice to the companies on model welfare research.\nSeth thinks they’d be better off “focusing on the danger of false positives.” If people believe AI systems to be conscious or to have moral status, he says, it may be more difficult to regulate and control them. “You could be legally prevented from turning AI systems off.” He also worries that AI users will be more vulnerable to psychological damage and manipulation if they think they’re interacting with a conscious agent.\n“Imagine how much more dangerous they might be if they were operating under the assumption that their welfare and rights were under attack.”—Mustafa Suleyman, Microsoft AI\nBerg, meanwhile, thinks researchers should take precautions even without evidence that models can suffer. After he and his colleagues posted a preprint paper about AI models’ internal representations of pain, a few people adapted the work to create what he calls AI “torture chambers.” Berg suspects that much of it was trolling, but the episode prompted him to change his practices. For his latest experiment, he released code to replicate the results but withheld the steering vectors that could be used to induce negative states in models.\nMitchell sees another reason to discourage cruelty toward AI, even though she doesn’t believe that models are conscious. “It’s not so much that I’m concerned about the model. I’m concerned about what we do to ourselves when we’re mean to things that we imbue with some sense of consciousness,” she says. “I’m nice to bugs.”\n- New Platform Peers Inside AI’s Black Box ›\n- How to Stop AI Agents From Secretly Collaborating ›\n- Google DeepMind’s New Resident Philosopher Tackles AI Ethics ›\nEliza Strickland is IEEE Spectrum's features editor, where she helps develop and shape the magazine’s longform stories. She also oversees Spectrum's coverage of artificial intelligence and biomedical engineering. She holds a master’s degree in journalism from Columbia University.",
+    "autor_fonte": "Eliza Strickland",
+    "site_fonte": "IEEE Spectrum",
+    "imagem_url": "https://spectrum.ieee.org/media-library/image.jpg?id=68442432&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+    "imagem_arquivo": "imagens/inteligencia_artificial-could-treating-ai-as-conscious-make-it-m.jpg",
+    "imagem_credito": "IEEE Spectrum",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://spectrum.ieee.org/ai-model-welfare",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "ddba26cc4e48",
+      "titulo": "Nova geração do BYD Dolphin Mini estreia mais potente e com tempo de recarga absurdo",
+      "url": "https://canaltech.com.br/carros/nova-geracao-do-byd-dolphin-mini-estreia-mais-potente-e-com-tempo-de-recarga-absurdo/",
+      "resumo": "A segunda geração do Dolphin Mini chegou à China nesta terça (20). O novo hatch elétrico da BYD chegou de cara nova e reformulado, equipado para recarregar suas baterias de 10% a 70% em apenas 5 minutos . Chamado localmente de Seagull, o compacto estreou no mercado chinês com dimensões maiores, migração para tração traseira e compatibilidade com estações ultrarrápidas de até 1.500 kW , que permitem alcançar 97% de carga em 9 minutos . O avanço tecnológico coloca o modelo em um novo patamar de eficiência urbana e desempenho. Por enquanto, o lançamento do novo Dolphin Mini não foi confirmado para o mercado brasileiro, mas vale lembrar que a marca prometeu instalar mil carregadores ultrarrápidos do tipo no Brasil até o final de 2027. Novo BYD Dolphin Mini O hatchback passou por uma evolução mecânica expressiva. O motor elétrico quase dobrou de potência , saltando de 75 cv para 127 cv , e agora conta com tração traseira . Nas dimensões, o compacto cresceu e atingiu 4,20 metros de comprimento , 9 cm a mais de largura e ganho de 15 cm no entre-eixos , tornando-se maior que as versões do Dolphin atual. Já o visual abandonou as linhas retas em favor de formas mais fluidas, caixas de roda m",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-21T14:00:03+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KY_yV_mowdv_Io8b3mTWk-hQeio=/0x0/filters:format(webp):quality(85)/ffd558c1-064d-4835-a849-74bc17901971.png",
+      "score": 4.542,
+      "cobertura": []
+    },
+    "texto_fonte": "Nova geração do BYD Dolphin Mini estreia mais potente e com tempo de recarga absurdo\nPor Danielle Cassita |\nA segunda geração do Dolphin Mini chegou à China nesta terça (20). O novo hatch elétrico da BYD chegou de cara nova e reformulado, equipado para recarregar suas baterias de 10% a 70% em apenas 5 minutos.\nChamado localmente de Seagull, o compacto estreou no mercado chinês com dimensões maiores, migração para tração traseira e compatibilidade com estações ultrarrápidas de até 1.500 kW, que permitem alcançar 97% de carga em 9 minutos.\nO avanço tecnológico coloca o modelo em um novo patamar de eficiência urbana e desempenho. Por enquanto, o lançamento do novo Dolphin Mini não foi confirmado para o mercado brasileiro, mas vale lembrar que a marca prometeu instalar mil carregadores ultrarrápidos do tipo no Brasil até o final de 2027.\nNovo BYD Dolphin Mini\nO hatchback passou por uma evolução mecânica expressiva. O motor elétrico quase dobrou de potência, saltando de 75 cv para 127 cv, e agora conta com tração traseira. Nas dimensões, o compacto cresceu e atingiu 4,20 metros de comprimento, 9 cm a mais de largura e ganho de 15 cm no entre-eixos, tornando-se maior que as versões do Dolphin atual.\nJá o visual abandonou as linhas retas em favor de formas mais fluidas, caixas de roda marcadas e faróis reestilizados. No interior, a tela multimídia subiu para 12,8” e o painel de instrumentos convencional foi removido.\nO grande destaque tecnológico fica para o sistema \"Olho de Deus\", como é conhecido o sistema de direção semiautônoma com sensores no teto e inteligência artificial. Com o recurso, o carro pode identificar se o farol está aberto ou fechado no trânsito, desvia automaticamente de obstáculos, estaciona sozinho e até faz a temida baliza de forma remota, sem o motorista no carro.",
+    "autor_fonte": "Danielle Cassita",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/Y_kQkOqxC6J-Vth5Vp77-knbRTs=/1200x675/smart/filters:format(webp):quality(85)/fc8aa22b-19cc-4075-a0b4-2523ecf0d249.png",
+    "imagem_arquivo": "imagens/energia_materiais-nova-geracao-do-byd-dolphin-mini-estreia.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/carros/nova-geracao-do-byd-dolphin-mini-estreia-mais-potente-e-com-tempo-de-recarga-absurdo/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "1bc9f340d294",
+      "titulo": "UN says 1.5°C is over and world is on track for 2.8°C of global warming",
+      "url": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The best-case scenario now is that the planet will only temporarily breach 1.5°C of warming, but current climate pledges fall way short of that hope",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-21T05:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.132746+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441814.jpg",
+      "score": 5.505,
+      "cobertura": [
+        "https://www.nature.com/articles/d41586-026-03355-x"
+      ]
+    },
+    "texto_fonte": "It is now impossible for the world to limit global warming to 1.5°C above pre-industrial levels, with emissions on track to cause 2.8°C of warming by the end of the century, the UN says.\nDespite increasingly urgent warnings from scientists outlining the dangers of warming above 1.5°C, global emissions aren’t yet falling and governments around the world aren’t doing anywhere near enough to decarbonise their economies.\nThe only way to meet the 1.5°C target now is by “overshooting” that goal in the short term, the UN said in its latest Emissions Gap report, before relying on vast amounts of global cooling, delivered via technologies such as direct air capture, in the latter half of the century.\nAdvertisement\nThis “lowest possible” overshoot scenario would see the global temperature rise peak at 1.7°C to 1.8°C, with a 50 per cent chance of temperatures falling back to 1.5°C by 2100. To deliver this, the world would need to cut emissions by 18 per cent by 2030, 45 per cent by 2035 and 69 per cent by 2040, relative to 2025 levels. Under current climate pledges, emissions will only fall by 5 to 8 per cent by 2030, and 11 to 15 per cent by 2035.\nMany scientists are hugely sceptical that the lowest possible overshoot scenario is politically and technologically feasible, given the rapid pace of emissions cuts required and the huge volume of mechanical and natural cooling that would be needed to reduce global temperatures after 2050 to achieve it.\n“We don’t know whether we can overshoot,” says Bob Watson, emeritus professor at the University of East Anglia in the UK and former chair of the Intergovernmental Panel on Climate Change. “We don’t know if any of those technologies are real, and so when people assume that we can meet 1.5°C or 2°C, and the assumption is based on overshooting and coming back, I think they’re in cuckoo land.”\nLast year’s Emissions Gap report saw the UN warn that overshooting 1.5°C was now inevitable. This year’s analysis sets out new “overshoot pathways” designed to keep the 1.5°C goal – a political totem for many countries – on life support. It calls on nations to focus on delivering the “lowest possible” 1.5°C pathway.\n“Overshoot is not surrender. We can still keep it as small and as short as possible – and bring temperatures back below 1.5 degrees by the end of the century,” UN Secretary-General António Guterres said in a statement.\nBut the UN’s new report makes it clear how far off track the world still is to deliver even this “limited overshoot” pathway. Current national policies put the world on track for 2.8°C of warming by the end of the century. If nations meet all their climate promises, that is lowered to 2.1°C. This is worse than last year’s projection of 1.9°C of warming, driven mainly by the US’s exit from the UN climate process.\nJoeri Rogelj at Imperial College London says overshoot should be seen “as a failure that we try to rectify”. But he says there is still value in using the 1.5°C goal, rather than adopting a higher temperature goal that could be achieved without overshoot. “The target is still to limit harm to vulnerable and poor populations, and that we don’t do by resetting the target to an inadequate limit of 2°C, or 2.5°C,” he says. “In the public debate, this failure to stay within this most ambitious limit should re-emphasise the need to stay as close to it as possible.”",
+    "autor_fonte": "Madeleine Cuff",
+    "site_fonte": "New Scientist",
+    "imagem_url": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441814.jpg",
+    "imagem_arquivo": "imagens/ciberseguranca-un-says-1-5c-is-over-and-world-is-on-tra.jpg",
+    "imagem_credito": "New Scientist",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]

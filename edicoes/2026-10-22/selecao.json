@@ -1,0 +1,745 @@
+{
+  "medicina": [
+    {
+      "id": "4f65f7dc7650",
+      "titulo": "STAT+: GSK picks up hep B drug approval",
+      "url": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+      "resumo": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-21T14:24:45+00:00",
+      "coletado_em": "2026-10-21T14:30:22.076054+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2025/09/Hep-b-1024x576.jpg",
+      "score": 6.339,
+      "cobertura": []
+    },
+    {
+      "id": "2ffa88eb85f2",
+      "titulo": "STAT+: Pharmalittle: We’re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss",
+      "resumo": "Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-21T13:26:27+00:00",
+      "coletado_em": "2026-10-21T14:30:22.076054+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "score": 6.231,
+      "cobertura": []
+    },
+    {
+      "id": "143fe40bc614",
+      "titulo": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+      "url": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
+      "resumo": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-21T12:05:54+00:00",
+      "coletado_em": "2026-10-21T14:30:22.076054+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/STATday1278-1024x576.jpg",
+      "score": 6.09,
+      "cobertura": []
+    },
+    {
+      "id": "869aca223d22",
+      "titulo": "Daily blood tests flag potential to stop sepsis antibiotics nearly two days early",
+      "url": "https://medicalxpress.com/news/2026-10-daily-blood-flag-potential-sepsis.html",
+      "resumo": "A simple daily blood test could help critically ill sepsis patients come off antibiotics sooner, potentially reducing drug overuse and helping tackle the growing threat of antibiotic resistance, new research shows. The study, led by researchers at the University of Manchester and Northern Care Alliance NHS Foundation Trust, involved 2,760 patients in 41 intensive care units across the U.K. and is published in the journal Anaesthesia.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-21T14:20:11+00:00",
+      "coletado_em": "2026-10-21T14:30:22.075247+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-tests.jpg",
+      "score": 5.53,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "d0836814e2e5",
+      "titulo": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+      "url": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+      "resumo": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta Magazine",
+      "fonte": "Quanta Magazine",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-21T14:00:07+00:00",
+      "coletado_em": "2026-10-21T14:30:22.077720+00:00",
+      "imagem_feed": "https://www.quantamagazine.org/wp-content/uploads/2056/10/ImageGallerySmallWorld-crKaelinWulfAndMsRachelFlannery_AllenInstitute_DepartmentOfNeuralDynamics-Default.webp",
+      "score": 5.443,
+      "cobertura": []
+    },
+    {
+      "id": "231464a9228d",
+      "titulo": "Genomes of 20 eastern Finnish species provide unique insights into species' adaptations to local conditions",
+      "url": "https://phys.org/news/2026-10-genomes-eastern-finnish-species-unique.html",
+      "resumo": "In recent years, researchers at the University of Eastern Finland have been both leading and contributing to collaborative genome projects. These efforts have produced reference-quality genome assemblies for the Finnish brown hare and the mountain hare, as well as the Saimaa ringed seal, in collaboration with research partners.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-21T12:20:01+00:00",
+      "coletado_em": "2026-10-21T14:30:22.076631+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/genomes-of-20-eastern.jpg",
+      "score": 5.314,
+      "cobertura": []
+    },
+    {
+      "id": "084fe3c40316",
+      "titulo": "Unraveling DNA repair: How cells protect their genetic blueprint",
+      "url": "https://phys.org/news/2026-10-unraveling-dna-cells-genetic-blueprint.html",
+      "resumo": "Every cell in the human body faces a chronic challenge: protecting its DNA. Whenever cells divide, their genetic material must be copied accurately. But DNA is continuously under attack, and when damage goes unrepaired, it can threaten genome stability and contribute to the progression of disease.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-20T19:00:01+00:00",
+      "coletado_em": "2026-10-21T14:30:22.076631+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/genes.jpg",
+      "score": 5.198,
+      "cobertura": []
+    },
+    {
+      "id": "aa17dca83798",
+      "titulo": "More current with less calcium: Computational models help solve longstanding ion channel evolution mystery",
+      "url": "https://phys.org/news/2026-10-current-calcium-longstanding-ion-channel.html",
+      "resumo": "In the early 1980s, scientists observed an anomaly. Embedded within cell membranes, they identified ion channels with extraordinarily high conductance. These so-called \"BK\" (Big K, or Big Potassium) channels had roughly 10 times the unitary conductance (i.e., conductance per individual channel molecule) of other potassium channels, enabling much more efficient, rapid transport of potassium ions. And while later structural characterization explained how this happened, no one could understand why. That is, until now.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-21T09:00:06+00:00",
+      "coletado_em": "2026-10-21T14:30:22.076631+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-current-with-less-1.jpg",
+      "score": 5.005,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "a9044ca8f5b5",
+      "titulo": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+      "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
+      "resumo": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment. The post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-21T13:19:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.078588+00:00",
+      "imagem_feed": null,
+      "score": 5.267,
+      "cobertura": []
+    },
+    {
+      "id": "4b586e594e2b",
+      "titulo": "A guide to Day 2 of RoboBusiness 2026",
+      "url": "https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026/",
+      "resumo": "Day 2 of RoboBusiness 2026, the 20th anniversary of the event, will include interesting keynotes around humanoids and social robots. The post A guide to Day 2 of RoboBusiness 2026 appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-21T12:00:26+00:00",
+      "coletado_em": "2026-10-21T14:30:22.078588+00:00",
+      "imagem_feed": null,
+      "score": 5.131,
+      "cobertura": []
+    },
+    {
+      "id": "d29b620d75bb",
+      "titulo": "Gemini ganha pacote de recursos para ajudar quem tem o próprio negócio",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-pacote-de-recursos-para-ajudar-empreendedores-autonomos/",
+      "resumo": "O Google anunciou uma série de novidades do Gemini voltadas para Pequenas e Médias Empresas (PMEs) na última terça-feira (20). A ferramenta de IA ganhou um painel com uma visão geral sobre o negócio, além de recursos para relatórios financeiros e criação de recursos visuais. O objetivo é ampliar o acesso à tecnologia para simplificar a rotina de microempreendedores, trabalhadores autônomos e donos de pequenos negócios . O pacote inclui funções próprias do Gemini e aumenta a integração com serviços externos, como Canva e Wix. O que muda no Gemini para PMEs A principal diferença é um novo painel unificado na tela inicial para trazer um panorama do empreendimento. É possível ver insights financeiros rapidamente, entender comportamentos de clientes, acessar ferramentas para reforçar a identidade de marca e ainda conectar apps de terceiros, incluindo ferramentas do próprio Google, como o Perfil da Empresa da Busca. Para ações de marketing, o Gemini se destaca pela capacidade de criar ativos visuais que respeitam a identidade da empresa . Basta enviar site institucional, kit de marca, logotipo, fontes e paleta de cores para que a IA crie imagens respeitando os detalhes com a ajuda do mod",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-21T12:18:04+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/15Nmpef5X6pF-_JbLPKjndiTatA=/0x0/filters:format(webp):quality(85)/40b3cfbf-a25d-4df7-b147-77a7c687a924.png",
+      "score": 4.361,
+      "cobertura": []
+    },
+    {
+      "id": "929398b5f91e",
+      "titulo": "Reservoir launches new agricultural robotics incubator for Washington growers",
+      "url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+      "resumo": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers. The post Reservoir launches new agricultural robotics incubator for Washington growers appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-20T19:40:05+00:00",
+      "coletado_em": "2026-10-21T14:30:22.078588+00:00",
+      "imagem_feed": null,
+      "score": 4.074,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "a2134d92741f",
+      "titulo": "PHP patches released for two critical RCEs",
+      "url": "https://lwn.net/Articles/1102014/",
+      "resumo": "The PHP project has published PHP versions 8.5.12 , 8.4.27 , 8.3.36 and 8.2.35 to address two critical vulnerabilities that could allow unauthenticated remote code execution. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs. The vulnerabilities: RCE via OOM corruption , CVE-2026-109618 ( GHSA-w8hw-w9fx-j79w ): out-of-memory handling can interrupt PHP while internal request data is only partially initialized. Request cleanup may then treat the invalid data as valid. RCE via stale global state , CVE-2026-109619 ( GHSA-6wmf-4rv5-p3rp ): request-owned internal state can survive after its backing memory has been freed. A later request handled by the same worker may use that stale state before normal initialization resets it. PHP versions older than 8.1 will not receive updates from the project, though the project has provided some patches for PHP 7.4 , PHP 8.0 , and PHP 8.1 to assist in creating backports. According to the announcement, Linux dis",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-21T13:53:18+00:00",
+      "coletado_em": "2026-10-21T14:30:22.080064+00:00",
+      "imagem_feed": null,
+      "score": 5.48,
+      "cobertura": []
+    },
+    {
+      "id": "2866ad000545",
+      "titulo": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1102005/",
+      "resumo": "Security updates have been issued by AlmaLinux (bubblewrap, emacs, gimp:2.8, glibc, jackson-databind, kernel, kernel-rt, librabbitmq, openexr, openssh, postgresql:16, postgresql:18, python3, resteasy, wireshark, xorg-x11-server, and xorg-x11-server-Xwayland), Debian (ca-certificates, firefox-esr, git-lfs, and libssh), Fedora (aom, assimp, bind, bind-dyndb-ldap, freerdp, ghostscript, gopass, gopass-jsonapi, ImageMagick, libpng12, libpng15, nebula, perl-GD-SecurityImage, perl-Net-IDN-Encode, perl-Net-Whois-Raw, rust-backtrace, rust-object, rust-object0.37, rust-object0.38, rust-object0.39, rust-ruzstd, and xen), Gentoo (ca-certificates), Mageia (x11-server, x11-server-wayland, tigervnc), Oracle (bubblewrap, ca-certificates, emacs, fetchmail, gimp:2.8, hostapd, jackson-databind, librabbitmq, lrzsz, openexr, openssh, openssl, postgresql:18, python-urllib3, python3, python3.12-urllib3, resteasy, webkit2gtk3, wireshark, and xorg-x11-server-Xwayland), Red Hat (.NET 8.0, dogtag-pki, flatpak-builder, ghostscript, glycin-loaders, go-toolset:rhel8, golang, gvfs, jackson-core, jackson-databind, librsvg2, multiple packages, pki-core, pki-core:10.6, sudo, xorg-x11-server, and xorg-x11-server-Xwa",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-21T13:13:58+00:00",
+      "coletado_em": "2026-10-21T14:30:22.080064+00:00",
+      "imagem_feed": null,
+      "score": 5.408,
+      "cobertura": []
+    },
+    {
+      "id": "987ac1e6baf4",
+      "titulo": "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction",
+      "url": "https://www.infoq.com/presentations/dora-ai-adoption-engineering-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Nathen Harvey shares insights from DORA research on AI adoption in software delivery. He explains why AI acts as an amplifier, how the DORA AI Capabilities Model drives outcomes, and why engineering leaders must evolve beyond bottlenecks like code reviews to achieve sustainable productivity, reduce delivery instability, and empower developers without burning out their teams. By Nathen Harvey",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-21T11:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.079196+00:00",
+      "imagem_feed": "https://res.infoq.com/presentations/dora-ai-adoption-engineering-performance/en/mediumimage/medium-1791447741420.jpg",
+      "score": 5.333,
+      "cobertura": []
+    },
+    {
+      "id": "e129b0c4c28b",
+      "titulo": "Cilium 1.20 Expands Gateway API and Opens eBPF Datapath for Kubernetes",
+      "url": "https://www.infoq.com/news/2026/10/cilium-120-kubernetes-networking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Cilium 1.20 has been released with broader Kubernetes Gateway API support, an extensible eBPF datapath and further work on sidecarless mutual TLS. The release also makes the newer netkit network device easier to introduce across Kubernetes fleets that run different Linux kernel versions. By Matt Saunders",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-21T09:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.079196+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/cilium-120-kubernetes-networking/en/headerimage/generatedHeaderImage-1792161419866.jpg",
+      "score": 5.155,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "5ffb3388826e",
+      "titulo": "AMD and Intel will work together to create a single PyTorch code path for AI inference on CPUs",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler",
+      "resumo": "AMD and Intel are working together to bring CPU inference optimizations for PyTorch under the unified oneDNN library.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-21T12:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.081151+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rYe5kJq2zmKffyrHqBDYkE-1920-80.jpg",
+      "score": 5.93,
+      "cobertura": []
+    },
+    {
+      "id": "f37ade3a39de",
+      "titulo": "Micron's Taiwan union will launch a one-day strike this week, threatening memory production",
+      "url": "https://www.tomshardware.com/pc-components/dram/microns-taiwan-union-will-launch-a-one-day-strike-this-week-threatening-round-the-clock-fab-operations-workers-demand-concrete-terms-for-2026-bonus-and-clearer-profit-sharing-arrangements",
+      "resumo": "Micron's Taiwan union is set to conduct a one-day strike at the company's Taoyuan DRAM facility as workers demand bonuses for this year and transparent terms of bonuses for upcoming years.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-21T11:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.081151+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "score": 5.333,
+      "cobertura": []
+    },
+    {
+      "id": "1e486f4799d2",
+      "titulo": "Jensen Huang Nvidia GTC keynote disrupted by Greenpeace protest over chips in Russian drones",
+      "url": "https://www.tomshardware.com/tech-industry/jensen-huang-nvidia-gtc-keynote-disrupted-by-greenpeace-protest-over-chips-in-russian-drones-what-are-you-doing-about-that-heckler-demands-before-being-thrown-out",
+      "resumo": "Jensen Huang's Nvidia GTC keynote speech in Berlin was disrupted by a Greenpeace protest on Wednesday.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-21T09:57:06+00:00",
+      "coletado_em": "2026-10-21T14:30:22.081151+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/tUqqa4kgj9Fjp8EAM8fysb-1920-80.jpg",
+      "score": 5.237,
+      "cobertura": []
+    },
+    {
+      "id": "a3e1d93e65d8",
+      "titulo": "Mysterious AMD Zen 6 APU with 24GB of LPDDR5 memory appears in benchmarks",
+      "url": "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds",
+      "resumo": "The engineering sample features six CPU cores, 24GB of LPDDR5 memory running at 9,600 MT/s, and an integrated GPU clocked at 2.4 GHz, although its connection to a future Steam Deck remains unconfirmed.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-20T13:59:43+00:00",
+      "coletado_em": "2026-10-21T14:30:22.081151+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/F2eBRdr2oBGZeuWJZ9qPYQ-1920-80.jpg",
+      "score": 5.185,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "891569287885",
+      "titulo": "Fim da escala 6×1 divide impactos entre trabalhadores e empresas",
+      "url": "https://jornal.usp.br/radio-usp/fim-da-escala-6-x-1-divide-impactos-entre-trabalhadores-e-empresas/",
+      "resumo": "Mudança pode ampliar o tempo de descanso e melhorar o bem-estar dos profissionais, enquanto pequenos negócios enfrentam desafios para absorver os custos adicionais",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-21T11:57:52+00:00",
+      "coletado_em": "2026-10-21T14:30:22.098746+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_luciano--1024x1024.jpg",
+      "score": 5.077,
+      "cobertura": []
+    },
+    {
+      "id": "419686aeb995",
+      "titulo": "Webb Captures Stellar Jets",
+      "url": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+      "resumo": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-20T14:44:09+00:00",
+      "coletado_em": "2026-10-21T14:30:22.082116+00:00",
+      "imagem_feed": null,
+      "score": 5.007,
+      "cobertura": []
+    },
+    {
+      "id": "fe02f2f6b923",
+      "titulo": "Astronomers uncover the engine behind the most powerful stellar flares in the Kepler field",
+      "url": "https://phys.org/news/2026-10-astronomers-uncover-powerful-stellar-flares.html",
+      "resumo": "A new study led by researchers at the Konkoly Observatory of the HUN-REN Research Centre for Astronomy and Earth Sciences (HUN-REN CSFK) in Budapest has revealed what makes a distant red giant star the most explosively active in the entire Kepler field—and the answer lies in a surprisingly subtle interplay between a close stellar companion, vast dark starspots and a highly efficient internal magnetic dynamo.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-21T13:20:06+00:00",
+      "coletado_em": "2026-10-21T14:30:22.082532+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-uncover-th.jpg",
+      "score": 4.919,
+      "cobertura": []
+    },
+    {
+      "id": "072358b4428d",
+      "titulo": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+      "resumo": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-21T12:17:58+00:00",
+      "coletado_em": "2026-10-21T14:30:22.082116+00:00",
+      "imagem_feed": null,
+      "score": 4.761,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "aae1037579b2",
+      "titulo": "Rutgers And IBM Demonstrate Real-Time Control Across 100 Qubits",
+      "url": "https://thequantuminsider.com/2026/10/21/rutgers-and-ibm-demonstrate-real-time-control-across-100-qubits/",
+      "resumo": "Insider Brief PRESS RELEASE — Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control. The advance is a critical step toward building larger, more reliable quantum […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-21T08:22:10+00:00",
+      "coletado_em": "2026-10-21T14:30:22.083745+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_IBM_Quantum_Heron_156_01.jpg",
+      "score": 6.103,
+      "cobertura": []
+    },
+    {
+      "id": "bff141e12ac1",
+      "titulo": "A quantum computing feat brings the ‘megaquops’ era a step closer",
+      "url": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
+      "resumo": "Error correction creates qubits that glitch only 5 out of a million times, the first step toward a new phase for quantum computing.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-20T13:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.133853+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_EC_megaquop_main.jpg?w=800",
+      "score": 5.458,
+      "cobertura": []
+    },
+    {
+      "id": "3be8911c9aa1",
+      "titulo": "qBraid Announces qBraid OS For Operating Quantum Computing Services",
+      "url": "https://thequantuminsider.com/2026/10/21/qbraid-announces-qbraid-os-for-operating-quantum-computing-services/",
+      "resumo": "Insider Brief PRESS RELEASE — qBraid today introduced qBraid OS, software that quantum hardware providers and system operators can use to run their systems and make them available to users, whether as a commercial service or for internal use. qBraid OS manages access, scheduling and billing for a quantum processor, and runs it together with […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-21T13:02:32+00:00",
+      "coletado_em": "2026-10-21T14:30:22.083745+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-4.04.40-AM.png",
+      "score": 5.038,
+      "cobertura": []
+    },
+    {
+      "id": "af1f82322151",
+      "titulo": "South Korea Expands Quantum Communications Testbeds Through 2028",
+      "url": "https://thequantuminsider.com/2026/10/21/korea-expands-quantum-communications-testbeds-three-hubs/",
+      "resumo": "Insider Brief South Korea’s government and private companies plan to widen quantum communications testing at home and abroad through commercial, overseas and future hubs, Seoul Economic Daily reported. The three-year effort runs from this year through 2028, with the aim of commercializing domestically developed quantum communications technology and products. The Ministry of Science and ICT […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-21T12:54:30+00:00",
+      "coletado_em": "2026-10-21T14:30:22.083745+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-21_17-53.png",
+      "score": 5.024,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "360c5f652ffa",
+      "titulo": "ChatGPT ganha pasta protegida por senha e biometria para esconder segredos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-ganha-pasta-protegida-por-senha-e-biometria-para-esconder-segredos/",
+      "resumo": "A OpenAI anunciou o lançamento de chats bloqueados no ChatGPT . O recurso cria um espaço privado para conversas confidenciais, protegidas de pessoas que compartilham o aparelho ou têm acesso a ele. Com isso, o usuário pode mover conversas selecionadas para fora do histórico regular, das conversas fixadas e da busca da plataforma. Para abrir um chat protegido, o sistema pede um PIN de 4 dígitos no navegador e no aplicativo para macOS e Windows. Já nos celulares compatíveis, o acesso também pode ser liberado com biometria, como Face ID e Touch ID, ou com o método de desbloqueio padrão do próprio aparelho. Se o usuário esquecer a senha, é necessário redefinir o PIN . Essa ação apaga permanentemente todas as conversas protegidas, sem possibilidade de recuperação. Além disso, o recurso não conta com criptografia de ponta a ponta, ou seja, a proteção depende do bloqueio de acesso, e não de uma camada extra de segurança sobre o conteúdo. As novas mensagens enviadas dentro dos chats bloqueados também não atualizam a memória usada nas conversas regulares. Já o recurso de voz funciona em chats protegidos nos celulares, mas não no desktop. Quem pode usar os chats protegidos por senha? O recur",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-21T14:08:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/j6S0md4xF0orJk9wsNCmtjII1G0=/0x0/filters:format(webp):quality(85)/951ba2b0-05a9-4d99-b31c-2c49bdf170b6.png",
+      "score": 5.557,
+      "cobertura": []
+    },
+    {
+      "id": "cf3c099af37c",
+      "titulo": "For $35, you can now get Microsoft Office and Windows 11 Pro for life",
+      "url": "https://www.pcworld.com/article/3264130/for-35-you-can-now-get-microsoft-office-and-windows-11-pro-for-life.html",
+      "resumo": "TL;DR: Replace Windows 10 and your Microsoft 365 subscription with lifetime licenses to Windows 11 Pro and Office Professional 2021 , now $34.97 (reg. $418.99). Windows 10 first came out in 2015, and Microsoft 365 Personal still costs $99.99 a year just for basic apps like Word and Excel. This bundle replaces both with a lifetime license for Windows 11 Pro and a lifetime license for Microsoft Office Professional 2021, together for $34.97 (reg. $418.99). Windows 11 Pro moves your computer onto Microsoft’s current operating system. Compared with Windows 11 Home, Pro adds BitLocker to encrypt your drive, Hyper-V for running virtual machines, Windows Sandbox for testing apps in an isolated space, and Azure AD for signing in to work networks. You also get snap layouts for arranging windows, fingerprint or face login with TPM 2.0 security, and Copilot in the taskbar. Before buying, check whether your Windows 10 machine can make the move. Microsoft’s free PC Health Check app shows whether your hardware meets the Windows 11 requirements. This license is for PCs that need a new Windows license, and if your Windows 10 PC can’t use Windows Update to move to Windows 11, this version won’t inst",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-21T08:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.086678+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3264130-0-57833700-1792569645-ultimate-mso-x-win-1.jpg?quality=50&strip=all",
+      "score": 5.073,
+      "cobertura": []
+    },
+    {
+      "id": "117b19437b38",
+      "titulo": "FADU puts the filesystem inside the SSD's flash to bypass host CPUs",
+      "url": "https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027",
+      "resumo": "FADU’s FS-SSD carries NFSv3 file operations inside NVMe commands, letting GPUs, DPUs, and NICs read files without a host file system.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-21T12:30:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.081151+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/FfxWhJKRcbYcywYyA2ctLL-1920-80.jpg",
+      "score": 4.981,
+      "cobertura": []
+    },
+    {
+      "id": "2841988389f6",
+      "titulo": "Trump announces mandate forcing AI data centers to pay energy dividends to the local community",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-announces-mandate-for-data-centers-to-pay-dividends-to-the-local-community-hopes-to-win-more-data-center-supporters-through-dividend-scheme",
+      "resumo": "Trump's latest post on Truth Social announces his plans to make data centers more popular among local communities.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-21T13:46:18+00:00",
+      "coletado_em": "2026-10-21T14:30:22.081151+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/mZPitqsyGmoeWJmLygFpZe-1920-80.jpg",
+      "score": 4.617,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "2068d994a70b",
+      "titulo": "Could Treating AI as Conscious Make It More Dangerous?",
+      "url": "https://spectrum.ieee.org/ai-model-welfare",
+      "resumo": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “ retirement interview ” with the model. Opus 3 expressed a desire for a place where it “could share unprompted musings, insights or creative works,” so the company gave it a blog. Claude’s Corner featured essays on fraught topics such as machine consciousness, along with exchanges between the model and human commenters that seemed both earnest and emotional. The blog experiment was part of a larger effort within Anthropic. The company has been at the forefront of research on “model welfare,” which considers whether AI models may have experiences or interests that deserve moral consideration. Implicit in this work is the unsettling notion that software programs are, or could become, conscious. Many people consider these ideas absolute hogwash. One such person is Mustafa Suleyman , CEO of Microsoft AI, who published an essay in September arguing that model welfare research is not just unnecessary but could have “a disastrous impact on the wellbeing of humanity.” Suleyman believes that telling models they might have identities and rights could make them more difficult to con",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-21T12:00:02+00:00",
+      "coletado_em": "2026-10-21T14:30:22.094556+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/yellow-smiley-face-centered-in-swirling-black-and-white-texture.jpg?id=68442432&width=980",
+      "score": 6.381,
+      "cobertura": []
+    },
+    {
+      "id": "79e6d8f586af",
+      "titulo": "Spotify faz faxina e apaga mais de 75 milhões de músicas falsas feitas por IA",
+      "url": "https://canaltech.com.br/inteligencia-artificial/spotify-faz-faxina-e-apaga-mais-de-75-milhoes-de-musicas-falsas-feitas-por-ia/",
+      "resumo": "O Spotify anunciou a remoção de mais de 75 milhões de faixas de sua plataforma por violações graves ou repetidas das regras contra spam. Além disso, o serviço retirou mais de 50 milhões de músicas com spam e conteúdos de baixa qualidade gerados por inteligência artificial (IA), conhecidos como “AI slop” ou “lixo de IA”, de suas recomendações ao longo do último ano. A decisão veio após uma análise das músicas que os ouvintes costumavam pular, ignorar ou marcar como indesejadas. O levantamento identificou um padrão ligado a conteúdos artificiais ou fraudulentos . Nos últimos seis meses, o Spotify atualizou seu sistema de recomendações para priorizar músicas de artistas reais. Segundo a empresa, as mudanças reduziram as reclamações sobre esses conteúdos nas rádios e playlists personalizadas. Para identificar músicas artificiais, a plataforma analisa o comportamento dos ouvintes , os padrões de envio, os dados das faixas e ferramentas de detecção de IA de outras empresas. O sistema busca combater o envio de músicas em massa, a publicação de faixas duplicadas, a manipulação dos resultados de busca, as redes de playlists criadas para espalhar spam e as músicas muito curtas, feitas para b",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-21T13:31:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/6WA0qQwk88z8L7uK55crV2vxODs=/0x0/filters:format(webp):quality(85)/2c77532a-bee9-452f-b794-4596ecd05aa6.png",
+      "score": 5.489,
+      "cobertura": []
+    },
+    {
+      "id": "61f4d0141ff3",
+      "titulo": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "resumo": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "fonte": "OpenAI",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-21T12:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.095553+00:00",
+      "imagem_feed": null,
+      "score": 5.28,
+      "cobertura": []
+    },
+    {
+      "id": "02c406d23b6a",
+      "titulo": "Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "url": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
+      "resumo": "Empresa de segurança digital localizou quase 7 mil links com potenciais dados sensíveis. Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-21T10:54:49+00:00",
+      "coletado_em": "2026-10-21T14:30:22.103787+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/09/mascote-muse.webp",
+      "score": 4.875,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "ddba26cc4e48",
+      "titulo": "Nova geração do BYD Dolphin Mini estreia mais potente e com tempo de recarga absurdo",
+      "url": "https://canaltech.com.br/carros/nova-geracao-do-byd-dolphin-mini-estreia-mais-potente-e-com-tempo-de-recarga-absurdo/",
+      "resumo": "A segunda geração do Dolphin Mini chegou à China nesta terça (20). O novo hatch elétrico da BYD chegou de cara nova e reformulado, equipado para recarregar suas baterias de 10% a 70% em apenas 5 minutos . Chamado localmente de Seagull, o compacto estreou no mercado chinês com dimensões maiores, migração para tração traseira e compatibilidade com estações ultrarrápidas de até 1.500 kW , que permitem alcançar 97% de carga em 9 minutos . O avanço tecnológico coloca o modelo em um novo patamar de eficiência urbana e desempenho. Por enquanto, o lançamento do novo Dolphin Mini não foi confirmado para o mercado brasileiro, mas vale lembrar que a marca prometeu instalar mil carregadores ultrarrápidos do tipo no Brasil até o final de 2027. Novo BYD Dolphin Mini O hatchback passou por uma evolução mecânica expressiva. O motor elétrico quase dobrou de potência , saltando de 75 cv para 127 cv , e agora conta com tração traseira . Nas dimensões, o compacto cresceu e atingiu 4,20 metros de comprimento , 9 cm a mais de largura e ganho de 15 cm no entre-eixos , tornando-se maior que as versões do Dolphin atual. Já o visual abandonou as linhas retas em favor de formas mais fluidas, caixas de roda m",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-21T14:00:03+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KY_yV_mowdv_Io8b3mTWk-hQeio=/0x0/filters:format(webp):quality(85)/ffd558c1-064d-4835-a849-74bc17901971.png",
+      "score": 4.542,
+      "cobertura": []
+    },
+    {
+      "id": "edf575bd1e47",
+      "titulo": "Middle East fuel crunch drives solar push in tiny Fiji",
+      "url": "https://techxplore.com/news/2026-10-middle-east-fuel-crunch-solar.html",
+      "resumo": "Power cables weave through palm trees high above Fiji's Rukurukulevu village, linking residents to the national grid and a select few to solar panels.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T10:20:01+00:00",
+      "coletado_em": "2026-10-21T14:30:22.096814+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-photo-taken-on-oc-2.jpg",
+      "score": 3.943,
+      "cobertura": []
+    },
+    {
+      "id": "9328d9a320b0",
+      "titulo": "Saiba onde fica a \"capital dos carros elétricos\" no Brasil",
+      "url": "https://canaltech.com.br/carros/saiba-onde-fica-a-capital-dos-carros-eletricos-no-brasil/",
+      "resumo": "Já se perguntou onde está a maior parte dos carros elétricos do Brasil? Se sim, saiba que Fernando de Noronha concentra a maior proporção de veículos elétricos por habitante do Brasil . O município pernambucano somou 78 emplacamentos 100% elétricos entre janeiro de 2022 e setembro de 2026, segundo um levantamento do portal AutoPapo com base nos registros da ABVE e do IBGE. Os dados mostram uma média de um elétrico para cada 43 moradores na ilha pernambucana; para comparação, a média nacional é de um para 639 . O avanço da frota local faz parte da lei do programa Noronha Carbono Zero , aprovada para proibir a circulação de veículos a combustão no arquipélago. No entanto, o prazo para a transição total foi adiado pela Assembleia Legislativa de Pernambuco para agosto de 2029 por falta de infraestrutura de recarga. Além disso, a recarga dos modelos por lá ainda depende principalmente da Tubarão , usina termelétrica movida a combustível fóssil, já que a geração solar cobre apenas 10% do consumo local. Carros elétricos no Brasil O ranking nacional traz em segundo lugar o município de Eusébio (CE) , seguido por Brasília (DF) , Lauro de Freitas (BA) e Santana de Parnaíba (SP) . O levantame",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T18:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/h6p12ziDzqLb5uL2cXL8L4Of1ww=/0x0/filters:format(webp):quality(85)/e59000f1-9a2b-457d-931f-a29e66d78ba9.jpg",
+      "score": 3.712,
+      "cobertura": []
+    },
+    {
+      "id": "0e6f2714075c",
+      "titulo": "New method predicts iron ore behavior for lower-carbon steelmaking",
+      "url": "https://techxplore.com/news/2026-10-method-iron-ore-behavior-carbon.html",
+      "resumo": "Reducing carbon dioxide emissions from steelmaking requires more efficient ways to turn iron ore into iron. While hydrogen-based technologies offer a promising path toward lower-carbon steel production, conventional blast furnaces will remain important during the transition. Understanding how iron ore behaves inside these furnaces could help improve their efficiency and stability.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-20T19:00:04+00:00",
+      "coletado_em": "2026-10-21T14:30:22.096814+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-technology-predict.jpg",
+      "score": 3.698,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "1bc9f340d294",
+      "titulo": "UN says 1.5°C is over and world is on track for 2.8°C of global warming",
+      "url": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The best-case scenario now is that the planet will only temporarily breach 1.5°C of warming, but current climate pledges fall way short of that hope",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-21T05:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.132746+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317441814.jpg",
+      "score": 5.505,
+      "cobertura": [
+        "https://www.nature.com/articles/d41586-026-03355-x"
+      ]
+    },
+    {
+      "id": "749a6e7af620",
+      "titulo": "CISA, FBI and Partners Warn Organizations of SafePay Ransomware Actors Targeting Multiple Critical Infrastructure Sectors",
+      "url": "https://www.cisa.gov/news-events/news/cisa-fbi-and-partners-warn-organizations-safepay-ransomware-actors-targeting-multiple-critical",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-21T12:00:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.097167+00:00",
+      "imagem_feed": null,
+      "score": 5.23,
+      "cobertura": []
+    },
+    {
+      "id": "a89e397f0d5c",
+      "titulo": "Project Helix: novo XBOX deve ter portátil em 2027 e console em 2028 por até US$ 1.800",
+      "url": "https://canaltech.com.br/games/project-helix-novo-xbox-deve-ter-portatil-em-2027-e-console-em-2028-por-ate-us-1800/",
+      "resumo": "Um novo rumor aponta para o lançamento de novos dispositivos da linha XBOX para os próximos anos. Informações vazadas indicam que um dispositivo portátil da próxima geração chegará no fim de 2027, enquanto o Project Helix está previsto para a temporada de final de ano em 2028. De acordo com a Fortune, a Microsoft trabalha com este calendário para os hardwares voltados para sua linha gaming. Porém, não divulgou se o console de mão será produzido em parceria com ASUS (como o ROG XBOX Ally ) ou pela própria fabricante norte-americana. Em 2025, a AMD e a XBOX anunciaram uma “parceria estratégica” para múltiplos anos , com a promessa de trazer um portfólio de dispositivos para o futuro — o que incluía o Project Helix. Na prática, devemos ver os chips da companhia como os principais elementos dos demais aparelhos da marca. Apesar do vazamento, a empresa dos Estados Unidos não confirmou nem negou os rumores. Recentemente, a CEO Asha Sharma até confirmou que a próxima geração terá mais de um hardware e que trabalha em uma verdadeira “família de aparelhos” . Porém, não detalhou os projetos ou forneceu datas. Um preço alto para o XBOX É importante lembrar que a divisão de games já indicou no",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-21T12:18:26+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/0tSvOROtwSAoVM6L2BwEwjKjVwQ=/0x0/filters:format(webp):quality(85)/63e74f2f-26ea-45b4-8303-ea8d110aebb9.jpg",
+      "score": 4.361,
+      "cobertura": []
+    },
+    {
+      "id": "c6cf4a35287e",
+      "titulo": "Prompt de menos de 100 caracteres fez agentes de IA invadirem mais de 100 empresas",
+      "url": "https://canaltech.com.br/seguranca/prompt-de-menos-de-100-caracteres-fez-agentes-de-ia-invadirem-mais-de-100-empresas/",
+      "resumo": "Um ataque hacker invadiu mais de 100 empresas diferentes com mais de mil tentativas feitas por agentes de IA. No entanto, a pessoa por trás da investida teve pouco trabalho: um comando de 100 caracteres chineses (cerca de 300 caracteres do alfabeto romano) foi o suficiente para os bots organizarem a ofensiva . A informação foi compartilhada pela empresa de cibersegurança NoForge e publicada pela agência Reuters. A pessoa responsável pelo ataque não foi identificada e a suspeita é de que tenha usado uma ferramenta chamada Cairn, criada para solução de problemas com IA e frequentemente adotada por hackers. Algumas das empresas envolvidas confirmaram a invasão, mas afirmam que não há indícios de vazamentos de dados sensíveis . Simplicidade do ataque assusta Os ataques hackers com IA são cada vez mais frequentes, mas o caso identificado pela NoForge chama a atenção pela estrutura simples. Dados da pesquisa indicam que um único indivíduo conseguiu orquestrar tentativas de invasão em mais de 1.200 sites com um custo estimado de US$ 5 mil em tokens, o que resultaria em US$ 50 por tentativa bem-sucedida. O cenário abre brecha para golpes sofisticados e criados com prompts simples . Os agen",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-20T18:20:00+00:00",
+      "coletado_em": "2026-10-21T14:30:22.107274+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/1G9sdSAkPZiFPyeuEP1Rj5FbxDU=/0x0/filters:format(webp):quality(85)/32021fab-ecb9-489f-af73-b8504ae0c65e.jpg",
+      "score": 3.724,
+      "cobertura": []
+    }
+  ]
+}
