@@ -1,0 +1,758 @@
+{
+  "medicina": [
+    {
+      "id": "d93f32bde833",
+      "titulo": "Clinical trials generate promising results for improving kidney health",
+      "url": "https://medicalxpress.com/news/2026-10-clinical-trials-generate-results-kidney.html",
+      "resumo": "The results of numerous high-impact Phase III clinical trials that could affect kidney-related medical care were presented in person at American Society of Nephrology Kidney Week 2026, Oct. 22–25.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-22T14:00:04+00:00",
+      "coletado_em": "2026-10-22T14:31:25.236688+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/kidney-3.jpg",
+      "score": 6.491,
+      "cobertura": []
+    },
+    {
+      "id": "5d03b85a126d",
+      "titulo": "STAT+: FDA has finalized its guidance on apps related to drugs",
+      "url": "https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/?utm_campaign=rss",
+      "resumo": "In this edition of STAT Health Tech: FDA's guidance on prescription drug use-related software, and telehealth pushing GLP-1s for addiction.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-22T13:17:29+00:00",
+      "coletado_em": "2026-10-22T14:31:25.237515+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_320957477-1024x576.jpeg",
+      "score": 6.213,
+      "cobertura": []
+    },
+    {
+      "id": "06f9b188481b",
+      "titulo": "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
+      "url": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss",
+      "resumo": "As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-22T08:30:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.237515+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2025/07/GLP1-48-1024x576.jpg",
+      "score": 5.762,
+      "cobertura": []
+    },
+    {
+      "id": "646513dd8a8b",
+      "titulo": "STAT+: What to expect from the Moderna-Merck cancer vaccine data reveal",
+      "url": "https://www.statnews.com/2026/10/22/esmo-2026-what-to-know-ahead-of-moderna-merck-cancer-vaccine-data-reveal/?utm_campaign=rss",
+      "resumo": "The Moderna-Merck cancer vaccine data reveal is days away. Here's what to expect.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-22T13:35:20+00:00",
+      "coletado_em": "2026-10-22T14:31:25.237515+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2024/03/Adams-Biotech-Scorecard-Featured-Image-1024x576.jpg",
+      "score": 5.745,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "1440cd1d6b5e",
+      "titulo": "This ‘living drug’ could change the course of autoimmune disease",
+      "url": "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases",
+      "resumo": "If given the green light by the FDA, a CAR T cell therapy from Kyverna Therapeutics would be the first approved treatment for stiff person syndrome.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-10-22T13:00:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.296317+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/1126_SPS_feature_main.jpg?w=800",
+      "score": 5.331,
+      "cobertura": []
+    },
+    {
+      "id": "acb70590f79b",
+      "titulo": "Schrödinger's penguin: One species, two contrasting outcomes",
+      "url": "https://phys.org/news/2026-10-schrdinger-penguin-species-contrasting-outcomes.html",
+      "resumo": "A new University of Otago—Ōtākou Whakaihu Waka study reveals two vastly different life courses for one of Aotearoa New Zealand's least-studied penguin species.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-22T13:20:01+00:00",
+      "coletado_em": "2026-10-22T14:31:25.238061+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/schrdingers-penguin-on.jpg",
+      "score": 4.917,
+      "cobertura": []
+    },
+    {
+      "id": "8cb43c6aced7",
+      "titulo": "Swiss barn owls are gradually changing color",
+      "url": "https://phys.org/news/2026-10-swiss-barn-owls-gradually.html",
+      "resumo": "Over the past 30 years, Swiss barn owls have become more reddish-brown and more heavily spotted. By analyzing the genomes of more than 3,000 birds, scientists at the University of Lausanne identified the genetic variants linked to these changes in plumage and revealed natural selection at work. Their findings, published in Nature Communications, show that evolution can happen rapidly in the wild.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-21T19:00:10+00:00",
+      "coletado_em": "2026-10-22T14:31:25.238061+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/barn-owls-are-graduall.jpg",
+      "score": 4.698,
+      "cobertura": []
+    },
+    {
+      "id": "9f3ad8565a83",
+      "titulo": "Birds are more afraid of women than men. Scientists have no idea why",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+      "resumo": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and respond to humans.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-22T12:06:14+00:00",
+      "coletado_em": "2026-10-22T14:31:25.238944+00:00",
+      "imagem_feed": null,
+      "score": 4.639,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "b58851d315bf",
+      "titulo": "Dream Labs raises $90M and launches Dream API",
+      "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
+      "resumo": "Dream Labs says its Dream-1 AI model works across robots from different manufacturers and will allow robots to transfer their learning. The post Dream Labs raises $90M and launches Dream API appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-22T12:36:37+00:00",
+      "coletado_em": "2026-10-22T14:31:25.240128+00:00",
+      "imagem_feed": null,
+      "score": 4.691,
+      "cobertura": []
+    },
+    {
+      "id": "a9044ca8f5b5",
+      "titulo": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+      "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
+      "resumo": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment. The post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-21T13:19:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.240128+00:00",
+      "imagem_feed": null,
+      "score": 3.866,
+      "cobertura": []
+    },
+    {
+      "id": "4b586e594e2b",
+      "titulo": "A guide to Day 2 of RoboBusiness 2026",
+      "url": "https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026/",
+      "resumo": "Day 2 of RoboBusiness 2026, the 20th anniversary of the event, will include interesting keynotes around humanoids and social robots. The post A guide to Day 2 of RoboBusiness 2026 appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-21T12:00:26+00:00",
+      "coletado_em": "2026-10-22T14:31:25.240128+00:00",
+      "imagem_feed": null,
+      "score": 3.832,
+      "cobertura": []
+    },
+    {
+      "id": "429537805d74",
+      "titulo": "Wheeled, flying and six-legged robots stay on track with new learning method",
+      "url": "https://techxplore.com/news/2026-10-wheeled-flying-legged-robots-stay.html",
+      "resumo": "It's important for a robot not just to learn a task optimally, but to complete it without going off the rails of reasonable expectations. Until now, roboticists could have one or the other. Aerospace engineering researchers in The Grainger College of Engineering, University of Illinois Urbana-Champaign, combined reinforcement learning with control theory to guarantee robot stability and improve tracking performance by up to 15% compared with existing methods.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-21T19:20:10+00:00",
+      "coletado_em": "2026-10-22T14:31:25.240314+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-for-guarant.jpg",
+      "score": 3.71,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "4e76342c2b83",
+      "titulo": "KeePassXC 2.8.0 released",
+      "url": "https://lwn.net/Articles/1102270/",
+      "resumo": "Version 2.8.0 of the KeePassXC password-management application has been released. The new release brings a lot of long-awaited new features, many bugfixes, and several security updates. Among the major features are the migration from Qt5 to Qt6, Auto-Type on Wayland (Linux), configurable keyboard shortcuts, remote database synchronization with external tools, quick unlock with password on macOS, and quick unlock via Polkit on Linux. Version 2.8.0 is also the first version for which we ship native ARM64 builds for Windows and an experimental AArch64 (i.e., ARM64) AppImage for Linux. See the changelog for a full list of new features, major changes, and bug fixes.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-22T13:34:37+00:00",
+      "coletado_em": "2026-10-22T14:31:25.241681+00:00",
+      "imagem_feed": null,
+      "score": 6.444,
+      "cobertura": []
+    },
+    {
+      "id": "8ee19b95572c",
+      "titulo": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1102265/",
+      "resumo": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 8.0, .NET 9.0, cockpit-files, cockpit-machines, fetchmail, glycin-loaders, go-toolset:rhel8, golang, hostapd, jackson-core, kernel, kernel-rt, librsvg2, lrzsz, mariadb11.8, openexr, openssh, openssl, perl-DBI:1.641, python-urllib3, python3.12-urllib3, qt5-qtbase, rust-sequoia-sq, and xorg-x11-server-Xwayland), Arch Linux (php and php-legacy), Debian (bind9, firefox-esr, nginx, php8.2, and php8.4), Fedora (ca-certificates, dolphin, gnome-shell-extension-gsconnect, libdigidocpp, linux-firmware, nicotine+, perl-ExtUtils-Typemaps-Default, php, python-cairosvg, qdigidoc, rust-rustls-webpki, rust-webpki-root-certs, and rust-webpki-roots), Gentoo (PHP), Mageia (php8.5, php8.4), Oracle (perl-URI), Red Hat (go-toolset:rhel8, golang, grafana-pcp, kernel, kernel-rt, nodejs-nodemon, nodejs22, nodejs24, nodejs:22, nodejs:24, rhc, and sudo), Slackware (php), SUSE (aliyun-cli, bouncycastle, buildah, ca-certificates-mozilla, chromedriver, cifs-utils, cyrus-sasl, docker, firefox, gimp, git-bug, GraphicsMagick, libheif, libpng16, libraw, libsoup-2_4-1, mutt, onefetch, openexr, openssh, openssl-certs, php7, php8, poppler, python-hpack, p",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-22T13:09:09+00:00",
+      "coletado_em": "2026-10-22T14:31:25.241681+00:00",
+      "imagem_feed": null,
+      "score": 5.398,
+      "cobertura": []
+    },
+    {
+      "id": "b7447e994f0d",
+      "titulo": "Estudantes de Pedagogia organizam debates para o Mês da Consciência Negra",
+      "url": "https://jornal.usp.br/campus-ribeirao-preto/estudantes-de-pedagogia-organizam-debates-para-o-mes-da-consciencia-negra/",
+      "resumo": "Educação antirracista, racialização e luta quilombola integram a programação aberta à comunidade, nos dias 23 e outubro, 11 e 19 de novembro",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-22T13:06:45+00:00",
+      "coletado_em": "2026-10-22T14:31:25.260239+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/Gemini_Generated_Image_2nqu1e2nqu1e2nqu-1-1024x538.jpg",
+      "score": 5.193,
+      "cobertura": []
+    },
+    {
+      "id": "c8e41dc51a04",
+      "titulo": "More vulnerabilities in widely deployed software",
+      "url": "https://lwn.net/Articles/1102044/",
+      "resumo": "The Node.js project has released a number of security updates to fix, among other vulnerabilities, a remote-code-execution bug affecting programs that use Brotli compression. And, in case any programmers who use compiled languages thought they could relax, the musl libc project has also announced a new vulnerability: an out-of-bounds write that could potentially lead to remote code execution, although that has not been demonstrated.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-21T17:09:24+00:00",
+      "coletado_em": "2026-10-22T14:31:25.241681+00:00",
+      "imagem_feed": null,
+      "score": 5.132,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "e84f471e3bbb",
+      "titulo": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations",
+      "resumo": "TSMC is reportedly asking equipment suppliers for factory machinery that doesn't use rare-earth components, as the chipmaker seeks to reduce exposure to China’s dominance of critical minerals and permanent magnets.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-22T13:45:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.242497+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rLSDQBJP332sXe5tzBDnRb-1920-80.jpg",
+      "score": 5.613,
+      "cobertura": []
+    },
+    {
+      "id": "a71be8e38731",
+      "titulo": "AMD Ryzen 5 5500F review: Vermeer rides again for budget gaming PCs",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-review",
+      "resumo": "After years with the Cezanne-based 5500, AMD has finally updated its $100 CPU to the 5500F in the Vermeer family, adding a 200 MHz boost in clock speed and a PCIe 4.0 upgrade.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-22T12:40:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.242497+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4WsiGMV9jZ5LQATHWz6S7h-1920-80.jpg",
+      "score": 5.497,
+      "cobertura": []
+    },
+    {
+      "id": "59041941274a",
+      "titulo": "Micron pulls the plug on future 4F² DRAM after two decades of research in dramatic shift",
+      "url": "https://www.tomshardware.com/pc-components/dram/micron-pulls-the-plug-on-future-4f2-dram-after-two-decades-of-research-in-dramatic-shift-company-says-architecture-offers-no-meaningful-density-advantages-increases-manufacturing-complexity-and-costs-and-has-fundamental-scaling-limitations",
+      "resumo": "Micron believes that more advanced process technologies will present more benefits in terms of DRAM bit density than smaller memory cells.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-22T12:00:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.242497+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/nWhyKE8ofwr2FTG2DecjpN-1920-80.jpg",
+      "score": 5.429,
+      "cobertura": []
+    },
+    {
+      "id": "ecbbc5069327",
+      "titulo": "Retro Atari VCS platform will end with the closure of its software store in February 2027",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/retro-atari-vcs-platform-will-end-with-the-closure-of-its-software-store-in-february-2027-os-update-will-be-released-removing-reliance-on-atari-servers-and-opening-up-homebrew-development",
+      "resumo": "The modern Atari VCS is being officially retired with the firm’s decision to shut down the Linux-based AMD APU-powered machine's software store early next year.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-22T11:45:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.242497+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/XShVKXVKaxqCkqmcnxHqth-1920-80.jpg",
+      "score": 4.904,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "b5317757da7d",
+      "titulo": "Stars brewing in a nebulous cauldron",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+      "resumo": "Image: Stars brewing in a nebulous cauldron",
+      "fonte": "ESA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-22T08:00:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.244050+00:00",
+      "imagem_feed": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+      "score": 5.172,
+      "cobertura": []
+    },
+    {
+      "id": "e747a76af019",
+      "titulo": "Next Mass Effect game cancelled as EA shuts down legendary sci-fi RPG studio BioWare",
+      "url": "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware",
+      "resumo": "The legendary RPG studio behind classics such as Star Wars: Knights of the Old Republic, Mass Effect, and Dragon Age is no more.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-22T12:00:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.244836+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rTWQm3qqzypmSzDmjqtm3j-1920-80.jpg",
+      "score": 4.629,
+      "cobertura": []
+    },
+    {
+      "id": "2d35605baeb3",
+      "titulo": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "resumo": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-22T04:05:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.243683+00:00",
+      "imagem_feed": null,
+      "score": 4.594,
+      "cobertura": []
+    },
+    {
+      "id": "a2991280c922",
+      "titulo": "Curtain-like plasma structures explain solar jets' apparent spinning in simulations",
+      "url": "https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html",
+      "resumo": "An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow from the University of Newcastle, Australia, has discovered that solar jets called spicules, which are 6–8 Mm long, take the form of warped, denser plasma sheets like pleated drapery.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-22T14:20:06+00:00",
+      "coletado_em": "2026-10-22T14:31:25.244160+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-plasma.jpg",
+      "score": 4.528,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "018f78e852cb",
+      "titulo": "Lost Schrödinger manuscript reveals his true view of quantum randomness",
+      "url": "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html",
+      "resumo": "Unlike classical physics, quantum mechanics generally cannot tell us exactly what will happen in an individual event. Instead, it predicts the probabilities of different outcomes. As one of the theory's early pioneers, Erwin Schrödinger played a key role in debates about what this randomness really means. However, part of his contribution has stayed hidden for more than 80 years.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-22T13:00:01+00:00",
+      "coletado_em": "2026-10-22T14:31:25.245630+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-variable-polari.jpg",
+      "score": 5.882,
+      "cobertura": [
+        "https://thequantuminsider.com/2026/10/22/unpublished-schrodinger-manuscript-reveals-his-challenge-to-quantum-randomness-claims/"
+      ]
+    },
+    {
+      "id": "d48004a62f04",
+      "titulo": "Unpublished Schrödinger Manuscript Reveals His Challenge to Quantum Randomness Claims",
+      "url": "https://thequantuminsider.com/2026/10/22/unpublished-schrodinger-manuscript-reveals-his-challenge-to-quantum-randomness-claims/",
+      "resumo": "Insider Brief PRESS RELEASE — An unpublished manuscript by Erwin Schrödinger shows how apparently random quantum results could follow definite rules, challenging an argument that such explanations were impossible. The handwritten draft, analyzed in a new historical study posted on arXiv, adds a missing contribution to a wartime dispute over whether quantum mechanics had ended […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-22T08:37:24+00:00",
+      "coletado_em": "2026-10-22T14:31:25.245245+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/pqytchjwedi.jpg",
+      "score": 5.622,
+      "cobertura": [
+        "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html"
+      ]
+    },
+    {
+      "id": "16530b36ddb9",
+      "titulo": "SEEQC Combines Chip-Based Processing With NVIDIA AI to Improve Quantum Error Correction",
+      "url": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/",
+      "resumo": "Insider Brief PRESS RELEASE — – SEEQC, Inc. (“SEEQC” or the “Company”),a chip-based quantum computing company, today announced results demonstrating significant performance improvements in quantum error correction decoding through a digital interface optimized multi-stage decoding architecture combining SEEQC’s chip-based pre-decoder technology with the NVIDIA Ising open family of AI models. SEEQC’s chip-based pre-decoder was integrated […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-22T12:05:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.245245+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/SEEQC-and-NVIDIA-Quantum-Chip.png",
+      "score": 5.437,
+      "cobertura": []
+    },
+    {
+      "id": "d25b6ddc3e47",
+      "titulo": "Qblox Integrates NVIDIA DGX Spark With Quantum System Controller",
+      "url": "https://thequantuminsider.com/2026/10/22/qblox-hybrid-quantum-computing-nvidia-dgx-spark-nvqlink/",
+      "resumo": "Insider Brief PRESS RELEASE — Qblox, a leader in scalable quantum control architecture, today announced the integration of NVIDIA DGX Spark with a quantum system controller using NVIDIA NVQLink, achieving measured roundtrip latency below 4.0 µs on NVIDIA RTX PRO 6000 Blackwell and below 7.2 µs on NVIDIA DGX Spark. This enables Qblox to support real-time hybrid […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-22T13:40:34+00:00",
+      "coletado_em": "2026-10-22T14:31:25.245245+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-22_18-39.png",
+      "score": 5.104,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "5de7b1527fd6",
+      "titulo": "1Password opens the door to AI agents — without handing over your passwords",
+      "url": "https://www.pcworld.com/article/3267020/1password-opens-the-door-to-ai-agents-without-handing-over-your-passwords.html",
+      "resumo": "It’s no longer enough for AI agents to browse the web and check your email; now, they want to sign into your accounts too, and one of the most popular password managers is ready to help out. 1Password has just announced a new feature that allows AI agents like ChatGPT Dots, the just-unveiled Claude Duet, Grok Bot, Meta Muse, and more to tap into your vault of stored usernames and passwords, but without actually seeing them. Available now for 1Password individual and family accounts, the 1Password for Agents integration lets your supported AI agent log into a website using your 1Password credentials. The agent must first verify its identity with 1Password using a unique digital key; once that’s done, 1Password takes over, plugging your username and password directly into the site without your agent getting to see them. If this kind of 1Password functionality sounds familiar, you may be thinking of 1Password for Claude , a Claude extension that lets Claude Cowork log into websites using your 1Password credentials without seeing your usernames or passwords. In an email, 1Password business chief John Torrey told me that 1Password for Agents “builds on integrations like 1Password for Cl",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-22T13:37:53+00:00",
+      "coletado_em": "2026-10-22T14:31:25.247168+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3267020-0-03782400-1792676295-1Password-for-Agents.jpg?quality=50&strip=all",
+      "score": 5.6,
+      "cobertura": [
+        "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
+      ]
+    },
+    {
+      "id": "5f8b6a9f87f1",
+      "titulo": "A hidden Windows 11 menu could make moving the taskbar so much easier",
+      "url": "https://www.pcworld.com/article/3267144/a-hidden-windows-11-menu-could-make-moving-the-taskbar-so-much-easier.html",
+      "resumo": "When Windows 11 was launched, fans of Windows 10 had quite a few complaints about the new operating system. It was too different, too new, and lacked familiar features – to name but a few. One major annoyance, for example, was the lack of options to customise and personalise Windows to suit one’s own preferences, such as a movable taskbar. In recent months, Microsoft has addressed this issue and, in February, unveiled concrete plans to make the taskbar repositionable again. In August, the moment finally arrived when Windows users’ wishes came true: the repositionable taskbar was rolled out . Unfortunately, Microsoft tucked the feature away in the Windows 11 settings, which dampened the excitement about the new feature somewhat. In Windows 10, the taskbar could still be moved using drag and drop, but according to Microsoft, this was no longer possible. Restrictions in the Windows 11 code were cited as one of the reasons. However, the website Windows Latest has now discovered something that could change everything: a hidden menu in a preview version of Windows 11 allows users to reposition the taskbar. All it takes is a right-click on the taskbar, followed by a click on ‘Taskbar sett",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-22T14:15:10+00:00",
+      "coletado_em": "2026-10-22T14:31:25.247168+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3267144-0-76962700-1792678587-Finger-touching-Windows-11-logo-on-screen-in-dark-room.jpg?quality=50&strip=all",
+      "score": 5.169,
+      "cobertura": []
+    },
+    {
+      "id": "d103c52f5b53",
+      "titulo": "One easy change makes Microsoft's Surface Laptop Ultra with RTX Spark a better gaming system",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device",
+      "resumo": "Microsoft's Surface Laptop Ultra with RTX Spark might not be a gaming laptop first and foremost, but it certainly wants to game. We found that creating a custom 1920x1080-equivalent resolution for its 3:2 screen, missing from its out-of-the-box config, makes for a better experience.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-22T13:30:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.242497+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/eaoVZGZzRqzXmF7J97SBbE-1920-80.jpg",
+      "score": 5.085,
+      "cobertura": []
+    },
+    {
+      "id": "633b64365941",
+      "titulo": "1Password lets AI agents use your passwords without seeing them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "resumo": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-22T13:00:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.255102+00:00",
+      "imagem_feed": null,
+      "score": 5.081,
+      "cobertura": [
+        "https://www.pcworld.com/article/3267020/1password-opens-the-door-to-ai-agents-without-handing-over-your-passwords.html"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "0f7ec7e63be9",
+      "titulo": "Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme",
+      "url": "https://canaltech.com.br/inteligencia-artificial/anthropic-lanca-claude-duet-ia-que-cuida-de-tarefas-e-e-mails-enquanto-voce-dorme/",
+      "resumo": "A Anthropic anunciou, na quarta-feira (21), o Claude Duet , um novo aplicativo de inteligência artificial (IA) capaz de executar tarefas, organizar e-mails e acompanhar compromissos mesmo enquanto o usuário dorme. A ferramenta funciona como um assistente pessoal que toma iniciativas sem precisar receber comandos a todo momento. Disponível para Android, iOS e pela web, o Duet utiliza o modelo Claude Opus 5.5 e foi desenvolvido principalmente para profissionais e pequenos empresários. A novidade chega para competir com agentes de IA como o Muse , da Meta, e o Dots , da OpenAI. O lançamento, porém, ainda é limitado. Inicialmente, apenas assinantes dos planos Pro e Max do Claude nos Estados Unidos poderão testar a ferramenta, mediante inscrição em uma lista de espera. Como funciona o Claude Duet? O Duet funciona como um agente de IA, tecnologia capaz de executar ações em nome do usuário, incluindo atividades que exigem várias etapas e o uso de diferentes aplicativos. Para isso, a ferramenta utiliza um computador virtual na nuvem, equipado com um navegador próprio. Dessa forma, consegue continuar trabalhando mesmo quando o usuário fecha o aplicativo ou desliga o celular e o computador. ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-22T13:11:24+00:00",
+      "coletado_em": "2026-10-22T14:31:25.268661+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/YDdB1Dh73E1XrURn02Lnouf2dcc=/0x0/filters:format(webp):quality(85)/1b935e5e-508f-4a44-9cc3-80b13624a51b.png",
+      "score": 5.952,
+      "cobertura": []
+    },
+    {
+      "id": "c6f1a590ac69",
+      "titulo": "Bolha? Anthropic expõe rombo de R$ 400 bilhões às vésperas de abrir capital na Bolsa",
+      "url": "https://canaltech.com.br/mercado/bolha-anthropic-expoe-rombo-de-r-400-bilhoes-as-vesperas-de-abrir-capital-na-bolsa/",
+      "resumo": "A Anthropic, criadora da inteligência artificial (IA) Claude, registrou um prejuízo líquido de US$ 80,7 bilhões (aproximadamente R$ 405 bilhões) no primeiro semestre de 2026. O resultado foi revelado às vésperas da abertura de capital da empresa na Bolsa de Valores, prevista para novembro, e aumenta a pressão sobre os investimentos bilionários no setor de IA. Segundo documentos analisados pelo Wall Street Journal e pela Reuters, porém, US$ 72 bilhões do prejuízo correspondem a ajustes contábeis , relacionados à valorização de títulos que podem ser convertidos em ações da empresa. Portanto, a maior parte do valor não representa dinheiro efetivamente gasto no período. Mesmo assim, os custos para desenvolver e operar modelos de inteligência artificial continuam elevados. Apenas nos primeiros seis meses de 2026, a Anthropic gastou aproximadamente US$ 9 bilhões com capacidade de processamento e infraestrutura , contra US$ 2,3 bilhões no mesmo período do ano passado. A empresa também assumiu compromissos de pelo menos US$ 518 bilhões ao longo de dez anos para contratar serviços de nuvem, equipamentos e infraestrutura de IA. Por que a Anthropic teve um prejuízo tão grande? O prejuízo líqu",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-22T11:03:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.268661+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "score": 5.736,
+      "cobertura": []
+    },
+    {
+      "id": "a2bd1ad8e76d",
+      "titulo": "Em 2 semanas, IA da OpenAI resolveu falha no PHP que programadores tentavam decifrar há 2 anos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/em-2-semanas-ia-da-openai-resolveu-falha-no-php-que-programadores-tentavam-decifrar-ha-2-anos/",
+      "resumo": "Uma equipe de pesquisadores conseguiu, com ajuda do GPT-5.6 Sol, da OpenAI, demonstrar em cerca de duas semanas como explorar uma falha crítica de segurança do PHP que permanecia sem solução desde 2024. A vulnerabilidade, conhecida por desenvolvedores havia dois anos, está entre as duas brechas que provocaram um alerta global de segurança na quarta-feira (21). O caso foi detalhado pela empresa de segurança Calif e pela PHP Foundation, organização responsável por apoiar o desenvolvimento da linguagem de programação utilizada em grande parte dos sites da internet. Segundo os pesquisadores, a inteligência artificial ajudou a identificar caminhos para explorar uma falha cuja gravidade ainda não havia sido completamente demonstrada. O problema permitia, em determinadas condições, que invasores executassem códigos maliciosos remotamente em servidores, sem precisar de uma senha . As duas vulnerabilidades receberam pontuação de gravidade de 9,2 em uma escala de 0 a 10 e foram corrigidas em atualizações disponibilizadas nesta semana. Como a IA encontrou uma falha que existia há dois anos? A história começou em 2024, quando uma auditoria de segurança conduzida pela Quarkslab identificou indí",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-22T14:02:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.268661+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/OrpRO3hPT2qPodkkG_EwGxC-DOk=/0x0/filters:format(webp):quality(85)/d53ba5d9-039c-4be6-ab36-a56734ece4bd.png",
+      "score": 5.544,
+      "cobertura": []
+    },
+    {
+      "id": "0e7b302ec892",
+      "titulo": "Gemini ganha menu para conectar apps e criar funções sob medida",
+      "url": "https://canaltech.com.br/apps/gemini-ganha-menu-para-conectar-apps-e-criar-funcoes-sob-medida/",
+      "resumo": "O Google anunciou nesta quarta-feira (21) um novo menu para personalizar o Gemini, que permite conectar aplicativos e criar funções específicas para diferentes tarefas. Chamado de “ Customize” (Personalizar) , o recurso reúne mais de 40 integrações com serviços externos e ferramentas para adaptar o funcionamento da inteligência artificial (IA). A novidade está sendo disponibilizada gradualmente para usuários do Gemini na versão web, em celulares Android e iOS e nos aplicativos para Windows e macOS. Segundo o Google, o objetivo é concentrar em um único espaço as configurações de personalização do assistente, incluindo conexões com outros serviços e instruções que podem ser reutilizadas em diferentes conversas. Como funciona o novo menu do Gemini? O Customize aparece na barra lateral do Gemini e é dividido em três seções: Discover (Descobrir): apresenta sugestões de aplicativos e funções que podem ser adicionados ao assistente; Connectors (Conectores): reúne serviços disponíveis para integração e permite gerenciar as conexões existentes; Skills (Habilidades): permite acessar ferramentas prontas e criar instruções personalizadas para tarefas recorrentes. Entre os aplicativos compatíve",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-22T12:01:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.268661+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/nX1JSz6x_kg3i0OnmfxSyb8cjy4=/0x0/filters:format(webp):quality(85)/0a414c8f-6912-4837-b676-dd6cbe1de2dd.png",
+      "score": 5.33,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "98fa6bf7ac3f",
+      "titulo": "VAIO FE16 estreia no Brasil como AI PC \"barato\" em momento de crise; conheça",
+      "url": "https://canaltech.com.br/notebook/vaio-fe16-estreia-no-brasil-como-ai-pc-barato-em-momento-de-crise-conheca/",
+      "resumo": "A VAIO anunciou oficialmente a chegada da nova geração do VAIO FE16 ao mercado brasileiro, ampliando o seu portfólio de AI PCs. Fabricado no país pela Positivo Tecnologia desde 2015, o portátil de 16 polegadas é equipado com os novos processadores Intel Wildcat Lake e conta com uma NPU dedicada, com capacidade de até 17 TOPS, para o processamento local de tarefas de inteligência artificial. O modelo já está à venda com preço a partir de R$ 4.999 . O foco do lançamento é democratizar o acesso à inteligência artificial integrada sem restringir o recurso aos modelos premium, embora com uma capacidade inferior. A presença da NPU permite aplicar efeitos de câmera e de áudio em tempo real durante videoconferências, diretamente no dispositivo, economizando bateria e reduzindo a dependência da nuvem. O modelo também vem pronto para o Copilot, contando inclusive com uma tecla dedicada no teclado para acionar o assistente digital. Design ergonômico e foco em produtividade A tela de 16 polegadas adota a proporção 16:10 com resolução WUXGA (1920 x 1200) e painel IPS antirreflexo , entregando 11% a mais de área vertical em relação ao padrão 16:9 tradicional. O chassi possui abertura de até 180 ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-22T14:03:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.268661+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/HWMe5YZB7MUnE8kBWiqNY7UsrPU=/0x0/filters:format(webp):quality(85)/f0831e7e-1bd3-4a62-b9f9-170afb342640.png",
+      "score": 4.546,
+      "cobertura": []
+    },
+    {
+      "id": "6d73a120d5eb",
+      "titulo": "China pode barrar a fusão entre a Tesla e a SpaceX",
+      "url": "https://olhardigital.com.br/2026/10/22/pro/china-pode-barrar-a-fusao-entre-a-tesla-e-a-spacex/",
+      "resumo": "Entenda os impasses financeiros e regulatórios da união entre Tesla e SpaceX para acelerar inteligência artificial e chips O post China pode barrar a fusão entre a Tesla e a SpaceX apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-22T13:35:18+00:00",
+      "coletado_em": "2026-10-22T14:31:25.263052+00:00",
+      "imagem_feed": null,
+      "score": 4.345,
+      "cobertura": []
+    },
+    {
+      "id": "7c3545b40afc",
+      "titulo": "O Sol vai destruir seu próprio sistema? Pesquisa indica como pode ser fim dos planetas",
+      "url": "https://canaltech.com.br/ciencia-e-espaco/o-sol-vai-destruir-seu-proprio-sistema-pesquisa-indica-como-pode-ser-fim-dos-planetas/",
+      "resumo": "Você já conhece, à exaustão, a configuração atual do nosso Sistema Solar . Vale a pena curti-la, já que ela deve ficar por aqui só por “alguns” bilhões de anos — é o que indica um novo estudo, que revelou que nossa vizinhança no espaço pode passar por instabilidades bem além daquelas já previstas pelo fim do Sol. Mercúrio, por exemplo, tem 1% de chance de deixar nosso sistema nos próximos 5 milhões de anos ; caso isso aconteça, é provável que este mundo acabe colidindo com Vênus, Terra ou até Marte. Já Júpiter, Saturno, Urano e Netuno podem sofrer alguma perturbação em um milhão de trilhão de anos . Mesmo que nada disso aconteça, o cenário não fica muito mais favorável para nós: é que quando o Sol esgotar suas reservas de combustível para a fusão nuclear e se tornar uma gigante vermelha , vai expandir suas camadas e devorar Vênus . É possível, aliás, que nem nosso “ pálido ponto azul ” escape . E é aqui que entra o novo estudo, que sugere algo mais nesta história. Fim do Sistema Solar Embora os cientistas considerem que nosso astro deva perder massa em um ritmo tranquilo, observações de anãs brancas sugerem que este pode não ser o caso. Assim, quando o Sol chegar nesta etapa do seu",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-21T20:00:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.268661+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/wCmUOqFLkNqkhNDaTMPBStIbkHA=/0x0/filters:format(webp):quality(85)/93704ac8-b9ae-4de0-aab0-4ceebef03fdb.png",
+      "score": 4.286,
+      "cobertura": []
+    },
+    {
+      "id": "de7685b9f06d",
+      "titulo": "ID.Cross, o T-Cross elétrico, terá versão barata para desafiar chineses",
+      "url": "https://canaltech.com.br/carros/idcross-o-t-cross-eletrico-tera-versao-barata-para-desafiar-chineses/",
+      "resumo": "A Volkswagen ampliou a gama do ID. Cross , SUV que vem sendo tratado como a versão elétrica do T-Cross . A novidade é uma versão mais acessível , desenvolvida para reduzir o custo de entrada e enfrentar a concorrência de fabricantes chinesas no mercado europeu. A configuração estreia com bateria menor e diferentes níveis de potência , voltados principalmente a quem utiliza o veículo em trajetos urbanos e deslocamentos diários. Com isso, a marca alemã tenta tornar seus elétricos mais competitivos em um segmento no qual preço e autonomia pesam bastante na decisão de compra. Por aqui, a expectativa é diferente: o novo T-Cross deva chegar em 2027 com uma proposta eletrificada , mas não será totalmente elétrico . A próxima geração do SUV nacional deve apostar em um sistema híbrido leve , estratégia que busca combinar redução no consumo com custos mais adequados ao mercado brasileiro. ID. Cross mais barato tem autonomia de até 324 km A versão de entrada do SUV elétrico utiliza uma bateria LFP de 37 kWh , com motores de 116 cv a 135 cv, e tem autonomia declarada de até 324 km pelo ciclo europeu WLTP. Na Alemanha, o preço inicial da versão Trend fica abaixo de 28 mil euros , equivalente a ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-22T09:58:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.268661+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/hZ8KCR0W-BEJgVL_JO4oaAgf6as=/0x0/filters:format(webp):quality(85)/55504f78-6ee6-4c24-9de4-d17f44c0abf7.jpg",
+      "score": 4.137,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "c4df209a6ee7",
+      "titulo": "Phishing por e-mail abre caminho para ataque destrutivo na Ucrânia",
+      "url": "https://olhardigital.com.br/2026/10/22/seguranca/phishing-por-e-mail-abre-caminho-para-ataque-destrutivo-na-ucrania/",
+      "resumo": "Hackers ligados à Rússia usaram a rede descentralizada Yggdrasil para ocultar comunicações em ataque que destruiu dados na Ucrânia O post Phishing por e-mail abre caminho para ataque destrutivo na Ucrânia apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-22T13:01:58+00:00",
+      "coletado_em": "2026-10-22T14:31:25.263052+00:00",
+      "imagem_feed": null,
+      "score": 4.285,
+      "cobertura": []
+    },
+    {
+      "id": "749a6e7af620",
+      "titulo": "CISA, FBI and Partners Warn Organizations of SafePay Ransomware Actors Targeting Multiple Critical Infrastructure Sectors",
+      "url": "https://www.cisa.gov/news-events/news/cisa-fbi-and-partners-warn-organizations-safepay-ransomware-actors-targeting-multiple-critical",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-21T12:00:00+00:00",
+      "coletado_em": "2026-10-22T14:31:25.258739+00:00",
+      "imagem_feed": null,
+      "score": 3.932,
+      "cobertura": []
+    },
+    {
+      "id": "4d98e83317f3",
+      "titulo": "Chrome reforça IA para alertar usuários sobre golpes e lojas falsas",
+      "url": "https://canaltech.com.br/seguranca/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas/",
+      "resumo": "O Google Chrome ganhou uma nova medida de segurança para alertar sobre sites suspeitos . Agora, o navegador exibe um aviso na tela para sinalizar que uma página tem padrões similares a outros links associados com tentativas de phishing, malwares e outras ameaças. O alerta não ocupa a tela toda, ainda mostra elementos visuais do site e inclui um botão para marcar a URL como segura. Por definição da própria empresa, um site suspeito é aquele em que a IA do Chrome identifica que há um possível risco de prejuízo, mas não tem confiança o suficiente para formar um veredito. O novo sistema também é uma alternativa para os alertas de sites perigosos , quando a tela toda fica vermelha e não é possível ver elementos visuais do site. Qual a diferença entre site suspeito e site perigoso? Os alertas do Chrome variam de acordo com o nível de ameaça identificado, em que o site suspeito tem um alerta intermediário de segurança e o site perigoso tem um aviso mais severo. Entenda a diferença: Site suspeito: há um possível risco de prejuízo, mas a IA não conseguiu determinar a ameaça com confiança. O Chrome exibe um pop-up na tela; Site perigoso: há um alto risco de prejuízo ao usuário e a IA consegu",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-21T22:00:05+00:00",
+      "coletado_em": "2026-10-22T14:31:25.268661+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/EUM_zdEr1eL7jOxWyI1jaCd_hvE=/0x0/filters:format(webp):quality(85)/ac4b4e7d-95e1-4814-8a5f-70ac6d7dcc83.webp",
+      "score": 3.87,
+      "cobertura": []
+    },
+    {
+      "id": "24755a352d3d",
+      "titulo": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "resumo": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-21T15:26:07+00:00",
+      "coletado_em": "2026-10-22T14:31:25.258827+00:00",
+      "imagem_feed": null,
+      "score": 3.077,
+      "cobertura": []
+    }
+  ]
+}
