@@ -1,0 +1,722 @@
+{
+  "medicina": [
+    {
+      "id": "10caf67cd9e0",
+      "titulo": "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
+      "resumo": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-23T13:45:14+00:00",
+      "coletado_em": "2026-10-23T14:15:07.048984+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "score": 6.793,
+      "cobertura": []
+    },
+    {
+      "id": "912613d84aa8",
+      "titulo": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
+      "url": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
+      "resumo": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-23T10:30:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.048984+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_499879090-1024x576.jpeg",
+      "score": 6.46,
+      "cobertura": []
+    },
+    {
+      "id": "0f74f7c93a20",
+      "titulo": "One family’s story of a life-extending medicine for pancreatic cancer",
+      "url": "https://www.statnews.com/2026/10/23/patient-story-pancreatic-cancer-drug-daraxonrasib-rasonque/?utm_campaign=rss",
+      "resumo": "Bobby Senaha was among the first patients to use daraxonrasib, a new life-extending drug for pancreatic cancer. His wife shares what those extra months meant to his family.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-23T08:30:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.048984+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/STATday1093-1024x576.jpg",
+      "score": 6.285,
+      "cobertura": []
+    },
+    {
+      "id": "8819039b0500",
+      "titulo": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+      "resumo": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for other mental health conditions.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-23T11:02:25+00:00",
+      "coletado_em": "2026-10-23T14:15:07.047544+00:00",
+      "imagem_feed": null,
+      "score": 6.061,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "4ca66fef02a1",
+      "titulo": "A quick squeeze helps CRISPR turn skin cells into neurons more efficiently",
+      "url": "https://phys.org/news/2026-10-quick-crispr-skin-cells-neurons.html",
+      "resumo": "Human cells hold about two meters (6.6 feet) of DNA, folded and compacted to fit inside a nucleus. That packing is essential for life, but it creates a problem for scientists. Some of the genes that control a cell's identity are buried so deep in tightly packed DNA that gene-targeting tools such as CRISPR activation, or CRISPRa, struggle to reach them.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-23T13:20:09+00:00",
+      "coletado_em": "2026-10-23T14:15:07.049826+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quick-squeeze-helps.jpg",
+      "score": 6.447,
+      "cobertura": []
+    },
+    {
+      "id": "e8b987c95aaf",
+      "titulo": "Brazil presidential election dogged by alleged bias by Meta AI tools",
+      "url": "https://www.newscientist.com/article/2595540-brazil-presidential-election-dogged-by-alleged-bias-by-meta-ai-tools/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Supporters of Luiz Inácio Lula da Silva have accused Meta of interfering in Brazil’s election by making it easier to generate campaign content promoting his rival, Flávio Bolsonaro",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-23T13:58:34+00:00",
+      "coletado_em": "2026-10-23T14:15:07.103026+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317830225.jpg",
+      "score": 5.318,
+      "cobertura": []
+    },
+    {
+      "id": "1428b1c839f3",
+      "titulo": "From 'gentle' and 'graceful' to the 'cane toad of the sky': How Australia turned on the common myna",
+      "url": "https://phys.org/news/2026-10-gentle-graceful-cane-toad-sky.html",
+      "resumo": "The common myna is sometimes referred to as \"Australia's most hated bird.\" Originally from South and Central Asia, the introduced species from the starling family is abundant, raucous and bold.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-23T14:10:02+00:00",
+      "coletado_em": "2026-10-23T14:15:07.049826+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/common-myna.jpg",
+      "score": 5.04,
+      "cobertura": []
+    },
+    {
+      "id": "6e4a1485e0b1",
+      "titulo": "Time to tap into agriculture's hidden genetic potential",
+      "url": "https://phys.org/news/2026-10-agriculture-hidden-genetic-potential.html",
+      "resumo": "Modern agriculture's selective breeding of crops for particular requirements may now be a roadblock to further gains, prompting a trio of senior University of Queensland plant scientists to call for a new way forward.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-23T12:50:02+00:00",
+      "coletado_em": "2026-10-23T14:15:07.049826+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-breeders.jpg",
+      "score": 4.893,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "e0cbbdea09ea",
+      "titulo": "Robôs e IA começam a transformar o futuro da exploração espacial",
+      "url": "https://olhardigital.com.br/2026/10/23/ciencia-e-espaco/robos-e-ia-comecam-a-transformar-o-futuro-da-exploracao-espacial/",
+      "resumo": "A inteligência artificial já ajuda robôs a explorar Marte de forma autônoma. O que vem pela frente? Saiba tudo no Olhar Espacial O post Robôs e IA começam a transformar o futuro da exploração espacial apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "robotica",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-23T13:11:37+00:00",
+      "coletado_em": "2026-10-23T14:15:07.072242+00:00",
+      "imagem_feed": null,
+      "score": 4.331,
+      "cobertura": []
+    },
+    {
+      "id": "d4ad264bd770",
+      "titulo": "Lab-grown mouse muscles enable tiny robots to jump, swim, walk and grasp",
+      "url": "https://techxplore.com/news/2026-10-lab-grown-mouse-muscles-enable.html",
+      "resumo": "Lab-grown skeletal muscle tissue can contract, but the movement is often so slight that it is barely visible. This poses a problem for biohybrid robots designed to move using living muscles. Researchers at ETH Zurich have now demonstrated that it is not just the amount of muscle tissue that matters, but above all how the muscle and the artificial scaffold interact.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-22T19:40:19+00:00",
+      "coletado_em": "2026-10-23T14:15:07.052001+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-mu.jpg",
+      "score": 3.734,
+      "cobertura": []
+    },
+    {
+      "id": "b58851d315bf",
+      "titulo": "Dream Labs raises $90M and launches Dream API",
+      "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
+      "resumo": "Dream Labs says its Dream-1 AI model works across robots from different manufacturers and will allow robots to transfer their learning. The post Dream Labs raises $90M and launches Dream API appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-22T12:36:37+00:00",
+      "coletado_em": "2026-10-23T14:15:07.051870+00:00",
+      "imagem_feed": null,
+      "score": 3.355,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "f1189a46fa1b",
+      "titulo": "AWS Introduces Lambda Web Functions for Node.js Applications",
+      "url": "https://www.infoq.com/news/2026/10/aws-lambda-web-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "AWS recently introduced Lambda Web Functions, allowing developers to run Node.js web applications using frameworks such as Express and Hono directly on Lambda, with support for concurrent requests and response streaming. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-23T12:49:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.052309+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/aws-lambda-web-functions/en/headerimage/generatedHeaderImage-1792762388734.jpg",
+      "score": 5.541,
+      "cobertura": []
+    },
+    {
+      "id": "2905d1004039",
+      "titulo": "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers",
+      "url": "https://www.infoq.com/news/2026/10/cloudflare-cpu-memory-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Cloudflare has introduced on-demand CPU and memory profiling for Workers and Durable Objects, allowing developers to investigate performance bottlenecks in production using interactive flamegraphs. By Craig Risi",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-23T12:00:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.052309+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/cloudflare-cpu-memory-profiling/en/headerimage/generatedHeaderImage-1791971960113.jpg",
+      "score": 5.456,
+      "cobertura": []
+    },
+    {
+      "id": "9a31a83ece95",
+      "titulo": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1102546/",
+      "resumo": "Security updates have been issued by AlmaLinux (buildah, expat, grafana, grafana-pcp, httpd, iperf3, openssh, php, php8.4, php:7.4, php:8.2, and php:8.3), Debian (aide, chromium, clamav, erlang, linux-6.12, roundcube, unbound, and webkit2gtk), Fedora (bind9-next, ca-certificates, clevis-pin-trustee, golang-x-mobile, knot-resolver, maradns, ntpsec, php, socat, and vlc), Mageia (golang, jq, msgpack, open-isns, perl-Mozilla-CA, roundcubemail, and sudo), Oracle (.NET 10.0, .NET 8.0, .NET 9.0, cockpit-files, cockpit-machines, fetchmail, glycin-loaders, golang, jackson-core, librsvg2, mariadb11.8, openexr, openssh, php, php8.4, php:7.4, php:8.2, php:8.3, postgresql:16, qt5-qtbase, rust-sequoia-sq, and xorg-x11-server-Xwayland), Red Hat (ca-certificates and opentelemetry-collector), SUSE (aliyun-cli, amazon-ecs-init, bcel, coreutils, cups-filters, cyrus-sasl, distribution, expat, firefox, go1.26, go1.26-openssl, go1.27, guava, mutt, nvidia-open-driver-G07-signed, p11-kit, php74, php8, podman, python-soupsieve, python313-datamodel-code-generator, python313-Django5, thunderbird, and webkit2gtk3), and Ubuntu (openvpn, python-tornado, and zlib).",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-23T13:02:03+00:00",
+      "coletado_em": "2026-10-23T14:15:07.053212+00:00",
+      "imagem_feed": null,
+      "score": 5.414,
+      "cobertura": []
+    },
+    {
+      "id": "97bbca6f03ce",
+      "titulo": "Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization",
+      "url": "https://www.infoq.com/articles/multi-cloud-finops-cost-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Multi-cloud flexibility comes with hidden egress costs driven by service placement and communication patterns. This article applies Backend FinOps to cross-cloud architecture, covering cost visibility through FOCUS, workload placement, synchronization models, and CI/CD-integrated cost governance. A controlled experiment shows architecture changes saved far more than rate negotiation alone. By Vivek Arora",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-23T11:00:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.052309+00:00",
+      "imagem_feed": "https://res.infoq.com/articles/multi-cloud-finops-cost-optimization/en/headerimage/multi-cloud-finops-cost-optimization-header-1792499448017.jpg",
+      "score": 5.357,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "f1aad0336224",
+      "titulo": "AMD desmente teoria sobre relançamento do Ryzen 7 5800X3D; entenda real motivo",
+      "url": "https://canaltech.com.br/hardware/amd-desmente-teoria-sobre-relancamento-do-ryzen-7-5800x3d-entenda-real-motivo/",
+      "resumo": "O primeiro processador considerado rei dos games é o Ryzen 7 5800X3D , lançado em 2022 e trazendo grande desempenho por conta da implementação da tecnologia 3D V-Cache . Quatro anos depois, essa mesma CPU retorna ao mercado, mas esse relançamento é um \"presente final\" de Lisa Su, CEO da AMD, à grande base de usuários da plataforma AM4 . Quem disse isso foi Travis Kirsch, um dos diretores da AMD, em entrevista no Japão. Questionado sobre o motivo pelo qual levou ao relançamento desse processador nesse ano, o executivo disse que \"de um ponto de vista de fabricação, a produção do Ryzen 7 5800X3D original acabou\", e o mesmo não era mais fabricado, mas Lisa Su trouxe a ideia de relançar essa CPU anos atrás como um presente para os usuários. \"Originalmente, há vários anos, creio que a Lisa foi uma das pessoas que sugeriu relançar o Ryzen 7 5800X3D. Foi como um presente final para nossos usuários fiéis, que utilizaram nossa plataforma AM4 por quase 10 anos, dando a eles uma última chance de atualizar seus PCs com sistemas DDR4\", disse Kirsch. Decisão aconteceu antes da atual crise Ele deixa claro que isso foi decidido \"antes das mudanças que aconteceram no mercado de memórias e não foi co",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-10-23T14:06:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.077838+00:00",
+      "imagem_feed": null,
+      "score": 5.783,
+      "cobertura": []
+    },
+    {
+      "id": "17316e850325",
+      "titulo": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+      "resumo": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-23T12:26:23+00:00",
+      "coletado_em": "2026-10-23T14:15:07.053711+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/kPWDNNZTPJyoeQtTCpMqQi-1920-80.jpg",
+      "score": 5.501,
+      "cobertura": []
+    },
+    {
+      "id": "ad9590d68909",
+      "titulo": "The original Apple iPod debuted 25 years ago today",
+      "url": "https://www.tomshardware.com/tech-industry/the-original-apple-ipod-debuted-25-years-ago-today-steve-jobs-usd399-device-fit-1-000-songs-into-a-package-the-size-of-a-deck-of-cards-with-5-gigabytes-of-storage",
+      "resumo": "On this day in 2001, Apple CEO Steve Jobs unveiled the original iPod. He began the presentation by teasing 'a breakthrough digital device that’s not a Mac.'",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-23T09:20:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.053711+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4GpCU4zzRohTA7G6eGmnd3-1920-80.jpg",
+      "score": 5.205,
+      "cobertura": [
+        "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page"
+      ]
+    },
+    {
+      "id": "824398b0282d",
+      "titulo": "China can make advanced chips without EUV, but the bill keeps growing",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-can-make-advanced-chips-without-euv-but-the-bill-keeps-growing-duv-multiple-patterning-means-bigger-dies-lower-yields-and-longer-manufacturing-times",
+      "resumo": "China has stretched older DUV lithography far further than expected, using multiple patterning to approach 5nm-class without EUV. But experts say the trade-offs in cost, yield, and die size mean further advancements are unlikely to be economically viable.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-23T13:30:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.053711+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ZdNHVUmd5uG5inBMbnkzDU-1920-80.webp",
+      "score": 5.115,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "e73cbe7493a5",
+      "titulo": "Webb image reveals young stars brewing in a nebulous cauldron",
+      "url": "https://phys.org/news/2026-10-webb-image-reveals-young-stars.html",
+      "resumo": "In this Picture of the Month from the NASA/ESA James Webb Space Telescope, we visit a turbulent cauldron of star formation to see what is brewing inside dense clumps of gas. This is a star-forming region named LHA 120-N 159, or simply N159, located 161,000 light-years away in the Large Magellanic Cloud (LMC), one of the satellite galaxies orbiting the Milky Way galaxy. This image spans about 230 light-years across.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-22T17:40:01+00:00",
+      "coletado_em": "2026-10-23T14:15:07.055068+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/stars-brewing-in-a-neb.jpg",
+      "score": 6.159,
+      "cobertura": [
+        "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron"
+      ]
+    },
+    {
+      "id": "2ab9fb4ec5c6",
+      "titulo": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
+      "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
+      "resumo": "Black holes more massive than entire galaxies are not a major component of dark matter, the mysterious stuff that's thought to make up most of the matter in the cosmos, a new study finds.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-23T12:00:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.055792+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/miTmJ9Cbreb9FwyinHA8eH-1920-80.jpg",
+      "score": 5.156,
+      "cobertura": []
+    },
+    {
+      "id": "b5317757da7d",
+      "titulo": "Stars brewing in a nebulous cauldron",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+      "resumo": "Image: Stars brewing in a nebulous cauldron",
+      "fonte": "ESA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-22T08:00:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.054893+00:00",
+      "imagem_feed": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+      "score": 5.148,
+      "cobertura": [
+        "https://phys.org/news/2026-10-webb-image-reveals-young-stars.html"
+      ]
+    },
+    {
+      "id": "ad67f76de1bd",
+      "titulo": "Spiral’s Edge",
+      "url": "https://www.nasa.gov/image-article/spirals-edge/",
+      "resumo": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-22T21:35:38+00:00",
+      "coletado_em": "2026-10-23T14:15:07.054629+00:00",
+      "imagem_feed": null,
+      "score": 4.764,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "a653df5c93a6",
+      "titulo": "IQM and Telefónica Plan Quantum Computer for Madrid University",
+      "url": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/",
+      "resumo": "Insider Brief PRESS RELEASE — Telefónica and IQM Quantum Computers, a global leader in superconducting quantum computing, have joined forces to deploy the first quantum computer in the Community of Madrid. The initiative will strengthen the region’s scientific and technological capabilities, while driving the development of real-world cases for companies across the Community of Madrid. […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-23T10:40:53+00:00",
+      "coletado_em": "2026-10-23T14:15:07.056260+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-23_15-39.png",
+      "score": 5.827,
+      "cobertura": []
+    },
+    {
+      "id": "6df06c33be03",
+      "titulo": "Guest Post: Quantum Computing’s Next Phase May Be Driven by Compounding Breakthroughs",
+      "url": "https://thequantuminsider.com/2026/10/23/quantum-computing-compounding-breakthroughs/",
+      "resumo": "Guest Post by Liam Wang COO, Logical Qubit Technology. The World Economic Forum’s Quantum Economy Day 2026 was held in Geneva, Switzerland, on October 13–14. Logical Qubit Technology attended as the only quantum computing company representing China. The company’s Chief Operating Officer, Liam Wang, joined business executives, researchers, and representatives of international organizations from around […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-23T11:31:57+00:00",
+      "coletado_em": "2026-10-23T14:15:07.056260+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-23_16-30.png",
+      "score": 5.409,
+      "cobertura": []
+    },
+    {
+      "id": "b9f9f43a872e",
+      "titulo": "Quandela And Quanova Partner to Deploy Vietnam’s First Quantum Computer",
+      "url": "https://thequantuminsider.com/2026/10/23/quandela-and-quanova-partner-to-deploy-vietnams-first-quantum-computer/",
+      "resumo": "Insider Brief PRESS RELEASE — Quandela, a European leader in photonic quantum computing, announces a major milestone in its expansion in Southeast Asia. Quanova, a Vietnamese quantum company, has selected Quandela’s MosaiQ solution as the foundation of a new quantum research, innovation, service and entrepreneurship (quantum-RISE) program at Quang Trung University (QTU) in Quy Nhơn, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-23T08:30:23+00:00",
+      "coletado_em": "2026-10-23T14:15:07.056260+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/quandela.png",
+      "score": 5.135,
+      "cobertura": []
+    },
+    {
+      "id": "31295dfc3e91",
+      "titulo": "A tiny defect in a crystal reveals a big quantum surprise",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+      "resumo": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mechanism in silicon carbide that scientists had previously underestimated. The finding helps explain a mystery that has puzzled researchers for years and could improve the design of quantum computers and sensors.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais",
+        "quantica"
+      ],
+      "publicado": "2026-10-23T10:22:55+00:00",
+      "coletado_em": "2026-10-23T14:15:07.056938+00:00",
+      "imagem_feed": null,
+      "score": 4.999,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "1273ae7c7f1e",
+      "titulo": "This $7,000 Asus RTX Spark laptop feels like Darth Vader’s MacBook Pro",
+      "url": "https://www.pcworld.com/article/3267291/this-7000-asus-rtx-spark-laptop-feels-like-darth-vaders-macbook-pro.html",
+      "resumo": "It takes a lot to live up to a $7,000 price tag . Asus’ ProArt P16 RTX Spark certainly does when it comes to the hardware. With 128GB of memory, a spectacular 16-inch OLED display, and a remarkably thin and rigid all-metal chassis, it feels like a serious Windows challenger to Apple’s premium MacBook Pros despite a couple of annoying quirks. It’s utterly stunning hardware, full stop. I’m working on a full review of this beautiful monster, centered on the reason it exists in the first place: Nvidia’s new RTX Spark chip , a monumental memory pool, and what happens when you stop paying the cloud to run enormous AI workloads and start doing them locally instead. RTX Spark laptops are an entirely new class of Arm-based Windows machines, with models from Microsoft, Asus, Dell, HP, and Lenovo , culminating with this ProArt’s eye-watering $7,000 price tag. My testing is deep, weird, and still underway. Stay tuned. But that review is going to spend a lot of time talking about CUDA cores, tokens, local AI models, and benchmarks. Before disappearing down that rabbit hole, I want to talk about the actual laptop—because this feels like a premium machine designed to brawl with high-end MacBook P",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-23T13:00:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.058124+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3267291-0-14756100-1792760451-Asus-ProArt-16-RTX-Spark-16.jpg?quality=50&strip=all",
+      "score": 6.06,
+      "cobertura": []
+    },
+    {
+      "id": "9a47de6e66ab",
+      "titulo": "Save $450 on this 4K gaming PC with an RTX 5070 Ti and 9800X3D, now $2,549.99",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd",
+      "resumo": "You can save $450 on this 4K-capable gaming machine from Newegg's ABS brand, featuring the powerful RTX 5070 Ti, AMD Ryzen 7 9800X3D, 32GB DDR5, and a 2TB SSD for $2,549.99.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-23T10:10:35+00:00",
+      "coletado_em": "2026-10-23T14:15:07.053711+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/xWDoV9z6MtsDKzDMfCZJDk-1920-80.png",
+      "score": 5.28,
+      "cobertura": []
+    },
+    {
+      "id": "81966c79b944",
+      "titulo": "Apple revives the original iPod as an Apple Music easter egg",
+      "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+      "resumo": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's \"Viva La […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-23T13:58:43+00:00",
+      "coletado_em": "2026-10-23T14:15:07.065337+00:00",
+      "imagem_feed": null,
+      "score": 5.219,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/the-original-apple-ipod-debuted-25-years-ago-today-steve-jobs-usd399-device-fit-1-000-songs-into-a-package-the-size-of-a-deck-of-cards-with-5-gigabytes-of-storage"
+      ]
+    },
+    {
+      "id": "ad9590d68909",
+      "titulo": "The original Apple iPod debuted 25 years ago today",
+      "url": "https://www.tomshardware.com/tech-industry/the-original-apple-ipod-debuted-25-years-ago-today-steve-jobs-usd399-device-fit-1-000-songs-into-a-package-the-size-of-a-deck-of-cards-with-5-gigabytes-of-storage",
+      "resumo": "On this day in 2001, Apple CEO Steve Jobs unveiled the original iPod. He began the presentation by teasing 'a breakthrough digital device that’s not a Mac.'",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-23T09:20:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.053711+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4GpCU4zzRohTA7G6eGmnd3-1920-80.jpg",
+      "score": 5.205,
+      "cobertura": [
+        "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "798d5bed79b8",
+      "titulo": "1Password cria forma de liberar login sem dar a senha para IAs; veja como funciona",
+      "url": "https://canaltech.com.br/seguranca/1password-cria-forma-de-liberar-login-sem-dar-a-senha-para-ias-veja-como-funciona/",
+      "resumo": "O 1Password lançou uma nova solução para liberar as senhas de cada pessoa de forma segura durante o uso de agentes de IA. O gerenciador consegue preencher as credenciais automaticamente, mas não informa nenhuma senha ou dado sensível para o serviço de inteligência artificial . De acordo com a empresa, o 1Password for Agents (“1Password para Agentes”, em tradução livre) é uma forma de garantir que os clientes usem as ferramentas mais avançadas de IA sem perder o controle sobre os próprios dados. O recurso é compatível com bots de Meta, Claude, OpenAI, Perplexity e outras empresas do mercado. Um agente de IA pode pedir acesso a uma conta de aplicativo para concluir uma tarefa automatizada, mas a medida exige login com senha e até autenticação em dois fatores. A nova solução permite liberar o acesso sem deixar as credenciais sob controle dos bots. Como o 1Password funciona com agentes de IA Ao chegar a uma tela de cadastro, o agente usa uma chave digital para verificar a identidade com o 1Password e envia um pedido com as credenciais necessárias para completar o login (senha ou código de verificação, por exemplo). O gerenciador de senhas comunica o usuário sobre o pedido, informa de o",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-23T12:19:59+00:00",
+      "coletado_em": "2026-10-23T14:15:07.077838+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/o_AqiX8GWKjHQu-8xA8ArYc668U=/0x0/filters:format(webp):quality(85)/46c1400c-d759-4cc0-807d-40a63a74816d.webp",
+      "score": 5.89,
+      "cobertura": []
+    },
+    {
+      "id": "9b8d217cc65c",
+      "titulo": "Uber aposta tudo em IA e \"força\" todos os seus 30 mil funcionários a usarem ChatGPT Work",
+      "url": "https://canaltech.com.br/mercado/uber-aposta-tudo-em-ia-e-forca-todos-os-seus-30-mil-funcionarios-a-usarem-chatgpt-work/",
+      "resumo": "A Uber anunciou, nesta quinta-feira (22), que vai disponibilizar o ChatGPT Work para mais de 30 mil funcionários em todo o mundo . A decisão amplia a parceria com a OpenAI e acontece após a empresa testar a ferramenta com mil profissionais de diferentes departamentos. Com a mudança, funcionários das áreas de finanças, operações, marketing e desenvolvimento de produtos terão acesso ao agente de inteligência artificial (IA), capaz de executar tarefas e automatizar processos. Segundo o TechCrunch, a Uber pretende incorporar a tecnologia à rotina de toda a companhia, embora ainda não tenha definido exatamente como cada equipe deverá utilizá-la. Também não foi informado se o uso será obrigatório. Como a Uber vai usar o ChatGPT Work? Lançado em julho, o ChatGPT Work é uma ferramenta que permite delegar atividades mais complexas à inteligência artificial, incluindo tarefas que envolvem diferentes aplicativos e documentos. Na Uber, o sistema poderá acessar serviços como Google Drive, Gmail, Google Agenda e Slack , utilizando essas informações para produzir relatórios, analisar dados e preparar apresentações. Durante a fase de testes, cerca de 80% dos mil participantes não trabalhavam com e",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-23T14:02:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.077838+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/lkEvMV673V4rXec2rJW37Fo6prU=/0x0/filters:format(webp):quality(85)/b2776146-01f4-4ed8-9af7-9a7ca19855a9.jpg",
+      "score": 5.575,
+      "cobertura": []
+    },
+    {
+      "id": "690aea53d2bd",
+      "titulo": "Q&A: How AI came to model the “messy” human mind",
+      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "resumo": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-23T04:00:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.065690+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg?itok=syHYcG5I",
+      "score": 5.406,
+      "cobertura": []
+    },
+    {
+      "id": "a55c8f87692d",
+      "titulo": "Como a Mercedes usa inteligência artificial para criar carros",
+      "url": "https://canaltech.com.br/carros/como-a-mercedes-usa-inteligencia-artificial-para-criar-carros/",
+      "resumo": "A Mercedes-Benz está usando inteligência artificial para desenvolver carros de forma mais rápida e eficiente . A montadora criou o PLM.AI , uma plataforma que conecta informações de diferentes áreas da engenharia e recebeu investimentos de cerca de 500 milhões de euros . Com a tecnologia, sistemas de IA podem ajudar a encontrar falhas, avaliar custos e entender como uma mudança em uma peça afeta outras partes do veículo. Assim, os engenheiros conseguem analisar problemas antes de construir protótipos. A meta é reduzir pela metade os testes físicos ao longo do tempo , usando mais simulações digitais . Isso não significa eliminar os testes reais: a equipe de engenharia continuará responsável pelas decisões finais. Qual o papel da IA nos carros da Mercedes? A inteligência artificial já auxilia a marca em tarefas como desenvolvimento de software , análise de custos e identificação de falhas . Com o PLM.AI, essas ferramentas poderão trabalhar de forma integrada, compartilhando dados entre diferentes equipes. Isso também ajuda a prever os efeitos de mudanças no projeto . Uma peça mais leve, por exemplo, pode alterar custos, segurança e fabricação. A plataforma permite analisar esses fato",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-23T12:04:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.077838+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/tQr3iJ8F0dj2qIQCdSbBMihyh7o=/0x0/filters:format(webp):quality(85)/108b03e5-8087-4347-8b30-8c3e426f023c.jpg",
+      "score": 5.363,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "cd954fc78b84",
+      "titulo": "Data-driven operation of biogas plants: Generating electricity when wind and solar power are scarce",
+      "url": "https://techxplore.com/news/2026-10-driven-biogas-generating-electricity-solar.html",
+      "resumo": "Biogas plants are considered the third pillar of renewable electricity generation in Germany. Unlike solar and wind power, electricity generation from biogas is largely independent of weather conditions and can generally be scheduled.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-23T11:20:02+00:00",
+      "coletado_em": "2026-10-23T14:15:07.067798+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/data-driven-operation.jpg",
+      "score": 5.24,
+      "cobertura": []
+    },
+    {
+      "id": "b842595f3101",
+      "titulo": "No lithium metal anode to start? Silver-based additive helps stabilize next-generation batteries",
+      "url": "https://techxplore.com/news/2026-10-lithium-metal-anode-silver-based.html",
+      "resumo": "A research team at The Hong Kong University of Science and Technology (HKUST) has developed a dynamic integrated interface engineering strategy that enhances the energy density and stability of anode-free lithium metal batteries by reconfiguring key battery interfaces.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-23T14:00:01+00:00",
+      "coletado_em": "2026-10-23T14:15:07.067798+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-dy-1.jpg",
+      "score": 5.021,
+      "cobertura": []
+    },
+    {
+      "id": "9459874a0def",
+      "titulo": "Molecular locking strategy enables efficient and scalable organic solar cells",
+      "url": "https://techxplore.com/news/2026-10-molecular-strategy-enables-efficient-scalable.html",
+      "resumo": "Organic solar cells (OSCs) are devices that convert sunlight into electricity using carbon-based organic materials rather than the silicon used in conventional solar panels.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-22T21:00:06+00:00",
+      "coletado_em": "2026-10-23T14:15:07.067798+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-locking-stra.jpg",
+      "score": 4.788,
+      "cobertura": []
+    },
+    {
+      "id": "804fe0647a81",
+      "titulo": "\"Pior pesadelo\" do BYD Dolphin entra em pré-venda no Brasil",
+      "url": "https://canaltech.com.br/carros/pior-pesadelo-do-byd-dolphin-entra-em-pre-venda-no-brasil/",
+      "resumo": "Os rivais do BYD Dolphin não param de chegar ao Brasil . O mais novo desafiante ao \"Golfinho elétrico\" teve sua pré-venda iniciada nesta semana e, se cumprir as expectativas colocadas em cima dele, tem tudo para se tornar o \" pior pesadelo \" do Dolphin no país. Estamos falando do Arcfox T1 , hatch elétrico da marca chinesa BAIC, que promete dar trabalho aos demais. Afinal, além da potência semelhante à do rival da BYD, o modelo chama a atenção pelo porte maior e pela proposta de oferecer mais espaço para passageiros e bagagens. Apesar do anúncio da pré-venda , ainda há informações importantes pendentes. A BAIC não divulgou oficialmente o preço brasileiro nem confirmou todos os detalhes da configuração que será vendida no país. Como é o Arcfox T1, rival do BYD Dolphin? Na China, o Arcfox T1 tem motor elétrico dianteiro de 95 cv e 18 kgf/m de torque , com bateria de aproximadamente 42 kWh . A autonomia anunciada chega a 425 km pelo ciclo chinês CLTC, mas esse número não equivale à medição do Inmetro, usada no Brasil. A autonomia nacional ainda depende de homologação. O hatch mede cerca de 4,34 metros de comprimento e tem entre-eixos de 2,77 metros . Um dos destaques é o porta-malas d",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-23T14:03:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.077838+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/8bDHVZkb4IW08T1hj1bdVxoWv7M=/0x0/filters:format(webp):quality(85)/76307e1e-6286-4d35-8ef8-09e69df003b2.jpg",
+      "score": 4.577,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "05ae88e572b7",
+      "titulo": "Falhas críticas no PHP já eram exploradas por hackers antes de correção",
+      "url": "https://canaltech.com.br/seguranca/falhas-criticas-no-php-ja-eram-exploradas-por-hackers-antes-de-correcao/",
+      "resumo": "As duas falhas críticas de segurança do PHP, que colocaram milhões de sites em alerta nesta semana, já eram alvo de tentativas de exploração por hackers desde 17 de outubro , quatro dias antes da divulgação das correções. A descoberta foi feita pela Amazon Web Services (AWS), que identificou atividades suspeitas em seus sistemas de monitoramento. Segundo informações divulgadas pela Wired nesta quinta-feira (22), os ataques começaram antes mesmo do vazamento de informações sobre as vulnerabilidades, ocorrido na terça-feira (20). A descoberta representa um novo desdobramento do alerta global de segurança provocado pelas falhas no PHP . As duas brechas, identificadas como CVE-2026-109618 e CVE-2026-109619, receberam classificação de gravidade de 9,2 em uma escala de 0 a 10. Apesar das tentativas registradas, ainda não há confirmação de invasões bem-sucedidas . À Wired, a PHP Foundation, organização que apoia o desenvolvimento da linguagem, afirmou não ter conhecimento de casos em que invasores conseguiram executar códigos maliciosos remotamente utilizando as vulnerabilidades. Como os hackers exploraram as falhas antes da correção? A Amazon identificou os primeiros ataques ao analisar ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-22T20:02:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.077838+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/PMJBv2MIuJNT3gNea53Kpm1PDdM=/0x0/filters:format(webp):quality(85)/0abb6a03-53f7-4cfc-bfdd-600831f3b0b7.png",
+      "score": 3.798,
+      "cobertura": []
+    },
+    {
+      "id": "0d9d3143e4d9",
+      "titulo": "Megavazamento de dados na Capcom tem 11,7 milhões de contas expostas",
+      "url": "https://canaltech.com.br/games/megavazamento-de-dados-na-capcom-tem-117-milhoes-de-contas-expostas/",
+      "resumo": "A Capcom confirmou nesta quinta-feira (22) que sofreu um megavazamento que envolve o serviço Capcom ID — com a exposição de 11.774.247 contas ao redor do planeta . De acordo com a produtora japonesa, cibercriminosos tiveram acesso ao endereço de e-mail e informações pessoais de usuários. Em seu pronunciamento oficial, a companhia afirma que foram expostas a data da criação do perfil, data do último login, quantidade de logins e o endereço do IP da última vez que entrou no cadastro. Porém, um total de 43 perfis tiveram a data de nascimento, gênero, país/região e nicknames revelados. O evento gerou transtornos graves, já que resultou em 196 trocas de senha não autorizadas — o que levou a Capcom a resetá-las. Contudo, ela aponta que não encontrou evidências de credenciais vazadas ou de informações do cartão de crédito. O primeiro sinal do megavazamento ocorreu na segunda-feira (19), mas a equipe de segurança conseguiu identificar e bloquear as atividades enquanto investigavam o que havia de errado. Uma força-tarefa se formou para detectar o problema e o incidente foi registrado na polícia e na Comissão Japonesa de Proteção às Informações Pessoais na quarta-feira (21). Como forma de pr",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-22T19:48:00+00:00",
+      "coletado_em": "2026-10-23T14:15:07.077838+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/jX2T2xKVIruKXN9z1uYYExzrCqI=/0x0/filters:format(webp):quality(85)/b0bc8060-915e-4163-8dff-bc23c7520b72.jpg",
+      "score": 3.289,
+      "cobertura": []
+    },
+    {
+      "id": "30893e9ed0ab",
+      "titulo": "Novo top da Huawei quer virar câmera de verdade com sensor de 1 polegada",
+      "url": "https://canaltech.com.br/smartphone/novo-top-da-huawei-quer-virar-camera-de-verdade-com-sensor-de-1-polegada/",
+      "resumo": "A Huawei prepara um novo celular topo de linha com foco em fotografia. Segundo vazamentos, o Huawei Pura 90 Plus pode estrear com uma câmera principal de 50 MP e sensor de 1 polegada, característica até então reservada ao modelo Pro Max da linha. A novidade promete aproximar a qualidade das fotos de smartphones à de câmeras dedicadas. O aparelho, identificado internamente pelo codinome Lucia , deve chegar como uma nova opção no catálogo da fabricante chinesa. A ideia não seria substituir os modelos atuais, mas ampliar a família Pura 90 poucos meses após seu lançamento. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Huawei Pura 90 Plus terá câmera mais avançada O principal destaque do Pura 90 Plus deve ser o conjunto fotográfico. O celular é cotado para receber um sensor principal de 1 polegada com resolução de 50 MP , que permite captar mais luz do que sensores menores, especialmente em ambientes escuros. A câmera também deve utilizar a tecnologia RYYB, já conhecida nos smartphones da Huawei. Ela substitui os filtros verdes tradicionais por amarelos, e aumenta a quantidade de luz captada pelo sensor e pode melhorar a qualidade das imagens noturnas. Outro recurs",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-22T19:01:23+00:00",
+      "coletado_em": "2026-10-23T14:15:07.077838+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/bR_vU9S7pePxPzwNw7HoJRoXR2g=/0x0/filters:format(webp):quality(85)/5ae8ee15-b872-4b23-9f86-cc962fafc0b5.webp",
+      "score": 0.259,
+      "cobertura": []
+    }
+  ]
+}
