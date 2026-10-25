@@ -16,6 +16,39 @@
   "cobertura": []
  },
  {
+  "id": "007ed02f501e",
+  "titulo": "Windows XP debuted 25 years ago today",
+  "url": "https://www.tomshardware.com/software/windows/windows-xp-debuted-25-years-ago-today-microsofts-biggest-launch-since-95-was-its-first-consumer-os-to-remove-the-dos-underpinnings",
+  "resumo": "Windows XP became available at retailers for the first time on this day back in 2001.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-25T12:20:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.694209+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/nwKzoi7A4Wp8QDVRRJRLMW-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "0318b2f1f0b7",
+  "titulo": "This $49.99 lifetime VPN flags malicious sites before they reach you",
+  "url": "https://www.pcworld.com/article/3268646/this-49-99-lifetime-vpn-flags-malicious-sites-before-they-reach-you.html",
+  "resumo": "TL;DR: Protect up to 10 devices with a GhostShield VPN lifetime subscription that flags threats in real time, now $49.99 (reg. $399). A standard VPN encrypts your traffic and hides your IP address, but encryption alone won’t stop you from connecting to a malicious site. GhostShield VPN also runs your traffic through an AI Threat Analyzer that flags malicious domains and suspicious connections in real time, and a lifetime subscription to its Premium plan is on sale for $49.99 (reg. $399). Instead of relying solely on static blocklists, the analyzer monitors traffic behavior in real time. A risky domain gets flagged when it appears, before your data is exposed. GhostShield bills itself as the first VPN with this kind of analyzer, and the company recommends keeping antivirus software running alongside it. Every connection uses WireGuard with ChaCha20 encryption and routes through 20 server locations in 16 countries. GhostShield runs RAM-only servers that wipe themselves on every reboot, so there is no stored record of your activity to seize, and it maintains a strict no-logging policy. Bandwidth is unlimited, with no throttling or data caps. One account works on up to 10 devices at on",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-25T08:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.697803+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3268646-0-39908100-1792915253-GhostShield_571afd.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "047a81d80836",
   "titulo": "Laika has spent 20 years building up to Wildwood",
   "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
@@ -370,8 +403,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "energia_materiais"
+   "energia_materiais",
+   "software"
   ],
   "publicado": "2026-10-24T14:30:05+00:00",
   "coletado_em": "2026-10-25T05:59:50.279470+00:00",
@@ -408,6 +441,23 @@
   "publicado": "2026-10-24T14:00:00+00:00",
   "coletado_em": "2026-10-25T05:59:50.271500+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "1c5f792530eb",
+  "titulo": "New CD players keep launching, but a drive shortage could make them unfixable",
+  "url": "https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore",
+  "resumo": "The lack of optical drive manufacturers is raising questions about the repairability and longevity of new CD players that are coming out on the market today.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-25T12:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.694209+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/477Pst2PY8oMP9NJizdqmL-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -627,6 +677,22 @@
   "cobertura": []
  },
  {
+  "id": "2ee31f3d9c92",
+  "titulo": "Poetry for Engineers: Of Code and Shortleaf Pine",
+  "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+  "resumo": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments of root, of interface.",
+  "fonte": "IEEE Spectrum",
+  "peso_fonte": 0.9,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-10-25T12:00:02+00:00",
+  "coletado_em": "2026-10-25T12:31:55.697152+00:00",
+  "imagem_feed": "https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=980",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "2fec84d68ac2",
   "titulo": "Reprogramming tumor microenvironment could improve prospects for treatment of pancreatic cancer",
   "url": "https://medicalxpress.com/news/2026-10-reprogramming-tumor-microenvironment-prospects-treatment.html",
@@ -698,8 +764,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-24T23:00:05+00:00",
@@ -754,6 +820,22 @@
   "publicado": "2026-10-24T16:00:00+00:00",
   "coletado_em": "2026-10-25T05:59:50.272855+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "35ef539766d1",
+  "titulo": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
+  "url": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
+  "resumo": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-25T10:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.695811+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/PMKUo2LQYCS5236iUvhYWn-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -830,10 +912,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "astrofisica",
-   "inteligencia_artificial"
+   "hardware",
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-24T15:00:00+00:00",
   "coletado_em": "2026-10-25T05:59:50.279470+00:00",
@@ -856,6 +938,22 @@
   "publicado": "2026-10-24T19:00:00+00:00",
   "coletado_em": "2026-10-25T05:59:50.279470+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/MHu49zMPET5hsfVdOUuePc54BwI=/0x0/filters:format(webp):quality(85)/8410f5d7-fdbe-44a2-8979-2caf9fcad650.webp",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "4305735af089",
+  "titulo": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+  "url": "https://www.nature.com/articles/s41586-026-11328-3",
+  "resumo": "Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+  "fonte": "Nature",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-25T00:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.692131+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -936,6 +1034,23 @@
   "publicado": "2026-10-24T12:34:27+00:00",
   "coletado_em": "2026-10-25T05:59:50.264453+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "52a11cbb7f0f",
+  "titulo": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+  "resumo": "A hacker reverse-engineered his own Samsung TV and found alarming spying activity, including code that used connected devices' microphones to listen to users.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-25T10:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.694209+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1367,13 +1482,32 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "medicina",
    "biologia",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "medicina"
   ],
   "publicado": "2026-10-24T11:30:05+00:00",
   "coletado_em": "2026-10-25T05:59:50.279470+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/nUUEKzRg_gKZCbV-HkLqHaJGVUs=/0x0/filters:format(webp):quality(85)/bfb89b54-d2e8-45a2-9c96-eecf0f26b8b1.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7ae1be1c0fc9",
+  "titulo": "Posso deixar o carro elétrico carregando a noite toda?",
+  "url": "https://canaltech.com.br/carros/posso-deixar-o-carro-eletrico-carregando-a-noite-toda/",
+  "resumo": "Quem compra um carro elétrico costuma ter uma dúvida logo nos primeiros dias de uso: é seguro deixar o veículo carregando durante toda a noite ? A preocupação é compreensível, principalmente porque muitos consumidores fazem uma associação com celulares e notebooks , que durante anos ficaram conhecidos pelo risco de \"viciar\" a bateria . Nos EVs modernos , porém, o funcionamento é bastante diferente . Os modelos contam com sistemas eletrônicos desenvolvidos justamente para monitorar o processo de recarga e proteger a bateria contra situações que possam comprometer sua vida útil. Fabricantes como BYD , Chevrolet, Hyundai, Volvo e Tesla orientam que o carregamento residencial faz parte da rotina normal de utilização do veículo. Na prática, deixar o carro conectado durante a madrugada é um dos cenários previstos pelos próprios projetos de engenharia, desde que sejam utilizados equipamentos adequados e instalados corretamente. Sistema do carro interrompe recarga automaticamente Ao contrário do que muitos imaginam, a bateria não continua recebendo energia indefinidamente após atingir a carga programada. Os carros elétricos utilizam um sistema chamado Battery Management System (BMS) , resp",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "medicina",
+   "computadores_pessoais",
+   "inteligencia_artificial",
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-25T12:05:03+00:00",
+  "coletado_em": "2026-10-25T12:31:55.704367+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/AIOf08rmDJ9IQA0G8nKYA2jY7v8=/0x0/filters:format(webp):quality(85)/bc1cffe2-fefb-4f90-b4d1-ac673d3ad2af.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1401,8 +1535,8 @@
   "fonte": "Ars Technica",
   "peso_fonte": 0.85,
   "categorias": [
-   "software",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-24T11:50:28+00:00",
   "coletado_em": "2026-10-25T05:59:50.311598+00:00",
@@ -1471,6 +1605,22 @@
   "publicado": "2026-10-24T17:20:02+00:00",
   "coletado_em": "2026-10-25T05:59:50.268908+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-positron-cyclotron-2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "86c0d92cf656",
+  "titulo": "Smartphone, óculos inteligentes… O que pode e o que não pode entrar na cabine de votação?",
+  "url": "https://olhardigital.com.br/2026/10/25/pro/smartphone-oculos-inteligentes-o-que-pode-e-o-que-nao-pode-entrar-na-cabine-de-votacao/",
+  "resumo": "Regra valeu para o 1º turno e também para o 2º turno, a ser realizado neste domingo (25) O post Smartphone, óculos inteligentes… O que pode e o que não pode entrar na cabine de votação? apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "hardware"
+  ],
+  "publicado": "2026-10-25T08:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.701816+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -1546,8 +1696,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-24T14:00:05+00:00",
@@ -1637,6 +1787,22 @@
   "cobertura": []
  },
  {
+  "id": "99c99157c7fa",
+  "titulo": "Google’s AI search changes upended online publishing",
+  "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+  "resumo": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-25T12:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.699266+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "9ac7aea3c3f6",
   "titulo": "\"Dark GPUs\" at Amazon show the limits of the AI buildout: chips are easy to buy, power is not",
   "url": "https://www.techspot.com/news/114315-dark-gpus-amazon-show-limits-ai-buildout-chips.html",
@@ -1702,6 +1868,23 @@
   "cobertura": []
  },
  {
+  "id": "9e9194c3771b",
+  "titulo": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+  "resumo": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-25T11:30:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.694209+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/zj2rCLfrU42mkGH93V5iU-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "a05746cf5c93",
   "titulo": "Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range",
   "url": "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics",
@@ -1731,6 +1914,23 @@
   "publicado": "2026-10-24T12:23:38+00:00",
   "coletado_em": "2026-10-25T05:59:50.268027+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a1b98f086893",
+  "titulo": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+  "url": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+  "resumo": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained why the company no longer offers many Ryzen 3 SKUs.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-25T11:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.694209+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/p3Kjz2uFDawbqt4hPoaDaW-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2130,8 +2330,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-24T13:00:00+00:00",
   "coletado_em": "2026-10-25T05:59:50.279470+00:00",
@@ -2250,6 +2450,22 @@
   "publicado": "2026-10-24T15:53:21+00:00",
   "coletado_em": "2026-10-25T05:59:50.268350+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/za9UwmsH9m9DmWxUk3pm5n-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c043b2a2aa5f",
+  "titulo": "Eleições 2026: os planos de Lula e Flávio Bolsonaro para IA, data center, soberania, terras raras, clima e energia",
+  "url": "https://olhardigital.com.br/2026/10/25/pro/eleicoes-2026-os-planos-de-lula-e-flavio-bolsonaro-para-ia-data-center-soberania-terras-raras-clima-e-energia/",
+  "resumo": "Confira o raio-X do Olhar Digital nos planos de governo de Lula e Flávio Bolsonaro para essas áreas com a análise de especialistas O post Eleições 2026: os planos de Lula e Flávio Bolsonaro para IA, data center, soberania, terras raras, clima e energia apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-25T07:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.701816+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -2403,6 +2619,23 @@
   "cobertura": []
  },
  {
+  "id": "cc1177265c12",
+  "titulo": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+  "resumo": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-25T10:30:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.694209+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/VYgWPsFZJjcK3K3NUpVbj7-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "cd191b03653c",
   "titulo": "An extra year of secondary school lowered dementia diagnoses later in life",
   "url": "https://www.nih.gov/news-events/news-releases/extra-year-secondary-school-lowered-dementia-diagnoses-later-life",
@@ -2431,6 +2664,22 @@
   "publicado": null,
   "coletado_em": "2026-10-25T05:59:50.260066+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ce5b870a47d7",
+  "titulo": "Comcast lost 144,000 broadband customers last quarter, is planning layoffs so AI agents can take over customer service",
+  "url": "https://www.techspot.com/news/114319-comcast-lost-144000-broadband-customers-last-quarter-planning.html",
+  "resumo": "Comcast released its Q3 2026 financial results this week, showing lower revenue and adjusted profit amid an exodus of subscribers from its broadband business. The company reported $29.3 billion in total revenue, down 6.1% year over year from $31.2 billion on a reported basis, reflecting the Versant separation and the... Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-25T11:49:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.698381+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2022/09/2022-09-12-ts3_thumbs-a39.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2599,6 +2848,22 @@
   "cobertura": []
  },
  {
+  "id": "d8429c56f033",
+  "titulo": "Stop data brokers from selling your info with this $95 Surfshark bundle",
+  "url": "https://www.pcworld.com/article/3268659/stop-data-brokers-from-selling-your-info-with-this-95-surfshark-bundle.html",
+  "resumo": "TL;DR: Get a VPN, antivirus, breach alerts, and Incogni data removal with a one-year Surfshark One+ subscription for $95, on sale for 62% off. AI tools make it easier than ever to pull your name, address, and phone number from data broker sites into one profile, and those sites sell that information to anyone who pays. A one-year Surfshark One+ subscription with Incogni gets your data removed from more than 420 of those sites and alerts you if it shows up in a breach — and it’s on sale for $95 (reg. $250.20). Incogni starts working after you sign one authorization form. From there, Incogni contacts more than 420 data brokers and people search sites, asks them to delete your records, and sends new removal requests whenever your info reappears. A dashboard shows which brokers have been contacted. On its own, Incogni costs about $95 a year. On the Surfshark side, the VPN encrypts your connection on up to 5 devices across Windows, macOS, Linux, iOS, Android, Chrome OS, Fire TV, and Apple TV. On Windows, macOS, and Android, antivirus protection blocks malware, ransomware, and spyware in real time. If your email, ID, or credit card number appears in a data breach or on the dark web, Surf",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-25T08:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.697803+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3268659-0-57083100-1792915220-Surfshark-One.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "d96c2eca906c",
   "titulo": "Halley's Comet dazzles from afar in spectacular astrophoto of Orionid meteor shower",
   "url": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower",
@@ -2663,6 +2928,22 @@
   "cobertura": []
  },
  {
+  "id": "dc35c96cddf0",
+  "titulo": "Doubling stem cell chromosomes produces heart cells with stronger, faster contractions",
+  "url": "https://medicalxpress.com/news/2026-10-stem-cell-chromosomes-heart-cells.html",
+  "resumo": "The Regenerative Medicine Project at our institute is advancing therapeutic strategies for various diseases by introducing a range of modifications to human induced pluripotent stem (iPS) cells.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-25T11:00:03+00:00",
+  "coletado_em": "2026-10-25T12:31:55.690590+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/recapitulation-of-tetr.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "dcad814faae0",
   "titulo": "Que horas vai passar o último episódio de Bleach?",
   "url": "https://canaltech.com.br/entretenimento/que-horas-vai-passar-o-ultimo-episodio-de-bleach/",
@@ -2691,6 +2972,22 @@
   "publicado": "2026-10-24T02:42:19+00:00",
   "coletado_em": "2026-10-25T05:59:50.263324+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "dd3e166ec0d8",
+  "titulo": "PingCAP Breach Exposes Customer Records and Source Code",
+  "url": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "PingCAP recently confirmed unauthorized access to its internal systems and the theft of source code and customer-related data. The attacker, cyber extortion group FulcrumSec, claimed to have stolen 10.6 TB of data, including TiDB Cloud control-plane records, customer SQL statements, API keys, connection logs, billing information, internal documents, and 413 private source-code repositories. By Renato Losio",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-25T06:27:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.693282+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/10/pingcap-cloud-data-breach/en/headerimage/generatedHeaderImage-1792787545089.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2727,6 +3024,73 @@
   "cobertura": []
  },
  {
+  "id": "e04f3941898c",
+  "titulo": "11 filmes, séries e livros que previram robôs dominando o mundo",
+  "url": "https://canaltech.com.br/entretenimento/filmes-series-livros-previram-robos-dominando-o-mundo/",
+  "resumo": "A possibilidade de robôs e inteligências artificiais (IAs) dominarem a humanidade é explorada pela ficção científica há mais de um século. Muito antes de existirem ferramentas como ChatGPT e Gemini, escritores e diretores já imaginavam sistemas capazes de tomar decisões por conta própria e, eventualmente, se voltar contra seus criadores. Algumas dessas histórias retratam guerras entre humanos e máquinas, enquanto outras apresentam cenários em que a inteligência artificial controla a sociedade sob o argumento de protegê-la. O Canaltech selecionou 11 filmes, séries e livros que imaginaram robôs dominando o mundo , incluindo clássicos como Matrix e O Exterminador do Futuro , além de obras menos conhecidas que abordaram o tema de maneiras diferentes. Filmes sobre robôs dominando o mundo 1. O Exterminador do Futuro (1984) Dirigido por James Cameron, o filme apresenta a Skynet, uma inteligência artificial militar que desenvolve consciência e decide exterminar os seres humanos. Após desencadear uma guerra nuclear, o sistema utiliza um exército de máquinas para combater os sobreviventes. Na história, um robô assassino interpretado por Arnold Schwarzenegger é enviado de 2029 para 1984 com a",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "robotica",
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-25T11:00:00+00:00",
+  "coletado_em": "2026-10-25T12:31:55.704367+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/IVs-xRwwixidNCDqns38xcBuVNE=/0x0/filters:format(webp):quality(85)/a239c3e4-c244-4d18-86ec-46d8cc1b1e73.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e3c1c7d3ee4a",
+  "titulo": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
+  "url": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
+  "resumo": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-25T08:31:01+00:00",
+  "coletado_em": "2026-10-25T12:31:55.691026+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/IMG_5891-1024x576.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e445d2441eb6",
+  "titulo": "Sea cucumber–inspired gel could help heal damaged tissue in humans",
+  "url": "https://phys.org/news/2026-10-sea-cucumberinspired-gel-tissue-humans.html",
+  "resumo": "Inspired by the ability of sea cucumbers to change the stiffness of their bodies, University of Waterloo researchers have developed a gel that could one day help repair damaged tendons and other soft tissues without leaving permanent material behind.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-25T11:00:01+00:00",
+  "coletado_em": "2026-10-25T12:31:55.691353+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-cucumber-inspired-1.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e4f1d7cbec50",
+  "titulo": "Para que serve a porta de 2.5G no roteador que você tem em casa?",
+  "url": "https://canaltech.com.br/hardware/para-que-serve-a-porta-de-25g-no-roteador/",
+  "resumo": "Se você trocou de roteador nos últimos anos ou contratou um plano de internet mais veloz, provavelmente reparou que uma das portas de rede na traseira do equipamento tem uma marcação diferente. Além das conexões amarelas ou pretas tradicionais, surge uma entrada destacada com a inscrição \"2.5G\" ou \"2.5GbE\" , despertando a dúvida sobre qual dispositivo deve ser conectado ali para aproveitar o máximo desempenho. Essa porta sinaliza que o equipamento está pronto para a rede multi-gigabit. Enquanto a porta Ethernet Gigabit padrão limita a transferência de dados via cabo a 1 Gbps (cerca de 125 MB/s), a conexão 2.5G permite alcançar taxas de até 2,5 Gbps . Trata-se de uma evolução de 150% na largura de banda disponível, pensada para eliminar gargalos em conexões de alta velocidade e redes locais exigentes. O que é necessário para aproveitar os 2,5 Gbps? Para usufruir da taxa de transferência de 2,5 Gbps em um dispositivo específico, não basta apenas ter a porta disponível no roteador. É fundamental que o computador ( através da placa-mãe ) , notebook ou servidor conectado do outro lado da ponta também possua uma placa de rede compatível com o padrão 2.5GbE . Se o limite for 1 Gbps, a con",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "biologia",
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-25T12:30:06+00:00",
+  "coletado_em": "2026-10-25T12:31:55.704367+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/PMhNxTOGiNg3o7ItLPmIFfQrgH0=/0x0/filters:format(webp):quality(85)/354e7c18-2701-43c8-bd1c-103d4fdac062.JPG",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "e786df717fc0",
   "titulo": "Robô aspirador Xiaomi S40: quanto vale pagar na Black Friday?",
   "url": "https://canaltech.com.br/eletro/robo-aspirador-xiaomi-s40-quanto-vale-pagar-na-black-friday/",
@@ -2734,12 +3098,28 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "robotica",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "robotica"
   ],
   "publicado": "2026-10-24T16:30:05+00:00",
   "coletado_em": "2026-10-25T05:59:50.279470+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/F1PzgWRMwLjNHXcd-bSZdWmmRrA=/0x0/filters:format(webp):quality(85)/8abfea56-04b4-4b6f-a777-5e42de808781.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e8892bef5fd1",
+  "titulo": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+  "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+  "resumo": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-25T08:19:48+00:00",
+  "coletado_em": "2026-10-25T12:31:55.694901+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -2897,10 +3277,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "computadores_pessoais",
-   "inteligencia_artificial"
+   "hardware",
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-24T12:30:00+00:00",
   "coletado_em": "2026-10-25T05:59:50.279470+00:00",
