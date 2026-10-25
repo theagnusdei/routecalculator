@@ -1,0 +1,673 @@
+{
+  "medicina": [
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-10-25T13:43:27.244687+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "e3c1c7d3ee4a",
+      "titulo": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
+      "url": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
+      "resumo": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-25T08:31:01+00:00",
+      "coletado_em": "2026-10-25T13:43:27.246249+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/IMG_5891-1024x576.jpg",
+      "score": 5.33,
+      "cobertura": []
+    },
+    {
+      "id": "dc35c96cddf0",
+      "titulo": "Doubling stem cell chromosomes produces heart cells with stronger, faster contractions",
+      "url": "https://medicalxpress.com/news/2026-10-stem-cell-chromosomes-heart-cells.html",
+      "resumo": "The Regenerative Medicine Project at our institute is advancing therapeutic strategies for various diseases by introducing a range of modifications to human induced pluripotent stem (iPS) cells.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-25T11:00:03+00:00",
+      "coletado_em": "2026-10-25T13:43:27.245953+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/recapitulation-of-tetr.jpg",
+      "score": 5.259,
+      "cobertura": []
+    },
+    {
+      "id": "81c79aace3ea",
+      "titulo": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+      "resumo": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-25T11:00:25+00:00",
+      "coletado_em": "2026-10-25T13:43:27.245539+00:00",
+      "imagem_feed": null,
+      "score": 5.109,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "7d38a55218f1",
+      "titulo": "Surveying the genetic battlefield to uncover the rules of rapid evolution",
+      "url": "https://phys.org/news/2026-10-surveying-genetic-battlefield-uncover-rapid.html",
+      "resumo": "The Malik Lab thrives on competition. But for HHMI investigator Harmit Malik and his team at the Fred Hutchinson Cancer Center, it's the genomes—not the people—that are in conflict. The lab studies rapid evolution—the genetic changes that happen in a species over a few generations rather than thousands of years. These fast changes are often fueled by genetic conflicts—competitions between different entities trying to maximize their success at the expense of another.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-24T03:20:02+00:00",
+      "coletado_em": "2026-10-25T13:43:27.246441+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/surveying-the-genetic.jpg",
+      "score": 4.824,
+      "cobertura": []
+    },
+    {
+      "id": "f088c770504f",
+      "titulo": "New evidence suggests spinosaurus spent most of its life underwater",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+      "resumo": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their findings suggest that Spinosaurus spent most of its life underwater, while some ancient marine reptiles previously thought to be fully aquatic actually spent considerable time on land.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-25T11:52:54+00:00",
+      "coletado_em": "2026-10-25T13:43:27.246685+00:00",
+      "imagem_feed": null,
+      "score": 4.698,
+      "cobertura": []
+    },
+    {
+      "id": "6bef7b1347fa",
+      "titulo": "Microorganisms show promise for reducing emissions from manure",
+      "url": "https://phys.org/news/2026-10-microorganisms-emissions-manure.html",
+      "resumo": "Dairy farmers sometimes use additives in their cattle housing to reduce emissions from slurry. Emissions of substances such as ammonia occur when urine and feces mix on the floor of the housing. At the same time, dairy farmers want to increase the fertilizing value of the manure when it is applied to agricultural land.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-25T13:00:01+00:00",
+      "coletado_em": "2026-10-25T13:43:27.246441+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dairy-barn.jpg",
+      "score": 4.468,
+      "cobertura": []
+    },
+    {
+      "id": "e4f1d7cbec50",
+      "titulo": "Para que serve a porta de 2.5G no roteador que você tem em casa?",
+      "url": "https://canaltech.com.br/hardware/para-que-serve-a-porta-de-25g-no-roteador/",
+      "resumo": "Se você trocou de roteador nos últimos anos ou contratou um plano de internet mais veloz, provavelmente reparou que uma das portas de rede na traseira do equipamento tem uma marcação diferente. Além das conexões amarelas ou pretas tradicionais, surge uma entrada destacada com a inscrição \"2.5G\" ou \"2.5GbE\" , despertando a dúvida sobre qual dispositivo deve ser conectado ali para aproveitar o máximo desempenho. Essa porta sinaliza que o equipamento está pronto para a rede multi-gigabit. Enquanto a porta Ethernet Gigabit padrão limita a transferência de dados via cabo a 1 Gbps (cerca de 125 MB/s), a conexão 2.5G permite alcançar taxas de até 2,5 Gbps . Trata-se de uma evolução de 150% na largura de banda disponível, pensada para eliminar gargalos em conexões de alta velocidade e redes locais exigentes. O que é necessário para aproveitar os 2,5 Gbps? Para usufruir da taxa de transferência de 2,5 Gbps em um dispositivo específico, não basta apenas ter a porta disponível no roteador. É fundamental que o computador ( através da placa-mãe ) , notebook ou servidor conectado do outro lado da ponta também possua uma placa de rede compatível com o padrão 2.5GbE . Se o limite for 1 Gbps, a con",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-25T12:30:06+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/PMhNxTOGiNg3o7ItLPmIFfQrgH0=/0x0/filters:format(webp):quality(85)/354e7c18-2701-43c8-bd1c-103d4fdac062.JPG",
+      "score": 4.464,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "de090d5d93a9",
+      "titulo": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
+      "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+      "resumo": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe. The post Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-25T12:35:33+00:00",
+      "coletado_em": "2026-10-25T13:43:27.247436+00:00",
+      "imagem_feed": null,
+      "score": 5.273,
+      "cobertura": []
+    },
+    {
+      "id": "e04f3941898c",
+      "titulo": "11 filmes, séries e livros que previram robôs dominando o mundo",
+      "url": "https://canaltech.com.br/entretenimento/filmes-series-livros-previram-robos-dominando-o-mundo/",
+      "resumo": "A possibilidade de robôs e inteligências artificiais (IAs) dominarem a humanidade é explorada pela ficção científica há mais de um século. Muito antes de existirem ferramentas como ChatGPT e Gemini, escritores e diretores já imaginavam sistemas capazes de tomar decisões por conta própria e, eventualmente, se voltar contra seus criadores. Algumas dessas histórias retratam guerras entre humanos e máquinas, enquanto outras apresentam cenários em que a inteligência artificial controla a sociedade sob o argumento de protegê-la. O Canaltech selecionou 11 filmes, séries e livros que imaginaram robôs dominando o mundo , incluindo clássicos como Matrix e O Exterminador do Futuro , além de obras menos conhecidas que abordaram o tema de maneiras diferentes. Filmes sobre robôs dominando o mundo 1. O Exterminador do Futuro (1984) Dirigido por James Cameron, o filme apresenta a Skynet, uma inteligência artificial militar que desenvolve consciência e decide exterminar os seres humanos. Após desencadear uma guerra nuclear, o sistema utiliza um exército de máquinas para combater os sobreviventes. Na história, um robô assassino interpretado por Arnold Schwarzenegger é enviado de 2029 para 1984 com a",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-25T11:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/IVs-xRwwixidNCDqns38xcBuVNE=/0x0/filters:format(webp):quality(85)/a239c3e4-c244-4d18-86ec-46d8cc1b1e73.png",
+      "score": 4.309,
+      "cobertura": []
+    },
+    {
+      "id": "b15ac292bb30",
+      "titulo": "Wearable system captures human activity data for robot training",
+      "url": "https://techxplore.com/news/2026-10-wearable-captures-human-robot.html",
+      "resumo": "Humanoid robots, robotic systems with a body shape that resembles that of humans, could tackle various chores and everyday manual tasks. To successfully complete these tasks, however, the robots should be able to reliably coordinate their movements, posture and how they touch or grasp different objects.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-24T16:00:06+00:00",
+      "coletado_em": "2026-10-25T13:43:27.247540+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-wearable-system-coul.jpg",
+      "score": 4.12,
+      "cobertura": []
+    },
+    {
+      "id": "50dc673c9de4",
+      "titulo": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+      "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+      "resumo": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale. The post Eka Robotics raises $150M to scale its vision-force-action model for robots appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-24T12:34:27+00:00",
+      "coletado_em": "2026-10-25T13:43:27.247436+00:00",
+      "imagem_feed": null,
+      "score": 3.868,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "dd3e166ec0d8",
+      "titulo": "PingCAP Breach Exposes Customer Records and Source Code",
+      "url": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "PingCAP recently confirmed unauthorized access to its internal systems and the theft of source code and customer-related data. The attacker, cyber extortion group FulcrumSec, claimed to have stolen 10.6 TB of data, including TiDB Cloud control-plane records, customer SQL statements, API keys, connection logs, billing information, internal documents, and 413 private source-code repositories. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-25T06:27:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.247731+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/pingcap-cloud-data-breach/en/headerimage/generatedHeaderImage-1792787545089.jpg",
+      "score": 4.514,
+      "cobertura": []
+    },
+    {
+      "id": "8d58ace09488",
+      "titulo": "7 sites e serviços famosos que rodam em PHP e você não sabia",
+      "url": "https://canaltech.com.br/internet-e-redes-sociais/sites-servicos-famosos-em-php-que-voce-nao-sabia/",
+      "resumo": "Duas falhas críticas no PHP colocaram milhões de sites em alerta nesta semana. As vulnerabilidades, divulgadas na quarta-feira (21), permitem que hackers executem códigos maliciosos em servidores sob determinadas condições e já eram alvo de tentativas de exploração antes mesmo da divulgação das correções. O episódio chamou a atenção para uma linguagem de programação presente em boa parte da internet. Segundo dados do W3Techs, quase 70% dos sites cuja linguagem de servidor é conhecida utilizam PHP , incluindo serviços bastante famosos. Parte dessa presença se explica pelo WordPress , sistema de gerenciamento de conteúdo desenvolvido em PHP e utilizado por grandes portais para publicar notícias, imagens e outros materiais. Vale destacar que utilizar PHP não significa que um site esteja vulnerável às falhas descobertas recentemente . A exposição depende de fatores como a versão instalada, as configurações dos servidores e as medidas de segurança adotadas. 1. Wikipédia A maior enciclopédia online do mundo utiliza o MediaWiki, software de código aberto desenvolvido principalmente em PHP para administrar artigos, edições e páginas. Segundo a documentação oficial do projeto, os servidores",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-24T18:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/VQs9TJgd4PGyqkSwDfklsBbMRhk=/0x0/filters:format(webp):quality(85)/f14d4c5a-481f-4393-819c-b4bb90063eb6.jpg",
+      "score": 4.24,
+      "cobertura": []
+    },
+    {
+      "id": "e8ba48c3ca0f",
+      "titulo": "App grátis libera YouTube na central multimídia do carro; veja como usar",
+      "url": "https://canaltech.com.br/apps/como-usar-app-gratis-libera-youtube-na-central-multimidia-do-carro/",
+      "resumo": "O AA Browser é um navegador de código aberto para Android Auto. A principal vantagem é a opção para reproduzir vídeos do YouTube e de outros serviços de streaming na central multimídia do carro estacionado. A ferramenta opera de forma similar ao abrir o YT no navegador do celular, por exemplo. É possível usar o modo de tela cheia , assistir a vídeos e salvar sites na aba de favoritos para acessá-los rapidamente no veículo. Vale mencionar que o Android tem uma série de restrições para reproduzir vídeos com o carro parado em veículos com o sistema embutido. O YouTube é integrado ao sistema Auto , mas sequer tem um aplicativo próprio. Como ver YouTube na central multimídia do carro O procedimento pelo AA Browser é uma espécie de “gambiarra” e viola algumas regras do Google , visto que o app não está disponível na Play Store. Caso você tenha interesse em instalar, o processo ocorre por conta e risco do usuári o e os próprios desenvolvedores alertam que o app é uma alternativa para quem está no banco do passageiro e com o veículo parado. O primeiro passo exige abrir o modo de desenvolvedor do Android Auto: Abra as configurações do celular; Procure por “Android Auto” na pesquisa; Desça a",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "software"
+      ],
+      "publicado": "2026-10-24T17:00:04+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/D2207cOrxKBNab0V-OC10QxT0Yc=/0x0/filters:format(webp):quality(85)/66723f8b-3285-4891-ba90-e741697af3bd.png",
+      "score": 4.204,
+      "cobertura": []
+    },
+    {
+      "id": "7e7984ce45f7",
+      "titulo": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "resumo": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-24T11:50:28+00:00",
+      "coletado_em": "2026-10-25T13:43:27.270693+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg",
+      "score": 3.798,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "dc08ad2034f5",
+      "titulo": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "resumo": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and security tools for enterprise customers.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-25T13:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.248364+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/TwfFbH55Mt433hRvkWbSD5-1920-80.jpg",
+      "score": 5.618,
+      "cobertura": []
+    },
+    {
+      "id": "a1b98f086893",
+      "titulo": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+      "resumo": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained why the company no longer offers many Ryzen 3 SKUs.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-25T11:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.248364+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/p3Kjz2uFDawbqt4hPoaDaW-1920-80.jpg",
+      "score": 5.409,
+      "cobertura": []
+    },
+    {
+      "id": "9e9194c3771b",
+      "titulo": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+      "resumo": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-25T11:30:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.248364+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/zj2rCLfrU42mkGH93V5iU-1920-80.png",
+      "score": 4.959,
+      "cobertura": []
+    },
+    {
+      "id": "cc1177265c12",
+      "titulo": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "resumo": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-25T10:30:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.248364+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/VYgWPsFZJjcK3K3NUpVbj7-1920-80.jpg",
+      "score": 4.86,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "bee12aa6ed27",
+      "titulo": "Three giant black holes discovered in a galaxy from the dawn of time",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+      "resumo": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lurks farther away. One weighs an astonishing 80 million suns, and another is growing faster than conventional theories predict.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-25T12:07:01+00:00",
+      "coletado_em": "2026-10-25T13:43:27.249225+00:00",
+      "imagem_feed": null,
+      "score": 5.223,
+      "cobertura": []
+    },
+    {
+      "id": "e8892bef5fd1",
+      "titulo": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+      "resumo": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-25T08:19:48+00:00",
+      "coletado_em": "2026-10-25T13:43:27.248864+00:00",
+      "imagem_feed": null,
+      "score": 4.965,
+      "cobertura": []
+    },
+    {
+      "id": "631d9fd0927e",
+      "titulo": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
+      "resumo": "On Oct. 25, 1671, the Italian astronomer Giovanni Cassini discovered a new moon at Saturn! Here's why it mattered.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-25T13:17:54+00:00",
+      "coletado_em": "2026-10-25T13:43:27.249455+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/wQwkWJS3vh4dxyfNiJqSNk-1920-80.jpg",
+      "score": 4.351,
+      "cobertura": []
+    },
+    {
+      "id": "22790add1dc2",
+      "titulo": "Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers",
+      "url": "https://olhardigital.com.br/2026/10/25/inteligencia-artificial/moonshot-limita-capacidades-de-seu-modelo-de-ia-mais-avancado-para-evitar-ataques-hackers/",
+      "resumo": "A startup chinesa Moonshot AI anunciou neste fim de semana que reduziu as capacidades ciberofensivas de seu mais novo modelo de inteligência artificial. O post Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-25T12:20:27+00:00",
+      "coletado_em": "2026-10-25T13:43:27.253459+00:00",
+      "imagem_feed": null,
+      "score": 4.296,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "2ee31f3d9c92",
+      "titulo": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+      "resumo": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments of root, of interface.",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-25T12:00:02+00:00",
+      "coletado_em": "2026-10-25T13:43:27.250281+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=980",
+      "score": 4.81,
+      "cobertura": []
+    },
+    {
+      "id": "8f461fbdf972",
+      "titulo": "Mehmet Sanliol (Evercore): Why quantum valuations hinge on 2030 revenue multiples and consolidation",
+      "url": "https://thequantuminsider.com/2026/10/24/mehmet-sanliol-evercore-why-quantum-valuations-hinge-on-2030-revenue-multiples-and-consolidation/",
+      "resumo": "Yuval Boger interviews Mehmet Sanliol, managing director at Evercore covering quantum technologies and semiconductors. They discuss how investors value public quantum companies, when private companies should consider IPOs or SPACs, and why consolidation may shape the next phase of the industry. Mehmet also shares his perspective on technical and market signals that could affect valuations, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-24T07:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.249717+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/07/Mehmet.jpg",
+      "score": 3.539,
+      "cobertura": []
+    },
+    {
+      "id": "d5cdfedcabee",
+      "titulo": "What Biometric Technology Does and Doesn’t Add to Voting",
+      "url": "https://spectrum.ieee.org/biometric-voting-technology",
+      "resumo": "Whether voters are alive or dead is of vital interest to democracies. Yet unscrupulous political operators have long voted on behalf of the dead or absent and otherwise committed electoral frauds exploiting the weaknesses of paper identification systems. So some 50 countries now use biometric technologies, such as fingerprint readers or facial recognition technology, at some stage in their elections. On 4 October, voters in Bosnia and Herzegovina became the latest to join the biometric voting club, the same day Brazil, a pioneer of the technology that now boasts 89 percent biometric enrollment, went to the polls. Despite some technical hiccups, election observers say voting was orderly in both countries. Yet as more countries adopt biometric technologies, experts point to significant drawbacks, including high costs, opaque processes and, in the worst case, fallible technology locking people out of the electoral system. Bosnia’s biometric voting growing pains Electoral fraud has long plagued Bosnia, says Hasan Kamenjaković , spokesperson for the Bosnian election-monitoring group Pod Lupom , with people voting multiple times, on behalf of others, or on behalf of the dead, often abett",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-24T13:00:01+00:00",
+      "coletado_em": "2026-10-25T13:43:27.250281+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/close-up-of-someone-holding-their-thumb-on-a-mini-digital-scanner-at-a-polling-site.jpg?id=68506429&width=980",
+      "score": 3.48,
+      "cobertura": []
+    },
+    {
+      "id": "84987db3b782",
+      "titulo": "'One-positron cyclotron' could test a key prediction of the Standard Model",
+      "url": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
+      "resumo": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exactly equal and opposite to the electron's.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-24T17:20:02+00:00",
+      "coletado_em": "2026-10-25T13:43:27.249788+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-positron-cyclotron-2.jpg",
+      "score": 3.166,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "e4f1d7cbec50",
+      "titulo": "Para que serve a porta de 2.5G no roteador que você tem em casa?",
+      "url": "https://canaltech.com.br/hardware/para-que-serve-a-porta-de-25g-no-roteador/",
+      "resumo": "Se você trocou de roteador nos últimos anos ou contratou um plano de internet mais veloz, provavelmente reparou que uma das portas de rede na traseira do equipamento tem uma marcação diferente. Além das conexões amarelas ou pretas tradicionais, surge uma entrada destacada com a inscrição \"2.5G\" ou \"2.5GbE\" , despertando a dúvida sobre qual dispositivo deve ser conectado ali para aproveitar o máximo desempenho. Essa porta sinaliza que o equipamento está pronto para a rede multi-gigabit. Enquanto a porta Ethernet Gigabit padrão limita a transferência de dados via cabo a 1 Gbps (cerca de 125 MB/s), a conexão 2.5G permite alcançar taxas de até 2,5 Gbps . Trata-se de uma evolução de 150% na largura de banda disponível, pensada para eliminar gargalos em conexões de alta velocidade e redes locais exigentes. O que é necessário para aproveitar os 2,5 Gbps? Para usufruir da taxa de transferência de 2,5 Gbps em um dispositivo específico, não basta apenas ter a porta disponível no roteador. É fundamental que o computador ( através da placa-mãe ) , notebook ou servidor conectado do outro lado da ponta também possua uma placa de rede compatível com o padrão 2.5GbE . Se o limite for 1 Gbps, a con",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-25T12:30:06+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/PMhNxTOGiNg3o7ItLPmIFfQrgH0=/0x0/filters:format(webp):quality(85)/354e7c18-2701-43c8-bd1c-103d4fdac062.JPG",
+      "score": 5.964,
+      "cobertura": []
+    },
+    {
+      "id": "96bdff5a59c0",
+      "titulo": "Jailbroken PS5s can now run Steam PC games",
+      "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
+      "resumo": "Playden for PS5 creates an app for each Steam game that it downloads, allowing it to appear as a separate tile on the console's home screen.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-25T12:40:11+00:00",
+      "coletado_em": "2026-10-25T13:43:27.248364+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/nd79YEyZjKpereVXCPBBMD-1920-80.png",
+      "score": 5.082,
+      "cobertura": []
+    },
+    {
+      "id": "007ed02f501e",
+      "titulo": "Windows XP debuted 25 years ago today",
+      "url": "https://www.tomshardware.com/software/windows/windows-xp-debuted-25-years-ago-today-microsofts-biggest-launch-since-95-was-its-first-consumer-os-to-remove-the-dos-underpinnings",
+      "resumo": "Windows XP became available at retailers for the first time on this day back in 2001.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-25T12:20:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.248364+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/nwKzoi7A4Wp8QDVRRJRLMW-1920-80.jpg",
+      "score": 5.046,
+      "cobertura": []
+    },
+    {
+      "id": "70827ee4e2a3",
+      "titulo": "Microsoft's Windows Insider wallpapers were apparently made on a Mac",
+      "url": "https://www.techspot.com/news/114324-microsoft-windows-insider-wallpapers-apparently-made-mac.html",
+      "resumo": "Most image files carry a small tag naming the app that last saved them, buried in a properties menu that few people ever open. When a Windows developer checked it on Microsoft's newest wallpapers, it pointed to Photoshop running on a Mac. The company has since swapped in cleaned-up copies. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-25T13:26:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.251094+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-25-ts3_thumbs-372.jpg",
+      "score": 4.867,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "22790add1dc2",
+      "titulo": "Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers",
+      "url": "https://olhardigital.com.br/2026/10/25/inteligencia-artificial/moonshot-limita-capacidades-de-seu-modelo-de-ia-mais-avancado-para-evitar-ataques-hackers/",
+      "resumo": "A startup chinesa Moonshot AI anunciou neste fim de semana que reduziu as capacidades ciberofensivas de seu mais novo modelo de inteligência artificial. O post Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-25T12:20:27+00:00",
+      "coletado_em": "2026-10-25T13:43:27.253459+00:00",
+      "imagem_feed": null,
+      "score": 5.796,
+      "cobertura": []
+    },
+    {
+      "id": "e04f3941898c",
+      "titulo": "11 filmes, séries e livros que previram robôs dominando o mundo",
+      "url": "https://canaltech.com.br/entretenimento/filmes-series-livros-previram-robos-dominando-o-mundo/",
+      "resumo": "A possibilidade de robôs e inteligências artificiais (IAs) dominarem a humanidade é explorada pela ficção científica há mais de um século. Muito antes de existirem ferramentas como ChatGPT e Gemini, escritores e diretores já imaginavam sistemas capazes de tomar decisões por conta própria e, eventualmente, se voltar contra seus criadores. Algumas dessas histórias retratam guerras entre humanos e máquinas, enquanto outras apresentam cenários em que a inteligência artificial controla a sociedade sob o argumento de protegê-la. O Canaltech selecionou 11 filmes, séries e livros que imaginaram robôs dominando o mundo , incluindo clássicos como Matrix e O Exterminador do Futuro , além de obras menos conhecidas que abordaram o tema de maneiras diferentes. Filmes sobre robôs dominando o mundo 1. O Exterminador do Futuro (1984) Dirigido por James Cameron, o filme apresenta a Skynet, uma inteligência artificial militar que desenvolve consciência e decide exterminar os seres humanos. Após desencadear uma guerra nuclear, o sistema utiliza um exército de máquinas para combater os sobreviventes. Na história, um robô assassino interpretado por Arnold Schwarzenegger é enviado de 2029 para 1984 com a",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-25T11:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/IVs-xRwwixidNCDqns38xcBuVNE=/0x0/filters:format(webp):quality(85)/a239c3e4-c244-4d18-86ec-46d8cc1b1e73.png",
+      "score": 4.809,
+      "cobertura": []
+    },
+    {
+      "id": "93b3f75cf49b",
+      "titulo": "The human voice",
+      "url": "https://www.sciencenews.org/article/ed-note-november-2026",
+      "resumo": "Editor in Chief Nancy Shute discusses the power of the human voice, hopeful advances in treating stiff person syndrome and new controversy about using AI in mathematics.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-24T11:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.270528+00:00",
+      "imagem_feed": null,
+      "score": 4.627,
+      "cobertura": [
+        "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+      ]
+    },
+    {
+      "id": "35d668020c86",
+      "titulo": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "resumo": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-24T16:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.252450+00:00",
+      "imagem_feed": null,
+      "score": 4.32,
+      "cobertura": [
+        "https://www.sciencenews.org/article/ed-note-november-2026"
+      ]
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "7ae1be1c0fc9",
+      "titulo": "Posso deixar o carro elétrico carregando a noite toda?",
+      "url": "https://canaltech.com.br/carros/posso-deixar-o-carro-eletrico-carregando-a-noite-toda/",
+      "resumo": "Quem compra um carro elétrico costuma ter uma dúvida logo nos primeiros dias de uso: é seguro deixar o veículo carregando durante toda a noite ? A preocupação é compreensível, principalmente porque muitos consumidores fazem uma associação com celulares e notebooks , que durante anos ficaram conhecidos pelo risco de \"viciar\" a bateria . Nos EVs modernos , porém, o funcionamento é bastante diferente . Os modelos contam com sistemas eletrônicos desenvolvidos justamente para monitorar o processo de recarga e proteger a bateria contra situações que possam comprometer sua vida útil. Fabricantes como BYD , Chevrolet, Hyundai, Volvo e Tesla orientam que o carregamento residencial faz parte da rotina normal de utilização do veículo. Na prática, deixar o carro conectado durante a madrugada é um dos cenários previstos pelos próprios projetos de engenharia, desde que sejam utilizados equipamentos adequados e instalados corretamente. Sistema do carro interrompe recarga automaticamente Ao contrário do que muitos imaginam, a bateria não continua recebendo energia indefinidamente após atingir a carga programada. Os carros elétricos utilizam um sistema chamado Battery Management System (BMS) , resp",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-25T12:05:03+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/AIOf08rmDJ9IQA0G8nKYA2jY7v8=/0x0/filters:format(webp):quality(85)/bc1cffe2-fefb-4f90-b4d1-ac673d3ad2af.jpg",
+      "score": 4.919,
+      "cobertura": []
+    },
+    {
+      "id": "c51e9f528e3f",
+      "titulo": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "resumo": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discovery challenges decades of scientific assumptions and could explain why some superconductors outperform others.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-25T02:19:07+00:00",
+      "coletado_em": "2026-10-25T13:43:27.252728+00:00",
+      "imagem_feed": null,
+      "score": 4.435,
+      "cobertura": []
+    },
+    {
+      "id": "176ef2ef5e11",
+      "titulo": "Como saber se alguém espiona o seu celular? Veja 5 dicas",
+      "url": "https://canaltech.com.br/apps/dicas-como-saber-se-alguem-espiona-o-seu-celular/",
+      "resumo": "Os aplicativos espiões podem monitorar a localização, as mensagens e outras atividades do celular sem o consentimento do proprietário. Conhecidos como stalkerware, esses programas operam de forma discreta, mas podem deixar rastros no aparelho, como consumo anormal de bateria, aplicativos desconhecidos e permissões suspeitas. A instalação costuma ocorrer quando alguém tem acesso físico ao celular desbloqueado , mas também pode acontecer por meio de links maliciosos e aplicativos falsos baixados fora das lojas oficiais. O Brasil está entre os países com mais detecções desse tipo de software, ao lado de Rússia e Índia, segundo dados da Kaspersky referentes a 2024 e 2025. Dependendo das permissões concedidas, o programa pode registrar chamadas, ler mensagens e notificações, acompanhar deslocamentos e acessar arquivos pessoais. Algumas ferramentas também conseguem ativar a câmera e o microfone remotamente. 5 dicas para descobrir se alguém está espionando seu celular Não existe um único sinal capaz de confirmar a presença de um aplicativo espião . O ideal é verificar as configurações de segurança, observar mudanças no funcionamento do aparelho e identificar possíveis acessos não autoriza",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-24T14:30:05+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9F6WG4q8OFonjHfNW6zswVgr3wI=/0x0/filters:format(webp):quality(85)/85916d30-72da-4229-b27a-43a76bfdc9d1.jpg",
+      "score": 0.123,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": []
+}

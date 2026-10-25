@@ -1,0 +1,347 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-10-25T13:43:27.244687+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    "texto_fonte": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial\nFriday, October 23, 2026\nA precision T-cell therapy stalls treatment-resistant cancers in clinical trial\nExperimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.\nEarly results of the first clinical trial to evaluate the drug invikafusp alfa (invika) in humans indicate that the pioneering treatment may be capable of managing cancers that have rebuffed most other interventions, including standard immunotherapy. A study led by researchers at the National Institutes of Health (NIH), Mass General Brigham and Memorial Sloan Kettering found that, at optimal doses, invika was well tolerated and, in patients whose solid tumors had resisted standard immunotherapy, halted disease progression in most and shrank tumors in some.\n“Patients whose tumors are advanced — particularly tumors that don’t respond well to immunotherapy — often have their backs against a wall. Few options remain once you reach that point, but these results highlight a more precise means of stimulating anti-tumor immunity that could provide another solution,” said co-corresponding author James Gulley, M.D., Ph.D., clinical director at the Center for Cancer Research (CCR), part of NIH’s National Cancer Institute (NCI).\nWhile immunotherapies have already transformed treatment for several cancers, many patients benefit from them for only a short time, or not at all. Tumors frequently adapt to immune checkpoint blockade (ICB) therapies, such as pembrolizumab, limiting long-term benefits. Other strategies aim to rally T cells, the frontline soldiers of adaptive immunity, but usually do so indiscriminately, commonly leading to severe side effects.\nScientists designed the protein invika to engage a small subset of T cells, two groups of tumor-infiltrating lymphocytes specifically. By activating only this narrow population rather than T cells broadly, invika is designed to drive anti-tumor activity while avoiding the severe side effects that less selective approaches can cause. Preclinical studies also conducted at CCR indicate that the drug hits its intended marks and stimulates anti-tumor activity in animal models. This new study describes the next step for invika, detailing the results of phase 1 and initial phase 2 experiments in humans.\nThe researchers leading the trial recruited patients with a wide variety of cancers, the majority of which had not responded well to ICB. In phase 1, they treated study participants with varying dosages of invika every two weeks to evaluate the drug’s safety and determine the optimal dose. While several participants experienced flu-like side effects, these were expected and generally manageable with additional medication and supportive care. After identifying the lowest dose at which desired effects peaked, the researchers advanced to phase 2, treating participants at this optimal dose.\nOf the 27 participants treated with the optimal dose across both phases, disease did not progress in 16 (59.3%) of them. Four (14.8%) participants experienced greater than 30% decreases in the size of targeted tumors, two of whom had metastatic colorectal cancer with tumors of a notoriously treatment-resistant type and were receiving invika as their seventh-line therapy. Another responsive participant had stage 4 non-small cell lung cancer, again with tumors that had repelled multiple therapies including ICB. In participants receiving non-optimal levels, invika did not appear to have significant benefit.\nIn these patients, the study authors found that the drug fostered growth in the target T-cell populations without affecting any other T cells. They linked the four instances of tumor reduction to the largest shifts in target populations, though, as the authors expected at this early stage, immune activity alone did not always produce a measurable clinical response.\n“These results are early, and although signs of immune activity don't always translate into benefit to patients at this stage, it is new and exciting to see activity in patients whose cancers had stopped responding to immunotherapy — a group of people with very few options left,” said co-first author Nicholas Tschernia, M.D., a physician-scientist early investigator in the CCR at NCI. “These findings give us a reason to keep studying this new type of immunotherapy, particularly by combining it with other cancer treatments to continue to seek improved results.”\nThe treatment sponsor, Marengo Therapeutics, previously announced that the U.S. Food and Drug Administration (FDA) granted a Fast Track designation to invika to accelerate its evaluation as a treatment for antigen-rich, metastatic colorectal cancer. More recently, FDA has granted the same designation to invika for similar solid tumors, regardless of tissue type, following prior therapy including checkpoint inhibitors.\nThe ongoing clinical trial is still seeking study participants. Patients interested in enrolling in this study may contact NCI’s toll-free number 1-800-4-Cancer (1-800-422-6237) (TTY: 1-800-332-8615) or email [email protected]. More information can also be found at https://www.trials.cancer.gov.\nAbout the National Cancer Institute (NCI): NCI leads the National Cancer Program and NIH’s efforts to dramatically reduce the prevalence of cancer and improve the lives of cancer patients and their families, through research into prevention and cancer biology, the development of new interventions, and the training and mentoring of new researchers. NCI’s intramural research program at the Center for Cancer Research (CCR) conducts innovative, transdisciplinary basic, translational, and clinical studies, including research at the NIH Clinical Center — the world’s largest research hospital. Learn more about the intramural research done in NCI’s CCR. For more information about cancer, please visit the NCI website at www.cancer.gov or call NCI’s contact center, the Cancer Information Service, at 1-800-4-CANCER (1-800-422-6237).\nAbout the National Institutes of Health (NIH): NIH, the nation's medical research agency, includes 27 Institutes and Centers and is a component of the U.S. Department of Health and Human Services. NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both common and rare diseases. For more information about NIH and its programs, visit www.nih.gov.\nNIH…Turning Discovery Into Health®\nReference\nRyan J. Sullivan, Nicholas P. Tschernia, Claire F. Friedman et al. Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial. Nature Medicine. October 23, 2026. DOI: 10.1038/s41591-026-04711-0",
+    "autor_fonte": null,
+    "site_fonte": "National Institutes of Health (NIH)",
+    "imagem_url": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-10/20261023-scan.jpg?itok=wcP7jvLW",
+    "imagem_arquivo": "imagens/medicina-a-precision-t-cell-therapy-stalls-treatm.jpg",
+    "imagem_credito": "National Institutes of Health (NIH)",
+    "imagem_licenca": "Governo dos EUA — em geral domínio público; conferir",
+    "imagem_pagina": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": []
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "7d38a55218f1",
+      "titulo": "Surveying the genetic battlefield to uncover the rules of rapid evolution",
+      "url": "https://phys.org/news/2026-10-surveying-genetic-battlefield-uncover-rapid.html",
+      "resumo": "The Malik Lab thrives on competition. But for HHMI investigator Harmit Malik and his team at the Fred Hutchinson Cancer Center, it's the genomes—not the people—that are in conflict. The lab studies rapid evolution—the genetic changes that happen in a species over a few generations rather than thousands of years. These fast changes are often fueled by genetic conflicts—competitions between different entities trying to maximize their success at the expense of another.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-24T03:20:02+00:00",
+      "coletado_em": "2026-10-25T13:43:27.246441+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/surveying-the-genetic.jpg",
+      "score": 4.824,
+      "cobertura": []
+    },
+    "texto_fonte": "Surveying the genetic battlefield to uncover the rules of rapid evolution\nThe Malik Lab thrives on competition. But for HHMI investigator Harmit Malik and his team at the Fred Hutchinson Cancer Center, it's the genomes—not the people—that are in conflict. The lab studies rapid evolution—the genetic changes that happen in a species over a few generations rather than thousands of years. These fast changes are often fueled by genetic conflicts—competitions between different entities trying to maximize their success at the expense of another.\nBy uncovering the evolutionary rules that guide these conflicts, Malik and his team are revealing insights that could help in the development of better disease treatments.\n\"Not only do these rules help us to look back in evolution and understand how these arms races played out, but these rules also let us look forward and come up with new strategies,\" Malik says.\nDiscovering a viral thermometer\nOne of the competitions the lab studies is the conflict between mosquito-borne alphaviruses like Sindbis and chikungunya and their hosts. These viruses are successful at infecting both insects and humans despite the different body temperatures and immune systems of these hosts.\nThe team, including postdoc Tamanash Bhattacharya, recently uncovered a carefully calibrated system that helps enable this versatility. A special stop codon in the virus's genome, which signals the cell to halt protein production, enables a \"kinetic Goldilocks\": It allows the virus to produce just enough of a critical polyprotein to survive, but not too much to slow down other processes that would lead to a decline in the virus's fitness.\nIn humans, where body temperatures are hotter and replication happens quickly, the virus relies on this codon, called the opal codon, to enable this production balancing act. In mosquitoes, where temperatures are colder and replication slows down, this balancing act isn't necessary, and the virus does not need to rely on this special stop codon.\nHiding from the immune system\nThese insights led the team to another question: Why is the opal codon still found in alphaviruses that only infect mosquitoes, even though its special properties aren't needed?\nIn new research, also led by Bhattacharya, the team found that in both humans and insects, the opal codon enables the virus to create a compartment where it can replicate without being seen by the host's immune system. If the opal codon is lost, viral replication becomes more visible and more susceptible to host immunity.\n\"This is one of the simplest and most elegant ways to hide yourself from immunity, and the fact that it is universally conserved in alphaviruses just reinforces how important it is,\" Malik says.\nNow, the team is working to understand other built-in strategies these viruses use to thrive in different hosts, including the ability to quickly ramp up fitness in one host at the expense of the other.\n\"Learning the rules by which they do this gives us insight into the sheer adaptive possibilities that these genomes can experience,\" Malik says. \"That's important because any attempts to make new antivirals will have to take this into account.\"\nEvolution of essential genes\nIt might seem counterintuitive, but essential genes that organisms need to survive, grow and reproduce are often among the fastest evolving. The Malik Lab is uncovering these changes and why they occur.\nNew research, published in Science Advances and led by graduate student Jeremy Hollis, examines HJURP, a chaperon protein that marks the centromere, the site where chromosomes are pulled apart during cell division.\nDespite its importance, scientists couldn't find HJURP in many animals. The Malik Lab used remote homology detection, AlphaFold-based structural modeling and functional genetic techniques to show that most animals do have HJURP. Because the protein evolves so rapidly, possibly to keep pace with other fast-changing centromere components, conventional tools couldn't detect it.\nSeparate research, also published in Science Advances led by former postdoc Ching-Ho Chang, investigated Mst77F, a protamine that packages DNA in fruit fly sperm. Protamines, which are essential for male fertility, are among the fastest-evolving genes in animals, and scientists couldn't figure out why. The Malik Lab found that Mst77F is rapidly evolving to suppress a form of genetic cheating that kills X-bearing sperm and skews broods toward sons.\nPublication details\nChing-Ho Chang et al., Rapid protamine evolution suppresses meiotic drive in Drosophila, Science Advances (2026). DOI: 10.1126/sciadv.aeb5514\nJeremy A. Hollis et al., Remote homology and functional genetics unmask deeply preserved Scm3/HJURP orthologs in metazoans, Science Advances (2026). DOI: 10.1126/sciadv.aeg5356",
+    "autor_fonte": "Howard Hughes Medical Institute",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/surveying-the-genetic.jpg",
+    "imagem_arquivo": "imagens/biologia-surveying-the-genetic-battlefield-to-unc.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-10-surveying-genetic-battlefield-uncover-rapid.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "de090d5d93a9",
+      "titulo": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
+      "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+      "resumo": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe. The post Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-25T12:35:33+00:00",
+      "coletado_em": "2026-10-25T13:43:27.247436+00:00",
+      "imagem_feed": null,
+      "score": 5.273,
+      "cobertura": []
+    },
+    "texto_fonte": "Teradyne Robotics, the company behind Universal Robots and Mobile Industrial Robots, last week partnered with Sereact. The companies aim to accelerate industrial AI solutions in retail, logistics and manufacturing.\nThrough this partnership, Sereact’s Cortex physical AI platform runs robot arms from Universal Robots to give retailers and logistics providers a proven way to automate unstructured tasks such as returns handling and piece picking. Together, the companies have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe.\n“Physical AI only matters when it performs in real-world operations, and that is where Universal Robots has always been at home,” said Jacob Pascual Pape, the chief commercial officer of Teradyne Robotics. “Our robots are built for the AI era: open, connected, and proven through more than 100,000 industrial deployments. That is why Sereact has chosen our platform.”\n“When combined with Sereact’s Cortex, the joint solution handles mixed goods, unknown items, and varied packaging,” he added. “This has moved well beyond the demo or pilot stage with the technology now usefully deployed at real customer sites. Our technologies are a natural fit and through our partnership we will scale these AI-powered solutions fast across applications, industries and markets.”\nTo serve the rapidly growing demand and bring the joint solution to North America, Sereact this summer opened U.S. headquarters in Charlestown, Mass. The company develops physical AI software that enables robots to grasp, identify, and handle objects they have never seen before. The companies made the announcement at NVIDIA GTC Berlin 2026.\nTeradyne and Sereact already have deployments running\nTeradyne Robotics and Sereact said their joint offering can help a variety of critical logistics and manufacturing use cases. These include piece picking and sortation, order induction, machine tending, bin consolidation, kitting, packing, and goods handling.\n“Returns, replenishment, kitting — with Cortex, every one of these applications runs on the same production model. One brain serves every robot, with no retraining for each new item or task. And what one robot learns, every robot benefits from,” said Dr. Ralf Gulde, co-founder and CEO of Sereact. “Partnering with Teradyne Robotics and its global distribution and integrator network helps us bring that one brain to their customers around the world, accelerating the abilities of retailers and logistics providers to adopt AI-powered automation across their operations.”\nThe company is already deploying the system with CEVA Logistics for Zalando, a European technology platform for fashion and lifestyle. At Zalando’s fulfillment centers in Greven, Germany, and Świebodzin, Poland, the robots now autonomously process returned fashion items. This is the first phase of a broader initiative to scale returns automation across Europe.\n“Returns are one of the hardest jobs in logistics,” said Gulde. “Returned products almost never arrive in a robot-friendly sequence. Items differ in shape, orientation and packaging, and the mix changes continuously.”\n“That is exactly what Cortex is built to handle on the Universal Robots platform,” he said. ”By rapidly reconditioning returned goods for resale, the solution also helps retailers comply with European Union regulations prohibiting the destruction or landfill disposal of returned merchandise.”\nNVIDIA plays a role in the collaboration\nNVIDIA’s technologies are a key part of the Sereact and Universal Robots demonstration at GTC Berlin. Cortex is trained in NVIDIA Isaac Sim, an open simulation framework, using NVIDIA Cosmos open world models.\nIt is post-trained with reinforcement learning using NVIDIA Isaac Lab framework and benchmarked on Teradyne Robotics hardware before any model is deployed. In deployment, Cortex runs on NVIDIA Jetson Thor at the cell where inference must happen at line speed and on NVIDIA DGX Spark for site-level development, validation and model updates.\nTeradyne Robotics also uses NVIDIA computing in its Universal Robots cobots and Mobile Industrial Robot platforms. The company said it is contributing SimReady OpenUSD robot assets to SimReady Central Library on Hugging Face for both UR and MiR products, helping developers discover and reuse robot models in simulation with less asset preparation.",
+    "autor_fonte": "The Robot Report Staff",
+    "site_fonte": "The Robot Report",
+    "imagem_url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Sereact_UniversalRobots_Zalando-featured.jpg",
+    "imagem_arquivo": "imagens/robotica-teradyne-robotics-partners-with-sereact.jpg",
+    "imagem_credito": "The Robot Report",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "dd3e166ec0d8",
+      "titulo": "PingCAP Breach Exposes Customer Records and Source Code",
+      "url": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "PingCAP recently confirmed unauthorized access to its internal systems and the theft of source code and customer-related data. The attacker, cyber extortion group FulcrumSec, claimed to have stolen 10.6 TB of data, including TiDB Cloud control-plane records, customer SQL statements, API keys, connection logs, billing information, internal documents, and 413 private source-code repositories. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-25T06:27:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.247731+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/pingcap-cloud-data-breach/en/headerimage/generatedHeaderImage-1792787545089.jpg",
+      "score": 4.514,
+      "cobertura": []
+    },
+    "texto_fonte": "PingCAP recently confirmed unauthorized access to its internal systems and the theft of source code and customer-related data. The attacker, cyber extortion group FulcrumSec, claimed to have stolen 10.6 TB of data, including TiDB Cloud control-plane records, customer SQL statements, API keys, connection logs, billing information, internal documents, and 413 private source-code repositories. These claims have not been independently verified.\nFulcrumSec alleges that access continued undetected for many weeks and that some exposed credentials could provide access to customer systems. They write:\nWe possess the complete TiDB Cloud control plane, its billing and finance estate, its GCP storage estate and its AWS cost and billing estate, its Jira, its CRM, its analytics, its source code, and a four-year log of every connection every customer ever made to its product, from the IP addresses of their application servers.\nPingCAP is the company behind TiDB, the open-source distributed SQL database compatible with MySQL. Its incident report states:\nAn external incident response firm reviewed PingCAP’s production systems and found no evidence that the attacker ran commands or maintained persistent access in the systems reviewed. That finding does not change the data exposure described below. With support from outside counsel and third-party forensic specialists, there is no evidence that data stored in TiDB was impacted.\nPingCAP also confirmed that exported records included user names and email addresses, organization and project associations, and SQL editor text and errors, with some records also containing organization, project, and cluster identifiers.\nThe attacker claims to have obtained a complete copy of metadb, containing around 180K tenant organisations, almost 300K user records, including 166K real names, and over 400K unique email addresses. The data allegedly includes 115K console API keypairs, of which over 40K were active and the newest reportedly created hours before the attacker claims to have ended access. The group also says it obtained around 1800 external database endpoints from customer migration jobs, including root and admin accounts for customer MySQL and Aurora hosts.\nFulcrumSec alleges that PingCAP engineers paste customers’ production credentials into Jira tickets, with three logs reproduced in full and the corresponding tickets included in the initial release. Kim Barthel, director and founder of 42Sec, warns:\nThe PingCAP breach isn't really a database story. It's a story about one service-account key (...) PingCAP says it has no evidence that customer data stored in TiDB itself was touched. Good. But look at what did leak. Whoever has it knows who your engineers are, what you pay, when your contract renews, and what your schema looks like. That's everything needed for a phishing email you'd actually believe.\nThe breach highlights how cloud providers can inadvertently store sensitive customer data in query histories, support tickets, and diagnostic logs, leaving customers exposed even when their own databases remain uncompromised. In the article covering recommended customer actions, PingCAP recommends that customers replace active TiDB Cloud management API keys and remain alert to targeted phishing attempts.\nIn a popular Hacker News thread, practitioners question PingCAP's response, with some highlighting the attacker's allegation that it repeatedly exported the control-plane database without triggering detection for over a month. User dherls writes:\nIf true, this is next level incompetence from PingCap. Apparently the attackers set up a replication pipeline for a month?!\nReferring to the recent press release \"TiDB Opens Source Code to Independent Security Review, Strengthens Enterprise Trust Program,\" user xKingfisher notes:\nComing this close on the heels of the security audit by NCC is pretty embarrassing for all parties.\nThe allegedly exposed records reportedly include data associated with companies such as Booking.com, Shopee, Airbnb, Pinterest, Databricks, Atlassian, Fujitsu, SoftBank, and Baidu, but this does not confirm that these organizations were compromised. For example, Bitget, one of the cryptocurrency exchanges mentioned in the report, said its investigation found no evidence that user data had been exposed.\nFulcrumSec's first release consists of five tar.gz archives totalling 128.3 GB compressed and just over 200 GB uncompressed, out of a claimed 10.6 TB of data.",
+    "autor_fonte": "Renato Losio",
+    "site_fonte": "InfoQ",
+    "imagem_url": "https://res.infoq.com/news/2026/10/pingcap-cloud-data-breach/en/headerimage/generatedHeaderImage-1792787545089.jpg",
+    "imagem_arquivo": "imagens/software-pingcap-breach-exposes-customer-records.jpg",
+    "imagem_credito": "InfoQ",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "dc08ad2034f5",
+      "titulo": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "resumo": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and security tools for enterprise customers.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-25T13:00:00+00:00",
+      "coletado_em": "2026-10-25T13:43:27.248364+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/TwfFbH55Mt433hRvkWbSD5-1920-80.jpg",
+      "score": 5.618,
+      "cobertura": []
+    },
+    "texto_fonte": "Nvidia CEO Jensen Huang has put the annual cost of licensing the company’s AI software at around $2,000 per GPU to 'run all the software that Nvidia provides that runs agents on these AI factories,' according to a recent video of the comments (below), a pricing model that could generate $50 billion over five years under a proposed scenario involving five million paid licenses outlined by FourWeekMBA.\nHuang discussed the pricing at GTC Berlin on October 22, where the company outlined its broader push to build an AI infrastructure business spanning chips, software and AI-agent security. “Software licensing will become increasingly a major part of our company’s business. The way that we license will be…for example, it’s about $2,000 per GPU per year to run all the software that Nvidia provides that runs agents on these AI factories,” said Huang.\nThe numbers add up quickly. At $2,000 per GPU each year, Nvidia would bring in $10 billion annually if five million GPUs were covered by paid licenses. Over five years, that would amount to $50 billion, provided customers kept renewing their subscriptions. The catch, however, is that Nvidia has not disclosed how many GPUs could be covered by the proposed $2,000 fee, or whether that’s its standard price. It’s also unclear which software the license would cover, or if there is overlap between products.\nThe distinction matters because Nvidia already charges for enterprise software. Its AI Enterprise platform is listed at $4,500 per GPU for a one-year subscription. Huang’s reported $2,000 figure is lower, but Nvidia has not confirmed that the two prices cover the same products or licensing terms. It should not be treated as a confirmed price cut.\nThe licensing discussion comes as Nvidia develops more of the infrastructure needed to deploy and manage AI agents in enterprise environments. These systems can use tools, access data, and execute tasks, creating new security and management challenges for businesses running them at scale.\nOn October 21, Nvidia announced its OpenShell Reference Architecture, a system that combines its Vera Rubin computing infrastructure, Vera CPUs, and BlueField-4 data processing units (DPUs) running Nvidia Sentry. OpenShell provides a secure runtime for AI agents, establishing boundaries around their actions and access to tools and resources. Sentry monitors agent activity independently and can quarantine an agent that attempts to cross those boundaries, according to Nvidia. The architecture is designed to bring security controls into the underlying infrastructure rather than relying solely on safeguards built into an AI model or application.\nNvidia had previously introduced its Open Agent Safety Platform in September. The newer reference architecture builds on that effort, extending the approach to enterprise infrastructure and edge systems.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nOther companies are also incorporating these controls into their products. Anthropic is integrating OpenShell and BlueField hardware with Claude Managed Agents to give businesses additional control over what their AI agents can access inside execution sandboxes. Salesforce has developed a Slack Admin Bridge for OpenShell that lets administrators review agent access requests, approve or reject permissions, and monitor activity directly in Slack.\nThe proposed software pricing fits Huang’s wider argument that Nvidia is becoming more than a supplier of GPUs. The company has expanded into networking, systems, enterprise software, and infrastructure designed to run AI workloads. Speaking on the BG2Pod podcast recently, Huang said, “One of these days, people might not categorize us as a chip company anymore.” He pointed to Nvidia’s presence across industries including healthcare, automotive, telecommunications and life sciences, where the company provides broader technology stacks rather than chips alone.\nThat said, Nvidia has not said when the $2,000-per-GPU fee would take effect or which software it would cover. It also remains unclear how the proposed pricing would fit into the company’s existing enterprise software business.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nNewton Gitonga is a tech journalist covering gadgets, PC hardware, AI, data centers, and the wider tech industry. His interest in technology started early, taking apart things around the house to see how they worked, often to his dad’s frustration. His curiosity sometimes got the better of him, including a few failed attempts to fix laptops, one of them a gifted Dell XPS. He has previously written for Notebookcheck, ZyCrypto, CoinCentral, and Crypto News Flash.",
+    "autor_fonte": "Newton Gitonga",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/TwfFbH55Mt433hRvkWbSD5-1280-80.jpg",
+    "imagem_arquivo": "imagens/hardware-nvidia-discusses-2-000-per-gpu-annual-fe.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "bee12aa6ed27",
+      "titulo": "Three giant black holes discovered in a galaxy from the dawn of time",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+      "resumo": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lurks farther away. One weighs an astonishing 80 million suns, and another is growing faster than conventional theories predict.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-25T12:07:01+00:00",
+      "coletado_em": "2026-10-25T13:43:27.249225+00:00",
+      "imagem_feed": null,
+      "score": 5.223,
+      "cobertura": []
+    },
+    "texto_fonte": "Three giant black holes discovered in a galaxy from the dawn of time\n- Date:\n- October 25, 2026\n- Source:\n- Max Planck Institute for Extraterrestrial Physics, Garching\n- Summary:\n- Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universeâs infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lurks farther away. One weighs an astonishing 80 million suns, and another is growing faster than conventional theories predict.\n- Share:\nAstronomers have discovered three actively feeding supermassive black holes in a single galaxy more than 12.5 billion light-years from Earth. The finding, made by an international research team led by the Max Planck Institute for Extraterrestrial Physics (MPE), offers a rare glimpse of how enormous black holes grew and interacted during the universe's earliest stages.\nThe black holes are located in a galaxy known as J0148-4214. All three are actively accumulating matter, which spirals toward them through surrounding disks of gas and other material. Because the galaxy is so distant, its light has traveled through space for approximately 12.5 billion years before reaching Earth. This means astronomers are observing it as it existed just 1.2 billion years after the Big Bang.\nOver such vast distances, the expansion of the universe stretches light to longer, redder wavelengths. Astronomers measure this effect through a property called redshift. For J0148-4214, the researchers measured a redshift of z=5.02, allowing them to determine its remarkable distance.\nThree Black Holes in One Ancient Galaxy\n\"This is the first evidence of three active black holes in a single galaxy in the distant Universe,\" says Hannah Übler, research group leader at MPE and lead author of the study.\nTwo of the black holes lie near the galaxy's center, separated by a projected distance of just 620 light-years. The third is much farther out, approximately 5,500 light-years from the center.\nThe discovery provides important evidence about how massive black holes came together in the young universe.\n\"It suggests that processes in the early Universe were efficient at bringing massive black holes together, setting the stage for the massive black hole mergers we expect to detect with future gravitational wave observatories,\" says Übler.\nAstronomers believe that galaxy collisions and mergers were common during the universe's early history. As galaxies combined, their central black holes could also move closer together and eventually merge. These mergers would produce increasingly massive black holes at the centers of the newly formed galaxies, potentially helping explain how some grew to enormous sizes so soon after the Big Bang.\nHow Astronomers Detected the Hidden Black Holes\nThe researchers identified the three black holes by examining distinctive patterns in the light emitted by hydrogen gas. Near a black hole, powerful gravitational forces cause gas to move at extremely high speeds. These movements leave recognizable signatures in the spectrum of light, allowing astronomers to detect black hole activity even when the objects themselves cannot be seen directly.\nIn the center of J0148-4214, the team found a particularly complicated hydrogen emission pattern. The best explanation was the presence of two closely spaced black holes rather than a single source.\nTo distinguish between them, the scientists used a precise measurement technique called spectro-astrometry. By tracking subtle changes in the positions of spectral emissions across the galaxy, they were able to identify the locations of both central black holes, even though the telescope could not resolve them as two separate points of light.\nThe observations also revealed the third active black hole in the galaxy's outer region.\nThree Black Holes With Remarkably Different Masses\nThe three black holes vary dramatically in size. According to the researchers' calculations, their masses are approximately 80 million, 600,000, and 2 million times that of the Sun.\nSurprisingly, the largest black hole is not the one feeding most aggressively. Its smaller neighbor, with a mass of roughly 600,000 suns, is accumulating matter at a much higher rate. In fact, its estimated feeding rate exceeds the maximum predicted by basic models of black hole growth (the Eddington limit).\nThis unusually rapid growth may offer clues to how some black holes became extraordinarily massive during the relatively short time available in the early universe.\n\"The JWST data allowed us not only to identify the three black holes, but also to estimate their masses, accretion rates, and the stellar mass of the galaxy,\" says Dr. Giovanni Mazzolari, second author of the study and researcher at MPE. \"We find a total stellar mass of about 1.3 billion suns, and the black holes represent a significant fraction of that.\"\nAn Ancient Black Hole Merger in the Making\nThe two black holes near the galaxy's center are expected to merge within the next few hundred million years. Their eventual collision could help produce an even more massive black hole, illustrating a process that may have been essential to the growth of the universe's earliest cosmic giants.\n\"These results are extremely exciting,\" adds Roberto Maiolino, professor at the University of Cambridge and co-author of the study. \"They suggest that black hole merging may be an additional, fast route for their rapid growth in the early Universe.\"\nThe third black hole presents another intriguing puzzle. Located well outside the galaxy's center, it could be a remnant of an earlier merger that was pushed outward by a powerful gravitational recoil. Such a kick can occur when merging black holes emit gravitational waves unevenly, sending the resulting black hole in the opposite direction.\nAnother possibility is that the third black hole is gradually moving toward the galaxy's center, where it may eventually interact with the other two.\nJames Webb Reveals Black Holes That Might Otherwise Remain Hidden\nThe discovery highlights the remarkable capabilities of the James Webb Space Telescope (JWST) for studying black holes in distant galaxies.\nIn particular, the findings demonstrate the importance of integral field spectroscopy, which allows astronomers to examine how light and its spectral signatures vary across different parts of a galaxy.\nUsing Webb's Near Infrared Spectrograph in its integral field spectroscopy mode (NIRSpec-IFS), the researchers were able to separate signals that would otherwise have appeared to come from a single black hole.\nWithout that detailed spatial information, astronomers likely would have identified only one of the galaxy's three active black holes.\nThe results suggest that other distant galaxies may contain multiple growing black holes that have gone undetected. Finding more of these hidden systems could help scientists reconstruct the history of black hole mergers and better understand how the universe produced its most massive black holes so early in cosmic history.\nStory Source:\nMaterials provided by Max Planck Institute for Extraterrestrial Physics, Garching. Note: Content may be edited for style and length.\nJournal Reference:\n- Hannah Ãbler, Giovanni Mazzolari, Roberto Maiolino, Francesco DâEugenio, Nazanin Davari, Ignas JuodÅ¾balis, Michele Perna, Jorryt Matthee, Raffaella Schneider, Rosa Valiante, Santiago Arribas, Elena Bertola, Andrew J. Bunker, Volker Bromm, Stefano Carniani, StÃ©phane Charlot, Giovanni Cresci, Mirko Curti, Richard Davies, Frank Eisenhauer, Andrew Fabian, Natascha M. FÃ¶rster Schreiber, Reinhard Genzel, Kohei Inayoshi, Lucy R. Ivey, Gareth C. Jones, Boyuan Liu, Dieter Lutz, Daichi Kashino, Ruari Mackenzie, Eleonora Parlanti, Brant Robertson, Bruno RodrÃguez del Pino, T. Taro Shimizu, Debora Sijacki, Eckhard Sturm, Sandro Tacchella, Linda Tacconi, Giulia Tozzi, Alessandro Trinca, Giacomo Venturi, Marta Volonteri, Chris Willott, Saiyang Zhang. BlackTHUNDER: Evidence of three massive black holes in a z â¼ 5 galaxy. Astronomy, 2026; 712: A80 DOI: 10.1051/0004-6361/202557419\nCite This Page:",
+    "autor_fonte": null,
+    "site_fonte": "ScienceDaily",
+    "imagem_url": "https://www.sciencedaily.com/images/1920/galaxy-with-three-supermassive-black-holes.webp",
+    "imagem_arquivo": "imagens/astrofisica-three-giant-black-holes-discovered-in-a.jpg",
+    "imagem_credito": "ScienceDaily",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "2ee31f3d9c92",
+      "titulo": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+      "resumo": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments of root, of interface.",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-25T12:00:02+00:00",
+      "coletado_em": "2026-10-25T13:43:27.250281+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=980",
+      "score": 4.81,
+      "cobertura": []
+    },
+    "texto_fonte": "I step into the warm moist air\namong the columns of the pines,\ntheir net of twigs and roots\ncomplex as any lines of code.\nThe trees purify and anchor.\nTheir branches balance my restlessness.\nTheir calling is to be present,\nmine to develop apps. Our tasks\nverge toward a common logic:\nliving filaments of root, of interface. \nRalph Earle joined the IBM Software Lab in Raleigh, N.C., in 1990 as a technical editor and retired as a senior software engineer in 2017. While at IBM, he coauthored Enterprise Computing with Objects: From Client/Server Environments to the Internet for Addison-Wesley’s Bloch-Jacobson-Rumbaugh Object Technology Series, and he published articles in technical journals, including IEEE Computer Magazine, IBM Systems Journal, Distributed Computing, Management Directions, and Object Magazine.\nIn retirement, Earle has flourished in a second career as a poet. His poetry collections are Everything You Love Is New (Redhawk Publications, 2024) and The Way the Rain Works (Sable Books, 2015). He has been nominated for the Pushcart Prize three times and comanages a monthly poetry series at a Chapel Hill, N.C., bookstore. His poems have appeared in many print and online outlets, including The Sun, Carolina Quarterly, and Sufi Journal.",
+    "autor_fonte": "Ralph Earle",
+    "site_fonte": "IEEE Spectrum",
+    "imagem_url": "https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=1200&height=600&coordinates=0%2C144%2C0%2C144",
+    "imagem_arquivo": "imagens/quantica-poetry-for-engineers-of-code-and-shortle.jpg",
+    "imagem_credito": "IEEE Spectrum",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "e4f1d7cbec50",
+      "titulo": "Para que serve a porta de 2.5G no roteador que você tem em casa?",
+      "url": "https://canaltech.com.br/hardware/para-que-serve-a-porta-de-25g-no-roteador/",
+      "resumo": "Se você trocou de roteador nos últimos anos ou contratou um plano de internet mais veloz, provavelmente reparou que uma das portas de rede na traseira do equipamento tem uma marcação diferente. Além das conexões amarelas ou pretas tradicionais, surge uma entrada destacada com a inscrição \"2.5G\" ou \"2.5GbE\" , despertando a dúvida sobre qual dispositivo deve ser conectado ali para aproveitar o máximo desempenho. Essa porta sinaliza que o equipamento está pronto para a rede multi-gigabit. Enquanto a porta Ethernet Gigabit padrão limita a transferência de dados via cabo a 1 Gbps (cerca de 125 MB/s), a conexão 2.5G permite alcançar taxas de até 2,5 Gbps . Trata-se de uma evolução de 150% na largura de banda disponível, pensada para eliminar gargalos em conexões de alta velocidade e redes locais exigentes. O que é necessário para aproveitar os 2,5 Gbps? Para usufruir da taxa de transferência de 2,5 Gbps em um dispositivo específico, não basta apenas ter a porta disponível no roteador. É fundamental que o computador ( através da placa-mãe ) , notebook ou servidor conectado do outro lado da ponta também possua uma placa de rede compatível com o padrão 2.5GbE . Se o limite for 1 Gbps, a con",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-25T12:30:06+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/PMhNxTOGiNg3o7ItLPmIFfQrgH0=/0x0/filters:format(webp):quality(85)/354e7c18-2701-43c8-bd1c-103d4fdac062.JPG",
+      "score": 5.964,
+      "cobertura": []
+    },
+    "texto_fonte": "Para que serve a porta de 2.5G no roteador que você tem em casa?\nPor Raphael Giannotti |\nSe você trocou de roteador nos últimos anos ou contratou um plano de internet mais veloz, provavelmente reparou que uma das portas de rede na traseira do equipamento tem uma marcação diferente. Além das conexões amarelas ou pretas tradicionais, surge uma entrada destacada com a inscrição \"2.5G\" ou \"2.5GbE\", despertando a dúvida sobre qual dispositivo deve ser conectado ali para aproveitar o máximo desempenho.\nEssa porta sinaliza que o equipamento está pronto para a rede multi-gigabit. Enquanto a porta Ethernet Gigabit padrão limita a transferência de dados via cabo a 1 Gbps (cerca de 125 MB/s), a conexão 2.5G permite alcançar taxas de até 2,5 Gbps. Trata-se de uma evolução de 150% na largura de banda disponível, pensada para eliminar gargalos em conexões de alta velocidade e redes locais exigentes.\nO que é necessário para aproveitar os 2,5 Gbps?\nPara usufruir da taxa de transferência de 2,5 Gbps em um dispositivo específico, não basta apenas ter a porta disponível no roteador. É fundamental que o computador (através da placa-mãe), notebook ou servidor conectado do outro lado da ponta também possua uma placa de rede compatível com o padrão 2.5GbE.\nSe o limite for 1 Gbps, a conexão funcionará normalmente, mas ficará travada na velocidade do componente mais lento.\nO cabeamento de rede é outro fator determinante no resultado final. A boa notícia é que o padrão 2.5G foi desenvolvido para ser flexível: ele consegue entregar sua velocidade máxima utilizando cabos Ethernet Cat5e ou superior em distâncias de até 100 metros. Ou seja, na maioria dos casos não é necessário trocar a fiação, desde que os cabos estejam bem crimpados.\nTransferência de arquivos pesados em LAN\nO benefício de uma porta 2.5G vai além da velocidade da internet externa e se reflete também na comunicação entre dispositivos da rede doméstica. Se você utiliza um servidor de armazenamento conectado à rede, uma máquina dedicada para backup ou trabalha com edição de vídeo em rede, a velocidade de 2.5 Gbps reduz significativamente o tempo de espera no envio de arquivos pesados.\nNesse cenário de rede local, é possível transferir dados a velocidades reais que superam os 280 MB/s. Isso permite editar projetos de vídeo em alta resolução diretamente do servidor de arquivos ou realizar backups completos de drives de sistema em questão de minutos, sem engasgar o tráfego dos demais moradores da casa.\nJogos online e streaming\nExiste um mito recorrente de que conectar o PC gamer ou o console na porta 2.5G vai reduzir drasticamente o ping nos jogos online ou melhorar a qualidade do streaming na Netflix. Na prática, títulos competitivos e streaming em 4K exigem pouca largura de banda bruta para rodar; a estabilidade e a latência importam muito mais do que a velocidade de pico.\nA real vantagem da porta 2.5G para o público gamer e entusiasta está no download de jogos modernos e atualizações gigantescas. Títulos que ultrapassam os 100 GB podem ser baixados em poucos minutos quando a conexão multi-gigabit é combinada com um SSD NVMe rápido e uma distribuição de banda sem gargalos no roteador.",
+    "autor_fonte": "Raphael Giannotti",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/Ph0lDFPe0ZPLhaY3xnrVRtzMNrw=/1200x675/smart/filters:format(webp):quality(85)/95b72378-ac09-40f2-b201-a5aa6655af10.jpg",
+    "imagem_arquivo": "imagens/computadores_pessoais-para-que-serve-a-porta-de-2-5g-no-rotead.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/hardware/para-que-serve-a-porta-de-25g-no-roteador/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "22790add1dc2",
+      "titulo": "Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers",
+      "url": "https://olhardigital.com.br/2026/10/25/inteligencia-artificial/moonshot-limita-capacidades-de-seu-modelo-de-ia-mais-avancado-para-evitar-ataques-hackers/",
+      "resumo": "A startup chinesa Moonshot AI anunciou neste fim de semana que reduziu as capacidades ciberofensivas de seu mais novo modelo de inteligência artificial. O post Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-25T12:20:27+00:00",
+      "coletado_em": "2026-10-25T13:43:27.253459+00:00",
+      "imagem_feed": null,
+      "score": 5.796,
+      "cobertura": []
+    },
+    "texto_fonte": "A startup chinesa Moonshot AI anunciou que reduziu algumas das capacidades de seu mais novo modelo de inteligência artificial, o Kimi K3.1 Pro. A decisão foi tomada em meio a preocupações crescentes sobre o uso da IA para tornar ataques hackers mais sofisticados e baratos.\nCom sede em Pequim, a empresa descreve a ferramenta como o seu modelo aberto mais avançado até o momento. Por essa configuração, ela permite que desenvolvedores externos executem e modifiquem a IA em seus próprios sistemas.\nModelo não perdeu capacidades gerais\n- Para limitar o uso indevido da ferramenta, a Moonshot removeu dados relacionados a ciberataques do corpo de treinamento e dos ambientes de aprendizado por reforço usados no desenvolvimento do modelo.\n- Segundo a empresa, essa decisão impede usos indevidos, ao mesmo tempo em que protege as habilidades gerais de programação.\n- Os efeitos dessa filtragem foram medidos por um benchmark interno de cibersegurança: o K3.1 Pro obteve 81,0% no teste, contra 90,5% de uma versão equivalente sem as medidas de redução de risco.\n- O teste consistia em encontrar e explorar vulnerabilidades de software em ambiente controlado.\n- A Moonshot afirma que o resultado demonstra que a filtragem reduziu o desempenho ofensivo do modelo, embora ele ainda supere seu antecessor.\n- Os resultados não foram verificados de forma independente.\nOs desafios da IA aberta\nApesar da medida, a empresa chinesa reconhece que modelos abertos apresentam desafios específicos de controle. Ao contrário de sistemas fechados, como os da OpenAI e Anthropic, uma vez que os arquivos são amplamente distribuídos, o desenvolvedor original passa a ter menos capacidade de restringir o acesso, monitorar o uso ou atualizar as salvaguardas do que teria com um serviço hospedado centralmente.\nA Moonshot argumenta, por outro lado, que modelos abertos podem contribuir para a segurança digital ao permitir que mais organizações inspecionem e protejam seus próprios softwares, incluindo sistemas mais antigos que recebem pouca atenção.\nA preocupação com o uso de IA em ataques cibernéticos ganhou contornos regulatórios recentes. Na semana passada, a China propôs controles de exportação que proibiriam o envio ao exterior de tecnologias de geração de malware baseadas em IA, além de restringir ferramentas de descoberta de vulnerabilidades assistidas por inteligência artificial.\nAs medidas citam o risco de que tais capacidades sejam usadas contra infraestrutura crítica, sistemas de defesa industrial e governamentais, ou para contornar proteções de segurança.",
+    "autor_fonte": "Alessandro Di Lorenzo",
+    "site_fonte": "Olhar Digital",
+    "imagem_url": "https://olhardigital.com.br/wp-content/uploads/2026/07/kimi-moonshot-inteligencia-artificial-ia-ai-china-scaled.jpg",
+    "imagem_arquivo": "imagens/inteligencia_artificial-moonshot-limita-capacidades-de-seu-model.jpg",
+    "imagem_credito": "Olhar Digital",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://olhardigital.com.br/2026/10/25/inteligencia-artificial/moonshot-limita-capacidades-de-seu-modelo-de-ia-mais-avancado-para-evitar-ataques-hackers/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "7ae1be1c0fc9",
+      "titulo": "Posso deixar o carro elétrico carregando a noite toda?",
+      "url": "https://canaltech.com.br/carros/posso-deixar-o-carro-eletrico-carregando-a-noite-toda/",
+      "resumo": "Quem compra um carro elétrico costuma ter uma dúvida logo nos primeiros dias de uso: é seguro deixar o veículo carregando durante toda a noite ? A preocupação é compreensível, principalmente porque muitos consumidores fazem uma associação com celulares e notebooks , que durante anos ficaram conhecidos pelo risco de \"viciar\" a bateria . Nos EVs modernos , porém, o funcionamento é bastante diferente . Os modelos contam com sistemas eletrônicos desenvolvidos justamente para monitorar o processo de recarga e proteger a bateria contra situações que possam comprometer sua vida útil. Fabricantes como BYD , Chevrolet, Hyundai, Volvo e Tesla orientam que o carregamento residencial faz parte da rotina normal de utilização do veículo. Na prática, deixar o carro conectado durante a madrugada é um dos cenários previstos pelos próprios projetos de engenharia, desde que sejam utilizados equipamentos adequados e instalados corretamente. Sistema do carro interrompe recarga automaticamente Ao contrário do que muitos imaginam, a bateria não continua recebendo energia indefinidamente após atingir a carga programada. Os carros elétricos utilizam um sistema chamado Battery Management System (BMS) , resp",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-25T12:05:03+00:00",
+      "coletado_em": "2026-10-25T13:43:27.255200+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/AIOf08rmDJ9IQA0G8nKYA2jY7v8=/0x0/filters:format(webp):quality(85)/bc1cffe2-fefb-4f90-b4d1-ac673d3ad2af.jpg",
+      "score": 4.919,
+      "cobertura": []
+    },
+    "texto_fonte": "Posso deixar o carro elétrico carregando a noite toda?\nPor Paulo Amaral |\nQuem compra um carro elétrico costuma ter uma dúvida logo nos primeiros dias de uso: é seguro deixar o veículo carregando durante toda a noite? A preocupação é compreensível, principalmente porque muitos consumidores fazem uma associação com celulares e notebooks, que durante anos ficaram conhecidos pelo risco de \"viciar\" a bateria.\nNos EVs modernos, porém, o funcionamento é bastante diferente. Os modelos contam com sistemas eletrônicos desenvolvidos justamente para monitorar o processo de recarga e proteger a bateria contra situações que possam comprometer sua vida útil.\nFabricantes como BYD, Chevrolet, Hyundai, Volvo e Tesla orientam que o carregamento residencial faz parte da rotina normal de utilização do veículo. Na prática, deixar o carro conectado durante a madrugada é um dos cenários previstos pelos próprios projetos de engenharia, desde que sejam utilizados equipamentos adequados e instalados corretamente.\nSistema do carro interrompe recarga automaticamente\nAo contrário do que muitos imaginam, a bateria não continua recebendo energia indefinidamente após atingir a carga programada. Os carros elétricos utilizam um sistema chamado Battery Management System (BMS), responsável por controlar tensão, temperatura, corrente elétrica e o estado de carga de cada conjunto de células. Quando a bateria alcança o nível estabelecido pelo fabricante ou pelo motorista, o BMS interrompe automaticamente a recarga.\nAlém de encerrar o carregamento, esse gerenciamento eletrônico também protege a bateria contra superaquecimento, sobrecarga e descarga excessiva. Por isso, desde que a instalação elétrica esteja dentro das especificações e o carregador seja homologado, manter o veículo conectado durante a noite não representa risco adicional para a bateria nem para o sistema elétrico do automóvel.\nCarregar até 100% todos os dias é outra história\nEmbora deixar o carro conectado seja considerado seguro, isso não significa que utilizar sempre 100% da capacidade da bateria seja a estratégia mais indicada. Tesla, Volvo e Hyundai recomendam, para o uso diário, limitar a recarga entre aproximadamente 80% e 90% quando o veículo utiliza baterias de níquel (NMC), reservando os 100% para viagens ou situações específicas.\nJá alguns modelos equipados com baterias de fosfato de ferro-lítio (LFP), como versões do BYD Dolphin Mini, possuem características diferentes. Nesses casos, os próprios fabricantes recomendam realizar recargas completas periodicamente para que o sistema de gerenciamento mantenha a calibração correta da estimativa de autonomia.",
+    "autor_fonte": "Paulo Amaral",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/wAOja_tvH78GZngJFM5MA4GoylA=/1200x675/smart/filters:format(webp):quality(85)/ead83a3a-7915-4501-a2ff-e3c3d7a546bc.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-posso-deixar-o-carro-eletrico-carregando.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/carros/posso-deixar-o-carro-eletrico-carregando-a-noite-toda/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]
