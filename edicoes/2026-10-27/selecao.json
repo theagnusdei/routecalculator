@@ -1,0 +1,747 @@
+{
+  "medicina": [
+    {
+      "id": "22fa798280f1",
+      "titulo": "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
+      "url": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
+      "resumo": "A Phase 3 trial of a targeted drug developed by Merck and China’s Kelun-Biotech cut by one-third the risk of death in patients with advanced endometrial cancer.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-26T15:30:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.442031+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2024/03/AdobeStock_421143532_Editorial_Use_Only-1024x576.jpeg",
+      "score": 6.777,
+      "cobertura": []
+    },
+    {
+      "id": "d94b20186a63",
+      "titulo": "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
+      "url": "https://www.statnews.com/2026/10/26/incyte-esmo-pancreatic-cancer-incb161734-results/?utm_campaign=rss",
+      "resumo": "A targeted drug from Incyte, when used in combination with chemotherapy, induced lasting tumor responses in certain patients with pancreatic cancer",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-26T13:57:14+00:00",
+      "coletado_em": "2026-10-26T14:09:47.252503+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2023/08/31133231923_f179fd9d6d_o-1024x576.jpg",
+      "score": 6.613,
+      "cobertura": []
+    },
+    {
+      "id": "dc03132c28f7",
+      "titulo": "STAT+: Pharmalittle: We’re reading about a Roche lung cancer drug, a Bristol CAR-T trial death, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/26/roche-lung-cancer-drug-patient-death-in-bristol-trial/?utm_campaign=rss",
+      "resumo": "Bristol Myers Squibb reported that one patient died after receiving its investigational CAR-T therapy in an early autoimmune trial",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-26T13:37:51+00:00",
+      "coletado_em": "2026-10-26T14:09:47.252503+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "score": 6.58,
+      "cobertura": []
+    },
+    {
+      "id": "64eab4a37f07",
+      "titulo": "Immunotherapy combination extends survival in advanced endometrial cancer",
+      "url": "https://medicalxpress.com/news/2026-10-immunotherapy-combination-survival-advanced-endometrial.html",
+      "resumo": "An immunotherapy-based regimen combining durvalumab and the PARP inhibitor olaparib demonstrated encouraging long-term survival outcomes for patients with advanced or recurrent endometrial cancer, according to new trial results presented by researchers from The University of Texas MD Anderson Cancer Center.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-26T15:40:10+00:00",
+      "coletado_em": "2026-10-26T16:08:31.441224+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/clinical-trial.jpg",
+      "score": 6.496,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "010e293b7a56",
+      "titulo": "Protein fibers, a hallmark of Alzheimer's, spotted making genetic deliveries to sperm cells",
+      "url": "https://phys.org/news/2026-10-protein-fibers-hallmark-alzheimer-genetic.html",
+      "resumo": "Unexpectedly, a kind of protein that is usually linked with diseases in the brain may play a vital role in semen, helping shepherd genetic material into sperm cells, scientists at Columbia's Zuckerman Institute report in the journal Molecular Cell.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-26T15:00:04+00:00",
+      "coletado_em": "2026-10-26T16:08:31.442433+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-fibers-a-hallm.jpg",
+      "score": 5.922,
+      "cobertura": []
+    },
+    {
+      "id": "8dec7e2f9159",
+      "titulo": "RNA archiving method reveals what a cell did days ago",
+      "url": "https://phys.org/news/2026-10-rna-archiving-method-reveals-cell.html",
+      "resumo": "Information on what a cell did a few hours or days ago is generally unavailable to researchers, who can only measure the cell's current status. This is a problem if the aim is to understand how immune responses arise or why individual cancer cells survive treatment.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-26T14:40:05+00:00",
+      "coletado_em": "2026-10-26T16:08:31.442433+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-reveals-wha.jpg",
+      "score": 5.887,
+      "cobertura": []
+    },
+    {
+      "id": "c1acbe2ae048",
+      "titulo": "Researchers improve RNA extraction from precision-cut lung slices",
+      "url": "https://phys.org/news/2026-10-rna-precision-lung-slices.html",
+      "resumo": "Precision-cut lung slices allow researchers to study living human lung tissue outside the body, preserving the different cell types and structures that make up the organ. But a material that helps scientists create these slices can also make it difficult to study the genetic activity within them.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-26T13:00:01+00:00",
+      "coletado_em": "2026-10-26T14:09:47.252962+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/lung.jpg",
+      "score": 5.718,
+      "cobertura": []
+    },
+    {
+      "id": "bb875cd60947",
+      "titulo": "Japan's largest marine DNA study detects 126 fish species farther north than previously recorded",
+      "url": "https://phys.org/news/2026-10-japan-largest-marine-dna-fish.html",
+      "resumo": "As climate change reshapes habitats both on land and at sea, you might go to the beach one day, only to find yourself in a place that looks nothing like you remember, around sea creatures you don't recognize.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-26T16:00:12+00:00",
+      "coletado_em": "2026-10-26T16:08:31.442433+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/japans-largest-marine-1.jpg",
+      "score": 5.534,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "3fe59a9c58ee",
+      "titulo": "Riva da BYD apresenta novos SUVs híbridos com IA e foco off-road",
+      "url": "https://canaltech.com.br/carros/riva-da-byd-apresenta-novos-suvs-hibridos-com-ia-e-foco-off-road/",
+      "resumo": "A chinesa Jetour reuniu milhares de convidados em Wuhu, na China, para apresentar seus novos modelos e inovações para o futuro da mobilidade no Jetour Global Technology Experience Day. Durante o evento, a marca do grupo Chery trouxe aplicações de inteligência artificial, robótica e novas arquiteturas veiculares que devem equipar os futuros lançamentos do grupo — incluindo mercados internacionais, como o Brasil . Na prática, o encontro foi como uma vitrine para a ofensiva tecnológica da montadora , que quer oferecer soluções de recarga bidirecional (V2G) , ecossistemas de energia solar integrados e projetos de condução autônoma com frotas de Robotaxis desenvolvidas em parceria com a AiMOGA Robotics. O destaque automotivo ficou por conta da evolução das famílias de SUVs T e G , focadas em alto desempenho fora de estrada sem abrir mão do conforto para o uso urbano. A série T, por exemplo, aposta no sistema híbrido C-DM Super Hybrid combinado à tração integral inteligente XWD , além de modos de condução off-road programáveis com gerenciamento eletrônico ativo. Lançamentos da Jetour A série G, por sua vez, adota como pilar a nova arquitetura GAIA , desenvolvida sob medida para encarar d",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial",
+        "robotica"
+      ],
+      "publicado": "2026-10-26T14:00:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.271899+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/FiyTPwrvYLcUK7fW6X4UaMbi4G8=/0x0/filters:format(webp):quality(85)/78b4e6d4-4ee9-4665-acfe-af1d0dba6324.png",
+      "score": 5.367,
+      "cobertura": []
+    },
+    {
+      "id": "24600ed8f1e7",
+      "titulo": "Agility and GXO Logistics plan expanded deployment of Digit humanoid",
+      "url": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
+      "resumo": "GXO Logistics, which has tested humanoid robots from multiple companies, will deploy Agility's Digit at two more sites. The post Agility and GXO Logistics plan expanded deployment of Digit humanoid appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-26T14:05:21+00:00",
+      "coletado_em": "2026-10-26T16:08:31.443978+00:00",
+      "imagem_feed": null,
+      "score": 5.176,
+      "cobertura": []
+    },
+    {
+      "id": "c68af551aa0a",
+      "titulo": "Robotic dog controlled with a computer powered by human blood cells",
+      "url": "https://www.newscientist.com/article/2594537-robotic-dog-controlled-with-a-computer-powered-by-human-blood-cells/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "A start-up has already used a biological computer to play Pong, and now the firm says the technology can be used to control robots",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica",
+        "biologia",
+        "robotica"
+      ],
+      "publicado": "2026-10-26T14:00:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.297180+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318277800.jpg",
+      "score": 5.117,
+      "cobertura": []
+    },
+    {
+      "id": "de090d5d93a9",
+      "titulo": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
+      "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+      "resumo": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe. The post Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-25T12:35:33+00:00",
+      "coletado_em": "2026-10-26T14:09:47.254659+00:00",
+      "imagem_feed": null,
+      "score": 3.807,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "2d9ca5adaf20",
+      "titulo": "Microsoft amplia prazo para encontrar comprador da Arkane Lyon, estúdio de Marvel’s Blade",
+      "url": "https://olhardigital.com.br/2026/10/26/games-e-consoles/microsoft-amplia-prazo-para-vender-arkane-lyon-estudio-de-marvels-blade/",
+      "resumo": "Responsável por Dishonored e Deathloop, desenvolvedora francesa enfrenta risco de fechamento enquanto continua trabalhando no jogo do caçador de vampiros da Marvel O post Microsoft amplia prazo para encontrar comprador da Arkane Lyon, estúdio de Marvel’s Blade apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-26T15:10:19+00:00",
+      "coletado_em": "2026-10-26T16:08:31.459609+00:00",
+      "imagem_feed": null,
+      "score": 5.341,
+      "cobertura": [
+        "https://canaltech.com.br/games/salvacao-para-blade-microsoft-busca-comprador-para-evitar-fechamento-da-arkane-lyon/"
+      ]
+    },
+    {
+      "id": "e1b7b4738640",
+      "titulo": "Cloudflare’s Auto Router Rates Each Request for Stakes, from the Most Recent Turns",
+      "url": "https://www.infoq.com/news/2026/10/cloudflare-auto-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Cloudflare has released Auto Router in public beta through AI Gateway, picking a model per request from a classifier that scores complexity, ambiguity, stakes and context dependence. Cloudflare’s own benchmark puts it ten points below Claude Opus 5.5 on success rate at a third of the cost, and practitioners have questioned how stakes survive a long agent session. By Steef-Jan Wiggers",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-26T10:20:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.255023+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/cloudflare-auto-router/en/headerimage/generatedHeaderImage-1792492628413.jpg",
+      "score": 5.13,
+      "cobertura": []
+    },
+    {
+      "id": "4d9eea9accc3",
+      "titulo": "Salvação para Blade? Microsoft busca comprador para evitar fechamento da Arkane Lyon",
+      "url": "https://canaltech.com.br/games/salvacao-para-blade-microsoft-busca-comprador-para-evitar-fechamento-da-arkane-lyon/",
+      "resumo": "A Microsoft prorrogou por mais um mês o prazo para encontrar um investidor para a Arkane Lyon . Conforme reportagem do site francês Le Monde, o estúdio seria encerrado em 13 de novembro. Contudo, a empresa foi pressionada por sindicados para adiar o fechamento em 30 dias na tentativa de encontrar um comprador para a desenvolvedora . Em julho deste ano, a CEO do XBOX, Asha Sharma, anunciou uma reestruturação nos estúdios da divisão que resultaria em 3,2 mil demissões . Como parte das mudanças, a Double Fine Productions, a Compulsion Games e a Undead Labs se tornaram independentes, enquanto a Ninja Theory falhou em encontrar um comprador e fechará as portas . Após 10 dias do anúncio de Sharma, a gerência da Arkane Lyon informou aos seus 217 funcionários que o XBOX planejava fechar o estúdio . O plano, no entanto, foi travado pela legislação trabalhista francesa, que exige que as empresas com mais de mil funcionários tentem encontrar um novo comprador antes de fechar uma unidade. Além disso, fechar um estúdio de videogame na França é caro, devido aos altos custos das rescisões. O jornalista Jason Schreier destacou em publicações no BlueSky: \"Fechar um estúdio de games é caro. Fechar u",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-26T14:11:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.462993+00:00",
+      "imagem_feed": null,
+      "score": 5.086,
+      "cobertura": [
+        "https://olhardigital.com.br/2026/10/26/games-e-consoles/microsoft-amplia-prazo-para-vender-arkane-lyon-estudio-de-marvels-blade/"
+      ]
+    },
+    {
+      "id": "cf06aaae9734",
+      "titulo": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
+      "url": "https://www.infoq.com/news/2026/10/java-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "This week's Java roundup for October 19th, 2026, features news highlighting: the proposed release schedule for JDK 28; the eMudhra Intermediate CA certificates breach; the October 2026 Critical Patch Update; Azul and BellSoft CPUs; GA releases of WildFly 42 and Apache POI 6.0; the beta release of Open Liberty 26.0.0.11; and maintenance releases of Micronaut and JobRunr. By Michael Redlich",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-26T14:35:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.444391+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/java-news-roundup-oct19-2026/en/headerimage/java-news-roundup-image-1793025199136.jpg",
+      "score": 5.028,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "23a75ff332d3",
+      "titulo": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+      "resumo": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD’s integration of its ZenDNN optimizations into Intel’s oneDNN library. Neither executive has publicly detailed the reported discussions or confirmed a new agreement.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-26T12:40:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.256093+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/wbhpXv9wcgo6udYTmNjvVX-1920-80.jpg",
+      "score": 5.836,
+      "cobertura": []
+    },
+    {
+      "id": "d25367070765",
+      "titulo": "Apple lança iPad Mini com tela OLED e chip A20 Pro; veja preços no Brasil",
+      "url": "https://tecnoblog.net/noticias/apple-lanca-ipad-mini-com-tela-oled-e-chip-a20-pro-veja-precos-no-brasil/",
+      "resumo": "Novo iPad Mini traz tela ligeiramente maior, de 8,5 polegadas, e tem até 512 GB de armazenamento. Apple lança iPad Mini com tela OLED e chip A20 Pro; veja preços no Brasil",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-10-26T13:59:25+00:00",
+      "coletado_em": "2026-10-26T14:09:47.270877+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/ipad-mini-oled.jpg",
+      "score": 5.516,
+      "cobertura": [
+        "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce"
+      ]
+    },
+    {
+      "id": "beb3afde7af2",
+      "titulo": "Projeto transforma Nintendinho em PC com Windows, leitor de CD e Wi-Fi",
+      "url": "https://canaltech.com.br/games/projeto-transforma-nintendinho-em-pc-com-windows-leitor-de-cd-e-wi-fi/",
+      "resumo": "O Nintendinho marcou uma geração de jogadores e continua a surpreender, já que um modder conseguiu transformar o hardware da Big N em um computador — com direito a rodar o Windows, ler discos e ter acesso à rede Wi-Fi . O projeto NESPC, disponível no GitHub, utiliza o Field-Programmable Gate Array (FPGA) Next186 . Este núcleo de processador de código-aberto pode executar instruções compatíveis com o Intel 80186 como uma CPU x86. Além disso, o modder Throaty Mumbo recorre a um cartucho EverDrive N8 Pro . Por ter um FPGA Cyclone IV (baseado em ARM), ele funciona como uma placa de vídeo externa e delega suas tarefas para a unidade de processamento adicional. Inicialmente, o Nintendinho rodava apenas interfaces com uma linha de comando. Assim o modificador conseguia executar programas como o Terminal Tetris — mas não funcionavam bem em resoluções tão baixas quanto a de 8-bit. Ainda assim, o criador do projeto se prontificou a montar uma verdadeira estrutura de desktop para o NESPC. Ele conseguiu reproduzir uma ROM personalizada de Windows 98, com uma interface e menus que substituíam o próprio sistema do EverDrive N8 Pro. Na prática, o sistema tinha ícones que permitiam acessar as ROMs",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-26T15:45:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.462993+00:00",
+      "imagem_feed": null,
+      "score": 5.255,
+      "cobertura": []
+    },
+    {
+      "id": "e7e9f2402701",
+      "titulo": "Modder turns NES into a Windows-like desktop with original hardware",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
+      "resumo": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-26T11:20:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.256093+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/5YAgjC7T45UsgSSqWjoYeT-1920-80.png",
+      "score": 5.215,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "730cc0f947d5",
+      "titulo": "Stellar collisions may have been common when the universe was young",
+      "url": "https://phys.org/news/2026-10-stellar-collisions-common-universe-young.html",
+      "resumo": "In our solar system's corner of the galaxy, stars rarely collide. It makes sense: Space is vast, and stars have room to roam. Even in most of the present-day universe, stellar collisions are rare. The James Webb Space Telescope, however, peers deep enough into space to see the universe as it was not too long after the Big Bang. Its observations have revealed extraordinarily compact stellar systems, raising the possibility that collisions between stars were once much more common.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-26T15:00:32+00:00",
+      "coletado_em": "2026-10-26T16:08:31.446922+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2019/stellarexplo.jpg",
+      "score": 6.423,
+      "cobertura": []
+    },
+    {
+      "id": "52524cf6d4a1",
+      "titulo": "Glowing 'cauldron' of new stars | Space photo of the day for Oct. 26, 2026",
+      "url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
+      "resumo": "The James Webb Space Telescope captured a spectacular star-forming region glowing 161,000 light-years from Earth in a satellite galaxy of the Milky Way.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-26T14:00:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.257896+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/NbPaKaNC8LLVJ4MnmneTRT-1920-80.jpg",
+      "score": 6.167,
+      "cobertura": []
+    },
+    {
+      "id": "da6792bb4ea3",
+      "titulo": "JWST and ALMA reveal a dusty, rapidly growing black hole in the early universe",
+      "url": "https://phys.org/news/2026-10-jwst-alma-reveal-dusty-rapidly.html",
+      "resumo": "A new study reveals a dust-reddened quasar from a time when the universe was less than a billion years old. Located at a redshift of 6.5488, the object J1440+0019 contains a rapidly accreting supermassive black hole with a mass of about 1.1 billion suns. The paper was posted to the arXiv preprint server on Oct. 9.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-26T13:20:36+00:00",
+      "coletado_em": "2026-10-26T14:09:47.257275+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-and-alma-reveal-a.jpg",
+      "score": 5.251,
+      "cobertura": []
+    },
+    {
+      "id": "c68af551aa0a",
+      "titulo": "Robotic dog controlled with a computer powered by human blood cells",
+      "url": "https://www.newscientist.com/article/2594537-robotic-dog-controlled-with-a-computer-powered-by-human-blood-cells/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "A start-up has already used a biological computer to play Pong, and now the firm says the technology can be used to control robots",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica",
+        "biologia",
+        "robotica"
+      ],
+      "publicado": "2026-10-26T14:00:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.297180+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318277800.jpg",
+      "score": 5.117,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "2591561ab0a9",
+      "titulo": "Quantum Art Research Outlines More Efficient Quantum Approach to Wave Modeling",
+      "url": "https://thequantuminsider.com/2026/10/26/quantum-art-research-outlines-more-efficient-quantum-approach-to-wave-modeling/",
+      "resumo": "Insider Brief PRESS RELEASE — – Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, recently presented new research, detailed in this paper, that solves wave-propagation problems long thought intractable for classical supercomputers – unlocking new simulation capabilities for seismic modeling, structural engineering, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-26T13:07:01+00:00",
+      "coletado_em": "2026-10-26T14:09:47.258288+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-Art-research-showcase.png",
+      "score": 6.379,
+      "cobertura": []
+    },
+    {
+      "id": "361ebcd1dff4",
+      "titulo": "One extra quantum dot helps balance speed and stability in spin qubits",
+      "url": "https://phys.org/news/2026-10-extra-quantum-dot-stability-qubits.html",
+      "resumo": "Quantum computers need qubits that can be controlled both quickly and reliably. Yet making semiconductor spin qubits faster often makes them more sensitive to electrical noise, creating a difficult trade-off.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-26T13:40:06+00:00",
+      "coletado_em": "2026-10-26T14:09:47.258541+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-extra-quantum-dot.jpg",
+      "score": 6.284,
+      "cobertura": []
+    },
+    {
+      "id": "7536d8cf95ef",
+      "titulo": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "resumo": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-26T01:42:48+00:00",
+      "coletado_em": "2026-10-26T14:09:47.258775+00:00",
+      "imagem_feed": null,
+      "score": 5.269,
+      "cobertura": []
+    },
+    {
+      "id": "69fe8dfd2980",
+      "titulo": "Israel Ranks Fourth in Private Quantum Investment as Sector Expands, According to Report",
+      "url": "https://thequantuminsider.com/2026/10/26/israel-ranks-fourth-in-private-quantum-investment-as-sector-expands-according-to-report/",
+      "resumo": "Insider Brief PRESS RELEASE — A new report by the Israel Innovation Authority and C4IR Israel (which operates within the Israel Innovation Authority and is part of the World Economic Forum’s global C4IR Network), was released today, titled “Israel’s Quantum Ecosystem: Making Quantum Leaps Through Strategic Investment.” The report examines the rapid development of Israel’s […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-26T13:49:02+00:00",
+      "coletado_em": "2026-10-26T16:08:31.447979+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Israels-Quantum-Innovation-Hub-1-1.png",
+      "score": 4.949,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "59966fac1f53",
+      "titulo": "Nvidia built the gaming laptop of the future. But don’t buy RTX Spark for games",
+      "url": "https://www.pcworld.com/article/3268177/nvidia-built-the-gaming-laptop-of-the-future-but-dont-buy-rtx-spark-for-games.html",
+      "resumo": "Right now you can buy a new laptop powered by an Nvidia processor . That would have been a wild statement a few years ago. But what’s even wilder is that these RTX Spark laptops aren’t for PC gamers, and PC gamers shouldn’t buy them. That’s not to say they’re bad. The RTX Spark platform is impressive, even if it’s currently going through a bit of a teething phase. It’s phenomenally powerful, a true Windows alternative to Apple’s Arm chips. And of course it’s great at just about anything having to do with local “AI,” as that’s its primary purpose. For more info on that, check out Mark Hachman’s full review of the Surface Laptop Ultra, on the same platform . But when most people think of an “Nvidia laptop,” they probably assume it’s for gaming. And the RTX Spark can do gaming. Quite a lot of gaming, in fact — the pre-release estimate that the integrated graphics run at “5070 level” is approximately on the money. I’ve found the initial testing on HP’s $3199 Omnibook 16 Ultra impressive, extremely so for integrated graphics. Unfortunately, the price of these RTX Spark laptops — ranging from $2600 to $7000 at launch — simply makes them a poor proposition for anyone primarily interested ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-26T13:00:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.259538+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3268177-0-50457900-1793019655-image_beff84.png",
+      "score": 5.868,
+      "cobertura": []
+    },
+    {
+      "id": "beb3afde7af2",
+      "titulo": "Projeto transforma Nintendinho em PC com Windows, leitor de CD e Wi-Fi",
+      "url": "https://canaltech.com.br/games/projeto-transforma-nintendinho-em-pc-com-windows-leitor-de-cd-e-wi-fi/",
+      "resumo": "O Nintendinho marcou uma geração de jogadores e continua a surpreender, já que um modder conseguiu transformar o hardware da Big N em um computador — com direito a rodar o Windows, ler discos e ter acesso à rede Wi-Fi . O projeto NESPC, disponível no GitHub, utiliza o Field-Programmable Gate Array (FPGA) Next186 . Este núcleo de processador de código-aberto pode executar instruções compatíveis com o Intel 80186 como uma CPU x86. Além disso, o modder Throaty Mumbo recorre a um cartucho EverDrive N8 Pro . Por ter um FPGA Cyclone IV (baseado em ARM), ele funciona como uma placa de vídeo externa e delega suas tarefas para a unidade de processamento adicional. Inicialmente, o Nintendinho rodava apenas interfaces com uma linha de comando. Assim o modificador conseguia executar programas como o Terminal Tetris — mas não funcionavam bem em resoluções tão baixas quanto a de 8-bit. Ainda assim, o criador do projeto se prontificou a montar uma verdadeira estrutura de desktop para o NESPC. Ele conseguiu reproduzir uma ROM personalizada de Windows 98, com uma interface e menus que substituíam o próprio sistema do EverDrive N8 Pro. Na prática, o sistema tinha ícones que permitiam acessar as ROMs",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-26T15:45:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.462993+00:00",
+      "imagem_feed": null,
+      "score": 5.755,
+      "cobertura": []
+    },
+    {
+      "id": "bda3378a3b60",
+      "titulo": "Windows 11 will lock the file system on some USB sticks and SD cards in 2027",
+      "url": "https://www.pcworld.com/article/3267230/microsoft-locks-the-file-system-on-usb-sticks-and-sd-cards-heres-why.html",
+      "resumo": "As of January 2027, Microsoft intends to prevent Windows 11 from opening certain USB sticks, SD cards, and other portable storage devices. This will only affect storage devices formatted with the ReFS file system (which stands for Resilient File System). This is still a popular file system, used, for example, on backup servers. However, it has nothing to do with booting Windows 11 from a USB stick ( we explain the benefits of this here ). For most users, this is unlikely to change anything: Many USB sticks and SD cards use file systems such as FAT32 or exFAT. Media formatted with NTFS are also unaffected by the announced restriction. The change will be particularly significant if you have set up a removable storage device using ReFS yourself or are using such a device. Microsoft has been warning since October 13, 2026 that Windows will no longer recognize ReFS storage devices in the future. The restriction is set to take effect with the security update in January 2027. This update is expected to be released on January 12, the second Tuesday of the month. An affected USB stick or SD card will then no longer open as usual on a Windows 11 PC. The files stored on it will not be automat",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-26T14:30:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.449236+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3267230-0-05305900-1793025049-Windows-11-logo-skewed-captured-from-laptop-screen.jpg?quality=50&strip=all",
+      "score": 5.519,
+      "cobertura": []
+    },
+    {
+      "id": "e7e9f2402701",
+      "titulo": "Modder turns NES into a Windows-like desktop with original hardware",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
+      "resumo": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-26T11:20:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.256093+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/5YAgjC7T45UsgSSqWjoYeT-1920-80.png",
+      "score": 5.215,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "15ef041c7c7a",
+      "titulo": "Elvis vs. IA: donos dos direitos do Rei do Rock processam dona do Claude; entenda motivo",
+      "url": "https://canaltech.com.br/inteligencia-artificial/elvis-vs-ia-donos-dos-direitos-do-rei-do-rock-processam-dona-do-claude-entenda-motivo/",
+      "resumo": "Os responsáveis pelos direitos autorais de 274 músicas gravadas por Elvis Presley entraram com um processo contra a Anthropic, desenvolvedora da inteligência artificial (IA) Claude. A ação, apresentada na sexta-feira (23) nos Estados Unidos, acusa a empresa de utilizar as composições sem autorização para treinar seus modelos e pede uma indenização que pode chegar a US$ 48,6 milhões (cerca de R$ 242 milhões). Entre as músicas envolvidas estão clássicos do Rei do Rock, como \"Can't Help Falling in Love\", \"Don't Be Cruel\", \"All Shook Up\", \"Return to Sender\" e \"A Little Less Conversation\". Segundo a revista Billboard, a ação foi apresentada por uma subsidiária da Authentic Brands Group, empresa que administra parte dos direitos associados a Elvis Presley, além de editoras musicais e representantes de compositores. O processo tramita em um tribunal federal da Califórnia e busca responsabilizar a Anthropic pelo suposto uso indevido das obras. Por que os donos das músicas de Elvis processaram a Anthropic? De acordo com a acusação, a Anthropic teria copiado letras de músicas protegidas por direitos autorais para alimentar seus sistemas de treinamento, sem pagar pelo licenciamento. Os autore",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-26T15:03:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.462993+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/gHCvOfhTjnp7FGh19KCRapwJsQE=/0x0/filters:format(webp):quality(85)/a09dc384-06e9-4eb4-812f-d841448b3bb0.png",
+      "score": 5.978,
+      "cobertura": []
+    },
+    {
+      "id": "a5ef8152d41f",
+      "titulo": "Claude helped plan risky bird flu research. What did the AI add?",
+      "url": "https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology",
+      "resumo": "Anthropic says Claude helped a scientist plan potentially risky bird flu research, a case that highlights questions about AI’s growing role in biology.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-26T13:00:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.297608+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100926_SB_AIdanger_main.jpg?w=800",
+      "score": 5.668,
+      "cobertura": []
+    },
+    {
+      "id": "be77c96c39b4",
+      "titulo": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "resumo": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+      "fonte": "Google Blog",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-26T16:00:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.456066+00:00",
+      "imagem_feed": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
+      "score": 5.334,
+      "cobertura": []
+    },
+    {
+      "id": "8151e8bdf8bd",
+      "titulo": "Exploit quebra trava da NVIDIA e libera poder total de IA em placas GeForce RTX",
+      "url": "https://canaltech.com.br/hardware/exploit-quebra-trava-da-nvidia-e-libera-poder-total-de-ia-em-placas-geforce-rtx/",
+      "resumo": "Uma nova descoberta da comunidade revelou como destravar o desempenho oculto de inteligência artificial em placas de vídeo da NVIDIA . Entusiastas conseguiram burlar uma limitação criada pela própria fabricante no firmware das placas das linhas GeForce RTX 20, RTX 30 e RTX 40 , liberando o poder máximo dos chips voltados para IA (os chamados Tensor Cores ). A trava original da NVIDIA reduzia pela metade a velocidade das placas de PC em certas tarefas matemáticas de IA , uma restrição que não existe nos modelos profissionais da marca, que são bem mais caros. Ao aproveitar uma falha de segurança no sistema inicial da placa, a nova ferramenta altera configurações internas antes de o computador carregar, removendo esse bloqueio de fábrica. Até o dobro de desempenho bruto em tarefas pesadas Os ganhos de desempenho bruto em FLOPS (a métrica que mede a quantidade de cálculos por segundo) variam conforme o modelo e o consumo de energia da placa. Na ex-topo de linha GeForce RTX 4090 , a capacidade teórica máxima de processamento de IA simplesmente dobrou, saltando de 165 TFLOPS para aproximadamente 330 TFLOPS nos formatos de precisão FP16 e BF16. Já em placas como a RTX 3090 Ti e a RTX 3070",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-26T15:05:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.462993+00:00",
+      "imagem_feed": null,
+      "score": 5.181,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "3b11830ef003",
+      "titulo": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "resumo": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it around an object, making the object appear invisible to thermal imaging from virtually any direction. Successfully built and tested, the cloak could transform electronics cooling, thermal protection, and stealth technology.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-26T10:24:20+00:00",
+      "coletado_em": "2026-10-26T14:09:47.265984+00:00",
+      "imagem_feed": null,
+      "score": 3.836,
+      "cobertura": []
+    },
+    {
+      "id": "3272e9319f08",
+      "titulo": "Tiny magnetic vortices could help computers work more like your brain",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "resumo": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais",
+        "quantica"
+      ],
+      "publicado": "2026-10-26T10:06:16+00:00",
+      "coletado_em": "2026-10-26T14:09:47.258775+00:00",
+      "imagem_feed": null,
+      "score": 3.811,
+      "cobertura": []
+    },
+    {
+      "id": "c51e9f528e3f",
+      "titulo": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "resumo": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discovery challenges decades of scientific assumptions and could explain why some superconductors outperform others.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-25T02:19:07+00:00",
+      "coletado_em": "2026-10-26T14:09:47.265984+00:00",
+      "imagem_feed": null,
+      "score": 3.625,
+      "cobertura": []
+    },
+    {
+      "id": "7ae1be1c0fc9",
+      "titulo": "Posso deixar o carro elétrico carregando a noite toda?",
+      "url": "https://canaltech.com.br/carros/posso-deixar-o-carro-eletrico-carregando-a-noite-toda/",
+      "resumo": "Quem compra um carro elétrico costuma ter uma dúvida logo nos primeiros dias de uso: é seguro deixar o veículo carregando durante toda a noite ? A preocupação é compreensível, principalmente porque muitos consumidores fazem uma associação com celulares e notebooks , que durante anos ficaram conhecidos pelo risco de \"viciar\" a bateria . Nos EVs modernos , porém, o funcionamento é bastante diferente . Os modelos contam com sistemas eletrônicos desenvolvidos justamente para monitorar o processo de recarga e proteger a bateria contra situações que possam comprometer sua vida útil. Fabricantes como BYD , Chevrolet, Hyundai, Volvo e Tesla orientam que o carregamento residencial faz parte da rotina normal de utilização do veículo. Na prática, deixar o carro conectado durante a madrugada é um dos cenários previstos pelos próprios projetos de engenharia, desde que sejam utilizados equipamentos adequados e instalados corretamente. Sistema do carro interrompe recarga automaticamente Ao contrário do que muitos imaginam, a bateria não continua recebendo energia indefinidamente após atingir a carga programada. Os carros elétricos utilizam um sistema chamado Battery Management System (BMS) , resp",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-25T12:05:03+00:00",
+      "coletado_em": "2026-10-26T14:09:47.271899+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/AIOf08rmDJ9IQA0G8nKYA2jY7v8=/0x0/filters:format(webp):quality(85)/bc1cffe2-fefb-4f90-b4d1-ac673d3ad2af.jpg",
+      "score": 3.496,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "4928ea86940c",
+      "titulo": "CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security",
+      "url": "https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-26T12:00:00+00:00",
+      "coletado_em": "2026-10-26T16:08:31.457311+00:00",
+      "imagem_feed": null,
+      "score": 4.574,
+      "cobertura": []
+    },
+    {
+      "id": "99f5f4f4349a",
+      "titulo": "O que acontece quando envio uma foto minha para uma IA?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-quando-envio-uma-foto-minha-para-uma-ia/",
+      "resumo": "Muitas trends nas redes sociais incentivam o usuário a enviar uma foto pessoal nos chatbots de IA , seja para gerar uma caricatura, transformar retratos em ilustrações ou gerar fotos profissionais. No entanto, você já se perguntou o que acontece com essa imagem após ser enviada? Quando você anexa uma foto em uma ferramenta de IA, o arquivo é enviado aos servidores da empresa para processamento . Depois disso, a imagem pode ficar armazenada por um tempo, ser analisada por sistemas de visão computacional ou usada para aprimorar os modelos da empresa. Além disso, uma imagem pode revelar informações pessoais e sensíveis , como a localização e rotina de uma pessoa, principalmente se mostra uniformes, crachás ou outros elementos identificáveis. Em caso de acesso indevido ou vazamento, esses dados podem ajudar criminosos a preparar golpes com imagens falsas. A seguir, tire suas dúvidas sobre: O que acontece ao enviar uma foto para a IA? Como parar o treinamento do modelo com seus dados? Como enviar fotos para uma IA com mais segurança? O que acontece ao enviar uma foto para a IA? Quando uma imagem chega a um chatbot, ela passa por diferentes etapas de processamento, como: Armazenamento no",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-25T18:00:00+00:00",
+      "coletado_em": "2026-10-26T14:09:47.271899+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/GuHlIeHlJF65Bn9SHhUgVZ5n7Pk=/0x0/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
+      "score": 3.157,
+      "cobertura": []
+    },
+    {
+      "id": "4896d97a5987",
+      "titulo": "Fone-brinco da Samsung começa a ser vendido amanhã (27); veja preço",
+      "url": "https://canaltech.com.br/fone-de-ouvido/fone-brinco-da-samsung-comeca-a-ser-vendido-amanha-27-veja-preco/",
+      "resumo": "A Samsung começa a vender os Galaxy Buds On na Coreia do Sul nesta terça-feira (27). Os primeiros fones de ouvido estilo brinco da marca chegam ao mercado por 299 mil wons, cerca de R$ 1.126. O lançamento internacional ainda não tem data confirmada, mas lojas europeias já começaram a listar o produto, indicando que a estreia em outros países pode estar próxima. Os Galaxy Buds On são diferentes dos fones tradicionais da Samsung. Em vez de entrar no canal auditivo, ficam presos ao redor da orelha, em um formato semelhante ao de um brinco. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas O design aberto permite ouvir músicas e podcasts sem bloquear completamente os sons do ambiente. A proposta pode agradar quem gosta de escutar áudio durante caminhadas, exercícios ou no trabalho, mas quer continuar atento ao que acontece ao redor. Para manter os fones firmes e confortáveis, a Samsung apostou em um material flexível que se ajusta à orelha. O modelo também tem alto-falantes TwinBoost, desenvolvidos para melhorar os graves, e uma tecnologia que reduz o vazamento de som para quem está por perto. Fone da Samsung tem recursos de inteligência artificial Os Galaxy Buds On também",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-26T15:13:25+00:00",
+      "coletado_em": "2026-10-26T16:08:31.462993+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/D8UQNng0L4Tl48l3RxdAUYis4Bo=/0x0/filters:format(webp):quality(85)/1c2a8aa4-e784-4871-a995-f6fa22b7817f.jpg",
+      "score": 1.497,
+      "cobertura": []
+    }
+  ]
+}
