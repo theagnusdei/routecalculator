@@ -1,0 +1,774 @@
+{
+  "medicina": [
+    {
+      "id": "426b2eff6ce2",
+      "titulo": "Common nutritional supplement may boost psoriasis treatment, small patient trial suggests",
+      "url": "https://medicalxpress.com/news/2026-10-common-nutritional-supplement-boost-psoriasis.html",
+      "resumo": "Researchers in China have discovered that the vitamin B5 derivative pantethine limits the activity of immune cells that are key contributors to autoimmune diseases such as psoriasis. The study, published in the Journal of Experimental Medicine, shows that pantethine prevents the development of psoriasis in mice and also helps alleviate the symptoms of psoriasis patients in a small-scale human trial.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-27T14:00:05+00:00",
+      "coletado_em": "2026-10-27T15:23:33.349893+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/vitamin-b.jpg",
+      "score": 6.396,
+      "cobertura": []
+    },
+    {
+      "id": "a41baa74da21",
+      "titulo": "Câncer de mama em idade reprodutiva: como conciliar o tratamento com o desejo de engravidar?",
+      "url": "https://jornal.usp.br/atualidades/cancer-de-mama-em-idade-reprodutiva-como-conciliar-o-tratamento-com-o-desejo-de-engravidar/",
+      "resumo": "Tratamento pode exigir o adiamento da gravidez, mas estratégias como a criopreservação de óvulos e embriões permitem preservar a fertilidade e planejar a maternidade após a terapia",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-27T10:04:58+00:00",
+      "coletado_em": "2026-10-27T13:08:47.340971+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2024/05/20240502_lacinho-cancer-de-mama-destaque-1024x538.jpg",
+      "score": 5.822,
+      "cobertura": []
+    },
+    {
+      "id": "22e507ef1bed",
+      "titulo": "STAT+: Nonprofit resurrects shelved gene therapy after startup shuts down",
+      "url": "https://www.statnews.com/2026/10/27/biotech-news-nonprofit-resurrects-shelved-gene-therapy/?utm_campaign=rss",
+      "resumo": "Last year, U.K. gene therapy startup Bloomsbury Genetic Therapies announced it was shutting down after dosing just one patient. Now, a nonprofit is resurrecting its lead program:",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-27T14:28:10+00:00",
+      "coletado_em": "2026-10-27T15:23:33.350737+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2025/06/AdobeStock_300779334-1024x576.jpeg",
+      "score": 5.746,
+      "cobertura": []
+    },
+    {
+      "id": "cf694b3afadf",
+      "titulo": "Opinion: Cancer vaccines are finally here. How do we get them to patients?",
+      "url": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss",
+      "resumo": "“If we want cancer vaccines to reach patients faster than BRCA testing did, there are several challenges to address now,” write Karen E. Knudsen and Othman Laraki.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-27T08:30:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.317152+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_439900410-1024x576.jpeg",
+      "score": 5.693,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "e2be7a46bbd2",
+      "titulo": "How vaccines could be about to revolutionise acne treatments",
+      "url": "https://www.newscientist.com/article/2595926-how-vaccines-could-be-about-to-revolutionise-acne-treatments/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Acne could be caused by our immune systems overreacting to proteins released by skin bacteria. Columnist Michael Le Page looks into the experimental treatments aiming to block this process and prevent or reduce acne",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "medicina",
+        "software"
+      ],
+      "publicado": "2026-10-27T09:00:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.374855+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317828580_678b7c.jpg",
+      "score": 5.233,
+      "cobertura": []
+    },
+    {
+      "id": "84f91d32f00b",
+      "titulo": "Nova espécie de dinossauro que viveu há mais de 100 milhões de anos é identificada no Reino Unido",
+      "url": "https://jornal.usp.br/campus-ribeirao-preto/nova-especie-de-dinossauro-que-viveu-ha-mais-de-100-milhoes-de-anos-e-identificada-no-reino-unido/",
+      "resumo": "Descrito por pesquisador da USP, Paludohdros proudlovii viveu no início do Cretáceo, pesava cerca de 1,5 tonelada e estava depositado em museu de Londres",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-27T13:18:19+00:00",
+      "coletado_em": "2026-10-27T15:23:33.375611+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261027_Paludohdros-1024x538.jpg",
+      "score": 5.123,
+      "cobertura": []
+    },
+    {
+      "id": "5fd165a630e3",
+      "titulo": "Millipede from South Australia rediscovered and described 90 years after it was first collected",
+      "url": "https://phys.org/news/2026-10-millipede-south-australia-rediscovered-years.html",
+      "resumo": "The new species Colobothrix deckeri is in the millipede family Dalodesmidae. It is remarkable because it is the first in its moisture-loving family to be found in a part of Australia with a low annual rainfall, between 400 and 500 mm (16 and 20 inches).",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-27T13:20:05+00:00",
+      "coletado_em": "2026-10-27T15:23:33.351858+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-millipede-from-south.jpg",
+      "score": 4.826,
+      "cobertura": []
+    },
+    {
+      "id": "14562f2bbcc1",
+      "titulo": "Hidden chromosome structures reveal greater complexity in how roundworms organize DNA",
+      "url": "https://phys.org/news/2026-10-hidden-chromosome-reveal-greater-complexity.html",
+      "resumo": "Almost every cell in our body contains around two meters (6.6 feet) of DNA, packed into a tiny nucleus. Yet for the cell to function, this enormous amount of genetic material must remain organized and accessible. Researchers at the University of Basel have now discovered three distinct types of large chromosomal domains that help organize DNA in nuclei.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-26T19:20:07+00:00",
+      "coletado_em": "2026-10-27T13:08:47.318246+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome-organization-mo.jpg",
+      "score": 4.678,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "c1278160ee87",
+      "titulo": "Xpanner launches autonomous pile driver for solar farm contruction",
+      "url": "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/",
+      "resumo": "Xpanner's new X1 Piling R6 robot autonomously drives solar posts with one operator, improving placement accuracy while cutting on-site labor. The post Xpanner launches autonomous pile driver for solar farm contruction appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-27T11:44:30+00:00",
+      "coletado_em": "2026-10-27T13:08:47.320365+00:00",
+      "imagem_feed": null,
+      "score": 5.02,
+      "cobertura": []
+    },
+    {
+      "id": "3694685d692e",
+      "titulo": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
+      "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
+      "resumo": "ANYbotics has designed the ANYmal X inspection robot to comply with the strictest safety standards of the oil, gas, and chemical industries. The post ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-27T14:29:58+00:00",
+      "coletado_em": "2026-10-27T15:23:33.354168+00:00",
+      "imagem_feed": null,
+      "score": 4.799,
+      "cobertura": []
+    },
+    {
+      "id": "b9663090eae9",
+      "titulo": "Embotech and BMW move 1M vehicles with automated driving technology",
+      "url": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/",
+      "resumo": "Embotech is automatically moving 3,500 vehicles around the clock daily across four BMW sites in the U.K. and Germany. The post Embotech and BMW move 1M vehicles with automated driving technology appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-27T12:45:27+00:00",
+      "coletado_em": "2026-10-27T13:08:47.320365+00:00",
+      "imagem_feed": null,
+      "score": 4.618,
+      "cobertura": []
+    },
+    {
+      "id": "e3d20134e955",
+      "titulo": "Artificial skin helps robots grasp pencil lead and pull away from needles",
+      "url": "https://techxplore.com/news/2026-10-artificial-skin-robots-grasp-pencil.html",
+      "resumo": "Researchers have covered robotic fingers with a new artificial skin that allows the hand to grasp fragile pencil lead and pull away from a needle before it punctures the covering. Both actions depend on more than sensitive sensors. The robot must also receive and interpret their signals quickly enough to respond.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-27T11:10:02+00:00",
+      "coletado_em": "2026-10-27T13:08:47.320619+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-skin-helps.jpg",
+      "score": 4.617,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "22303ee39de6",
+      "titulo": "[$] Guidelines for panics in kernel code",
+      "url": "https://lwn.net/Articles/1100873/",
+      "resumo": "Alexandre Courbot spends most of his time working on the kernel doing code reviews. Recently, he's been wondering about what the standards should be for when Rust code is allowed to panic, and how it should do error handling more generally. Unlike many of the other talks at Kangrejos 2026, his talk was not presenting some existing work, but rather hoping to solicit opinions on the topic from the assembled Rust for Linux developers. He brought along a collection of tricky cases that he had run into recently to prompt discussion.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-27T13:56:24+00:00",
+      "coletado_em": "2026-10-27T15:23:33.355708+00:00",
+      "imagem_feed": null,
+      "score": 5.389,
+      "cobertura": []
+    },
+    {
+      "id": "76ea8fde26d6",
+      "titulo": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1103188/",
+      "resumo": "Security updates have been issued by AlmaLinux (bind, bind9.18, brotli, buildah, container-tools:4.0, container-tools:rhel8, firefox, flatpak, freeipmi, gcc, golang, grafana, httpd, kernel, kernel-rt, libreswan, libX11, lrzsz, nodejs:14, nodejs:18, oci-seccomp-bpf-hook, podman, python-urllib3, python3.9, python38:3.8 and python38-devel:3.8, skopeo, thunderbird, xorg-x11-server, and xz), Debian (inkscape, swupdate, thunderbird, and valkey), Fedora (brotli, dolphin, helix, kernel, libical, mingw-python3, nsd, perl-Alien-Brotli, perl-Plack, perl-Plack-Middleware-ReverseProxy, rust-dua-cli, rust-gengo-bin, rust-gitui, stgit, unshield, and webkitgtk), Mageia (evolution, freetype2, ghostscript, kronosnet, libde265, libical, libjxl, packages, perl-DBI, perl-ExtUtils-Typemaps-Default, perl-Imager, vim, and webkit2), Oracle (bind, bind9.18, brotli, buildah, ca-certificates, firefox, flatpak, freeipmi, grafana, httpd, kernel, libreswan, libX11, lrzsz, nodejs22, nodejs24, nodejs:22, oci-seccomp-bpf-hook, perl-DBI:1.641, perl:5.32, postfix, postgresql16-pgvector, postgresql18-pgvector, python3.9, skopeo, unbound, xorg-x11-server, and xz), Red Hat (grafana, grafana-pcp, python3.12-urllib3, and ",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-27T13:37:48+00:00",
+      "coletado_em": "2026-10-27T15:23:33.355708+00:00",
+      "imagem_feed": null,
+      "score": 5.356,
+      "cobertura": []
+    },
+    {
+      "id": "832924ba06f3",
+      "titulo": "Cuidado: excluir histórico de IA não apaga rastros em celulares Android",
+      "url": "https://canaltech.com.br/inteligencia-artificial/cuidado-excluir-historico-de-ia-nao-apaga-rastros-em-celulares-android/",
+      "resumo": "Os pesquisadores do Instituto de Tecnologia da Geórgia (Georgia Tech), nos Estados Unidos, desenvolveram uma ferramenta que consegue recuperar conversas excluídas de assistentes de IA que funcionam localmente em celulares Android. A tecnologia, batizada de ORISA, identifica fragmentos de bate-papos que continuam na memória do aparelho mesmo após a exclusão pelo aplicativo. Isso acontece porque apagar um bate-papo pela interface do aplicativo não remove imediatamente todos os dados armazenados na memória de trabalho (RAM) do celular. Com isso, a ferramenta também conseguiu reconstruir o contexto das conversas e criar uma nova sessão funcional do chatbot. A pesquisa foi realizada no Laboratório de Inovação em Forense Cibernética do Georgia Tech e apresentada no 2026 IEEE Symposium on Security and Privacy. Para testar a ferramenta, a equipe liderada pelo doutorando Ken Xu criou um assistente fictício chamado Project Note Keeper no aplicativo de código aberto ChatterUI. Os pesquisadores forneceram 100 fatos fictícios ao assistente antes de excluir a conversa. Naquele momento, o modelo conseguia acessar ativamente apenas 14 informações devido ao limite de memória. O ORISA, porém, recupe",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-27T14:35:00+00:00",
+      "coletado_em": "2026-10-27T15:23:33.384867+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9v1u67ne6INmdroVxGU900leCv4=/0x0/filters:format(webp):quality(85)/1df87bb2-d2bd-4a61-91b7-28b8b4d18ac6.jpg",
+      "score": 5.009,
+      "cobertura": []
+    },
+    {
+      "id": "2322b57abc96",
+      "titulo": "PS5 vira Steam Machine com app que roda jogos de PC no console desbloqueado",
+      "url": "https://canaltech.com.br/games/ps5-vira-steam-machine-com-app-que-roda-jogos-de-pc-no-console-desbloqueado/",
+      "resumo": "O desbloqueio do PS5 agora permite rodar o Playden, um projeto homebrew que faz o console da Sony Interactive Entertainment (SIE) executar jogos de Windows — diretamente da sua biblioteca do Steam. O launcher de código aberto utiliza um port de Wine para o videogame para isso, o que auxilia na criação de um ambiente separado para os títulos. Além disso, ele garante que todos apareçam no Menu Inicial do console. Porém, é importante notar que ele não é um emulador ou reprodutor de games piratas. Você integra a sua biblioteca pessoal do Steam, baixa e executa os jogos no PS5 — apenas isso. Também é possível migrar pastas do armazenamento (como de um SSD M.2 via USB). Como as obras do catálogo são instaladas no próprio hardware, elas aparecem diretamente na interface e os jogadores não precisam sequer abrir o launcher para reproduzi-las. O Playden oferece suporte aos dados salvos do Steam Cloud , configurações de controle e gráficos e outras funções que são vistas comumente nos PCs. O controle DualSense é reconhecido como um modelo XBOX para a maioria dos games. De acordo com o GitHub, o programa é compatível com obras de Direct3D 8 ao 11 (por DXVK), Direct3D 12 (por vkd3d-proton), Ope",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-26T19:54:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.349017+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/aCPl66pONtHK9QUGaoSciSwBDUw=/0x0/filters:format(webp):quality(85)/dd236c35-7b44-463f-8e5b-3b1bbce0fe1f.png",
+      "score": 4.749,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "3f314d8816de",
+      "titulo": "Apple anuncia MacBook Pro e iMac de 24 polegadas com chip M6; veja preços",
+      "url": "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/",
+      "resumo": "Novo MacBook Pro de 14 polegadas promete ainda até 24 horas de autonomia. Já novo iMac de 24 polegadas traz sete opções de cores. Apple anuncia MacBook Pro e iMac de 24 polegadas com chip M6; veja preços",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-27T14:29:18+00:00",
+      "coletado_em": "2026-10-27T15:23:33.380805+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/xWfNhWn88Bc",
+      "score": 6.648,
+      "cobertura": [
+        "https://olhardigital.com.br/2026/10/27/reviews/apple-anuncia-novo-macbook-pro-com-m6-e-bateria-de-ate-24-horas/",
+        "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999"
+      ]
+    },
+    {
+      "id": "a5fc4b73c0e1",
+      "titulo": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months",
+      "resumo": "TSMC is reportedly weighing a price increase of up to 20% for its CoWoS advanced packaging technology as Nvidia’s Blackwell and upcoming Rubin chips intensify pressure on capacity. Equipment deliveries now reportedly take up to eight months, while separate wafer-price increases of 5% to 10% are expected in 2027, with some customers potentially facing total cost increases of up to 25%.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-27T14:30:00+00:00",
+      "coletado_em": "2026-10-27T15:23:33.356313+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/F7GwETgbWz3VqDaj8UmXcJ-1920-80.jpg",
+      "score": 6.099,
+      "cobertura": []
+    },
+    {
+      "id": "674a117ca796",
+      "titulo": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+      "resumo": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-27T13:28:23+00:00",
+      "coletado_em": "2026-10-27T15:23:33.356313+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/pnmCABph9HyG5zPEc6vuJ4-1920-80.jpg",
+      "score": 5.99,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/"
+      ]
+    },
+    {
+      "id": "731837f7f84d",
+      "titulo": "Intel Raptor Lake vem aí novamente com 4 novos CPUs de até 20 núcleos",
+      "url": "https://canaltech.com.br/hardware/intel-raptor-lake-vem-ai-novamente-com-4-novos-cpus-de-ate-20-nucleos/",
+      "resumo": "A arquitetura Raptor Lake chegou em outubro de 2022 como a 13ª geração de processadores Intel Core. Um ano depois, essa mesma arquitetura foi reutilizada para a 14ª geração e deve retornar em breve como Raptor Lake Next. Já existem rumores sobre essa série , mas agora um novo registro de envio internacional mostra quatro SKUs diferentes, além de seus clocks e quantidade de cache . As informações indicam que a Intel trabalha em opções com até 20 núcleos e mais memória cache , mantendo o suporte para placas-mãe das séries 600 e 700 no soquete LGA1700 . O modelo mais rápido listado nos documentos conta com frequência base de 3,5 GHz e 30 MB de memória cache , padrão que se encaixa em uma configuração de 16 núcleos (sendo 8 focados em desempenho e 8 em eficiência). A expectativa é que essa versão chegue para ocupar o espaço do atual Core i5-14600K. Vida longa ao socket LGA1700 Outro chip identificado nos relatórios traz 33 MB de cache e velocidade de 2,1 GHz , características que batem com uma estrutura de 20 núcleos (8 de desempenho e 12 de eficiência), similar à linha Core i7 Raptor Lake. Outros dois modelos também foram registrados, ambos com 24 MB de cache e velocidade de 2,6 GHz ,",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-27T12:38:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.349017+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/ojvtDhI20BM-QCxPmO5FfsmfowA=/0x0/filters:format(webp):quality(85)/2bf7a17b-74d8-4419-a77a-3d58a54322ee.jpg",
+      "score": 5.805,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "0cb7f0557a0d",
+      "titulo": "Dead star and planetary bodies: astronomers spot unique disc of debris that foretells Solar System’s future",
+      "url": "https://www.eso.org/public/news/eso2613/",
+      "resumo": "Astronomers using the European Southern Observatory’s Very Large Telescope (ESO’s VLT) have found a rare disc of debris around a dead star that provides a glimpse of what may happen to our Solar System. Unlike in similar systems previously found, the debris — the leftovers of planets that once orbited the star — is organised in a double disc, the two parts separated by a clear gap. The disc appears to be shaped by two planetary bodies, one possibly as big as Pluto, that have survived the violent death of the star.",
+      "fonte": "ESO",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-27T13:00:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.323963+00:00",
+      "imagem_feed": "https://cdn.eso.org/images/screen/eso2613a.jpg",
+      "score": 6.042,
+      "cobertura": []
+    },
+    {
+      "id": "8386b4841390",
+      "titulo": "'Star Trek' legend and sci-fi luminary Walter Koenig dies at 90",
+      "url": "https://www.space.com/entertainment/star-trek-legend-and-sci-fi-luminary-walter-koenig-dies-at-90",
+      "resumo": "The man who portrayed the U.S.S. Enterprise’s Pavel Chekov has left us after a 60-year stage and screen career",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-27T12:15:39+00:00",
+      "coletado_em": "2026-10-27T13:08:47.324775+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Cz6LEVw8cR4L6ASQPnFF6C-1920-80.png",
+      "score": 5.569,
+      "cobertura": [
+        "https://olhardigital.com.br/2026/10/27/cinema-e-streaming/walter-koenig-o-eterno-pavel-chekov-de-star-trek-morre-aos-90-anos/"
+      ]
+    },
+    {
+      "id": "4e325664445b",
+      "titulo": "Webb links interstellar comet 3I/ATLAS to worlds beyond Neptune through similar ice signatures",
+      "url": "https://phys.org/news/2026-10-webb-links-interstellar-comet-3iatlas.html",
+      "resumo": "A Southwest Research Institute–led study used NASA's James Webb Space Telescope to examine ice grains streaming from interstellar comet 3I/ATLAS, just the third object from beyond our solar system ever identified. The observations point to tiny aggregates of water ice and dust, about a micron or smaller.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-27T14:00:13+00:00",
+      "coletado_em": "2026-10-27T15:23:33.358191+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/swri-led-study-uses-we-1.jpg",
+      "score": 5.396,
+      "cobertura": []
+    },
+    {
+      "id": "76803fdd79e7",
+      "titulo": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+      "resumo": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, possibly because of mineral clouds that act like a giant sunscreen. The planet may also be continually replenishing its atmosphere through gases released from a global ocean of molten rock.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-27T10:20:52+00:00",
+      "coletado_em": "2026-10-27T13:08:47.324379+00:00",
+      "imagem_feed": null,
+      "score": 5.394,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "feee2d4e757a",
+      "titulo": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
+      "url": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
+      "resumo": "Insider Brief IBM researchers connected two quantum processors through four superconducting cables, demonstrating a way to build larger quantum computers from separate chips. The links transferred quantum states with an average fidelity of 99% and supported operations between computing elements on different processors, according to a study posted on the preprint server arXiv. The team […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-27T08:01:04+00:00",
+      "coletado_em": "2026-10-27T13:08:47.325277+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.58.24-AM.png",
+      "score": 6.006,
+      "cobertura": []
+    },
+    {
+      "id": "56fac2b5c6dd",
+      "titulo": "Beyond Binary Quantum Computing: Exploring Higher-Dimensional Qudits",
+      "url": "https://thequantuminsider.com/2026/10/27/beyond-binary-quantum-computing-exploring-higher-dimensional-qudits/",
+      "resumo": "Quantum computing is often talked about in terms of qubits, the quantum equivalent of a classical binary bit. But what if the most efficient way to process quantum information is not always binary? At the University of Rochester, Associate Professor of Physics Machiel Blok and his research group are exploring that question through work on […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-27T11:59:51+00:00",
+      "coletado_em": "2026-10-27T13:08:47.325277+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Bluefors_Machiel-Blok_V3-frame-at-1m56s.jpg",
+      "score": 5.844,
+      "cobertura": []
+    },
+    {
+      "id": "36c796d4057f",
+      "titulo": "New converter could bridge light wavelength gap in quantum communications",
+      "url": "https://phys.org/news/2026-10-bridge-wavelength-gap-quantum-communications.html",
+      "resumo": "Quantum networks, systems that connect devices using quantum mechanical effects, could potentially allow users to share information more securely and efficiently. Building these networks typically entails linking stationary qubits, units of quantum information encoded in trapped ions or other physical systems, using photons (particles of light) transmitted through optical fibers.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-27T12:40:01+00:00",
+      "coletado_em": "2026-10-27T13:08:47.325693+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-converter-could-br.jpg",
+      "score": 5.759,
+      "cobertura": []
+    },
+    {
+      "id": "2591561ab0a9",
+      "titulo": "Quantum Art Research Outlines More Efficient Quantum Approach to Wave Modeling",
+      "url": "https://thequantuminsider.com/2026/10/26/quantum-art-research-outlines-more-efficient-quantum-approach-to-wave-modeling/",
+      "resumo": "Insider Brief PRESS RELEASE — – Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, recently presented new research, detailed in this paper, that solves wave-propagation problems long thought intractable for classical supercomputers – unlocking new simulation capabilities for seismic modeling, structural engineering, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-26T13:07:01+00:00",
+      "coletado_em": "2026-10-27T13:08:47.325277+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-Art-research-showcase.png",
+      "score": 5.138,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "674a117ca796",
+      "titulo": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+      "resumo": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-27T13:28:23+00:00",
+      "coletado_em": "2026-10-27T15:23:33.356313+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/pnmCABph9HyG5zPEc6vuJ4-1920-80.jpg",
+      "score": 5.99,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/"
+      ]
+    },
+    {
+      "id": "3aa32cc86d12",
+      "titulo": "Apple anuncia novo MacBook Pro com M6 e bateria de até 24 horas",
+      "url": "https://olhardigital.com.br/2026/10/27/reviews/apple-anuncia-novo-macbook-pro-com-m6-e-bateria-de-ate-24-horas/",
+      "resumo": "Equipado com o processador M6, Wi-Fi 7 e tela Liquid Retina XDR, o novo MacBook Pro de 14 polegadas eleva o desempenho profissional O post Apple anuncia novo MacBook Pro com M6 e bateria de até 24 horas apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-27T14:11:54+00:00",
+      "coletado_em": "2026-10-27T15:23:33.378535+00:00",
+      "imagem_feed": null,
+      "score": 5.317,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/"
+      ]
+    },
+    {
+      "id": "d5158845f8cf",
+      "titulo": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk",
+      "resumo": "Microsoft is offering buyouts to around 60,000 members of its workforce as it looks to balance the books amid a ramp-up in AI data center spending.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-27T10:30:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.322365+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/iPvfpzYoJfo4RCLhXPfRAb-1920-80.jpg",
+      "score": 5.208,
+      "cobertura": [
+        "https://www.techspot.com/news/114347-microsoft-offering-voluntary-buyouts-about-60000-employees-quarter.html"
+      ]
+    },
+    {
+      "id": "161f3d7bdc79",
+      "titulo": "Microsoft is offering voluntary buyouts to about 60,000 employees, a quarter of the company",
+      "url": "https://www.techspot.com/news/114347-microsoft-offering-voluntary-buyouts-about-60000-employees-quarter.html",
+      "resumo": "Microsoft recently announced a new voluntary exit offer for employees at level 70 and below in certain countries. Sources told CNBC that this group includes about 60,000 workers, a substantial increase in scope compared with the buyout offers that began in April. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-27T13:06:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.333867+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2019/04/2019-04-26-ts3_thumbs-315.jpg",
+      "score": 5.152,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "42c92fbc7a08",
+      "titulo": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
+      "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+      "resumo": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What’s more, over 12 percent of Nature Communications reviews were found to be completely AI-generated in 2025. Given that for every 40 papers showing statistical evidence of AI usage in 2025, only one formally disclosed it , these figures likely grossly underestimate LLM involvement today. Of course, evidence of AI use doesn’t necessarily mean a paper is slop. But some estimates suggest that hundreds of thousands of fake, often AI-generated, publications are now produced annually. “It’s not just the [scientific] record under threat, it’s science as a whole,” warns Amanda Sulicz , IEEE’s research-integrity manager. “AI slop is completely eroding trust in science and every scientific process that we’ve worked for centuries to create.” Yet statistics and statements claiming that the problem",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-27T13:00:03+00:00",
+      "coletado_em": "2026-10-27T13:08:47.336038+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/man-in-glasses-at-night-his-face-reflected-in-a-window-beside-him.jpg?id=68515605&width=980",
+      "score": 6.392,
+      "cobertura": []
+    },
+    {
+      "id": "830c995b81ee",
+      "titulo": "Anthropic expõe os custos e os riscos da inteligência artificial antes de IPO",
+      "url": "https://olhardigital.com.br/2026/10/27/pro/anthropic-expoe-os-custos-e-os-riscos-da-inteligencia-artificial-antes-de-ipo/",
+      "resumo": "Documento da Anthropic detalha riscos da IA, concentração de clientes e custos que acompanham o crescimento da criadora do Claude O post Anthropic expõe os custos e os riscos da inteligência artificial antes de IPO apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-27T13:42:32+00:00",
+      "coletado_em": "2026-10-27T15:23:33.378535+00:00",
+      "imagem_feed": null,
+      "score": 5.265,
+      "cobertura": []
+    },
+    {
+      "id": "832924ba06f3",
+      "titulo": "Cuidado: excluir histórico de IA não apaga rastros em celulares Android",
+      "url": "https://canaltech.com.br/inteligencia-artificial/cuidado-excluir-historico-de-ia-nao-apaga-rastros-em-celulares-android/",
+      "resumo": "Os pesquisadores do Instituto de Tecnologia da Geórgia (Georgia Tech), nos Estados Unidos, desenvolveram uma ferramenta que consegue recuperar conversas excluídas de assistentes de IA que funcionam localmente em celulares Android. A tecnologia, batizada de ORISA, identifica fragmentos de bate-papos que continuam na memória do aparelho mesmo após a exclusão pelo aplicativo. Isso acontece porque apagar um bate-papo pela interface do aplicativo não remove imediatamente todos os dados armazenados na memória de trabalho (RAM) do celular. Com isso, a ferramenta também conseguiu reconstruir o contexto das conversas e criar uma nova sessão funcional do chatbot. A pesquisa foi realizada no Laboratório de Inovação em Forense Cibernética do Georgia Tech e apresentada no 2026 IEEE Symposium on Security and Privacy. Para testar a ferramenta, a equipe liderada pelo doutorando Ken Xu criou um assistente fictício chamado Project Note Keeper no aplicativo de código aberto ChatterUI. Os pesquisadores forneceram 100 fatos fictícios ao assistente antes de excluir a conversa. Naquele momento, o modelo conseguia acessar ativamente apenas 14 informações devido ao limite de memória. O ORISA, porém, recupe",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-27T14:35:00+00:00",
+      "coletado_em": "2026-10-27T15:23:33.384867+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9v1u67ne6INmdroVxGU900leCv4=/0x0/filters:format(webp):quality(85)/1df87bb2-d2bd-4a61-91b7-28b8b4d18ac6.jpg",
+      "score": 5.009,
+      "cobertura": []
+    },
+    {
+      "id": "c3f55709f5e3",
+      "titulo": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "resumo": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-27T13:00:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.338189+00:00",
+      "imagem_feed": null,
+      "score": 4.992,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "9d43c6df7a85",
+      "titulo": "The unexpected key to extending EV battery life found in 'oxygen release'",
+      "url": "https://techxplore.com/news/2026-10-unexpected-key-ev-battery-life.html",
+      "resumo": "What if a battery could become more powerful as it ages? Much like wine developing a deeper flavor over time, researchers in Korea have uncovered the mechanism behind a battery material that can deliver greater usable capacity after repeated charging and discharging.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-27T13:20:13+00:00",
+      "coletado_em": "2026-10-27T15:23:33.373644+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-unexpected-key-to.jpg",
+      "score": 5.326,
+      "cobertura": []
+    },
+    {
+      "id": "3aa32cc86d12",
+      "titulo": "Apple anuncia novo MacBook Pro com M6 e bateria de até 24 horas",
+      "url": "https://olhardigital.com.br/2026/10/27/reviews/apple-anuncia-novo-macbook-pro-com-m6-e-bateria-de-ate-24-horas/",
+      "resumo": "Equipado com o processador M6, Wi-Fi 7 e tela Liquid Retina XDR, o novo MacBook Pro de 14 polegadas eleva o desempenho profissional O post Apple anuncia novo MacBook Pro com M6 e bateria de até 24 horas apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-27T14:11:54+00:00",
+      "coletado_em": "2026-10-27T15:23:33.378535+00:00",
+      "imagem_feed": null,
+      "score": 5.317,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/"
+      ]
+    },
+    {
+      "id": "31cde7479332",
+      "titulo": "Tela cirúrgica desenvolvida na USP, com maior flexibilidade, pode ser fabricada por impressão 3D",
+      "url": "https://jornal.usp.br/atualidades/tela-cirurgica-desenvolvida-na-usp-com-maior-flexibilidade-pode-ser-fabricada-por-impressao-3d/",
+      "resumo": "Paula Bertolino Sanvezzo comenta da patente que utiliza material diferente de produtos convencionais e pode ajudar a evitar complicações pós-operatórias",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-27T13:59:11+00:00",
+      "coletado_em": "2026-10-27T15:23:33.375611+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261027_procedimento-1024x538.jpg",
+      "score": 5.194,
+      "cobertura": []
+    },
+    {
+      "id": "166f78547241",
+      "titulo": "Researchers explore use of thermal energy storage for nuclear power plants",
+      "url": "https://techxplore.com/news/2026-10-explore-thermal-energy-storage-nuclear.html",
+      "resumo": "Nuclear power plants are designed to produce electricity steadily for 24 hours a day. But now that nuclear power plants share the electric grid with renewable energy sources that fluctuate based on the weather and time of day, their design is mismatched with modern operational needs. Rather than running constantly, nuclear power plants need to have greater flexibility in when they produce energy and when they pause.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-27T15:20:01+00:00",
+      "coletado_em": "2026-10-27T15:23:33.373644+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2022/nuclear-power-plant.jpg",
+      "score": 4.543,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "b501423f78da",
+      "titulo": "Vírus no Brasil usa ferramentas autênticas do Windows e o VLC para invadir conta bancária",
+      "url": "https://canaltech.com.br/seguranca/virus-no-brasil-usa-ferramentas-autenticas-do-windows-e-o-vlc-para-invadir-conta-bancaria/",
+      "resumo": "A empresa de cibersegurança WatchGuard identificou um malware que usa elementos legítimos do Windows e arquivos executáveis de programas reais para invadir computadores de vítimas. No Brasil, o golpe começa a partir de e-mails falsos sobre cobranças de cartórios . As tentativas de phishing levam as vítimas a sites fraudulentos e induzem ao download de scripts VBScript maliciosos . Os arquivos também podem usar uma técnica para distribuir um diretório malicioso dentro de um arquivo executável legítimo do Windows . A pesquisa identificou a técnica em arquivos como ngentask.exe, do Microsoft .NET Framework , e vlc.exe, do famoso reprodutor de mídia VLC . Ambos se passam como executáveis legítimos para instalar um programa no Windows, mas estão corrompidos. O script se conecta com um trojan chamado Overlord RAT, no qual é possível controlar o computador remotamente após instalar um vírus no sistema. A análise de código da ameaça registrou algumas verificações de referências a apps de bancos e instituições financeiras brasileiras. Os dados indicam que a execução do malware pode considerar referências que miram esses serviços, mas não há evidências de invasão ou roubo de dados de cliente",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-27T13:10:04+00:00",
+      "coletado_em": "2026-10-27T15:23:33.384867+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/1wkWbOO2eckmvqaSFii-Yxl9tV4=/0x0/filters:format(webp):quality(85)/53dee3d4-b2d5-4dfe-bfa7-5f05e7056eab.png",
+      "score": 4.859,
+      "cobertura": []
+    },
+    {
+      "id": "4928ea86940c",
+      "titulo": "CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security",
+      "url": "https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-26T12:00:00+00:00",
+      "coletado_em": "2026-10-27T13:08:47.339342+00:00",
+      "imagem_feed": null,
+      "score": 3.411,
+      "cobertura": []
+    },
+    {
+      "id": "db53ad4487ec",
+      "titulo": "\"Tela achatada\" vira moda e mais 5 marcas já estão entrando na onda",
+      "url": "https://canaltech.com.br/smartphone/tela-achatada-vira-moda-e-mais-5-marcas-ja-estao-entrando-na-onda/",
+      "resumo": "Os celulares com tela larga e formato mais achatado podem se tornar uma das novas apostas do mercado em 2027. Segundo informações divulgadas pelo insider Digital Chat Station, as cinco principais fabricantes nacionais da China já aprovaram projetos de smartphones com esse formato e aceleram os testes dos aparelhos. Os modelos terão posicionamentos diferentes, com opções voltadas para fotografia, desempenho e mercado intermediário. A Oppo deve ser a primeira a apresentar um aparelho da categoria, seguida pela Honor. As outras fabricantes devem avançar em um ritmo mais lento. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas O vazamento não detalha quais serão as cinco marcas envolvidas nem revela especificações, preços ou datas exatas de lançamento. A tendência indica que o formato pode ganhar espaço entre diferentes faixas de preço. De acordo com o vazamento, a Oppo provavelmente será a primeira fabricante Android a lançar um celular com tela reta larga . A Honor deve aparecer na sequência, enquanto as demais empresas preparam suas próprias alternativas. A categoria deve incluir aparelhos com propostas distintas. Alguns terão foco em fotografia, enquanto outros prioriz",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-27T14:13:17+00:00",
+      "coletado_em": "2026-10-27T15:23:33.384867+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9I1ug3eVG9aukmDMbm69qjlkEkQ=/0x0/filters:format(webp):quality(85)/30e26927-09e4-447c-a6e5-495082f81160.webp",
+      "score": 1.469,
+      "cobertura": []
+    },
+    {
+      "id": "dd12e5321e58",
+      "titulo": "Edge 70 Neo aparece antes da hora com bateria grandona",
+      "url": "https://canaltech.com.br/smartphone/edge-70-neo-aparece-antes-da-hora-com-bateria-grandona/",
+      "resumo": "O Motorola Edge 70 Neo apareceu antes do lançamento com uma ficha técnica que chama a atenção pela bateria de 7.000 mAh . As especificações foram divulgadas pelo site 91mobiles, que afirma ter obtido os detalhes por meio do informante Sanju Choudhary. O aparelho também deve contar com tela de 144 Hz, processador Snapdragon e câmera principal de 50 MP. A Motorola já confirmou que pretende lançar o modelo na Índia nos próximos meses , mas ainda não revelou o preço nem a data exata de estreia. Por enquanto, as especificações devem ser tratadas como vazamento e não como informações oficiais da fabricante. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas De acordo com o vazamento, o Edge 70 Neo terá uma tela de 6,78 polegadas com resolução 1.5K, taxa de atualização de 144 Hz e proteção Gorilla Glass 7i. O painel maior representa uma mudança em relação ao Edge 60 Neo, que tinha tela de 6,36 polegadas com atualização de 120 Hz. O processamento ficaria a cargo do Snapdragon 7s Gen 3 , acompanhado por memória RAM LPDDR5X e armazenamento UFS 3.1. As configurações previstas incluem versões com 6 GB ou 8 GB de RAM, além de 128 GB ou 256 GB de espaço interno. O celular deve sair d",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-27T13:15:00+00:00",
+      "coletado_em": "2026-10-27T15:23:33.384867+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/oLJxPbYZZ5hEHy5Phf0nKOA9Xbg=/0x0/filters:format(webp):quality(85)/84955ca1-77bb-4919-befe-18dd15ecf723.jpg",
+      "score": 1.367,
+      "cobertura": []
+    }
+  ]
+}
