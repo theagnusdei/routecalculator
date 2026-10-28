@@ -1,0 +1,404 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "13334a1f19f4",
+      "titulo": "Three studies reveal the hidden layers between DNA and disease",
+      "url": "https://medicalxpress.com/news/2026-10-reveal-hidden-layers-dna-disease.html",
+      "resumo": "In three studies published in Nature today, Australian researchers have made advances in our understanding of how genetic differences between people influence disease. The team from the Garvan Institute of Medical Research, in collaboration with the Murdoch Children's Research Institute, UNSW and other partners, linked genetic risk regions for 16 diseases to possible causes in specific immune cells, identifying nearly 1,500 genes that may contribute to a range of diseases. These discoveries are set to accelerate drug development and precision medicine across many diseases, ranging from cancers to immune and neurological conditions.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-28T16:00:08+00:00",
+      "coletado_em": "2026-10-28T16:04:03.521598+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-landmark-studies.jpg",
+      "score": 6.542,
+      "cobertura": []
+    },
+    "texto_fonte": "Three studies reveal the hidden layers between DNA and disease\nIn three studies published in Nature today, Australian researchers have made advances in our understanding of how genetic differences between people influence disease. The team from the Garvan Institute of Medical Research, in collaboration with the Murdoch Children's Research Institute, UNSW and other partners, linked genetic risk regions for 16 diseases to possible causes in specific immune cells, identifying nearly 1,500 genes that may contribute to a range of diseases. These discoveries are set to accelerate drug development and precision medicine across many diseases, ranging from cancers to immune and neurological conditions.\nThe work is the first major output of the TenK10K project, which seeks to map genetic variation and gene activity in immune cells from 10,000 people.\n\"With our findings, we've gone from understanding very few to thousands of the potential causal mechanisms connecting genetic variation to disease risk, which is huge,\" said Joseph Powell, director of the Translational Genomics Program at Garvan, director of the UNSW Institute for Genomics and Health and senior co-author on all three papers.\n\"This is a fundamental shift in what's possible. When you know which genetic variant is driving a disease—and in which cell, through which mechanism—you can start to identify patients who are likely to respond to a particular treatment, and develop drugs toward targets we didn't know existed.\"\nDaniel MacArthur, co-senior author on two of the three papers and director of the Centre for Population Genomics, a collaboration between the Garvan Institute and Murdoch Children's Research Institute, adds, \"This is the most detailed map to date of how genetic variation shapes the immune system. We're already seeing the data being used to create new tools for understanding human biology and disease, which is incredibly exciting. This is the kind of foundational resource that researchers will be drawing on for years.\"\nAnalyzing gene expression in more than 5 million immune cells\nTechnological advancements over the past three decades have made it far easier to read a person's DNA. But pinpointing how these differences in gene sequences lead to disease requires vast amounts of data that have been difficult to generate and analyze at the single-cell level—until now.\n\"In the first phase of our TenK10K project, we've sequenced the genomes of nearly 2,000 Australians and used the latest single-cell technologies to measure gene activity in more than 5 million of their immune cells,\" says Powell. \"That let us trace tens of millions of genetic variants to the specific cell types they act in and link them to 16 diseases and 44 blood characteristics, to identify likely mechanisms that are driving that disease.\"\n\"Most of the biological mechanisms we uncovered were invisible to prior studies. This pinpoints the immune cell type involved, which could help target future treatments,\" said Powell.\n\"For example, we found a genetic variant that increases the expression of a gene called OSM in natural killer immune cells and increases the risk of developing irritable bowel disease. This uncovered a specific immune pathway that could potentially be targeted with future treatments.\"\nDecoding the genome from all angles\nThe three studies each examine a different layer of gene regulation, together building a fuller picture of how DNA variation affects gene expression and shapes immune cell function.\nThe first study maps how common and rare genetic variants influence gene activity in individual immune cell types. The team focused on 21,000 genes and found over 180,000 common and rare effects on gene expression. Nearly 5,000 of the genes with these effects—about a quarter—had not been linked to a genetic effect on their activity in the largest previous study of whole blood.\nThey compared these findings with genetic studies of 16 diseases, including cancers, immune conditions and neurological disorders. This revealed 893 genes linked to diseases or blood traits whose activity had not previously been linked to genetic variation. Many of these were found in specific cell types rather than across all blood cells, which may explain why earlier whole-blood studies missed them.\nThe second turns to a part of the genome that has been hard to study: tandem repeats. These are repetitive DNA sequences important for gene regulation that occupy more genetic 'real estate' than all protein-coding genes. They have historically been too difficult to analyze accurately. But with new methods for analyzing whole-genome sequencing data, the team identified more than 69,000 tandem repeat variants associated with changes in gene expression. They also found over 200 genes where repeated DNA sequences may help explain genetic links to immune and blood traits, revealing potential new targets for treating a range of diseases.\nThe third maps a further layer of regulation: chromatin accessibility. This detects how open or tightly packed DNA is in a cell and controls which genes can be switched on or off. The team identified more than 240,000 genetic variants linked to chromatin accessibility. They then linked more than 28,000 of these DNA regions to the genes they help regulate. Importantly, the team showed that focusing on chromatin accessibility explained the likely role of up to 23% more disease-linked genetic regions than looking at gene activity alone.\nResource for accelerating drug discovery\nSummary results from all three studies are now freely available.\n\"We're excited to see how this resource can be leveraged by other scientists and organizations to guide new therapies and deliver better care for patients. And this is just the start. In the next phase, we'll be significantly expanding the number of people and disease areas analyzed in TenK10K and increasing the genetic diversity of participants so that our findings can be representative of more people around the world,\" says Powell.\nPublication details\nRare and common genetic variants shape single-cell immune gene expression, Nature (2026). DOI: 10.1038/s41586-026-10721-2\nTandem repeat variation shapes immune cell type-specific gene expression. Nature (2026). DOI: 10.1038/s41586-026-10438-2\nGenetic variants shape single-cell chromatin accessibility and disease risk. Nature (2026). DOI: 10.1038/s41586-026-11173-4\nJournal information: Nature",
+    "autor_fonte": "Garvan Institute",
+    "site_fonte": "Medical Xpress",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/three-landmark-studies.jpg",
+    "imagem_arquivo": "imagens/medicina-three-studies-reveal-the-hidden-layers-b.jpg",
+    "imagem_credito": "Medical Xpress",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://medicalxpress.com/news/2026-10-reveal-hidden-layers-dna-disease.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "17b6e5fd169a",
+      "titulo": "Three-quarters of NFL football players may end up with CTE",
+      "url": "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease",
+      "resumo": "The first estimate of CTE prevalence across the NFL suggests 75 percent of players may suffer from the neurodegenerative disease.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-10-28T15:32:00+00:00",
+      "coletado_em": "2026-10-28T16:04:03.586474+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102826_AC_cte-estimate_main.jpg?w=800",
+      "score": 5.439,
+      "cobertura": []
+    },
+    "texto_fonte": "An estimated three-quarters of NFL players who died in a 16-year period had the devastating neurogenerative disease called CTE.\nBack in 2017, researchers reported that an estimated 99 percent of former NFL players developed CTE, or chronic traumatic encephalopathy, from an analysis of donated brains. But the families who provided the donations may have done so because their football-playing relatives had symptoms related to CTE, which could skew the results. A new study, which accounts for this potential bias, estimates that nearly 75 percent of former NFL players have CTE at death. It’s the first population-level estimate for NFL players, researchers report October 28 in JAMA Network Open.\nThe development of CTE is linked to repeated blows to the head over time. The disease can occur in people who play contact sports, experience intimate partner violence or engage in military combat. A study of American football players suggests that the longer the duration of repeated head trauma, the higher the risk of CTE and the more severe the condition. During life, people who are later diagnosed with CTE can experience symptoms including memory issues, difficulty concentrating, depression and poor impulse control.\nA brain protein called tau, which usually helps nerve cells communicate and performs other jobs, goes awry in CTE. Brains with the disease are snarled with irregular, damaging clumps of the protein. The condition is diagnosed after death, during an autopsy, and has been identified most frequently among American football players.\nThe new study, by a Boston University research team, included all previous NFL players who passed away from January 2008 through December 2023. The more than 2,300 players included almost 400 with samples in the university’s UNITE Brain Bank, with the remainder identified from records in the U.S. National Death Index. The research team determined that families of NFL players who had CTE-related symptoms in life were five times more likely to donate their relative’s brain than families whose relative did not experience symptoms. Taking that into consideration, the team landed on a population-level CTE estimate for NFL players of 74.5 percent.\nThe research team notes that determining the true prevalence of CTE is important to understanding the public health impact of the disease.",
+    "autor_fonte": "Aimee Cunningham",
+    "site_fonte": "Science News Magazine",
+    "imagem_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102826_AC_cte-estimate_main.jpg",
+    "imagem_arquivo": "imagens/biologia-three-quarters-of-nfl-football-players-m.jpg",
+    "imagem_credito": "Science News Magazine",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "19950921145b",
+      "titulo": "A new flexible foot pad enables this one-legged, hopping robot to go where few robots have gone before",
+      "url": "https://techxplore.com/news/2026-10-flexible-foot-pad-enables-legged.html",
+      "resumo": "A team of University of Toronto Engineering researchers has developed a flexible foot pad for the \"Hopcopter\"—a one-legged, hopping robot they developed—significantly enhancing its performance on sand, ice and other difficult terrain.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-28T15:40:04+00:00",
+      "coletado_em": "2026-10-28T16:04:03.525841+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-flexible-foot-pa-1.jpg",
+      "score": 5.004,
+      "cobertura": []
+    },
+    "texto_fonte": "A new flexible foot pad enables this one-legged, hopping robot to go where few robots have gone before\nA team of University of Toronto Engineering researchers has developed a flexible foot pad for the \"Hopcopter\"—a one-legged, hopping robot they developed—significantly enhancing its performance on sand, ice and other difficult terrain.\nThe Hopcopter was designed to carry out a range of missions, such as search and rescue, remote infrastructure inspections and perhaps even interplanetary exploration. Its unusual mode of locomotion could provide important advantages over more common robotic designs, such as wheeled vehicles, flying drones or even four-legged robotic dogs.\n\"Drones are very familiar these days, and while they do have a lot of advantages, they also have some drawbacks,\" says professor Pakpong Chirarattananon, senior author on a paper published in Advanced Intelligent Systems that describes the innovation.\n\"On the plus side, drones are relatively cheap to produce, they can fly over any kind of terrain and they are great for photography and videography. But because they need to be light, they aren't so good at carrying lots of cargo, and their range is limited by how much fuel they can carry.\"\n\"On the other end of the spectrum, you have wheeled or legged robots. Weight isn't such a factor, so they can carry a lot more, and travel farther. But they are much more expensive, and they can't always handle rough terrain. There's still a gap somewhere in between for a new kind of robot design.\"\nTaking cues from birds\nChirarattananon's team of researchers calls itself the Convergent Locomotion, Intelligent Mechanisms and Bio-inspired robotics lab (CLIMB). They look to nature as a model for how to design robots that strike the right balance between factors such as range, fuel efficiency, cost and cargo capacity.\nThe Hopcopter is one of these, inspired by the behavior of animals such as birds.\n\"Birds can fly, but if you look at how they actually behave, they're not constantly in the air,\" says Chirarattananon.\n\"Instead, they flit from one location to another, perching and resting for long periods in between. Sometimes they even hop along the ground, using their wings sparingly each time. They conserve their energy, only using it when they need to.\"\nSong Li, a Ph.D. student from the City University of Hong Kong and co-author of the paper, who is doing an academic exchange at MIE, played a key role in developing the Hopcopter. It's essentially a traditional quadcopter-style drone perched on top of a single large, spring-loaded foot.\n\"The long leg with the center of mass high above the ground, along with pre-stretched rubber bands to counteract the effect of gravity and other forces, makes this design easier to model and control than other hopping robots,\" says Ph.D. student Jeeraphat (Owen) Kledkruemas, lead author on the new paper.\n\"The hopping motion enables it to easily bound over obstacles that would stop most robots equipped with legs or wheels, while still conserving energy and carrying more weight than a standard drone.\"\nSlipping on ice, sinking in sand\nBut while the original Hopcopter was great at traversing flat concrete or fine gravel, there were still some types of terrain that caused problems.\n\"If it landed on something at a steep enough angle, or something slippery like ice, the foot would slip and it would lose balance,\" says Kledkruemas.\n\"It also had a problem with sand or other soft surfaces: the foot would just sink down and get stuck.\"\nA foot pad that adapts\nTo overcome this problem, Kledkruemas created a foot pad that spreads the weight of the drone over a larger surface area, similar to how a snowshoe prevents its wearer from sinking down into the snow.\nThe new foot pad is also equipped with a spherical joint that enables it to slant in any direction, matching the angle of whatever surface it encounters. A series of rubber bands provides tension that snaps the foot back into position after each hop.\nThe bottom of the foot pad is also covered in short spikes that provide additional traction, like the crampons used by ice climbers.\n\"These improvements make it possible to hop on ice and sand,\" says Kledkruemas.\n\"They reduce the takeoff error by up to 66% while improving the efficiency by up to 64%. They also reduce the performance variation across terrains by 84%—in other words, the new Hopcopter performs almost as well on difficult terrain as it does on smooth terrain.\"\nAutonomous navigation and missions beyond the lab\nGoing forward, the team plans to develop autonomous navigation for the Hopcopter and have it take on ever bigger challenges, demonstrating its ability to go where other robots currently cannot.\n\"This improvement enables us to bring this robot out of the lab and into the real world,\" says Chirarattananon.\n\"We imagine it being used to conduct search and rescue after natural disasters, or inspect remote infrastructure such as pipelines or mining sites. We even dream of exploring places like Mars, where the atmosphere is too thin for most kinds of drones. There are lots of exciting possibilities.\"\nMore information\nJeeraphat Owen Kledkruemas et al., Compliant Footpads Enable Terrain‐Adaptive Hopping in a Monopedal Robot, Advanced Intelligent Systems (2026). DOI: 10.1002/aisy.70580",
+    "autor_fonte": "Tyler Irving",
+    "site_fonte": "Tech Xplore",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-new-flexible-foot-pa-1.jpg",
+    "imagem_arquivo": "imagens/robotica-a-new-flexible-foot-pad-enables-this-one.jpg",
+    "imagem_credito": "Tech Xplore",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techxplore.com/news/2026-10-flexible-foot-pad-enables-legged.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "ca41dd04eb13",
+      "titulo": "Claude trava tarefas de engenharia reversa e revolta quem modifica jogos e TVs",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-trava-tarefas-de-engenharia-reversa-e-revolta-quem-modifica-jogos-e-tvs/",
+      "resumo": "O Claude começou a interromper tarefas de engenharia reversa de softwares, jogos e firmwares de smart TVs. Os usuários relatam, em publicação no Reddit, que o assistente de inteligência artificial inicia o processamento dos pedidos, mas interrompe a execução após acionar filtros de segurança que restringem determinadas atividades. As reclamações ganharam força após uma publicação do usuário u/targaryenNotJon na comunidade r/ClaudeAI, no Reddit. Segundo ele, o filtro de segurança do Claude foi acionado quando o usuário pediu a engenharia reversa de uma Smart TV, mas não bloqueou a mesma tarefa aplicada a um videogame. No entanto, outros relatos também citam restrições em projetos de análise de programas e adaptação de jogos para navegadores. As restrições provocaram críticas de desenvolvedores , que acusam a empresa de limitar modificações legítimas em softwares e equipamentos. Uma parte dos usuários também questiona se os filtros prejudicam o direito de reparar e personalizar dispositivos próprios. Por sua vez, a A Anthropic, desenvolvedora do Claude, confirmou a presença de filtros de cibersegurança no modelo Opus 5.5, lançado em setembro de 2026. No entanto, a empresa não anuncio",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-28T16:03:00+00:00",
+      "coletado_em": "2026-10-28T16:04:03.556382+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "score": 6.098,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/claude-recusa-tarefas-de-engenharia-reversa-em-tvs-e-jogos/"
+      ]
+    },
+    "texto_fonte": "Claude trava tarefas de engenharia reversa e revolta quem modifica jogos e TVs\nPor Viviane França |\nO Claude começou a interromper tarefas de engenharia reversa de softwares, jogos e firmwares de smart TVs. Os usuários relatam, em publicação no Reddit, que o assistente de inteligência artificial inicia o processamento dos pedidos, mas interrompe a execução após acionar filtros de segurança que restringem determinadas atividades.\nAs reclamações ganharam força após uma publicação do usuário u/targaryenNotJon na comunidade r/ClaudeAI, no Reddit. Segundo ele, o filtro de segurança do Claude foi acionado quando o usuário pediu a engenharia reversa de uma Smart TV, mas não bloqueou a mesma tarefa aplicada a um videogame. No entanto, outros relatos também citam restrições em projetos de análise de programas e adaptação de jogos para navegadores.\nAs restrições provocaram críticas de desenvolvedores, que acusam a empresa de limitar modificações legítimas em softwares e equipamentos. Uma parte dos usuários também questiona se os filtros prejudicam o direito de reparar e personalizar dispositivos próprios. Por sua vez, a A Anthropic, desenvolvedora do Claude, confirmou a presença de filtros de cibersegurança no modelo Opus 5.5, lançado em setembro de 2026. No entanto, a empresa não anunciou uma proibição específica à engenharia reversa.\nComo alternativa, alguns usuários começaram a testar modelos concorrentes, como GLM, Qwen e DeepSeek, ou a reformular os comandos enviados ao Claude. Outros informam que são donos do equipamento ou citam normas sobre o direito de reparar, incluindo regras da União Europeia. Em alguns testes, a declaração de propriedade ajudou a obter instruções para modificar o webOS.\nOutra estratégia consiste em usar um modelo alternativo, como o Qwen, para iniciar o projeto ou gerar a estrutura do código e, depois, recorrer ao Claude para análise e refinamento. Também há relatos de tentativas de criar contextos fictícios em que o fabricante autorizaria a modificação, mas nenhuma dessas abordagens garante uma resposta positiva. Diante dos bloqueios, parte da comunidade considera migrar para modelos de código aberto ou executá-los em computadores próprios.\nO que é engenharia reversa e para que serve?\nA engenharia reversa consiste em analisar um programa, software ou firmware para entender como ele funciona, mesmo sem acesso ao código-fonte original. A técnica pode ser aplicada em segurança digital, desenvolvimento de software e personalização de dispositivos para a identificação de vulnerabilidades, realização de testes de compatibilidade entre sistemas e a investigação de comportamentos inesperados em programas.\nA prática também ajuda a adaptar jogos para plataformas diferentes das originais, inclusive navegadores de internet. Em Smart TVs, a engenharia reversa pode auxiliar na análise e modificação do sistema operacional. Os usuários usam esse método para remover aplicativos pré-instalados, reduzir a presença de anúncios e personalizar interfaces de sistemas, como webOS e Tizen.\nA ferramenta Ghidra e o projeto Reverse Engineer Anything (REA) podem ser integrados a fluxos de trabalho com inteligência artificial para automatizar etapas da engenharia reversa. Inclusive, desenvolvedores relatam que o Claude ainda analisa códigos com o Ghidra, mas a camada de proteção da Anthropic bloqueia a geração ou o empacotamento do código modificado.\nSe você gostou do conteúdo, talvez também se interesse por conferir “O que são modelos de IA de pesos abertos?”.",
+    "autor_fonte": "Viviane França",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/7hsADN3QG0FIBwnr3-J9B_yMLUw=/1200x675/smart/filters:format(webp):quality(85)/4c03a197-4217-4ac2-aba7-761c16cb8d12.png",
+    "imagem_arquivo": "imagens/software-claude-trava-tarefas-de-engenharia-rever.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/inteligencia-artificial/claude-trava-tarefas-de-engenharia-reversa-e-revolta-quem-modifica-jogos-e-tvs/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "ce2e9511cbab",
+      "titulo": "Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+      "resumo": "Palit denies news that Galax is going out of production.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-28T11:56:26+00:00",
+      "coletado_em": "2026-10-28T13:57:59.612227+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/yB6G4PAHnBYHqfAnGyVu9m-1920-80.jpg",
+      "score": 6.776,
+      "cobertura": [
+        "https://www.techspot.com/news/114365-palit-denies-galax-factory-shutting-down-due-nvidia.html"
+      ]
+    },
+    "texto_fonte": "Palit released an official statement denying recent speculation that it has closed its Galax factory — where it makes Nvidia RTX 50-series GPUs — because it cannot guarantee a sufficient supply of Nvidia chips. According to the company’s press release, its operations continue as usual, it has not shut down any factories, and customers are able to purchase Galax GPUs through existing distributors and retailers for both domestic and international markets.\n“We are aware of recent reports and speculation regarding Galax’s business operations. We would like to clarify that these claims are inaccurate,” the company said. “Galax continues to operate as usual. No manufacturing facilities have been shut down, and Galax products remain available through our sales channels in both domestic and international markets.” It also mentioned that Galax and Palit share the same factories, and that production and business operations continue as normal. Nvidia was not immediately available for comment regarding speculation about the availability of chips.\nThe initial news of a possible Galax closure came as a shock to many, especially as the brand had just launched its latest flagship model, the Galax GeForce RTX 5080 HOF Extreme. The rumors stemmed from an exclusive news report by a Spanish outlet (expand the post above) claiming that Palit could no longer supply Nvidia GPU chips to Galax, meaning it could no longer build graphics cards at that facility, and keeping it operational was no longer viable for the company. Thankfully, the sources were wrong, so we are not going to see another major consumer GPU brand like EVGA leave the market. Still, the speculation that Galax would stop GPU production was not implausible, especially as we’ve been seeing reports that Nvidia was ending RTX 5090 production in favor of more expensive AI data center and professional GPUs.\nThis wasn’t the first time this year that Galax was rumored to have ended production. Palit Group restructured its operations earlier this year, which brought similar reports of closure for the GPU brand. This was further reinforced after Palit announced that it would consolidate Galax operations at its headquarters in Taiwan. Thankfully, the speculation both then and today is false, and we will continue seeing Galax GPUs on retail shelves. However, it still doesn’t solve the skyrocketing GPU prices brought by the AI-driven memory chip shortage.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nJowi Morales is a tech enthusiast with years of experience working in the industry. He’s been writing with several tech publications since 2021, where he’s been interested in tech hardware and consumer electronics.",
+    "autor_fonte": "Jowi Morales",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/yB6G4PAHnBYHqfAnGyVu9m-1920-80.jpg",
+    "imagem_arquivo": "imagens/hardware-nvidia-rtx-gpu-vendor-palit-denies-its-g.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "799a3df6ea24",
+      "titulo": "NASA systems engineering team details Habitable Worlds Observatory mission architecture",
+      "url": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
+      "resumo": "Finding an Earth-like world beyond the solar system is the holy grail of exoplanet research, and the field has seen remarkable technological advances in detecting and studying exoplanets since the first confirmed exoplanet around a sun-like star was discovered in 1995. These advances include ground- and space-based telescopes, notably the James Webb Space Telescope. Although astronomers have already directly imaged some exoplanets, directly imaging Earth-like planets around sun-like stars remains a major technological challenge, primarily because these planets are extremely faint compared with their host stars and appear very close to them in the sky.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-28T15:40:11+00:00",
+      "coletado_em": "2026-10-28T16:04:03.529490+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-systems-engineeri.jpg",
+      "score": 6.505,
+      "cobertura": []
+    },
+    "texto_fonte": "NASA systems engineering team details Habitable Worlds Observatory mission architecture\nFinding an Earth-like world beyond the solar system is the holy grail of exoplanet research, and the field has seen remarkable technological advances in detecting and studying exoplanets since the first confirmed exoplanet around a sun-like star was discovered in 1995. These advances include ground- and space-based telescopes, notably the James Webb Space Telescope. Although astronomers have already directly imaged some exoplanets, directly imaging Earth-like planets around sun-like stars remains a major technological challenge, primarily because these planets are extremely faint compared with their host stars and appear very close to them in the sky.\nBut a proposed mission called the Habitable Worlds Observatory (HWO) could advance progress toward not only observing but directly imaging Earth-like exoplanets. While HWO has been in the works for about 10 years now, it's still not slated to launch until sometime in the 2040s. In the meantime, researchers are developing new engineering concepts for this highly anticipated telescope. These concepts were discussed in a June 2026 study published in the Journal of Astronomical Telescopes, Instruments, and Systems and hold the potential to continue HWO's development well in advance of its launch.\nFor the study, the researchers introduced engineering concepts called Exploratory Analytic Cases (EACs) designed to balance the demands of the science goals with the engineering needs. The purpose of this study was to discuss the first three of five EACs regarding HWO's architecture design, focusing on telescope type, size and whether an on- or off-axis design is needed.\nThe telescope size includes the mirror diameter in meters, and the type of telescope includes the mirror and aperture design, with the study focusing on inscribed, circumscribed, round and outer diameter. For example, inscribed includes the inner baseline measurement while circumscribed includes the measured outer region that holds a set of mirrors. A round mirror is how it sounds, while an outer diameter mirror denotes the maximum edge-to-edge measurement.\nThe difference between on-axis and off-axis design is that the former has all of the components within the field of view of incoming light, obstructing a portion of the view, while the latter has all of its components outside the field of view, resulting in an unobstructed view.\nFor the EACs, the researchers designed EAC1 as having a 6-m inscribed / 7.2-m circumscribed, off-axis design; EAC2 with a 6-m round, off-axis design; and EAC3 having an 8-m outer diameter, on-axis design. In the end, the researchers favored the off-axis design to allow greater light-gathering operations, along with focusing on a larger aperture size to enable greater light-collecting area.\nAnother design consideration the researchers recommended was temperature properties, which influence light-collecting and overall telescope operations. This is especially relevant to the coronagraph instrument (CI), which blocks out the star's glare, enabling the direct imaging of orbiting exoplanets.\nThe study notes, \"The SET [Systems Engineering Team], composed of team members across NASA centers and JPL, successfully completed design architectures for EACs 1 to 3 and developed end-to-end modeling for EAC1. This team was established to support design explorations and formulating technology requirements. Using model-driven practices based on JWST heritage and enhanced by Roman experience, the team developed several tools to perform parametric design studies and trades. In parallel, the models were shared with industry partners to support their technology maturation efforts and independent architecture studies.\"\nAs noted, HWO isn't slated to launch until the 2040s, but its science goals remain unchanged as it is also slated to replace the James Webb Space Telescope as the primary space telescope. The primary goal of HWO will be to directly image Earth-like exoplanets, and the designs and objectives outlined today will influence these science goals and the telescope operations in determining whether Earth is the only habitable planet and whether we're alone in the universe.\nMore information\nAlice (Kuo-Chia) Liu et al., Early architecture concepts for the Habitable Worlds Observatory system design, modeling, and analysis, Journal of Astronomical Telescopes, Instruments, and Systems (2026). DOI: 10.1117/1.jatis.12.4.041017",
+    "autor_fonte": "Laurence Tognetti",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/nasa-systems-engineeri.jpg",
+    "imagem_arquivo": "imagens/astrofisica-nasa-systems-engineering-team-details-ha.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "cb9cd3a60cb0",
+      "titulo": "D-Wave and LG CNS Partner on Quantum Optimization in South Korea",
+      "url": "https://thequantuminsider.com/2026/10/28/dwave-lg-cns-quantum-optimization-south-korea/",
+      "resumo": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and LG CNS Co., Ltd. (“LG CNS”), a leading AI transformation company in South Korea, today announced that the companies have signed a non-binding memorandum of […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-28T13:21:39+00:00",
+      "coletado_em": "2026-10-28T16:04:03.530723+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_18-20.png",
+      "score": 5.911,
+      "cobertura": [
+        "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
+      ]
+    },
+    "texto_fonte": "Insider Brief\n- D-Wave Quantum and South Korea’s LG CNS have signed a non-binding memorandum of understanding to advance quantum optimization applications in South Korea and international markets.\n- The companies plan to combine D-Wave’s quantum annealing technology with LG CNS’s mathematical optimization and systems integration expertise to develop applications for manufacturing, telecommunications, finance and retail.\n- The collaboration aims to move quantum optimization projects from proof of concept toward production, with potential applications in factory scheduling, delivery routing and resource allocation.\nPRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and LG CNS Co., Ltd. (“LG CNS”), a leading AI transformation company in South Korea, today announced that the companies have signed a non-binding memorandum of understanding (“MOU”) to advance the adoption of quantum computing for enterprise optimization in South Korea and international markets. The collaboration will focus on applying D-Wave’s annealing quantum computing technology to complex optimization challenges, with the goal of moving applications from proof of concept into production.\nD-Wave CEO Dr. Alan Baratz and LG CNS President and CEO Hyun Shin-Gyoon announced the MOU onstage at D-Wave’s Qubits Asia conference in Seoul today. The companies intend to combine D-Wave’s annealing quantum computing technologies with LG CNS’s industry expertise, mathematical optimization capabilities and systems integration experience to develop applications for customers in manufacturing, telecommunications, finance and retail. The companies also intend to pursue joint go-to-market opportunities.\nLG CNS brings extensive mathematical optimization expertise across industries, including manufacturing and the public sector, with end-to-end capabilities spanning problem definition, mathematical modeling, algorithm validation and real-world implementation. LG CNS has also been conducting research on applying mathematical optimization and quantum computing to real-world industrial challenges, including image reconstruction and inspection and the detection of underground anomalies.\n“To generate meaningful results from quantum computing in industrial settings, quantum technology must be supported by a deep understanding of industries and strong optimization capabilities,” said Hyun Shin-Gyoon, CEO of LG CNS. “Through our collaboration with D-Wave Quantum, we will connect quantum computing to real-world customer problems and new business opportunities, accelerating the commercialization of related services.”\n“D-Wave’s commercial-grade annealing quantum computing technology is driving positive business outcomes for customers today,” said Dr. Alan Baratz, CEO of D-Wave. “LG CNS understands both the optimization problems enterprises need to solve and the systems those solutions must work within. By combining that expertise with our technology, we intend to help enterprises in South Korea and beyond move from evaluating quantum computing to deploying applications that deliver measurable business value.”\nOptimization underpins critical business decisions, from scheduling factory production and routing deliveries to allocating resources. As the number of variables and constraints grows, finding high-quality solutions within operational time limits becomes increasingly difficult. D-Wave’s annealing quantum computing technology is designed to address these challenges, with customers already running hybrid-quantum applications in production. The collaboration aims to bring that capability to LG CNS clients seeking to reduce costs, improve efficiency and respond faster to changing conditions.\nLearn more about D-Wave’s quantum optimization technology here.\nMohib Ur Rehman\nGet the latest research, company news, and market intelligence every week.",
+    "autor_fonte": "Mohib Ur Rehman",
+    "site_fonte": "The Quantum Insider",
+    "imagem_url": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_18-20.png",
+    "imagem_arquivo": "imagens/quantica-d-wave-and-lg-cns-partner-on-quantum-opt.jpg",
+    "imagem_credito": "The Quantum Insider",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://thequantuminsider.com/2026/10/28/dwave-lg-cns-quantum-optimization-south-korea/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "674a117ca796",
+      "titulo": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+      "resumo": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-27T13:28:23+00:00",
+      "coletado_em": "2026-10-28T13:57:59.612227+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/pnmCABph9HyG5zPEc6vuJ4-1920-80.jpg",
+      "score": 6.63,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/",
+        "https://canaltech.com.br/hardware/apple-lanca-novo-macbook-pro-e-imac-com-chip-m6-e-foco-pesado-em-ia/",
+        "https://www.techspot.com/news/114354-apple-introduces-new-14-inch-macbook-pro-m6.html"
+      ]
+    },
+    "texto_fonte": "Apple is updating two more computers to its M6 system-on-chip. The base 14-inch MacBook Pro and the iMac lineup are getting the company's latest processor ahead of tomorrow's \"Pro and Tell\" event in Los Angeles.\nThese devices are retaining the same designs that they've had for years. The computers will be available for pre-order on Wednesday at 10:10 a.m. PT (1:10 p.m. ET) and will ship on Nov. 6. The M6 in the MacBook Pro will be configured with 12 CPU cores and 12 GPU cores, alongside dual neural engines for certain on-device AI workloads. On the iMac, there will also be a cut-down option with a 10-core CPU and 10-core GPU.\nThe MacBook Pro will be configurable with up to 32GB of RAM and is being updated with Wi-Fi 7 and Bluetooth 6 using Apple's N1 networking chip. The iMac is also getting those networking benefits, as well as a 2.5 Gigabit Ethernet port. Like previous iMacs, the number of ports you get is tied to the chip, with two Thunderbolt 4 ports with the base chip or four with the option with more cores.\nIt's no surprise that Apple is pushing both of these as AI-forward machines, both with the new chips and the recently released Siri AI and Apple Intelligence features in macOS 27 Golden Gate.\nThe 14-inch MacBook Pro with M6 will start at $1,999 ($1,899 with education discount), while the iMac will begin at $1,499 ($1,449 with education discount) for the 10-core CPU/GPU configuration and $1,699 ($1,599 with education discount) for the full chip.\nBoth of these new systems are being announced the day before Apple is expected to release a MacBook with an OLED touchscreen. Yesterday, in a week of announcements, Apple debuted a redesign of the iPad Mini with a thinner body and an OLED display.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nAndrew E. Freedman is a senior editor at Tom's Hardware focusing on laptops, desktops and gaming. He also keeps up with the latest news. A lover of all things gaming and tech, his previous work has shown up in Tom's Guide, Laptop Mag, Kotaku, PCMag and Complex, among others. Follow him on Threads @FreedmanAE and BlueSky @andrewfreedman.net. You can send him tips on Signal: andrewfreedman.01",
+    "autor_fonte": "Andrew E Freedman",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/pnmCABph9HyG5zPEc6vuJ4-2560-80.jpg",
+    "imagem_arquivo": "imagens/computadores_pessoais-apple-adds-m6-to-14-inch-macbook-pro-and.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "feda3ad530f5",
+      "titulo": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "resumo": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-28T15:41:18+00:00",
+      "coletado_em": "2026-10-28T16:04:03.544025+00:00",
+      "imagem_feed": null,
+      "score": 5.707,
+      "cobertura": [
+        "https://thequantuminsider.com/2026/10/28/dwave-lg-cns-quantum-optimization-south-korea/"
+      ]
+    },
+    "texto_fonte": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia. The latest incidents affect brokerages Daishin Securities and Mirae Asset Global Investments, as well as the crypto exchange Bithumb.\nThe incident comes roughly a month after a series of cyberattacks targeting South Korean financial institutions, raising concerns about vulnerabilities beyond just the country’s banking systems. Security researchers linked the September wave of attacks on South Korea to a suspected China-based hacker who relied on an AI penetration testing tool called Artex, though officials are still investigating the root cause of the latest breaches.\nAccording to a local news, Daishin reported a cyberattack that exposed the personal information of 38,490 customers, including names, email addresses, and mobile phone numbers. The company has notified affected customers, is cooperating with authorities in the investigation, and will compensate for any losses as required by law.\nMeanwhile, Mirae and Bithumb reported separate cybersecurity incidents on Wednesday, per local media, though neither has confirmed that customer data was taken.\nSouth Korea’s financial regulator has called for stronger cybersecurity measures following a string of attacks on financial firms and government agencies, per officials in Seoul on Wednesday. The country also plans to conduct security checks on dozens of IT systems in the private sector.\nYesterday, Japan reported a cybersecurity incident involving GMO Internet, following a series of attacks on its financial institutions. The wave of cyberattacks across Asia underscore growing cybersecurity challenges in the region, often as a result of years of weak cybersecurity; though, investigators have not established a connection between the incidents.\nSouth Korea’s Financial Services Commission (FSC), Daishin Securities, Bithumb and Mirae Asset Global Investments did not immediately respond to requests for comment.",
+    "autor_fonte": "Kate Park",
+    "site_fonte": "TechCrunch",
+    "imagem_url": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
+    "imagem_arquivo": "imagens/inteligencia_artificial-south-koreas-financial-industry-hit-by-f.jpg",
+    "imagem_credito": "TechCrunch",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "8f6e04f858b6",
+      "titulo": "Apple lança novo MacBook Pro e iMac com chip M6 e foco pesado em IA",
+      "url": "https://canaltech.com.br/hardware/apple-lanca-novo-macbook-pro-e-imac-com-chip-m6-e-foco-pesado-em-ia/",
+      "resumo": "A Apple anunciou a atualização do MacBook Pro de 14 polegadas e do iMac de 24 polegadas , agora equipados com a nova geração de chips M6 . A nova plataforma traz melhorias na eficiência energética e na execução de tarefas de inteligência artificial diretamente no dispositivo, graças à inclusão de aceleradores neurais dedicados e do novo motor Neural Engine Dual 16-core . Além disso, ambos os modelos passam a contar com melhorias de conectividade avançadas, incluindo suporte às tecnologias Wi-Fi 7 e Bluetooth 6 . Os dois aparelhos chegam em breve custando até R$ 25.000 . MacBook Pro de 14 polegadas O novo MacBook Pro de 14 polegadas chega com o processador M6 base , configurado com 12 núcleos de CPU e 12 núcleos de GPU , dois núcleos a mais do que a geração passada, oferecendo um desempenho gráfico até 30% superior e ganhos de a té 25% em tarefas de IA comparado à geração anterior. O notebook mantém a tela Liquid Retina XDR de alta fidelidade visual (com opção de acabamento nano-texture) e traz um expressivo ganho em autonomia de bateria, alcançando até 24 horas de uso contínuo, a maior já registrada na linha Mac . Em termos de memória, o modelo inicial conta com 16 GB de memória un",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-28T12:04:00+00:00",
+      "coletado_em": "2026-10-28T13:57:59.638783+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/y7WwwtFK6nB-CX1zqmt9N4lpgxQ=/0x0/filters:format(webp):quality(85)/a46a8c3d-f655-4b44-a388-3c2b3204e956.jpg",
+      "score": 6.187,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/",
+        "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999"
+      ]
+    },
+    "texto_fonte": "Apple lança novo MacBook Pro e iMac com chip M6 e foco pesado em IA\nPor Raphael Giannotti |\nA Apple anunciou a atualização do MacBook Pro de 14 polegadas e do iMac de 24 polegadas, agora equipados com a nova geração de chips M6. A nova plataforma traz melhorias na eficiência energética e na execução de tarefas de inteligência artificial diretamente no dispositivo, graças à inclusão de aceleradores neurais dedicados e do novo motor Neural Engine Dual 16-core. Além disso, ambos os modelos passam a contar com melhorias de conectividade avançadas, incluindo suporte às tecnologias Wi-Fi 7 e Bluetooth 6. Os dois aparelhos chegam em breve custando até R$ 25.000.\nMacBook Pro de 14 polegadas\nO novo MacBook Pro de 14 polegadas chega com o processador M6 base, configurado com 12 núcleos de CPU e 12 núcleos de GPU, dois núcleos a mais do que a geração passada, oferecendo um desempenho gráfico até 30% superior e ganhos de até 25% em tarefas de IA comparado à geração anterior.\nO notebook mantém a tela Liquid Retina XDR de alta fidelidade visual (com opção de acabamento nano-texture) e traz um expressivo ganho em autonomia de bateria, alcançando até 24 horas de uso contínuo, a maior já registrada na linha Mac. Em termos de memória, o modelo inicial conta com 16 GB de memória unificada (com versão até 32 GB) com largura de banda de 170 GB/s, e traz portas Thunderbolt 4, HDMI, leitor de cartão SDXC, porta MagSafe 3 e carregamento rápido de 50% em 30 minutos.\nNovo iMac com chip M6\nO PC tudo-em-um da Apple deu um salto direto para o chip M6 (pulando a geração M5), trazendo a mesma configuração de CPU e GPU do MacBook Pro, entregando até o dobro de desempenho gráfico em relação ao modelo com M4. O novo iMac mantém a tela Retina 4.5K de 24 polegadas integrada em seu design ultrafino e segue disponível em sete opções de cores.\nAlém do avanço em IA e largura de banda de memória para rodar modelos de linguagem locais, o desktop recebeu melhorias nas conexões de rede, com opção de Ethernet de 2,5 Gbps, suporte a até dois monitores externos 6K via portas Thunderbolt 4 e velocidades de armazenamento SSD duplicadas em relação às gerações passadas.\nA pré-venda de ambos os aparelhos já começou, com disponibilidade internacional começando no dia 6 de novembro. O MacBook Pro chega custando a partir de R$ 24.999, já o iMac tem preço inicial de R$ 17.999.\nEmbora esses anúncios sejam interessantes para a comunidade de usuários de produtos da Apple, ainda não houve uma menção oficial sobre o suposto MacBook com tela OLED que apareceu em rumores recentes.",
+    "autor_fonte": "Raphael Giannotti",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/413gZKO-C-oeudNGVhWXlufNk3E=/1200x675/smart/filters:format(webp):quality(85)/4f753196-74b5-4cd7-9d83-0aba982a2f6e.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-apple-lanca-novo-macbook-pro-e-imac-com.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/hardware/apple-lanca-novo-macbook-pro-e-imac-com-chip-m6-e-foco-pesado-em-ia/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "29d238b31baa",
+      "titulo": "Golpe do falso Claude usa site oficial da Anthropic para roubar senhas e criptomoedas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/golpe-do-falso-claude-usa-site-oficial-da-anthropic-para-roubar-senhas-e-criptomoedas/",
+      "resumo": "Uma campanha de cibercriminosos usa anúncios pagos do Google para distribuir versões falsas do Claude e roubar senhas e criptomoedas. A fraude direciona usuários a páginas hospedadas no domínio oficial da Anthropic, claude.ai, para enganar as vítimas e instalar programas maliciosos em computadores com macOS e Windows. A fraude foi identificada por pesquisadores da Gen Digital, empresa responsável pelas marcas Norton e Avast. Os criminosos exploram duas ferramentas do Claude, chamadas Artefatos e chats compartilhados , que permitem publicar conteúdos acessíveis por outras pessoas. Com elas, os invasores criam páginas falsas dentro do próprio site da inteligência artificial, o que dificulta a identificação do golpe pelo endereço da página. As páginas mostram apenas um aviso discreto de que o conteúdo foi criado por um usuário e não passou por verificação. No macOS, a vítima recebe instruções para executar um comando no Terminal , que instala o Atomic Stealer (AMOS), um malware especializado no roubo de informações. O programa mostra uma tela falsa de senha semelhante à dos Ajustes do Sistema para capturar credenciais. Ele também coleta dados de navegadores, cookies, informações armaz",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca",
+        "computadores_pessoais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-28T13:05:03+00:00",
+      "coletado_em": "2026-10-28T13:57:59.638783+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "score": 4.283,
+      "cobertura": []
+    },
+    "texto_fonte": "Golpe do falso Claude usa site oficial da Anthropic para roubar senhas e criptomoedas\nPor Viviane França |\nUma campanha de cibercriminosos usa anúncios pagos do Google para distribuir versões falsas do Claude e roubar senhas e criptomoedas. A fraude direciona usuários a páginas hospedadas no domínio oficial da Anthropic, claude.ai, para enganar as vítimas e instalar programas maliciosos em computadores com macOS e Windows.\nA fraude foi identificada por pesquisadores da Gen Digital, empresa responsável pelas marcas Norton e Avast. Os criminosos exploram duas ferramentas do Claude, chamadas Artefatos e chats compartilhados, que permitem publicar conteúdos acessíveis por outras pessoas. Com elas, os invasores criam páginas falsas dentro do próprio site da inteligência artificial, o que dificulta a identificação do golpe pelo endereço da página.\nAs páginas mostram apenas um aviso discreto de que o conteúdo foi criado por um usuário e não passou por verificação. No macOS, a vítima recebe instruções para executar um comando no Terminal, que instala o Atomic Stealer (AMOS), um malware especializado no roubo de informações.\nO programa mostra uma tela falsa de senha semelhante à dos Ajustes do Sistema para capturar credenciais. Ele também coleta dados de navegadores, cookies, informações armazenadas no Keychain e arquivos de backup. Além disso, pode substituir aplicativos, como Ledger Live e Trezor Suite, por cópias adulteradas para roubar frases de recuperação de carteiras de criptomoedas.\nNo Windows, os criminosos recorrem a uma técnica conhecida como ClickFix. A página orienta o usuário a pressionar Win + R e colar um comando do PowerShell. A instrução baixa um trojan de acesso remoto hospedado no GitHub, que dá aos invasores acesso ao dispositivo. Com o programa instalado, os criminosos conseguem fazer capturas de tela, procurar carteiras de criptomoedas e controlar o computador à distância.\nA estratégia faz parte de uma sequência de ataques que exploram a confiança em plataformas de inteligência artificial. Em julho, um anúncio no Bing já havia direcionado usuários a uma página fraudulenta no domínio da Anthropic. Em outubro, uma versão falsa do ChatGPT hospedada em chatgpt.com foi usada para disseminar outro trojan.\nUma das dificuldades para bloquear esse tipo de ataque é que as próprias vítimas executam os comandos indicados nas páginas. Como a instalação começa com uma ação manual do usuário, algumas proteções antivírus podem não impedir a invasão.\nEm agosto, a Anthropic desconectou preventivamente as sessões de contas comprometidas por infostealers, como o AMOS. Até a divulgação do relatório da Gen Digital, porém, a empresa não havia se pronunciado sobre a remoção das páginas denunciadas.\nComo baixar o Claude com segurança?\nA Anthropic disponibiliza os instaladores oficiais do Claude para Mac e Windows em sua página de downloads: claude.com/download. Para evitar golpes:\n- Desconfie de comandos no Terminal ou PowerShell: o instalador convencional do Claude para desktop não pede a execução de comandos desse tipo. A exceção é o Claude Code, ferramenta para desenvolvedores que possui documentação própria da Anthropic;\n- Digite o endereço oficial no navegador: evite clicar em anúncios de pesquisa no Google ou Bing para baixar o aplicativo. Prefira acessar claude.com/download manualmente ou usar um favorito salvo anteriormente;\n- Confira os avisos da página: páginas legítimas de download não são chats compartilhados nem visualizadores de Artefatos com avisos de conteúdo criado por usuários.\nO que fazer se o computador for infectado?\nSe você executou comandos de uma página suspeita, use outro dispositivo confiável para trocar as senhas das contas mais importantes, começando pelo e-mail e pelos serviços bancários. Também é recomendável encerrar as sessões ativas e habilitar a autenticação em dois fatores (2FA).\nNo caso de carteiras de criptomoedas, a orientação é transferir os ativos para uma nova carteira, criada com uma nova frase de recuperação. No entanto, se o dispositivo estiver comprometido, gerar a nova carteira nele pode expor novamente os ativos ao roubo, por isso é indicado utilizar outro aparelho.\nSe você gostou do conteúdo, talvez também se interesse por conferir “Como se proteger de golpes feitos com IA?”.",
+    "autor_fonte": "Viviane França",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/mBkfYYuZbz4wwkwiBHxrlIl47rs=/1200x675/smart/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+    "imagem_arquivo": "imagens/ciberseguranca-golpe-do-falso-claude-usa-site-oficial-d.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/inteligencia-artificial/golpe-do-falso-claude-usa-site-oficial-da-anthropic-para-roubar-senhas-e-criptomoedas/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]

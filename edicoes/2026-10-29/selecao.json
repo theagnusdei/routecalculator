@@ -1,0 +1,751 @@
+{
+  "medicina": [
+    {
+      "id": "13334a1f19f4",
+      "titulo": "Three studies reveal the hidden layers between DNA and disease",
+      "url": "https://medicalxpress.com/news/2026-10-reveal-hidden-layers-dna-disease.html",
+      "resumo": "In three studies published in Nature today, Australian researchers have made advances in our understanding of how genetic differences between people influence disease. The team from the Garvan Institute of Medical Research, in collaboration with the Murdoch Children's Research Institute, UNSW and other partners, linked genetic risk regions for 16 diseases to possible causes in specific immune cells, identifying nearly 1,500 genes that may contribute to a range of diseases. These discoveries are set to accelerate drug development and precision medicine across many diseases, ranging from cancers to immune and neurological conditions.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-28T16:00:08+00:00",
+      "coletado_em": "2026-10-28T16:04:03.521598+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-landmark-studies.jpg",
+      "score": 6.542,
+      "cobertura": []
+    },
+    {
+      "id": "1c78411bf833",
+      "titulo": "Mindfulness-based therapy may reshape brain responses to opioid cues during addiction treatment",
+      "url": "https://medicalxpress.com/news/2026-10-mindfulness-based-therapy-reshape-brain.html",
+      "resumo": "Mindfulness-Oriented Recovery Enhancement (MORE), a behavioral therapy used alongside medication treatment, may help people with opioid use disorder respond differently to drug-related cues and natural rewards, according to a randomized clinical trial led by researchers at the Icahn School of Medicine at Mount Sinai. The findings offer insight into how MORE may reduce opioid craving and support recovery.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-28T15:01:50+00:00",
+      "coletado_em": "2026-10-28T16:04:03.521598+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/mindfulness-based-ther.jpg",
+      "score": 6.434,
+      "cobertura": []
+    },
+    {
+      "id": "c8b7120d59e6",
+      "titulo": "Arsenic drug combo resurrects 'guardian of the genome' to fight aggressive blood cancers",
+      "url": "https://medicalxpress.com/news/2026-10-arsenic-drug-combo-resurrects-guardian.html",
+      "resumo": "A combination cancer therapy that relies on the reactivation of a tumor suppressor protein to kill leukemic and other blood cancer cells has shown promise in a small pilot trial.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-28T14:31:41+00:00",
+      "coletado_em": "2026-10-28T16:04:03.521598+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-dna.jpg",
+      "score": 6.38,
+      "cobertura": []
+    },
+    {
+      "id": "cf59b1af0422",
+      "titulo": "How the tumor environment influences bowel cancer cells' behavior and chemotherapy response",
+      "url": "https://medicalxpress.com/news/2026-10-tumor-environment-bowel-cancer-cells.html",
+      "resumo": "New research led by experts at the University of Nottingham has revealed how collagen in the tumor environment can alter bowel cancer cell behavior and influence inflammatory responses to chemotherapy, highlighting potential new avenues for future research into cancer treatment. The findings, published in the Journal of Experimental & Clinical Cancer Research, highlight the importance of the environment surrounding cancer cells in shaping how they behave and respond to treatment.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-28T14:20:01+00:00",
+      "coletado_em": "2026-10-28T16:04:03.521598+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-tumor-environm-1.jpg",
+      "score": 5.859,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "17b6e5fd169a",
+      "titulo": "Three-quarters of NFL football players may end up with CTE",
+      "url": "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease",
+      "resumo": "The first estimate of CTE prevalence across the NFL suggests 75 percent of players may suffer from the neurodegenerative disease.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-10-28T15:32:00+00:00",
+      "coletado_em": "2026-10-28T16:04:03.586474+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102826_AC_cte-estimate_main.jpg?w=800",
+      "score": 5.439,
+      "cobertura": []
+    },
+    {
+      "id": "66ab05f7dbaa",
+      "titulo": "Japan's genome-editing law sets a global ethics challenge",
+      "url": "https://phys.org/news/2026-10-japan-genome-law-global-ethics.html",
+      "resumo": "A Hiroshima University researcher contends that Japan's newly enacted law regulating human genome-edited embryos and germ cells marks a significant advance in the governance of reproductive genome editing. Tsutomu Sawai, professor at Hiroshima University's Graduate School of Humanities and Social Sciences, praises the new law for defining prohibited activities and penalties for violation but also stresses the need for stronger international coordination to prevent the prohibitions from being circumvented by individuals seeking procedures abroad.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-28T14:35:54+00:00",
+      "coletado_em": "2026-10-28T16:04:03.523392+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/gene-edit.jpg",
+      "score": 5.387,
+      "cobertura": []
+    },
+    {
+      "id": "a6a1f4abbd10",
+      "titulo": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "resumo": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-27T18:49:08+00:00",
+      "coletado_em": "2026-10-28T13:57:59.670332+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
+      "score": 4.936,
+      "cobertura": []
+    },
+    {
+      "id": "218827440eb9",
+      "titulo": "Pioneirismo na optogenética marca o Prêmio Nobel de Medicina de 2026",
+      "url": "https://jornal.usp.br/radio-usp/pioneirismo-na-optogenetica-marca-o-premio-nobel-de-medicina-de-2026/",
+      "resumo": "Três pesquisadores levaram a honraria: os alemães Peter Hegemann e Georg Nagel, e o norte-americano Karl Deisseroth",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "medicina"
+      ],
+      "publicado": "2026-10-28T11:41:19+00:00",
+      "coletado_em": "2026-10-28T13:57:59.629702+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_eduardo-1-1-1024x1024.jpg",
+      "score": 4.903,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "19950921145b",
+      "titulo": "A new flexible foot pad enables this one-legged, hopping robot to go where few robots have gone before",
+      "url": "https://techxplore.com/news/2026-10-flexible-foot-pad-enables-legged.html",
+      "resumo": "A team of University of Toronto Engineering researchers has developed a flexible foot pad for the \"Hopcopter\"—a one-legged, hopping robot they developed—significantly enhancing its performance on sand, ice and other difficult terrain.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-28T15:40:04+00:00",
+      "coletado_em": "2026-10-28T16:04:03.525841+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-flexible-foot-pa-1.jpg",
+      "score": 5.004,
+      "cobertura": []
+    },
+    {
+      "id": "0ceea29d223d",
+      "titulo": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
+      "url": "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/",
+      "resumo": "In one case showcased by WorldOracle, a robot's grasp missed, yet the world model predicted that the robot had successfully picked up the fruit. The post WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-28T13:44:31+00:00",
+      "coletado_em": "2026-10-28T16:04:03.525640+00:00",
+      "imagem_feed": null,
+      "score": 4.649,
+      "cobertura": []
+    },
+    {
+      "id": "067c9dcc2a61",
+      "titulo": "Insect-inspired flying robot bounces back after collisions",
+      "url": "https://techxplore.com/news/2026-10-insect-flying-robot-collisions.html",
+      "resumo": "Flying insects, such as fruit flies, bees, dragonflies and mosquitoes, can dart through narrow spaces and survive collisions with various objects. In contrast, many flying robots fall, suffer damage or even break down when they hit nearby surfaces or objects.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-28T11:40:01+00:00",
+      "coletado_em": "2026-10-28T13:57:59.610500+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-insect-inspired-fly-1.jpg",
+      "score": 4.601,
+      "cobertura": []
+    },
+    {
+      "id": "dc57834da5a8",
+      "titulo": "Robôs de limpeza fazem bonito durante feira em São Paulo",
+      "url": "https://tecnoblog.net/publieditoriais/robos-de-limpeza-fazem-bonito-durante-feira-em-sao-paulo/",
+      "resumo": "Redroad enfatiza que clientes podem contar com equipamentos de ponta e pós-venda completo. Robôs de limpeza fazem bonito durante feira em São Paulo",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-28T13:40:11+00:00",
+      "coletado_em": "2026-10-28T13:57:59.635165+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/img_3161.jpg",
+      "score": 4.491,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "ca41dd04eb13",
+      "titulo": "Claude trava tarefas de engenharia reversa e revolta quem modifica jogos e TVs",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-trava-tarefas-de-engenharia-reversa-e-revolta-quem-modifica-jogos-e-tvs/",
+      "resumo": "O Claude começou a interromper tarefas de engenharia reversa de softwares, jogos e firmwares de smart TVs. Os usuários relatam, em publicação no Reddit, que o assistente de inteligência artificial inicia o processamento dos pedidos, mas interrompe a execução após acionar filtros de segurança que restringem determinadas atividades. As reclamações ganharam força após uma publicação do usuário u/targaryenNotJon na comunidade r/ClaudeAI, no Reddit. Segundo ele, o filtro de segurança do Claude foi acionado quando o usuário pediu a engenharia reversa de uma Smart TV, mas não bloqueou a mesma tarefa aplicada a um videogame. No entanto, outros relatos também citam restrições em projetos de análise de programas e adaptação de jogos para navegadores. As restrições provocaram críticas de desenvolvedores , que acusam a empresa de limitar modificações legítimas em softwares e equipamentos. Uma parte dos usuários também questiona se os filtros prejudicam o direito de reparar e personalizar dispositivos próprios. Por sua vez, a A Anthropic, desenvolvedora do Claude, confirmou a presença de filtros de cibersegurança no modelo Opus 5.5, lançado em setembro de 2026. No entanto, a empresa não anuncio",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-28T16:03:00+00:00",
+      "coletado_em": "2026-10-28T16:04:03.556382+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "score": 6.098,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/claude-recusa-tarefas-de-engenharia-reversa-em-tvs-e-jogos/"
+      ]
+    },
+    {
+      "id": "d92d005b4778",
+      "titulo": "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild",
+      "url": "https://www.infoq.com/news/2026/10/microsoft-october-2026-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Microsoft's latest monthly security update addresses 1415 vulnerabilities across multiple products. One vulnerability affecting Windows Shell has been exploited in the wild, while 85 are classified as critical. Affected products include Windows OS, Office, Exchange, .NET, Edge, as well as potentially Hyper-V and Azure components. By Sergio De Simone",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-28T10:30:00+00:00",
+      "coletado_em": "2026-10-28T13:57:59.610840+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/microsoft-october-2026-patch/en/headerimage/microsoft-october-patch-1793129871505.jpeg",
+      "score": 5.65,
+      "cobertura": []
+    },
+    {
+      "id": "5b933711807f",
+      "titulo": "[$] The campaign to push Northstar into Linux distributions",
+      "url": "https://lwn.net/Articles/1102738/",
+      "resumo": "There is not a broad selection of mature, open-source web-browser engines for Linux users. Most of the browsers available for Linux are based on one of just three projects: Chromium's Blink , Firefox's Gecko , or WebKit . A new entrant would generally be seen as a welcome alternative, but the recent campaign to push one of the LLM-written Nordstjernen browsers into Debian and Arch Linux has raised some questions about the project's development and security processes.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-28T14:26:59+00:00",
+      "coletado_em": "2026-10-28T16:04:03.527081+00:00",
+      "imagem_feed": null,
+      "score": 5.372,
+      "cobertura": []
+    },
+    {
+      "id": "c1fd28bfafae",
+      "titulo": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1103357/",
+      "resumo": "Security updates have been issued by AlmaLinux (emacs, thunderbird, and xdg-dbus-proxy), Debian (bind9, openjdk-21, pdns, php-mongodb, and thunderbird), Fedora (brotli, chromium, clevis, eog, flatpak, ghostscript, kernel, libinstpatch, libreswan, mingw-freetype, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, openssh, perl-Alien-Brotli, perl-DBI, python3.12, rust-onefetch, stargz-snapshotter, util-linux, and webkitgtk), Mageia (cifs-utils, libxml2, packages, perl-Cpanel-JSON-XS, perl-Text-CSV_XS, sogo, util-linux, and weechat), Oracle (brotli, firefox, flatpak, gcc-toolset-15-gcc, kernel, libreswan, nodejs:22, nodejs:24, python-urllib3, skopeo, and xdg-dbus-proxy), Slackware (proftpd), SUSE (azure-storage-azcopy, containerd, corepack24, grok-build, ImageMagick, libsoup-2_4-1, matrix-synapse, podman, psqlODBC, python, python-M2Crypto-doc, python-Twisted-doc, and xen), and Ubuntu (authd).",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-28T13:10:19+00:00",
+      "coletado_em": "2026-10-28T13:57:59.611680+00:00",
+      "imagem_feed": null,
+      "score": 5.242,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "ce2e9511cbab",
+      "titulo": "Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+      "resumo": "Palit denies news that Galax is going out of production.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-28T11:56:26+00:00",
+      "coletado_em": "2026-10-28T13:57:59.612227+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/yB6G4PAHnBYHqfAnGyVu9m-1920-80.jpg",
+      "score": 6.776,
+      "cobertura": [
+        "https://www.techspot.com/news/114365-palit-denies-galax-factory-shutting-down-due-nvidia.html"
+      ]
+    },
+    {
+      "id": "674a117ca796",
+      "titulo": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+      "resumo": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-27T13:28:23+00:00",
+      "coletado_em": "2026-10-28T13:57:59.612227+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/pnmCABph9HyG5zPEc6vuJ4-1920-80.jpg",
+      "score": 6.63,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/",
+        "https://canaltech.com.br/hardware/apple-lanca-novo-macbook-pro-e-imac-com-chip-m6-e-foco-pesado-em-ia/",
+        "https://www.techspot.com/news/114354-apple-introduces-new-14-inch-macbook-pro-m6.html"
+      ]
+    },
+    {
+      "id": "ffb6c2ec0f85",
+      "titulo": "Amazon anuncia os novos Echo Dot, Echo Time e Echo Studio; veja preços",
+      "url": "https://tecnoblog.net/noticias/amazon-anuncia-os-novos-echo-dot-echo-time-e-echo-studio-veja-precos/",
+      "resumo": "Amazon Echo Time é destaque por funcionar como um despertador inteligente. Todos foram anunciados para o mercado brasileiro. Amazon anuncia os novos Echo Dot, Echo Time e Echo Studio; veja preços",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-10-28T13:28:39+00:00",
+      "coletado_em": "2026-10-28T13:57:59.635165+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/amazon-echo-dot-novo-2.jpg",
+      "score": 5.472,
+      "cobertura": [
+        "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub"
+      ]
+    },
+    {
+      "id": "78de31c4a273",
+      "titulo": "MacBook Neo 2 com mais memória RAM deve chegar no começo de 2027",
+      "url": "https://canaltech.com.br/notebook/macbook-neo-2-vira-com-chip-a19-pro-e-mais-memoria-ram/",
+      "resumo": "Lançado no início do ano como a opção de entrada e mais acessível do portfólio da Apple, o MacBook Neo já tem um sucessor no horizonte. Novas informações apontam que o MacBook Neo 2 deve ser apresentado oficialmente na primeira metade do ano que vem , mantendo o apelo de custo-benefício, mas trazendo atualizações técnicas importantes para corrigir pontos fracos do modelo original. Segundo o jornalista Mark Gurman, da Bloomberg, a segunda geração do portátil \"baratinho\" da Apple está programada para chegar ao mercado até junho do ano que vem. Essa janela de tempo reforça a possibilidade de o lançamento ocorrer por volta de março , repetindo a janela adotada pela fabricante para a estreia da linha original no mercado. Mais desempenho e o fim do principal gargalo A grande novidade técnica da nova versão será a transição de processador. O modelo deve abandonar o chip A18 Pro para adotar o A19 Pro , que equipa o iPhone 17 Pro , garantindo um salto significativo em processamento geral e desempenho gráfico para tarefas do dia a dia. No entanto, a mudança mais significativa deve ser a expansão da memória unificada na versão de entrada. O upgrade para 12 GB de RAM no modelo (contra os 8 GB ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-28T14:07:00+00:00",
+      "coletado_em": "2026-10-28T16:04:03.556382+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/8Bm3QRCwZClLeOjODc9_xRpjoCE=/0x0/filters:format(webp):quality(85)/6aca2123-04a7-41b6-a7b5-313a2e78177a.jpeg",
+      "score": 5.387,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "799a3df6ea24",
+      "titulo": "NASA systems engineering team details Habitable Worlds Observatory mission architecture",
+      "url": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
+      "resumo": "Finding an Earth-like world beyond the solar system is the holy grail of exoplanet research, and the field has seen remarkable technological advances in detecting and studying exoplanets since the first confirmed exoplanet around a sun-like star was discovered in 1995. These advances include ground- and space-based telescopes, notably the James Webb Space Telescope. Although astronomers have already directly imaged some exoplanets, directly imaging Earth-like planets around sun-like stars remains a major technological challenge, primarily because these planets are extremely faint compared with their host stars and appear very close to them in the sky.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-28T15:40:11+00:00",
+      "coletado_em": "2026-10-28T16:04:03.529490+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-systems-engineeri.jpg",
+      "score": 6.505,
+      "cobertura": []
+    },
+    {
+      "id": "d518830cd5d6",
+      "titulo": "Webb Sees Turbulent Star Nursery",
+      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "resumo": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-28T15:33:10+00:00",
+      "coletado_em": "2026-10-28T16:04:03.528889+00:00",
+      "imagem_feed": null,
+      "score": 6.441,
+      "cobertura": []
+    },
+    {
+      "id": "0cb7f0557a0d",
+      "titulo": "Dead star and planetary bodies: astronomers spot unique disc of debris that foretells Solar System’s future",
+      "url": "https://www.eso.org/public/news/eso2613/",
+      "resumo": "Astronomers using the European Southern Observatory’s Very Large Telescope (ESO’s VLT) have found a rare disc of debris around a dead star that provides a glimpse of what may happen to our Solar System. Unlike in similar systems previously found, the debris — the leftovers of planets that once orbited the star — is organised in a double disc, the two parts separated by a clear gap. The disc appears to be shaped by two planetary bodies, one possibly as big as Pluto, that have survived the violent death of the star.",
+      "fonte": "ESO",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-27T13:00:00+00:00",
+      "coletado_em": "2026-10-28T13:57:59.613919+00:00",
+      "imagem_feed": "https://cdn.eso.org/images/screen/eso2613a.jpg",
+      "score": 5.719,
+      "cobertura": [
+        "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html"
+      ]
+    },
+    {
+      "id": "3531935f920f",
+      "titulo": "Double debris disk orbiting a dead star hints at our solar system's future",
+      "url": "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html",
+      "resumo": "Astronomers using the European Southern Observatory's Very Large Telescope (ESO's VLT) have found a rare disk of debris around a dead star that provides a glimpse of what may happen to our solar system. Unlike in similar systems previously found, the debris—the leftovers of planets that once orbited the star—is organized in a double disk, the two parts separated by a clear gap. The disk appears to be shaped by two planetary bodies, one possibly as big as Pluto, that have survived the violent death of the star.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-27T22:00:12+00:00",
+      "coletado_em": "2026-10-28T13:57:59.614038+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dead-star-and-planetar.jpg",
+      "score": 5.254,
+      "cobertura": [
+        "https://www.eso.org/public/news/eso2613/"
+      ]
+    }
+  ],
+  "quantica": [
+    {
+      "id": "cb9cd3a60cb0",
+      "titulo": "D-Wave and LG CNS Partner on Quantum Optimization in South Korea",
+      "url": "https://thequantuminsider.com/2026/10/28/dwave-lg-cns-quantum-optimization-south-korea/",
+      "resumo": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and LG CNS Co., Ltd. (“LG CNS”), a leading AI transformation company in South Korea, today announced that the companies have signed a non-binding memorandum of […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-28T13:21:39+00:00",
+      "coletado_em": "2026-10-28T16:04:03.530723+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_18-20.png",
+      "score": 5.911,
+      "cobertura": [
+        "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
+      ]
+    },
+    {
+      "id": "aecea4860646",
+      "titulo": "UbiQD Wins New Mexico Grant for Quantum Light Source Development",
+      "url": "https://thequantuminsider.com/2026/10/28/ubiqd-new-mexico-quantum-light-source-grant/",
+      "resumo": "Insider Brief PRESS RELEASE — UbiQD, Inc., a global leader in quantum dot technology and manufacturing, has received a $200,000 grant through New Mexico’s Quantum Technologies Award from the Economic Development New Mexico (EDNM) Department through its Technology and Innovation Office (TIO). The grant funds development of a key component for quantum computers and ultra-secure quantum […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-28T14:10:10+00:00",
+      "coletado_em": "2026-10-28T16:04:03.530723+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_19-09.png",
+      "score": 5.492,
+      "cobertura": []
+    },
+    {
+      "id": "45a90ab24657",
+      "titulo": "Does Sabrina Pasterski’s holographic theory make her the next Einstein?",
+      "url": "https://www.newscientist.com/article/2594010-does-sabrina-pasterskis-holographic-theory-make-her-the-next-einstein/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Often described as a genius, physicist Sabrina Pasterski built and flew her own plane by the age of 16 and is now developing a mind-bending idea that could finally unify gravity and quantum theory",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-28T16:00:00+00:00",
+      "coletado_em": "2026-10-28T16:04:03.584918+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316451303.jpg",
+      "score": 5.342,
+      "cobertura": []
+    },
+    {
+      "id": "927603517bf3",
+      "titulo": "Quantum gates set speed record at 6.8 nanoseconds with over 99.98% accuracy",
+      "url": "https://phys.org/news/2026-10-quantum-gates-nanoseconds-accuracy.html",
+      "resumo": "Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds—with more than 99.98% accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-27T18:40:12+00:00",
+      "coletado_em": "2026-10-28T13:57:59.615568+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-but-accurate--a-n.jpg",
+      "score": 5.131,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "674a117ca796",
+      "titulo": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+      "resumo": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-27T13:28:23+00:00",
+      "coletado_em": "2026-10-28T13:57:59.612227+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/pnmCABph9HyG5zPEc6vuJ4-1920-80.jpg",
+      "score": 6.63,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/",
+        "https://canaltech.com.br/hardware/apple-lanca-novo-macbook-pro-e-imac-com-chip-m6-e-foco-pesado-em-ia/",
+        "https://www.techspot.com/news/114354-apple-introduces-new-14-inch-macbook-pro-m6.html"
+      ]
+    },
+    {
+      "id": "d9394f3f1cc9",
+      "titulo": "Windows File History broken? How to fix it and restore your files",
+      "url": "https://www.pcworld.com/article/3267225/windows-file-history-how-to-reset-it-if-you-encounter-problems.html",
+      "resumo": "Did you know that Windows can automatically back up your files to an external drive or network share? SO if your SSD fails or you need to reinstall Windows, you can quickly restore your files. It’s called File History. If File History isn’t working, there are two possible reasons. First, you may have forgotten to enable it, as it’s disabled by default in Windows. Second, there may be configuration issues. In this case, resetting the feature might help. You can access File History through the Control Panel. In the icon view, click the File History icon. Then, on the left-hand side, click Select Drive and choose a backup destination. An external drive is a good option. If you want to store your files on a network share, click the Add Network Address link. Confirm your selection by clicking OK. To start the backup, click Run Now in the File History start window. If File History stops working because of a configuration error, you can delete its configuration data. Your backup files should remain on the backup drive. In File Explorer, navigate to the folder C:\\Users\\[username]\\AppData\\Local\\Microsoft\\Windows\\FileHistory. Delete the Data and Configuration folders. Note: The Configuration",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-28T14:30:00+00:00",
+      "coletado_em": "2026-10-28T16:04:03.532220+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3267225-0-43206900-1793197859-microsoft.jpg?quality=50&strip=all",
+      "score": 5.527,
+      "cobertura": []
+    },
+    {
+      "id": "063f8d3c3714",
+      "titulo": "Windows 11 search can now skip web results and focus on your PC",
+      "url": "https://www.pcworld.com/article/3271381/windows-11-search-can-now-skip-web-results-and-focus-on-your-pc.html",
+      "resumo": "When searching for an application via the Start menu in Windows 11, users often receive not only local results but also web suggestions. These appear alongside the apps and documents you’re searching for, leading to Edge. Microsoft now offers a way to disable such web results. As reported by Windows Latest , the new setting is now rolling out to more Windows 11 PCs. Microsoft began the phased rollout in August 2026, and despite widening, the feature is not yet available to all users. How to disable web results in Windows 11 If the new setting is available on your computer, you can disable web search as follows: Open the Windows 11 Settings . Go to Privacy & security → Search . Within the “Indexing status” section, look for the setting called “Show suggested search results.” Toggle off the option for web searches. If required, you can also disable suggestions from the Microsoft Store. Open Windows Search again for the change to take effect. If the setting is missing, you can enable the “Get the latest updates as soon as they’re available” option under Settings → Windows Update . This allows new features to arrive on your PC sooner. Microsoft refers to the setting as “Web search” and",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-28T12:54:39+00:00",
+      "coletado_em": "2026-10-28T13:57:59.616546+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3271381-0-63405300-1793192153-Windows-11-laptop-on-a-wooden-desk-workstation.jpg?quality=50&strip=all",
+      "score": 5.367,
+      "cobertura": []
+    },
+    {
+      "id": "3f314d8816de",
+      "titulo": "Apple anuncia MacBook Pro e iMac de 24 polegadas com chip M6; veja preços",
+      "url": "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/",
+      "resumo": "Novo MacBook Pro de 14 polegadas promete ainda até 24 horas de autonomia. Já novo iMac de 24 polegadas traz sete opções de cores. Apple anuncia MacBook Pro e iMac de 24 polegadas com chip M6; veja preços",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-27T14:29:18+00:00",
+      "coletado_em": "2026-10-28T13:57:59.635165+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/xWfNhWn88Bc",
+      "score": 5.206,
+      "cobertura": [
+        "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+        "https://canaltech.com.br/hardware/apple-lanca-novo-macbook-pro-e-imac-com-chip-m6-e-foco-pesado-em-ia/"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "feda3ad530f5",
+      "titulo": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "resumo": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-28T15:41:18+00:00",
+      "coletado_em": "2026-10-28T16:04:03.544025+00:00",
+      "imagem_feed": null,
+      "score": 5.707,
+      "cobertura": [
+        "https://thequantuminsider.com/2026/10/28/dwave-lg-cns-quantum-optimization-south-korea/"
+      ]
+    },
+    {
+      "id": "0003d3b4b716",
+      "titulo": "Webinário apresenta panorama do uso da inteligência artificial na administração pública brasileira e discute seus desafios",
+      "url": "https://jornal.usp.br/campus-ribeirao-preto/webinario-apresenta-panorama-do-uso-da-inteligencia-artificial-na-administracao-publica-brasileira-e-discute-seus-desafios/",
+      "resumo": "Evento integra ciclo promovido pelo Grupo TechLaw do Instituto de Estudos Avançados da USP, Polo Ribeirão Preto, com apoio da Cátedra IA Responsável, do Núcleo de Informação e Coordenação do Ponto BR e do Ministério da Gestão e da Inovação em Serviços Públicos",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-28T12:55:57+00:00",
+      "coletado_em": "2026-10-28T13:57:59.629702+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261027_iagestaopublica-1024x538.jpg",
+      "score": 5.519,
+      "cobertura": []
+    },
+    {
+      "id": "39735cf86674",
+      "titulo": "The most important part of AI chatbots is being ignored",
+      "url": "https://www.newscientist.com/article/2596083-the-most-important-part-of-ai-chatbots-is-being-ignored/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "AI firms can increase the power of their chatbots without updating to new models. Columnist Jacob Aron explains how a simple bit of software can give AI a boost – and whether AI will soon be able to rewrite that code itself",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-28T09:00:00+00:00",
+      "coletado_em": "2026-10-28T13:57:59.668542+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316613318.jpg",
+      "score": 5.18,
+      "cobertura": []
+    },
+    {
+      "id": "f1ebb512d4e0",
+      "titulo": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "resumo": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-28T15:00:00+00:00",
+      "coletado_em": "2026-10-28T16:04:03.544025+00:00",
+      "imagem_feed": null,
+      "score": 5.13,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "8f6e04f858b6",
+      "titulo": "Apple lança novo MacBook Pro e iMac com chip M6 e foco pesado em IA",
+      "url": "https://canaltech.com.br/hardware/apple-lanca-novo-macbook-pro-e-imac-com-chip-m6-e-foco-pesado-em-ia/",
+      "resumo": "A Apple anunciou a atualização do MacBook Pro de 14 polegadas e do iMac de 24 polegadas , agora equipados com a nova geração de chips M6 . A nova plataforma traz melhorias na eficiência energética e na execução de tarefas de inteligência artificial diretamente no dispositivo, graças à inclusão de aceleradores neurais dedicados e do novo motor Neural Engine Dual 16-core . Além disso, ambos os modelos passam a contar com melhorias de conectividade avançadas, incluindo suporte às tecnologias Wi-Fi 7 e Bluetooth 6 . Os dois aparelhos chegam em breve custando até R$ 25.000 . MacBook Pro de 14 polegadas O novo MacBook Pro de 14 polegadas chega com o processador M6 base , configurado com 12 núcleos de CPU e 12 núcleos de GPU , dois núcleos a mais do que a geração passada, oferecendo um desempenho gráfico até 30% superior e ganhos de a té 25% em tarefas de IA comparado à geração anterior. O notebook mantém a tela Liquid Retina XDR de alta fidelidade visual (com opção de acabamento nano-texture) e traz um expressivo ganho em autonomia de bateria, alcançando até 24 horas de uso contínuo, a maior já registrada na linha Mac . Em termos de memória, o modelo inicial conta com 16 GB de memória un",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-28T12:04:00+00:00",
+      "coletado_em": "2026-10-28T13:57:59.638783+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/y7WwwtFK6nB-CX1zqmt9N4lpgxQ=/0x0/filters:format(webp):quality(85)/a46a8c3d-f655-4b44-a388-3c2b3204e956.jpg",
+      "score": 6.187,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/",
+        "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999"
+      ]
+    },
+    {
+      "id": "a42ae3c18d18",
+      "titulo": "Semiconductors could sidestep a key solar-energy trade-off through a newly identified mechanism",
+      "url": "https://techxplore.com/news/2026-10-semiconductors-sidestep-key-solar-energy.html",
+      "resumo": "A study led by the University of Oxford has identified a novel semiconductor that overcomes a key limitation of light-harvesting materials. The results, published today (Oct. 28) in Nature, could enable more efficient solar panels with higher outputs.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-28T16:00:31+00:00",
+      "coletado_em": "2026-10-28T16:04:03.545067+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/semiconductor-breakthr.jpg",
+      "score": 6.043,
+      "cobertura": []
+    },
+    {
+      "id": "d495764e1542",
+      "titulo": "Como funcionam as usinas nucleares de fusão e como podem revolucionar a indústria energética",
+      "url": "https://jornal.usp.br/atualidades/como-funcionam-as-usinas-nucleares-de-fusao-e-como-podem-revolucionar-a-industria-energetica/",
+      "resumo": "A energia nuclear de fusão é considerada confiável e tida como mais segura do que a fissão utilizada em usinas nucleares convencionais",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-28T14:15:06+00:00",
+      "coletado_em": "2026-10-28T16:04:03.547159+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261026_usina-1024x538.jpg",
+      "score": 5.151,
+      "cobertura": []
+    },
+    {
+      "id": "263367aec75f",
+      "titulo": "Super-insulating solid may soon help old homes reach net-zero goals",
+      "url": "https://www.newscientist.com/article/2596016-super-insulating-solid-may-soon-offer-a-net-zero-solution-for-tricky-homes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Millions of old homes across the UK and Europe need insulating under net-zero strategies, and promising start-ups believe materials called aerogels could be the answer",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-28T11:00:00+00:00",
+      "coletado_em": "2026-10-28T13:57:59.668542+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318381089.jpg",
+      "score": 4.842,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "29d238b31baa",
+      "titulo": "Golpe do falso Claude usa site oficial da Anthropic para roubar senhas e criptomoedas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/golpe-do-falso-claude-usa-site-oficial-da-anthropic-para-roubar-senhas-e-criptomoedas/",
+      "resumo": "Uma campanha de cibercriminosos usa anúncios pagos do Google para distribuir versões falsas do Claude e roubar senhas e criptomoedas. A fraude direciona usuários a páginas hospedadas no domínio oficial da Anthropic, claude.ai, para enganar as vítimas e instalar programas maliciosos em computadores com macOS e Windows. A fraude foi identificada por pesquisadores da Gen Digital, empresa responsável pelas marcas Norton e Avast. Os criminosos exploram duas ferramentas do Claude, chamadas Artefatos e chats compartilhados , que permitem publicar conteúdos acessíveis por outras pessoas. Com elas, os invasores criam páginas falsas dentro do próprio site da inteligência artificial, o que dificulta a identificação do golpe pelo endereço da página. As páginas mostram apenas um aviso discreto de que o conteúdo foi criado por um usuário e não passou por verificação. No macOS, a vítima recebe instruções para executar um comando no Terminal , que instala o Atomic Stealer (AMOS), um malware especializado no roubo de informações. O programa mostra uma tela falsa de senha semelhante à dos Ajustes do Sistema para capturar credenciais. Ele também coleta dados de navegadores, cookies, informações armaz",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca",
+        "computadores_pessoais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-28T13:05:03+00:00",
+      "coletado_em": "2026-10-28T13:57:59.638783+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "score": 4.283,
+      "cobertura": []
+    },
+    {
+      "id": "a9c2e32f00db",
+      "titulo": "Moto G47 Power chegou: Motorola revela novo intermediário com bateria grande",
+      "url": "https://canaltech.com.br/smartphone/moto-g47-power-chegou-motorola-revela-novo-intermediario-com-bateria-grande/",
+      "resumo": "A Motorola lançou o Moto G47 Power, novo celular intermediário que tem como principal destaque a bateria de 7.000 mAh. O aparelho apareceu de forma discreta no site oficial da fabricante em alguns países europeus e também chama atenção pela câmera principal de 108 MP e pela tela de 120 Hz. O lançamento, porém, chegou com um balde de água fria para quem esperava um modelo mais barato. O preço oficial ficou acima do que vazamentos anteriores indicavam e a ficha técnica traz apenas 4 GB de memória RAM, mesmo em uma faixa na qual a própria Motorola oferece alternativas mais bem equipadas. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Bateria de 7.000 mAh é o grande destaque A bateria é o principal diferencial do Moto G47 Power. Com 7.000 mAh de capacidade, a Motorola promete até 78 horas e 19 minutos de autonomia , embora a duração real dependa bastante da forma de uso. O celular oferece carregamento TurboPower de 30 W e também permite usar sua bateria para alimentar outros dispositivos pelo cabo, com carga reversa de até 6 W. Na parte frontal, há uma tela LCD de 6,67 polegadas com resolução de 1604 x 720 pixels e taxa de atualização de 120 Hz. A proteção fica por",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-27T20:27:15+00:00",
+      "coletado_em": "2026-10-28T13:57:59.638783+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/TWqEbG3-wKzQ9rLQQB71NV4aoDQ=/0x0/filters:format(webp):quality(85)/79d25168-716d-4b75-a574-96d9b077b5a9.png",
+      "score": 0.244,
+      "cobertura": []
+    }
+  ]
+}
