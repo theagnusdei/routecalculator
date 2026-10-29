@@ -1,0 +1,787 @@
+{
+  "medicina": [
+    {
+      "id": "cd02d0b1787b",
+      "titulo": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
+      "url": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
+      "resumo": "Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is being heavily scrutinized for infection risk.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-29T13:25:01+00:00",
+      "coletado_em": "2026-10-29T14:11:01.659297+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2024/03/Adams-Biotech-Scorecard-Featured-Image-1024x576.jpg",
+      "score": 6.059,
+      "cobertura": []
+    },
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-10-29T14:11:01.656962+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "0e44b8b95286",
+      "titulo": "Colorectal cancer in younger patients shows distinct cellular and gene-activity patterns",
+      "url": "https://medicalxpress.com/news/2026-10-colorectal-cancer-younger-patients-distinct.html",
+      "resumo": "Mass General Brigham researchers from the Gene Lay Institute of Immunology and Inflammation, along with researchers at Dana-Farber Cancer Institute and the Broad Institute, have uncovered biological clues to why colorectal cancer can behave more aggressively in younger people. Published in Nature Medicine, the study—the largest of its kind—lays a foundation for understanding age-associated differences in colorectal cancer and exploring future treatments.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-29T10:00:05+00:00",
+      "coletado_em": "2026-10-29T14:11:01.658405+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/worried-person-in-thei.jpg",
+      "score": 5.453,
+      "cobertura": []
+    },
+    {
+      "id": "9dc55c9c7a3b",
+      "titulo": "RFK Jr. eases access to unproven peptides despite opposition from FDA scientists",
+      "url": "https://medicalxpress.com/news/2026-10-rfk-jr-eases-access-unproven.html",
+      "resumo": "The Trump administration on Wednesday acted to ease access to unproven peptide drugs favored by Health Secretary Robert F. Kennedy Jr. Food and Drug Administration scientific staffers had little input on the decision and opposed the changes, according to six people familiar with its development.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-29T09:18:35+00:00",
+      "coletado_em": "2026-10-29T14:11:01.658405+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/trump-1.jpg",
+      "score": 5.398,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "09d847dcf366",
+      "titulo": "Jornalismo da FAPESP está entre os mais admirados do país",
+      "url": "https://revistapesquisa.fapesp.br/jornalismo-da-fapesp-esta-entre-os-mais-admirados-do-pais/?utm_source=rss&utm_medium=rss&utm_campaign=jornalismo-da-fapesp-esta-entre-os-mais-admirados-do-pais",
+      "resumo": "Sexta edição do Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-Estar destaca o trabalho da Agência FAPESP, da revista Pesquisa FAPESP e do diretor de redação Gabriel Alves",
+      "fonte": "Revista Pesquisa FAPESP",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-29T14:47:06+00:00",
+      "coletado_em": "2026-10-29T16:08:18.140255+00:00",
+      "imagem_feed": null,
+      "score": 5.55,
+      "cobertura": [
+        "https://agencia.fapesp.br/jornalismo-da-fapesp-esta-entre-os-mais-admirados-do-pais/59510"
+      ]
+    },
+    {
+      "id": "6f1bfeee8ae0",
+      "titulo": "Ancient Alberta fish fossils reveal evolutionary secrets of modern species",
+      "url": "https://phys.org/news/2026-10-ancient-alberta-fish-fossils-reveal.html",
+      "resumo": "Rare, complete fossils of ancient fish discovered in Alberta are helping fill in the gaps in our knowledge about which freshwater fish were living in North America at the end of the age of the dinosaurs, and how they evolved into their modern descendants.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-29T14:00:01+00:00",
+      "coletado_em": "2026-10-29T14:11:01.660084+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-alberta-fish-f.jpg",
+      "score": 5.318,
+      "cobertura": []
+    },
+    {
+      "id": "779dc3c0aa45",
+      "titulo": "Smaller ants devote more of their resting energy budget to their brains",
+      "url": "https://phys.org/news/2026-10-smaller-ants-devote-resting-energy.html",
+      "resumo": "The energy required for brains of different sizes to function could play a role in how different species evolved over time. While the energetic costs of brains have long been deemed important in evolution, direct measurements of the rate at which the brains of different species consume energy, also known as brain metabolic rates (MRs), remain scarce.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-29T12:20:14+00:00",
+      "coletado_em": "2026-10-29T14:11:01.660084+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/smaller-ants-devote-mo.jpg",
+      "score": 5.156,
+      "cobertura": []
+    },
+    {
+      "id": "e76e3a79ac10",
+      "titulo": "Extracellular vesicle discovery may shed light on how cancer spreads",
+      "url": "https://phys.org/news/2026-10-extracellular-vesicle-discovery-cancer.html",
+      "resumo": "A team from the Research Institute of the McGill University Health Center (The Institute) have discovered a new type of extracellular vesicle released by migrating cancer cells, revealing a previously unknown way in which these cells shed their DNA as they move. Published today in the journal Nature Cell Biology, the findings show that these cells release tiny structures called motile vesicles (MoVes), which carry their genetic material, including cancer-associated mutations. The discovery raises important questions about the role these vesicles may play in cancer progression.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-28T16:20:10+00:00",
+      "coletado_em": "2026-10-29T14:11:01.660084+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-a-potenti.jpg",
+      "score": 5.056,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "5c22615149e1",
+      "titulo": "Google lança Gemini 4 Carbon com foco em cibersegurança e tarefas que duram dias",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-carbon-com-foco-em-ciberseguranca-e-tarefas-que-duram-dias/",
+      "resumo": "O Google anunciou o Gemini 4 Carbon , seu modelo de inteligência artificial mais avançado até o momento, com foco em cibersegurança e execução de tarefas complexas por vários dias. A ferramenta liderou a versão 5.0 do Artificial Analysis Intelligence Index, com 59 pontos, e obteve resultados expressivos em programação, agentes de IA e detecção e correção de vulnerabilidades. Desenvolvido para lidar com problemas complexos de engenharia de software, o Gemini 4 Carbon executa fluxos de trabalho autônomos por longos períodos. Em testes internos, o modelo trabalhou por dias seguidos para encontrar a causa de falhas sutis em grandes bases de código e sistemas de baixo nível. Durante o processo, também superou obstáculos e aplicou correções nos trechos vulneráveis. O modelo alcançou 88,2% no SEC-bench Pro, que avalia a identificação de falhas de segurança, 54,8% no ExploitGym, voltado à exploração de vulnerabilidades para avaliar riscos, e 71% no CWE-bench, que testa a correção de código vulnerável. Segundo o Google, o Carbon dobrou a t axa de sucesso em tarefas de programação segura em relação ao modelo anterior. A equipe do Chrome relatou ainda um desempenho dez vezes superior ao de um",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial",
+        "robotica",
+        "software"
+      ],
+      "publicado": "2026-10-29T14:02:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.689623+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 5.371,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/google-lanca-gemini-4-carbon-com-avancos-em-ciberseguranca-mas-voce-ainda-nao-pode-usa-lo/"
+      ]
+    },
+    {
+      "id": "99863480f01d",
+      "titulo": "What Symbotic’s Walmart growth teaches robotics startups about anchor customers",
+      "url": "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/",
+      "resumo": "Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale while creating risks around customer concentration, contractual restrictions and the challenge of building a diversified, repeatable business. The post What Symbotic’s Walmart growth teaches robotics startups about anchor customers appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-28T18:40:57+00:00",
+      "coletado_em": "2026-10-29T14:11:01.662076+00:00",
+      "imagem_feed": null,
+      "score": 3.979,
+      "cobertura": []
+    },
+    {
+      "id": "6b07a95dd881",
+      "titulo": "Warp Sciences emerges from stealth, to apply robotics to drug research",
+      "url": "https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/",
+      "resumo": "Warp Sciences has co-founders from OpenAI, Meta, and more, plus funding to build infrastructure for automated drug discovery in the U.S. The post Warp Sciences emerges from stealth, to apply robotics to drug research appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-28T16:28:48+00:00",
+      "coletado_em": "2026-10-29T14:11:01.662076+00:00",
+      "imagem_feed": null,
+      "score": 3.91,
+      "cobertura": []
+    },
+    {
+      "id": "d5f1609a995d",
+      "titulo": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+      "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+      "resumo": "AGIBOT unveiled its AHA3 integrated platform, GO-3 Preview, and WITA-Omni 1.0 model, as well as the G2 Max robot and Link-U OS 1.0 framework. The post AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026 appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-29T04:01:46+00:00",
+      "coletado_em": "2026-10-29T16:08:18.140725+00:00",
+      "imagem_feed": null,
+      "score": 3.894,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "df75b062a2c9",
+      "titulo": "Logitech lança MX Master 4 para programadores com visual de código e circuito",
+      "url": "https://canaltech.com.br/hardware/logitech-lanca-mx-master-4-para-programadores-com-visual-de-codigo-e-circuito/",
+      "resumo": "A Logitech anunciou o lançamento de uma versão especial de seu mouse topo de linha voltado para produtividade. Batizado de MX Master 4 Developer Edition , o modelo chega como uma homenagem aos desenvolvedores , trazendo um acabamento estético exclusivo inspirado no universo da programação, mantendo o mesmo conjunto de especificações do modelo tradicional lançado no segundo semestre de 2025. O grande diferencial da edição está na parte visual, que adota um esquema de cores em dois tons de cinza com detalhes em verde vibrante . A estrutura do periférico traz gravações a laser com elementos clássicos de código e referências à cultura dev, como as tags \"//\" e \"</>\" , linhas que simulam circuitos eletrônicos e a famosa instrução \"(Hello, World)\" . A fabricante também incluiu pequenas referências, como a menção a \"0xFF + 1\" (referência ao Dia do Programador) e a data 09.17 (homenagem ao lançamento do kernel Linux). As mesmas especificações de ponta Embora a carcaça traga um novo visual temático, as especificações técnicas internas permanecem idênticas às da versão padrão do MX Master 4 . O mouse conta com o conhecido sensor óptico Darkfield de 8.000 DPI (capaz de rastrear em superfícies ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-29T15:06:00+00:00",
+      "coletado_em": "2026-10-29T16:08:18.170520+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Xga1BB76jIngBLUmhKffL_1NcGQ=/0x0/filters:format(webp):quality(85)/9d2f0c60-34eb-418a-9c15-c950133aca60.png",
+      "score": 5.984,
+      "cobertura": []
+    },
+    {
+      "id": "f2b5e76a9369",
+      "titulo": "Gemini Notebook agora grava reuniões e aulas direto no celular sem precisar de upload",
+      "url": "https://canaltech.com.br/apps/gemini-notebook-agora-grava-reunioes-e-aulas-direto-no-celular-sem-precisar-de-upload/",
+      "resumo": "O Gemini Notebook ganhou um gravador integrado ao aplicativo para registrar aulas, reuniões e anotações faladas diretamente no celular. O conteúdo pode ser usado como fonte nas pesquisas com inteligência artificial (IA), sem a etapa de gravar em outro app e depois enviar o arquivo. A ferramenta, antes chamada NotebookLM, recebeu o nome Gemini Notebook em julho de 2026. O serviço do Google organiza materiais em notebooks e permite consultar as informações reunidas pelo usuário. O gravador funciona nas versões para Android e iPhone. O aplicativo está disponível no Brasil e oferece suporte ao português. Como funciona o gravador do Gemini Notebook Cada sessão pode durar até uma hora. O app transcreve a fala e adiciona o texto às fontes. Segundo o Google, o áudio original não fica armazenado como fonte. A captura funciona em segundo plano e com a tela bloqueada. Os controles permitem pausar, retomar ou descartar o registro. Com o material disponível, o usuário pode pedir um resumo, consultar um assunto mencionado ou fazer perguntas sobre o conteúdo. Em uma reunião, por exemplo, pode solicitar uma lista das decisões; em uma aula, pedir a explicação dos conceitos apresentados. O Google ta",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-29T13:02:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.689623+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/MOCSVSvr6Aj_ApnNHtzg7Z2w9hc=/0x0/filters:format(webp):quality(85)/1dcf99aa-f431-43b9-a3d5-dd2ed2ed7d05.png",
+      "score": 5.272,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/"
+      ]
+    },
+    {
+      "id": "a4d65aa3adee",
+      "titulo": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1103666/",
+      "resumo": "Security updates have been issued by AlmaLinux (cjose, emacs, expat, gcc-toolset-15-gcc, java-17-openjdk, java-25-openjdk, kernel, kernel-rt, libX11, libXi, libXrender, libXtst, mod_auth_openidc:2.3, pki-deps:10.6, thunderbird, webkit2gtk3, and yggdrasil), Debian (chromium, firefox-esr, and openjdk-25), Fedora (firefox, librabbitmq, libreswan, python-pillow, and unbound), Mageia (fio and python3, python-pip), Oracle (buildah, cjose, container-tools:ol8, emacs, flute, libbase, libfonts, libformula, liblayout, libloader, libreoffice, librepository, libserializer, pentaho-libxml, pentaho-reporting-flow-engine, and sac, kernel, libX11, libXi, libXrender, libXtst, podman, python-urllib3, thunderbird, and yggdrasil), Red Hat (firefox, goose, kernel, kernel package, kernel-rt, librsvg2, multiple packages, php:7.4, sudo, thunderbird, and xorg-x11-server), and SUSE (alsa, ca-certificates-mozilla, chromedriver, cifs-utils, coredns, coreutils, cpupower, curl, cyrus-sasl, docker, dpdk, haproxy, kernel, libpoppler-cpp3, libsndfile-devel, libzbar-devel, mozilla-nss, MozillaFirefox, nginx, openai-codex, and perl-Cpanel-JSON-XS).",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-29T13:18:42+00:00",
+      "coletado_em": "2026-10-29T14:11:01.663535+00:00",
+      "imagem_feed": null,
+      "score": 5.249,
+      "cobertura": []
+    },
+    {
+      "id": "6bb2c4142f70",
+      "titulo": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
+      "url": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "QA Agent is a new source-available Playwright library for agentic browser regression testing. The agent associates test instructions expressed in natural language to actions on the user interface, caches those when appropriate for faster CI replays, remapping them to test specifications when the user interface changes. Verification is based on multi-model consensus and vision model evaluations. By Bruno Couriol",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-29T15:17:00+00:00",
+      "coletado_em": "2026-10-29T16:08:18.141345+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/en/headerimage/generatedHeaderImage-1793286673185.jpg",
+      "score": 5.104,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "6b9bc3cbb7e5",
+      "titulo": "Nvidia GeForce RTX 5080 prices hit $2,000, costing more than the RTX 5090 did at launch and with limited stock available — original $999 MSRP long forgotten, with prices now 2-3x higher",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-prices-hit-usd2-000-costing-more-than-the-rtx-5090-did-at-launch-and-with-limited-stock-available-original-usd999-msrp-long-forgotten-with-prices-now-2-3x-higher",
+      "resumo": "It costs just as much to buy an Nvidia GeForce RTX 5080 right now as the launch price for the RTX 5090, with prices now at least two times higher for this high spec GPU.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-29T14:21:59+00:00",
+      "coletado_em": "2026-10-29T16:08:18.142874+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/xdhgqixy5N9VJosEoHKxLB-1920-80.jpg",
+      "score": 5.505,
+      "cobertura": []
+    },
+    {
+      "id": "b9944fc45ff6",
+      "titulo": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
+      "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing",
+      "resumo": "Sources say that Alice Huang, a senior executive at an Nvidia cloud partner who has close ties with Jensen Huang, is suspected of passing information to Beijing.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-29T13:04:23+00:00",
+      "coletado_em": "2026-10-29T14:11:01.664152+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/m9yYaGTygKCKaxm9GgKnKV-1920-80.png",
+      "score": 5.375,
+      "cobertura": []
+    },
+    {
+      "id": "f2b5e76a9369",
+      "titulo": "Gemini Notebook agora grava reuniões e aulas direto no celular sem precisar de upload",
+      "url": "https://canaltech.com.br/apps/gemini-notebook-agora-grava-reunioes-e-aulas-direto-no-celular-sem-precisar-de-upload/",
+      "resumo": "O Gemini Notebook ganhou um gravador integrado ao aplicativo para registrar aulas, reuniões e anotações faladas diretamente no celular. O conteúdo pode ser usado como fonte nas pesquisas com inteligência artificial (IA), sem a etapa de gravar em outro app e depois enviar o arquivo. A ferramenta, antes chamada NotebookLM, recebeu o nome Gemini Notebook em julho de 2026. O serviço do Google organiza materiais em notebooks e permite consultar as informações reunidas pelo usuário. O gravador funciona nas versões para Android e iPhone. O aplicativo está disponível no Brasil e oferece suporte ao português. Como funciona o gravador do Gemini Notebook Cada sessão pode durar até uma hora. O app transcreve a fala e adiciona o texto às fontes. Segundo o Google, o áudio original não fica armazenado como fonte. A captura funciona em segundo plano e com a tela bloqueada. Os controles permitem pausar, retomar ou descartar o registro. Com o material disponível, o usuário pode pedir um resumo, consultar um assunto mencionado ou fazer perguntas sobre o conteúdo. Em uma reunião, por exemplo, pode solicitar uma lista das decisões; em uma aula, pedir a explicação dos conceitos apresentados. O Google ta",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-29T13:02:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.689623+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/MOCSVSvr6Aj_ApnNHtzg7Z2w9hc=/0x0/filters:format(webp):quality(85)/1dcf99aa-f431-43b9-a3d5-dd2ed2ed7d05.png",
+      "score": 5.272,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/"
+      ]
+    },
+    {
+      "id": "3de69558e318",
+      "titulo": "USP cria registradora de créditos de carbono",
+      "url": "https://jornal.usp.br/noticias/usp-cria-registradora-de-creditos-de-carbono/",
+      "resumo": "Plataforma desenvolvida pelo RCGI utiliza imagens de satélite, inteligência artificial e metodologias científicas para verificar projetos ambientais e ampliar a confiabilidade dos créditos registrados",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-29T14:54:53+00:00",
+      "coletado_em": "2026-10-29T16:08:18.162153+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/09/20230904_creditocarbono-1024x538.jpg",
+      "score": 5.214,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "13f3ec36da7c",
+      "titulo": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+      "resumo": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magical'' process of star formation. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other hidden details.",
+      "fonte": "ESA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-29T14:00:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.665500+00:00",
+      "imagem_feed": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
+      "score": 8.068,
+      "cobertura": [
+        "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/"
+      ]
+    },
+    {
+      "id": "0044251aee6c",
+      "titulo": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+      "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+      "resumo": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is nicknamed the Cat’s Head Nebula […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-29T14:01:01+00:00",
+      "coletado_em": "2026-10-29T16:08:18.144182+00:00",
+      "imagem_feed": null,
+      "score": 7.769,
+      "cobertura": [
+        "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb"
+      ]
+    },
+    {
+      "id": "cffff9684ff5",
+      "titulo": "NASA’s Hubble Marks Way for Roman Space Telescope",
+      "url": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
+      "resumo": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope. Astronomers will use these […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-29T14:49:27+00:00",
+      "coletado_em": "2026-10-29T16:08:18.144182+00:00",
+      "imagem_feed": null,
+      "score": 5.854,
+      "cobertura": []
+    },
+    {
+      "id": "61f0f30b9289",
+      "titulo": "A striking Mars cloud may be born from surprising physics",
+      "url": "https://www.sciencenews.org/article/mars-cloud-homogenous-nucleation",
+      "resumo": "Everyday Earth clouds get their start with a bit of salt or dust. Not so the Red Planet's Arsia Mons Elongated Cloud, computer models suggest.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-29T12:00:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.718199+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_AS_strangeMarscloud_main.jpg?w=800",
+      "score": 5.075,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "0e516b9af558",
+      "titulo": "IQM Demonstrates Entanglement Across a Complete 54-Qubit Processor",
+      "url": "https://thequantuminsider.com/2026/10/29/iqm-full-chip-entanglement-54-qubit-processor/",
+      "resumo": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, today announced that its cloud-accessible IQM Emerald system has fully entangled all 54 qubits on the chip simultaneously, a result that shows the system’s computational quality holds up when every qubit is put to work at once. IQM’s […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-29T09:58:29+00:00",
+      "coletado_em": "2026-10-29T14:11:01.666948+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-56.png",
+      "score": 6.101,
+      "cobertura": []
+    },
+    {
+      "id": "273082560d9e",
+      "titulo": "Alice & Bob Estimates 22,593 Qubits to Break RSA-2048",
+      "url": "https://thequantuminsider.com/2026/10/29/alice-bob-22593-qubits-break-rsa-2048/",
+      "resumo": "Insider Brief PRESS RELEASE — Alice & Bob, a leader in fault-tolerant quantum computing, sets a record low for the total quantum resources (qubits multiplied by runtime) required to run Shor’s algorithm on today’s encryption. Its cat-qubit architecture needs 40 times fewer physical qubits than Google Quantum AI’s Craig Gidney 2025 estimate to break RSA-2048 […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-29T14:00:00+00:00",
+      "coletado_em": "2026-10-29T16:08:18.146096+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-38.png",
+      "score": 5.968,
+      "cobertura": []
+    },
+    {
+      "id": "70eca5cf2dc6",
+      "titulo": "Researchers Curb Unwanted Transitions in Ultrafast Quantum Gates",
+      "url": "https://thequantuminsider.com/2026/10/29/researchers-curb-unwanted-transitions-in-ultrafast-quantum-gates/",
+      "resumo": "Insider Brief PRESS RELEASE — Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds – with more than 99.98 percent accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications. 6.8 nanoseconds – that’s how long it […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-29T08:09:03+00:00",
+      "coletado_em": "2026-10-29T14:11:01.666948+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_2023_10_10_Quant_016_1.jpg",
+      "score": 5.961,
+      "cobertura": []
+    },
+    {
+      "id": "2dd5d8fe77ac",
+      "titulo": "Pasqal’s 256-Qubit Processor Finds Unexpected Quantum Magnet Behavior",
+      "url": "https://thequantuminsider.com/2026/10/29/pasqal-processor-unexpected-quantum-magnet-behavior/",
+      "resumo": "Insider Brief PRESS RELEASE — Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced that its 256-qubit quantum processor has revealed an unexpected behavior in a two-dimensional quantum magnet: under certain conditions, the system takes far longer to settle after being disturbed than theory predicts. The results, released as a preprint with […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-29T09:51:12+00:00",
+      "coletado_em": "2026-10-29T14:11:01.666948+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-50.png",
+      "score": 5.091,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "fdd624e7f54c",
+      "titulo": "Best Windows backup software for PCs and laptops",
+      "url": "https://www.pcworld.com/article/407021/best-windows-backup-software.html",
+      "resumo": "By now, the importance of backing up your Windows PC or laptop goes without saying. Just take a moment to consider how much of your data is at potential risk of a drive failure, natural disaster, or a bad actor, if you don’t have a solid backup plan in place. The best Windows backup software includes file backup, sure, but also disk imaging and full image restore, as well as disaster recovery. Our picks for best Windows backup software are selected with all the must-haves of data backup and recovery in mind, so in the tragic event that your primary local data repository is compromised, you’re fully covered. What backup utilities come with Windows? Sadly, while other operating systems make backup easy, Microsoft saddles users with a patchwork system of utilities and holdover imaging tools from Windows 7. Some of these work well (Restore Points, File History), others don’t (System Repair Disc, Recovery Drive). None are suitable for quick and easy disaster recovery — even the online backup that is available when you use Windows with a Microsoft cloud account. Thankfully, there are a number of highly capable and far more reliable third-party backup options for Windows that cover the pa",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-29T16:00:00+00:00",
+      "coletado_em": "2026-10-29T16:08:18.147547+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/407021-0-47883400-1793289633-backup-software_aufmacher.png",
+      "score": 6.184,
+      "cobertura": []
+    },
+    {
+      "id": "9454d4b76747",
+      "titulo": "Best VPNs for Android: 5 top picks for phones and tablets",
+      "url": "https://www.pcworld.com/article/403351/best-vpns-for-android.html",
+      "resumo": "For most of us, our phones are the main way we access the internet, so having a reliable VPN on Android is more important than ever. While plenty of VPNs work well on Windows, not all of them deliver the same experience on Android. I’ve tested dozens of services and narrowed them down to my favorites to help you find the right VPN for your phone or tablet. A good Android VPN needs to do more than just protect your privacy. It should be fast, reliable, and easy to use. To find the best options, I tested each VPN over several days, paying close attention to connection speeds, stability, and how well the Android app worked in everyday use. I also considered pricing, ease of use, and the number of simultaneous connections each service allows. The VPNs below were the best performers in all of these areas, making them my top picks for Android users. Why you should trust PCWorld for VPN reviews and buying advice: Here at PCWorld we’ve been testing computer hardware, software, and services since the 1980s. As reviewers and users of PC hardware and software, we put every product through its paces using rigorous benchmarking and hands-on evaluation. We’d never recommend something we wouldn’t",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-29T15:00:00+00:00",
+      "coletado_em": "2026-10-29T16:08:18.147547+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/403351-0-47376500-1793286034-android-phone.jpg?quality=50&strip=all",
+      "score": 5.573,
+      "cobertura": []
+    },
+    {
+      "id": "2e5d4c12934c",
+      "titulo": "Apple acaba com tabu e lança MacBook Pro com tela de toque e painel PROLED XDR",
+      "url": "https://canaltech.com.br/notebook/apple-acaba-com-tabu-e-lanca-macbook-pro-com-tela-de-toque-e-painel-proled-xdr/",
+      "resumo": "Depois de muitos rumores nos últimos meses, a Apple finalmente decidiu revolucionar sua linha de notebooks com recursos que já existem em PCs portáteis com Windows há anos. O novo MacBook Pro agora conta com tela OLED sensível ao toque e chega em modelos de 14 e 16 polegadas , custando a partir de R$ 34.999 no Brasil . A estrela principal do lançamento é a nova tela batizada de PROLED XDR . O painel adota a tecnologia OLED de camada dupla , oferecendo contraste de 10.000.000:1 e pretos perfeitos, sem vazamentos de luz. Além disso, a tela alcança até 2.000 nits de pico de brilho (tanto em conteúdo HDR quanto SDR), permitindo que profissionais trabalhem ao ar livre ou em ambientes muito iluminados sem perder a fidelidade de cores. Para reduzir reflexos, a Maçã também disponibilizou a opção do vidro com acabamento nano-texture. Interação por toque e estreia da Dynamic Island no Mac A chegada do suporte a toque abre uma nova forma de interagir com o sistema operacional macOS . Os usuários podem rolar páginas, dar zoom, organizar janelas e até desenhar na tela ou tocar instrumentos virtuais diretamente com os dedos, sem a necessidade de um digitalizador sobreposto que aumente a latência",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-29T13:12:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.689623+00:00",
+      "imagem_feed": null,
+      "score": 5.488,
+      "cobertura": []
+    },
+    {
+      "id": "f886ba0b76a7",
+      "titulo": "This $7,000 RTX Spark laptop had no business beating my RTX 5090 — but it did",
+      "url": "https://www.pcworld.com/article/3271512/asus-proart-p16-review-rtx-spark-vs-ai.html",
+      "resumo": "At a glance Expert's Rating Pros Massive 128GB unified memory pool enables huge local AI models Beat my RTX 5090 desktop in a demanding, memory-heavy AI workload Remarkably powerful AI capabilities in a thin, 3.9-pound laptop Gorgeous 4K OLED display and premium hardware Run enormous AI workloads without per-token API charges Cons Eye-watering $7,000 price Battery life craters during sustained AI inference Fans get extremely loud under heavy workloads Local models still trail top frontier AI in some tasks Overkill for gaming, everyday computing, and smaller AI workloads Our Verdict Nvidia’s RTX Spark isn’t going to replace a GeForce RTX 5090 for most workloads, but give it a massive AI model and suddenly its 128GB of unified memory becomes a superpower. Asus’ $7,000 ProArt P16 chewed through my enormous local AI research workloads and even finished one nearly 20 minutes faster than my monster RTX 5090 desktop. That’s genuinely remarkable for a 3.9-pound laptop. The catch? It’s wildly expensive, the fans scream under sustained AI loads, and battery life gets absolutely demolished. Local models still can’t match the best frontier AI at everything, either. But if you regularly work wi",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-29T13:00:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.668351+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3271512-0-94987600-1793278828-RTX-spark-vs-rtx-4090-1.jpg?quality=50&strip=all",
+      "score": 5.368,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "f2b5e76a9369",
+      "titulo": "Gemini Notebook agora grava reuniões e aulas direto no celular sem precisar de upload",
+      "url": "https://canaltech.com.br/apps/gemini-notebook-agora-grava-reunioes-e-aulas-direto-no-celular-sem-precisar-de-upload/",
+      "resumo": "O Gemini Notebook ganhou um gravador integrado ao aplicativo para registrar aulas, reuniões e anotações faladas diretamente no celular. O conteúdo pode ser usado como fonte nas pesquisas com inteligência artificial (IA), sem a etapa de gravar em outro app e depois enviar o arquivo. A ferramenta, antes chamada NotebookLM, recebeu o nome Gemini Notebook em julho de 2026. O serviço do Google organiza materiais em notebooks e permite consultar as informações reunidas pelo usuário. O gravador funciona nas versões para Android e iPhone. O aplicativo está disponível no Brasil e oferece suporte ao português. Como funciona o gravador do Gemini Notebook Cada sessão pode durar até uma hora. O app transcreve a fala e adiciona o texto às fontes. Segundo o Google, o áudio original não fica armazenado como fonte. A captura funciona em segundo plano e com a tela bloqueada. Os controles permitem pausar, retomar ou descartar o registro. Com o material disponível, o usuário pode pedir um resumo, consultar um assunto mencionado ou fazer perguntas sobre o conteúdo. Em uma reunião, por exemplo, pode solicitar uma lista das decisões; em uma aula, pedir a explicação dos conceitos apresentados. O Google ta",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-29T13:02:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.689623+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/MOCSVSvr6Aj_ApnNHtzg7Z2w9hc=/0x0/filters:format(webp):quality(85)/1dcf99aa-f431-43b9-a3d5-dd2ed2ed7d05.png",
+      "score": 6.272,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/"
+      ]
+    },
+    {
+      "id": "b012855b8be7",
+      "titulo": "Google lança Gemini 4 Carbon com avanços em cibersegurança, mas você ainda não pode usá-lo",
+      "url": "https://tecnoblog.net/noticias/google-lanca-gemini-4-carbon-com-avancos-em-ciberseguranca-mas-voce-ainda-nao-pode-usa-lo/",
+      "resumo": "Modelo supera números da Anthropic e OpenAI em testes gerais da Artificial Analysis e avança em capacidades de segurança. Google lança Gemini 4 Carbon com avanços em cibersegurança, mas você ainda não pode usá-lo",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-29T13:19:18+00:00",
+      "coletado_em": "2026-10-29T14:11:01.686558+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1.png",
+      "score": 5.95,
+      "cobertura": [
+        "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-carbon-com-foco-em-ciberseguranca-e-tarefas-que-duram-dias/"
+      ]
+    },
+    {
+      "id": "5c61c10a02d6",
+      "titulo": "Mais rápido e inteligente: Google Planilhas com IA processa até 3.000 dados de uma vez",
+      "url": "https://canaltech.com.br/inteligencia-artificial/mais-rapido-e-inteligente-google-planilhas-com-ia-processa-ate-3000-dados-de-uma-vez/",
+      "resumo": "O Google atualizou o Gemini no Planilhas para processar até 3.000 células em uma única solicitação , com mais velocidade no preenchimento de dados e citações de fontes da web. Segundo a empresa, tarefas com 500 células podem ser concluídas até 55 vezes mais rápido do que manualmente. As novidades já estão disponíveis na versão web para usuários com o recurso Gemini no Planilhas ativado. Para acessar as funções, basta clicar em “Pedir ao Gemini” (Ask Gemini), no canto superior direito da interface. Uma das principais mudanças é a inclusão de citações de fontes da web nas células preenchidas pela inteligência artificial . Ao criar uma comparação de preços de hotéis, passagens aéreas e atrações turísticas para uma viagem, por exemplo, o Gemini indica a origem de cada informação. Com isso, fica mais fácil conferir os dados e identificar possíveis erros nas respostas da IA. O aumento na capacidade de processamento também ajuda a automatizar tarefas com grandes volumes de informações . O usuário pode pedir ao Gemini que classifique centenas de comentários e avaliações de clientes, por exemplo, separando opiniões positivas e negativas sem analisar cada entrada individualmente. Google Plan",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-29T16:04:00+00:00",
+      "coletado_em": "2026-10-29T16:08:18.170520+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/eNIb0JelW09wTic0HXUkVISsan0=/0x0/filters:format(webp):quality(85)/b5b9d61a-c9e7-40fe-9fff-92288ed03b70.png",
+      "score": 5.592,
+      "cobertura": []
+    },
+    {
+      "id": "0e4d9824a33b",
+      "titulo": "IAs chinesas usaram dados do GPT-6 Astra para treinar modelos",
+      "url": "https://olhardigital.com.br/2026/10/29/inteligencia-artificial/ias-chinesas-usaram-dados-do-gpt-6-astra-para-treinar-modelos/",
+      "resumo": "Entenda como a técnica de destilação permite criar modelos de IA mais rápidos e o que as empresas fazem para proteger seus dados O post IAs chinesas usaram dados do GPT-6 Astra para treinar modelos apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-29T15:28:37+00:00",
+      "coletado_em": "2026-10-29T16:08:18.164986+00:00",
+      "imagem_feed": null,
+      "score": 5.375,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "d102b12f9fd5",
+      "titulo": "Bacteria can alter the toxicity and affect the biosafety of nanomaterials",
+      "url": "https://jornal.usp.br/uspnews/bacteria-can-alter-the-toxicity-and-affect-the-biosafety-of-nanomaterials/",
+      "resumo": "Graphene-based materials have been explored for innovative technological applications in electronic devices, high-performance plastics, and biotechnology",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-29T11:43:42+00:00",
+      "coletado_em": "2026-10-29T14:11:01.681474+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261013_ilustracao-1024x538.jpg",
+      "score": 5.4,
+      "cobertura": []
+    },
+    {
+      "id": "f2b5e76a9369",
+      "titulo": "Gemini Notebook agora grava reuniões e aulas direto no celular sem precisar de upload",
+      "url": "https://canaltech.com.br/apps/gemini-notebook-agora-grava-reunioes-e-aulas-direto-no-celular-sem-precisar-de-upload/",
+      "resumo": "O Gemini Notebook ganhou um gravador integrado ao aplicativo para registrar aulas, reuniões e anotações faladas diretamente no celular. O conteúdo pode ser usado como fonte nas pesquisas com inteligência artificial (IA), sem a etapa de gravar em outro app e depois enviar o arquivo. A ferramenta, antes chamada NotebookLM, recebeu o nome Gemini Notebook em julho de 2026. O serviço do Google organiza materiais em notebooks e permite consultar as informações reunidas pelo usuário. O gravador funciona nas versões para Android e iPhone. O aplicativo está disponível no Brasil e oferece suporte ao português. Como funciona o gravador do Gemini Notebook Cada sessão pode durar até uma hora. O app transcreve a fala e adiciona o texto às fontes. Segundo o Google, o áudio original não fica armazenado como fonte. A captura funciona em segundo plano e com a tela bloqueada. Os controles permitem pausar, retomar ou descartar o registro. Com o material disponível, o usuário pode pedir um resumo, consultar um assunto mencionado ou fazer perguntas sobre o conteúdo. Em uma reunião, por exemplo, pode solicitar uma lista das decisões; em uma aula, pedir a explicação dos conceitos apresentados. O Google ta",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-29T13:02:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.689623+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/MOCSVSvr6Aj_ApnNHtzg7Z2w9hc=/0x0/filters:format(webp):quality(85)/1dcf99aa-f431-43b9-a3d5-dd2ed2ed7d05.png",
+      "score": 5.272,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/"
+      ]
+    },
+    {
+      "id": "22f9a6c5bc3a",
+      "titulo": "Disputa por tecnologias e cooperação internacional pautam conferência sobre o futuro da energia",
+      "url": "https://jornal.usp.br/universidade/disputa-por-tecnologias-e-cooperacao-internacional-pautam-conferencia-sobre-o-futuro-da-energia/",
+      "resumo": "Evento vai reunir academia, indústria e governo de 4 a 6 de novembro, e inclui debates sobre combustíveis de baixo carbono, hidrogênio e descarbonização dos transportes, além de encontro com engenheiros ligados à Fórmula 1",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-29T15:01:21+00:00",
+      "coletado_em": "2026-10-29T16:08:18.162153+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/20180319_00_transporte-publico2.jpg",
+      "score": 5.225,
+      "cobertura": []
+    },
+    {
+      "id": "ac8116b86d85",
+      "titulo": "Titanium boosts thermoelectric performance of thin films by 250-fold",
+      "url": "https://techxplore.com/news/2026-10-titanium-boosts-thermoelectric-thin.html",
+      "resumo": "Every electronic device, factory and vehicle generates heat that often goes to waste. What if that energy could be recovered to generate electricity using thin films manufactured without high-temperature processing? Researchers at Tohoku University have taken a step toward making this possible, developing a thermoelectric material that delivers a 250-fold increase in power factor by adding a small amount of titanium to chromium nitride.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-29T16:00:12+00:00",
+      "coletado_em": "2026-10-29T16:08:18.160173+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/titanium-boosts-thermo-1.jpg",
+      "score": 5.034,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "191067badd16",
+      "titulo": "Após vazamento, Smart Sampa exigirá reconhecimento facial para acessar câmeras",
+      "url": "https://canaltech.com.br/mercado/apos-vazamento-smart-sampa-exigira-reconhecimento-facial-para-acessar-cameras/",
+      "resumo": "A Prefeitura de São Paulo anunciou a exigência de reconhecimento facial para os profissionais autorizados a acessar imagens e informações do Smart Sampa. A medida foi apresentada pelo prefeito Ricardo Nunes (MDB) na terça-feira (27), uma semana após a revelação de um vazamento de credenciais do sistema de vigilância. Segundo Nunes, a autenticação passou a valer naquele dia para agentes da Guarda Civil Metropolitana (GCM) e para os nove promotores que terão acesso à plataforma por meio de uma parceria com o Ministério Público de São Paulo (MPSP). A checagem identifica quem consulta o sistema. O Smart Sampa reúne câmeras públicas e privadas e usa reconhecimento facial para procurar pessoas em bases de foragidos e desaparecidos. A plataforma também identifica placas de veículos e emite alertas para as equipes de segurança. O que ficou exposto no vazamento Em 20 de outubro, o UOL revelou que um repositório público expôs informações restritas por cerca de 11 meses . O material incluía 181 logins e senhas, dados de mais de 6 mil agentes de segurança e instruções para reproduzir uma interface de acesso ao Smart Sampa. As credenciais permitiam consultar imagens de uma rede com mais de 58 m",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-29T15:01:00+00:00",
+      "coletado_em": "2026-10-29T16:08:18.170520+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/MA36gHIzmHIuwavskw6sESaBbQc=/0x0/filters:format(webp):quality(85)/0428656a-26da-47c6-811a-0b4f641eb72d.png",
+      "score": 5.475,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/apos-vazamento-smart-sampa-tera-reconhecimento-facial-para-acessar-sistema/"
+      ]
+    },
+    {
+      "id": "759e0be5fdfc",
+      "titulo": "Após vazamento, Smart Sampa terá reconhecimento facial para acessar sistema",
+      "url": "https://tecnoblog.net/noticias/apos-vazamento-smart-sampa-tera-reconhecimento-facial-para-acessar-sistema/",
+      "resumo": "Prefeitura de São Paulo anunciou nova camada de autenticação após exposição de credenciais. Após vazamento, Smart Sampa terá reconhecimento facial para acessar sistema",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-28T17:01:03+00:00",
+      "coletado_em": "2026-10-29T14:11:01.686558+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/54264481595_45957e8669_k-edited.jpg",
+      "score": 4.276,
+      "cobertura": [
+        "https://canaltech.com.br/mercado/apos-vazamento-smart-sampa-exigira-reconhecimento-facial-para-acessar-cameras/"
+      ]
+    },
+    {
+      "id": "8d4e9395ae36",
+      "titulo": "Vazamento de 40 mil dados do DHS atinge o ICE e a defesa dos EUA",
+      "url": "https://olhardigital.com.br/2026/10/29/seguranca/vazamento-de-40-mil-dados-do-dhs-atinge-o-ice-e-a-defesa-dos-eua/",
+      "resumo": "DDoSecrets divulga registros de servidores do DHS e do ICE; Okta nega invasão enquanto órgão investiga a segurança interna O post Vazamento de 40 mil dados do DHS atinge o ICE e a defesa dos EUA apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-29T12:36:49+00:00",
+      "coletado_em": "2026-10-29T14:11:01.684338+00:00",
+      "imagem_feed": null,
+      "score": 4.082,
+      "cobertura": []
+    },
+    {
+      "id": "2e5d4c12934c",
+      "titulo": "Apple acaba com tabu e lança MacBook Pro com tela de toque e painel PROLED XDR",
+      "url": "https://canaltech.com.br/notebook/apple-acaba-com-tabu-e-lanca-macbook-pro-com-tela-de-toque-e-painel-proled-xdr/",
+      "resumo": "Depois de muitos rumores nos últimos meses, a Apple finalmente decidiu revolucionar sua linha de notebooks com recursos que já existem em PCs portáteis com Windows há anos. O novo MacBook Pro agora conta com tela OLED sensível ao toque e chega em modelos de 14 e 16 polegadas , custando a partir de R$ 34.999 no Brasil . A estrela principal do lançamento é a nova tela batizada de PROLED XDR . O painel adota a tecnologia OLED de camada dupla , oferecendo contraste de 10.000.000:1 e pretos perfeitos, sem vazamentos de luz. Além disso, a tela alcança até 2.000 nits de pico de brilho (tanto em conteúdo HDR quanto SDR), permitindo que profissionais trabalhem ao ar livre ou em ambientes muito iluminados sem perder a fidelidade de cores. Para reduzir reflexos, a Maçã também disponibilizou a opção do vidro com acabamento nano-texture. Interação por toque e estreia da Dynamic Island no Mac A chegada do suporte a toque abre uma nova forma de interagir com o sistema operacional macOS . Os usuários podem rolar páginas, dar zoom, organizar janelas e até desenhar na tela ou tocar instrumentos virtuais diretamente com os dedos, sem a necessidade de um digitalizador sobreposto que aumente a latência",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-29T13:12:00+00:00",
+      "coletado_em": "2026-10-29T14:11:01.689623+00:00",
+      "imagem_feed": null,
+      "score": 3.988,
+      "cobertura": []
+    }
+  ]
+}
