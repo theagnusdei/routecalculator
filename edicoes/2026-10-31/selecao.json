@@ -1,0 +1,732 @@
+{
+  "medicina": [
+    {
+      "id": "e63784f25d2b",
+      "titulo": "CDK1 protein offers clues to which breast cancers will resist targeted therapy",
+      "url": "https://medicalxpress.com/news/2026-10-cdk1-protein-clues-breast-cancers.html",
+      "resumo": "Researchers at the Garvan Institute of Medical Research have discovered that the activity of a protein called CDK1 in breast cancers is linked to how they respond to a common therapy—an insight that could inform more personalized treatment approaches for patients.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-30T15:20:05+00:00",
+      "coletado_em": "2026-10-30T15:56:35.584666+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-offers-clues-t.jpg",
+      "score": 6.481,
+      "cobertura": []
+    },
+    {
+      "id": "d884ccf48e9b",
+      "titulo": "Assessing Merck and Moderna’s mRNA cancer vaccine",
+      "url": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss",
+      "resumo": "On this week's “The Readout LOUD,” we discuss the latest cancer data presented at the annual meeting of the European Society for Medical Oncology.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-30T13:33:55+00:00",
+      "coletado_em": "2026-10-30T14:02:42.188842+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
+      "score": 6.093,
+      "cobertura": []
+    },
+    {
+      "id": "01447eb0e143",
+      "titulo": "Beyond treating symptoms: Life stories support mental health recovery",
+      "url": "https://medicalxpress.com/news/2026-10-symptoms-life-stories-mental-health.html",
+      "resumo": "UT research shows how personal life stories can support treatment and personal recovery. Who are you, what has shaped you, and how do you see your future? For people with personality disorders, these questions can play an important role in their recovery. Ph.D. research by clinical psychologist and psychotherapist Silvia Pol shows that paying attention to personal life stories can help guide treatment decisions and support personal recovery.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-30T15:40:04+00:00",
+      "coletado_em": "2026-10-30T15:56:35.584666+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/sharing-story.jpg",
+      "score": 5.518,
+      "cobertura": []
+    },
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-10-30T14:02:42.186983+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "73d289bd92e4",
+      "titulo": "A protein that regulates mRNA decoding can itself be regulated with implications for understanding cancer",
+      "url": "https://phys.org/news/2026-10-protein-mrna-decoding-implications-cancer.html",
+      "resumo": "Decoding of messenger RNA (mRNA) occurs during translation, the vital cellular process that builds proteins. Errors in this process are known to lead to cancer growth. Scientists at St. Jude Children's Research Hospital identified how one factor involved in mRNA decoding can be altered, identifying potential cancer origins and new targets for KRAS-related treatment resistance. The results are published in Nature Cell Biology.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-29T22:30:06+00:00",
+      "coletado_em": "2026-10-30T14:02:42.189513+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-trans-1.jpg",
+      "score": 5.28,
+      "cobertura": []
+    },
+    {
+      "id": "401eaf5ea2b8",
+      "titulo": "The 'shape' of gene expression: Identifying genes that may share roles across species",
+      "url": "https://phys.org/news/2026-10-gene-genes-roles-species.html",
+      "resumo": "Much of what we know about biology comes from animal models, particularly mice. Applying these insights to humans, however, is not always straightforward. For example, some of the genes important for the formation of germ cells, which eventually give rise to eggs or sperm, differ between mice and humans.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-29T21:40:16+00:00",
+      "coletado_em": "2026-10-30T14:02:42.189513+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-shape-of-gene-expr-1.jpg",
+      "score": 5.246,
+      "cobertura": []
+    },
+    {
+      "id": "e31066355db0",
+      "titulo": "A proof-of-concept test can spot bladder cancer in urine",
+      "url": "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna",
+      "resumo": "Using a proof-of-concept test to analyze fragments of RNA in urine, researchers can detect cases of bladder cancer.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia",
+        "medicina"
+      ],
+      "publicado": "2026-10-30T13:00:00+00:00",
+      "coletado_em": "2026-10-30T14:02:42.237754+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102326_MR_urinetest_main.jpg?w=800",
+      "score": 5.187,
+      "cobertura": []
+    },
+    {
+      "id": "c8569d748ad7",
+      "titulo": "Reexamining sexual and species recognition in butterflies: The Partner-Hazard Space framework",
+      "url": "https://phys.org/news/2026-10-reexamining-sexual-species-recognition-butterflies.html",
+      "resumo": "Generally, intra- and intersexual interactions have been considered qualitatively different processes. However, same-sex sexual behavior is widespread in the animal kingdom, challenging this assumption. Recently, a hypothesis was proposed that regards territorial contests in butterflies, in which two males chase each other without apparent physical attack, as an initial phase of mating behavior.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-30T11:40:01+00:00",
+      "coletado_em": "2026-10-30T14:02:42.189513+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/butterflies.jpg",
+      "score": 5.112,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "abfc2d464ed1",
+      "titulo": "Armored caterpillars offer robot designers lessons in crossing slippery glass",
+      "url": "https://techxplore.com/news/2026-10-armored-caterpillars-robot-lessons-slippery.html",
+      "resumo": "Animals have long been one of the primary sources of inspiration for robotics researchers. This is because they rely on sophisticated biological mechanisms and locomotion strategies that could be artificially reproduced in robots to equip them with desired capabilities.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-30T14:40:14+00:00",
+      "coletado_em": "2026-10-30T15:56:35.588617+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/armored-caterpillars-o-2.jpg",
+      "score": 5.408,
+      "cobertura": []
+    },
+    {
+      "id": "45fd290d29a0",
+      "titulo": "Fast Feature Field: The missing link between event cameras and robot vision",
+      "url": "https://techxplore.com/news/2026-10-fast-feature-field-link-event.html",
+      "resumo": "For decades, event cameras, which emulate the biological retina by continuously monitoring changes in light intensity, have promised to revolutionize how robots perceive the world by allowing them to react faster and operate more reliably than conventional cameras permit.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-30T15:20:10+00:00",
+      "coletado_em": "2026-10-30T15:56:35.588617+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-missing-link-betwe.jpg",
+      "score": 4.981,
+      "cobertura": []
+    },
+    {
+      "id": "77d7b8aebc71",
+      "titulo": "RoboBusiness 2026 recap",
+      "url": "https://www.therobotreport.com/robobusiness-2026-recap/",
+      "resumo": "The Robot Report editorial team sits down for a recap of noteworthy sessions and networking around the 2026 RoboBusiness event. The post RoboBusiness 2026 recap appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-30T12:30:02+00:00",
+      "coletado_em": "2026-10-30T14:02:42.191104+00:00",
+      "imagem_feed": null,
+      "score": 4.539,
+      "cobertura": []
+    },
+    {
+      "id": "55cd01abe02f",
+      "titulo": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
+      "url": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
+      "resumo": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation. The post 2026 Robotics Handbook looks at humanoids, AI, and design choices appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-29T19:36:12+00:00",
+      "coletado_em": "2026-10-30T14:02:42.191104+00:00",
+      "imagem_feed": null,
+      "score": 4.518,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "67d031a1aa17",
+      "titulo": "Remote code execution on Linux systems with multipath TCP",
+      "url": "https://lwn.net/Articles/1104192/",
+      "resumo": "On October 27, LLM provider Anthropic reported on a remotely exploitable use-after-free bug affecting systems with multipath TCP listeners open. The bug works by triggering a response to a retransmitted SYN packet at the same moment that the TCP connection is established in another thread, causing the first thread to access the connection's options structure after the second thread has freed it. The first thread can then disclose kernel memory or cause a buffer overflow, writing an attacker-controlled payload. The fix was to only free the structure after an RCU grace period . On October 29, the Go security team advised that all programs written in Go use multipath TCP by default , so many systems may be unknowingly vulnerable. And, of course, there is always the possibility of related bugs in other sections of the TCP stack. Users may be wise to update to a patched kernel as soon as one becomes available for their distribution.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-30T15:45:27+00:00",
+      "coletado_em": "2026-10-30T15:56:35.589875+00:00",
+      "imagem_feed": null,
+      "score": 5.529,
+      "cobertura": []
+    },
+    {
+      "id": "6d5d0781ffdf",
+      "titulo": "Eight more stable kernel updates",
+      "url": "https://lwn.net/Articles/1104177/",
+      "resumo": "Greg Kroah-Hartman has announced the release of the 7.3.1 , 7.2.14 , 6.18.60 , 6.12.115 , 6.6.161 , 6.1.191 , 5.15.224 , and 5.10.273 stable kernels. As usual, he advises all users to update—advice that seems especially wise given the increased number of security-relevant bug fixes that the kernel is seeing these days. [Edit: the 7.2.15 stable release is already in review as well.]",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-30T14:22:39+00:00",
+      "coletado_em": "2026-10-30T15:56:35.589875+00:00",
+      "imagem_feed": null,
+      "score": 5.377,
+      "cobertura": []
+    },
+    {
+      "id": "f32e72b3b52b",
+      "titulo": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1104174/",
+      "resumo": "Security updates have been issued by AlmaLinux (aspell, cjose, curl, gcc-toolset-15-gcc, httpd:2.4, ignition, java-21-openjdk, libX11, libXi, libXrender, libXtst, mariadb:10.11, nodejs:24, python-pillow, python3.12-urllib3, and webkit2gtk3), Debian (imagemagick, libdatetime-timezone-perl, python-git, tor, tzdata, vlc, and wordpress), Fedora (accessibility-inspector, akonadi-calendar, akonadi-calendar-tools, akonadi-contacts, akonadi-import-wizard, akonadi-mime, akonadi-search, akonadi-server, akonadiconsole, akregator, alligator, analitza, angelfish, applet-window-buttons, arianna, ark, artikulate, audex, audiocd-kio, audiotube, aurorae, baloo-widgets, blinken, bluedevil, bomber, bovo, breeze-gtk, brotli, bup, calendarsupport, calindori, calligra, cantor, colord-kde, cxx-rust-cssparser, dolphin, dolphin-plugins, dragon, elisa-player, eventviews, falkon, fcitx-configtool, ffmpegthumbs, filelight, firefox, flatpak-kcm, francis, ghostwriter, granatier, grantlee-editor, grantleetheme, grub2-breeze-theme, gwenview, incidenceeditor, isoimagewriter, itinerary, juk, k3b, kaccounts-integration, kaccounts-providers, kactivitymanagerd, kaddressbook, kajongg, kalarm, kalgebra, kalk, kalm, kalz",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-30T13:37:12+00:00",
+      "coletado_em": "2026-10-30T14:02:42.192230+00:00",
+      "imagem_feed": null,
+      "score": 5.299,
+      "cobertura": []
+    },
+    {
+      "id": "a8172d0671dd",
+      "titulo": "Sem sair do chat: Gemini ganha edição interativa de documentos no celular e na web",
+      "url": "https://canaltech.com.br/inteligencia-artificial/sem-sair-do-chat-gemini-ganha-edicao-interativa-de-documentos-no-celular-e-na-web/",
+      "resumo": "O Google anunciou nesta quinta-feira (29) uma nova ferramenta que permite criar, visualizar e editar documentos diretamente no Gemini, sem precisar sair da conversa com a inteligência artificial (IA). A novidade funciona no celular e na versão web do chatbot, com suporte a PDFs, apresentações, planilhas e outros formatos. Com a atualização, o usuário pode abrir uma prévia do arquivo dentro do próprio Gemini e fazer alterações manualmente ou solicitar modificações à IA. Também é possível selecionar trechos específicos para pedir ajustes no texto ou em elementos visuais. Segundo o Google, a ferramenta já está disponível para todos os usuários do Gemini, em todos os idiomas compatíveis com o aplicativo, incluindo o português. Entretanto, há diferenças entre os formatos aceitos no celular e no computador . Enquanto a versão para smartphones permite visualizar e editar arquivos PDF, o Gemini na web também oferece suporte a documentos do Google Docs, planilhas do Google Sheets, apresentações, arquivos Markdown, TXT e códigos de programação. Como funciona a edição de documentos no Gemini? A nova ferramenta permite trabalhar com arquivos diretamente na interface de conversa do Gemini. Depo",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-30T15:02:00+00:00",
+      "coletado_em": "2026-10-30T15:56:35.616807+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/b6f8eKgG9fGpURQGkc7BrVn_Ed4=/0x0/filters:format(webp):quality(85)/00197314-5e58-4c5e-bf37-6a31d52f472a.png",
+      "score": 4.998,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "b51083c95d20",
+      "titulo": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin",
+      "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin",
+      "resumo": "Nvidia gave us access to its Vera data center CPU for testing against Intel's Granite Rapids-AP and AMD's EPYC Turin.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-30T11:00:00+00:00",
+      "coletado_em": "2026-10-30T14:02:42.192657+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/i36TMy66jESma8VBnRZoJ8-1920-80.jpg",
+      "score": 6.203,
+      "cobertura": []
+    },
+    {
+      "id": "23b637243100",
+      "titulo": "Chips para notebooks baratos estão esgotados, revela Intel",
+      "url": "https://tecnoblog.net/noticias/chips-para-notebooks-baratos-estao-esgotados-revela-intel/",
+      "resumo": "Intel afirma que escassez de memória não deve melhorar ao longo de 2027. Chips para notebooks baratos estão esgotados, revela Intel",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-30T15:13:53+00:00",
+      "coletado_em": "2026-10-30T15:56:35.612726+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-2_tb.png",
+      "score": 5.669,
+      "cobertura": []
+    },
+    {
+      "id": "6d5f923aa442",
+      "titulo": "Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months",
+      "url": "https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory",
+      "resumo": "A two-week shutdown of Intel's Fab 28 in Israel will affect server CPU shipments for two consecutive quarters.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-30T09:30:00+00:00",
+      "coletado_em": "2026-10-30T14:02:42.192657+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/LfAMGfgQdrVVWjdQnwewpP-1920-80.jpg",
+      "score": 5.578,
+      "cobertura": []
+    },
+    {
+      "id": "eafbdf257071",
+      "titulo": "Intel leaker reveals Moon Lake chip as a likely replacement for N-series SoCs",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-reveals-moon-lake-chip-as-a-likely-replacement-for-n-series-socs-four-lower-power-efficiency-cores-no-performance-cores-and-a-6-w-tdp",
+      "resumo": "An Intel leaker revealed Moon Lake chip as a likely replacement for N-series SoCs with four lower-power-efficiency cores, no performance cores, and a 6-watt TDP",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-30T11:40:00+00:00",
+      "coletado_em": "2026-10-30T14:02:42.192657+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Y5RvehHjyP7Zx5pdbLWike-1920-80.jpg",
+      "score": 5.262,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "13f3ec36da7c",
+      "titulo": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+      "resumo": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magical'' process of star formation. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other hidden details.",
+      "fonte": "ESA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-29T14:00:00+00:00",
+      "coletado_em": "2026-10-30T14:02:42.193701+00:00",
+      "imagem_feed": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
+      "score": 6.747,
+      "cobertura": [
+        "https://phys.org/news/2026-10-ghostly-cat-nebula-lurks-sight.html"
+      ]
+    },
+    {
+      "id": "fac59b7ed3b4",
+      "titulo": "JWST reveals a distant galaxy that may let most of its ionizing radiation escape",
+      "url": "https://phys.org/news/2026-10-jwst-reveals-distant-galaxy-ionizing.html",
+      "resumo": "Astronomers using the James Webb Space Telescope (JWST) have found evidence that a distant, exceptionally blue galaxy may allow most of its ionizing radiation to escape into space. Known as EBG-1, the gravitationally lensed galaxy is seen at a redshift of 9.244, about 530 million years after the Big Bang. The paper was posted to the arXiv preprint server on Oct. 16.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-30T13:40:14+00:00",
+      "coletado_em": "2026-10-30T14:02:42.193864+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-finds-a-distant-g.jpg",
+      "score": 6.304,
+      "cobertura": []
+    },
+    {
+      "id": "e8ef063b7005",
+      "titulo": "Ghostly Cat's Head Nebula lurks within sight of NASA's Hubble, Webb",
+      "url": "https://phys.org/news/2026-10-ghostly-cat-nebula-lurks-sight.html",
+      "resumo": "NASA's Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene, like a spectral form rising out of a cold mist. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is nicknamed the Cat's Head Nebula because of its resemblance to a cat sitting with its back toward the viewer. The \"head\" of the cat is turned to the right, revealing a glowing eye.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-29T20:20:01+00:00",
+      "coletado_em": "2026-10-30T14:02:42.193864+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/cats-head-nebula-hubbl.jpg",
+      "score": 6.194,
+      "cobertura": [
+        "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb"
+      ]
+    },
+    {
+      "id": "5ae8537878b2",
+      "titulo": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+      "url": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
+      "resumo": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-29T23:49:50+00:00",
+      "coletado_em": "2026-10-30T14:02:42.194496+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/QqqJuNTwQKzgKzGHhzWhuZ-1920-80.png",
+      "score": 5.689,
+      "cobertura": [
+        "https://www.techspot.com/news/114388-actor-patrick-stewart-dies-86-legendary-star-star.html",
+        "https://www.nature.com/articles/d41586-026-03543-9"
+      ]
+    }
+  ],
+  "quantica": [
+    {
+      "id": "9f4ac4d49030",
+      "titulo": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
+      "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+      "resumo": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily fragile, and the entanglement between particles of light on which such networks would depend is easily disrupted.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-30T15:40:01+00:00",
+      "coletado_em": "2026-10-30T15:56:35.593564+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-skyrmions-coul.jpg",
+      "score": 6.018,
+      "cobertura": []
+    },
+    {
+      "id": "989e0b1ad2e6",
+      "titulo": "France National Quantum Update: October 2026",
+      "url": "https://thequantuminsider.com/2026/10/30/france-national-quantum-update-october-2026/",
+      "resumo": "EXECUTIVE SUMMARY France expanded its quantum technology ties with Vietnam in October, combining a business delegation with agreements covering computing infrastructure, research and workforce development. The activity highlighted international expansion alongside efforts at home to integrate quantum processors with conventional computing and improve error correction. Business France organized a three-day delegation to Hanoi and Ho […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-30T11:54:29+00:00",
+      "coletado_em": "2026-10-30T14:02:42.194929+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/October-2026.png",
+      "score": 5.284,
+      "cobertura": []
+    },
+    {
+      "id": "bcf74b1365f0",
+      "titulo": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer",
+      "url": "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/",
+      "resumo": "Insider Brief Foxconn wants to become the world’s largest quantum computer manufacturer, betting on machines its chairman says will accelerate specialized calculations while taking at least another two years to become commercially viable. Chairman Young Liu told CNBC that the company sees an opportunity to build quantum computers for businesses that develop the underlying technology. […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-30T11:39:35+00:00",
+      "coletado_em": "2026-10-30T14:02:42.194929+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Foxconn-Logo-with-Flowing-Blue-Waves.png",
+      "score": 5.262,
+      "cobertura": []
+    },
+    {
+      "id": "e14630ea9498",
+      "titulo": "Netpoleon India Partners With QNu Labs on Quantum-Safe Security",
+      "url": "https://thequantuminsider.com/2026/10/30/netpoleon-qnu-labs-quantum-safe-security/",
+      "resumo": "Insider Brief PRESS RELEASE — Netpoleon India, a value-added cybersecurity distributor, has onboarded QNu Labs, an India-born deep-tech cybersecurity company, in a strategic collaboration aimed at accelerating quantum-safe cybersecurity readiness and strengthening long-term digital resilience across Indian enterprises. As organisations accelerate digital transformation, protecting sensitive information and critical digital infrastructure has become a strategic business […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-30T13:42:42+00:00",
+      "coletado_em": "2026-10-30T15:56:35.593192+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-30_18-41.png",
+      "score": 4.958,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "28bf4dc6f6ff",
+      "titulo": "Actor Patrick Stewart dies at 86, legendary star of Star Trek and X-Men",
+      "url": "https://www.techspot.com/news/114388-actor-patrick-stewart-dies-86-legendary-star-star.html",
+      "resumo": "After his longtime spokesperson, Kelly Bush Novak, formally announced his passing, tributes poured in from around the world. Fans and former colleagues recalled his iconic roles and marveled at how easily he moved between commercial cinema and classical Shakespearean theater. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-30T15:40:00+00:00",
+      "coletado_em": "2026-10-30T15:56:35.601781+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-30-ts3_thumbs-1ba.jpg",
+      "score": 6.368,
+      "cobertura": [
+        "https://canaltech.com.br/entretenimento/patrick-stewart-ator-de-x-men-e-star-trek-morre-aos-86-anos-relembre-seus-trabalhos/",
+        "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86"
+      ]
+    },
+    {
+      "id": "dc160b722506",
+      "titulo": "Why you can’t just build your own RTX Spark PC",
+      "url": "https://www.pcworld.com/article/3272014/why-you-cant-just-build-your-own-rtx-spark-pc.html",
+      "resumo": "The Asus ProArt P16 RTX Spark has 128GB of memory. So does my desktop, basically. My desktop also has a GeForce RTX 5090 , the fastest consumer graphics card Nvidia has ever made, and one that’s an absolute monster for AI tasks. So why did the laptop finish my massive local AI workload almost 20 minutes faster? Because my desktop has all that memory in the wrong damned places. I’ve been putting the staggeringly expensive $7,000 Asus ProArt P16 laptop through some unusual tests for my AI-focused RTX Spark review , including running a sprawling real-world research workload through OpenAI’s gigantic 120-billion-parameter gpt-oss model. Rather than asking an AI to write a poem about Jensen Huang or make me a picture of a cat on a motorcycle, I wanted to see whether this specialized hardware could handle the sort of stupidly ambitious local AI work I’d normally reserve for cloud models. It can. More interestingly, my monster desktop can too. Just much, much slower. For one frozen comparison, both systems chewed through the exact same workload, generating 472,084 tokens along the way. The ProArt P16 RTX Spark finished in 33 minutes and 13 seconds. My desktop needed 52 minutes and 51 seco",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-30T13:00:00+00:00",
+      "coletado_em": "2026-10-30T14:02:42.196100+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3272014-0-19240900-1793365233-nvidia-rtx-spark-6.jpg?quality=50&strip=all",
+      "score": 5.887,
+      "cobertura": []
+    },
+    {
+      "id": "ab2d8c132145",
+      "titulo": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "resumo": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-30T11:44:53+00:00",
+      "coletado_em": "2026-10-30T14:02:42.202965+00:00",
+      "imagem_feed": null,
+      "score": 5.82,
+      "cobertura": [
+        "https://www.techspot.com/news/114392-binance-loses-63-billion-largest-crypto-heist-ever.html",
+        "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-withdrawals-frozen-after-thieves-steal-usd5-6-billion-in-crypto-in-record-breaking-cryptocurrency-heist-firm-says-it-will-cover-losses-as-stablecoin-networks-move-to-freeze-usd2-4b-in-stolen-assets"
+      ]
+    },
+    {
+      "id": "57228fa14ff4",
+      "titulo": "This is your chance to secure an entire entry-level ABS gaming PC for only $849",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/this-is-your-chance-to-secure-an-entire-entry-level-abs-gaming-pc-for-only-usd849-amazing-walmart-deal-sets-you-up-with-an-rtx-5060-graphics-card-and-shaves-usd350-off-the-list-price",
+      "resumo": "An affordable desktop gaming PC with an RTX 5060 GPU inside for under $850.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-30T13:00:00+00:00",
+      "coletado_em": "2026-10-30T14:02:42.192657+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/465jwErV2yBFmgYgxpyYYG-1920-80.jpg",
+      "score": 5.387,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "a8172d0671dd",
+      "titulo": "Sem sair do chat: Gemini ganha edição interativa de documentos no celular e na web",
+      "url": "https://canaltech.com.br/inteligencia-artificial/sem-sair-do-chat-gemini-ganha-edicao-interativa-de-documentos-no-celular-e-na-web/",
+      "resumo": "O Google anunciou nesta quinta-feira (29) uma nova ferramenta que permite criar, visualizar e editar documentos diretamente no Gemini, sem precisar sair da conversa com a inteligência artificial (IA). A novidade funciona no celular e na versão web do chatbot, com suporte a PDFs, apresentações, planilhas e outros formatos. Com a atualização, o usuário pode abrir uma prévia do arquivo dentro do próprio Gemini e fazer alterações manualmente ou solicitar modificações à IA. Também é possível selecionar trechos específicos para pedir ajustes no texto ou em elementos visuais. Segundo o Google, a ferramenta já está disponível para todos os usuários do Gemini, em todos os idiomas compatíveis com o aplicativo, incluindo o português. Entretanto, há diferenças entre os formatos aceitos no celular e no computador . Enquanto a versão para smartphones permite visualizar e editar arquivos PDF, o Gemini na web também oferece suporte a documentos do Google Docs, planilhas do Google Sheets, apresentações, arquivos Markdown, TXT e códigos de programação. Como funciona a edição de documentos no Gemini? A nova ferramenta permite trabalhar com arquivos diretamente na interface de conversa do Gemini. Depo",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-30T15:02:00+00:00",
+      "coletado_em": "2026-10-30T15:56:35.616807+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/b6f8eKgG9fGpURQGkc7BrVn_Ed4=/0x0/filters:format(webp):quality(85)/00197314-5e58-4c5e-bf37-6a31d52f472a.png",
+      "score": 5.498,
+      "cobertura": []
+    },
+    {
+      "id": "1dfffc2cf7e7",
+      "titulo": "Como assinar o Instagram Plus?",
+      "url": "https://canaltech.com.br/apps/como-assinar-o-instagram-plus/",
+      "resumo": "O Instagram Plus é uma assinatura paga da Meta que oferece recursos extras de personalização, privacidade e análise de audiência na rede social. O plano é opcional e mantém a versão tradicional do aplicativo gratuita. Lançado globalmente em 4 de junho de 2026, o serviço traz visualização anônima de Stories, extensão do prazo de exibição das publicações para 48 horas e fixação de até seis posts no perfil. A assinatura faz parte da expansão dos serviços pagos da Meta , que também oferece o Facebook Plus e o WhatsApp Plus. A empresa ainda conta com o Meta One , plano que reúne benefícios para diferentes plataformas do grupo e recursos adicionais de inteligência artificial (IA) com o Meta AI . A seguir, confira: Como assinar o Instagram Plus? O que é o Instagram Plus? O que é oferecido no Instagram Plus? Como assinar o Instagram Plus? Para assinar o Instagram Plus, siga os passos abaixo: Abra o app Instagram; Toque na sua foto do perfil no canto inferior direito; Clique no Menu (ícone de hambúrguer); Role até “Assinaturas”; Selecione “Instagram Plus”; Siga os passos da tela para completar a assinatura. O que é o Instagram Plus? O Instagram Plus é um plano mensal pago que libera recurso",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-30T13:37:55+00:00",
+      "coletado_em": "2026-10-30T14:02:42.213667+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/spqUwbqNye5C5uAy8DgnVFDDjts=/0x0/filters:format(webp):quality(85)/8385be82-bbe0-43ef-8a44-4089749b1af0.jpg",
+      "score": 5.35,
+      "cobertura": []
+    },
+    {
+      "id": "9428d9bb8cf0",
+      "titulo": "Google vai encerrar agente de IA que programa sozinho",
+      "url": "https://tecnoblog.net/noticias/google-vai-encerrar-agente-de-ia-que-programa-sozinho/",
+      "resumo": "Jules deixará de aceitar novas tarefas em 11 de novembro. Aprendizados do projeto serão aproveitados no Antigravity. Google vai encerrar agente de IA que programa sozinho",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-30T14:42:59+00:00",
+      "coletado_em": "2026-10-30T15:56:35.612726+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/10/jules.png",
+      "score": 5.113,
+      "cobertura": []
+    },
+    {
+      "id": "f986a412ee0e",
+      "titulo": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "resumo": "DoorDash said that it is open to working with third-party agent makers",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-30T13:54:25+00:00",
+      "coletado_em": "2026-10-30T14:02:42.204239+00:00",
+      "imagem_feed": null,
+      "score": 5.028,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "a53a07dd45c5",
+      "titulo": "Solid-state cooling advances toward practical use, but challenges remain",
+      "url": "https://techxplore.com/news/2026-10-solid-state-cooling-advances.html",
+      "resumo": "As temperatures rise, the need for cooling is growing worldwide. Conventional cooling systems consume large amounts of electricity and use refrigerants with a high global warming potential. Caloric cooling could offer a sustainable alternative by using solid-state materials instead of conventional refrigerants. Researchers at Karlsruhe Institute of Technology (KIT), together with international partners, have analyzed the state of development of such systems.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-30T15:40:15+00:00",
+      "coletado_em": "2026-10-30T15:56:35.605783+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-friendly-cooli.jpg",
+      "score": 5.019,
+      "cobertura": []
+    },
+    {
+      "id": "22f9a6c5bc3a",
+      "titulo": "Disputa por tecnologias e cooperação internacional pautam conferência sobre o futuro da energia",
+      "url": "https://jornal.usp.br/universidade/disputa-por-tecnologias-e-cooperacao-internacional-pautam-conferencia-sobre-o-futuro-da-energia/",
+      "resumo": "Evento vai reunir academia, indústria e governo de 4 a 6 de novembro, e inclui debates sobre combustíveis de baixo carbono, hidrogênio e descarbonização dos transportes, além de encontro com engenheiros ligados à Fórmula 1",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-29T15:01:21+00:00",
+      "coletado_em": "2026-10-30T14:02:42.206564+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/20180319_00_transporte-publico2.jpg",
+      "score": 4.824,
+      "cobertura": [
+        "https://agencia.fapesp.br/conferencia-sobre-o-futuro-da-energia-na-usp/59527"
+      ]
+    },
+    {
+      "id": "6e9db208a898",
+      "titulo": "Conferência sobre o futuro da energia na USP",
+      "url": "https://agencia.fapesp.br/conferencia-sobre-o-futuro-da-energia-na-usp/59527",
+      "resumo": "ETRI 2026, que será realizada entre 4 e 6 de novembro, terá debates sobre combustíveis de baixo carbono, hidrogênio, descarbonização dos transportes e aplicação de novas tecnologias",
+      "fonte": "Agência FAPESP",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-10-30T14:02:42.205389+00:00",
+      "imagem_feed": null,
+      "score": 4.7,
+      "cobertura": [
+        "https://jornal.usp.br/universidade/disputa-por-tecnologias-e-cooperacao-internacional-pautam-conferencia-sobre-o-futuro-da-energia/"
+      ]
+    },
+    {
+      "id": "3ac3d3b67de1",
+      "titulo": "Turning a solar power system into its own backup",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "resumo": "Plant design allows it to run on either stored solar heat or combustion.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-29T18:02:26+00:00",
+      "coletado_em": "2026-10-30T14:02:42.238255+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg",
+      "score": 4.414,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "afcb55bb23c0",
+      "titulo": "Maior roubo da história: Binance perde US$ 6,3 bilhões em ataque hacker relâmpago",
+      "url": "https://canaltech.com.br/seguranca/maior-roubo-da-historia-binance-perde-us-63-bilhoes-em-ataque-hacker-relampago/",
+      "resumo": "A corretora de criptomoedas Binance sofreu um ataque cibernético que resultou na perda de US$ 6,3 bilhõe s (ou R$ 34 bilhões , em conversão direta) em ativos financeiros na última quinta-feira (29). Especialistas atribuem a ação à Coreia do Norte e afirmam que este é o maior roubo da história do setor . De acordo com a agência Reuters, toda a ação levou apenas 20 minutos . A investigação inicial apontou para uma vulnerabilidade no computador de um dos engenheiros que liberou acesso sem autorização para retirar o dinheiro, mas depois indicou que outros pontos de acesso foram comprometidos. A Binance já atua em conjunto com autoridades nacionais e internacionais para investigar o caso e recuperar o prejuízo. Cerca de US$ 3 bilhões do valor perdido foram congelados , enquanto a empresa tenta retomar o montante restante. Em comunicado oficial, a empresa afirma que usará os próprios fundos para cobrir as perdas . O que acontece com quem tem ativos na Binance? A empresa suspendeu os saques temporariamente por 48 horas como uma medida preventiva e garante que os ativos estão protegidos. Outros serviços da plataforma operam normalmente. Em nota ao público brasileiro, a Binance diz que “os ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-10-30T15:40:04+00:00",
+      "coletado_em": "2026-10-30T15:56:35.616807+00:00",
+      "imagem_feed": null,
+      "score": 4.268,
+      "cobertura": []
+    },
+    {
+      "id": "64a4cb2f269e",
+      "titulo": "Samsung Galaxy Fit 4 vaza sem grandes novidades e pode decepcionar fãs",
+      "url": "https://canaltech.com.br/smartwatch/samsung-galaxy-fit-4-vaza-sem-grandes-novidades-e-pode-decepcionar-fas/",
+      "resumo": "A Samsung Galaxy Fit 4 teve praticamente todas as suas funções reveladas em um vazamento, indicando que a nova pulseira inteligente pode trazer poucas novidades em relação à Galaxy Fit 3 , lançada em 2024. Entre os recursos esperados estão monitoramento de sono, frequência cardíaca, estresse e atividades físicas. O modelo também pode ganhar uma tela um pouco mais alta e manter a interface já conhecida da geração anterior. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas As informações surgiram após uma análise do aplicativo Galaxy Fit 4 Manager , que revelou recursos e imagens da futura pulseira. Embora a Samsung ainda não tenha confirmado oficialmente o lançamento, o dispositivo já apareceu em certificações importantes, o que indica que sua chegada pode estar próxima. Galaxy Fit 4 deve manter recursos de saúde da geração anterior O vazamento indica que a Galaxy Fit 4 terá acompanhamento de passos, tempo de atividade e calorias gastas durante exercícios. A pulseira também poderá monitorar os níveis de estresse e enviar alertas quando identificar índices elevados por períodos prolongados. O acompanhamento dos batimentos cardíacos também deve continuar presente, com not",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca",
+        "hardware",
+        "inteligencia_artificial",
+        "medicina"
+      ],
+      "publicado": "2026-10-30T10:05:01+00:00",
+      "coletado_em": "2026-10-30T14:02:42.213667+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/YbLoFtTkOM3BR873ujNpsTcfRQ4=/0x0/filters:format(webp):quality(85)/83a03983-b34a-46cf-8df2-e6f1ea3dbd24.png",
+      "score": 1.026,
+      "cobertura": []
+    }
+  ]
+}
