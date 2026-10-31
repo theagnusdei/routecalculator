@@ -1,0 +1,700 @@
+{
+  "medicina": [
+    {
+      "id": "58f1874bf514",
+      "titulo": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "resumo": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-31T11:02:34+00:00",
+      "coletado_em": "2026-10-31T13:36:28.323629+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
+      "score": 5.91,
+      "cobertura": []
+    },
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-10-31T13:36:28.267264+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "0597ce7f7f26",
+      "titulo": "First patient undergoes pioneering stem-cell treatment for Parkinson's",
+      "url": "https://medicalxpress.com/news/2026-10-patient-stem-cell-treatment-parkinson.html",
+      "resumo": "A patient has undergone pioneering stem-cell therapy to treat Parkinson's disease, the Japanese drugmaker behind the treatment said on Friday, in a world first following its conditional approval in the country.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-30T17:20:24+00:00",
+      "coletado_em": "2026-10-31T13:36:28.268586+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons.jpg",
+      "score": 5.111,
+      "cobertura": []
+    },
+    {
+      "id": "01b6f2c8598a",
+      "titulo": "How mental health and cancer survivorship intersect",
+      "url": "https://medicalxpress.com/news/2026-10-mental-health-cancer-survivorship-intersect.html",
+      "resumo": "A Stanford Medicine study identified an often-overlooked period of vulnerability for cancer survivors: Mental health disorders identified two to five years after a cancer diagnosis were associated with a 119% higher rate of death from cancer compared with patients without documented mental disorders during the same period.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-10-30T17:00:05+00:00",
+      "coletado_em": "2026-10-31T13:36:28.268586+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/cancer-survivor.jpg",
+      "score": 5.1,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "e0d4cf240d48",
+      "titulo": "Different transcription systems shape chromatin behavior in distinct nuclear regions",
+      "url": "https://phys.org/news/2026-10-transcription-chromatin-behavior-distinct-nuclear.html",
+      "resumo": "Inside the cell nucleus, DNA is wrapped around histone proteins to form nucleosomes, which are further organized into chromatin. Chromatin has traditionally been divided into transcriptionally active euchromatin and relatively inactive heterochromatin. However, chromatin is not a fixed structure. Nucleosomes continuously move within the nucleus, and this motion is closely related to the physical organization and function of the genome.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-30T17:00:11+00:00",
+      "coletado_em": "2026-10-31T13:36:28.269999+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/different-transcriptio.jpg",
+      "score": 5.1,
+      "cobertura": []
+    },
+    {
+      "id": "42923bb18f61",
+      "titulo": "Global change may alter how ocellated lizards move between shelters, food and predators",
+      "url": "https://phys.org/news/2026-10-global-ocellated-lizards-food-predators.html",
+      "resumo": "Global change is also affecting the behavior and mobility of the ocellated lizard, a reptile typical of Mediterranean ecosystems. This species—the largest lizard on the Iberian Peninsula—could experience changes in its ability to move efficiently between shelters and feeding areas, escape predators and interact with its natural environment. This is the conclusion of a paper published in the Journal of Animal Ecology led by researcher Antigoni Kaliontzopoulou, from the Faculty of Biology and the Biodiversity Research Institute (IRBio) at the University of Barcelona.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-30T16:20:06+00:00",
+      "coletado_em": "2026-10-31T13:36:28.269999+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-change-also-alt.jpg",
+      "score": 5.079,
+      "cobertura": []
+    },
+    {
+      "id": "ae05cd8b410c",
+      "titulo": "Natureza profunda",
+      "url": "https://revistapesquisa.fapesp.br/natureza-profunda/?utm_source=rss&utm_medium=rss&utm_campaign=natureza-profunda",
+      "resumo": "Expedição no litoral do Nordeste encontrou 31 espécies que podem ser novas. Veja as imagens",
+      "fonte": "Revista Pesquisa FAPESP",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-31T12:57:59+00:00",
+      "coletado_em": "2026-10-31T15:20:38.664153+00:00",
+      "imagem_feed": null,
+      "score": 4.943,
+      "cobertura": []
+    },
+    {
+      "id": "18bfcc6ee2ba",
+      "titulo": "Rare fossil discovery reveals new dinosaur species that specialized in eating fruit",
+      "url": "https://phys.org/news/2026-10-rare-fossil-discovery-reveals-dinosaur.html",
+      "resumo": "Among the ravenous carnivores and lumbering herbivores that roamed the Cretaceous landscape, another kind of dinosaur was evolving that started to eat something else: the plants that began to flower and produce fruit. The discovery by paleontologists from Stony Brook University, Royal Ontario Museum (ROM) and the North Dakota Geological Survey reveals that a new species, Infernogallus jamesi—a type of small oviraptorosaur—had chewing muscles for mashing soft food, making it the first known dinosaur that specifically ate fruit.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-31T13:00:02+00:00",
+      "coletado_em": "2026-10-31T13:36:28.269999+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-fossil-discovery.jpg",
+      "score": 4.797,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "bf12c379974b",
+      "titulo": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+      "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+      "resumo": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! Some top-notch whole-body manipulation here from RAI, although it’s a little hard to tell whether there’s direct torso involvement, which is something that humans do with heavy or awkward stuff all the time. “Anything that shows up as a blob in a depth image can be taken for the tire, whether a person walking past or a stray object on the floor. In a few runs the robot left the tire and went after something else.” That “something else” seems suspiciously vague, doesn’t it? [ Robotics and AI Institute ] We present a contact-centric learning framework for versatile humanoid mobility in complex and unstructured environments. Our approach bridges motion imitation and reinforcement learning by leveraging human motion data as a training prior while enabling autonomous adaptation to previously unseen terrains. [ ETH Zurich Robotic System",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-30T16:30:03+00:00",
+      "coletado_em": "2026-10-31T13:36:28.271477+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=980",
+      "score": 5.685,
+      "cobertura": []
+    },
+    {
+      "id": "0fde7e3cfd01",
+      "titulo": "Unusual robotic animals can prove their utility",
+      "url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
+      "resumo": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship. The post Unusual robotic animals can prove their utility appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-31T12:30:46+00:00",
+      "coletado_em": "2026-10-31T13:36:28.272002+00:00",
+      "imagem_feed": null,
+      "score": 4.598,
+      "cobertura": []
+    },
+    {
+      "id": "abfc2d464ed1",
+      "titulo": "Armored caterpillars offer robot designers lessons in crossing slippery glass",
+      "url": "https://techxplore.com/news/2026-10-armored-caterpillars-robot-lessons-slippery.html",
+      "resumo": "Animals have long been one of the primary sources of inspiration for robotics researchers. This is because they rely on sophisticated biological mechanisms and locomotion strategies that could be artificially reproduced in robots to equip them with desired capabilities.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-30T14:40:14+00:00",
+      "coletado_em": "2026-10-31T13:36:28.272203+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/armored-caterpillars-o-2.jpg",
+      "score": 4.031,
+      "cobertura": []
+    },
+    {
+      "id": "2cc9a057b610",
+      "titulo": "Robot moth grows a UV sensor by using an artificial circulatory system",
+      "url": "https://techxplore.com/news/2026-10-robot-moth-uv-sensor-artificial.html",
+      "resumo": "A moth-shaped robot used an artificial circulatory system to deliver chemical building blocks through its body and grow a light sensor where UV light struck.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-30T17:00:01+00:00",
+      "coletado_em": "2026-10-31T13:36:28.272203+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/robot-moth-gained-an-e.jpg",
+      "score": 3.6,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "51acbbda494b",
+      "titulo": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+      "url": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "There was a flurry of activity during the week of October 19th, 2026, highlighting: first release candidates of: Spring Boot, Spring Framework, Spring Data, Spring Cloud, Spring Security, Spring for GraphQL, Spring Session, Spring Integration, Spring HATEOS, Spring Modulith, Spring REST Docs, Spring AI, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring LDAP and Spring Web Services. By Michael Redlich",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-31T13:30:00+00:00",
+      "coletado_em": "2026-10-31T15:20:38.665389+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/en/headerimage/spring-news-roundup-image-1793452938585.jpg",
+      "score": 6.498,
+      "cobertura": []
+    },
+    {
+      "id": "a1e3c09894cb",
+      "titulo": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
+      "url": "https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Fortanix's CoCo integration connects workload attestation to decryption-key release for Kubernetes AI workloads. GPU-verification settings affect protection, while upstream Trustee and Azure Secure Key Release offer alternative routes to attestation-based key release. By Mark Silvester",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-31T08:18:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.272525+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/k8s-confidential-containers/en/headerimage/header-1793049721702.jpeg",
+      "score": 4.531,
+      "cobertura": []
+    },
+    {
+      "id": "586946f1b49f",
+      "titulo": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced",
+      "url": "https://www.infoq.com/news/2026/10/localstack-azure-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "LocalStack has opened its Azure emulator to a free public preview, running Azure services locally and accepting existing ARM, Bicep, and Terraform without rewrites. Its own documentation reports partial operation coverage per service and a consistent pattern: configuration is stored and returned, while enforcement of access restrictions, TLS, and network rules is not implemented. By Steef-Jan Wiggers",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-31T07:57:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.272525+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/localstack-azure-preview/en/headerimage/generatedHeaderImage-1793037893055.jpg",
+      "score": 4.505,
+      "cobertura": []
+    },
+    {
+      "id": "456e7849455f",
+      "titulo": "How We Could Have Backdoored Bash (Hacktron blog)",
+      "url": "https://lwn.net/Articles/1104262/",
+      "resumo": "The Hacktron blog documents how the group was able to compromise the GNU Savannah forge and could have pushed malware into any of the projects hosted there. Using Hacktron, we found that an email address like `touch${IFS}/tmp/savane-rce-proof`@attacker.example gave any registered user code execution on its backend. From there, we made our account a superuser, impersonated Bash's maintainer, and confirmed we could add an SSH key with push access to the upstream Bash repository. An unpatched kernel gave us root access and access to a GNU backup server. We reported it to the FSF on May 11, 2026.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-31T14:00:42+00:00",
+      "coletado_em": "2026-10-31T15:20:38.666266+00:00",
+      "imagem_feed": null,
+      "score": 4.402,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "6188d833a779",
+      "titulo": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
+      "resumo": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-31T13:00:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.274160+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rVargrx2PRrE3QdGAf22wX-1920-80.jpg",
+      "score": 5.447,
+      "cobertura": []
+    },
+    {
+      "id": "b51083c95d20",
+      "titulo": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin",
+      "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin",
+      "resumo": "Nvidia gave us access to its Vera data center CPU for testing against Intel's Granite Rapids-AP and AMD's EPYC Turin.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-30T11:00:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.274160+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/FmGUof6VmKb5HC58NTycvf-1920-80.jpg",
+      "score": 5.089,
+      "cobertura": []
+    },
+    {
+      "id": "8988188320b6",
+      "titulo": "This week in Tom's Hardware Premium: October 31, 2026 — Vera CPUs available on Oracle clusters, building an agentic CPU benchmark and a primer to LLMs",
+      "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-october-31-2026-vera-cpus-available-on-oracle-clusters-building-an-agentic-cpu-benchmark-and-a-primer-to-llms",
+      "resumo": "In case you're not yet subscribed to our Tom's Hardware Premium subscription service, here's what you've been missing out on this week",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-31T13:30:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.274160+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/eRuBmbo6Lk5aDxn4D79nAE-1920-80.jpg",
+      "score": 4.998,
+      "cobertura": []
+    },
+    {
+      "id": "1b711ca76283",
+      "titulo": "Developer builds a complete Intel 486 PC emulator in a browser",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more",
+      "resumo": "A developer has created a full Intel 486 PC system, using 100% pure-JavaScript, in a browser.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-31T12:40:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.274160+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/nWhHVXxy2EeJYkKiEScazN-1920-80.jpg",
+      "score": 4.913,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "d20dd0f99f28",
+      "titulo": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "resumo": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-30T15:56:26+00:00",
+      "coletado_em": "2026-10-31T13:36:28.275146+00:00",
+      "imagem_feed": null,
+      "score": 5.518,
+      "cobertura": []
+    },
+    {
+      "id": "d9351cabf074",
+      "titulo": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
+      "url": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
+      "resumo": "\"He wore his heart on his sleeve, which made him a man to rely on, to admire and, in my case, love.\"",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-30T23:26:14+00:00",
+      "coletado_em": "2026-10-31T13:36:28.276373+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/95DGgxycx5HJysdhc2yEv9-1920-80.png",
+      "score": 5.198,
+      "cobertura": [
+        "https://www.techspot.com/news/114388-actor-patrick-stewart-dies-86-legendary-star-star.html"
+      ]
+    },
+    {
+      "id": "fac59b7ed3b4",
+      "titulo": "JWST reveals a distant galaxy that may let most of its ionizing radiation escape",
+      "url": "https://phys.org/news/2026-10-jwst-reveals-distant-galaxy-ionizing.html",
+      "resumo": "Astronomers using the James Webb Space Telescope (JWST) have found evidence that a distant, exceptionally blue galaxy may allow most of its ionizing radiation to escape into space. Known as EBG-1, the gravitationally lensed galaxy is seen at a redshift of 9.244, about 530 million years after the Big Bang. The paper was posted to the arXiv preprint server on Oct. 16.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-30T13:40:14+00:00",
+      "coletado_em": "2026-10-31T13:36:28.275595+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-finds-a-distant-g.jpg",
+      "score": 5.004,
+      "cobertura": []
+    },
+    {
+      "id": "ffd224048f6f",
+      "titulo": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin",
+      "url": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html",
+      "resumo": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass through the Earth without interacting with anything.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-10-31T00:20:01+00:00",
+      "coletado_em": "2026-10-31T13:36:28.275595+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-illustration-of-a-s-2.jpg",
+      "score": 4.89,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "5359d9e08ade",
+      "titulo": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
+      "url": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
+      "resumo": "Julien Camirand Lemire, co-founder and CEO of Nord Quantique, is interviewed by Yuval Boger. Julien discusses Nord Quantique‘s bosonic code approach, which uses microwave photons in superconducting cavities to achieve quantum error correction without large qubit overhead, including their GKP and Tesseract code demonstrations and a quantum error correction gain that has more than doubled […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-31T08:00:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.276956+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/07/Julien.jpg",
+      "score": 6.009,
+      "cobertura": []
+    },
+    {
+      "id": "9f4ac4d49030",
+      "titulo": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
+      "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+      "resumo": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily fragile, and the entanglement between particles of light on which such networks would depend is easily disrupted.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-30T15:40:01+00:00",
+      "coletado_em": "2026-10-31T13:36:28.277331+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-skyrmions-coul.jpg",
+      "score": 4.559,
+      "cobertura": []
+    },
+    {
+      "id": "989e0b1ad2e6",
+      "titulo": "France National Quantum Update: October 2026",
+      "url": "https://thequantuminsider.com/2026/10/30/france-national-quantum-update-october-2026/",
+      "resumo": "EXECUTIVE SUMMARY France expanded its quantum technology ties with Vietnam in October, combining a business delegation with agreements covering computing infrastructure, research and workforce development. The activity highlighted international expansion alongside efforts at home to integrate quantum processors with conventional computing and improve error correction. Business France organized a three-day delegation to Hanoi and Ho […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-30T11:54:29+00:00",
+      "coletado_em": "2026-10-31T13:36:28.276956+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/October-2026.png",
+      "score": 4.11,
+      "cobertura": []
+    },
+    {
+      "id": "bcf74b1365f0",
+      "titulo": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer",
+      "url": "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/",
+      "resumo": "Insider Brief Foxconn wants to become the world’s largest quantum computer manufacturer, betting on machines its chairman says will accelerate specialized calculations while taking at least another two years to become commercially viable. Chairman Young Liu told CNBC that the company sees an opportunity to build quantum computers for businesses that develop the underlying technology. […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-30T11:39:35+00:00",
+      "coletado_em": "2026-10-31T13:36:28.276956+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/10/Foxconn-Logo-with-Flowing-Blue-Waves.png",
+      "score": 4.104,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "e16e6ad1fc3c",
+      "titulo": "Best Chromebooks 2026: Top picks for work, school, and more",
+      "url": "https://www.pcworld.com/article/608636/best-chromebooks.html",
+      "resumo": "A laptop doesn’t need to do everything to be useful, you know. That’s the Chromebook in a nutshell. It keeps most of the experience inside a browser, which leaves behind the complexity that comes with a Windows PC. They can be remarkably quick, straightforward, and easy to live with. For this roundup, we focused on the models that deliver that experience without making big compromises on speed and battery life. Every laptop here was tested hands-on. If you’d rather step outside Google’s ecosystem, PCWorld has a separate roundup of the best Windows laptops . And if you’re curious where Chromebooks are headed next, check out this deep dive into the new AI-powered Googlebooks. Why you should trust us: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 70 laptops every year. All of the picks below have been personally tested and vetted by our experts, who’ve applied not only performance benchmarks but rigorous usability standards. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches your budget. Asus Chromebook Plus CX34 – Best overall Chromebook",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-30T17:30:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.278428+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/608636-0-92485900-1793381427-ports.jpg?quality=50&strip=all",
+      "score": 5.266,
+      "cobertura": []
+    },
+    {
+      "id": "a8f25f172b28",
+      "titulo": "ASRock B860 Challenger Wifi Motherboard Review: Entry-level ATX at a great price, with drawbacks",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review",
+      "resumo": "ASRock’s B860 Challenger Wifi covers the basics and performs well, but slower USB ports, weaker VRMs, and a dated BIOS keep it from standing out, even at the lower price.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-31T14:00:00+00:00",
+      "coletado_em": "2026-10-31T15:20:38.666970+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg",
+      "score": 5.051,
+      "cobertura": []
+    },
+    {
+      "id": "1b711ca76283",
+      "titulo": "Developer builds a complete Intel 486 PC emulator in a browser",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more",
+      "resumo": "A developer has created a full Intel 486 PC system, using 100% pure-JavaScript, in a browser.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-31T12:40:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.274160+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/nWhHVXxy2EeJYkKiEScazN-1920-80.jpg",
+      "score": 4.913,
+      "cobertura": []
+    },
+    {
+      "id": "4b08f79c6aa5",
+      "titulo": "Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC",
+      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080",
+      "resumo": "TrashBench repurposes a trash AC radiator for his test bench to see how well it can cool a PC — RTX 3080 didn't run much above ambient temperature",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-10-31T11:20:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.274160+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/TeXxeBPVwiZfijYyMiJdPg-1920-80.png",
+      "score": 4.786,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "072842e8bfa1",
+      "titulo": "Aprenda a usar o YouTube com Gemini Notebook para acelerar seus estudos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/",
+      "resumo": "Assistir a vídeos longos só para encontrar uma informação pode tomar muito tempo. Sabe quando você precisa avançar e voltar várias vezes em uma aula ou tutorial do YouTube até achar a explicação que procura? O Gemini Notebook, ferramenta de pesquisa com inteligência artificial do Google, ajuda nessa tarefa ao responder a perguntas sobre os vídeos e organizar informações de diferentes conteúdos em um só lugar. Para usar o recurso, é só adicionar o link do vídeo às fontes de pesquisa e perguntar o que você quer saber . Se estiver pesquisando um notebook, por exemplo, você pode perguntar sobre a duração da bateria ou o desempenho em jogos. Em uma aula, dá para pedir um resumo dos pontos principais ou uma explicação de um assunto específico. Também é possível comparar informações de vários vídeos sem precisar assistir a todos por inteiro. Você ainda pode juntar vídeos com documentos e páginas da web para conferir informações e entender melhor assuntos técnicos. Depois, o Gemini Notebook pode transformar o conteúdo em materiais de estudo , como resumos em áudio e vídeo, mapas mentais, cartões de perguntas e respostas, testes interativos, infográficos e apresentações de slides. A seguir,",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-31T14:00:00+00:00",
+      "coletado_em": "2026-10-31T15:20:38.685890+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
+      "score": 4.951,
+      "cobertura": []
+    },
+    {
+      "id": "79d4ebe7f3cf",
+      "titulo": "Carros da GM começam a receber IA do Google",
+      "url": "https://canaltech.com.br/carros/carros-da-gm-comecam-a-receber-ia-do-google/",
+      "resumo": "A General Motors anunciou o início da liberação gradual do Google Gemini em português para os carros da Chevrolet equipados com o sistema Google integrado no Brasil. A inteligência artificial da gigante desembarca no país por uma atualização de software da Google Play Store , e já está disponível para motoristas nos Estados Unidos desde abril. Para elevar o patamar de conectividade veicular nos modelos nacionais, a tecnologia substitui comandos mecânicos tradicionais por processamento em linguagem natural e compreensão contínua de contexto . Isso significa que, com a novidade, o motorista consegue gerenciar demandas em uma única interação , como encontrar pontos de interesse durante o trajeto, compartilhar rotas em tempo real com terceiros ou procurar músicas sem precisar de títulos exatos. Modelos compatíveis e requisitos E, afinal, quais são os carros que vão receber o recurso? Por enquanto, já se sabe que a novidade contempla unidades fabricadas a partir de 2024 dos modelos Blazer EV, Equinox EV, Equinox Turbo e a picape Silverado . Como exigência técnica, os carros precisam ter o sistema operacional Android 11 ou superior, devem ter pacote nativo Google integrado e manter um pl",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-10-30T18:00:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.293163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/3q4oxYPuylXptmc5is6UI1Uwhzg=/0x0/filters:format(webp):quality(85)/332bbc62-6347-4b15-8a67-24bcb00c4306.png",
+      "score": 4.683,
+      "cobertura": []
+    },
+    {
+      "id": "13e6e554ef13",
+      "titulo": "Agente de IA invade órgãos do governo brasileiro em novos ataques",
+      "url": "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-invade-orgaos-do-governo-brasileiro-em-novos-ataques/",
+      "resumo": "Criminosos usaram agentes de inteligência artificial (IA) para invadir órgãos governamentais brasileiros, com operações conduzidas quase sem intervenção humana. O grupo responsável pelos ataques desenvolveu duas estruturas próprias para automatizar as invasões , com diferentes níveis de autonomia. As informações fazem parte de um relatório da empresa de cibersegurança CrowdStrike. Uma das estruturas segue um roteiro predefinido durante o reconhecimento dos alvos, mas deixa a IA escolher a próxima ação entre as opções disponíveis. A outra oferece autonomia total e o agente executa procedimentos por conta própria ou distribui tarefas entre diferentes agentes especializados, que trabalham simultaneamente. As operações usaram principalmente modelos da família Claude , como Claude Opus 4.8 e Claude Sonnet 4.6. Para evitar interrupções, o operador também configurou acessos alternativos aos modelos do ChatGPT, DeepSeek e Llama 3, este último em instâncias locais. Dessa forma, os agentes poderiam continuar as atividades caso o serviço principal ficasse indisponível. O relatório também identificou características do operador responsável pela campanha. Ele fala chinês, acessa os modelos de I",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-30T17:06:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.293163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "score": 4.653,
+      "cobertura": []
+    },
+    {
+      "id": "de7eef275564",
+      "titulo": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+      "resumo": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-30T20:15:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.284737+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-eecs-Schmidt-AI-2050.jpg?itok=tKYYjIR3",
+      "score": 4.464,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "18d5a9cae594",
+      "titulo": "Scientists discover metals that defy the deep freeze at -424°F",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+      "resumo": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. Instead of breaking, two experimental alloys reorganize their internal structures, creating new ways to absorb stress and remain flexible.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-31T12:45:59+00:00",
+      "coletado_em": "2026-10-31T15:20:38.679155+00:00",
+      "imagem_feed": null,
+      "score": 4.623,
+      "cobertura": []
+    },
+    {
+      "id": "ce00422473e5",
+      "titulo": "Brasileiro premiado, recorde no efeito estufa e bolas de fogo de Halloween no resumo semanal de Ciência",
+      "url": "https://olhardigital.com.br/2026/10/31/ciencia-e-espaco/brasileiro-premiado-recorde-no-efeito-estufa-e-bolas-de-fogo-de-halloween-no-resumo-semanal-de-ciencia/",
+      "resumo": "E ainda: Sistema Solar pode ter novo planeta anão – veja os destaques da semana em Ciência e Espaço no Olhar Digital O post Brasileiro premiado, recorde no efeito estufa e bolas de fogo de Halloween no resumo semanal de Ciência apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-31T12:00:00+00:00",
+      "coletado_em": "2026-10-31T13:36:28.287917+00:00",
+      "imagem_feed": null,
+      "score": 4.599,
+      "cobertura": []
+    },
+    {
+      "id": "744106f25c0b",
+      "titulo": "This Halloween, amateur astronomers may be in for a dwarf planet treat",
+      "url": "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet",
+      "resumo": "The Vera Rubin Observatory is shedding new light on the faraway regions by Neptune and beyond, including possible solar system building blocks.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-30T17:39:47+00:00",
+      "coletado_em": "2026-10-31T13:36:28.323001+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/103026_LG_newdwarfplanet_main_3a6163.jpg?w=800",
+      "score": 4.572,
+      "cobertura": []
+    },
+    {
+      "id": "072842e8bfa1",
+      "titulo": "Aprenda a usar o YouTube com Gemini Notebook para acelerar seus estudos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/",
+      "resumo": "Assistir a vídeos longos só para encontrar uma informação pode tomar muito tempo. Sabe quando você precisa avançar e voltar várias vezes em uma aula ou tutorial do YouTube até achar a explicação que procura? O Gemini Notebook, ferramenta de pesquisa com inteligência artificial do Google, ajuda nessa tarefa ao responder a perguntas sobre os vídeos e organizar informações de diferentes conteúdos em um só lugar. Para usar o recurso, é só adicionar o link do vídeo às fontes de pesquisa e perguntar o que você quer saber . Se estiver pesquisando um notebook, por exemplo, você pode perguntar sobre a duração da bateria ou o desempenho em jogos. Em uma aula, dá para pedir um resumo dos pontos principais ou uma explicação de um assunto específico. Também é possível comparar informações de vários vídeos sem precisar assistir a todos por inteiro. Você ainda pode juntar vídeos com documentos e páginas da web para conferir informações e entender melhor assuntos técnicos. Depois, o Gemini Notebook pode transformar o conteúdo em materiais de estudo , como resumos em áudio e vídeo, mapas mentais, cartões de perguntas e respostas, testes interativos, infográficos e apresentações de slides. A seguir,",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-31T14:00:00+00:00",
+      "coletado_em": "2026-10-31T15:20:38.685890+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
+      "score": 4.451,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "afcb55bb23c0",
+      "titulo": "Maior roubo da história: Binance perde US$ 6,3 bilhões em ataque hacker relâmpago",
+      "url": "https://canaltech.com.br/seguranca/maior-roubo-da-historia-binance-perde-us-63-bilhoes-em-ataque-hacker-relampago/",
+      "resumo": "A corretora de criptomoedas Binance sofreu um ataque cibernético que resultou na perda de US$ 6,3 bilhõe s (ou R$ 34 bilhões , em conversão direta) em ativos financeiros na última quinta-feira (29). Especialistas atribuem a ação à Coreia do Norte e afirmam que este é o maior roubo da história do setor . De acordo com a agência Reuters, toda a ação levou apenas 20 minutos . A investigação inicial apontou para uma vulnerabilidade no computador de um dos engenheiros que liberou acesso sem autorização para retirar o dinheiro, mas depois indicou que outros pontos de acesso foram comprometidos. A Binance já atua em conjunto com autoridades nacionais e internacionais para investigar o caso e recuperar o prejuízo. Cerca de US$ 3 bilhões do valor perdido foram congelados , enquanto a empresa tenta retomar o montante restante. Em comunicado oficial, a empresa afirma que usará os próprios fundos para cobrir as perdas . O que acontece com quem tem ativos na Binance? A empresa suspendeu os saques temporariamente por 48 horas como uma medida preventiva e garante que os ativos estão protegidos. Outros serviços da plataforma operam normalmente. Em nota ao público brasileiro, a Binance diz que “os ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-10-30T15:40:04+00:00",
+      "coletado_em": "2026-10-31T13:36:28.293163+00:00",
+      "imagem_feed": null,
+      "score": 2.809,
+      "cobertura": []
+    }
+  ]
+}

@@ -96,6 +96,22 @@
   "cobertura": []
  },
  {
+  "id": "04c8e06f42c2",
+  "titulo": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
+  "url": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
+  "resumo": "Grab your high-lumen flashlight and gargantuan gun to explore these vicious vessels",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-31T15:00:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.669125+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/96h29pSTKTkQW6hWgTYBxY-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "0597ce7f7f26",
   "titulo": "First patient undergoes pioneering stem-cell treatment for Parkinson's",
   "url": "https://medicalxpress.com/news/2026-10-patient-stem-cell-treatment-parkinson.html",
@@ -124,6 +140,25 @@
   "publicado": "2026-10-30T03:17:17+00:00",
   "coletado_em": "2026-10-31T13:36:28.275976+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "072842e8bfa1",
+  "titulo": "Aprenda a usar o YouTube com Gemini Notebook para acelerar seus estudos",
+  "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/",
+  "resumo": "Assistir a vídeos longos só para encontrar uma informação pode tomar muito tempo. Sabe quando você precisa avançar e voltar várias vezes em uma aula ou tutorial do YouTube até achar a explicação que procura? O Gemini Notebook, ferramenta de pesquisa com inteligência artificial do Google, ajuda nessa tarefa ao responder a perguntas sobre os vídeos e organizar informações de diferentes conteúdos em um só lugar. Para usar o recurso, é só adicionar o link do vídeo às fontes de pesquisa e perguntar o que você quer saber . Se estiver pesquisando um notebook, por exemplo, você pode perguntar sobre a duração da bateria ou o desempenho em jogos. Em uma aula, dá para pedir um resumo dos pontos principais ou uma explicação de um assunto específico. Também é possível comparar informações de vários vídeos sem precisar assistir a todos por inteiro. Você ainda pode juntar vídeos com documentos e páginas da web para conferir informações e entender melhor assuntos técnicos. Depois, o Gemini Notebook pode transformar o conteúdo em materiais de estudo , como resumos em áudio e vídeo, mapas mentais, cartões de perguntas e respostas, testes interativos, infográficos e apresentações de slides. A seguir,",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "computadores_pessoais",
+   "inteligencia_artificial",
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-31T14:00:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.685890+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
   "score": 0.0,
   "cobertura": []
  },
@@ -225,6 +260,23 @@
   "cobertura": []
  },
  {
+  "id": "0de00bcc7191",
+  "titulo": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+  "resumo": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known boundaries of early-universe physics.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "astrofisica",
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-31T02:09:38+00:00",
+  "coletado_em": "2026-10-31T15:20:38.668751+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "0de3f9697e49",
   "titulo": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
@@ -236,6 +288,22 @@
   ],
   "publicado": "2026-10-30T17:38:04+00:00",
   "coletado_em": "2026-10-31T13:36:28.284321+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "0e2d1919acc2",
+  "titulo": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+  "resumo": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-31T00:59:52+00:00",
+  "coletado_em": "2026-10-31T15:20:38.660961+00:00",
   "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
@@ -410,9 +478,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "medicina",
+   "astrofisica",
    "hardware",
-   "astrofisica"
+   "medicina"
   ],
   "publicado": "2026-10-30T19:11:10+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
@@ -532,6 +600,22 @@
   "publicado": "2026-10-31T13:00:02+00:00",
   "coletado_em": "2026-10-31T13:36:28.269999+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-fossil-discovery.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "18d5a9cae594",
+  "titulo": "Scientists discover metals that defy the deep freeze at -424°F",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+  "resumo": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. Instead of breaking, two experimental alloys reorganize their internal structures, creating new ways to absorb stress and remain flexible.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-31T12:45:59+00:00",
+  "coletado_em": "2026-10-31T15:20:38.679155+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -753,8 +837,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-10-30T21:30:03+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
@@ -786,8 +870,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-10-30T15:13:53+00:00",
   "coletado_em": "2026-10-31T13:36:28.289908+00:00",
@@ -803,13 +887,29 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
    "hardware",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-31T00:07:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/f_vIcSSaobYTOe-zf2DVFpHNHB4=/0x0/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "259cf06ccfe5",
+  "titulo": "Sam Altman says it's \"terrible\" for RAM to sit inside PCs instead of data centers",
+  "url": "https://www.techspot.com/news/114398-sam-altman-terrible-ram-sit-inside-pcs-instead.html",
+  "resumo": "In an interview on the YouTube channel Cheeky Pint, OpenAI CEO Sam Altman argued that it's more efficient to direct the world's tightening supply of memory to AI data centers than to local devices. The comments drew immediate backlash as hardware prices continue to climb. Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-31T15:04:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.675502+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/05/2026-05-27-ts3_thumbs-345.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1151,6 +1251,22 @@
   "cobertura": []
  },
  {
+  "id": "372240137276",
+  "titulo": "Scientists discover a bacterial defense so strange they thought it was broken",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+  "resumo": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits until an infection begins before producing the DNA that switches on its lethal weapon. The infected bacterium then destroys itself, preventing the virus from multiplying and spreading to neighboring cells.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-31T10:38:30+00:00",
+  "coletado_em": "2026-10-31T15:20:38.660961+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "3725abe42689",
   "titulo": "A primer on key AI LLM concepts — KV cache, weights, quantization, and how inference actually works",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-primer-on-key-ai-llm-concepts-kv-cache-weights-quantization-and-how-inference-actually-works",
@@ -1175,8 +1291,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-30T19:02:00+00:00",
@@ -1251,6 +1367,22 @@
   "cobertura": []
  },
  {
+  "id": "3e37954a6c2e",
+  "titulo": "Duas gerações",
+  "url": "https://revistapesquisa.fapesp.br/duas-geracoes/?utm_source=rss&utm_medium=rss&utm_campaign=duas-geracoes",
+  "resumo": "Capes e Anpocs premiam quem pensa o Brasil que vem pela frente. Veja ainda eventos e livros",
+  "fonte": "Revista Pesquisa FAPESP",
+  "peso_fonte": 0.9,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-30T12:03:22+00:00",
+  "coletado_em": "2026-10-31T15:20:38.664153+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "3f0965740689",
   "titulo": "How Election Day can affect your heart",
   "url": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
@@ -1306,13 +1438,30 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-30T16:32:31+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/OrX8rfaXFvzC9LX01rnsktO7P1o=/0x0/filters:format(webp):quality(85)/038a74c2-f3a4-4b37-9694-2d1f165b9789.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "423dd733abf9",
+  "titulo": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
+  "resumo": "Mac users sharing their compute for AI inference are seeing declining revenues as token prices continue to drop, with Anthropic token falling 77% in under five months.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-31T13:49:09+00:00",
+  "coletado_em": "2026-10-31T15:20:38.666970+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/LDtU8drypUytifFp3KaAU-1920-80.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -1361,6 +1510,22 @@
   "publicado": "2026-10-30T13:41:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.282738+00:00",
   "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-30-ts3_thumbs-20e.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "456e7849455f",
+  "titulo": "How We Could Have Backdoored Bash (Hacktron blog)",
+  "url": "https://lwn.net/Articles/1104262/",
+  "resumo": "The Hacktron blog documents how the group was able to compromise the GNU Savannah forge and could have pushed malware into any of the projects hosted there. Using Hacktron, we found that an email address like `touch${IFS}/tmp/savane-rce-proof`@attacker.example gave any registered user code execution on its backend. From there, we made our account a superuser, impersonated Bash's maintainer, and confirmed we could add an SSH key with push access to the upstream Bash repository. An unpatched kernel gave us root access and access to a GNU backup server. We reported it to the FSF on May 11, 2026.",
+  "fonte": "LWN.net",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-31T14:00:42+00:00",
+  "coletado_em": "2026-10-31T15:20:38.666266+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -1507,6 +1672,22 @@
   "publicado": "2026-10-30T13:00:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.285731+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "51acbbda494b",
+  "titulo": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+  "url": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "There was a flurry of activity during the week of October 19th, 2026, highlighting: first release candidates of: Spring Boot, Spring Framework, Spring Data, Spring Cloud, Spring Security, Spring for GraphQL, Spring Session, Spring Integration, Spring HATEOS, Spring Modulith, Spring REST Docs, Spring AI, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring LDAP and Spring Web Services. By Michael Redlich",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-31T13:30:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.665389+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/en/headerimage/spring-news-roundup-image-1793452938585.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1685,6 +1866,22 @@
   "publicado": "2026-10-31T07:57:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.272525+00:00",
   "imagem_feed": "https://res.infoq.com/news/2026/10/localstack-azure-preview/en/headerimage/generatedHeaderImage-1793037893055.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "589329f72aa8",
+  "titulo": "Vic Mensa can’t live without the Voice Memos app",
+  "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+  "resumo": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down On My Luck\"? Maybe you […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-31T15:00:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.677142+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -1927,6 +2124,22 @@
   "publicado": "2026-10-31T01:20:05+00:00",
   "coletado_em": "2026-10-31T13:36:28.285731+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "6394c78cae47",
+  "titulo": "Usar o carro com motor frio pode dar problema em revisões?",
+  "url": "https://canaltech.com.br/carros/usar-o-carro-com-motor-frio-pode-dar-problema-em-revisoes-entenda/",
+  "resumo": "Ligar o carro e sair imediatamente virou um hábito comum, já que os veículos modernos não exigem os procedimentos dos modelos antigos para funcionar. Mesmo assim, o motor frio merece atenção, principalmente quando o automóvel é usado diariamente em trajetos curtos. O motor a combustão precisa atingir uma faixa adequada de temperatura para trabalhar nas condições ideais. Embora os sistemas atuais acelerem esse processo, o uso frequente sem que o conjunto chegue à temperatura de funcionamento pode aumentar o desgaste de componentes internos e elevar o consumo de combustível. O problema é que esse tipo de utilização pode ser classificado como uso severo pelas fabricantes. Nesse cenário, o intervalo recomendado para as revisões pode cair pela metade , o que significa visitas mais frequentes à oficina e custos extras de manutenção. Por que rodar sempre com o motor frio prejudica o carro? Nos veículos modernos, o óleo lubrificante começa a circular poucos segundos após a partida . Ainda assim, o motor pode levar cerca de 20 minutos para alcançar a temperatura ideal , dependendo das condições de uso. Nesse período, componentes como pistões e casquilhos podem sofrer desgaste maior, sobretu",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-31T15:02:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.685890+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/W1yVf2ldOpSc1sXfP2iqKctqgH4=/0x0/filters:format(webp):quality(85)/29a56fef-eb4a-4144-a3d3-ea1016bb1146.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2213,9 +2426,9 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
    "astrofisica",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-10-30T12:40:06+00:00",
   "coletado_em": "2026-10-31T13:36:28.289908+00:00",
@@ -2347,9 +2560,9 @@
   "peso_fonte": 0.6,
   "categorias": [
    "biologia",
-   "software",
    "hardware",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-30T18:00:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
@@ -2370,6 +2583,22 @@
   "publicado": "2026-10-30T08:30:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.269519+00:00",
   "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/STAT26_HiddenBillTraps_final-1024x576.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7b5ed5dd303b",
+  "titulo": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+  "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+  "resumo": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter results for files, actions, or web results. […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-31T15:12:19+00:00",
+  "coletado_em": "2026-10-31T15:20:38.677142+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -2504,6 +2733,23 @@
   "cobertura": []
  },
  {
+  "id": "84cc2d353b2e",
+  "titulo": "Grab a new 3D printer this Halloween weekend, with prices as low as $199",
+  "url": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale",
+  "resumo": "Pick up a bargain 3D printer, thanks to these big discounts on resin and filament 3DP models from big names like Creality, Elegoo, Prusa and more.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-31T14:00:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.666970+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/7Wgw6aVWKwYgYCZwpuwgSX-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "870b8fb06532",
   "titulo": "Patients with psoriasis have increased risks for cataracts, cataract surgery",
   "url": "https://medicalxpress.com/news/2026-10-patients-psoriasis-cataracts-cataract-surgery.html",
@@ -2543,8 +2789,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-10-30T14:14:10+00:00",
   "coletado_em": "2026-10-31T13:36:28.289908+00:00",
@@ -2690,8 +2936,8 @@
   "fonte": "Tecnoblog",
   "peso_fonte": 0.65,
   "categorias": [
-   "hardware",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-10-30T16:08:29+00:00",
   "coletado_em": "2026-10-31T13:36:28.289908+00:00",
@@ -3158,9 +3404,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "medicina",
    "biologia",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "medicina"
   ],
   "publicado": "2026-10-30T20:00:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
@@ -3192,9 +3438,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "robotica",
    "astrofisica",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "robotica"
   ],
   "publicado": "2026-10-30T19:55:51+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
@@ -3250,6 +3496,23 @@
   "publicado": "2026-10-30T04:05:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.275146+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a8f25f172b28",
+  "titulo": "ASRock B860 Challenger Wifi Motherboard Review: Entry-level ATX at a great price, with drawbacks",
+  "url": "https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review",
+  "resumo": "ASRock’s B860 Challenger Wifi covers the basics and performs well, but slower USB ports, weaker VRMs, and a dated BIOS keep it from standing out, even at the lower price.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-10-31T14:00:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.666970+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -3351,6 +3614,22 @@
   "cobertura": []
  },
  {
+  "id": "ae05cd8b410c",
+  "titulo": "Natureza profunda",
+  "url": "https://revistapesquisa.fapesp.br/natureza-profunda/?utm_source=rss&utm_medium=rss&utm_campaign=natureza-profunda",
+  "resumo": "Expedição no litoral do Nordeste encontrou 31 espécies que podem ser novas. Veja as imagens",
+  "fonte": "Revista Pesquisa FAPESP",
+  "peso_fonte": 0.9,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-31T12:57:59+00:00",
+  "coletado_em": "2026-10-31T15:20:38.664153+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "afcb55bb23c0",
   "titulo": "Maior roubo da história: Binance perde US$ 6,3 bilhões em ataque hacker relâmpago",
   "url": "https://canaltech.com.br/seguranca/maior-roubo-da-historia-binance-perde-us-63-bilhoes-em-ataque-hacker-relampago/",
@@ -3358,8 +3637,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "computadores_pessoais",
-   "ciberseguranca"
+   "ciberseguranca",
+   "computadores_pessoais"
   ],
   "publicado": "2026-10-30T15:40:04+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
@@ -3593,6 +3872,22 @@
   "cobertura": []
  },
  {
+  "id": "be60c5eea01c",
+  "titulo": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
+  "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
+  "resumo": "On Episode 234 of This Week In Space, Tariq Malik and Mike Wall are joined by Than Putzig of the Planetary Science Institute about a NASA-backed payload bound for the Marius Hills Pit on the moon.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-10-31T13:36:59+00:00",
+  "coletado_em": "2026-10-31T15:20:38.669125+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/dzt42xPBYCwWmBWnZa5gBE-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "bee9fa3b2d91",
   "titulo": "The rocket scientist who summoned demons: The true horror story of Jack Parsons",
   "url": "https://www.space.com/space-exploration/the-rocket-scientist-who-summoned-demons-the-true-horror-story-of-jack-parsons",
@@ -3689,6 +3984,22 @@
   "cobertura": []
  },
  {
+  "id": "c797c1ad49fd",
+  "titulo": "A surprising vitamin A discovery is changing what scientists know about vision",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+  "resumo": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work together to shape the foveola, the tiny region at the center of the retina responsible for our sharpest vision.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-31T04:31:41+00:00",
+  "coletado_em": "2026-10-31T15:20:38.660961+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "c7ea81d1e8ff",
   "titulo": "Astronauts just gave the International Space Station a powerful upgrade",
   "url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
@@ -3770,6 +4081,23 @@
   "cobertura": []
  },
  {
+  "id": "ccfbfd2ef792",
+  "titulo": "Hora de renovar a sala: selecionamos TVs Neo QLED com tecnologia de ponta em promoção na Amazon",
+  "url": "https://olhardigital.com.br/2026/10/31/reviews/hora-de-renovar-a-sala-selecionamos-tvs-neo-qled-com-tecnologia-de-ponta-em-promocao-na-amazon/",
+  "resumo": "Se você está pensando em trocar a TV da sala por um modelo mais moderno, este é o momento certo. Reunimos uma seleção de televisores Neo QLED da Samsung com recursos avançados de imagem, som e inteligência artificial — todos disponíveis na Amazon com ótimas condições. Confira as opções abaixo e escolha a que melhor […] O post Hora de renovar a sala: selecionamos TVs Neo QLED com tecnologia de ponta em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-31T14:14:25+00:00",
+  "coletado_em": "2026-10-31T15:20:38.680592+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "cd191b03653c",
   "titulo": "An extra year of secondary school lowered dementia diagnoses later in life",
   "url": "https://www.nih.gov/news-events/news-releases/extra-year-secondary-school-lowered-dementia-diagnoses-later-life",
@@ -3825,9 +4153,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
    "astrofisica",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-10-30T22:00:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.293163+00:00",
@@ -3944,6 +4272,22 @@
   "publicado": "2026-10-30T11:00:12+00:00",
   "coletado_em": "2026-10-31T13:36:28.286691+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2022/carbon-neutrality.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d3aa2a16dc71",
+  "titulo": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
+  "resumo": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fragilis, produces a toxin that damages the colon’s protective lining, triggers chronic inflammation, and promotes tumor formation.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-31T13:49:23+00:00",
+  "coletado_em": "2026-10-31T15:20:38.660961+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -4341,12 +4685,28 @@
   "fonte": "Science News",
   "peso_fonte": 0.9,
   "categorias": [
-   "medicina",
-   "biologia"
+   "biologia",
+   "medicina"
   ],
   "publicado": "2026-10-30T13:00:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.323001+00:00",
   "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102326_MR_urinetest_main.jpg?w=800",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e40050fcf4c1",
+  "titulo": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+  "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+  "resumo": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-31T15:00:00+00:00",
+  "coletado_em": "2026-10-31T15:20:38.677142+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -4390,9 +4750,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-30T17:21:38+00:00",
@@ -4432,6 +4792,22 @@
   "publicado": "2026-10-30T11:40:00+00:00",
   "coletado_em": "2026-10-31T13:36:28.274160+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Y5RvehHjyP7Zx5pdbLWike-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ebb15983f66b",
+  "titulo": "Twin study links artistic, but not scientific, creativity to poorer mental health",
+  "url": "https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html",
+  "resumo": "The relationship between creativity and mental health has attracted the interest of many psychologists over the past decades. Some past studies have found that creativity is sometimes linked to mental health difficulties, while others collected opposing or inconsistent results.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-10-31T14:20:01+00:00",
+  "coletado_em": "2026-10-31T15:20:38.661432+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/twin-study-links-artis.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -4654,8 +5030,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-10-30T18:08:00+00:00",
