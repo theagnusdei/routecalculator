@@ -1,0 +1,675 @@
+{
+  "medicina": [
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-01T16:02:31.628829+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "e76d605a5017",
+      "titulo": "Scientists discover a surprising brain benefit of eating peanuts every day",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+      "resumo": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in brain regions important for memory, a function that often weakens with age and has been linked to Alzheimer's disease.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-01T13:24:51+00:00",
+      "coletado_em": "2026-11-01T16:02:31.629793+00:00",
+      "imagem_feed": null,
+      "score": 5.118,
+      "cobertura": []
+    },
+    {
+      "id": "9e686c543495",
+      "titulo": "A blood-pressure drug may activate health-promoting brown fat",
+      "url": "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+      "resumo": "Large retrospective study suggests the tissue deters more than cardiovascular disease.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-01T16:02:31.628829+00:00",
+      "imagem_feed": null,
+      "score": 5.0,
+      "cobertura": []
+    },
+    {
+      "id": "8d3e1a252e4c",
+      "titulo": "Clot removal days after a stroke could help more patients recover, but the procedure is not without risks",
+      "url": "https://medicalxpress.com/news/2026-10-clot-days-patients-recover-procedure.html",
+      "resumo": "After a person suffers a stroke, the clock starts ticking for doctors. Every minute that blood flow to the brain remains blocked, more brain tissue risks permanent damage or death. One way to restore circulation is through endovascular thrombectomy, a minimally invasive procedure that can physically remove the clot, restore blood flow and significantly reduce the risk of long-term disability or death. Such mechanical thrombectomy procedures are a standard emergency treatment within the first 24 hours of an acute ischemic stroke.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-01T14:40:01+00:00",
+      "coletado_em": "2026-11-01T16:02:31.630311+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/clot-removal-days-afte.jpg",
+      "score": 4.897,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "4fdda3bf638c",
+      "titulo": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
+      "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html",
+      "resumo": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is published in the journal Proceedings of the National Academy of Sciences.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-10-31T21:00:05+00:00",
+      "coletado_em": "2026-11-01T16:02:31.631080+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/viruses-as-master-buil.jpg",
+      "score": 4.716,
+      "cobertura": []
+    },
+    {
+      "id": "a869731ca904",
+      "titulo": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm",
+      "resumo": "Crown-of-thorns starfish are notorious for devouring coral reefs, but surprising new research reveals these spiny predators may actually help reefs thrive when their populations are kept in check. Scientists studying Australia's Great Barrier Reef discovered that nearly 75% of observed starfish feeding events left behind living coral tissue, rather than destroying entire colonies. By feeding on fast-growing, dominant corals, the starfish create opportunities for slower-growing species to survive, potentially increasing coral biodiversity.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-01T11:45:10+00:00",
+      "coletado_em": "2026-11-01T16:02:31.631472+00:00",
+      "imagem_feed": null,
+      "score": 4.461,
+      "cobertura": []
+    },
+    {
+      "id": "29fcf81fabb3",
+      "titulo": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+      "resumo": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the Middle East, rather than East Africa, may have been the cradle of modern ape evolution.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-01T10:32:46+00:00",
+      "coletado_em": "2026-11-01T16:02:31.631472+00:00",
+      "imagem_feed": null,
+      "score": 4.356,
+      "cobertura": []
+    },
+    {
+      "id": "d526dd1fcb41",
+      "titulo": "Câncer de pulmão: comprimido diário mantém doença avançada controlada por 7 anos",
+      "url": "https://olhardigital.com.br/2026/11/01/medicina-e-saude/cancer-de-pulmao-comprimido-diario-mantem-doenca-avancada-controlada-por-7-anos/",
+      "resumo": "Resultado, considerado inédito para a doença, foi obtido com o lorlatinibe, medicamento desenvolvido para combater tumores que apresentam alteração genética específica O post Câncer de pulmão: comprimido diário mantém doença avançada controlada por 7 anos apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-11-01T13:40:30+00:00",
+      "coletado_em": "2026-11-01T16:02:31.642558+00:00",
+      "imagem_feed": null,
+      "score": 4.194,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "d771de0769f9",
+      "titulo": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+      "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+      "resumo": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. The post 28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-01T14:00:58+00:00",
+      "coletado_em": "2026-11-01T16:02:31.632659+00:00",
+      "imagem_feed": null,
+      "score": 5.179,
+      "cobertura": []
+    },
+    {
+      "id": "3d5420691f74",
+      "titulo": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
+      "url": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/",
+      "resumo": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever. The post Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-01T13:00:31+00:00",
+      "coletado_em": "2026-11-01T16:02:31.632659+00:00",
+      "imagem_feed": null,
+      "score": 5.079,
+      "cobertura": []
+    },
+    {
+      "id": "7e4fb2c5366e",
+      "titulo": "Why physical AI is the next lucrative frontier",
+      "url": "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier/",
+      "resumo": "To prove its commercial value, physical AI must get past funding enthusiasm and move into production environments. The post Why physical AI is the next lucrative frontier appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-01T13:30:41+00:00",
+      "coletado_em": "2026-11-01T16:02:31.632659+00:00",
+      "imagem_feed": null,
+      "score": 4.628,
+      "cobertura": []
+    },
+    {
+      "id": "0fde7e3cfd01",
+      "titulo": "Unusual robotic animals can prove their utility",
+      "url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
+      "resumo": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship. The post Unusual robotic animals can prove their utility appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-10-31T12:30:46+00:00",
+      "coletado_em": "2026-11-01T16:02:31.632659+00:00",
+      "imagem_feed": null,
+      "score": 3.308,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "d25a8b193d36",
+      "titulo": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
+      "url": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "AWS has recently released File Mover Express, an open-source application under the Apache 2.0 license for transferring large files between local systems and Amazon S3. Available for macOS, Windows, and Linux, it supports parallel transfers, automatic performance tuning, retries, pause and resume, and file integrity verification. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-01T06:32:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.633150+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/aws-s3-file-transfer/en/headerimage/generatedHeaderImage-1792218946629.jpg",
+      "score": 5.355,
+      "cobertura": []
+    },
+    {
+      "id": "51acbbda494b",
+      "titulo": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+      "url": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "There was a flurry of activity during the week of October 19th, 2026, highlighting: first release candidates of: Spring Boot, Spring Framework, Spring Data, Spring Cloud, Spring Security, Spring for GraphQL, Spring Session, Spring Integration, Spring HATEOS, Spring Modulith, Spring REST Docs, Spring AI, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring LDAP and Spring Web Services. By Michael Redlich",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-31T13:30:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.633150+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/en/headerimage/spring-news-roundup-image-1793452938585.jpg",
+      "score": 5.132,
+      "cobertura": []
+    },
+    {
+      "id": "2466d8b4bec3",
+      "titulo": "Final release for the 7.2 stable series",
+      "url": "https://lwn.net/Articles/1104629/",
+      "resumo": "Greg Kroah-Hartman has announced the release of the 7.2.15 kernel, with a handful of updates. Note, this is the LAST 7.2.y kernel release. After this one the 7.2.y kernel tree is end-of-life. Please move to 7.3.y at this time. And yes, you aren't imagining things, this one went \"end-of-life\" a bit sooner than normal. But based on the release cycle at the moment, and the number of pending cc: stable patches in the queue, I figured it was better this way so we can focus on the latest 7.3.y release as it would require us to keep 8 different branches alive at the same moment, a taxing task under the best of times.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-01T15:03:40+00:00",
+      "coletado_em": "2026-11-01T16:02:31.633951+00:00",
+      "imagem_feed": null,
+      "score": 4.94,
+      "cobertura": []
+    },
+    {
+      "id": "c1c8fbc91199",
+      "titulo": "A massive pile of security updates for Saturday",
+      "url": "https://lwn.net/Articles/1104612/",
+      "resumo": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, aspell, bind, bind9.18, container-tools:1.0, container-tools:rhel8, curl, dogtag-pki, ignition, java-21-openjdk, python-pillow, tomcat, and virt:rhel, virt-devel:rhel), Debian (antiword, cyrus-sasl2, dovecot, dpdk, nss, python-git, and thunderbird), Fedora (7zip, aegisub, aom, apptainer, arm-none-eabi-binutils-cs, assimp, avr-binutils, baresip, barman, bind9-next, btrfs-backup-ng, chezmoi, chromium, cifs-utils, clevis-pin-trustee, composer, containerd, curl, docker-buildx, dotnet10.0, evolution, evolution-data-server, evolution-ews, exim, fips-provider, firefox, flare-im, forgejo, freeipa, freerdp, gcc, gegl04, ghostscript, GitPython, glib-networking, gnome-shell-extension-gsconnect, golang-x-mobile, hcloud, helix, httpd, ImageMagick, iperf3, jfrog-cli, jupyterlab, keepassxc, kernel, knot-resolver, krb5, kryoptic, libdigidocpp, libheif, libindi, libinstpatch, libpng12, libpng15, librabbitmq, libre, libXi, libzip, linux-firmware, Lmod, log4net, markdownlint-cli2, mingw-freetype, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, mi",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-10-31T22:34:30+00:00",
+      "coletado_em": "2026-11-01T16:02:31.633951+00:00",
+      "imagem_feed": null,
+      "score": 4.779,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "fdbf8aba7fdc",
+      "titulo": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+      "resumo": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infrastructure spending, putting pressure on global DRAM supplies. Samsung and SK hynix together accounted for approximately 83% of global high-bandwidth memory revenue in the second quarter of 2026, highlighting South Korea's central role in supplying the hardware behind the AI expansion.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-01T14:21:23+00:00",
+      "coletado_em": "2026-11-01T16:02:31.634480+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ-1920-80.jpg",
+      "score": 6.014,
+      "cobertura": []
+    },
+    {
+      "id": "381c87312bf6",
+      "titulo": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "resumo": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-01T14:00:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.634480+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/u2vby2U8BuWxjdFzkUxZg9-1920-80.jpg",
+      "score": 5.477,
+      "cobertura": []
+    },
+    {
+      "id": "54c3a5ab0ef5",
+      "titulo": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
+      "url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+      "resumo": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-01T15:00:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.634480+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/9739tEjY7imERJsLeBjqZG-1920-80.jpg",
+      "score": 5.083,
+      "cobertura": []
+    },
+    {
+      "id": "ebc290ebbce5",
+      "titulo": "Ainda vale a pena comprar a Radeon RX 580 em 2026?",
+      "url": "https://canaltech.com.br/hardware/ainda-vale-a-pena-comprar-a-radeon-rx-560-em-2026/",
+      "resumo": "Lançada originalmente em 2017 como uma revisão da arquitetura Polaris, a AMD Radeon RX 580 , uma das GPUs favoritas do criador do Linux , se tornou uma verdadeira lenda entre os PC gamers que buscavam custo-benefício no Brasil. Por quase uma década, o modelo dominou o mercado de entrada e o de placas importadas, servindo como o ponto de partida de milhões de jogadores brasileiros que buscavam uma experiência digna em 1080p sem gastar rios de dinheiro . No entanto, o cenário da indústria de hardware mudou drasticamente nos últimos tempos. Com as exigências atuais das APIs gráficas, avanços nas tecnologias de reconstrução por IA e instruções de DirectX 12 Ultimate em títulos modernos, surge a inevitável dúvida: a guerreira Polaris da AMD ainda aguenta o tranco ou finalmente chegou a hora de aposentá-la de vez? Desempenho em jogos: o peso da idade Apesar de ser uma GPU veterana, a RX 580 ainda consegue entregar taxas de quadros aceitáveis em jogos multiplayer e títulos leves lançados nos últimos anos. Em testes recentes internet afora, a GPU sustenta partidas fluidas em 1080 p em jogos como Counter-Strike 2, Valorant, PUBG e Fortnite, entregando mais de 100 FPS com os devidos ajustes ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-01T15:00:04+00:00",
+      "coletado_em": "2026-11-01T16:02:31.645163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/OaNLTHiHDuo3k0w5rhBRP8dYKF8=/0x0/filters:format(webp):quality(85)/c6759b1b-debc-4784-a659-3fc1aaf7e56c.png",
+      "score": 4.983,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "fe36463c1a22",
+      "titulo": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
+      "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+      "resumo": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environment around another star—or in the cloud that preceded it.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-01T15:20:02+00:00",
+      "coletado_em": "2026-11-01T16:02:31.635895+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/heavy-hydrogen-in-3iat.jpg",
+      "score": 4.97,
+      "cobertura": []
+    },
+    {
+      "id": "207ddf3d17c6",
+      "titulo": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+      "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+      "resumo": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-01T13:00:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.636433+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1920-80.jpg",
+      "score": 4.578,
+      "cobertura": []
+    },
+    {
+      "id": "ebc290ebbce5",
+      "titulo": "Ainda vale a pena comprar a Radeon RX 580 em 2026?",
+      "url": "https://canaltech.com.br/hardware/ainda-vale-a-pena-comprar-a-radeon-rx-560-em-2026/",
+      "resumo": "Lançada originalmente em 2017 como uma revisão da arquitetura Polaris, a AMD Radeon RX 580 , uma das GPUs favoritas do criador do Linux , se tornou uma verdadeira lenda entre os PC gamers que buscavam custo-benefício no Brasil. Por quase uma década, o modelo dominou o mercado de entrada e o de placas importadas, servindo como o ponto de partida de milhões de jogadores brasileiros que buscavam uma experiência digna em 1080p sem gastar rios de dinheiro . No entanto, o cenário da indústria de hardware mudou drasticamente nos últimos tempos. Com as exigências atuais das APIs gráficas, avanços nas tecnologias de reconstrução por IA e instruções de DirectX 12 Ultimate em títulos modernos, surge a inevitável dúvida: a guerreira Polaris da AMD ainda aguenta o tranco ou finalmente chegou a hora de aposentá-la de vez? Desempenho em jogos: o peso da idade Apesar de ser uma GPU veterana, a RX 580 ainda consegue entregar taxas de quadros aceitáveis em jogos multiplayer e títulos leves lançados nos últimos anos. Em testes recentes internet afora, a GPU sustenta partidas fluidas em 1080 p em jogos como Counter-Strike 2, Valorant, PUBG e Fortnite, entregando mais de 100 FPS com os devidos ajustes ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-01T15:00:04+00:00",
+      "coletado_em": "2026-11-01T16:02:31.645163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/OaNLTHiHDuo3k0w5rhBRP8dYKF8=/0x0/filters:format(webp):quality(85)/c6759b1b-debc-4784-a659-3fc1aaf7e56c.png",
+      "score": 4.483,
+      "cobertura": []
+    },
+    {
+      "id": "851e9f4cbf53",
+      "titulo": "Microsoft prepara \"arma secreta\" para receber GTA 6 no XBOX Series",
+      "url": "https://canaltech.com.br/games/arma-secreta-xbox-series-lancamento-gta-6/",
+      "resumo": "O lançamento de GTA 6 está cada vez mais próximo. O PlayStation 5, uma das plataformas de lançamento do jogo, não tem só uma vantagem em unidades vendidas, como também uma parceria de marketing com a Rockstar Games que o deixa alguns quilômetros à frente do rival XBOX Series. Prova disso é que dados da Sensor Tower mostram a vantagem gigantesca do console da Sony em relação ao console da Microsoft na pré-venda de GTA 6 . Somado a isso, o trailer final do jogo cravou que “a melhor experiência é no PS5” . No entanto, o que ninguém esperava era que o XBOX prepararia uma \"arma secreta\" para receber o grande jogo da Rockstar. Em outubro, a marca anunciou que os consoles e dispositivos XBOX ganhariam upscaling com IA da AMD para disputar com o PlayStation e a Nintendo . Trata-se do FSR 4.1, que promete ganhos gráficos e de performance via Inteligência Artificial e estará disponível no XBOX Series e nos modelos ROG XBOX Ally X e X25. Será que a divisão de games do XBOX terá alguma vantagem no lançamento de GTA 6 ? GTA 6 pode rodar bem no XBOX Series S GTA 6 chegará ao PlayStation 5 e ao XBOX Series em 19 de novembro de 2026 . Desde o anúncio do jogo e das plataformas, muitos jogadores se ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-01T13:30:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.645163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9kTHY0IQY4pEzGmv8rGCht-vdlQ=/0x0/filters:format(webp):quality(85)/961c1963-ce15-4a0e-8907-751066694c69.png",
+      "score": 4.327,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "5359d9e08ade",
+      "titulo": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
+      "url": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
+      "resumo": "Julien Camirand Lemire, co-founder and CEO of Nord Quantique, is interviewed by Yuval Boger. Julien discusses Nord Quantique‘s bosonic code approach, which uses microwave photons in superconducting cavities to achieve quantum error correction without large qubit overhead, including their GKP and Tesseract code demonstrations and a quantum error correction gain that has more than doubled […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-31T08:00:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.636940+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/07/Julien.jpg",
+      "score": 5.014,
+      "cobertura": []
+    },
+    {
+      "id": "dacb8b7fd140",
+      "titulo": "Four superconducting cables link two large quantum processors into one",
+      "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
+      "resumo": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must carry fragile quantum information without destroying it.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-31T16:00:02+00:00",
+      "coletado_em": "2026-11-01T16:02:31.637051+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-cables-link-two-q.jpg",
+      "score": 4.549,
+      "cobertura": []
+    },
+    {
+      "id": "4e481bb7a7a3",
+      "titulo": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
+      "url": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html",
+      "resumo": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter partner has the same mass and, for electrically charged particles, the opposite electric charge.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-10-31T17:00:01+00:00",
+      "coletado_em": "2026-11-01T16:02:31.637051+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-cold-atoms-to-ex.jpg",
+      "score": 3.578,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "54c3a5ab0ef5",
+      "titulo": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
+      "url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+      "resumo": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-01T15:00:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.634480+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/9739tEjY7imERJsLeBjqZG-1920-80.jpg",
+      "score": 5.083,
+      "cobertura": []
+    },
+    {
+      "id": "381c87312bf6",
+      "titulo": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "resumo": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-01T14:00:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.634480+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/u2vby2U8BuWxjdFzkUxZg9-1920-80.jpg",
+      "score": 4.977,
+      "cobertura": []
+    },
+    {
+      "id": "a3b4042d5f6b",
+      "titulo": "Intel's next budget laptop chip may have no performance cores at all",
+      "url": "https://www.techspot.com/news/114403-intel-next-budget-laptop-chip-may-have-no.html",
+      "resumo": "Intel's current entry-level N-series chips also skip performance cores, and Moon Lake would bring that approach to the company's newer tile-based design. If the leak holds, it would be the next generation of the N-series processors found in many budget machines. Intel has not confirmed the specs. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-01T14:57:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.638663+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-31-ts3_thumbs-beb.jpg",
+      "score": 4.778,
+      "cobertura": []
+    },
+    {
+      "id": "637fb7f8f7b5",
+      "titulo": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+      "resumo": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-01T15:05:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.634480+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/L2TSrQuGFDhmVGdBfr2ytV-1920-80.jpg",
+      "score": 4.592,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "851e9f4cbf53",
+      "titulo": "Microsoft prepara \"arma secreta\" para receber GTA 6 no XBOX Series",
+      "url": "https://canaltech.com.br/games/arma-secreta-xbox-series-lancamento-gta-6/",
+      "resumo": "O lançamento de GTA 6 está cada vez mais próximo. O PlayStation 5, uma das plataformas de lançamento do jogo, não tem só uma vantagem em unidades vendidas, como também uma parceria de marketing com a Rockstar Games que o deixa alguns quilômetros à frente do rival XBOX Series. Prova disso é que dados da Sensor Tower mostram a vantagem gigantesca do console da Sony em relação ao console da Microsoft na pré-venda de GTA 6 . Somado a isso, o trailer final do jogo cravou que “a melhor experiência é no PS5” . No entanto, o que ninguém esperava era que o XBOX prepararia uma \"arma secreta\" para receber o grande jogo da Rockstar. Em outubro, a marca anunciou que os consoles e dispositivos XBOX ganhariam upscaling com IA da AMD para disputar com o PlayStation e a Nintendo . Trata-se do FSR 4.1, que promete ganhos gráficos e de performance via Inteligência Artificial e estará disponível no XBOX Series e nos modelos ROG XBOX Ally X e X25. Será que a divisão de games do XBOX terá alguma vantagem no lançamento de GTA 6 ? GTA 6 pode rodar bem no XBOX Series S GTA 6 chegará ao PlayStation 5 e ao XBOX Series em 19 de novembro de 2026 . Desde o anúncio do jogo e das plataformas, muitos jogadores se ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-01T13:30:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.645163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9kTHY0IQY4pEzGmv8rGCht-vdlQ=/0x0/filters:format(webp):quality(85)/961c1963-ce15-4a0e-8907-751066694c69.png",
+      "score": 5.327,
+      "cobertura": []
+    },
+    {
+      "id": "ebc290ebbce5",
+      "titulo": "Ainda vale a pena comprar a Radeon RX 580 em 2026?",
+      "url": "https://canaltech.com.br/hardware/ainda-vale-a-pena-comprar-a-radeon-rx-560-em-2026/",
+      "resumo": "Lançada originalmente em 2017 como uma revisão da arquitetura Polaris, a AMD Radeon RX 580 , uma das GPUs favoritas do criador do Linux , se tornou uma verdadeira lenda entre os PC gamers que buscavam custo-benefício no Brasil. Por quase uma década, o modelo dominou o mercado de entrada e o de placas importadas, servindo como o ponto de partida de milhões de jogadores brasileiros que buscavam uma experiência digna em 1080p sem gastar rios de dinheiro . No entanto, o cenário da indústria de hardware mudou drasticamente nos últimos tempos. Com as exigências atuais das APIs gráficas, avanços nas tecnologias de reconstrução por IA e instruções de DirectX 12 Ultimate em títulos modernos, surge a inevitável dúvida: a guerreira Polaris da AMD ainda aguenta o tranco ou finalmente chegou a hora de aposentá-la de vez? Desempenho em jogos: o peso da idade Apesar de ser uma GPU veterana, a RX 580 ainda consegue entregar taxas de quadros aceitáveis em jogos multiplayer e títulos leves lançados nos últimos anos. Em testes recentes internet afora, a GPU sustenta partidas fluidas em 1080 p em jogos como Counter-Strike 2, Valorant, PUBG e Fortnite, entregando mais de 100 FPS com os devidos ajustes ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-01T15:00:04+00:00",
+      "coletado_em": "2026-11-01T16:02:31.645163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/OaNLTHiHDuo3k0w5rhBRP8dYKF8=/0x0/filters:format(webp):quality(85)/c6759b1b-debc-4784-a659-3fc1aaf7e56c.png",
+      "score": 4.983,
+      "cobertura": []
+    },
+    {
+      "id": "bf8a035b7515",
+      "titulo": "O que são parâmetros de modelos de IA?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-parametros-de-modelos-de-ia/",
+      "resumo": "Você já ouviu falar em parâmetros? Eles são dados numéricos que influenciam como a inteligência artificial processa informações, faz previsões e gera respostas . Esses valores numéricos são ajustados durante o treinamento para que o modelo consiga identificar padrões e melhorar as respostas. Por exemplo, em chatbots como Gemini ChatGPT e Claude, os parâmetros ajudam a IA a relacionar palavras e calcular quais tokens têm maior probabilidade de aparecer em seguida. Um token pode ser uma palavra, parte de uma palavra ou um sinal de pontuação. A partir dessas previsões, o modelo gera a resposta. A seguir, tire suas dúvidas sobre: O que são parâmetros na IA? É importante ter muitos parâmetros no treinamento da IA? Quais são os tipos de parâmetros de modelos de IA? Qual a diferença entre parâmetros e janela de contexto? Quais as diferenças entre parâmetros e hiperparâmetros? O que são parâmetros na IA? Os parâmetros são valores internos que o modelo aprende a partir dos dados de treinamento e que determina quais informações são transformadas em respostas nos chatbots de IA. Durante o treinamento, o modelo realiza previsões e compara esses resultados com as respostas esperadas. A diferenç",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-10-31T16:30:02+00:00",
+      "coletado_em": "2026-11-01T16:02:31.645163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/P2v2SiN5puh8DnvDa_FZEGJHgRg=/0x0/filters:format(webp):quality(85)/0178f6ae-ed74-450a-ba0a-5251de1b0158.png",
+      "score": 4.613,
+      "cobertura": []
+    },
+    {
+      "id": "2110c237ea4e",
+      "titulo": "Como usar o ChatGPT direto na barra lateral do Chrome e Edge",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-chatgpt-direto-na-barra-lateral-do-chrome-e-edge/",
+      "resumo": "A OpenAI atualizou a extensão do ChatGPT para navegadores baseados no Chromium. Com a novidade, a inteligência artificial consegue analisar o conteúdo das abas abertas para responder a perguntas com base nas páginas visitadas e executar tarefas na web. O recurso está disponível para todos os usuários, independentemente do plano contratado. A extensão funciona na barra lateral do navegador , que fica aberta ao lado do site em uso. Assim, é possível consultar informações, comparar dados de diferentes páginas e acionar ferramentas do assistente sem alternar entre guias. A atualização também integra a extensão ao ChatGPT Work, ferramenta da OpenAI para executar tarefas com várias etapas. Como usar o ChatGPT no Chrome e Edge? Para acessar o ChatGPT pelo navegador, é necessário instalar a extensão oficial da OpenAI na Chrome Web Store ( chromewebstore.google.com ). Embora tenha sido desenvolvida para o Google Chrome, ela também funciona em outros navegadores baseados no Chromium, como Microsoft Edge, Brave e Opera. O que dá para fazer com a extensão do ChatGPT? A extensão atualizada oferece dois tipos principais de uso: conversar com a inteligência artificial sobre o conteúdo das páginas",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-01T14:30:04+00:00",
+      "coletado_em": "2026-11-01T16:02:31.645163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/WxlwOdTKTtR4wF5CKJOYCjxL3yA=/0x0/filters:format(webp):quality(85)/8e032181-b197-4726-b87f-cc46b77f4eec.jpeg",
+      "score": 4.43,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "e74c395aaaaf",
+      "titulo": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+      "resumo": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to 100 times, potentially transforming the future of molecular electronics.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-01T11:55:46+00:00",
+      "coletado_em": "2026-11-01T16:02:31.641660+00:00",
+      "imagem_feed": null,
+      "score": 3.977,
+      "cobertura": []
+    },
+    {
+      "id": "75a6b776b7a0",
+      "titulo": "Scientists say a forgotten particle may explain why the universe exists",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+      "resumo": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos’s deepest mysteries.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-01T04:33:36+00:00",
+      "coletado_em": "2026-11-01T16:02:31.636131+00:00",
+      "imagem_feed": null,
+      "score": 3.43,
+      "cobertura": []
+    },
+    {
+      "id": "18d5a9cae594",
+      "titulo": "Scientists discover metals that defy the deep freeze at -424°F",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+      "resumo": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. Instead of breaking, two experimental alloys reorganize their internal structures, creating new ways to absorb stress and remain flexible.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-31T12:45:59+00:00",
+      "coletado_em": "2026-11-01T16:02:31.641660+00:00",
+      "imagem_feed": null,
+      "score": 3.314,
+      "cobertura": []
+    },
+    {
+      "id": "6eddc6dd2065",
+      "titulo": "SUV híbrido da BYD fica \"no precinho\" e é ótima opção entre usados",
+      "url": "https://canaltech.com.br/carros/suv-hibrido-da-byd-fica-no-precinho-e-e-otima-opcao-entre-usados/",
+      "resumo": "Comprar um SUV híbrido zero-quilômetro pode pesar bastante no bolso, mas o mercado de usados e seminovos oferece alternativas mais acessíveis para quem quer entrar nesse segmento. Um exemplo é o BYD Song Plus 2023 , que perdeu uma fatia considerável do valor desde que chegou ao Brasil e hoje aparece como uma opção para quem procura eletrificação sem pagar preço de lançamento. Lançado por R$ 269.990 , o modelo tem preço de referência de R$ 157.049 na tabela Fipe de outubro de 2026. A diferença chega a R$ 112.941 , equivalente a uma queda de aproximadamente 41,8% em relação ao valor original. A desvalorização torna o SUV mais competitivo entre os seminovos , mas o preço não deve ser o único critério de compra. Histórico de manutenção, estado da bateria, funcionamento do sistema híbrido e cumprimento das revisões também precisam entrar na conta antes de fechar negócio. Quanto custa o BYD Song Plus usado e o que avaliar? A queda de preço chama a atenção principalmente porque o Song Plus é um híbrido plug-in , ou seja, pode ter a bateria recarregada na tomada e rodar em modo totalmente elétrico por determinados trajetos. A desvalorização acumulada também reflete a dinâmica do mercado de",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-10-31T20:03:00+00:00",
+      "coletado_em": "2026-11-01T16:02:31.645163+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/3aTRnJPFqcTIrJL2Nj6CTKEBy88=/0x0/filters:format(webp):quality(85)/c86afeb4-801b-4bc3-b305-9716ec442cda.jpg",
+      "score": 3.23,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": []
+}
