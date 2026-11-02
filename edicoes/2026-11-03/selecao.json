@@ -1,0 +1,715 @@
+{
+  "medicina": [
+    {
+      "id": "4acc92b84b04",
+      "titulo": "New strategy may target common cancer driver with minimal side effects",
+      "url": "https://medicalxpress.com/news/2026-11-strategy-common-cancer-driver-minimal.html",
+      "resumo": "Researchers have found a surprisingly common vulnerability in a broad variety of cancers and have begun designing drug compounds to exploit it, in a study led by investigators at Weill Cornell Medicine. The findings suggest the possibility of a potent, low-side-effect treatment that could benefit many patients with colorectal, breast and other cancer types.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-02T17:00:01+00:00",
+      "coletado_em": "2026-11-02T19:30:00.568769+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-strategy-may-targe.jpg",
+      "score": 6.281,
+      "cobertura": []
+    },
+    {
+      "id": "e87ab2d89c4e",
+      "titulo": "STAT+: The health care affordability midterms, and billing urgent care as ER",
+      "url": "https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/?utm_campaign=rss",
+      "resumo": "Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-02T17:05:28+00:00",
+      "coletado_em": "2026-11-02T19:30:00.569549+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/AP26299720557919-1024x576.jpg",
+      "score": 6.09,
+      "cobertura": []
+    },
+    {
+      "id": "910f9dff11e6",
+      "titulo": "Engineers address key hurdle for exhaled breath diagnostics",
+      "url": "https://medicalxpress.com/news/2026-11-key-hurdle-exhaled-diagnostics.html",
+      "resumo": "Chronic obstructive pulmonary disease (COPD), a chronic condition that causes increasing difficulty in breathing as it progresses, is the third leading cause of death worldwide. The clinical diagnosis and monitoring of COPD and other pulmonary diseases can be taxing, often requiring blood testing, which can be uncomfortable for patients, or costly imaging procedures, such as CT scans. Additionally, COPD flare-ups can occur unexpectedly and progress rapidly, significantly increasing the risk of death.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-02T19:20:19+00:00",
+      "coletado_em": "2026-11-02T19:30:00.568769+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/notre-dame-engineers-a.jpg",
+      "score": 6.031,
+      "cobertura": []
+    },
+    {
+      "id": "f7721708a18f",
+      "titulo": "Surgery offers best survival for early-stage lung cancer, study finds",
+      "url": "https://medicalxpress.com/news/2026-11-surgery-survival-early-stage-lung.html",
+      "resumo": "Surgery should remain the primary treatment for people with early-stage non-small cell lung cancer (NSCLC) who are suitable for either surgery or a highly targeted form of radiotherapy, a new study from the London School of Hygiene & Tropical Medicine (LSHTM) suggests.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-02T18:40:04+00:00",
+      "coletado_em": "2026-11-02T19:30:00.568769+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/lung-cancer.jpg",
+      "score": 5.956,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "55496ddf0344",
+      "titulo": "A CRISPR gene boost reduces seizures and strengthens muscles in mice",
+      "url": "https://phys.org/news/2026-11-crispr-gene-boost-seizures-muscles.html",
+      "resumo": "Some genetic diseases leave cells without a crucial protein. One possible treatment is to persuade genes already inside those cells to work harder, but the necessary machinery can be difficult to deliver, especially when researchers want to target several genes at once. A new compact CRISPR system devised by Hainan Zhang of the Shanghai Institute of Materia Medica, Chinese Academy of Sciences, and colleagues fits those instructions into a single viral delivery package.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-02T18:20:01+00:00",
+      "coletado_em": "2026-11-02T19:30:00.570003+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-crispr-gene-boost-re.jpg",
+      "score": 6.42,
+      "cobertura": []
+    },
+    {
+      "id": "dd0d7d411add",
+      "titulo": "Predicting jumping genes' roles in changing genome size",
+      "url": "https://phys.org/news/2026-11-genes-roles-genome-size.html",
+      "resumo": "A genome contains all of the DNA of every living organism, but its contents don't stop there—most of these structures also contain snippets of DNA that can copy and paste themselves to \"infect\" a genome, expanding its size. Precisely why that happens remains a mystery.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-02T19:20:14+00:00",
+      "coletado_em": "2026-11-02T19:30:00.570003+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/predicting-jumping-gen.jpg",
+      "score": 6.031,
+      "cobertura": []
+    },
+    {
+      "id": "5a517a79a025",
+      "titulo": "Automated platform optimizes enzyme production using cell-free protein synthesis and AI-driven design",
+      "url": "https://phys.org/news/2026-11-automated-platform-optimizes-enzyme-production.html",
+      "resumo": "Enzymes are essential to a wide range of industrial processes. As biocatalysts, they play a key role in producing active pharmaceutical ingredients, specialty chemicals and ingredients for cosmetics, besides being vital to the food industry. Enzymes allow many chemical reactions to occur under milder conditions, thereby saving energy and making existing processes more efficient and environmentally friendly.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-02T17:20:10+00:00",
+      "coletado_em": "2026-11-02T19:30:00.570003+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-technology-optimiz.jpg",
+      "score": 5.315,
+      "cobertura": []
+    },
+    {
+      "id": "5525c4eab1b4",
+      "titulo": "Dinosaur blood—oldest discovery rewrites what fossils can reveal about the past",
+      "url": "https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html",
+      "resumo": "An international research team led by Curtin University has for the first time uncovered unequivocal evidence of fossilized red blood cells and amino acids of collagen, reshaping our understanding of fossil preservation and molecular longevity in deep time.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-02T19:00:13+00:00",
+      "coletado_em": "2026-11-02T19:30:00.570003+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/aratasaurus-fossil.jpg",
+      "score": 4.993,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "ee7fe25aac34",
+      "titulo": "A Meta quer entrar na sua casa, agora com um robô humanoide",
+      "url": "https://tecnoblog.net/noticias/a-meta-quer-entrar-na-sua-casa-agora-com-um-robo-humanoide/",
+      "resumo": "Criado em parceria com a chinesa Fourier, robô humanoide da Meta teria 1,5 de altura e tela na cabeça que mostra expressões faciais. A Meta quer entrar na sua casa, agora com um robô humanoide",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-02T16:10:56+00:00",
+      "coletado_em": "2026-11-02T19:30:00.592448+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-2-nov-2022.png",
+      "score": 5.401,
+      "cobertura": []
+    },
+    {
+      "id": "2f4c98c0c1d2",
+      "titulo": "Top 10 robotics developments of October 2026",
+      "url": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
+      "resumo": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West. The post Top 10 robotics developments of October 2026 appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-02T17:56:42+00:00",
+      "coletado_em": "2026-11-02T19:30:00.571798+00:00",
+      "imagem_feed": null,
+      "score": 5.228,
+      "cobertura": []
+    },
+    {
+      "id": "53e175b9ffe3",
+      "titulo": "Gentherm designs ThermAffyx to protect, move patients during robotic surgeries",
+      "url": "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/",
+      "resumo": "ThermAffyx addresses secure positioning and heating of patients for robot-assisted surgical procedures with a minimal OR footprint. The post Gentherm designs ThermAffyx to protect, move patients during robotic surgeries appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-02T18:06:36+00:00",
+      "coletado_em": "2026-11-02T19:30:00.571798+00:00",
+      "imagem_feed": null,
+      "score": 4.746,
+      "cobertura": []
+    },
+    {
+      "id": "50f9825e96a2",
+      "titulo": "ChatGPT vai juntar conversas e agentes de IA no mesmo lugar do app",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-vai-juntar-conversas-e-agentes-de-ia-no-mesmo-lugar-do-app/",
+      "resumo": "A OpenAI vai unificar as abas “Chat” e “Work” no ChatGPT . Dessa forma, a conversa padrão e o agente de IA do Work poderão ser acessados na mesma caixa de prompt, sem a necessidade de alternar entre os modos na tela inicial. A empresa começou a informar aos assinantes dos planos pagos do ChatGPT sobre a mudança, que será testada com um grupo limitado de contas a partir das próximas semanas. A divisão entre abas existe na versão web e nos aplicativos para computadores e celulares. O ajuste s implifica a experiência de uso , visto que uma tarefa pode conversar no chat padrão e depois ser encaminhada para o agente do Work. “Isso vai permitir avançar da exploração de uma ideia até a execução pelo ChatGPT, tudo no mesmo lugar”, explica a empresa em comunicado. O ChatGPT Work foi lançado pela OpenAI em julho e funciona como um agente autônomo para executar diferentes tarefas. A ferramenta pode acessar documentos no computador, combinar ações entre apps — o usuário delega as funções e acompanha todo o processo, sempre com a opção de intervir no meio do caminho. O que muda no Codex? O assistente de programação Codex ainda vai funcionar de forma separada , mas vai consumir tokens de forma c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "software",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-02T18:46:13+00:00",
+      "coletado_em": "2026-11-02T19:30:00.594832+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/E97ZWxn-srfhQ0eZrrbr7ytsIyU=/0x0/filters:format(webp):quality(85)/6ba045b7-a08c-4976-a362-98369250c880.png",
+      "score": 4.517,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "9a61bf114535",
+      "titulo": "Tor Browser 16.0 released",
+      "url": "https://lwn.net/Articles/1104846/",
+      "resumo": "Version 16.0 of the Tor Browser has been released. This is the first stable version based on Firefox ESR 153. Notable changes in this release include support for Linux on 64-bit Arm, redesigned settings, and a \"generic window titles\" feature to help prevent other applications from snooping on one's browser activity. Tor Browser for Android has had a number of interface updates to Google's Material Design 3 design language. This release also follows Firefox in ending support for 32-bit x86 Linux systems. See the full changelog for all of the updates and bug fixes.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-02T14:28:23+00:00",
+      "coletado_em": "2026-11-02T19:30:00.573189+00:00",
+      "imagem_feed": null,
+      "score": 5.046,
+      "cobertura": []
+    },
+    {
+      "id": "50f9825e96a2",
+      "titulo": "ChatGPT vai juntar conversas e agentes de IA no mesmo lugar do app",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-vai-juntar-conversas-e-agentes-de-ia-no-mesmo-lugar-do-app/",
+      "resumo": "A OpenAI vai unificar as abas “Chat” e “Work” no ChatGPT . Dessa forma, a conversa padrão e o agente de IA do Work poderão ser acessados na mesma caixa de prompt, sem a necessidade de alternar entre os modos na tela inicial. A empresa começou a informar aos assinantes dos planos pagos do ChatGPT sobre a mudança, que será testada com um grupo limitado de contas a partir das próximas semanas. A divisão entre abas existe na versão web e nos aplicativos para computadores e celulares. O ajuste s implifica a experiência de uso , visto que uma tarefa pode conversar no chat padrão e depois ser encaminhada para o agente do Work. “Isso vai permitir avançar da exploração de uma ideia até a execução pelo ChatGPT, tudo no mesmo lugar”, explica a empresa em comunicado. O ChatGPT Work foi lançado pela OpenAI em julho e funciona como um agente autônomo para executar diferentes tarefas. A ferramenta pode acessar documentos no computador, combinar ações entre apps — o usuário delega as funções e acompanha todo o processo, sempre com a opção de intervir no meio do caminho. O que muda no Codex? O assistente de programação Codex ainda vai funcionar de forma separada , mas vai consumir tokens de forma c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "software",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-02T18:46:13+00:00",
+      "coletado_em": "2026-11-02T19:30:00.594832+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/E97ZWxn-srfhQ0eZrrbr7ytsIyU=/0x0/filters:format(webp):quality(85)/6ba045b7-a08c-4976-a362-98369250c880.png",
+      "score": 5.017,
+      "cobertura": []
+    },
+    {
+      "id": "35641a0d4cb4",
+      "titulo": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1104844/",
+      "resumo": "Security updates have been issued by AlmaLinux (firefox, java-17-openjdk, kernel, kernel-rt, mariadb:10.5, podman, python-jwt, python27:2.7, python38:3.8 and python38-devel:3.8, python39:3.9 and python39-devel:3.9, ruby:2.5, ruby:2.7, thunderbird, util-linux, and virt:rhel and virt-devel:rhel), Debian (chromium, eog, imagemagick, python-aiohttp, thunderbird, and vim), Fedora (asciinema, atuin, btrfs-backup-ng, clevis, gcc, janus, kernel, libheif, libreswan, mingw-expat, mupdf, nautilus, nicotine+, ntpd-rs, openscap, perl-DBI, python-streamlink, python3.12, retsnoop, ruby, rust-cargo-deny, rust-cargo-rpmstatus, rust-ctutils, rust-gst-plugin-reqwest, rust-rbspy, rust-resctl-bench, rust-rpki, rust-rustls-webpki, rust-sequoia-chameleon-gnupg, rust-sequoia-git, rust-sequoia-octopus-librnp, rust-webpki-root-certs, rust-webpki-roots, tpm2-tss, and vhs), Oracle (.NET 8.0, .NET 9.0, aspell, bind9.18, curl, httpd:2.4, java-1.8.0-openjdk, kernel, libXi, mod_auth_openidc:2.3, nodejs:24, python-pillow, and tomcat), Red Hat (libxml2), Slackware (libarchive), and SUSE (buildah, curl, docker, gnutls, nodejs22, and suseconnect-ng).",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-02T14:03:45+00:00",
+      "coletado_em": "2026-11-02T19:30:00.573189+00:00",
+      "imagem_feed": null,
+      "score": 5.011,
+      "cobertura": []
+    },
+    {
+      "id": "23ae89e15289",
+      "titulo": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac",
+      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-oct26-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "This week's Java roundup for October 26th, 2026, features news highlighting: the GA release of TornadoVM 8.0; point releases of JNoSQL, Endive, JBang, JReleaser and LangChain4j; a maintenance release of JobRunr; beta releases of Hibernate ORM and Hibernate Reactive; and introducing the Quarkus Almanac. By Michael Redlich",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-02T17:00:00+00:00",
+      "coletado_em": "2026-11-02T19:30:00.572361+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/java-news-roundup-oct26-2026/en/headerimage/java-news-roundup-image-1793638258393.jpg",
+      "score": 4.931,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "ade2542f7231",
+      "titulo": "Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd450-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-abs-rig-from-newegg-ships-with-24-core-intel-cpu-and-a-2tb-ssd-for-usd2-549-99",
+      "resumo": "This ABS Stratos II Aqua gaming PC has dropped to $2,549.99 at Newegg right now, giving you a rig with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DDR5 RAM.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-02T11:52:11+00:00",
+      "coletado_em": "2026-11-02T19:30:00.573820+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/8fowww56bytYgw4hzapaoY-1920-80.png",
+      "score": 5.987,
+      "cobertura": []
+    },
+    {
+      "id": "f93473a9f6bf",
+      "titulo": "Tachyum, developer of heavily-delayed universal Prodigy processor, voluntarily files for bankruptcy",
+      "url": "https://www.tomshardware.com/pc-components/cpus/tachyum-developer-of-heavily-delayed-universal-prodigy-processor-voluntarily-files-for-bankruptcy-future-of-prodigy-ip-unknown-as-company-begins-bankruptcy-proceedings",
+      "resumo": "Tachyum files for bankruptcy, the court in Bratislava initiates bankruptcy proceedings.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-02T18:07:21+00:00",
+      "coletado_em": "2026-11-02T19:30:00.573820+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/TEL2Ff3vNLxwnB8DXnCW5F-1920-80.png",
+      "score": 5.047,
+      "cobertura": []
+    },
+    {
+      "id": "3f0b90e480cc",
+      "titulo": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies — company reportedly sees 2028 presidential election becoming an 'AI issue'",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
+      "resumo": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a policy and public relations push after the U.S. midterm elections. The company is also promoting the term “AI compute campuses” for its data centers as it seeks to address concerns over electricity demand, water consumption, pollution and rising utility bills",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-02T19:15:31+00:00",
+      "coletado_em": "2026-11-02T19:30:00.573820+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg",
+      "score": 4.672,
+      "cobertura": []
+    },
+    {
+      "id": "58216723cb15",
+      "titulo": "Demanda crescente por energia pressiona infraestrutura e pode elevar custos",
+      "url": "https://jornal.usp.br/radio-usp/demanda-crescente-por-energia-pressiona-infraestrutura-e-pode-elevar-custos/",
+      "resumo": "Expansão da inteligência artificial e dos data centers aumenta o consumo, enquanto investimentos em transmissão e distribuição se tornam um desafio para o setor energético",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-02T12:14:01+00:00",
+      "coletado_em": "2026-11-02T19:30:00.588980+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/07/colunistas-radioUSP_carlos-eduard-de-freitas-vian-1024x1024.jpg",
+      "score": 4.664,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "82712828e62d",
+      "titulo": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
+      "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
+      "resumo": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-02T17:00:00+00:00",
+      "coletado_em": "2026-11-02T19:30:00.575939+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/9mA3zrpui3mS5HYJHvw4fD-1920-80.jpg",
+      "score": 5.631,
+      "cobertura": []
+    },
+    {
+      "id": "b9487f47e621",
+      "titulo": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "resumo": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-02T18:50:42+00:00",
+      "coletado_em": "2026-11-02T19:30:00.574894+00:00",
+      "imagem_feed": null,
+      "score": 4.926,
+      "cobertura": []
+    },
+    {
+      "id": "2d388f71e487",
+      "titulo": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+      "resumo": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-02T18:19:58+00:00",
+      "coletado_em": "2026-11-02T19:30:00.574894+00:00",
+      "imagem_feed": null,
+      "score": 4.87,
+      "cobertura": []
+    },
+    {
+      "id": "88925a9086bc",
+      "titulo": "Dust-shrouded Milky Way star cluster may be nearly as old as the universe",
+      "url": "https://phys.org/news/2026-10-shrouded-milky-star-cluster-universe.html",
+      "resumo": "Astronomers have determined that VVV CL001, a metal-poor globular cluster near the center of the Milky Way, is about 13.4 billion years old, making it one of the oldest known star clusters in our galaxy. The cluster lies behind thick clouds of interstellar dust, which made its distance and age difficult to establish. The paper, outlining the methodology for estimating its age and distance, was posted to the arXiv preprint server on Oct. 20. It has been accepted for publication by Astronomy & Astrophysics.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-02T11:40:01+00:00",
+      "coletado_em": "2026-11-02T19:30:00.575290+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-date-a-mil.jpg",
+      "score": 4.822,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "d565ba859442",
+      "titulo": "Single molecules could provide the building blocks for future quantum networks",
+      "url": "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html",
+      "resumo": "Quantum computers rely on qubits as their units of information. To connect them into a larger network across long distances, they need to transmit quantum information using light.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-02T17:00:05+00:00",
+      "coletado_em": "2026-11-02T19:30:00.576783+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/single-molecules-could.jpg",
+      "score": 6.281,
+      "cobertura": []
+    },
+    {
+      "id": "57a28e2e6f35",
+      "titulo": "How Many Qubits Would it Take to Simulate a Holographic Universe?",
+      "url": "https://thequantuminsider.com/2026/11/02/how-many-qubits-would-it-take-to-simulate-a-holographic-universe/",
+      "resumo": "Insider brief Quantum computing roadmaps usually talk about drug discovery, materials and optimisation. One of the most influential theoretical physicists alive has a different application in mind: simulating a universe. In the latest episode of The Quantum Kid, Prof. Juan Maldacena of the Institute for Advanced Study in Princeton explains the holographic principle. This is […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-02T14:23:25+00:00",
+      "coletado_em": "2026-11-02T19:30:00.576392+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Universe-in-a-Glowing-Cosmic-Cube.png",
+      "score": 5.689,
+      "cobertura": []
+    },
+    {
+      "id": "66ea38fe0921",
+      "titulo": "South Korea Launches Hangang Supercomputer, Plans Quantum Integration",
+      "url": "https://thequantuminsider.com/2026/11/02/south-korea-hangang-supercomputer-quantum-integration/",
+      "resumo": "Insider Brief South Korea’s sixth national supercomputer, Hangang, is now fully operational, Seoul Economic Daily reported. The government expects the system to place among the world’s top 10 machines. It also intends to pair Hangang with a quantum computer in the first half of next year, forming a hybrid system meant to speed up both […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-02T13:24:22+00:00",
+      "coletado_em": "2026-11-02T19:30:00.576392+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_18-23.png",
+      "score": 5.107,
+      "cobertura": []
+    },
+    {
+      "id": "1c891a7ce5cb",
+      "titulo": "Quantcore Welcomes Innovation Minister to Showcase Manufacturing Ambitions",
+      "url": "https://thequantuminsider.com/2026/11/02/quantcore-welcomes-innovation-minister-to-showcase-manufacturing-ambitions/",
+      "resumo": "Insider Brief PRESS RELEASE — Alyn Smith, Minister for Innovation, Technology and Tertiary Education, recently visited Quantcore to explore how the Scottish Government can support the growth of Scotland’s quantum manufacturing sector. Hosted by CEO Dr Jack Brennan, the visit included a tour of Quantcore’s labs, showcasing the company’s work in superconducting quantum hardware and […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-02T12:38:55+00:00",
+      "coletado_em": "2026-11-02T19:30:00.576392+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/IMG_6237-2048x1536-1.jpg",
+      "score": 5.046,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "1304c7696c7e",
+      "titulo": "Best external SSDs for gaming: Portable performance for any budget",
+      "url": "https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html",
+      "resumo": "Perhaps your gaming laptop doesn’t have enough storage. Or perhaps you simply want your game library to be portable so you can move between systems. A speedy external SSD can solve both of these problems. Not only will it provide you with a lot more fast storage for your games, you can use it on any system you wish. Choosing the external SSD that’s right for your needs means sorting through a dizzying array of protocol and speed options. Making the wrong choice could leave you disappointed, either financially or performance-wise. Luckily for you, we’ve tested a bunch of these wee beasties and can offer recommendations guaranteed to leave you satisfied. PROMOTION Fortify your games and moments of glory Built for gamers and streamers, FireCuda X Vault offers massive capacity and convenient bus-powered single-cable connectivity. Vault’s striking design with customizable RGB illumination and Windows Dynamic Lighting keeps your vibe in check and syncs to your rig’s energy. Learn More Below are recommendations for drives from 80Gbps down to 10Gbps; scroll below those to learn more about our evaluation process and what to look for when buying an external SSD for gaming. Note that SSD pric",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-02T16:00:00+00:00",
+      "coletado_em": "2026-11-02T19:30:00.578046+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/553786-0-15933800-1793635219-sky-hynix-beetle-x31-ssd.jpg?quality=50&strip=all",
+      "score": 5.834,
+      "cobertura": []
+    },
+    {
+      "id": "f4d918d6d70b",
+      "titulo": "Linux has a hidden cost. But I installed it on my old laptop anyway",
+      "url": "https://www.pcworld.com/article/3273591/linux-isnt-cheap-but-i-installed-it-on-my-old-laptop-anyway.html",
+      "resumo": "I finally tried Linux on one of my PCs last night. It’s my first time on a device of my own—and security is definitely why I’m finally plunging down the rabbit hole. Yep, security. You may never pay a cent for Linux, but it still costs you. Welcome to Safe Mode, your weekly report for pressing security and privacy news—and what steps to take next. Want this newsletter to come directly to your inbox? Sign up on our website ! The problem Like most people, I have old tech in my home. My main laptop is 9 years old. Its backup is an old corporate ThinkPad dating back to 2013. I take that second laptop to busy places or when I just don’t want to worry about theft. I’ve left it exactly as I got it—I’ve never added more RAM or swapped its spinning platter drive for a faster SSD. I could have stuck with Windows 10, which still is getting security updates for now. But so is ChromeOS . Last year, to help boost performance, I switched . Google’s operating system is less demanding, which lets the ThinkPad run smoother during web browsing despite its age. That decision only kicked the can down the road, though. Google ends support for ChromeOS on this ThinkPad in December. Before AI’s pervasive ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-02T12:00:00+00:00",
+      "coletado_em": "2026-11-02T19:30:00.578046+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3273591-0-85805400-1793620830-pexels-realtoughcandy-11035358.jpg?quality=50&strip=all",
+      "score": 5.497,
+      "cobertura": []
+    },
+    {
+      "id": "70ce854f8996",
+      "titulo": "NASA's Swift Space Telescope is set to crash back to Earth this week",
+      "url": "https://www.techspot.com/news/114412-nasa-swift-space-telescope-set-crash-back-earth.html",
+      "resumo": "The Swift Observatory could plunge back to Earth as early as this Friday, US authorities said. The telescope is expected to undergo an uncontrolled reentry after NASA and Katalyst Space Technologies tried – and failed – to correct the spacecraft's orbit using a robotic device in September. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-02T19:04:00+00:00",
+      "coletado_em": "2026-11-02T19:30:00.584756+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-02-ts3_thumbs-3dc.jpg",
+      "score": 5.351,
+      "cobertura": [
+        "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
+      ]
+    },
+    {
+      "id": "d7ea9534330d",
+      "titulo": "Apple finally has a touchscreen MacBook. Why now?",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-finally-has-a-touchscreen-macbook-why-now",
+      "resumo": "Apple is introducing a touchscreen laptop in the MacBook Pro with a PROLED XDR Display. Here's where it falls in the long timeline of touchscreen laptops.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-02T14:00:00+00:00",
+      "coletado_em": "2026-11-02T19:30:00.573820+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rskLj7BkH6HMd2dYqtbZYo-1920-80.jpg",
+      "score": 5.156,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "594f44f4d349",
+      "titulo": "Guarding the Gates of Knowledge",
+      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "resumo": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion. Remember the good old days of GPT-3 when we could ask the chatbot anything and it would almost instantly and very confidently spit back a plausible but false answer? That’s when the word “hallucination” as applied to AI answers entered the lexicon. Six years and several versions of a few different chatbots later, I still can’t trust the answers I get, even though Claude or Gemini often do useful work for me. That’s the thing about current AI: Trust but verify. And verify you must. Apply that maxim at scale to maintain the integrity of the scientific record and you get an idea of the challenge facing publishers of peer-reviewed scholarship. In “ I Used AI to Fake a Scientific Paper ,” freelance writer and doctor of applied mathematics Benjamin Skuse tells the story of the human gatekeepers trying to beat back the rising ti",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-01T14:00:01+00:00",
+      "coletado_em": "2026-11-02T19:30:00.586835+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/stacked-orange-documents-over-abstract-black-circuit-board-pattern.jpg?id=68537695&width=980",
+      "score": 5.514,
+      "cobertura": []
+    },
+    {
+      "id": "902ce9f95dc0",
+      "titulo": "Qual é a diferença entre rodar uma IA local e uma IA na nuvem?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-rodar-uma-ia-local-e-uma-ia-na-nuvem/",
+      "resumo": "Na hora de usar uma inteligência artificial, você já parou para pensar onde ela processa suas solicitações ? Algumas ferramentas funcionam no próprio computador ou celular, já outras dependem de servidores externos. Essa diferença afeta a privacidade dos seus dados, os recursos disponíveis, os custos e a necessidade de estar conectado à internet. O modelo escolhido também influencia o tipo de tarefa que você pode realizar. Uma IA local pode ajudar a revisar textos e resumir documentos sem enviar os arquivos para servidores externos, desde que o programa funcione inteiramente no dispositivo. Já os serviços na nuvem oferecem acesso a modelos que podem lidar com solicitações mais complexas, mesmo em aparelhos com pouca capacidade de processamento. Mas como saber qual opção vale mais a pena? A resposta depende do que você precisa fazer, do equipamento disponível e do cuidado necessário com as informações compartilhadas. Qual é a diferença entre uma IA local e uma IA na nuvem? A principal diferença entre uma IA local e uma IA na nuvem está no ambiente onde o processamento acontece . Na primeira, o próprio dispositivo executa os procedimentos necessários para gerar as respostas. Na segun",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-02T18:00:09+00:00",
+      "coletado_em": "2026-11-02T19:30:00.594832+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Za3PC-mEctSBJQ8k5TW1YTUhVLU=/0x0/filters:format(webp):quality(85)/3f2b9dbf-5e06-4ded-9279-c8a2152ca3bf.png",
+      "score": 5.434,
+      "cobertura": []
+    },
+    {
+      "id": "8402594bed24",
+      "titulo": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "resumo": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-02T19:19:17+00:00",
+      "coletado_em": "2026-11-02T19:30:00.587627+00:00",
+      "imagem_feed": null,
+      "score": 5.229,
+      "cobertura": [
+        "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+      ]
+    },
+    {
+      "id": "b810030289ed",
+      "titulo": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "resumo": "Animated carousel of images from AI posts in October",
+      "fonte": "Google Blog",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-02T17:45:00+00:00",
+      "coletado_em": "2026-11-02T19:30:00.587200+00:00",
+      "imagem_feed": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",
+      "score": 5.158,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "a8f9bbad3775",
+      "titulo": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
+      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
+      "resumo": "Solar cells generate electricity by absorbing sunlight in a thin layer of perovskite, a light-absorbing material. This layer is made with a liquid solution that dries and crystallizes into a solid film, but small changes in temperature, humidity and other conditions can affect the film and the performance of the solar cell.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-02T14:40:10+00:00",
+      "coletado_em": "2026-11-02T19:30:00.588460+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/bright-spark-robots-an-1.jpg",
+      "score": 5.563,
+      "cobertura": []
+    },
+    {
+      "id": "50526049e206",
+      "titulo": "New coating approach aligns molecules upright to boost organic solar cell efficiency",
+      "url": "https://techxplore.com/news/2026-10-coating-approach-aligns-molecules-upright.html",
+      "resumo": "Solar cells, devices that can convert sunlight into electricity, are now widely used in many countries worldwide. While most cells on the market today are primarily made of silicon, energy engineers have been exploring the potential of other materials that produce an electrical voltage when light is directed at them.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-02T12:00:01+00:00",
+      "coletado_em": "2026-11-02T19:30:00.588460+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-coating-approach-c.jpg",
+      "score": 5.347,
+      "cobertura": []
+    },
+    {
+      "id": "40048cdce6ad",
+      "titulo": "Redesigning batteries for ultrafast-charging EVs",
+      "url": "https://techxplore.com/news/2026-11-redesigning-batteries-ultrafast-evs.html",
+      "resumo": "It's hard to ignore the difference: You can fill a car's tank with gas in mere minutes. Charging the battery of an electric vehicle (EV) can take 30 minutes or more.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-02T17:40:12+00:00",
+      "coletado_em": "2026-11-02T19:30:00.588460+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/redesigning-batteries.jpg",
+      "score": 4.849,
+      "cobertura": []
+    },
+    {
+      "id": "5f7ba44a9f94",
+      "titulo": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
+      "resumo": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive “ghost particles” could hold extraordinary clues about the Big Bang, extreme cosmic events, and some of the universe’s greatest mysteries.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-02T13:42:07+00:00",
+      "coletado_em": "2026-11-02T19:30:00.575545+00:00",
+      "imagem_feed": null,
+      "score": 4.831,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "df36017b43fb",
+      "titulo": "Mercado Bitcoin pode ter perdido R$ 217 milhões em ataque hacker",
+      "url": "https://tecnoblog.net/noticias/mercado-bitcoin-pode-ter-perdido-r-217-milhoes-em-ataque-hacker/",
+      "resumo": "Corretora brasileira afirma que clientes não tiveram prejuízos nem dados vazados. Depósitos e saques foram temporariamente suspensos. Mercado Bitcoin pode ter perdido R$ 217 milhões em ataque hacker",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-02T17:29:50+00:00",
+      "coletado_em": "2026-11-02T19:30:00.592448+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/mb-mercado-bitcoin.webp",
+      "score": 4.531,
+      "cobertura": []
+    },
+    {
+      "id": "9cac160b2394",
+      "titulo": "CISA Kicks Off Critical Infrastructure Security and Resilience Month 2026",
+      "url": "https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-security-and-resilience-month-2026",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-02T12:00:00+00:00",
+      "coletado_em": "2026-11-02T19:30:00.588817+00:00",
+      "imagem_feed": null,
+      "score": 4.297,
+      "cobertura": []
+    }
+  ]
+}
