@@ -1,0 +1,1946 @@
+[
+ {
+  "id": "003e1369998c",
+  "titulo": "Newly discovered pathway fuels production of cancer-driving proteins",
+  "url": "https://medicalxpress.com/news/2026-10-newly-pathway-fuels-production-cancer.html",
+  "resumo": "A previously unknown mechanism helps cancer cells selectively produce proteins that drive tumor growth—such as KRAS—in common cancers, according to new research from The University of Texas MD Anderson Cancer Center. The findings reveal that targeting a specific enzyme may improve responses to targeted therapies and help overcome treatment resistance.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T13:00:01+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116164+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-pathw-1.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "060ca391c56b",
+  "titulo": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
+  "url": "https://www.tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops",
+  "resumo": "The Rocket Cargo capability should allow U.S. forces to resupply quickly without risking aircrews and equipment, especially in contested areas.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T11:30:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/5ivDcdrdYSH4ww4FKkXfwW-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "06d3d5e14e08",
+  "titulo": "\"Ghost students\" stole millions in federal aid until data patterns gave them away",
+  "url": "https://www.techspot.com/news/114399-fake-students-used-ai-attend-class-government-cost.html",
+  "resumo": "Unusual patterns in federal student aid data led the Justice Department to charge five people and seize more than $750,000 in cryptocurrency tied to a network associated with Kenyan nationals. The charges are the first results of a broader federal effort, which the department calls Operation Ghostbusters, to crack down... Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T16:37:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.123482+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-31-ts3_thumbs-239.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "06e9be66ea11",
+  "titulo": "Kernel prepatch 7.4-rc1",
+  "url": "https://lwn.net/Articles/1104654/",
+  "resumo": "The 7.4-rc1 kernel prepatch is out, and the merge window is closed for this development cycle. This is a *BIG* merge window. I think the reason is the by now obvious one, but I'm actually taking it as a good sign: I'm *much* happier with the flood of AI triggered work going into the merge window than it showing up mainly as extra fixes during the -rc period. So I'm hoping that this merge window being larger than usual is a sign that the AI fixes are becoming more part of the \"normal development\" than a flood of fixes that go into the whole stabilization phase. I think that's a much healthier model. There were 18,591 non-merge changesets brought in during this merge window — this is not just a record, but it nearly matches the patch volume during the entire (record-setting) 7.3 development cycle. So far, 2,678 developers have contributed to 7.4; 625 of them are first-time kernel contributors. Subscribers can find more details in the KSDB 7.4 page .",
+  "fonte": "LWN.net",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-11-02T00:17:08+00:00",
+  "coletado_em": "2026-11-02T07:37:21.118885+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "08a98f93893b",
+  "titulo": "Apple’s HomeView could add security camera features",
+  "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+  "resumo": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T17:16:07+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "0ae10264665c",
+  "titulo": "AI can make tech CEOs’ lives easier. What about everyone else?",
+  "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+  "resumo": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T20:57:58+00:00",
+  "coletado_em": "2026-11-02T07:37:21.125436+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "144d2253b8d6",
+  "titulo": "New Zelda and GTA represent a games industry that no longer exists",
+  "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+  "resumo": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two biggest games of […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T13:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "1c9eebf468b5",
+  "titulo": "NASA aprimora satélites e revela registro mais preciso de CO₂ na atmosfera",
+  "url": "https://olhardigital.com.br/2026/11/01/ciencia-e-espaco/nasa-aprimora-satelites-e-revela-registro-mais-preciso-de-co-na-atmosfera/",
+  "resumo": "Todos os dias, os equipamentos registram mais de um milhão de observações da luz solar refletida pela superfície da Terra O post NASA aprimora satélites e revela registro mais preciso de CO₂ na atmosfera apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "energia_materiais"
+  ],
+  "publicado": "2026-11-01T15:54:23+00:00",
+  "coletado_em": "2026-11-02T07:37:21.126518+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "207ddf3d17c6",
+  "titulo": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+  "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+  "resumo": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T13:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120787+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "20e887b30ab5",
+  "titulo": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
+  "resumo": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body's natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an early human safety trial, potentially speeding the development of a new treatment for high cholesterol.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T01:57:50+00:00",
+  "coletado_em": "2026-11-02T07:37:21.115781+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "2110c237ea4e",
+  "titulo": "Como usar o ChatGPT direto na barra lateral do Chrome e Edge",
+  "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-chatgpt-direto-na-barra-lateral-do-chrome-e-edge/",
+  "resumo": "A OpenAI atualizou a extensão do ChatGPT para navegadores baseados no Chromium. Com a novidade, a inteligência artificial consegue analisar o conteúdo das abas abertas para responder a perguntas com base nas páginas visitadas e executar tarefas na web. O recurso está disponível para todos os usuários, independentemente do plano contratado. A extensão funciona na barra lateral do navegador , que fica aberta ao lado do site em uso. Assim, é possível consultar informações, comparar dados de diferentes páginas e acionar ferramentas do assistente sem alternar entre guias. A atualização também integra a extensão ao ChatGPT Work, ferramenta da OpenAI para executar tarefas com várias etapas. Como usar o ChatGPT no Chrome e Edge? Para acessar o ChatGPT pelo navegador, é necessário instalar a extensão oficial da OpenAI na Chrome Web Store ( chromewebstore.google.com ). Embora tenha sido desenvolvida para o Google Chrome, ela também funciona em outros navegadores baseados no Chromium, como Microsoft Edge, Brave e Opera. O que dá para fazer com a extensão do ChatGPT? A extensão atualizada oferece dois tipos principais de uso: conversar com a inteligência artificial sobre o conteúdo das páginas",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T14:30:04+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/WxlwOdTKTtR4wF5CKJOYCjxL3yA=/0x0/filters:format(webp):quality(85)/8e032181-b197-4726-b87f-cc46b77f4eec.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "216916bad60a",
+  "titulo": "Cancel your $99.99 Microsoft 365 subscription and get the same apps for life for $49.97",
+  "url": "https://www.pcworld.com/article/3272612/cancel-your-99-99-microsoft-365-subscription-and-get-the-same-apps-for-life-for-49-97.html",
+  "resumo": "TL;DR: A Microsoft Office 2024 Pro Lifetime License gives you six apps with no monthly fees, and it’s only $49.97 (reg. $249.99). A Microsoft 365 Personal subscription costs $99.99 a year, every year for apps you’ll likely be using forever. Microsoft Office 2024 Professional Plus is a one-time purchase that gives you many of the same apps, and a lifetime license is only $49.97 (reg. $249.99). This license gives you access to Word, Excel, PowerPoint, Outlook, OneNote, and Access all installed directly on your PC, and none of them depend on the cloud to work. Office 2024 has low system requirements and runs on a wide range of Windows 10 and Windows 11 PCs. You also get dark mode across the apps, along with tools for analyzing data in Excel and managing databases in Access. Microsoft sends regular security updates for as long as the product is supported. More than 10,000 people have bought this license, and buyers rate it 4.8 out of 5 across 380 reviews. Get Microsoft Office 2024 Pro Plus on sale for $49.97. Offer ends Nov. 1 at 11:59 p.m. PT. Microsoft Office 2024 Professional Plus for Windows: Lifetime License See Deal StackSocial prices subject to change.",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T08:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.121987+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3272612-0-11542100-1793520025-mso-2024-Pro-Plus-3.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "2466d8b4bec3",
+  "titulo": "Final release for the 7.2 stable series",
+  "url": "https://lwn.net/Articles/1104629/",
+  "resumo": "Greg Kroah-Hartman has announced the release of the 7.2.15 kernel, with a handful of updates. Note, this is the LAST 7.2.y kernel release. After this one the 7.2.y kernel tree is end-of-life. Please move to 7.3.y at this time. And yes, you aren't imagining things, this one went \"end-of-life\" a bit sooner than normal. But based on the release cycle at the moment, and the number of pending cc: stable patches in the queue, I figured it was better this way so we can focus on the latest 7.3.y release as it would require us to keep 8 different branches alive at the same moment, a taxing task under the best of times.",
+  "fonte": "LWN.net",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-11-01T15:03:40+00:00",
+  "coletado_em": "2026-11-02T07:37:21.118885+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "26b4fcb8cc77",
+  "titulo": "Quanto custaria um Mitsubishi Lancer hoje, com a inflação?",
+  "url": "https://canaltech.com.br/carros/quanto-custaria-um-mitsubishi-lancer-hoje-com-a-inflacao/",
+  "resumo": "O Mitsubishi Lancer é o tipo de carro que, quem tem, não vende de jeito nenhum. Afinal, o sedan japonês, embora menos badalado que rivais como Honda Civic e Toyota Corolla , também entrega confiabilidade, luxo e desempenho de sobra, e por um preço mais acessível. Importado do Japão em suas primeiras gerações , o Lancer chegou “oficialmente” ao Brasil em 2011 , com toda a agressividade da versão GT como topo da linha que contava ainda com a tradicional, com câmbio CVT, e a de entrada, equipada com transmissão manual. O “calcanhar de Aquiles” de Corolla e Civic no Brasil, porém, não durou muito por aqui e, em 2020 , seis anos após ter sua produção nacionalizada em Catalão (GO), saiu de linha , deixando os fãs saudosos. Por conta disso, o CT Auto foi descobrir quanto custaria, hoje, um Mitsubishi Lancer, com a inflação. Confira. Quanto custava um Lancer quando foi lançado? A versão escolhida para ilustrar esse conteúdo foi a que mais marcou o mercado brasileiro enquanto esteve disponível por aqui: a GT, ano/modelo 2011 , que contava com motor 2.0 16V a gasolina, com 160 cv de potência e 20 kgf/m de torque. A variante topo de linha foi lançada oficialmente em outubro de 2011 por R$ 89.",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "astrofisica",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T20:03:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/vapFSgWB_C4qZlNYZmJ5qQgXhk4=/0x0/filters:format(webp):quality(85)/2cd6db50-86bb-4755-a136-fb0a872bef86.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "271894876bfa",
+  "titulo": "Tumor index can identify breast cancer patients' drug response",
+  "url": "https://medicalxpress.com/news/2026-10-tumor-index-breast-cancer-patients.html",
+  "resumo": "Researchers at The Hong Kong Polytechnic University (PolyU) have developed an imaging biomarker, the Tumour Heterogeneity Index (THI), which enables noninvasive assessment of breast cancer patients' response to AKT inhibitors before treatment, helping clinicians identify patients most likely to benefit from therapy. The study found that patients with a high THI achieved an estimated pathological complete response (pCR) rate of 56.1%, significantly higher than that of patients with a low THI. The technology could help patients receive the most appropriate treatment at an earlier stage, reduce unnecessary side effects and enable clinicians to better tailor treatment strategies to individual patients.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T22:00:10+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116164+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/polyu-develops-tumour.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "29fcf81fabb3",
+  "titulo": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+  "resumo": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the Middle East, rather than East Africa, may have been the cradle of modern ape evolution.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-01T10:32:46+00:00",
+  "coletado_em": "2026-11-02T07:37:21.117010+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "30c0046d9d00",
+  "titulo": "Veja quanto custa importar um carro antigo dos EUA para o Brasil",
+  "url": "https://canaltech.com.br/carros/veja-quanto-custa-importar-um-carro-antigo-dos-eua-para-o-brasil/",
+  "resumo": "Importar um carro antigo dos Estados Unidos pode ser o caminho para encontrar uma versão rara ou um modelo difícil de achar no mercado brasileiro . Mas o preço anunciado no exterior está longe de representar o valor necessário para colocar o veículo na garagem. Uma simulação dos amigos do Flatout com um clássico comprado por US$ 10 mil mostra como frete, tributos e despesas operacionais elevam a conta. Mesmo com o compartilhamento de um container com outro veículo, o custo final estimado chega a US$ 27.470 , antes de eventuais ajustes tributários. Além do dinheiro, o processo exige paciência . A importação de um veículo antigo envolve autorizações, documentação específica, fiscalização aduaneira e procedimentos para liberar o emplacamento. Em uma experiência real com dois carros, todas as etapas levaram cerca de seis meses . Quanto custa trazer um carro de US$ 10 mil para o Brasil? Na simulação, o veículo custa US$ 10 mil e recebe o rateio de US$ 1 mil do frete marítimo , considerando o transporte compartilhado com outro automóvel. Assim, o valor aduaneiro usado como referência para os tributos chega a US$ 11 mil, sem considerar um eventual custo adicional de seguro. Os impostos re",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T12:03:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/LHvHFj2md44ViTZG2Ag6RH5tnBw=/0x0/filters:format(webp):quality(85)/d3b672bb-fb3b-478a-8ff1-01ce45d0388b.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "33c086ca1438",
+  "titulo": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+  "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+  "resumo": "Data centers are deeply unpopular. But what if we called them something else?",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T21:55:23+00:00",
+  "coletado_em": "2026-11-02T07:37:21.125436+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "34cf31740247",
+  "titulo": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
+  "url": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
+  "resumo": "Nintendo's sci-fi shooter franchise is in dire straits, but we've got the solution to Samus's problems.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T17:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120787+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/FvcvGPhkRB6yaLphJfaVgA-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "355c705a3a2b",
+  "titulo": "Chevrolet derruba preço do Spark para voltar a incomodar BYD Dolphin",
+  "url": "https://canaltech.com.br/carros/chevrolet-derruba-preco-do-spark-para-voltar-a-incomodar-byd-dolphin/",
+  "resumo": "O Chevrolet Spark EUV chegou a flertar com as primeiras posições do ranking de carros elétricos mais vendidos do Brasil quando foi lançado por aqui, mas, ultimamente, se afastou da disputa , agora restrita a modelos chineses, como BYD Dolphin, Dolphin Mini e Geely EX2. Para voltar à briga pelos lugares mais altos, a GM resolveu agir e derrubar o preço do SUV . A estratégia é atrair consumidores que procuram um carro elétrico para a rotina urbana sem ultrapassar a faixa dos R$ 150 mil. Essa, aliás, é a \"receita do sucesso\" dos rivais asiáticos, cada vez mais consolidados por aqui. Com o abatimento, o Spark EUV passa a custar R$ 146.990 , ante os R$ 152.790 cobrados anteriormente. O BYD Dolphin GS , versão de entrada do hatch, tem preço de tabela de R$ 149.990 , uma diferença de R$ 3.000 a favor do modelo da Chevrolet. A promoção vale até 3 de novembro de 2026 , para unidades ano/modelo 2026/2027 na cor Branco Cupuaçu e pagamento à vista, conforme a disponibilidade nas concessionárias. A condição não contempla vendas diretas, taxistas ou produtores rurais, e o comprador não precisa entregar um usado na troca. Como é o desempenho e a autonomia do Chevrolet Spark EUV? O Spark EUV tem m",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "astrofisica",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-31T22:01:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/dx0cCrgz5gaN5Y326S8CRV9wFDc=/0x0/filters:format(webp):quality(85)/cf2804c6-2f22-4d25-9b66-840eb46dc92b.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "3604bfbf152b",
+  "titulo": "NASA hopes the commercial space industry can help save Hubble",
+  "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+  "resumo": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T21:09:21+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "370354f1b846",
+  "titulo": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+  "resumo": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T21:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/SwXoTJq5pcxA7urt6ryrQZ-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "381c87312bf6",
+  "titulo": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
+  "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+  "resumo": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T14:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/u2vby2U8BuWxjdFzkUxZg9-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "3d1238c18443",
+  "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+  "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+  "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "3d5420691f74",
+  "titulo": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
+  "url": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/",
+  "resumo": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever. The post Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime appeared first on The Robot Report .",
+  "fonte": "The Robot Report",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "robotica"
+  ],
+  "publicado": "2026-11-01T13:00:31+00:00",
+  "coletado_em": "2026-11-02T07:37:21.117920+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "41375b48c8a3",
+  "titulo": "Vision-language AI agent could help radiologists interpret ultrasounds faster and more accurately",
+  "url": "https://medicalxpress.com/news/2026-10-vision-language-ai-agent-radiologists.html",
+  "resumo": "When a patient arrives in the emergency department with severe abdominal pain, every minute counts. Researchers at the University of Colorado Anschutz School of Medicine are investigating ways to streamline the work of radiologists and make it more efficient. They also aim to quickly identify patients who may need urgent surgery and speed up the path to treatment.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T17:00:01+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116164+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/radiologists.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "467817d1044a",
+  "titulo": "5 bright planets to spot in November — when and where to see them",
+  "url": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
+  "resumo": "From a close encounter between Mars and Jupiter to dazzling Venus and elusive Mercury, November offers plenty of planetary highlights. Here's when and where to look.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T11:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120787+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/CaLcuNHjtvqog4vsZwxdB6-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "48de9f69e9f1",
+  "titulo": "Winds of change: Laos looks up for renewables push",
+  "url": "https://techxplore.com/news/2026-11-laos-renewables.html",
+  "resumo": "Rising from verdant ridgelines of southern Laos, 133 Chinese-built wind turbines help power Vietnam's surging growth and represent part of a regional rush to diversify energy sources.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "energia_materiais"
+  ],
+  "publicado": "2026-11-01T19:30:02+00:00",
+  "coletado_em": "2026-11-02T07:37:21.126096+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-700-million-monsoo.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "4fdda3bf638c",
+  "titulo": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
+  "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html",
+  "resumo": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is published in the journal Proceedings of the National Academy of Sciences.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-31T21:00:05+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116756+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/viruses-as-master-buil.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "54c3a5ab0ef5",
+  "titulo": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
+  "url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+  "resumo": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T15:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/9739tEjY7imERJsLeBjqZG-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "54cd4330f433",
+  "titulo": "Europe and Canada team up in AI computing alliance that doesn't depend on Washington",
+  "url": "https://www.techspot.com/news/114396-europe-canada-team-up-ai-computing-alliance-doesnt.html",
+  "resumo": "European Commission President Ursula von der Leyen recently confirmed that Canada is joining Europe's network of supercomputers, which is run by the EuroHPC Joint Undertaking. Canada will become an active part of the public-private network of high-performance computing (HPC) systems, and both sides should gain something from the arrangement, at... Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T11:39:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.123482+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-30-ts3_thumbs-a49.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5668dc8e86c7",
+  "titulo": "Deep learning model using ECGs during sleep studies can predict cardiovascular outcomes",
+  "url": "https://www.nih.gov/news-events/news-releases/deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes",
+  "resumo": "Integrating ECGs into sleep disorder screening could enhance detection and guide clinical decision-making.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "583ed56afa8f",
+  "titulo": "Best PC computer deals: Top picks from desktops to all-in-ones",
+  "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
+  "resumo": "At a glance Top gaming desktop computer deals ABS Cyclone Aqua —$965 (20% off on Walmart) MSI Codex Z2C —$1,279 (20% off at Walmart) CyberPowerPC Gamer Master —$1,180 (13% off at Best Buy) Top mini PC deals Bosgame E5 —$230 (36% off on Amazon) Glorlin AI Mini PC —$629 (10% off on Amazon with coupon) Kamrui P2 —$649 (30% off on Amazon) Top all-in-one desktop computer deals Lenovo IdeaCentre 24 AiO —$800 (38% off on Amazon) HP OmniStudio 24 —$700 (36% off on Amazon) Lenovo Yoga AIO 27 —$1,400 (29% off on Lenovo) Whether you’re looking for a productivity desktop, a gaming PC powerhouse, or a stylish all-in-one Windows machine, we’ve got you covered. The team at PCWorld continually sorts through all of the daily computer sales and puts together a curated list of the best deals available. But not all deals are really deals, so we only choose those offered by reputable companies and that include great hardware to ensure you get the best value for your money. We’ve also included some helpful answers to common questions about buying a computer at the bottom of this article. If you’re considering a laptop instead, be sure to check out our best laptop deals . Which kind of desktop PC should ",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T22:25:46+00:00",
+  "coletado_em": "2026-11-02T07:37:21.121987+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/813362-0-76838700-1793571955-pcw-desktoppc-prime-1.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "594f44f4d349",
+  "titulo": "Guarding the Gates of Knowledge",
+  "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+  "resumo": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion. Remember the good old days of GPT-3 when we could ask the chatbot anything and it would almost instantly and very confidently spit back a plausible but false answer? That’s when the word “hallucination” as applied to AI answers entered the lexicon. Six years and several versions of a few different chatbots later, I still can’t trust the answers I get, even though Claude or Gemini often do useful work for me. That’s the thing about current AI: Trust but verify. And verify you must. Apply that maxim at scale to maintain the integrity of the scientific record and you get an idea of the challenge facing publishers of peer-reviewed scholarship. In “ I Used AI to Fake a Scientific Paper ,” freelance writer and doctor of applied mathematics Benjamin Skuse tells the story of the human gatekeepers trying to beat back the rising ti",
+  "fonte": "IEEE Spectrum",
+  "peso_fonte": 0.95,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T14:00:01+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124794+00:00",
+  "imagem_feed": "https://spectrum.ieee.org/media-library/stacked-orange-documents-over-abstract-black-circuit-board-pattern.jpg?id=68537695&width=980",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5c5502d97d0c",
+  "titulo": "Flock keeps ignoring requests to cancel its contracts",
+  "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+  "resumo": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T19:58:02+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "5dbf1a0af8ff",
+  "titulo": "From Italy to Croatia, a warming climate threatens prized white truffles",
+  "url": "https://phys.org/news/2026-11-italy-croatia-climate-threatens-prized.html",
+  "resumo": "Guided by the beam of a flashlight, Tino Marolo follows his dog Stella through the darkness of a Piedmont woodland, searching for one of Italy's most prized culinary treasures hidden beneath the soil.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-01T19:03:58+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116756+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/italy-truffles-climate.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "637fb7f8f7b5",
+  "titulo": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+  "resumo": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T15:05:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/L2TSrQuGFDhmVGdBfr2ytV-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "65b36c660245",
+  "titulo": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+  "resumo": "Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-01T02:44:28+00:00",
+  "coletado_em": "2026-11-02T07:37:21.117010+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "679239087b96",
+  "titulo": "NIH launches new PubMed tool to strengthen research replication and reproducibility",
+  "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-pubmed-tool-strengthen-research-replication-reproducibility",
+  "resumo": "Linked Discoveries is an experimental tool to help scientists see how individual research findings relate to the larger body of biomedical evidence.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "691dfa44ca49",
+  "titulo": "Get in the spooky spirit with these horrors from YouTube",
+  "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+  "resumo": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-10-31T21:06:58+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "6b8482387261",
+  "titulo": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
+  "url": "https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "Cloudflare has moved a post-quantum rebuild of GeoKey Manager into closed beta, guarding geo-fenced keys with hybrid ML-KEM-768 and X25519 instead of the attribute-based encryption used since 2022. Keys live only in kernel memory on verified regional servers, and any failed check rejects the request, a fail-closed choice practitioners ask could cause a regional outage. GA is planned for Q1 2027. By Steef-Jan Wiggers",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-31T19:56:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.118331+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/10/cf-pq-geokey-manager/en/headerimage/generatedHeaderImage-1793376907936.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "6cb9345657cc",
+  "titulo": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
+  "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
+  "resumo": "Satellites are watching fireballs blaze through Earth's atmosphere, strengthening planetary defense knowhow and helping scientists learn more about space debris impacts.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T15:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120787+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/drwYrYiYJJqmLo4dZ34YaM-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "6e2b5278fe29",
+  "titulo": "Sam Altman diz que RAM deveria ficar em data centers, não nos PCs dos usuários",
+  "url": "https://olhardigital.com.br/2026/11/01/pro/sam-altman-diz-que-ram-deveria-ficar-em-data-centers-nao-nos-pcs-dos-usuarios/",
+  "resumo": "Altman criticou especialmente a ideia de que modelos de IA de código aberto, executados diretamente nos computadores dos usuários, poderiam reduzir necessidade de grandes centros de processamento O post Sam Altman diz que RAM deveria ficar em data centers, não nos PCs dos usuários apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "software",
+   "computadores_pessoais",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T15:21:36+00:00",
+  "coletado_em": "2026-11-02T07:37:21.126518+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "6eddc6dd2065",
+  "titulo": "SUV híbrido da BYD fica \"no precinho\" e é ótima opção entre usados",
+  "url": "https://canaltech.com.br/carros/suv-hibrido-da-byd-fica-no-precinho-e-e-otima-opcao-entre-usados/",
+  "resumo": "Comprar um SUV híbrido zero-quilômetro pode pesar bastante no bolso, mas o mercado de usados e seminovos oferece alternativas mais acessíveis para quem quer entrar nesse segmento. Um exemplo é o BYD Song Plus 2023 , que perdeu uma fatia considerável do valor desde que chegou ao Brasil e hoje aparece como uma opção para quem procura eletrificação sem pagar preço de lançamento. Lançado por R$ 269.990 , o modelo tem preço de referência de R$ 157.049 na tabela Fipe de outubro de 2026. A diferença chega a R$ 112.941 , equivalente a uma queda de aproximadamente 41,8% em relação ao valor original. A desvalorização torna o SUV mais competitivo entre os seminovos , mas o preço não deve ser o único critério de compra. Histórico de manutenção, estado da bateria, funcionamento do sistema híbrido e cumprimento das revisões também precisam entrar na conta antes de fechar negócio. Quanto custa o BYD Song Plus usado e o que avaliar? A queda de preço chama a atenção principalmente porque o Song Plus é um híbrido plug-in , ou seja, pode ter a bateria recarregada na tomada e rodar em modo totalmente elétrico por determinados trajetos. A desvalorização acumulada também reflete a dinâmica do mercado de",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "inteligencia_artificial",
+   "energia_materiais"
+  ],
+  "publicado": "2026-10-31T20:03:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/3aTRnJPFqcTIrJL2Nj6CTKEBy88=/0x0/filters:format(webp):quality(85)/c86afeb4-801b-4bc3-b305-9716ec442cda.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "70f6ce51c42b",
+  "titulo": "6 melhores filmes de terror sobrenatural para assistir na Netflix",
+  "url": "https://canaltech.com.br/entretenimento/netflix-melhores-filmes-terror-sobrenatural-assistir/",
+  "resumo": "Se você já acordou de madrugada com a sensação de estar sendo observado, deve ser o tipo de pessoa que sente a espinha gelar com filmes de terror sobrenatural . Subgênero responsável por traumatizar muita gente, o formato aposta em espíritos vingativos, possessões demoníacas e entidades para arrancar emoções extremas do público, e a Netflix está recheada de longas do tipo. Tem de tudo um pouco: programas de TV interrompidos por presenças demoníacas, tabuleiros ouijas e espíritos sanguinários em busca de destruição. São histórias que exigem estômago forte para aguentar a tensão por trás de algo completamente desconhecido. Melhores filmes de terror sobrenatural para assistir na Netflix Para quem não tem medo de ser perturbado pela presença de um encosto ou de uma entidade que se esconde nas sombras, a gigante do streaming tem vários filmes disponíveis em seu catálogo que mergulham no terror de outro mundo. Mas quais realmente valem a pena ser assistidos? O Canaltech fez uma curadoria especial com 6 filmes de terror sobrenatural para assistir na Netflix . Confira a seguir. 1. Entrevista com o Demônio (2023) Estrelado por David Dastmalchian, Entrevista com o Demônio se passa durante a ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "medicina",
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T21:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7415269ba351",
+  "titulo": "Testamos a bateria do Motorola Razr Fold; veja quanto tempo ela dura",
+  "url": "https://canaltech.com.br/smartphone/testamos-a-bateria-do-motorola-razr-fold-veja-quanto-tempo-ela-dura/",
+  "resumo": "O Motorola Razr Fold mostrou que um celular dobrável também pode oferecer uma boa duração de bateria . Nos testes do Canaltech, o aparelho conseguiu passar mais de um dia longe da tomada e ainda terminou o período com 15% de bateria. Já no teste controlado, o consumo foi de apenas 20% após quatro horas de reprodução de vídeos. Os resultados mostram que a bateria é um dos pontos fortes do Razr Fold. Mesmo com uso frequente de redes sociais, aplicativos de mensagens e outras atividades ao longo do dia, o celular não exigiu recargas antes de chegar em casa. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Quanto tempo dura a bateria do Motorola Razr Fold? Para avaliar a autonomia do Razr Fold, realizamos dois tipos de testes. O primeiro é nosso teste padrão, e consiste na reprodução de vídeos no YouTube durante quatro horas. Já o segundo considera o uso real no dia-a-dia, com aplicativos de redes sociais, mensagens, música e outras tarefas. Nesse cenário, acompanhamos o consumo durante vários dias para entender quanto tempo o dobrável consegue permanecer longe da tomada. No teste controlado, o Motorola Razr Fold consumiu apenas 20% da bateria em quatro horas de repr",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "energia_materiais"
+  ],
+  "publicado": "2026-11-01T19:30:10+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/uawwGtHph1sqYK-A4LR4YsFrUek=/0x0/filters:format(webp):quality(85)/099bb912-6d82-4a62-9bc2-6da4d9006596.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "74c533c69e8f",
+  "titulo": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+  "url": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "Amazon CEO Andy Jassy says AWS’s large committed cloud capacity is largely sold out through 2027, with part of 2028 already allocated, while the company continues to reserve headroom for On Demand, EC2 and Bedrock. Practitioners discussing the remarks report difficulty obtaining On Demand capacity for ordinary EC2 instances, and similar constraints at other providers. By Steef-Jan Wiggers",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-11-01T08:03:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.118331+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/11/aws-capacity-sold-out/en/headerimage/generatedHeaderImage-1793124716899.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "75a3395ac59c",
+  "titulo": "Até onde as empresas vão para treinar suas IAs",
+  "url": "https://canaltech.com.br/inteligencia-artificial/ate-onde-as-empresas-vao-para-treinar-suas-ias/",
+  "resumo": "O treinamento de Inteligência Artificial (IA) é o processo que faz com que sistemas computacionais aprendam a executar tarefas, reconhecer padrões e interagir com pessoas . Para funcionar, modelos, como ChatGPT e Gemini, precisam processar grandes volumes de dados, incluindo textos, imagens, vídeos e códigos. Esse processo é essencial para melhorar a precisão, a segurança e a utilidade das ferramentas. O problema é que a quantidade de dados de qualidade disponível não acompanha o ritmo de crescimento dos modelos. Com isso, empresas de tecnologia começaram a buscar novas formas de obter informações para alimentar seus sistemas. Por trás da evolução da IA existe uma cadeia que envolve desde a coleta de conteúdo na internet até o trabalho de pessoas responsáveis por avaliar respostas, classificar imagens e ensinar máquinas a interagir com o mundo físico. Em alguns casos, essas práticas levantam questões sobre direitos autorais, privacidade e condições de trabalho . Diante disso, fica a dúvida: até onde as empresas estão dispostas a ir para treinar suas IAs? A seguir, tire suas dúvidas sobre: Como as empresas de tecnologia treinam suas IAs? Até onde as empresas de IA vão para treinar s",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "biologia",
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T19:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/Za3PC-mEctSBJQ8k5TW1YTUhVLU=/0x0/filters:format(webp):quality(85)/3f2b9dbf-5e06-4ded-9279-c8a2152ca3bf.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "75a6b776b7a0",
+  "titulo": "Scientists say a forgotten particle may explain why the universe exists",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+  "resumo": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos’s deepest mysteries.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "astrofisica",
+   "energia_materiais"
+  ],
+  "publicado": "2026-11-01T04:33:36+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120547+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "783aac23a962",
+  "titulo": "The solar system may have a sixth dwarf planet, hidden against the Milky Way",
+  "url": "https://www.techspot.com/news/114401-astronomers-may-have-discovered-our-solar-system-sixth.html",
+  "resumo": "For now, the object announced by the Vera C. Rubin Observatory team earlier this week only goes by its provisional designation, 2026 ED138. It currently sits about 46 astronomical units from the Sun. Pluto, by comparison, averages around 40. Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T13:16:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.123482+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-31-ts3_thumbs-c64.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7e4fb2c5366e",
+  "titulo": "Why physical AI is the next lucrative frontier",
+  "url": "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier/",
+  "resumo": "To prove its commercial value, physical AI must get past funding enthusiasm and move into production environments. The post Why physical AI is the next lucrative frontier appeared first on The Robot Report .",
+  "fonte": "The Robot Report",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "robotica"
+  ],
+  "publicado": "2026-11-01T13:30:41+00:00",
+  "coletado_em": "2026-11-02T07:37:21.117920+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "82aef178822d",
+  "titulo": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
+  "resumo": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused ultrasound, tiny nanoparticles, and genetic molecules called microRNAs to attack multiple cancer-driving genes simultaneously.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T10:49:13+00:00",
+  "coletado_em": "2026-11-02T07:37:21.115781+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "83467c021358",
+  "titulo": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
+  "url": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
+  "resumo": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T11:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/UQC6eZ62JYDJPkHmTgxcRG-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "851e9f4cbf53",
+  "titulo": "Microsoft prepara \"arma secreta\" para receber GTA 6 no XBOX Series",
+  "url": "https://canaltech.com.br/games/arma-secreta-xbox-series-lancamento-gta-6/",
+  "resumo": "O lançamento de GTA 6 está cada vez mais próximo. O PlayStation 5, uma das plataformas de lançamento do jogo, não tem só uma vantagem em unidades vendidas, como também uma parceria de marketing com a Rockstar Games que o deixa alguns quilômetros à frente do rival XBOX Series. Prova disso é que dados da Sensor Tower mostram a vantagem gigantesca do console da Sony em relação ao console da Microsoft na pré-venda de GTA 6 . Somado a isso, o trailer final do jogo cravou que “a melhor experiência é no PS5” . No entanto, o que ninguém esperava era que o XBOX prepararia uma \"arma secreta\" para receber o grande jogo da Rockstar. Em outubro, a marca anunciou que os consoles e dispositivos XBOX ganhariam upscaling com IA da AMD para disputar com o PlayStation e a Nintendo . Trata-se do FSR 4.1, que promete ganhos gráficos e de performance via Inteligência Artificial e estará disponível no XBOX Series e nos modelos ROG XBOX Ally X e X25. Será que a divisão de games do XBOX terá alguma vantagem no lançamento de GTA 6 ? GTA 6 pode rodar bem no XBOX Series S GTA 6 chegará ao PlayStation 5 e ao XBOX Series em 19 de novembro de 2026 . Desde o anúncio do jogo e das plataformas, muitos jogadores se ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "astrofisica",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T13:30:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/9kTHY0IQY4pEzGmv8rGCht-vdlQ=/0x0/filters:format(webp):quality(85)/961c1963-ce15-4a0e-8907-751066694c69.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "851f37284a60",
+  "titulo": "Como fazer pretinho para pneu em casa sem danificar a borracha",
+  "url": "https://canaltech.com.br/carros/como-fazer-pretinho-para-pneu-em-casa-sem-danificar-a-borracha/",
+  "resumo": "Deixar os pneus com aparência de novos é um dos detalhes que fazem diferença depois de lavar o carro. O chamado pretinho ajuda a dar um acabamento mais escuro às laterais, mas nem sempre é necessário gastar muito para manter a borracha limpa e com boa aparência. Na internet, existem diversas receitas de pretinho caseiro para pneus , feitas com ingredientes que muita gente já tem em casa. O problema é que algumas misturas podem deixar resíduos ou prejudicar a borracha, principalmente quando são usadas com frequência. Antes de preparar qualquer solução, vale entender o que realmente funciona e quais cuidados ajudam a evitar danos. Afinal, o objetivo é melhorar a aparência do carro sem comprometer a conservação dos pneus ou criar riscos durante a condução. Como fazer pretinho para pneu em casa? Uma das receitas caseiras mais conhecidas leva glicerina líquida . Para prepará-la, misture 100 ml de glicerina , 100 ml de álcool 70% e 100 ml de água em um recipiente até obter uma solução homogênea. Outra opção é a receita com cola branca . Nesse caso, misture metade da água (50 ml) com o açúcar e mantenha reservado . Em outro recipiente, mistura o restante da água com a cola branca. Junte t",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T16:05:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/4K2pc1uDuj_ElIDiWZ-IRL1R_4g=/0x0/filters:format(webp):quality(85)/5f9167a8-9d1c-4386-a34a-25ab84a83fc7.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "858d08893264",
+  "titulo": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+  "resumo": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T12:33:13+00:00",
+  "coletado_em": "2026-11-02T07:37:21.115781+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "89c6cb6d2971",
+  "titulo": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "resumo": "Apple's new CEO defended the company's current position in the AI landscape.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-31T21:41:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.125436+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "8b5a8c6171df",
+  "titulo": "California county deploys autonomous firefighting drones with 500-gallon foam payload to attack wildfires",
+  "url": "https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
+  "resumo": "These Seneca drones should help the San Bernardino County Fire Protection District achieve its goal of stopping 90% of fires before they grow larger than 10 square feet.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T12:30:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/X6nZ8riTpUijbWZijrA5kd-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "8d3e1a252e4c",
+  "titulo": "Clot removal days after a stroke could help more patients recover, but the procedure is not without risks",
+  "url": "https://medicalxpress.com/news/2026-10-clot-days-patients-recover-procedure.html",
+  "resumo": "After a person suffers a stroke, the clock starts ticking for doctors. Every minute that blood flow to the brain remains blocked, more brain tissue risks permanent damage or death. One way to restore circulation is through endovascular thrombectomy, a minimally invasive procedure that can physically remove the clot, restore blood flow and significantly reduce the risk of long-term disability or death. Such mechanical thrombectomy procedures are a standard emergency treatment within the first 24 hours of an acute ischemic stroke.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T14:40:01+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116164+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/clot-removal-days-afte.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "8efc4c266dc3",
+  "titulo": "Game Off 2026: The theme is SHIFT",
+  "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+  "resumo": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+  "fonte": "GitHub Blog",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-11-01T21:36:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.118250+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "8f18e0d1867d",
+  "titulo": "Review Dell XPS 14 2026 | Ultrabook potente que consegue ficar longe da tomada",
+  "url": "https://canaltech.com.br/notebook/review-dell-xps-14-2026/",
+  "resumo": "A linha de notebooks XPS da Dell se encaixa no segmento premium, com modelos equipados com hardware de ponta, além de uma construção de qualidade. Vi isso no modelo de 13 polegadas do ano passado, mas a versão de 14 polegadas lançada em 2026 estabelece um novo nível nesses dois aspectos . Eu sempre digo que acho a linha ASUS Zenbook sensacional: notebooks super leves e potentes, seja com chip Arm ou com CPU x86 , mas a Dell agora promete dar dor de cabeça à rival com ajustes significativos feitos ao novo XPS em comparação ao modelo de 2025. Prós Novo design elegante Hardware de ponta Teclado e touchpad melhorados Bateria de longa duração Tela OLED de muita qualidade Alto-falantes de muita qualidade Contras Preço exorbitante Mesmo com mais conexões, USB-A faz falta Design e construção O Dell XPS de 2025 era bonito, bem discreto e chamava a atenção por isso, principalmente na versão de polegadas por ser bem pequeno. Neste ano, o XPS volta com mudanças significativas no design geral e na sua construção, algo que me agradou bastante . Essa versão chega na cor grafite, que deixa o notebook ainda mais elegante. Embora também use alumínio usinado, o XPS 14 de 2026 tem um acabamento melhor",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "computadores_pessoais",
+   "inteligencia_artificial",
+   "energia_materiais"
+  ],
+  "publicado": "2026-11-01T23:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/UlilwlR6BsMVhA1In_w4Bjhb8n4=/0x0/filters:format(webp):quality(85)/d7a25e2f-9e1c-4377-ac6d-4bea6967c61f.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "8f7e0709d34e",
+  "titulo": "AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+  "resumo": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T12:33:52+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/SCYhnjqyKUaWNuCxFpW8m9-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "8fc64d263011",
+  "titulo": "Turn your iPad into a piano teacher with this $30 app",
+  "url": "https://www.pcworld.com/article/3272631/turn-your-ipad-into-a-piano-teacher-with-this-30-app.html",
+  "resumo": "TL;DR: Learn piano from more than 1,000 classical pieces with a 1-year flowkey Classic Plan , now $29.97 (reg. $189). Private piano lessons lock you into a weekly time slot and a recurring bill. If you’d rather learn on your own schedule, try flowkey . A one-year subscription to its Classic Plan is only $29.97 (reg. $189) right now. flowkey listens through your device’s microphone or a MIDI connection and flags wrong notes as you play. Wait Mode holds the lesson in place until you hit the right keys, so beginners set the speed instead of chasing it. When a passage gets hard, slow motion, looping, and one-hand practice break it into pieces you can manage. Expert pianist videos play alongside synced sheet music, so you see the fingering and the notes at the same time. Classic Plan subscribers get more than 1,000 classical and public-domain songs from composers like Bach, Chopin, Beethoven, and Debussy. Each one is arranged for Beginner, Intermediate, Advanced, and Pro levels, and courses on reading sheet music, chords, rhythm, and playing with both hands come included. Returning players who took lessons as kids can start at a higher level and use those courses to rebuild the fundamen",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T08:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.121987+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3272631-0-00465100-1793520014-flowkey_783491.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "932b6555015b",
+  "titulo": "PlayStation 5 ou PlayStation 5 Pro: qual comprar na Black Friday 2026?",
+  "url": "https://canaltech.com.br/games/playstation-5-ou-playstation-5-pro-qual-comprar-black-friday-2026/",
+  "resumo": "Muitos esperam pela Black Friday para comprar o tão sonhado videogame. Enquanto o PlayStation 5 continua a ser o objetivo de muitos, alguns acreditam que vale a pena separar um dinheiro a mais para comprar o PS5 Pro . Seja para jogar Marvel’s Wolverine ou Control Resonant , seja para se preparar para GTA 6 , o importante é saber qual console mais vale à pena comprar na promoção mais disputada do ano. Um dos líderes do mercado e sonho de consumo de muita gente, o PlayStation 5 se destaca desde o seu lançamento em 2020 e apresenta grandes jogos como Astro Bot , Elden Ring , Marvel’s Spider-Man 2 e outros que merecem atenção. E uma pergunta recorrente na cabeça de quem escolhe o console da Sony é: entre o PS5 e o PS5 Pro, qual comprar na Black Friday 2026? Vale mais a pena economizar ou adquirir o hardware de maior desempenho? PlayStation 5 ainda “dá um caldo” O modelo base do PlayStation 5 pode ser o comum nos dias atuais, mas mantém seu padrão de qualidade muito bem. Entre exclusivos e títulos multiplataforma, ele consegue render bastante para quem não se importa em atingir gráficos superiores a 4K ou taxa de quadro maior do que 30 FPS. Ainda assim, ele consegue rodar perfeitamente ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T18:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/uEDnAHJJGHCzz-chf3jB00h992I=/0x0/filters:format(webp):quality(85)/59fd6259-0817-4ab3-9005-a26ee45b71a1.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "94b8eecb6285",
+  "titulo": "12 vantagens e desvantagens de fazer root no Android",
+  "url": "https://canaltech.com.br/apps/vantagens-e-desvantagens-root-no-android/",
+  "resumo": "Fazer root no Android é uma forma de ter mais controle sobre o celular . Com o procedimento, dá para remover aplicativos que vêm instalados de fábrica, personalizar a interface, instalar versões alternativas do sistema e até ajustar o desempenho do aparelho. Mas essa liberdade tem um preço: o root também pode abrir brechas de segurança, causar problemas no funcionamento do celular e bloquear o acesso a aplicativos bancários. Isso acontece porque o root libera permissões de administrador , também chamadas de acesso de superusuário. Como o Android é baseado no Linux, o sistema mantém arquivos e configurações protegidos para evitar alterações que possam comprometer o aparelho. Ao fazer root, você ganha acesso a essas áreas e pode modificar partes do sistema que normalmente ficam fora do alcance do usuário comum. A seguir, confira: Quais são as vantagens de fazer root no Android? Quais são as desvantagens de fazer root no Android? Vale a pena fazer root no Android? Quais são as vantagens de fazer root no Android? Veja as principais vantagens de fazer root no Android : Personalização do sistema Remoção de aplicativos pré-instalados Instalação de ROMs customizadas Controle de desempenho ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T17:30:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/UIlJpm4QwnL3MamZdBWBL2DAW3U=/0x0/filters:format(webp):quality(85)/b5481344-2e66-4646-a421-ca72494cb652.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9578d66fd522",
+  "titulo": "Looking for bats after dark can help science—and change how we see them",
+  "url": "https://phys.org/news/2026-10-dark-science.html",
+  "resumo": "What's that chirping sound coming through the detector? Did you feel something whiz past? Those are just some ways people react when they encounter microbats for the first time. Microbats are small, mostly nocturnal mammals that use ultrasonic sounds to navigate and hunt at night. They do this through echolocation, producing calls and listening to the echoes that bounce back from objects and prey.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-10-31T22:30:01+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116756+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-for-bats-after.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9745b1c96c1d",
+  "titulo": "Drinking tea may help protect your heart, but there’s a surprising catch",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
+  "resumo": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea showing more consistent benefits than green tea.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T11:29:04+00:00",
+  "coletado_em": "2026-11-02T07:37:21.115781+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "98f95b34d44e",
+  "titulo": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
+  "resumo": "Lenovo’s ThinkPlus FU100 fingerprint USB drive held an unencrypted SD card, and Codex found fixed keys in other ‘secure’ USB products.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T13:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/m5tLgsKmfPcc5fZ3Ygd8Wc-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "997175ab9528",
+  "titulo": "NIH announces record number of grants to support early career investigators, launches new recruitment initiative for intramural research",
+  "url": "https://www.nih.gov/news-events/news-releases/nih-announces-record-number-grants-support-early-career-investigators-launches-new-recruitment-initiative-intramural-research",
+  "resumo": "NIH highlights actions to strengthen American biomedical science at White House Science: A New Golden Age Summit.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9bf5871ddb73",
+  "titulo": "HomePod Mini 2 first look: Three things I love and one disappointment",
+  "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+  "resumo": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T14:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9c653146c160",
+  "titulo": "Som de fita VHS e internet discada: sites resgatam barulhos de tecnologias antigas",
+  "url": "https://canaltech.com.br/internet-e-redes-sociais/som-de-fita-vhs-e-internet-discada-sites-resgatam-barulhos-de-tecnologias-antigas/",
+  "resumo": "Alguns sons fazem parte da história das tecnologias do passado: a conexão de um modem com a internet discada, o rebobinar de uma fita, o chiado na caixa de som antes de receber uma ligação e por aí vai. Por isso, alguns museus digitais fazem questão de preservar esses áudios . Enquanto sites como o Web Design Museum e o Internet Archive focam em armazenar versões antigas de sites e softwares, existem plataformas que registram o som dos hardwares, como o Conserve The Sound e o BigSoundBank . Os áudios têm o apelo da nostalgia e também podem ser usados para refletir sobre como a tecnologia evoluiu com o tempo. Botões físicos deram espaço para o toque na tela , enquanto um leitor de CD perdeu protagonismo para mídias digitais (basta olhar para a situação dos consoles ). Como encontrar sons de aparelhos do passado Uma das opções é o Conserve The Sound , da Alemanha. O site está em alemão, mas é possível traduzir pelo navegador. Considerado um “museu online para sons que estão desaparecendo”, o acervo tem a sensação de usar um celular de botão ou ligar uma calculadora antiga, por exemplo. O site ainda tem uma seção de textos para trazer depoimentos de pessoas que usaram os dispositivos.",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-11-01T16:30:02+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/dhgH_t2OQZsQs_eHWG2YEso37AM=/0x0/filters:format(webp):quality(85)/72602534-8767-490b-803a-89479e0b4f58.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9d821f6cb955",
+  "titulo": "Best mini PC deals: Top Intel and AMD picks for performance, gaming, and more",
+  "url": "https://www.pcworld.com/article/2999556/best-mini-pc-deals-top-picks-for-performance-gaming-and-more.html",
+  "resumo": "At a glance Top AMD mini PC deal picks Bosgame E5 —$230 (36% off on Amazon) Glorlin AI Mini PC —$629 (10% off on Amazon with coupon) Getorli Mini PC —$475 (19% off on Amazon with coupon) Top Intel mini PC deal picks Kamrui P2 —$569 (39% off on Amazon) GMKtec K17 —$550 (29% off on Amazon) Bmax B9 Power —$600 (15% off on Amazon) Whether you’re looking for a productivity mini PC, something for gaming, or just a budget-friendly machine with a small footprint, we’ve got you covered. The team at PCWorld continually sorts through all of the daily mini PC sales and puts together a curated list of the best deals available. Finding the right deals can be tricky, however, because there are so many things to consider, from the configuration to the price. Fear not! I’ve been covering mini PC deals for a long time — and PCWorld has tested thousands of PCs over four decades — so let me help you out. I select our favorite deals by thoroughly examining the list of specs, overall design, user feedback, and general value. The RAM, SSD, and CPU all matter significantly in mini PCs, and if you’re not careful, you may select a “bare-bones” rig that makes you bring your own memory and storage. All of the",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T21:37:28+00:00",
+  "coletado_em": "2026-11-02T07:37:21.121987+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/2999556-0-42674800-1793569055-image-2.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9e686c543495",
+  "titulo": "A blood-pressure drug may activate health-promoting brown fat",
+  "url": "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+  "resumo": "Large retrospective study suggests the tissue deters more than cardiovascular disease.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9f5a31fa20f1",
+  "titulo": "APOD: 2026 November 2 – A Long Cloud on Mars",
+  "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+  "resumo": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long […]",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-02T05:05:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120053+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a039243d59c0",
+  "titulo": "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
+  "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+  "resumo": "Wants more local AI, without Big Tech getting open access to everything",
+  "fonte": "The Register",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-11-02T04:39:50+00:00",
+  "coletado_em": "2026-11-02T07:37:21.118623+00:00",
+  "imagem_feed": "https://image.theregister.com/?imageId=259659&width=800",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a3b4042d5f6b",
+  "titulo": "Intel's next budget laptop chip may have no performance cores at all",
+  "url": "https://www.techspot.com/news/114403-intel-next-budget-laptop-chip-may-have-no.html",
+  "resumo": "Intel's current entry-level N-series chips also skip performance cores, and Moon Lake would bring that approach to the company's newer tile-based design. If the leak holds, it would be the next generation of the N-series processors found in many budget machines. Intel has not confirmed the specs. Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T14:57:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.123482+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-31-ts3_thumbs-beb.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a53a40d9d648",
+  "titulo": "A fully playable version of Portal prequel F-Stop leaked",
+  "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+  "resumo": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T16:19:21+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a5dc2b281ad0",
+  "titulo": "Human lung organoids with a built-in immune system could transform respiratory disease research",
+  "url": "https://www.nih.gov/news-events/news-releases/human-lung-organoids-built-immune-system-could-transform-respiratory-disease-research",
+  "resumo": "In NIH-funded study, the models orchestrated adaptive immune responses to viral infection.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a607deded20f",
+  "titulo": "NIH joins effort to build SI-ready data for predictive models of human biology",
+  "url": "https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology",
+  "resumo": "NIH-led Bio Genesis Mission will leverage existing biomedical data resources to accelerate SI-enabled discovery and improve human health.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a80a2b3bacfc",
+  "titulo": "Wall Street aposta trilhões em IA, mas começa a comprar seguro contra colapso",
+  "url": "https://olhardigital.com.br/2026/11/01/pro/wall-street-aposta-trilhoes-em-ia-mas-comeca-a-comprar-seguro-contra-colapso/",
+  "resumo": "Investidores estão recorrendo a opções de venda de ações e contratos de proteção contra calotes para se resguardar de eventual queda O post Wall Street aposta trilhões em IA, mas começa a comprar seguro contra colapso apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T16:39:22+00:00",
+  "coletado_em": "2026-11-02T07:37:21.126518+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a869731ca904",
+  "titulo": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm",
+  "resumo": "Crown-of-thorns starfish are notorious for devouring coral reefs, but surprising new research reveals these spiny predators may actually help reefs thrive when their populations are kept in check. Scientists studying Australia's Great Barrier Reef discovered that nearly 75% of observed starfish feeding events left behind living coral tissue, rather than destroying entire colonies. By feeding on fast-growing, dominant corals, the starfish create opportunities for slower-growing species to survive, potentially increasing coral biodiversity.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-01T11:45:10+00:00",
+  "coletado_em": "2026-11-02T07:37:21.117010+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "a96109bc898a",
+  "titulo": "Snag a Nintendo Switch 2 for only $469 while stock lasts — $30 off a system that's not often on sale",
+  "url": "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale",
+  "resumo": "Snag a Nintendo Switch 2 for only $469 while stocks last — $30 off a system that's not often on sale",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T18:09:28+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ZuJBuVhSqAgkTPiJdGW4me-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ac24dbbcc698",
+  "titulo": "Single blood protein stands out among 30 tests for assessing fatty liver disease",
+  "url": "https://medicalxpress.com/news/2026-10-blood-protein-fatty-liver-disease.html",
+  "resumo": "The reliable assessment of metabolic dysfunction-associated steatotic liver disease (MASLD) is crucial for determining the stage of the disease, initiating appropriate treatments and monitoring the course of therapy. To date, a liver biopsy has often been necessary for this purpose. In this invasive procedure, a tissue sample is taken and examined.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-02T01:30:02+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116164+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-litmus-s.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "b350a75e0d49",
+  "titulo": "Elon Musk says Neuralink's 'BlindSight' is ready to cure blindness",
+  "url": "https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-is-ready-to-cure-blindness-says-blindsight-will-enable-even-those-who-are-completely-blind-or-have-never-seen-to-see",
+  "resumo": "Neuralink's second product, Blindsight, aims to bring sight back for blind patients, with the company \"just waiting on regulatory approval.\"",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T13:30:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4RFbDB3BHoht5b4WeDDvWg-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "b65afbb72bbd",
+  "titulo": "Ciclo rápido ou lavagem normal? Veja qual pode pesar mais na conta de luz",
+  "url": "https://canaltech.com.br/eletro/ciclo-rapido-ou-lavagem-normal-veja-qual-pode-pesar-mais-na-conta-de-luz/",
+  "resumo": "O ciclo rápido é uma das funções mais práticas das máquinas de lavar modernas. Em alguns modelos, é possível lavar roupas em apenas 15 ou 30 minutos, enquanto os programas convencionais podem levar muito mais tempo. Mas será que uma lavagem mais curta também resulta em uma conta de luz menor? A resposta é: não necessariamente. Embora a duração influencie o consumo, fatores como a quantidade de roupas, a temperatura da água e as características de cada programa também fazem diferença. Veja as melhores promoções de eletrodomésticos no WhatsApp do CT Ofertas Em entrevista ao Canaltech, Gabriela Potiens, gerente de produtos de linha branca da Samsung Brasil , explicou como funcionam os ciclos rápidos, se eles exigem mais do motor e quais fatores determinam o gasto de energia. Ciclo rápido realmente consome menos energia? O tempo de funcionamento de uma máquina de lavar não é suficiente para determinar seu consumo de eletricidade. Isso acontece porque diferentes programas podem exigir quantidades distintas de energia, mesmo quando apresentam durações semelhantes. Segundo Gabriela, a quantidade de roupas, as configurações selecionadas e o aquecimento da água são fatores importantes nessa",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T13:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/j-1ekyoVSj6ZOIsYsfxVc3_CiVs=/0x0/filters:format(webp):quality(85)/2f17d43c-0a54-4b7a-a4fa-97db76f8ddd8.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "bac90f15faa0",
+  "titulo": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
+  "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+  "resumo": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T13:55:26+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/jsH4CTh6HEfAjGURKfaJNH-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "bc398a80a0df",
+  "titulo": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+  "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "resumo": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-31T21:17:03+00:00",
+  "coletado_em": "2026-11-02T07:37:21.125436+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c0b470a70ea8",
+  "titulo": "Metrô de SP aposenta bilhete magnético usado há mais de 50 anos; veja como trocar",
+  "url": "https://olhardigital.com.br/2026/11/01/carros-e-tecnologia/metro-de-sp-aposenta-bilhete-magnetico-usado-ha-mais-de-50-anos-veja-como-trocar/",
+  "resumo": "Modelo acompanhava o sistema desde o início das operações, em 1974, e será substituído por alternativas digitais, eletrônicas e por aproximação O post Metrô de SP aposenta bilhete magnético usado há mais de 50 anos; veja como trocar apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T14:28:56+00:00",
+  "coletado_em": "2026-11-02T07:37:21.126518+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c1c8fbc91199",
+  "titulo": "A massive pile of security updates for Saturday",
+  "url": "https://lwn.net/Articles/1104612/",
+  "resumo": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, aspell, bind, bind9.18, container-tools:1.0, container-tools:rhel8, curl, dogtag-pki, ignition, java-21-openjdk, python-pillow, tomcat, and virt:rhel, virt-devel:rhel), Debian (antiword, cyrus-sasl2, dovecot, dpdk, nss, python-git, and thunderbird), Fedora (7zip, aegisub, aom, apptainer, arm-none-eabi-binutils-cs, assimp, avr-binutils, baresip, barman, bind9-next, btrfs-backup-ng, chezmoi, chromium, cifs-utils, clevis-pin-trustee, composer, containerd, curl, docker-buildx, dotnet10.0, evolution, evolution-data-server, evolution-ews, exim, fips-provider, firefox, flare-im, forgejo, freeipa, freerdp, gcc, gegl04, ghostscript, GitPython, glib-networking, gnome-shell-extension-gsconnect, golang-x-mobile, hcloud, helix, httpd, ImageMagick, iperf3, jfrog-cli, jupyterlab, keepassxc, kernel, knot-resolver, krb5, kryoptic, libdigidocpp, libheif, libindi, libinstpatch, libpng12, libpng15, librabbitmq, libre, libXi, libzip, linux-firmware, Lmod, log4net, markdownlint-cli2, mingw-freetype, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, mi",
+  "fonte": "LWN.net",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-10-31T22:34:30+00:00",
+  "coletado_em": "2026-11-02T07:37:21.118885+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c22e5e7d6e81",
+  "titulo": "Jackery made its portable power stations even smaller",
+  "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+  "resumo": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-02T05:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c5084957b565",
+  "titulo": "Vai comprar ar-condicionado na Black Friday? Guia completo para não errar",
+  "url": "https://canaltech.com.br/eletro/vai-comprar-ar-condicionado-na-black-friday-guia-completo-para-nao-errar/",
+  "resumo": "Comprar um ar-condicionado na Black Friday pode ser uma oportunidade para economizar, principalmente com a chegada dos dias mais quentes. Mas encontrar um preço baixo não é suficiente para fazer um bom negócio. A capacidade de refrigeração, o consumo de energia, o tipo de aparelho e os custos de instalação também precisam entrar na conta. Um modelo barato demais pode não dar conta de resfriar o ambiente, enquanto um aparelho potente pode representar um gasto desnecessário se o cômodo for pequeno. Também vale ficar de olho no histórico de preços para descobrir se o desconto anunciado realmente compensa. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Separamos um guia completo para você aprender como escolher o ar-condicionado ideal , quais características merecem atenção e quanto vale a pena pagar por modelos de marcas como Samsung, LG, Midea, Hisense e Elgin durante a Black Friday 2026 . Como escolher a potência ideal do ar-condicionado? O primeiro passo é conferir a capacidade de refrigeração, medida em BTUs por hora (BTU/h). Quanto maior esse número, maior a capacidade do aparelho de retirar calor do ambiente. Porém, isso não significa que o modelo com mais BTUs s",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T14:00:03+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/AK-UA9PYIFvkWqdgJUJNWUPDYpE=/0x0/filters:format(webp):quality(85)/776e12f8-eb49-4807-b757-71b0104005ef.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c9cc05270f1d",
+  "titulo": "Pennsylvania’s Grand Canyon",
+  "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+  "resumo": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-02T05:01:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120053+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "cd191b03653c",
+  "titulo": "An extra year of secondary school lowered dementia diagnoses later in life",
+  "url": "https://www.nih.gov/news-events/news-releases/extra-year-secondary-school-lowered-dementia-diagnoses-later-life",
+  "resumo": "NIH-funded study showed the effect was profound, especially among those at elevated genetic risk.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "cd3bd1b497c0",
+  "titulo": "Prop 45 in California could be hiding a loophole for data centers",
+  "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+  "resumo": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponents […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T13:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "cd722872eb5c",
+  "titulo": "Modified HIV drug reverses vision loss and paralysis in multiple sclerosis model",
+  "url": "https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model",
+  "resumo": "Modified HIV drug reverses vision loss and paralysis in multiple sclerosis model.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ce5a1ca7d489",
+  "titulo": "Lava e seca estraga as roupas mais rápido? Descubra antes de comprar",
+  "url": "https://canaltech.com.br/eletro/lava-e-seca-estraga-as-roupas-mais-rapido-descubra-antes-de-comprar/",
+  "resumo": "As máquinas lava e seca são uma alternativa prática para quem não tem espaço para estender roupas ou quer reduzir o tempo gasto com tarefas domésticas. Mas a conveniência também levanta uma dúvida: o uso frequente da função de secagem pode fazer as peças encolherem, desbotarem ou se desgastarem mais rápido? A resposta é sim, mas isso não significa que toda roupa colocada na lava e seca será danificada. Em entrevista ao Canaltech, Marcia Zile de Abreu Melo, gerente de Qualidade e Processos do Grupo Malwee, fabricante brasileira de roupas , explicou que o impacto depende de fatores como a composição do tecido, a temperatura utilizada e a movimentação das peças dentro do tambor. 📱 Veja as melhores promoções de lava e seca no WhatsApp do CT Ofertas Além disso, o desgaste não se limita ao encolhimento. A secagem em máquina também pode favorecer a formação de bolinhas, a perda de elasticidade e alterações na aparência das roupas. Lava e seca desgasta mais as roupas do que o varal? De acordo com Marcia, o uso frequente da secagem em máquina pode acelerar o desgaste dos tecidos em comparação com a secagem natural. Isso acontece principalmente pela combinação de calor e movimentação mecânic",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T18:30:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/s8DMLhJYqGKUmntb3KlVqwukXAY=/0x0/filters:format(webp):quality(85)/c71da0d6-b4bb-4ac3-aec8-8b6c53ec741e.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "cefcb0bd2478",
+  "titulo": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+  "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+  "resumo": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-10-31T21:36:07+00:00",
+  "coletado_em": "2026-11-02T07:37:21.125436+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d185ea027f86",
+  "titulo": "Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each",
+  "url": "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit",
+  "resumo": "Redditor gets a gaming PC at more than 50% off in a physical Walmart retail store.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T15:53:45+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ppjCSvvoKjjF8kkB4DZLL3-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d25a8b193d36",
+  "titulo": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
+  "url": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "AWS has recently released File Mover Express, an open-source application under the Apache 2.0 license for transferring large files between local systems and Amazon S3. Available for macOS, Windows, and Linux, it supports parallel transfers, automatic performance tuning, retries, pause and resume, and file integrity verification. By Renato Losio",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-11-01T06:32:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.118331+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/11/aws-s3-file-transfer/en/headerimage/generatedHeaderImage-1792218946629.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d2a140ef266a",
+  "titulo": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+  "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+  "resumo": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T14:50:15+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120787+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d2a522f84f01",
+  "titulo": "GOG explores reviving physical PC game releases",
+  "url": "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges",
+  "resumo": "GOG wants to sell physical games, in contrast to consoles going digital-only, giving gamers more freedom over their games. However, it still has to figure out logistics and publisher permissions.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T18:45:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/efpBLUoRowi8SbqrQ66ikN-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d4595724c927",
+  "titulo": "Patients engage with epilepsy monitor in real time, improving seizure detection",
+  "url": "https://www.nih.gov/news-events/news-releases/patients-engage-epilepsy-monitor-real-time-improving-seizure-detection",
+  "resumo": "NIH-funded clinical study shows that conversational SI can facilitate two-way communication.",
+  "fonte": "NIH",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": null,
+  "coletado_em": "2026-11-02T07:37:21.114983+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d47dca67557a",
+  "titulo": "North Korea linked to massive Binance crypto heist",
+  "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+  "resumo": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-01T14:33:11+00:00",
+  "coletado_em": "2026-11-02T07:37:21.124247+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d526dd1fcb41",
+  "titulo": "Câncer de pulmão: comprimido diário mantém doença avançada controlada por 7 anos",
+  "url": "https://olhardigital.com.br/2026/11/01/medicina-e-saude/cancer-de-pulmao-comprimido-diario-mantem-doenca-avancada-controlada-por-7-anos/",
+  "resumo": "Resultado, considerado inédito para a doença, foi obtido com o lorlatinibe, medicamento desenvolvido para combater tumores que apresentam alteração genética específica O post Câncer de pulmão: comprimido diário mantém doença avançada controlada por 7 anos apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "medicina",
+   "biologia"
+  ],
+  "publicado": "2026-11-01T13:40:30+00:00",
+  "coletado_em": "2026-11-02T07:37:21.126518+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d74d192186d7",
+  "titulo": "'The Sea God Surveys': Watch Rocket Lab launch Japanese Earth-observing satellite today",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
+  "resumo": "Rocket Lab will launch its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite to orbit. Here's how to watch live.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-02T06:20:05+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120787+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/azebDY8WRWmJufwKDCdSnF-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d771de0769f9",
+  "titulo": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+  "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+  "resumo": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. The post 28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics appeared first on The Robot Report .",
+  "fonte": "The Robot Report",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "robotica"
+  ],
+  "publicado": "2026-11-01T14:00:58+00:00",
+  "coletado_em": "2026-11-02T07:37:21.117920+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "da7b64bb5a0e",
+  "titulo": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
+  "url": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
+  "resumo": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T15:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/GQ5rY3W6jXYkFxs2idTMe-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "db921da8992a",
+  "titulo": "Measles made a stealthy return as another virus took the spotlight",
+  "url": "https://www.nature.com/articles/d41586-026-03387-3",
+  "resumo": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.",
+  "fonte": "Nature",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-02T00:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.117320+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e448ff1bc404",
+  "titulo": "Verão com El Niño: 5 dicas para preparar seu ar-condicionado",
+  "url": "https://canaltech.com.br/eletro/verao-com-el-nino-5-dicas-para-preparar-seu-ar-condicionado/",
+  "resumo": "A previsão de um El Niño intenso e de períodos prolongados de calor no Brasil torna importante preparar o ar-condicionado para o verão. Limpar os filtros, revisar o equipamento, ajustar a temperatura e controlar o consumo de energia são medidas que ajudam a manter o conforto térmico nos dias mais quentes sem aumentar desnecessariamente a conta de luz. Segundo Marcely Sondermann, meteorologista da Climatempo, o El Niño deve intensificar calor no verão : o fenômeno deve atingir seu pico no fim de 2026 e continuar influenciando o clima durante a estação, com efeitos que podem se estender até meados do outono de 2027. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A expectativa é de episódios de calor intenso e temperaturas elevadas por períodos prolongados em grande parte do país. Para enfrentar essa situação, alguns cuidados com o aparelho e com o ambiente fazem diferença. Clarissa Lettieri, gerente de produto da divisão de Ar-condicionado da Samsung Brasil, explica quais medidas ajudam a preparar a casa para a temporada de calor. 1. Faça a manutenção antes da chegada do verão A revisão preventiva ajuda a identificar problemas antes dos dias de calor intenso, quando o",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T17:00:02+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/D5Z91Kb-nblfP0Nr8m3EEJtnZU0=/0x0/filters:format(webp):quality(85)/262054b3-977d-4073-8473-fa6d0cfd5ea5.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e4de82468881",
+  "titulo": "Voyager 1 probe to hit historic one light-day distance from Earth in 17 days — 49-year-old spacecraft travels 16 billion miles",
+  "url": "https://www.tomshardware.com/tech-industry/space/voyager-1-probe-to-hit-historic-one-light-day-distance-from-earth-in-17-days-49-year-old-spacecraft-travels-16-billion-miles-and-survives-nearly-ten-times-the-length-of-its-original-five-year-mission",
+  "resumo": "It took the space probe nearly 50 years to get to one light-day, with NASA scientists and engineers going through lengths to ensure that it could keep operating for as long as possible.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T12:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Ymepy34N6EpTwW223mKBxW-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e5bb06cebf62",
+  "titulo": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more",
+  "url": "https://www.tomshardware.com/3d-printing/bambu-labs-black-friday-sale-cuts-up-to-usd300-on-the-flagship-h2c-printer-and-more-deep-cuts-across-companys-3d-printer-and-filament-lineup",
+  "resumo": "Strike an early bargain in Bambu Lab's Black Friday sale. Running until December 1st, save up to $300 on their flagship 3D printer.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T14:30:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/QHHDyeWtfDyw3bJGSHEJnC-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e74c395aaaaf",
+  "titulo": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+  "resumo": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to 100 times, potentially transforming the future of molecular electronics.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "energia_materiais"
+  ],
+  "publicado": "2026-11-01T11:55:46+00:00",
+  "coletado_em": "2026-11-02T07:37:21.125846+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e76d605a5017",
+  "titulo": "Scientists discover a surprising brain benefit of eating peanuts every day",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+  "resumo": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in brain regions important for memory, a function that often weakens with age and has been linked to Alzheimer's disease.",
+  "fonte": "ScienceDaily",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T13:24:51+00:00",
+  "coletado_em": "2026-11-02T07:37:21.115781+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ebc290ebbce5",
+  "titulo": "Ainda vale a pena comprar a Radeon RX 580 em 2026?",
+  "url": "https://canaltech.com.br/hardware/ainda-vale-a-pena-comprar-a-radeon-rx-560-em-2026/",
+  "resumo": "Lançada originalmente em 2017 como uma revisão da arquitetura Polaris, a AMD Radeon RX 580 , uma das GPUs favoritas do criador do Linux , se tornou uma verdadeira lenda entre os PC gamers que buscavam custo-benefício no Brasil. Por quase uma década, o modelo dominou o mercado de entrada e o de placas importadas, servindo como o ponto de partida de milhões de jogadores brasileiros que buscavam uma experiência digna em 1080p sem gastar rios de dinheiro . No entanto, o cenário da indústria de hardware mudou drasticamente nos últimos tempos. Com as exigências atuais das APIs gráficas, avanços nas tecnologias de reconstrução por IA e instruções de DirectX 12 Ultimate em títulos modernos, surge a inevitável dúvida: a guerreira Polaris da AMD ainda aguenta o tranco ou finalmente chegou a hora de aposentá-la de vez? Desempenho em jogos: o peso da idade Apesar de ser uma GPU veterana, a RX 580 ainda consegue entregar taxas de quadros aceitáveis em jogos multiplayer e títulos leves lançados nos últimos anos. Em testes recentes internet afora, a GPU sustenta partidas fluidas em 1080 p em jogos como Counter-Strike 2, Valorant, PUBG e Fortnite, entregando mais de 100 FPS com os devidos ajustes ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "hardware",
+   "astrofisica",
+   "computadores_pessoais",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-01T15:00:04+00:00",
+  "coletado_em": "2026-11-02T07:37:21.128872+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/OaNLTHiHDuo3k0w5rhBRP8dYKF8=/0x0/filters:format(webp):quality(85)/c6759b1b-debc-4784-a659-3fc1aaf7e56c.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "ed15e71d9904",
+  "titulo": "The best new science-fiction novels of November 2026",
+  "url": "https://www.newscientist.com/article/2596484-the-best-new-science-fiction-novels-of-november-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+  "resumo": "An audio drama produced by The Martian author Andy Weir, a fictional autobiography from Michael Moorcock and a new John Scalzi novel – November is a big month for sci-fi fans, says Alison Flood",
+  "fonte": "New Scientist",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "hardware"
+  ],
+  "publicado": "2026-11-01T08:00:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.145241+00:00",
+  "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI318505726.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "efe8a88fa21e",
+  "titulo": "APOD: 2026 November 1 – Colors of the Moon",
+  "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+  "resumo": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T04:05:00+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120053+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "f22a29b09f35",
+  "titulo": "Fiocruz manifesta solidariedade aos povos indígenas e repudia atos de violência após eleições",
+  "url": "https://agencia.fiocruz.br/fiocruz-manifesta-solidariedade-aos-povos-indigenas-e-repudia-atos-de-violencia-apos-eleicoes",
+  "resumo": "Fiocruz manifesta solidariedade aos povos indígenas e repudia atos de violência após eleições O Conselho Deliberativo da Fiocruz manifesta solidariedade aos povos originários de todo o Brasil, às suas lideranças comunitárias e às suas organizações representativas diante das denúncias de atos de violência, intimidação, perseguições e invasões territoriais em ataque a povos indígenas após a conclusão das eleições. Intimidar comunidades, ameaçar territórios e comprometer a água que abastece aldeias são atos contra a vida, a saúde, o ambiente e a sustentabilidade nacional ao longo prazo, para além de seus efeitos imediatos. Nesse contexto, é urgente proteger a vida destas pessoas e a integridade de seus territórios, incluindo as Terras Indígenas. Não há soberania democrática e nem saúde pública plena sem a proteção integral e o respeito à dignidade e aos territórios dos povos indígenas do Brasil. A Fiocruz afirma seu compromisso histórico com a defesa dos direitos dos povos originários, com a ciência cidadã e com a promoção de territórios saudáveis e sustentáveis. A instituição segue ao lado dos povos indígenas na defesa da vida, da ciência, do ambiente, dos territórios, da saúde e da ",
+  "fonte": "Agência Fiocruz",
+  "peso_fonte": 0.9,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-01T14:59:40+00:00",
+  "coletado_em": "2026-11-02T07:37:21.116603+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "fdbf8aba7fdc",
+  "titulo": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+  "resumo": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infrastructure spending, putting pressure on global DRAM supplies. Samsung and SK hynix together accounted for approximately 83% of global high-bandwidth memory revenue in the second quarter of 2026, highlighting South Korea's central role in supplying the hardware behind the AI expansion.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-01T14:21:23+00:00",
+  "coletado_em": "2026-11-02T07:37:21.119368+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "fe36463c1a22",
+  "titulo": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
+  "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+  "resumo": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environment around another star—or in the cloud that preceded it.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-01T15:20:02+00:00",
+  "coletado_em": "2026-11-02T07:37:21.120346+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/heavy-hydrogen-in-3iat.jpg",
+  "score": 0.0,
+  "cobertura": []
+ }
+]
