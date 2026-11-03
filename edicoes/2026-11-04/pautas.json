@@ -1,0 +1,382 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "471bbef5ce9b",
+      "titulo": "Earlier valve replacement benefits some patients with moderate aortic stenosis",
+      "url": "https://medicalxpress.com/news/2026-11-earlier-valve-benefits-patients-moderate.html",
+      "resumo": "Patients with moderate aortic stenosis, a narrowing of the heart's aortic valve, may benefit from undergoing transcatheter aortic valve replacement (TAVR) before the disease becomes severe, according to findings from a clinical trial co-led by Cedars-Sinai investigators.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-03T16:40:02+00:00",
+      "coletado_em": "2026-11-03T17:03:59.421646+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2017/heart.jpg",
+      "score": 6.504,
+      "cobertura": []
+    },
+    "texto_fonte": "Earlier valve replacement benefits some patients with moderate aortic stenosis\nPatients with moderate aortic stenosis, a narrowing of the heart's aortic valve, may benefit from undergoing transcatheter aortic valve replacement (TAVR) before the disease becomes severe, according to findings from a clinical trial co-led by Cedars-Sinai investigators.\nThe study found that earlier TAVR treatment lowered the combined risk of death or a heart-failure event over two years in certain patients with moderate aortic stenosis.\nFindings from the PROGRESS clinical trial were published in The New England Journal of Medicine and presented at the Transcatheter Cardiovascular Therapeutics (TCT) 2026 symposium in San Diego.\nRaj Makkar, M.D., vice president of cardiovascular innovation and intervention in the Smidt Heart Institute at Cedars-Sinai, is the national principal investigator for the trial.\nEarlier treatment reduces heart-failure events\nThe benefit of earlier treatment was shown by patients experiencing fewer heart-failure events, including hospitalizations, Makkar said.\n\"Patients with moderate aortic stenosis can already have symptoms and signs that their heart is under strain. These results show that for selected patients with at-risk features, treating the valve earlier can reduce the risk of heart-failure events before the narrowing becomes severe.\"\nThe Smidt Heart Institute at Cedars-Sinai enrolled more patients than any other participating center, giving patients a key role in advancing research into the disease.\n\"Our extensive experience with treating valvular heart disease, along with our ability to integrate research into routine patient care, powered our ability to enroll a significant number of patients,\" said Makkar, the Karsh Distinguished Chair in Interventional Cardiology.\nTesting intervention before stenosis becomes severe\nAortic stenosis, which reduces blood flow from the heart to the body, affects more than 3% of adults 65 and older. Current guidelines recommend an echocardiogram every one to two years in patients with moderate disease, and valve replacement only when the stenosis becomes severe or another indication for surgery develops.\nThe PROGRESS trial enrolled 744 patients 65 or older at 74 centers in six countries. All had moderate aortic stenosis and at least one feature indicating increased risk, such as symptoms or abnormalities in heart structure or function. Investigators randomly assigned 373 patients to TAVR and 371 to clinical surveillance, with valve replacement available when indicated.\nAfter two years, 23.9% of those assigned to surveillance had experienced heart failure or died, compared with 16.7% of patients assigned to TAVR. Patients who underwent TAVR were hospitalized for heart failure at half the rate of surveillance patients: 7.4% compared with 14.9% of those in the surveillance group.\n\"More than half of the patients initially assigned to surveillance underwent valve replacement within two years, suggesting that the disease can progress quickly from moderate to severe in some patients,\" said Aakriti Gupta, M.D., study co-author and an assistant professor in the Smidt Heart Institute.\nLong-term benefits remain under study\nThe findings do not mean that every patient with moderate aortic stenosis should undergo TAVR. Researchers plan to follow participants for 10 years to determine whether the early reduction in heart-failure events translates into longer survival. They also will assess valve durability, the potential need for future procedures and which patients are most likely to benefit.\nBecause participants were an average of 78 years old, researchers also will examine whether the findings apply to younger patients or those without the at-risk features studied in PROGRESS.\n\"Helping patients avoid heart-failure episodes and the hospital stays that come with them is an important goal,\" said Eduardo Marbán, M.D., Ph.D., executive director of the Smidt Heart Institute and the Mark Siegel Family Foundation Distinguished Chair.\n\"As an institution that is well positioned to treat the most complex heart valve cases, we are grateful to our patients, who were willing to participate in a clinical trial to help answer a question that could improve care for others.\"\nPublication details\nPhilippe Généreux et al., TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features, New England Journal of Medicine (2026). DOI: 10.1056/nejmoa2607326\nJournal information: New England Journal of Medicine",
+    "autor_fonte": "Kristin Reynolds",
+    "site_fonte": "Medical Xpress",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2017/heart.jpg",
+    "imagem_arquivo": "imagens/medicina-earlier-valve-replacement-benefits-some.jpg",
+    "imagem_credito": "Medical Xpress",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://medicalxpress.com/news/2026-11-earlier-valve-benefits-patients-moderate.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "55f5c73674c3",
+      "titulo": "Beetle poop may have helped shape millions of years of yeast evolution",
+      "url": "https://phys.org/news/2026-11-beetle-poop-millions-years-yeast.html",
+      "resumo": "University at Buffalo scientists have found evidence that different species of yeast have shared genes originally acquired from an ancient virus—and the guts and droppings of beetles may have helped make it happen.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-03T14:40:06+00:00",
+      "coletado_em": "2026-11-03T17:03:59.423189+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/beetle-poop-may-have-h.jpg",
+      "score": 5.791,
+      "cobertura": []
+    },
+    "texto_fonte": "Beetle poop may have helped shape millions of years of yeast evolution\nUniversity at Buffalo scientists have found evidence that different species of yeast have shared genes originally acquired from an ancient virus—and the guts and droppings of beetles may have helped make it happen.\nPublished in Molecular Biology and Evolution, the study shows that genetic material from that virus has evolved into a cluster of four related genes in yeasts in the genus Scheffersomyces. The study found that the cluster has moved between different species of these yeasts at least three times.\nThe yeasts, known for their promise in biofuel research, live on rotting wood and in the guts of beetles and other wood-eating insects, where they help their hosts digest wood. The researchers suspect that insects may have brought different yeast species together in their digestive tracts and excrement, creating opportunities for genetic exchange.\n\"It's an evolutionary whodunit, and wood-eating insects had the means and opportunity,\" says corresponding author Derek Taylor, Ph.D., professor of biological sciences in the UB College of Arts and Sciences.\nThe study makes several findings about the cluster, which the researchers have named STORM (Scheffersomyces Totivirus-like ORF Repeat Module). The cluster has persisted in yeast genomes for at least 15 million years, yet its genes have evolved at unexpectedly high rates: about seven times faster than their counterparts in related viruses.\n\"These genes have had an extraordinary evolutionary afterlife,\" says co-author Dominic Tringali, a master's student in Taylor's lab. \"Long after the original virus disappeared, its genes continued to evolve, multiply and spread between yeast species.\"\nA viral origin story\nTaylor and collaborators first discovered these unusual viral genes in yeast in 2009 and proposed that genes like them might move between species.\n\"Now we have compelling evidence that an entire four-gene cluster has crossed species boundaries,\" Taylor says.\nThe ancient virus that infected the yeast is related to modern totiviruses, which are nonretroviral RNA viruses. Unlike retroviruses such as HIV, these viruses lack the machinery to convert their RNA into DNA and insert it into a host's genome on their own.\nThe researchers believe the viral RNA was somehow copied into DNA and incorporated into the yeast genome.\n\"To our knowledge, this is the first documented example of horizontal transfer of a cluster of duplicated genes derived from an ancient RNA virus,\" Taylor says.\nCrossing species boundaries\nThe STORM genes' evolutionary histories didn't match those of the yeast species carrying them, suggesting the genes had moved between species rather than simply being inherited from common ancestors.\nThe researchers found evidence that the viral gene cluster crossed species boundaries through a process known as horizontal gene transfer—the movement of genetic material between organisms without ordinary reproduction.\nAt least one transfer appears to have happened through a transposon, or jumping gene. Transposons are segments of DNA that can move within genomes, and some can even move between species.\n\"Because STORM and a neighboring jumping gene show evidence of the same unusual evolutionary history, we suspect the transposon may have carried STORM between yeast species as extra cargo,\" Tringali says.\nWood-eating insects may have enabled the transposon to make the jump. Scheffersomyces yeasts often live as symbionts in their guts, where several species can coexist. Multiple species can also occur together in termite droppings and chewed wood that collect near rotting wood.\n\"In order to exchange genomic material, you have to be in the same place at the same time,\" Taylor says.\nThe jury is out on what the genes do\nOne of the study's most unusual findings is that the four genes, despite sharing a common viral origin, have followed different evolutionary paths.\nSome have retained more of their ancestral virus-like protein structures, while others have changed extensively. This suggests that becoming part of the yeast genome freed the genes from at least some constraints imposed by their original viral roles. Yet natural selection appears to have preserved certain features of their sequences and protein structures, suggesting that these features still matter.\nThe genes have persisted for millions of years and remain together as a four-gene unit, even after moving between yeast species. All four are transcribed into RNA, and there is evidence that at least one produces a protein.\nTogether, these clues suggest that STORM may provide some benefit to yeast, but exactly what it does remains a mystery. Taylor suspects they may help yeast cope with stress.\n\"Totiviruses are kind of like a frenemy for yeast. Under some conditions, they help the host deal with physiological stress,\" he says. \"So it might be useful for a yeast to keep a virus' benefits around without having to worry about controlling the virus.\"\nThe researchers hope to grow yeasts under different environmental stresses to see whether the STORM genes respond differently and potentially uncover what role the genes now play in their hosts.\nPublication details\nDerek J Taylor et al., A domesticated totivirus-like tandem array undergoes interspecific transfer and asymmetric evolution, Molecular Biology and Evolution (2026). DOI: 10.1093/molbev/msag269",
+    "autor_fonte": "Tom Dinki",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/beetle-poop-may-have-h.jpg",
+    "imagem_arquivo": "imagens/biologia-beetle-poop-may-have-helped-shape-millio.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-beetle-poop-millions-years-yeast.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "1a72d2dca6be",
+      "titulo": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors",
+      "url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
+      "resumo": "The ISO 21423:2026 interoperability standard is intended to allow mobile robots from multiple vendors to communicate and coordinate. The post New ISO interoperability standard covers collaboration among mobile robots from multiple vendors appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-03T14:40:33+00:00",
+      "coletado_em": "2026-11-03T17:03:59.426638+00:00",
+      "imagem_feed": null,
+      "score": 4.642,
+      "cobertura": []
+    },
+    "texto_fonte": "As fleets of mobile robots grow, the need for interoperability among systems increases. The Association for Advancing Automation, or A3, yesterday published ISO 21423:2026, a new international standard for communications among industrial mobile robots, or IMRs, regardless of vendor or model.\n“Companies want to choose the robots that fit their applications and have those robots work together on the same floor,” stated Carole Franklin, director of standards development for robotics at A3. “Many leading industrial users of mobile robots have asked for an interoperability standard for years.”\n“Now, ISO 21423 gives manufacturers and users a common basis for communication across fleets, no matter where in the world their facility is located,” she added. “This standard can help companies expand automation with equipment from different vendors and make better use of the robots they already have.”\nISO 21423 addresses IMR interoperability\nDeveloped by ISO Technical Committee 299, ISO 21423 Robotics – Industrial mobile robots – Communications and interoperability provides a common set of requirements for automated guided vehicles (AGVs), autonomous mobile robots (AMRs), and similar systems from different suppliers operating in the same facility.\nThe new standard specifies how IMRs, fleet managers, and other equipment exchange information and request actions. Robots can share their location, speed, direction, condition, tasking and availability with one another, A3 explained.\nFor end users, this means fewer cases of robots interfering with each other’s paths or path planning, which improves robot availability and system efficiency, asserted A3. A common protocol could increase competition in the market and support innovation, it said. One benefit of an ISO standard on this topic is that it can be adopted in countries all around the world.\nStandard also covers communications with other systems\nISO 21423 also covers communication with machines tended by robots; enterprise resource planning (ERP) tools; and industrial building systems such as lifts, automated doors, and alarms. People using or wearing mobile devices can share similar information, so their work can be coordinated alongside the robots.\n“ISO 21423 represents the first non-safety robot standard that A3 has helped produce, and highlights A3’s continued leadership in robotics standardization efforts,” said the Ann Arbor, Mich.-based organization. The standard is available at the A3 online store for $373. A3 members can purchase the document for $320.\nThe Association for Advancing Automation is a leading global advocate for the benefits of automating. Members of A3 represent more than 1,500 manufacturers, component suppliers, systems integrators, end users, academic institutions, research groups, and consulting firms.\nA3 hosts events including the International Robot Safety Conference, the A3 Business Forum, and Automate.",
+    "autor_fonte": "The Robot Report Staff",
+    "site_fonte": "The Robot Report",
+    "imagem_url": "https://www.therobotreport.com/wp-content/uploads/2026/11/AdobeStock_2225516731-copy.jpg",
+    "imagem_arquivo": "imagens/robotica-new-iso-interoperability-standard-covers.jpg",
+    "imagem_credito": "The Robot Report",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "6e52bc4c45b1",
+      "titulo": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "resumo": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-03T16:03:13+00:00",
+      "coletado_em": "2026-11-03T17:03:59.428172+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+      "score": 5.236,
+      "cobertura": []
+    },
+    "texto_fonte": "In 2023, malware tracked as BlackLotus became the first publicly documented in-the-wild UEFI bootkit capable of bypassing Secure Boot on fully updated Windows 11 systems. With the industry-wide chain-of-trust mechanism subverted, the malware was able to run malicious code before Windows was fully loaded and many security defenses were operational.\nMicrosoft had already patched the vulnerability that BlackLotus exploited in 2022. In 2023 and 2024, Microsoft issued additional updates. The first added a new certificate that no longer trusted the vulnerable boot managers. The second provided the means to revoke trust in the digital certificate used to sign older vulnerable Windows boot managers. The organizations infected by the new bootkit, which is tracked under the name BlackX, had installed all of these patches. So how did they fall victim?\nUEFI bootkit refresher\nBefore discussing the incident further, a brief review of BlackLotus and UEFI malware is in order. Short for Unified Extensible Firmware Interface, UEFI is firmware that runs immediately after a computer is turned on. One of its main jobs is to load system configuration settings, identify and initialize hardware components, and prepare the computer to start its OS.\nAnother important UEFI function is Secure Boot, a security feature that establishes a chain of trust by verifying the digital signatures of each piece of boot software before allowing it to execute. Its purpose is to prevent attackers who gain control of a device, either physically or through a malware compromise, from running unauthorized boot code in place of legitimate software.\nOne item that must be digitally signed is the boot manager, a component stored on a small dedicated partition on a drive. The boot manager is responsible for the initial loading of the OS. Both BlackLotus and BlackX exploit “Baton Drop,” a logic flaw in the Windows boot manager that allows attackers to bypass Secure Boot (and, under certain conditions, extract BitLocker encryption keys). The vulnerability, tracked as CVE-2022-21894, came to light in 2022. Microsoft fixed the vulnerability that same year, but it didn’t revoke trust in the certificate used to sign older vulnerable boot managers. BlackLotus exploited this gap and went on to load a malicious kernel-mode driver.",
+    "autor_fonte": "Dan Goodin",
+    "site_fonte": "Ars Technica",
+    "imagem_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+    "imagem_arquivo": "imagens/software-uefi-bootkit-infected-fully-patched-wind.jpg",
+    "imagem_credito": "Ars Technica",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "996a097d0c7e",
+      "titulo": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
+      "resumo": "Customs authorities only check the performance specifications of a server's processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-03T12:04:32+00:00",
+      "coletado_em": "2026-11-03T17:03:59.430001+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rWdHT5SLeyUQVnKviKvckN-1920-80.jpg",
+      "score": 5.699,
+      "cobertura": []
+    },
+    "texto_fonte": "A memory smuggler has detailed how he gets export-controlled HBM chips from South Korea into China using a loophole. According to The Information, the smuggler owns a chip design firm that build cheap, low-performing processors that fall under the U.S. and South Korea’s export controls. They are then paired with expensive HBM from Samsung and SK hynix, that, on their own, are banned for export to China. But because export control rules only look at the performance of the server processor and not at the other components attached to it, this allows the HBM chips attached inside them to slip under the radar and make their way into China.\nIt’s not a risk-free operation, though. Once the mediocre processors with high-end memory chips land in Hong Kong and are smuggled across the border into Shenzhen in the luggage of commuters that cross between the two regions daily, they end up in workshops where technicians heat up the boards to soften the solder, gingerly lift the crucial memory chips, and discard the rest of the components. Despite having a high failure rate, the high price of HBM chips makes the procedure quite lucrative.\nA Shenzhen-based chip broker has been making big money matching up suppliers such as the smuggler and companies that are desperate for HBM. “A year ago, a single HBM3E unit changed hands in China for several hundred dollars,” he tells the publication. “Today it’s about $4,000.” With an AI chip requiring six to eight high-end memory chips, that means the broker is raking in $24,000 to $32,000 for every AI GPU.\nChinese AI labs face this exact memory chip bottleneck when acquiring AI GPUs. While Chinese memory manufacturer CXMT has already begun risk production of HBM3E and is expected to mass produce them by the end of this year, it’s still reportedly suffering from low yield, which makes their chips expensive to produce and procure. We see this with Huawei’s Ascend 950DT, its current top-of-the-line processor that goes for about $37,000 — it offers similar pricing to Nvidia’s B200 AI GPU but only delivers half the performance of the previous-generation H100.\nHuawei has reportedly said that its next-generation flagship AI processor, the 960DT, would deliver a similar performance as the H100. However, since the company cannot purchase HBM from Samsung and SK hynix, and Chinese memory manufacturers do not have the capacity to supply all its chip demands, Huawei told customers that they have to find the HBM that these servers need themselves. This would further fuel the demand for these chips, increase the price and make it more lucrative for smugglers to set up similar operations.\nBut given that this method of moving HBM chips into China is becoming more popular, the smuggler fears that South Korean and U.S. authorities would clamp down on their operations soon. Washington has been going down hard on activities like this, and we’ve seen high-profile arrests including some Super Micro executives and the CEO of a California-based tech company. Other countries like Taiwan and Malaysia have been ramping up their anti-smuggling activities, too, so it’s probably just a matter of time before Seoul follows suit.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nJowi Morales is a tech enthusiast with years of experience working in the industry. He’s been writing with several tech publications since 2021, where he’s been interested in tech hardware and consumer electronics.",
+    "autor_fonte": "Jowi Morales",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/rWdHT5SLeyUQVnKviKvckN-1920-80.jpg",
+    "imagem_arquivo": "imagens/hardware-ai-chip-smugglers-exploit-trade-control.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "7ac9adebee20",
+      "titulo": "Leviathan's sprawling stars challenge idea that dusty giants become compact galaxies",
+      "url": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
+      "resumo": "Astronomers using the James Webb Space Telescope (JWST) have confirmed a massive, dust-rich galaxy called Leviathan in the early universe. Seen when the universe was roughly 1.5 billion years old, the galaxy has its stars spread out rather than in a concentrated fashion. A paper, describing its strange stellar distribution, was posted to the arXiv preprint server on Oct. 19.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-03T12:40:06+00:00",
+      "coletado_em": "2026-11-03T17:03:59.433000+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-ancient-dusty-galax.jpg",
+      "score": 6.101,
+      "cobertura": []
+    },
+    "texto_fonte": "Leviathan's sprawling stars challenge idea that dusty giants become compact galaxies\nShreejaya Karantha\nAuthor\nAstronomers using the James Webb Space Telescope (JWST) have confirmed a massive, dust-rich galaxy called Leviathan in the early universe. Seen when the universe was roughly 1.5 billion years old, the galaxy has its stars spread out rather than in a concentrated fashion. A paper, describing its strange stellar distribution, was posted to the arXiv preprint server on Oct. 19.\nDusty bright galaxies\nSubmillimeter galaxies are extremely luminous, dust-obscured galaxies, typically at redshifts around 2 to 3, forming stars at hundreds to thousands of solar masses per year. Dust absorbs their shorter-wavelength optical and ultraviolet light and re-emits it, which is detected at submillimeter wavelengths. They are thought to be possible progenitors of massive quiescent galaxies (MQGs), which are today's massive elliptical galaxies.\nStudying them can test theories of how galaxies form, how many stars they contain and how efficiently they convert gas into stars. Insights from these galaxies can also explain how heavy their dark matter halos are.\nMassive quiescent galaxies, which have stopped forming stars, are very compact when seen 11.5 to 12.5 billion years ago. With half-light radii of only about 0.2 to 1 kiloparsec, they hold tens of billions of the sun's mass in stars. This means their ancestors, which are thought to be submillimeter galaxies, must have built dense stellar cores very quickly.\nTheir dust emission is compact, with radii of about 1 to 2 kiloparsecs, but it shows only where stars are forming now, not where existing stars are. But now, JWST can detect galaxies' faint glow, which comes from stars.\nLeviathan: An ancient giant\nThe team led by William M. Baker of the University of Copenhagen has now investigated where the stars are located in a massive submillimeter galaxy and measured its mass. \"Whether these galaxies are on the way to becoming compact MQGs therefore requires measuring where their stellar mass (not just their light) is located,\" the team writes in the paper.\nThe team measured the mass and redshift of Leviathan, a massive submillimeter galaxy discovered in 2012. In its spectrum, they detected emissions from hydrogen and ionized nitrogen. Using these lines, they measured the redshift of z = 4.0514 for the galaxy as a whole.\nTo measure its mass, the team fit 31 different bands of light from Leviathan to models of the galaxy's stars and dust, revealing a stellar mass of about 219 billion suns. The derived mass, researchers say, makes it one of the most massive spectroscopically confirmed galaxies beyond redshift 4.\nNext, researchers estimated that Leviathan forms about 410 solar masses of stars per year. This \"places Leviathan on the massive end of the star-forming main sequence at z≈4,\" the team notes.\nCompact or spread out?\nMoving on to estimating its size, researchers found that Leviathan is bigger than most submillimeter galaxies seen about 11.5 billion years ago. They measured three types of radii: the radius containing half of the galaxy's light, half of its stellar mass and half of its dust glow.\nThe half-light and half-mass radii are 4.3 and 3.1 kiloparsecs, respectively, so the mass is more concentrated than the light. This is typical of \"inside-out\" growth, where the center formed first and is older and dustier, while the outskirts are younger and brighter. The star formation is spread across the disk. The dust was found to be only slightly more compact than the stars (about 2.2 to 2.5 kiloparsecs).\nThey calculated that even if all its gas gets converted into stars, it would only shrink to about 2.8 kiloparsecs. Its central density is below that of compact quiescent galaxies. Thus, Leviathan is unlikely to become a compact quiescent galaxy.\n\"If its star formation continues with its present spatial distribution, Leviathan is therefore unlikely to develop the compact structure of the massive quiescent galaxies at 3 < z < 5,\" researchers say.\nInstead, it may become an extended, disk-like quiescent galaxy. The study suggests that dusty galaxies in the early universe can follow different paths as they grow.\nWritten for you by our author Shreejaya Karantha, edited by Sadie Harley, and fact-checked and reviewed by Robert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.\nPublication details\nWilliam M. Baker et al., Leviathan: a very massive, extended sub-millimetre galaxy spectroscopically confirmed at z = 4.05, arXiv (2026). DOI: 10.48550/arxiv.2610.27101\n© 2026 Science X Network",
+    "autor_fonte": "Shreejaya Karantha",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/an-ancient-dusty-galax.jpg",
+    "imagem_arquivo": "imagens/astrofisica-leviathan-s-sprawling-stars-challenge-id.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "6f6218d56830",
+      "titulo": "Experiment Supports Theoretical Path to Topological Quantum Computing",
+      "url": "https://thequantuminsider.com/2026/11/03/experiment-supports-theoretical-path-to-topological-quantum-computing/",
+      "resumo": "Insider Brief PRESS RELEASE — One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances. Physicists at the University of Cologne have now observed quantum states that behave as predicted […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-03T12:49:26+00:00",
+      "coletado_em": "2026-11-03T17:03:59.435055+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Low-Res_Schuck_Science_Advances.jpg",
+      "score": 5.765,
+      "cobertura": [
+        "https://phys.org/news/2026-11-theoretical-foundation-potentially-error-resistant.html"
+      ]
+    },
+    "texto_fonte": "Insider Brief\n- University of Cologne researchers observed quantum states consistent with theoretical predictions in a material system being investigated for topological quantum computing.\n- Measurements revealed highly transmissive Andreev states whose behavior across charge-carrier densities and under a magnetic field agreed with theory and simulations.\n- Confirming a transition to topological superconductivity requires more precise measurements of the predicted closing and reopening of an energy gap.\n- Electron microscopy image of the device under investigation. Pink: topological insulator; lavender: superconductor forming the Josephson junction, with a closed loop for magnetic phase control; gold: gold tunnel electrode used to detect the quantum states. (Jakob Schluck/Topological Matter Laboratory Cologne)\nPRESS RELEASE — One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances. Physicists at the University of Cologne have now observed quantum states that behave as predicted in a material system considered promising for this approach. Their findings, published under the title “Tunneling spectroscopy of topological insulator Josephson junctions” in Science Advances, support a theoretical description of how superconductivity interacts with the surface of a topological insulator.\nTopological insulators are materials that insulate electricity in their interior but conduct it along their surfaces. When combined with a conventional superconductor, their surface states are predicted to support a special form of superconductivity known as topological superconductivity. If realized, this could provide a route to Majorana-zero modes, quantum states being investigated for their potential use in topological quantum bits, or qubits. Demonstrating and controlling these states experimentally remains a challenge.\nTo investigate the predicted behavior, Dr Jakob Schluck, Ella Nikodem (M.Sc.) and colleagues in the Topological Matter Laboratory Cologne, led by Professor Yoichi Ando, studied a structure called a Josephson junction. It consists of two superconductors connected by a non-superconducting region. Using tunneling spectroscopy, the researchers probed the quantum states inside the junction while varying the phase difference between the two superconductors.\nThe team observed highly transmissive Andreev states, which form when electrons and holes interact at a superconducting junction. The states appeared across a range of charge-carrier densities, consistent with the predicted behavior of electrons at the topological insulator’s surface. When the researchers applied a magnetic field, they also found these states concentrated in specific regions of the junction, as theory predicts. “Understanding how superconductivity interacts with the distinctive electronic properties of topological insulators is essential for assessing their potential for topological quantum computing,” says Professor Yoichi Ando.\nThe experimental results agree with theoretical predictions based on the model proposed by Liang Fu and Charles Kane in 2008, as well as numerical simulations carried out by the group of Professor Fabian Hassler at RWTH Aachen University.\n“It is super exciting to see our experimental results align so well with theoretical predictions. This is very encouraging in terms of future applications in quantum computing,“ adds Ella Nikodem.\nAn important question remains open: do the observed states undergo the predicted closing and reopening of an energy gap? Such a change could signal a transition to topological superconductivity, in which certain quantum states may be protected against local disturbances. This protection is one of the reasons topological quantum computing is considered a promising route towards more robust quantum bits. In the current experiment, the transition remains to be confirmed with more precise measurements. “To demonstrate the topological phase transition in this system, we need to improve the experiment’s energy and time resolution — this is the next step on the roadmap of the Ando lab,” Jakob Schluck explains.\nThe research brought together experimental physicists at the University of Cologne and theoretical researchers at RWTH Aachen University. Both groups are part of the Matter and Light for Quantum Computing (ML4Q) Cluster of Excellence, established in 2019 within the Excellence Strategy of the German federal and state governments. The cluster connects researchers at the universities of Cologne, Aachen and Bonn and Forschungszentrum Jülich to advance fundamental research into quantum computing.\nMatt Swayne\nGet the latest research, company news, and market intelligence every week.",
+    "autor_fonte": "Matt Swayne",
+    "site_fonte": "The Quantum Insider",
+    "imagem_url": "https://thequantuminsider.com/wp-content/uploads/2026/11/Low-Res_Schuck_Science_Advances.jpg",
+    "imagem_arquivo": "imagens/quantica-experiment-supports-theoretical-path-to.jpg",
+    "imagem_credito": "The Quantum Insider",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://thequantuminsider.com/2026/11/03/experiment-supports-theoretical-path-to-topological-quantum-computing/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "0eaf3e3a7544",
+      "titulo": "Google is entirely disabling Search in schools that don’t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "resumo": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-03T17:00:04+00:00",
+      "coletado_em": "2026-11-03T17:03:59.450364+00:00",
+      "imagem_feed": null,
+      "score": 6.242,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+      ]
+    },
+    "texto_fonte": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search “will be entirely off” for K-12 student accounts unless “administrators explicitly turn them on.”\nGoogle is entirely disabling Search in schools that don’t want AI\nStudents in schools that reject Google’s AI will see notices that Search isn’t available.\nAdministrators will not be given the option to toggle Gemini-powered features off without disabling Search, however. Chris Phillips, Google’s vice president of education, told the NYT, “Search and AI are deeply integrated,” adding that schools that disable Google’s AI features “will not have access to search, and they’ll see a message from their school that indicates it’s not available.” Google didn’t immediately respond to The Verge’s request for comment.\nThe announcement comes just months after Google turned its Gemini AI assistant on by default inside the Google Classroom app, which is used by more than 150 million teachers and students globally. The move added to skepticism surrounding Google’s introduction of AI in schools amid reports of declining test scores and other impacts on students’ learning abilities. Last month, lawmakers pressed Google on the “potential harms” of putting its AI products in schools. Though Google is no longer turning on AI features in schools by default, this choice comes at a cost.\nThe company is also attempting to address concerns about students using its AI features to find “shortcuts” instead of solving problems themselves. Google is embedding its Guided Learning feature, which is supposed to help students work through problems, into its AI Overviews in Search. Google will begin testing this feature in select US schools this month.",
+    "autor_fonte": "Emma Roth",
+    "site_fonte": "The Verge",
+    "imagem_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "imagem_arquivo": "imagens/computadores_pessoais-google-is-entirely-disabling-search-in-s.jpg",
+    "imagem_credito": "The Verge",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "aca6994d7627",
+      "titulo": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
+      "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+      "resumo": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how this technology was going to transform the world. “But nobody mentioned Africa at all,” he says. Even then—before AI giants like OpenAI and Anthropic had launched their chatbots to the public—Kariuki could see significant obstacles to AI adoption in Africa. Internet access was slow and unequal, computing resources for training models were scarce, and there was little high-quality, structured training data. Most people, meanwhile, reached the internet through outdated, low-memory cellphones rather than computers or high-end phones. Together with co-founders Jude Mwenda and Stephanie Njerenga , Kariuki created Fastagger , a start-up that builds AI models that can run offline and on low-power cellphones. Its first big product, Auni, is a business intelligence assistant that launched in 2024; it got a big push when it was integrated into the business app of M-Pesa , Kenya’s largest mobile money service. Since then, about 6,000 businesses have signed up. Auni helps small an",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-03T14:30:02+00:00",
+      "coletado_em": "2026-11-03T17:03:59.451517+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-photo-shows-a-smiling-man-in-a-barbers-chair-with-a-smiling-man-standing-over-him.jpg?id=68563378&width=980",
+      "score": 5.874,
+      "cobertura": []
+    },
+    "texto_fonte": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how this technology was going to transform the world. “But nobody mentioned Africa at all,” he says.\nEven then—before AI giants like OpenAI and Anthropic had launched their chatbots to the public—Kariuki could see significant obstacles to AI adoption in Africa. Internet access was slow and unequal, computing resources for training models were scarce, and there was little high-quality, structured training data. Most people, meanwhile, reached the internet through outdated, low-memory cellphones rather than computers or high-end phones.\nTogether with co-founders Jude Mwenda and Stephanie Njerenga, Kariuki created Fastagger, a start-up that builds AI models that can run offline and on low-power cellphones. Its first big product, Auni, is a business intelligence assistant that launched in 2024; it got a big push when it was integrated into the business app of M-Pesa, Kenya’s largest mobile money service. Since then, about 6,000 businesses have signed up. Auni helps small and medium businesses like barbershops, restaurants, and small manufacturers analyze their transaction data and gives them marketing recommendations.\nPeter Chege, owner of a salon and barbershop in Nairobi, started using Auni last year. Before that, he recorded all his sales on paper. “We were not able to translate that information into a graph,” he says. Now, the app helps him identify his busiest days and hours, as well as his loyal customers. If a regular customer stops coming, for example, he can send a personalized message encouraging them to return.\nFastagger is part of an emerging effort to build AI around the technological realities of users in developing economies, rather than adapting products designed for wealthier markets. In Fastagger’s case, that meant finding a way to make their models work despite inexpensive phones, unreliable internet connections, and business records that may consist of little more than mobile-money transactions.\nDesigning AI for Kenya’s Small Businesses\nBefore developing Auni, Kariuki and his co-founders started by tackling the problem of data availability for AI training. They asked themselves: “How do we get Africa to catch up fast? How do we create training data fast enough, and then how do we actually get it into people’s hands fast enough?”\nMutembei Kariuki cofounded Fastagger to develop AI systems that can run offline and on basic phones. Afrikanna Production/Microsoft\nThey decided to focus on mobile phones, and specifically on mobile money apps. With more than 80 percent of Kenya’s adults using them, they offer a rich source of data.\nOne of Fastagger’s first steps was to adapt an open-source optical character recognition (OCR) model to read financial statements produced by mobile money apps. Existing models struggled with the low quality of the PDFs, which had unfamiliar formatting and sometimes contained stamps and errors. And because Fastagger’s prospective users often had unreliable internet connections, they made sure key steps, like organizing the extracted data into tables, could run on-device.\nOnce they had a model that could process these documents, they began exploring how that structured financial data could help businesses. They spent entire days watching small-business owners work and interact with their customers. One challenge quickly became clear: Owners had little time or resources to think beyond day-to-day operations.\n“They are standing up the whole day cutting hair,” Kariuki says of salon owners, who are now among Auni’s main users. “You have to think about that dynamic of the user journey, and how they live, and what will be going on in the background.”\nThe Fastagger app helps salon owner Peter Chege better manage his time and keep track of loyal customers.Afrikanna Production/Microsoft\nFor Chege, one of Auni’s biggest benefits was helping him manage his time. A simple chart showed him that mornings were his slowest hours, so he realized that he could run errands then or keep fewer barbers in the shop until around 1 p.m., when business picked up.\nThe founders also saw how much time businesses spent on manual processes and how automation could simplify those tasks. At a fish restaurant in Nairobi, for example, identifying loyal customers to offer them discounts required going through SMS sales receipts one by one, a tedious task that rendered client-retention marketing impractical. Now, with the help of Auni, the restaurant identifies its top customers automatically and offers them discounts.\nSome of Auni’s functions—such as reading sales statements, analyzing data, and visualizing results—can happen offline on low-cost phones, without making cloud queries. These functions involve both AI tools and conventional software; for example, standard OCR software extracts the text and a small neural network identifies how each document is structured. More detailed analyses and answering questions about the data, however, require an internet connection.\nDaniel Björkegren, an economist at Columbia University who studies AI’s implications for developing economies, says sub-Saharan Africa’s prevalence of basic phones rather than smartphones and computers could open the door to different kinds of AI use. “The history of technology should suggest that this is not going to be people running Claude Code or Codex on their laptop,” he says. “You will have people like that, but for much of the population, we’re going to have to figure out different usage modalities.”\nHow Local Needs Are Shaping AI\nDespite Auni’s integration into M-Pesa, Fastagger remains a small startup. It has received support from Google, Microsoft, and NVIDIA accelerator programs, but still has just three employees: Kariuki, Mwenda and Njerenga, the original founders. Currently, they’re working on adding agents to Auni that could automatically implement marketing actions for business owners.\nFastagger has also developed a workforce management tool for Kenya’s security companies, which employ hundreds of thousands of people. Security guards often work in remote locations without reliable internet and use low-end phones. Fastagger’s AI agent communicates with them via SMS to track their routes, detects anomalies, and generates actionable alerts for operations teams.\nFastagger isn’t alone in tailoring AI models for the usage conditions in emerging economies. Other examples include an app for rural schools without internet in Chile; a medical triage chatbot for rural patients in India, and translation models for African languages that run on basic phones. Such innovations, which emerge from constraints, could help democratize access to AI. But that doesn’t mean the constraints themselves disappear or stop limiting development.\nWhile Björkegren sees great potential in systems built for populations that have been poorly served by Silicon Valley, he believes there’s a risk in establishing too clear a division between small models designed for emerging economies and increasingly large, powerful models for wealthier regions. “I am worried that that could lead to a bifurcation,” he says. “We need to enable a large menu of different options and really make sure that we have access and then see what works.”\n- These AI Workstations Look Like PCs but Pack a Stronger Punch ›\n- The AI Boom Is Giving Rise to “GPU-as-a-Service” ›\n- Invences Empowers Small Businesses With Smart Telecom Networks ›\nLucila Pinto is a bilingual journalist from Argentina who writes about AI, trust in science, and economic development, among other topics. Her work has appeared in Nature, Science, Rest of World, La Nación, and other publications. She holds a master's degree in science and technology journalism from Columbia University.",
+    "autor_fonte": "Lucila Pinto",
+    "site_fonte": "IEEE Spectrum",
+    "imagem_url": "https://spectrum.ieee.org/media-library/image.jpg?id=68563378&width=1200&height=600&coordinates=0%2C300%2C0%2C300",
+    "imagem_arquivo": "imagens/inteligencia_artificial-how-a-kenyan-startup-is-rethinking-ai-fo.jpg",
+    "imagem_credito": "IEEE Spectrum",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "82c3f42a5cdc",
+      "titulo": "Iron powder could store wind and solar power for winter in retired coal plants",
+      "url": "https://techxplore.com/news/2026-11-iron-powder-solar-power-winter.html",
+      "resumo": "When wind and sun are weak in winter, Europe needs power plants that can deliver energy at the push of a button—and in a climate-neutral way. So far, hydrogen and carbon capture and storage (CCS) are considered the favorites for this. Both require infrastructure that doesn't yet exist. An expert report by the Energy Economics Institute at the University of Cologne (EWI), commissioned by the Metal Energy Hubs project of TU Darmstadt and the DESERTEC Foundation, is now examining a third option: iron. TU Darmstadt and KIT have been collaborating on the Clean Circles project on iron as an energy source since 2021.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-03T14:40:23+00:00",
+      "coletado_em": "2026-11-03T17:03:59.454804+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/rust-as-a-savior.jpg",
+      "score": 5.792,
+      "cobertura": []
+    },
+    "texto_fonte": "Iron powder could store wind and solar power for winter in retired coal plants\nWhen wind and sun are weak in winter, Europe needs power plants that can deliver energy at the push of a button—and in a climate-neutral way. So far, hydrogen and carbon capture and storage (CCS) are considered the favorites for this. Both require infrastructure that doesn't yet exist. An expert report by the Energy Economics Institute at the University of Cologne (EWI), commissioned by the Metal Energy Hubs project of TU Darmstadt and the DESERTEC Foundation, is now examining a third option: iron. TU Darmstadt and KIT have been collaborating on the Clean Circles project on iron as an energy source since 2021.\nAn iron energy cycle\nFinely ground iron powder burns without releasing CO₂; iron oxide remains. If the oxygen is removed from this oxide using green hydrogen, the iron is \"charged\"—the energy from the sun and wind is then chemically stored in the powder. It can be easily stored, transported by ship or rail, and used to generate electricity in converted coal-fired power plants or in district heating plants. The iron itself is not consumed in the process, but rather cycles between being \"charged\" and \"discharged.\"\nStoring iron to get through the winter\nThe study shows that the use of iron as an energy carrier offers considerable economic and energy potential. In the European model region, annual system costs could decrease by €15 billion between 2035 and 2045 compared to a scenario without iron. For the years 2040 and 2045, the model even calculates savings of approximately €18 billion per year.\n\"Decarbonization and competitiveness are often seen as opposites,\" explains professor Christian Hasse, coordinator of the Metal Energy Hub: \"The study shows that iron as an energy carrier can help to combine both aspects—and thereby save considerable costs. The significant economic potential also illustrates the contribution we as scientists can make when we consider the transfer to application from the very beginning. For me, it is fascinating to see how concrete solutions for the energy transition emerge from basic research.\"\nContinue using existing infrastructure\nA key advantage is that existing power plant infrastructure could continue to be used: By 2045, around 37 gigawatts of hard coal and lignite power plant capacity in Germany could be converted to run on iron powder; across Europe, this figure would be around 83 gigawatts. This would hardly necessitate the construction of new power plants.\nAt the same time, iron powder could contribute to seasonal energy storage: In summer, the modeled iron powder storage facility would be filled to around 58 terawatt-hours and discharged again in winter. This would give it a capacity comparable to that of Germany's gas storage facilities. Furthermore, the converted power plants could cover around 25% of Germany's district heating demand.\nIron also opens up new possibilities with regard to European energy supply. This energy carrier can be produced predominantly in Europe using renewable electricity, thus reducing dependence on energy imports—a significant contribution to increasing resilience. Conversely, should the expansion of renewable energies proceed more slowly than planned, imports of energy in the form of iron could serve as an additional safeguard.\nModel calculation until 2045\nThe results are based on a model calculation for Europe up to 2045, in which electricity, hydrogen, and district heating are optimized together. The reported savings and capacities are therefore not forecasts, but model-based scenarios. Iron expands the range of available energy carriers. As an additional component of a renewable energy system, it combines the possibility of seasonal energy storage with the continued use of existing infrastructure in the transport and energy sectors.",
+    "autor_fonte": "Technische Universitat Darmstadt",
+    "site_fonte": "Tech Xplore",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/rust-as-a-savior.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-iron-powder-could-store-wind-and-solar-p.jpg",
+    "imagem_credito": "Tech Xplore",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techxplore.com/news/2026-11-iron-powder-solar-power-winter.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "0a9264057159",
+      "titulo": "Vazamento revela vilões de The Batman 2 e indica novo ator para o Duas-Caras",
+      "url": "https://canaltech.com.br/entretenimento/vazamento-revela-viloes-de-the-batman-2-e-indica-novo-ator-para-o-duas-caras/",
+      "resumo": "Parece que a novela por trás do ator que vai interpretar o Duas-Caras em Batman: Parte 2 ainda não acabou. Embora Sebastian Stan já tenha confirmado que ele será o intérprete de Harvey Dent, o diretor Matt Reeves deu a entender há meses atrás que um outro ator vai viver o personagem no filme e quase ninguém percebeu. Tudo começou quando Reeves confirmou que Bryan Tyree Henry estaria na sequência de Batman (2022) no X (antigo Twitter). Na publicação, o diretor comentou “bem-vindo à festa, cara”, uma frase que chamou a atenção de fãs mais assíduos do universo do herói. Isso porque a frase original, que é “welcome to the party, man”, fez alguns entusiastas associarem a felicitação à canção Partyman, do Prince, que consta na trilha sonora de Batman (1989). No vídeo, o cantor aparece usando uma maquiagem similar à do Coringa, enquanto uma multidão surge usando máscaras que cobrem apenas metade do rosto. Diante dessa “coincidência”, a teoria da vez sugere que Bryan Tyree Henry pode ser o verdadeiro intérprete do Duas-Caras, vilão conhecido por ter metade do rosto desfigurado. Enquanto isso, a especulação é que Sebastian Stan seja o responsável por viver o serial killer Victor Zsasz, outr",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-03T13:01:00+00:00",
+      "coletado_em": "2026-11-03T17:03:59.468506+00:00",
+      "imagem_feed": null,
+      "score": 3.883,
+      "cobertura": []
+    },
+    "texto_fonte": "Vazamento revela vilões de The Batman 2 e indica novo ator para o Duas-Caras\nPor Jaqueline Sousa • Editado por Jones Oliveira |\nParece que a novela por trás do ator que vai interpretar o Duas-Caras em Batman: Parte 2 ainda não acabou. Embora Sebastian Stan já tenha confirmado que ele será o intérprete de Harvey Dent, o diretor Matt Reeves deu a entender há meses atrás que um outro ator vai viver o personagem no filme e quase ninguém percebeu.\nTudo começou quando Reeves confirmou que Bryan Tyree Henry estaria na sequência de Batman (2022) no X (antigo Twitter). Na publicação, o diretor comentou “bem-vindo à festa, cara”, uma frase que chamou a atenção de fãs mais assíduos do universo do herói.\nIsso porque a frase original, que é “welcome to the party, man”, fez alguns entusiastas associarem a felicitação à canção Partyman, do Prince, que consta na trilha sonora de Batman (1989). No vídeo, o cantor aparece usando uma maquiagem similar à do Coringa, enquanto uma multidão surge usando máscaras que cobrem apenas metade do rosto.\nDiante dessa “coincidência”, a teoria da vez sugere que Bryan Tyree Henry pode ser o verdadeiro intérprete do Duas-Caras, vilão conhecido por ter metade do rosto desfigurado. Enquanto isso, a especulação é que Sebastian Stan seja o responsável por viver o serial killer Victor Zsasz, outro antagonista do Homem-Morcego que estará no filme.\nVale lembrar, no entanto, que nem a Warner Bros. Pictures e nem o DC Studios se pronunciaram sobre o assunto. Por enquanto, sabemos que Sebastian Stan confirmou em entrevista que será o intérprete de Harvey Dent. O papel de Bryan Tyree Henry ainda é um mistério.\nRetorno do Morcego\nCom estreia marcada para 18 de fevereiro de 2028, Batman: Parte 2 vem passando por algumas instabilidades nos bastidores que resultaram em quatro adiamentos da produção nas telonas. Recentemente, o breve afastamento do diretor Matt Reeves devido a questões familiares também abalou o andamento das filmagens, que precisaram ser momentaneamente interrompidas.\nA boa notícia é que, apesar da “saída” de Reeves”, o cineasta Steven Soderbergh, de Onze Homens e um Segredo (2001), entrou na equipe para ajudar a concluir as filmagens principais do longa, que já foram retomadas. A previsão de estreia segue marcada para fevereiro de 2028 e a expectativa é que Reeves retorne para o processo de pós-produção do filme.\nAproveite também para saber que o novo diretor de Batman: Parte 2 recebe aprovação de Robert Pattinson.",
+    "autor_fonte": "Jaqueline Sousa",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/jrGm6swlPKrq3hBzOnzasWLi0WU=/1200x675/smart/filters:format(webp):quality(85)/0d231e17-5b89-4bb6-a711-aee9b0d133f2.jpg",
+    "imagem_arquivo": "imagens/ciberseguranca-vazamento-revela-viloes-de-the-batman-2.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/entretenimento/vazamento-revela-viloes-de-the-batman-2-e-indica-novo-ator-para-o-duas-caras/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]

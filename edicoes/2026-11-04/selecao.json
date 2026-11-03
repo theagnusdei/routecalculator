@@ -1,0 +1,752 @@
+{
+  "medicina": [
+    {
+      "id": "471bbef5ce9b",
+      "titulo": "Earlier valve replacement benefits some patients with moderate aortic stenosis",
+      "url": "https://medicalxpress.com/news/2026-11-earlier-valve-benefits-patients-moderate.html",
+      "resumo": "Patients with moderate aortic stenosis, a narrowing of the heart's aortic valve, may benefit from undergoing transcatheter aortic valve replacement (TAVR) before the disease becomes severe, according to findings from a clinical trial co-led by Cedars-Sinai investigators.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-03T16:40:02+00:00",
+      "coletado_em": "2026-11-03T17:03:59.421646+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2017/heart.jpg",
+      "score": 6.504,
+      "cobertura": []
+    },
+    {
+      "id": "9166eab2eb85",
+      "titulo": "AI system may help clinical labs spot problems before they affect patients",
+      "url": "https://medicalxpress.com/news/2026-11-ai-clinical-labs-problems-affect.html",
+      "resumo": "Weill Cornell Medicine researchers have designed an AI system that could help clinical laboratories identify problems before they disrupt testing and delay patient care. These laboratories analyze samples such as blood, urine, tissue or other bodily fluids to help doctors diagnose and treat diseases. However, growing test volumes, workforce shortages and increasingly complex diagnostics are placing mounting demands on laboratory operations.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-03T16:00:29+00:00",
+      "coletado_em": "2026-11-03T17:03:59.421646+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-system-may-help-cli.jpg",
+      "score": 6.431,
+      "cobertura": []
+    },
+    {
+      "id": "b535fd17acef",
+      "titulo": "Targeted scan detects hidden multiple myeloma missed by standard imaging",
+      "url": "https://medicalxpress.com/news/2026-11-scan-hidden-multiple-myeloma-standard.html",
+      "resumo": "A targeted immunoPET scan detected active multiple myeloma that standard PET/CT scans and blood tests missed, a finding that could help doctors more accurately map disease, guide treatment decisions and confirm whether cancer remains after therapy. The phase 2 clinical trial was led by researchers at Sylvester Comprehensive Cancer Center, part of the University of Miami Miller School of Medicine.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-03T15:00:13+00:00",
+      "coletado_em": "2026-11-03T17:03:59.421646+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/targeted-scan.jpg",
+      "score": 6.325,
+      "cobertura": []
+    },
+    {
+      "id": "c75b56753e67",
+      "titulo": "Child dies of measles in New York’s first such death in 30 years",
+      "url": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss",
+      "resumo": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-03T13:48:16+00:00",
+      "coletado_em": "2026-11-03T17:03:59.422468+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/AP26281819303780-1024x576.jpg",
+      "score": 6.007,
+      "cobertura": [
+        "https://medicalxpress.com/news/2026-11-child-dies-measles-york-death.html"
+      ]
+    }
+  ],
+  "biologia": [
+    {
+      "id": "55f5c73674c3",
+      "titulo": "Beetle poop may have helped shape millions of years of yeast evolution",
+      "url": "https://phys.org/news/2026-11-beetle-poop-millions-years-yeast.html",
+      "resumo": "University at Buffalo scientists have found evidence that different species of yeast have shared genes originally acquired from an ancient virus—and the guts and droppings of beetles may have helped make it happen.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-03T14:40:06+00:00",
+      "coletado_em": "2026-11-03T17:03:59.423189+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/beetle-poop-may-have-h.jpg",
+      "score": 5.791,
+      "cobertura": []
+    },
+    {
+      "id": "55496ddf0344",
+      "titulo": "A CRISPR gene boost reduces seizures and strengthens muscles in mice",
+      "url": "https://phys.org/news/2026-11-crispr-gene-boost-seizures-muscles.html",
+      "resumo": "Some genetic diseases leave cells without a crucial protein. One possible treatment is to persuade genes already inside those cells to work harder, but the necessary machinery can be difficult to deliver, especially when researchers want to target several genes at once. A new compact CRISPR system devised by Hainan Zhang of the Shanghai Institute of Materia Medica, Chinese Academy of Sciences, and colleagues fits those instructions into a single viral delivery package.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-02T18:20:01+00:00",
+      "coletado_em": "2026-11-03T17:03:59.423189+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-crispr-gene-boost-re.jpg",
+      "score": 5.088,
+      "cobertura": []
+    },
+    {
+      "id": "e8840c4dd0f3",
+      "titulo": "'Evolution in the act': Forest lizards reveal rapid adaptation in a warming world",
+      "url": "https://phys.org/news/2026-11-evolution-forest-lizards-reveal-rapid.html",
+      "resumo": "Yale research scientist Saúl Domínguez-Guerrero didn't set out to catch \"evolution in the act\" when he traveled to the Caribbean with a team of Yale researchers a few years ago. At the time, the team from the lab of evolutionary biologist Martha Muñoz planned to do fieldwork on Caribbean anoles, colorful, tree-dwelling lizards native to warmer regions of the Americas.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-03T15:00:09+00:00",
+      "coletado_em": "2026-11-03T17:03:59.423189+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/evolution-in-the-act-s.jpg",
+      "score": 4.825,
+      "cobertura": []
+    },
+    {
+      "id": "92b50c162a22",
+      "titulo": "“Osso da sorte”: estudo sobre origem em aves e répteis dá pistas sobre evolução dos dinossauros​​",
+      "url": "https://jornal.usp.br/ciencias/osso-da-sorte-estudo-sobre-origem-em-aves-e-repteis-da-pistas-sobre-evolucao-dos-dinossauros/",
+      "resumo": "Desenvolvimento embrionário de aves e répteis atuais sugere que a fúrcula resulta da união das clavículas com a interclavícula; hipótese ajuda a compreender a evolução do esqueleto dos dinossauros",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-03T11:00:19+00:00",
+      "coletado_em": "2026-11-03T17:03:59.458017+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261028_furcula-1024x538.jpg",
+      "score": 4.759,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "1a72d2dca6be",
+      "titulo": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors",
+      "url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
+      "resumo": "The ISO 21423:2026 interoperability standard is intended to allow mobile robots from multiple vendors to communicate and coordinate. The post New ISO interoperability standard covers collaboration among mobile robots from multiple vendors appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-03T14:40:33+00:00",
+      "coletado_em": "2026-11-03T17:03:59.426638+00:00",
+      "imagem_feed": null,
+      "score": 4.642,
+      "cobertura": []
+    },
+    {
+      "id": "833358feaede",
+      "titulo": "Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+      "url": "https://tecnoblog.net/noticias/robo-de-entregas-ignora-sinal-vermelho-e-e-atropelado-por-onibus/",
+      "resumo": "Pelo menos nove passageiros se feriram em acidente na capital da Estônia. Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-03T14:42:14+00:00",
+      "coletado_em": "2026-11-03T17:03:59.464310+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/robo-na-estonia.png",
+      "score": 4.495,
+      "cobertura": []
+    },
+    {
+      "id": "a49295ad46c5",
+      "titulo": "Nova série da Netflix é a mistura perfeita de Cowboy Bebop com Avatar; conheça",
+      "url": "https://canaltech.com.br/entretenimento/nova-serie-da-netflix-e-a-mistura-perfeita-de-cowboy-bebop-com-avatar-conheca/",
+      "resumo": "Se você gosta de animações e está em busca de uma nova maratona no streaming, a Netflix tem uma sugestão: Bass X Machina . A produção é uma série de animação adulta que chegou ao streaming nesta terça-feira (3) e pode agradar aqueles que gostam de Cowboy Bebop e Avatar . Com seis episódios no total, Bass X Machina é uma mistura de faroeste e steampunk que explora os ciclos de violência que marcaram a história dos Estados Unidos, unindo elementos do Velho Oeste a robôs gigantes para conquistar a atenção do público. Dos mesmos criadores de Devil May Cry , a série mergulha nos momentos mais sombrios da história do país para contar a história de um pai de família que se vê no meio do olho do furacão de uma guerra civil, um mundo onde a fantasia e o calor ardente do deserto se encontram para entregar uma aventura emocionante. Qual é a trama de Bass X Machina? Inspirada na história real de Bass Reeves, o primeiro delegado negro dos EUA no Oeste, Bass X Machina se passa em uma realidade alternativa e sem leis onde a fronteira do país é dominada por bandidos, ameças sobrenaturais, máquinas e tecnologia a vapor. No meio disso tudo está Bass (voz de Brian Tyree Henry), um pai de família e ca",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-03T14:36:00+00:00",
+      "coletado_em": "2026-11-03T17:03:59.468506+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/AqeyMvbKMKJfWItcge7Yus--jBk=/0x0/filters:format(webp):quality(85)/1911ab55-3595-43a6-b8c1-7675b950d5d1.png",
+      "score": 4.334,
+      "cobertura": []
+    },
+    {
+      "id": "ee7fe25aac34",
+      "titulo": "A Meta quer entrar na sua casa, agora com um robô humanoide",
+      "url": "https://tecnoblog.net/noticias/a-meta-quer-entrar-na-sua-casa-agora-com-um-robo-humanoide/",
+      "resumo": "Criado em parceria com a chinesa Fourier, robô humanoide da Meta teria 1,5 de altura e tela na cabeça que mostra expressões faciais. A Meta quer entrar na sua casa, agora com um robô humanoide",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-02T16:10:56+00:00",
+      "coletado_em": "2026-11-03T17:03:59.464310+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-2-nov-2022.png",
+      "score": 4.225,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "6ddc762f6da4",
+      "titulo": "Fedora Linux 45 released",
+      "url": "https://lwn.net/Articles/1105121/",
+      "resumo": "Fedora Linux 45 has been released. This includes all editions: Fedora Workstation , Fedora KDE Plasma Desktop , Fedora Server , Fedora Cloud , Fedora CoreOS , and Fedora IoT , as well as the Atomic Desktops and Spins . This release adds support for installation on Stratis storage using Anaconda or Kickstart installs, retires unmaintained VPN plugins for NetworkManager, and updates Fedora's desktop environments, developer toolchains, and system packages. See the Fedora wiki ChangeSet page for a list of major changes.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-03T15:11:32+00:00",
+      "coletado_em": "2026-11-03T17:03:59.428882+00:00",
+      "imagem_feed": null,
+      "score": 6.345,
+      "cobertura": []
+    },
+    {
+      "id": "ecd55df8d985",
+      "titulo": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1105111/",
+      "resumo": "Security updates have been issued by AlmaLinux (bind, bind9.16, firefox, freerdp, ghostscript, kernel, kernel-rt, libXi, perl-YAML:1.24, perl:5.32, pipewire, qt5-qtbase, redis:6, tomcat, and wireshark), Debian (chromium, git-annex, incus, kernel, and strongswan), Fedora (barman, erlang-hex_core, glib-networking, kernel, knot, liblerc, libsoup3, mingw-cfitsio, openjpeg, perl-libnet, pipx, python-pillow, python-uv-build, radicale, ruff, rust-archive-trait, rust-astral-ini, rust-astral-mail-headers, rust-astral-pubgrub, rust-astral-version-ranges, rust-astral_async_zip, rust-quick-junit, rust-tar-codec, rust-tar-framing, tpm2-tss, ty, uv, and zvbi), Mageia (unbound), Red Hat (buildah, compat-openssl10, compat-openssl11, container-tools:rhel8, delve, golang-github-openprinting-ipp-usb, grafana, grafana-pcp, kernel, oci-seccomp-bpf-hook, openssl, opentelemetry-collector, osbuild-composer, podman, rhc, and skopeo), Slackware (expat), SUSE (ansible-core, apache-arrow, apache-commons-codec, apache-commons-io, apache-commons- logging, avalon-framework, avalon-logkit, glassfish-jsp, jsch, maven-file- management, opentest4j, aws-nitro-enclaves-cli, bouncycastle, chromedriver, chromium, cifs-u",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-03T14:10:12+00:00",
+      "coletado_em": "2026-11-03T17:03:59.428882+00:00",
+      "imagem_feed": null,
+      "score": 5.742,
+      "cobertura": []
+    },
+    {
+      "id": "6e52bc4c45b1",
+      "titulo": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "resumo": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-03T16:03:13+00:00",
+      "coletado_em": "2026-11-03T17:03:59.428172+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+      "score": 5.236,
+      "cobertura": []
+    },
+    {
+      "id": "63fdae19f285",
+      "titulo": "Rockstar prepara pré-carregamento e brindes para lançamento de GTA 6",
+      "url": "https://canaltech.com.br/games/rockstar-prepara-pre-carregamento-e-brindes-para-lancamento-de-gta-6/",
+      "resumo": "A Rockstar divulgou nesta terça-feira (3) que o pré-carregamento de GTA 6 iniciará no dia 10 de novembro de 2026 para o PS5 — à meia-noite, no horário de Brasília. No XBOX Series os fãs poderão iniciar o download um pouco antes: no dia 9 de novembro , às 21h no horário de Brasília. Além disso, foi revelado que as versões com o código na caixa estarão disponíveis nas revendedoras oficiais a partir do dia 12 de novembro de 2026. Com o acesso, você também terá a permissão para fazer o pre-load do game e começar a jogar em seu lançamento (em 19 de novembro de 2026). Segundo o estúdio, o novo Grand Theft Auto exigirá até 212 GB de armazenamento do seu videogame . Isso deve levar em consideração a atualização de “Day One” e plataformas — já que há exigências diferentes entre a Sony Interactive Entertainment e a Microsoft. No dia em que GTA 6 estiver disponível, a Rockstar também vai liberar um pôster para os usuários imprimirem com a arte da capa , assim como o mapa de Leonida como download digital grátis. Não é necessário ter feito a compra antecipada ou algo do tipo para usufruir destes brindes. A desenvolvedora revelou que a sua loja venderá uma versão física do pôster, com dupla face",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-03T17:02:09+00:00",
+      "coletado_em": "2026-11-03T17:03:59.468506+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/FVtvmp9BJzyrJGWdE9MAOvBSndM=/0x0/filters:format(webp):quality(85)/249270ba-8bb7-4609-a80a-ecb8df35a058.jpg",
+      "score": 5.096,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "996a097d0c7e",
+      "titulo": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
+      "resumo": "Customs authorities only check the performance specifications of a server's processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-03T12:04:32+00:00",
+      "coletado_em": "2026-11-03T17:03:59.430001+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rWdHT5SLeyUQVnKviKvckN-1920-80.jpg",
+      "score": 5.699,
+      "cobertura": []
+    },
+    {
+      "id": "f5ad21cb3fac",
+      "titulo": "Apple faces unprecedented memory cost increases as RAM prices continue to surge, manufacturing bill climbs by $33 billion",
+      "url": "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027",
+      "resumo": "Samsung, SK hynix, and Micron are facing strong demand for memory from AI data centers, prompting manufacturers to prioritize higher-margin server products and high-bandwidth memory. That shift is tightening supplies of conventional DRAM and NAND flash used in smartphones, laptops, and other consumer devices. The squeeze is also affecting smaller manufacturers, with Fairphone reporting that memory now accounts for nearly 60% of the bill of materials for some of its phones",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-03T14:28:59+00:00",
+      "coletado_em": "2026-11-03T17:03:59.430001+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/HgnpuyfGMdfMwVNFgWGMrh-1920-80.jpg",
+      "score": 5.423,
+      "cobertura": []
+    },
+    {
+      "id": "3f0b90e480cc",
+      "titulo": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
+      "resumo": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a policy and public relations push after the U.S. midterm elections. The company is also promoting the term “AI compute campuses” for its data centers as it seeks to address concerns over electricity demand, water consumption, pollution and rising utility bills",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-02T19:15:31+00:00",
+      "coletado_em": "2026-11-03T17:03:59.430001+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg",
+      "score": 5.267,
+      "cobertura": [
+        "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+        "https://www.techspot.com/news/114411-openai-plan-make-data-centers-less-hated-rename.html"
+      ]
+    },
+    {
+      "id": "c9a246404ce4",
+      "titulo": "Windows 11 8GB RAM configurations get a performance boost — As AI demand keeps pushing prices up, Microsoft says Windows is now 20% more responsive, multitasking 40% faster on memory-constrained machines",
+      "url": "https://www.tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines",
+      "resumo": "Microsoft claims that it has made drastic improvements to the performance of Windows 11 while using 8GB of RAM.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-03T17:00:00+00:00",
+      "coletado_em": "2026-11-03T17:03:59.430001+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/cqwbHNNf5x7Mp92imnEW2C-1920-80.jpg",
+      "score": 5.192,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "7ac9adebee20",
+      "titulo": "Leviathan's sprawling stars challenge idea that dusty giants become compact galaxies",
+      "url": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
+      "resumo": "Astronomers using the James Webb Space Telescope (JWST) have confirmed a massive, dust-rich galaxy called Leviathan in the early universe. Seen when the universe was roughly 1.5 billion years old, the galaxy has its stars spread out rather than in a concentrated fashion. A paper, describing its strange stellar distribution, was posted to the arXiv preprint server on Oct. 19.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-03T12:40:06+00:00",
+      "coletado_em": "2026-11-03T17:03:59.433000+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-ancient-dusty-galax.jpg",
+      "score": 6.101,
+      "cobertura": []
+    },
+    {
+      "id": "6a20739adbd9",
+      "titulo": "A tiny shift exposes a cold brown dwarf masquerading as an early galaxy",
+      "url": "https://phys.org/news/2026-11-tiny-shift-exposes-cold-brown.html",
+      "resumo": "A faint red object spotted by the James Webb Space Telescope originally appeared to offer a possible glimpse of the universe's first galaxies. But images taken about 3½ years apart revealed a giveaway: The object, nicknamed Capotauro, had moved.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-03T13:40:08+00:00",
+      "coletado_em": "2026-11-03T17:03:59.433000+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-tiny-shift-exposes-a.jpg",
+      "score": 5.694,
+      "cobertura": []
+    },
+    {
+      "id": "889d44efa900",
+      "titulo": "JWST may have found where heavy black hole seeds formed",
+      "url": "https://phys.org/news/2026-11-jwst-heavy-black-hole-seeds.html",
+      "resumo": "Astrophysicists think that the supermassive black holes (SMBH) we see in the modern universe are the result of a long, drawn-out process. That process is referred to as the hierarchical black hole mergers framework. It explains how some SMBHs can reach such staggering masses. Some of the most massive appear to have billions of solar masses.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-03T15:20:01+00:00",
+      "coletado_em": "2026-11-03T17:03:59.433000+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-jwst-may-have-foun.jpg",
+      "score": 5.359,
+      "cobertura": []
+    },
+    {
+      "id": "f435ac555b03",
+      "titulo": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "resumo": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-03T15:35:14+00:00",
+      "coletado_em": "2026-11-03T17:03:59.431779+00:00",
+      "imagem_feed": null,
+      "score": 4.836,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "6f6218d56830",
+      "titulo": "Experiment Supports Theoretical Path to Topological Quantum Computing",
+      "url": "https://thequantuminsider.com/2026/11/03/experiment-supports-theoretical-path-to-topological-quantum-computing/",
+      "resumo": "Insider Brief PRESS RELEASE — One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances. Physicists at the University of Cologne have now observed quantum states that behave as predicted […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-03T12:49:26+00:00",
+      "coletado_em": "2026-11-03T17:03:59.435055+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Low-Res_Schuck_Science_Advances.jpg",
+      "score": 5.765,
+      "cobertura": [
+        "https://phys.org/news/2026-11-theoretical-foundation-potentially-error-resistant.html"
+      ]
+    },
+    {
+      "id": "3c7420293cf0",
+      "titulo": "When Not If: Coinbase Chief Sees Quantum, Not AI as The Biggest Threat to Crypto",
+      "url": "https://thequantuminsider.com/2026/11/03/when-not-if-coinbase-chief-sees-quantum-not-ai-as-the-biggest-threat-to-crypto/",
+      "resumo": "Insider Brief An argument is forming that artificial intelligence may be a bigger threat right now than the ominous introduction of future cryptographically relevant quantum computers. Coinbase Global Inc. CEO Brian Armstrong weighed in during an earnings call and add his own two cents. He said quantum computing poses a more serious long-term threat to […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-03T12:34:09+00:00",
+      "coletado_em": "2026-11-03T17:03:59.435055+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/c6-y-fxhsis.jpg",
+      "score": 5.242,
+      "cobertura": []
+    },
+    {
+      "id": "c41ec021d2f1",
+      "titulo": "Universal Quantum Combines Ion Trap, Controls and Modular Links in New Chip",
+      "url": "https://thequantuminsider.com/2026/11/03/universal-quantum-combines-ion-trap-controls-and-modular-links-in-new-chip/",
+      "resumo": "Insider Brief PRESS RELEASE — Universal Quantum launches the iQPU, an integrated quantum processing unit designed to make quantum computers practical to manufacture, scale and deploy cost effectively. Combining the largest trapped-ion compute surface with built-in ultra-low noise control technology and modular chip-to-chip interconnect (UQConnect) interfaces, the iQPU addresses some of quantum computing’s hardest scaling […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-03T12:17:43+00:00",
+      "coletado_em": "2026-11-03T17:03:59.435055+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Image-1-1.jpg",
+      "score": 5.218,
+      "cobertura": []
+    },
+    {
+      "id": "d565ba859442",
+      "titulo": "Single molecules could provide the building blocks for future quantum networks",
+      "url": "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html",
+      "resumo": "Quantum computers rely on qubits as their units of information. To connect them into a larger network across long distances, they need to transmit quantum information using light.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-02T17:00:05+00:00",
+      "coletado_em": "2026-11-03T17:03:59.435623+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/single-molecules-could.jpg",
+      "score": 5.048,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "0eaf3e3a7544",
+      "titulo": "Google is entirely disabling Search in schools that don’t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "resumo": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-03T17:00:04+00:00",
+      "coletado_em": "2026-11-03T17:03:59.450364+00:00",
+      "imagem_feed": null,
+      "score": 6.242,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+      ]
+    },
+    {
+      "id": "32791f69eb2c",
+      "titulo": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "resumo": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-03T15:00:44+00:00",
+      "coletado_em": "2026-11-03T17:03:59.450364+00:00",
+      "imagem_feed": null,
+      "score": 6.026,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
+        "https://www.techspot.com/news/114411-openai-plan-make-data-centers-less-hated-rename.html"
+      ]
+    },
+    {
+      "id": "f9af525811e5",
+      "titulo": "Best gaming laptops 2026: 4 top options for portable performance",
+      "url": "https://www.pcworld.com/article/407493/best-gaming-laptops.html",
+      "resumo": "Gaming laptops have a lot more variety than most people think. That’s why it’s important to know a thing or two about them when shopping for one. There are some machines that deliver raw performance over anything else, and others that prioritize color-accurate displays. But the real test is how they actually hold up when gaming. And that’s where we come in! At PCWorld, we’ve put every laptop on this list through hands-on testing. And we didn’t just stop at the specifications, either! We looked at everything, including keyboard feel, port placement, performance consistency, and display quality. Why you should trust PCWorld for laptop reviews and buying advice: It’s in our name! PCWorld prides itself on laptop experience and expertise. We’ve been covering PCs since 1983, and we now review more than 70 laptops every year. All of the picks below have been personally tested and vetted by our experts, who’ve applied not only performance benchmarks but rigorous usability standards. We’re also committed to reviewing PC laptops at every price point to help you find a machine that matches your budget. Alienware 16X Aurora – Best gaming laptop overall Pros High-end CPU performance Bright and ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-03T17:00:00+00:00",
+      "coletado_em": "2026-11-03T17:03:59.437450+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/407493-0-91281800-1793725223-msi-titan-gt77-4.jpg?quality=50&strip=all",
+      "score": 5.692,
+      "cobertura": []
+    },
+    {
+      "id": "957b6d01d456",
+      "titulo": "Hands-on with the DockCase Mount Ling 2 Pro",
+      "url": "https://www.tomshardware.com/peripherals/docking-stations-hubs/hands-on-with-the-dockcase-mount-ling-2-pro-handheld-dock-with-a-built-in-capture-card-and-space-for-up-to-4tb-of-nvme-storage",
+      "resumo": "The Mount Ling 2 Pro is a dock for Nintendo Switch 2, Steam Deck, or other PC handhelds that doubles as a capture card and a vehicle for up to 4TB of NVMe SSD storage.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-03T14:20:22+00:00",
+      "coletado_em": "2026-11-03T17:03:59.430001+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/qPa2jKfJm34HERpCbkQ6SM-1920-80.jpg",
+      "score": 5.409,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "aca6994d7627",
+      "titulo": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
+      "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+      "resumo": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how this technology was going to transform the world. “But nobody mentioned Africa at all,” he says. Even then—before AI giants like OpenAI and Anthropic had launched their chatbots to the public—Kariuki could see significant obstacles to AI adoption in Africa. Internet access was slow and unequal, computing resources for training models were scarce, and there was little high-quality, structured training data. Most people, meanwhile, reached the internet through outdated, low-memory cellphones rather than computers or high-end phones. Together with co-founders Jude Mwenda and Stephanie Njerenga , Kariuki created Fastagger , a start-up that builds AI models that can run offline and on low-power cellphones. Its first big product, Auni, is a business intelligence assistant that launched in 2024; it got a big push when it was integrated into the business app of M-Pesa , Kenya’s largest mobile money service. Since then, about 6,000 businesses have signed up. Auni helps small an",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-03T14:30:02+00:00",
+      "coletado_em": "2026-11-03T17:03:59.451517+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-photo-shows-a-smiling-man-in-a-barbers-chair-with-a-smiling-man-standing-over-him.jpg?id=68563378&width=980",
+      "score": 5.874,
+      "cobertura": []
+    },
+    {
+      "id": "410d5c941f71",
+      "titulo": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "resumo": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-03T16:30:34+00:00",
+      "coletado_em": "2026-11-03T17:03:59.453142+00:00",
+      "imagem_feed": null,
+      "score": 5.687,
+      "cobertura": [
+        "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+      ]
+    },
+    {
+      "id": "56e14a04f6b7",
+      "titulo": "Navegador Brave é processado por coleta de dados para IA e ferramentas anti-paywall",
+      "url": "https://tecnoblog.net/noticias/navegador-brave-e-processado-por-coleta-de-dados-para-ia-e-ferramentas-anti-paywall/",
+      "resumo": "Ferramenta de busca com inteligência artificial também é alvo da ação. Navegador Brave é processado por coleta de dados para IA e ferramentas anti-paywall",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-03T16:42:08+00:00",
+      "coletado_em": "2026-11-03T17:03:59.464310+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/01/brave-navegador.jpg",
+      "score": 5.208,
+      "cobertura": []
+    },
+    {
+      "id": "bc4177032a04",
+      "titulo": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "resumo": "",
+      "fonte": "Hugging Face",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-03T16:35:36+00:00",
+      "coletado_em": "2026-11-03T17:03:59.453834+00:00",
+      "imagem_feed": null,
+      "score": 4.846,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "82c3f42a5cdc",
+      "titulo": "Iron powder could store wind and solar power for winter in retired coal plants",
+      "url": "https://techxplore.com/news/2026-11-iron-powder-solar-power-winter.html",
+      "resumo": "When wind and sun are weak in winter, Europe needs power plants that can deliver energy at the push of a button—and in a climate-neutral way. So far, hydrogen and carbon capture and storage (CCS) are considered the favorites for this. Both require infrastructure that doesn't yet exist. An expert report by the Energy Economics Institute at the University of Cologne (EWI), commissioned by the Metal Energy Hubs project of TU Darmstadt and the DESERTEC Foundation, is now examining a third option: iron. TU Darmstadt and KIT have been collaborating on the Clean Circles project on iron as an energy source since 2021.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-03T14:40:23+00:00",
+      "coletado_em": "2026-11-03T17:03:59.454804+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/rust-as-a-savior.jpg",
+      "score": 5.792,
+      "cobertura": []
+    },
+    {
+      "id": "620a303680ee",
+      "titulo": "North Africa's green hydrogen exports to Europe could harm water supply and marine life—study",
+      "url": "https://techxplore.com/news/2026-11-north-africa-green-hydrogen-exports.html",
+      "resumo": "Green hydrogen is a form of renewable energy that, if taken up widely, could reduce global greenhouse gas emissions. It is produced by splitting water molecules into hydrogen and oxygen using renewable power. This clean, zero-emissions fuel is mainly used by industries like steel manufacturing and chemical refining. Heavy transport sectors such as maritime shipping, aviation and long-haul trucking could also use it.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-03T15:20:06+00:00",
+      "coletado_em": "2026-11-03T17:03:59.454804+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/north-africas-green-hy.jpg",
+      "score": 4.86,
+      "cobertura": []
+    },
+    {
+      "id": "a8f9bbad3775",
+      "titulo": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
+      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
+      "resumo": "Solar cells generate electricity by absorbing sunlight in a thin layer of perovskite, a light-absorbing material. This layer is made with a liquid solution that dries and crystallizes into a solid film, but small changes in temperature, humidity and other conditions can affect the film and the performance of the solar cell.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-02T14:40:10+00:00",
+      "coletado_em": "2026-11-03T17:03:59.454804+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/bright-spark-robots-an-1.jpg",
+      "score": 4.485,
+      "cobertura": []
+    },
+    {
+      "id": "20cccb5da03a",
+      "titulo": "SUV da BYD chega ao Brasil com tempo de recarga insano",
+      "url": "https://canaltech.com.br/carros/suv-da-byd-chega-ao-brasil-com-tempo-de-recarga-insano/",
+      "resumo": "Novembro mal começou e a BYD já tem planos para o mês . Segundo informações divulgadas em um evento de concessionários na Argentina, nas próximas semanas, a chinesa vai trazer seu B3 ao catálogo nacional, novo jipe elétrico de sua divisão de alto luxo Denza . O modelo chega por aqui em uma faixa de preço logo abaixo de R$ 400 mil e, segundo a Autoesporte, deve se chamar Bao 3 . O nome se deve a uma decisão tomada com base no mercado chinês: por lá, os SUVs 4x4 da BYD são vendidos pela Fang Cheng Bao; por aqui, o novo SUV deve ficar sob o guarda-chuva da Denza. E, diferente do irmão maior Denza B5, que aposta em conjunto híbrido plug-in, o novato chega com propulsão exclusivamente elétrica e arquitetura de 800 volts . O movimento busca consolidar o catálogo premium da montadora chinesa no país ao mesmo tempo em que a BYD aproveita a expansão da rede de lojas dedicadas para transformar o utilitário no carro-chefe de vendas da submarca. Denza Bao 3 O modelo traz dois propulsores elétricos que somam 510 cv de potência combinada e ainda entregam tração nas quatro rodas , acelerando de 0 a 100 km/h em 4,7 segundos . O conjunto é alimentado por uma bateria Blade de 75,6 kWh, que oferece c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-03T16:00:00+00:00",
+      "coletado_em": "2026-11-03T17:03:59.468506+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Jq_tjY6Khx870FNlhTi-HDV_Xeo=/0x0/filters:format(webp):quality(85)/583ca0dc-bc60-4b8a-8fd3-cda7d0247871.png",
+      "score": 4.481,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "0a9264057159",
+      "titulo": "Vazamento revela vilões de The Batman 2 e indica novo ator para o Duas-Caras",
+      "url": "https://canaltech.com.br/entretenimento/vazamento-revela-viloes-de-the-batman-2-e-indica-novo-ator-para-o-duas-caras/",
+      "resumo": "Parece que a novela por trás do ator que vai interpretar o Duas-Caras em Batman: Parte 2 ainda não acabou. Embora Sebastian Stan já tenha confirmado que ele será o intérprete de Harvey Dent, o diretor Matt Reeves deu a entender há meses atrás que um outro ator vai viver o personagem no filme e quase ninguém percebeu. Tudo começou quando Reeves confirmou que Bryan Tyree Henry estaria na sequência de Batman (2022) no X (antigo Twitter). Na publicação, o diretor comentou “bem-vindo à festa, cara”, uma frase que chamou a atenção de fãs mais assíduos do universo do herói. Isso porque a frase original, que é “welcome to the party, man”, fez alguns entusiastas associarem a felicitação à canção Partyman, do Prince, que consta na trilha sonora de Batman (1989). No vídeo, o cantor aparece usando uma maquiagem similar à do Coringa, enquanto uma multidão surge usando máscaras que cobrem apenas metade do rosto. Diante dessa “coincidência”, a teoria da vez sugere que Bryan Tyree Henry pode ser o verdadeiro intérprete do Duas-Caras, vilão conhecido por ter metade do rosto desfigurado. Enquanto isso, a especulação é que Sebastian Stan seja o responsável por viver o serial killer Victor Zsasz, outr",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-03T13:01:00+00:00",
+      "coletado_em": "2026-11-03T17:03:59.468506+00:00",
+      "imagem_feed": null,
+      "score": 3.883,
+      "cobertura": []
+    },
+    {
+      "id": "3b6a51103bfa",
+      "titulo": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "resumo": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-03T02:24:31+00:00",
+      "coletado_em": "2026-11-03T17:03:59.455722+00:00",
+      "imagem_feed": null,
+      "score": 3.408,
+      "cobertura": []
+    },
+    {
+      "id": "9cac160b2394",
+      "titulo": "CISA Kicks Off Critical Infrastructure Security and Resilience Month 2026",
+      "url": "https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-security-and-resilience-month-2026",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-02T12:00:00+00:00",
+      "coletado_em": "2026-11-03T17:03:59.455582+00:00",
+      "imagem_feed": null,
+      "score": 3.373,
+      "cobertura": []
+    },
+    {
+      "id": "df36017b43fb",
+      "titulo": "Mercado Bitcoin pode ter perdido R$ 217 milhões em ataque hacker",
+      "url": "https://tecnoblog.net/noticias/mercado-bitcoin-pode-ter-perdido-r-217-milhoes-em-ataque-hacker/",
+      "resumo": "Corretora brasileira afirma que clientes não tiveram prejuízos nem dados vazados. Depósitos e saques foram temporariamente suspensos. Mercado Bitcoin pode ter perdido R$ 217 milhões em ataque hacker",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-02T17:29:50+00:00",
+      "coletado_em": "2026-11-03T17:03:59.464310+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/mb-mercado-bitcoin.webp",
+      "score": 3.263,
+      "cobertura": []
+    }
+  ]
+}
