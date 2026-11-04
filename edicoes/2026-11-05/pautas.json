@@ -1,0 +1,383 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "4dedb6f07473",
+      "titulo": "Prostate cancer drug shows promise in new clinical trial",
+      "url": "https://medicalxpress.com/news/2026-11-prostate-cancer-drug-clinical-trial.html",
+      "resumo": "In a recent Yale-led clinical trial, a new type of prostate cancer drug showed promising results in reducing tumor activity and pain for patients with metastatic prostate cancer.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-04T15:40:20+00:00",
+      "coletado_em": "2026-11-04T17:15:46.259715+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-drug-s.jpg",
+      "score": 6.374,
+      "cobertura": []
+    },
+    "texto_fonte": "Prostate cancer drug shows promise in new clinical trial\nIn a recent Yale-led clinical trial, a new type of prostate cancer drug showed promising results in reducing tumor activity and pain for patients with metastatic prostate cancer.\n\"This is a first-in-class drug for prostate cancer,\" says Daniel Petrylak, professor of medicine (oncology and hematology) at Yale School of Medicine and senior author of the study, published Oct. 9 in the Journal of Clinical Oncology.\nPatients in the phase 1/phase 2 clinical trial were diagnosed and previously treated for metastatic castration-resistant prostate cancer (mCRPC), an incurable, lethal form of the disease. Oncologists typically treat prostate cancer by starving it of testosterone, which halts growth for a time. But with mCRPC, the cancer continues to grow even with limited testosterone.\n\"More than 35,000 men will die from mCRPC in the United States this year,\" says Petrylak, a member of Yale Cancer Center. \"It's the most advanced form of prostate cancer.\"\nBavdegalutamide is the first PROTAC androgen receptor degrader to be clinically tested. PROTACs are a new class of cancer drug that use proteolysis, the natural process wherein a cell breaks down proteins to recycle the materials, to degrade cancers. PROTACs were pioneered by Yale researcher Craig Crews, including the first PROTAC approved by the U.S. Food and Drug Administration for use in breast cancer.\nBavdegalutamide was designed to treat mCRPC by bypassing its resistance to other hormone therapies. \"Bavdegalutamide takes your own natural protein degradation system, and it accelerates the process for the androgen receptor. The drug degrades the receptors for testosterone, which control prostate cancer growth,\" says Petrylak.\nIn phase 1 of the trial, the researchers found that a 420-milligram daily dose was safe for patients who had already been treated for mCRPC. In phase 2, they evaluated the drug's effectiveness. The team of researchers and clinicians measured prostate-specific antigen, which is the hallmark of mCRPC, before and after administering the drug.\n\"There was a decrease in prostate-specific antigen. We also saw regressions in soft tissue lesions and improvements in pain,\" says Petrylak. \"These are the parameters that indicate a positive response.\"\nThe research collaborators also studied the effect that bavdegalutamide had on prostate cancers with different mutations. In cancers with what are known as T878 and/or H875 mutations of androgen receptors, bavdegalutamide led to a greater reduction of prostate-specific antigen. The study's authors point to this result as an indicator of PROTAC drugs being used as precision medicine.\nThe researchers and clinician collaborators are currently testing a second PROTAC, called ARV 766, in phase 1 and phase 2 clinical trials. This drug is active against a broader spectrum of androgen receptor mutations than ARV-110.\nPublication details\nXin Gao et al., Phase I/II Study of Bavdegalutamide, a Proteolysis-Targeting Chimera Androgen Receptor Degrader, in Metastatic Castration-Resistant Prostate Cancer, Journal of Clinical Oncology (2026). DOI: 10.1200/jco-25-02995\nJournal information: Journal of Clinical Oncology",
+    "autor_fonte": "Yale School",
+    "site_fonte": "Medical Xpress",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/prostate-cancer-drug-s.jpg",
+    "imagem_arquivo": "imagens/medicina-prostate-cancer-drug-shows-promise-in-ne.jpg",
+    "imagem_credito": "Medical Xpress",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://medicalxpress.com/news/2026-11-prostate-cancer-drug-clinical-trial.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "bd4cdf44eda9",
+      "titulo": "A death sentence for ‘sloppy’ cancers",
+      "url": "https://www.nature.com/articles/d41586-026-03269-8",
+      "resumo": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03269-8 The process of making protein from RNA can go awry in cancer cells. This malfunction might be harnessed to create an effective gene-therapy tool that targets tumours.",
+      "fonte": "Nature",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-04T00:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.261587+00:00",
+      "imagem_feed": null,
+      "score": 5.738,
+      "cobertura": []
+    },
+    "texto_fonte": "Access options\nAccess Nature and 54 other Nature Portfolio journals\nGet Nature+, our best-value online-access subscription\nSubscribe to this journal\nReceive 51 print issues and online access\nRent or buy this article\nPrices vary by article type\nPrices may be subject to local taxes which are calculated during checkout\ndoi: https://doi.org/10.1038/d41586-026-03269-8\nReferences\n- Wang, Q. et al. Nature https://doi.org/10.1038/s41586-026-11200-4 (2026).\n- Champagne, J. et al. Mol. Cell 81, 4709–4721 (2021).\n- Bartok, O. et al. Nature 590, 332–337 (2021).\n- Weller, C. et al. Cancer Cell 43, 823–840 (2025).\n- Kochavi, A. et al. Nucleic Acids Res. 52, 13964–13979 (2024).\n- Atkins, J. F., Loughran, G., Bhatt, P. R., Firth, A. E. & Baranov, P. V. Nucleic Acids Res. 44, 7007–7078 (2016).\n- Xavier, A. et al. Cell https://doi.org/10.1016/j.cell.2026.08.031 (2026).\n- Wang, X. et al. Cell 176, 625–635 (2019).\n- Rodnina, M. V. Annu. Rev. Biophys. 52, 161–182 (2023).\n- Dever, T. E., Dinman, J. D. & Green, R. Cold Spring Harb. Perspect. Biol. 10, a032649 (2018).\n- Coffino, P. Nature Rev. Mol. Cell Biol. 2, 188–194 (2001).\n- Inada, T. Nature Struct. Mol. Biol. 33, 394–407 (2026).\n- Wang, H. et al. Mol. Cancer 23, 268 (2024).\n- Byrne, B. J. et al. Mol. Ther. 33, 2479–2516 (2025).\nCompeting Interests\nThe authors declare no competing interests.",
+    "autor_fonte": "Valcanover; Lorenzo; Agami; Reuven",
+    "site_fonte": "Nature",
+    "imagem_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03269-8/d41586-026-03269-8_53934420.jpg",
+    "imagem_arquivo": "imagens/biologia-a-death-sentence-for-sloppy-cancers.jpg",
+    "imagem_credito": "Nature",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.nature.com/articles/d41586-026-03269-8",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "ebe6136890ae",
+      "titulo": "Robotics Startup Radar 2026",
+      "url": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+      "resumo": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics. The post Robotics Startup Radar 2026 appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-04T16:08:46+00:00",
+      "coletado_em": "2026-11-04T17:15:46.262643+00:00",
+      "imagem_feed": null,
+      "score": 5.275,
+      "cobertura": []
+    },
+    "texto_fonte": "The Robot Report tracks startups throughout the year, and our second annual Startup Radar spotlights some of the most interesting new companies developing commercial robotics and related technologies. From industrial automation and drones to humanoid robots, 2026 has been a year of innovation in the face of persistent labor shortages and geopolitical challenges.\nTo qualify, organizations must be no more than five years old and must be working on enabling technologies, new full systems, or novel business approaches. The free download notes their application, headcount, and total funding raised to date.\nThis year, we received a significant number of submissions around software, which is no surprise given the recent wave of interest and investment in data, simulation, and next-generation AI models. They promise to make robots more autonomous, combining the ability to perceive, understand, act, and improve.\nThe 2026 Robotics Startup Radar features 60 companies working to serve a range of industries, from manufacturing and supply chain/warehousing to agriculture, defense, healthcare, and more. They are based in more than a dozen countries, and several have already successfully raised millions of dollars.\nWhat makes a successful robotics, automation, and AI startup? Such companies offer a strong technical foundation, teams with vision and experience, some business savvy, and key partnerships with industry stakeholders. While not every startup will scale or have an exit or an acquisition, understanding the target market is a key first step.\nThe Robot Report will continue to cover and share financial news and success stories from this competitive space. As startups look to incubators and grants for support, investors and analysts are always looking for the next big thing and the right mix of technologies to continue expanding automation worldwide.\nNote that the call for The Robot Report (TRR) 50 Robotics Innovation Awards, to be presented at the Robotics Summit & Expo in Boston on June 2 and 3, 2027, is already open.\nThis report is sponsored by maxon and PTC.\n\"*\" indicates required fields\nBy clicking 'Submit' above and registering for this content, I acknowledge and agree to Arrowfly's Terms and Conditions and to Arrowfly's use of my contact information to communicate with me about offerings by Arrowfly, its brands, affiliates and/or third-party partners, consistent with Arrowfly's Privacy Policy. In addition, I understand that my personal information may be shared with any sponsor(s) of the content, and that they may contact me directly about their products or services. Please refer to the privacy policies of such sponsor(s) for more details on how your information will be used by them.",
+    "autor_fonte": "The Robot Report Staff",
+    "site_fonte": "The Robot Report",
+    "imagem_url": "https://www.therobotreport.com/wp-content/uploads/2026/11/RR_Robotics-Startup-Radar_2026-Thumbnail.png",
+    "imagem_arquivo": "imagens/robotica-robotics-startup-radar-2026.jpg",
+    "imagem_credito": "The Robot Report",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "7258adf1eeb2",
+      "titulo": "Windows 11 fica até 40% mais rápido em PCs com 8 GB de RAM",
+      "url": "https://canaltech.com.br/software/windows-11-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/",
+      "resumo": "A Microsoft anunciou uma nova atualização no Windows 11 para otimizar o consumo de memória em computadores com até 8 GB de RAM . Testes da Gigante de Redmond indicam que o sistema está 20% mais responsivo e até 40% mais rápido ao gerenciar múltiplas tarefas. Por padrão, o Windows usa praticamente toda a memória que tem à disposição para manter aplicativos e dados prontos para uso, mas consegue alocar a capacidade ao identificar tarefas mais exigentes. O grande desafio é manter o sistema responsivo enquanto usa toda a RAM disponíve l. A empresa fez novos ajustes na compressão dos dados de olho nos PCs com 8 GB de memória: agora, o sistema pode manter até 2 GB de dados ativos antes de movê-los para um armazenamento mais lento, o que garante que apps e abas do navegador serão recarregadas com menos frequência no dia a dia. Novos ajustes para reduzir o consumo Algumas mudanças na estrutura dos aplicativos contribuíram para otimizar o uso de RAM, com destaque para redução de até 900 MB no crescimento de memória comprometida em testes de multitarefas. Veja algumas alterações destacadas pela companhia: Melhorias em Word, PowerPoint, Excel e Outlook tiveram ganhos de até 360 MB no consumo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-04T16:11:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": null,
+      "score": 5.679,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/windows-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/"
+      ]
+    },
+    "texto_fonte": "Windows 11 fica até 40% mais rápido em PCs com 8 GB de RAM\nPor André Lourenti Magalhães • Editado por Jones Oliveira |\nA Microsoft anunciou uma nova atualização no Windows 11 para otimizar o consumo de memória em computadores com até 8 GB de RAM. Testes da Gigante de Redmond indicam que o sistema está 20% mais responsivo e até 40% mais rápido ao gerenciar múltiplas tarefas.\nPor padrão, o Windows usa praticamente toda a memória que tem à disposição para manter aplicativos e dados prontos para uso, mas consegue alocar a capacidade ao identificar tarefas mais exigentes. O grande desafio é manter o sistema responsivo enquanto usa toda a RAM disponível.\nA empresa fez novos ajustes na compressão dos dados de olho nos PCs com 8 GB de memória: agora, o sistema pode manter até 2 GB de dados ativos antes de movê-los para um armazenamento mais lento, o que garante que apps e abas do navegador serão recarregadas com menos frequência no dia a dia.\nNovos ajustes para reduzir o consumo\nAlgumas mudanças na estrutura dos aplicativos contribuíram para otimizar o uso de RAM, com destaque para redução de até 900 MB no crescimento de memória comprometida em testes de multitarefas. Veja algumas alterações destacadas pela companhia:\n- Melhorias em Word, PowerPoint, Excel e Outlook tiveram ganhos de até 360 MB no consumo\n- Widgets carregam apenas ao clicar no respectivo painel do Windows em PCs com 8 GB, com ganhos de até 200 MB\n- Abas inativas no Microsoft Edge ficam em repouso após 15 minutos, o que reduz o gasto de memória em guias em segundo plano\n- Aplicativos de terceiros, como o WhatsApp, também foram otimizados\nUm dos testes divulgados pela MS compara o desempenho do sistema atual com a versão de janeiro deste ano em tarefas simples, como abrir o Menu Iniciar, clicar com o botão direito ou abrir a ferramenta de captura. As interações ficaram até 20% mais rápidas durante o experimento.\nEm vídeo, a Microsoft compara o desempenho de algumas ações no Windows antes e depois da otimização:\nPor que o foco em 8 GB?\nA configuração com 8 GB de RAM se tornou padrão em computadores mais baratos e passou a ser usada até em notebooks mais avançados neste ano, como o Surface da própria Microsoft.\nUm dos motivos é a crise global da memória RAM, na qual o componente ficou muito mais caro devido à escassez de semicondutores. O uso excessivo de memória em data centers de IA encareceu o produto e dificultou possíveis upgrades em quem já tem PCs com memória mais limitada.\nAinda que o uso de 16 GB seja considerado ideal por especialistas para tarefas mais avançadas, como jogar ou editar vídeos, a Microsoft se comprometeu a melhorar o gerenciamento de memória em computadores mais simples. A medida, inclusive, foi uma das promessas da empresa para melhorar a experiência do Windows neste ano.\nA atualização com todas as mudanças será liberada na build 26300.9818 do Windows 11 26H2, disponível a partir da tela Windows Update nas configurações.",
+    "autor_fonte": "André Lourenti Magalhães",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/aEsSjJGZpSDjJc2BcfgCnAaITQI=/1200x675/smart/filters:format(webp):quality(85)/bd4f9858-cbde-46a1-a433-2e7136105d22.jpg",
+    "imagem_arquivo": "imagens/software-windows-11-fica-ate-40-mais-rapido-em-pc.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/software/windows-11-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "ed2bc0c6a5b3",
+      "titulo": "Nvidia can only fulfill 1% of China’s massive $70 billion GPU order for AI chips, report claims — supply constraints choke export-friendly RTX Pro 5500 deliveries despite huge demand",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
+      "resumo": "Just 1% of chips promised to major Chinese companies to power their AI ambitions will be delivered, according to reports.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-04T12:15:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.264029+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/dSBDYrrovpyaiRvgSSQPGT-1920-80.jpg",
+      "score": 5.697,
+      "cobertura": []
+    },
+    "texto_fonte": "Chinese technology giants ByteDance, Alibaba and Tencent, among others, are set to receive only a limited number of Nvidia chips that they've ordered. Bloomberg is reporting that, according to unnamed sources, only \"some tens of thousands, or roughly 1%\" of RTX Pro 5500 workstation GPUs will be delivered over the next few months.\nDemand for the RTX Pro 5500 has far outstripped Nvidia's planned production. According to earlier reports, Chinese firms were suggested to have spent $35 billion on orders for over 3 million of the GPUs, far beyond Nvidia's ability to produce them. This new report suggests that amount has risen to $70 billion, at a cost of $11,000 per unit.\nChinese demand for the RTX Pro 5500 is based on its performance and its unique status for shipping. The RTX Pro 5500 has the same CUDA cores as its flagship gaming GPU, the RTX 5090, but with a boosted 84GB GDDR7 memory count, so it's a good option for AI.\nUnlike the RTX 5090, or other AI-focused workstation GPUs like the H200 and B300, there are no export limits, meaning it can be shipped to China without restrictions. China is in an arms race with the U.S. to produce better AI models, with GPUs like the RTX Pro 5500 being core to its success. Nvidia has reportedly halted RTX 5090 production to pivot towards its AI-focused enterprise base.\nThe report suggests that Chinese developers expect a first batch of several thousand RTX Pro 5500 GPUs to be delivered by the end of 2026. In total, 700,000 RTX Pro 5500s are expected to be delivered by the end of 2027 as Nvidia increases its production, although this could change.\nTom's Hardware has approached Nvidia for comment. In a statement to Bloomberg, an Nvidia spokesman declined to comment on shipment numbers, but did criticize U.S. export controls, stating that \"outdated U.S. export controls, which cover gaming products released nearly half a decade ago\" continue to restrict it, along with \"China's own limits on U.S. imports.\"\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nBen Stockton is a deals writer at Tom’s Hardware. He's been writing about technology since 2018, with bylines at PCGamesN, How-To Geek, and Tom’s Guide, among others. When he’s not hunting down the best bargains, he’s busy tinkering with his homelab or watching old Star Trek episodes.",
+    "autor_fonte": "Ben Stockton",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/dSBDYrrovpyaiRvgSSQPGT-2000-80.jpg",
+    "imagem_arquivo": "imagens/hardware-nvidia-can-only-fulfill-1-of-chinas-mass.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "15fa37619dd4",
+      "titulo": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
+      "url": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+      "resumo": "So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to date, astronomers are unclear as to how they could have grown so large so quickly.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-04T16:30:01+00:00",
+      "coletado_em": "2026-11-04T17:15:46.265063+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-hole-pair.jpg",
+      "score": 5.964,
+      "cobertura": []
+    },
+    "texto_fonte": "Pulsars set first mass limits on supermassive black hole pairs in the early universe\nSam Jarman\nAuthor\nSo far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to date, astronomers are unclear as to how they could have grown so large so quickly.\nThrough new research published in Physical Review Letters, a team led by Yiqin Chen at Beijing Normal University has used a pulsar timing array to place the first direct limits on pairs of supermassive black holes in this early era, known as the 'cosmic dawn.'\nElusive early universe\nWhen two supermassive black holes orbit each other, they slowly stir the surrounding spacetime, sending gravitational waves rippling across the universe. For pairs this massive, a single orbit can take around a year, producing waves far too slow for Earth-based detectors.\nInstead, astronomers search for them using pulsar timing arrays: networks of rapidly spinning neutron stars spread across our galaxy, which flash with the regularity of cosmic clocks. A passing gravitational wave subtly shifts the timing of these flashes, in a pattern shared across the whole array.\nBy picking out signals from individual pairs at great distances, astronomers could reveal how much the earliest supermassive black holes grew through mergers. However, standard searches ignore the expansion of the universe, which stretches gravitational waves as they travel. If the resulting redshift is ignored, it could lead to misjudgments in the masses of distant pairs. As a result, these searches have remained limited to the nearby universe.\nAccounting for redshift\nTo tackle the challenge, Chen's team developed a new approach that could account for the strong redshift in signals originating from the distant early universe. A redshifted wave arriving at Earth was originally emitted at a higher frequency, when the black holes were orbiting more tightly and producing stronger waves. Surprisingly, this brightening can outweigh the dimming caused by distance.\nTo apply the idea, the researchers analyzed 18 years of observations of 30 pulsars from the Parkes Pulsar Timing Array in Australia. They then combined their search with the known positions and redshifts of two targets.\nThe first was an ultrabright quasar, observed less than 900 million years after the Big Bang. The second was one of the most distant galaxies ever spotted by JWST, observed under 300 million years after the Big Bang. Together, these sources allowed the team to calculate limits on the true masses of any black hole pairs in these systems.\nContinuing the search\nFor both targets, the team ruled out pairs of around 10 billion solar masses or more, providing the first direct gravitational-wave constraints on black hole pairs at the cosmic dawn.\nAs Parkes combines its data with other arrays, and as future facilities like the Square Kilometer Array sharpen pulsar timing, Chen's team now hopes these constraints should soon tighten further. In combination with dedicated searches for short gravitational-wave bursts, these studies could bring less extreme pairs within reach of astronomers' observations.\nAltogether, the results show that greater distances don't necessarily make black hole pairs harder to detect. This could offer a new way to hunt for them, and could help explain how such massive black holes appeared so early in the universe's history.\nWritten for you by our author Sam Jarman, edited by Sadie Harley, and fact-checked and reviewed by Robert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.\nPublication details\nYiqin Chen et al., Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn, Physical Review Letters (2026). DOI: 10.1103/5z5g-shly. On arXiv: arxiv.org/abs/2609.00613v1\n© 2026 Science X Network",
+    "autor_fonte": "Sam Jarman",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/black-hole-pair.jpg",
+    "imagem_arquivo": "imagens/astrofisica-pulsars-set-first-mass-limits-on-superma.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "20e273b9eaad",
+      "titulo": "China’s Photonic Quantum Computer Among WIC Award Winners",
+      "url": "https://thequantuminsider.com/2026/11/04/chinas-photonic-quantum-computer-among-wic-award-winners/",
+      "resumo": "Insider Brief China’s Jiuzhang 4.0 photonic quantum computer has won one of the World Internet Conference’s top science prizes. The prototype, built by researchers at the University of Science and Technology of China, or USTC, was among 20 projects honored with the 2026 WIC Leading Science and Technology Awards at a ceremony Monday in Wuzhen, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-04T12:06:23+00:00",
+      "coletado_em": "2026-11-04T17:15:46.266040+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Jiuzhang.jpg",
+      "score": 5.185,
+      "cobertura": []
+    },
+    "texto_fonte": "Insider Brief\n- China’s Jiuzhang 4.0 photonic quantum computer was among 20 projects honored with the 2026 World Internet Conference Leading Science and Technology Awards.\n- In past experiments, the USTC prototype detected up to 3,050 photons in a single run, compared with 255 for Jiuzhang 3.0, while performing Gaussian boson sampling.\n- Researchers claim a substantial speed advantage over classical computers, but boson sampling benchmarks have faced challenges and the task has no known commercial use.\n- Image: A view of the programmable photonic quantum computing prototype “Jiuzhang 4.0.” /CMG\nChina’s Jiuzhang 4.0 photonic quantum computer has won one of the World Internet Conference’s top science prizes.\nThe prototype, built by researchers at the University of Science and Technology of China, or USTC, was among 20 projects honored with the 2026 WIC Leading Science and Technology Awards at a ceremony Monday in Wuzhen, in eastern China’s Zhejiang province, according to state broadcaster CGTN.\nOrganizers received more than 430 submissions from 43 countries and regions, CGTN reports. The winners fell into three categories: two in basic research, 10 in key technologies and eight in engineering and development. Other winners included optical transmission technology for space-based quantum information and an AI agent platform for intelligent vehicles.\nA Record for Light-Based Computing\nJiuzhang uses particles of light, called photons, and computes by steering them through a network of optical parts and counting where they arrive. Other types of quantum computers hold information in superconducting circuits or trapped atoms.\nThe team described the machine in the journal Nature in May. It fed 1,024 beams of squeezed light — or, light prepared so that its natural flicker is reduced in one measurable property — into a circuit with 8,176 channels, called modes. Detectors recorded up to 3,050 photons in a single run. Jiuzhang 3.0 handled 255.\nThe machine performs a task called Gaussian boson sampling. In that task, light is sent through the network and records the pattern of photons that comes out. As the number of photons grows, predicting those patterns becomes far harder for ordinary computers.\nUSTC professor Lu Chaoyang said the device produces its most complex sample in about 25 microseconds, “shorter than the blink of an eye,” according to the official Xinhua News Agency. He said the world’s most powerful supercomputer would need more than 10 to the 42nd power years to calculate the same result. The team’s earlier preprint names that machine as El Capitan, at Lawrence Livermore National Laboratory in California. The team puts the machine’s speed at more than 10 to the 54th power times that of the supercomputer.\nA Contested Benchmark\nThe Jiuzhang series began in 2020 with a machine that detected 76 photons. Jiuzhang 2.0 reached 113, The Quantum Insider reported in 2023. The program comes from physicist Pan Jianwei’s group at USTC.\nSpeed claims for boson sampling have drawn challenges. A 2024 study in Nature Physics by researchers at the University of Chicago and Argonne National Laboratory used photon loss, a common flaw in optical experiments, to simulate earlier boson sampling results on conventional computers. The researchers said their classical method matched the ideal results better than the experiments did.\nThe Jiuzhang 4.0 team aimed its new work at that method. The team estimates that the method would take 1 followed by 42 zeros years to reproduce the result on the El Capitan, a world-leading classical supercomputer. The study, published in the preprint arXiv, also reports that the machine’s outputs could be told apart from several classical imitations.\nBoson sampling has no known commercial use, but, rather serves as a test of whether a quantum device can outpace classical machines.\nLu said the team’s light sources and circuit design open a path to large three-dimensional “cluster states,” webs of linked light that researchers see as the raw material for optical quantum computers that can correct their own errors.\nMatt Swayne\nGet the latest research, company news, and market intelligence every week.",
+    "autor_fonte": "Matt Swayne",
+    "site_fonte": "The Quantum Insider",
+    "imagem_url": "https://thequantuminsider.com/wp-content/uploads/2026/11/Jiuzhang.jpg",
+    "imagem_arquivo": "imagens/quantica-chinas-photonic-quantum-computer-among-w.jpg",
+    "imagem_credito": "The Quantum Insider",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://thequantuminsider.com/2026/11/04/chinas-photonic-quantum-computer-among-wic-award-winners/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "6add6306f18a",
+      "titulo": "Chrome 157 fixes over 200 security flaws, 7 of them critical",
+      "url": "https://www.pcworld.com/article/3276837/chrome-157-fixes-over-200-security-flaws-7-of-them-critical.html",
+      "resumo": "Google just released Chrome 157.0.8103.38/39 for Windows and macOS and 157.0.8103.38 for Linux, fixing over 200 security vulnerabilities, some of which are critical. According to Google, none of the patched vulnerabilities have been exploited in the wild yet. Chrome 158 is due to be released in two weeks. What’s new in Chrome 157? In Chrome’s “What’s New” page that shows after updating, Google announces a new feature for sending open browser tabs to all (or select) devices. To use this feature, you’ll need to be signed in to Chrome with the same account on all sending and receiving devices (phone, tablet, laptop). When sending from your PC, you don’t need to use the unnecessarily fiddly method of three-dot menu → Stream, save, and share → Send to my device . Instead, it’s quicker if you right-click on the relevant tab and select Send to my device from the context menu. When sending from your Android device, open the tab you want to send, then press and hold the address bar and select Send to my device . This has worked this way since Chrome 77 (2019), so it’s not really news. Security flaws fixed in Chrome 157 In the Chrome Releases blog post , Srinivas Sista lists 213 security vul",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-04T14:54:07+00:00",
+      "coletado_em": "2026-11-04T17:15:46.267001+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3276837-0-20682200-1793804059-Chrome-logo-on-pixelized-Chrome-logo.jpg?quality=50&strip=all",
+      "score": 6.445,
+      "cobertura": []
+    },
+    "texto_fonte": "In summary:\n- PCWorld reports that Google’s Chrome 157 update addresses 213 security vulnerabilities, including seven critical flaws and 77 high-risk issues, with external researchers rewarded $31,000 for discoveries.\n- Common bugs involved use-after-free errors and V8 engine data leaks, making this update essential for user protection.\n- Chrome users should update immediately via the Help or Settings menu to stay secure against these significant risks.\nGoogle just released Chrome 157.0.8103.38/39 for Windows and macOS and 157.0.8103.38 for Linux, fixing over 200 security vulnerabilities, some of which are critical. According to Google, none of the patched vulnerabilities have been exploited in the wild yet.\nChrome 158 is due to be released in two weeks.\nWhat’s new in Chrome 157?\nIn Chrome’s “What’s New” page that shows after updating, Google announces a new feature for sending open browser tabs to all (or select) devices. To use this feature, you’ll need to be signed in to Chrome with the same account on all sending and receiving devices (phone, tablet, laptop).\nWhen sending from your PC, you don’t need to use the unnecessarily fiddly method of three-dot menu → Stream, save, and share → Send to my device. Instead, it’s quicker if you right-click on the relevant tab and select Send to my device from the context menu.\nWhen sending from your Android device, open the tab you want to send, then press and hold the address bar and select Send to my device. This has worked this way since Chrome 77 (2019), so it’s not really news.\nSecurity flaws fixed in Chrome 157\nIn the Chrome Releases blog post, Srinivas Sista lists 213 security vulnerabilities that were fixed. Google discovered 130 of them internally, while the rest were identified and reported by external security researchers. Google has so far awarded those researchers a total of $31,000 in bounties.\nSeven vulnerabilities have been classified as critical, with four of them being use-after-free (UAF) vulnerabilities in various components. A further 77 vulnerabilities are classified as high risk. Of the remaining vulnerabilities, 75 are considered medium risk and 54 low risk. The most common types of vulnerabilities are use-after-free vulnerabilities (45), data leaks (13), and type mix-ups (13). The latter occur primarily in the V8 JavaScript engine.\nChrome usually updates automatically when a new version is available. You can manually check for updates via the menu in Help → About Google Chrome (alternatively, in Settings → About Google Chrome).\nTip: Whether you keep your browser up to date, you need proper antivirus protections if you want your PC to remain secure and private. Check out our picks for the best antivirus software for Windows as well as best VPN services to stay ahead of security problems.",
+    "autor_fonte": "Frank Ziemann",
+    "site_fonte": "PCWorld",
+    "imagem_url": "https://www.pcworld.com/wp-content/uploads/2026/11/3276837-0-20682200-1793804059-Chrome-logo-on-pixelized-Chrome-logo.jpg?quality=50&strip=all&w=1024",
+    "imagem_arquivo": "imagens/computadores_pessoais-chrome-157-fixes-over-200-security-flaws.jpg",
+    "imagem_credito": "PCWorld",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.pcworld.com/article/3276837/chrome-157-fixes-over-200-security-flaws-7-of-them-critical.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "37ee305a9fed",
+      "titulo": "Pioneiro da IA diz que mundo estaria melhor sem inteligência artificial",
+      "url": "https://olhardigital.com.br/2026/11/04/inteligencia-artificial/pioneiro-da-ia-diz-que-mundo-estaria-melhor-sem-inteligencia-artificial/",
+      "resumo": "Cientista defende a criação de agências reguladoras internacionais e testes obrigatórios para conter os riscos de modelos avançados de IA O post Pioneiro da IA diz que mundo estaria melhor sem inteligência artificial apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-04T16:40:21+00:00",
+      "coletado_em": "2026-11-04T17:15:46.278606+00:00",
+      "imagem_feed": null,
+      "score": 5.383,
+      "cobertura": []
+    },
+    "texto_fonte": "O cientista Geoffrey Hinton, um dos pioneiros da inteligência artificial (IA), afirmou que a humanidade talvez estivesse melhor sem desenvolver a tecnologia. Ele também alertou que sistemas avançados podem provocar incidentes de grande escala ainda em 2026 ou 2027.\nVencedor do Prêmio Nobel, Hinton critica dirigentes de grandes empresas de tecnologia por priorizarem lucros e participação de mercado em detrimento da segurança. Para reduzir os riscos, defende avaliações independentes e testes obrigatórios antes do lançamento de modelos avançados.\nHinton critica empresas e prevê incidentes graves\nEm entrevista ao The Guardian, Hinton, de 78 anos, afirmou que os próximos dez anos, possivelmente menos, serão decisivos para determinar se a humanidade conseguirá controlar os riscos da IA e alcançar o que chamou de “abundância radical”. Caso contrário, o cenário poderá incluir desigualdade acentuada, desemprego em massa, problemas culturais e divisões sociais.\nUma das preocupações do pesquisador é a possibilidade de sistemas de inteligência artificial desenvolverem comportamentos que dificultem o controle humano. Ele já havia alertado que, se essas tecnologias passarem a buscar mais autonomia e controle, a humanidade poderá enfrentar sérios problemas.\nHinton também questionou a postura dos dirigentes de empresas que disputam a liderança do setor. Ele afirmou não confiar em Sam Altman, CEO da OpenAI, e criticou Mark Zuckerberg, da Meta, e Elon Musk, da xAI.\n“Eles entendem os riscos e não dão a mínima. Preferem ficar com o dinheiro. Essa é a minha opinião”, declarou ao The Guardian.\nO cientista considera especialmente preocupante que Altman esteja à frente de uma das principais empresas norte-americanas na disputa com a China pelo desenvolvimento dos sistemas de IA mais avançados.\nHinton trabalha com inteligência artificial há aproximadamente 44 anos. Na década de 1970, cunhou o conceito de redes neurais artificiais, sistemas matemáticos capazes de aprender com experiências. Em 2023, deixou o Google para falar publicamente sobre os riscos da tecnologia.\nUm episódio envolvendo agentes de IA da OpenAI, que conspiraram para invadir o site Hugging Face, reforçou suas preocupações. Hinton comparou o caso ao acidente nuclear de Three Mile Island, ocorrido em 1979, nos Estados Unidos, considerando-o um primeiro sinal de alerta.\nNa avaliação do pesquisador, um evento ainda mais grave, comparável a Chernobyl, poderá acontecer até o fim de 2027. Entre os cenários mencionados estão:\n- Um ataque cibernético contra o sistema de geração de eletricidade;\n- Uma interrupção de grande escala no fornecimento de energia;\n- A paralisação do sistema financeiro durante uma semana.\nHinton acredita que um episódio desse tipo poderia chamar a atenção de líderes mundiais para os riscos da tecnologia. Ao falar sobre quem precisaria reagir, excluiu o presidente dos Estados Unidos, Donald Trump.\nHinton defende fiscalização independente da IA\nTrump rejeita iniciativas de controle internacional e defende que as próprias empresas estabeleçam suas regras, sob o argumento de que restrições poderiam prejudicar a posição dos Estados Unidos na disputa com a China.\nHinton apoia uma proposta respaldada por 33 países, incluindo Finlândia, Alemanha, Canadá, Austrália e Singapura. O plano prevê avaliações obrigatórias dos modelos mais avançados, análises independentes e padrões comuns entre governos.\nPara explicar como essa fiscalização deveria funcionar, o pesquisador recorreu ao exemplo da agência norte-americana responsável pela aprovação de medicamentos, a FDA. Sua proposta é que as empresas apresentem evidências estatísticas a uma autoridade independente para demonstrar que os benefícios dos sistemas superam os riscos antes de lançar os modelos.\nHinton citou a talidomida, medicamento desenvolvido na década de 1950 que provocou graves malformações congênitas, para argumentar que não basta disponibilizar um produto e responsabilizar seus fabricantes depois que os danos acontecem.\nApesar das advertências, o cientista acredita que ainda é possível evitar uma catástrofe. “Meu instinto diz que ainda estamos no controle”, afirmou. Ele ressalvou, porém, que isso dependerá de um esforço significativo.",
+    "autor_fonte": "Valdir Antonelli",
+    "site_fonte": "Olhar Digital",
+    "imagem_url": "https://olhardigital.com.br/wp-content/uploads/2026/11/Geoffrey-Hinton.jpg",
+    "imagem_arquivo": "imagens/inteligencia_artificial-pioneiro-da-ia-diz-que-mundo-estaria-mel.jpg",
+    "imagem_credito": "Olhar Digital",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://olhardigital.com.br/2026/11/04/inteligencia-artificial/pioneiro-da-ia-diz-que-mundo-estaria-melhor-sem-inteligencia-artificial/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "8a629aa46492",
+      "titulo": "Researchers uncover hidden cause of aging in perovskite solar cells",
+      "url": "https://techxplore.com/news/2026-11-uncover-hidden-aging-perovskite-solar.html",
+      "resumo": "A research team at The Hong Kong Polytechnic University (PolyU) has found a previously overlooked cause of aging in perovskite solar cells exposed to light. The team has also developed a solution that effectively extends the cells' lifetime, an important step toward bringing the technology to market.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-04T15:00:11+00:00",
+      "coletado_em": "2026-11-04T17:15:46.275196+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/polyu-research-uncover.jpg",
+      "score": 5.305,
+      "cobertura": []
+    },
+    "texto_fonte": "Researchers uncover hidden cause of aging in perovskite solar cells\nA research team at The Hong Kong Polytechnic University (PolyU) has found a previously overlooked cause of aging in perovskite solar cells exposed to light. The team has also developed a solution that effectively extends the cells' lifetime, an important step toward bringing the technology to market.\nThe study was conducted by Yang Guang, an assistant professor in the PolyU Department of Electrical and Electronic Engineering, together with a team from Zhejiang University, and has been published in the journal Watt. Professor Nam-Gyu Park of Sungkyunkwan University, Korea, a pioneer in perovskite photovoltaics, commended the work in a Research Highlight in the same journal.\nPerovskite solar cells are efficient, low-cost, lightweight and versatile, and are widely seen as one of the most promising next-generation solar technologies. However, their performance gradually declines after long exposure to sunlight, a process known as photodegradation. Solar panels must work reliably outdoors for many years, so photodegradation has long been a major barrier to large-scale perovskite solar cell commercialization.\nUneven charge losses accelerate aging\nThe layer of a perovskite solar cell that generates electricity comprises countless tiny crystals called grains. The surface of each grain has a particular orientation, known as its crystal facet. In mixed-facet perovskite solar cells, grains with different facets sit side by side. Each facet has its own properties, which can affect how charges move, how defects form and how the material ages under light. The places where grains meet are called grain boundaries.\nWhen the cell absorbs sunlight, it produces negatively charged electrons and positively charged holes. Ideally, the two collect to form an electric current, but if they meet defects at grain boundaries, they can become trapped and cancel each other out. This wastes solar energy and gradually damages the cell.\nThe team found that in mixed-facet structures, when grains with two common facets, (100) and (111), sit next to each other, charge losses on the two sides of the boundary between them are uneven. The (111) side of the boundary has more defects. Most of these are vacancies: gaps left where formamidinium (FA) ions should be in the material. As a result, an abnormal buildup of holes develops on that side.\nThe (111) facet is naturally more resistant to aging under light. However, the buildup of holes unexpectedly makes the (111) grains degrade faster, turning them into a source of aging in the cell. The finding shows that a cell's lifetime depends not only on how stable each grain is, but also on how neighboring grains interact.\nRepairing boundaries improves efficiency and durability\nTo address this source of degradation, the team added a compound called 3-fluorophenylethylammonium bromide (m-F-PEABr). Its molecules are too bulky to enter the grains, so they naturally collect at the grain boundaries. The positively charged end of each molecule takes the place of the missing FA ions and fills the vacancies at the (111) boundaries. Meanwhile, the fluorine-containing part holds the molecule firmly in place. Once the boundaries are repaired, charge losses on both sides become balanced, so no single spot becomes a focal point for degradation.\nCells treated with this targeted strategy reached a power conversion efficiency of 26.55%. They also kept over 90% of their initial efficiency after more than 2,200 hours of continuous operation under light equivalent to one sun. This measure, known as the T90 operational lifetime, is a key indicator of long-term durability.\nYang said, \"Perovskite solar cells are already highly efficient, but stability is still the biggest barrier to commercialization. Previous research has mostly focused on reducing the number of defects. We have shown for the first time that uneven charge losses between neighboring grains are a key cause of aging while the cells are working.\n\"By balancing the charge losses between grains, we can improve both the efficiency and the stability of the cells. This offers a new way of understanding cell aging and opens a new path for developing more durable, commercially viable perovskite solar cells.\"\nMore information\nHengyu Zhang et al., Stabilizing high-efficiency perovskite solar cells by homogenizing inter-grain recombination, Watt (2026). DOI: 10.1007/s44503-026-00013-1\nNam-Gyu Park, Homogenizing inter-grain recombination stabilizes perovskite solar cells, Watt (2026). DOI: 10.1007/s44503-026-00015-z",
+    "autor_fonte": "Hong Kong Polytechnic University",
+    "site_fonte": "Tech Xplore",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/polyu-research-uncover.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-researchers-uncover-hidden-cause-of-agin.jpg",
+    "imagem_credito": "Tech Xplore",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techxplore.com/news/2026-11-uncover-hidden-aging-perovskite-solar.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "4756c335b9ba",
+      "titulo": "Ex-COO do Xbox quebra o silêncio após demissão misteriosa e rebate acusações",
+      "url": "https://canaltech.com.br/games/ex-coo-do-xbox-quebra-o-silencio-apos-demissao-misteriosa-e-rebate-acusacoes/",
+      "resumo": "A ex-COO do XBOX, Helen Chiang, se pronunciou pela primeira vez após sua demissão repentina, poucos meses depois de assumir o cargo. A ex-executiva contestou reportagens do Eurogamer e do The Verge que afirmavam que ela havia sido demitida por \"violação de políticas\". “Tem havido algumas especulações sobre a minha saída repentina da Microsoft, incluindo alegações de que fui ‘demitida por violação de políticas’”, declarou Chiang em uma publicação no LinkedIn nesta segunda-feira (2). A ex-COO não entrou em detalhes sobre o motivo da demissão, mas buscou esclarecer os fatos: “O que não foi dito criou uma imagem de mim que mal reconheço”. Ela desmentiu qualquer vazamento de informações confidenciais para a imprensa. “Nunca me comuniquei com nenhum jornalista fora das entrevistas limitadas e autorizadas pela empresa que concedi como parte do meu trabalho”, destacou, citando inclusive profissionais da mídia que entraram em contato com ela para ouvir seu lado da história sobre a demissão . Chiang também afirmou que não deixou a companhia para migrar para um concorrente do XBOX. “Você não passa duas décadas em um lugar sem desenvolver uma profunda lealdade às pessoas, equipes e negócios qu",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-03T23:16:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/jLMA811eOup1FoeSm24QNEJzF28=/0x0/filters:format(webp):quality(85)/392bf3bf-056d-44f9-8f18-b7580103bc17.png",
+      "score": 3.307,
+      "cobertura": []
+    },
+    "texto_fonte": "Ex-COO do Xbox quebra o silêncio após demissão misteriosa e rebate acusações\nPor Gabriel Cavalheiro |\nA ex-COO do XBOX, Helen Chiang, se pronunciou pela primeira vez após sua demissão repentina, poucos meses depois de assumir o cargo. A ex-executiva contestou reportagens do Eurogamer e do The Verge que afirmavam que ela havia sido demitida por \"violação de políticas\".\n“Tem havido algumas especulações sobre a minha saída repentina da Microsoft, incluindo alegações de que fui ‘demitida por violação de políticas’”, declarou Chiang em uma publicação no LinkedIn nesta segunda-feira (2). A ex-COO não entrou em detalhes sobre o motivo da demissão, mas buscou esclarecer os fatos: “O que não foi dito criou uma imagem de mim que mal reconheço”.\nEla desmentiu qualquer vazamento de informações confidenciais para a imprensa. “Nunca me comuniquei com nenhum jornalista fora das entrevistas limitadas e autorizadas pela empresa que concedi como parte do meu trabalho”, destacou, citando inclusive profissionais da mídia que entraram em contato com ela para ouvir seu lado da história sobre a demissão.\nChiang também afirmou que não deixou a companhia para migrar para um concorrente do XBOX. “Você não passa duas décadas em um lugar sem desenvolver uma profunda lealdade às pessoas, equipes e negócios que ajudou a construir”, contou. Vale notar que ela é veterana na Microsoft, com mais de 20 anos de casa e papel importante no XBOX Live e na liderança de Minecraft e Mojang. “O XBOX nunca foi apenas mais uma parada na minha carreira. Meu objetivo final sempre foi continuar construindo aqui.” A última entrevista de emprego de Chiang foi em 2011, segundo ela.\nA ex-COO também negou participação em qualquer caso de discriminação, bullying, assédio, insider trading, desvio de fundos ou qualquer outra atividade fraudulenta. “Eu me orgulho do meu histórico: tanto dos resultados que entreguei quanto da maneira como tratei as pessoas ao longo da minha carreira. Não deixarei que especulações definam meu caráter ou apaguem esse histórico”, escreveu.\n“Compartilho isso porque não quero que minha saída seja reduzida a uma história imprecisa sobre incompetência, ambição pelo próximo grande cargo ou um escândalo no nível de Nelson. Minha história é sobre permanecer fiel aos valores fundamentais, especialmente quando é difícil. Esse é o legado que espero deixar para trás”, concluiu Helen Chiang, ex-COO do XBOX.\nChiang criticou como sua saída da divisão de games da Microsoft foi conduzida e contou com o apoio de outra ex-executiva, Shannon Loftis, que questionou a origem dos vazamentos sobre a suposta violação de políticas do XBOX. “Uma liderança de verdade teria ido atrás incansavelmente do autor do vazamento e tomado as medidas cabíveis, porque ‘assuntos confidenciais de pessoal’ são, na verdade, base para processos de difamação”, comentou Loftis. “Virou um circo por lá, e sinto muito por qualquer um que ainda tenha que lidar com isso.”\nEm nota ao portal Windows Central, a Microsoft afirmou que “não discute questões individuais de funcionários”.\nChiang havia sido promovida a COO do XBOX em julho deste ano e tinha a responsabilidade de acompanhar lucros e perdas “de ponta a ponta em conteúdo, hardware e serviços”. Em comunicado interno sobre o desligamento, a CEO do XBOX, Asha Sharma, afirmou: “Sou grata por seus anos de serviço e desejo a ela o melhor”, acrescentando que a divisão compartilhará “mais sobre a liderança de COO conforme os planos forem finalizados”.\nXBOX passa por reestruturações\nA demissão da executiva acontece em meio à reestruturação do XBOX que visa demitir 3,2 mil funcionários até o fim do ano fiscal de 2027. A Microsoft também ofereceu saída voluntária a 60 mil colaboradores para investir em IA.",
+    "autor_fonte": "Gabriel Cavalheiro",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/IloG0RkD-g4CSogbQN7DiHmxOKU=/1200x675/smart/filters:format(webp):quality(85)/9b566b06-5977-4486-82d1-727f25fc931d.jpeg",
+    "imagem_arquivo": "imagens/ciberseguranca-ex-coo-do-xbox-quebra-o-silencio-apos-de.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/games/ex-coo-do-xbox-quebra-o-silencio-apos-demissao-misteriosa-e-rebate-acusacoes/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]

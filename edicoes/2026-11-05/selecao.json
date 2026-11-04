@@ -1,0 +1,762 @@
+{
+  "medicina": [
+    {
+      "id": "4dedb6f07473",
+      "titulo": "Prostate cancer drug shows promise in new clinical trial",
+      "url": "https://medicalxpress.com/news/2026-11-prostate-cancer-drug-clinical-trial.html",
+      "resumo": "In a recent Yale-led clinical trial, a new type of prostate cancer drug showed promising results in reducing tumor activity and pain for patients with metastatic prostate cancer.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-04T15:40:20+00:00",
+      "coletado_em": "2026-11-04T17:15:46.259715+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-drug-s.jpg",
+      "score": 6.374,
+      "cobertura": []
+    },
+    {
+      "id": "e4c08e0cf250",
+      "titulo": "Study investigates how telemedicine is transforming medical care in an Amazonian archipelago",
+      "url": "https://jornal.usp.br/uspnews/usp-study-investigates-how-telemedicine-is-transforming-medical-care-in-an-amazonian-archipelago/",
+      "resumo": "Doctoral research at USP’s School of Public Health examines how remote medical care reorganizes public health services and highlights challenges arising from territorial inequalities and cultural differences between patients and specialists",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "hardware"
+      ],
+      "publicado": "2026-11-04T11:28:11+00:00",
+      "coletado_em": "2026-11-04T17:15:46.276538+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261020_00_equipe_telemedicina_parintins_fsp_usp-1024x538.jpg",
+      "score": 6.281,
+      "cobertura": []
+    },
+    {
+      "id": "29e046aae961",
+      "titulo": "A third of babies with peanut allergy grow out of it by 1 year old",
+      "url": "https://www.newscientist.com/article/2597292-a-third-of-babies-with-peanut-allergy-grow-out-of-it-by-1-year-old/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "A significant proportion of babies with peanut allergies quickly grow out of the condition, a finding that could lift a large burden off children, parents and healthcare systems",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-04T14:01:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.301526+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319402223.jpg",
+      "score": 6.008,
+      "cobertura": [
+        "https://medicalxpress.com/news/2026-11-babies-peanut-allergy-diagnosis.html"
+      ]
+    },
+    {
+      "id": "ba18754c6d22",
+      "titulo": "Digital therapy offers new way to prevent worsening anxiety around childbirth",
+      "url": "https://medicalxpress.com/news/2026-11-digital-therapy-worsening-anxiety-childbirth.html",
+      "resumo": "Pregnant women with undiagnosed anxiety could benefit from a new digital therapy, according to a clinical trial led by King's College London. Published in JAMA Network Open, the results from the REducing Levels of AnXiety (RELAX) study have shown that self-led digital therapy significantly reduced participants' pre- and post-birth anxiety compared with participants who received usual care.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-04T16:39:57+00:00",
+      "coletado_em": "2026-11-04T17:15:46.259715+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/pregnancy-2.jpg",
+      "score": 5.982,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "bd4cdf44eda9",
+      "titulo": "A death sentence for ‘sloppy’ cancers",
+      "url": "https://www.nature.com/articles/d41586-026-03269-8",
+      "resumo": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03269-8 The process of making protein from RNA can go awry in cancer cells. This malfunction might be harnessed to create an effective gene-therapy tool that targets tumours.",
+      "fonte": "Nature",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-04T00:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.261587+00:00",
+      "imagem_feed": null,
+      "score": 5.738,
+      "cobertura": []
+    },
+    {
+      "id": "b4499e625fb1",
+      "titulo": "Humans evolved to be surprisingly fat – no wonder we struggle with dieting",
+      "url": "https://www.newscientist.com/article/2595250-humans-evolved-to-be-surprisingly-fat-no-wonder-we-struggle-with-diet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "We have an unprecedented choice of food, yet our diets are worse than ever, says palaeoanthropologist Daniel Lieberman. So what can evolution tell us about how to eat better?",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-04T16:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.301526+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318401292.jpg",
+      "score": 5.209,
+      "cobertura": []
+    },
+    {
+      "id": "cfea24f0378c",
+      "titulo": "New species of pygmygoby discovered at the edge of the Red Sea's unexplored deep reefs",
+      "url": "https://phys.org/news/2026-11-species-pygmygoby-edge-red-sea.html",
+      "resumo": "Researchers have described a new species of fish from the northern Red Sea, found at the entrance to a cave on a steep reef slope. Charon's pygmygoby (Trimma charon) is a small, translucent fish with a broad orange-red stripe, golden spots on its tail and an unusual four-part eye. The two known specimens measure just 12 and 17 millimeters (0.47 and 0.67 inches).",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-04T17:00:02+00:00",
+      "coletado_em": "2026-11-04T17:15:46.260766+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-species-of-pygmygo.jpg",
+      "score": 5.02,
+      "cobertura": []
+    },
+    {
+      "id": "5b4527e6df70",
+      "titulo": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
+      "url": "https://www.sciencenews.org/article/scientist-maps-food-chemicals-sn10",
+      "resumo": "Giulia Menichetti is exploring how food’s vast chemical complexity may shape the microbiome and human health.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-11-04T12:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.302614+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_sn10-menichetti_main.jpg?w=800",
+      "score": 4.976,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "ebe6136890ae",
+      "titulo": "Robotics Startup Radar 2026",
+      "url": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+      "resumo": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics. The post Robotics Startup Radar 2026 appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-04T16:08:46+00:00",
+      "coletado_em": "2026-11-04T17:15:46.262643+00:00",
+      "imagem_feed": null,
+      "score": 5.275,
+      "cobertura": []
+    },
+    {
+      "id": "208078fe6961",
+      "titulo": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
+      "url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
+      "resumo": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment. The post How GlobalLogic helped Haystack Robotics build a UV disinfection robot appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-04T15:22:55+00:00",
+      "coletado_em": "2026-11-04T17:15:46.262643+00:00",
+      "imagem_feed": null,
+      "score": 5.194,
+      "cobertura": []
+    },
+    {
+      "id": "7c67e411e6b6",
+      "titulo": "Electronics-free artificial reflex reproduces knee-jerk and enables bipedal walking",
+      "url": "https://techxplore.com/news/2026-11-electronics-free-artificial-reflex-knee.html",
+      "resumo": "When a doctor taps just below your kneecap, your lower leg kicks forward automatically. This knee-jerk reflex is one example of the reflexes that play an essential role in human motor control. Now, researchers at Tohoku University have developed a reflex module for musculoskeletal robots that works without electronic sensors or circuits. Using this module, the team reproduced the knee-jerk reflex in a robot and generated bipedal walking.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-04T14:20:01+00:00",
+      "coletado_em": "2026-11-04T17:15:46.262787+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/electronics-free-artif.jpg",
+      "score": 4.739,
+      "cobertura": []
+    },
+    {
+      "id": "c5c6cce9e873",
+      "titulo": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
+      "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+      "resumo": "LiberAI introduces Liber-0, a world action model pretrained on more than 2.2 million hours of human experience to support zero-shot robot manipulation. The post LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-04T15:02:57+00:00",
+      "coletado_em": "2026-11-04T17:15:46.262643+00:00",
+      "imagem_feed": null,
+      "score": 4.66,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "c1fac9db3b1f",
+      "titulo": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1105378/",
+      "resumo": "Security updates have been issued by AlmaLinux (cockpit, dpdk, fence-agents, firefox, freerdp, gimp, opentelemetry-collector, python-dns, qemu-kvm, and raptor2), Debian (apt and squid), Fedora (ags, apptainer, chromium, fractal, mingw-harfbuzz, mingw-qt5-qtwebkit, mingw-qt6-qt5compat, python-mistune, python3-docs, python3.14, python3.9, rubygem-gist, rust-app-store-connect, rust-qemu-rdp, rust-redlib, and selenium-manager), Mageia (java-latest-openjdk, java-17-openjdk, java-21-openjdk, timezone), Oracle (.NET 10.0, .NET 8.0, .NET 9.0, bind, bind9.16, cockpit, firefox, freerdp, gcc, ghostscript, glibc, grafana, java-17-openjdk, java-21-openjdk, kernel, kernel-uek, libXi, pipewire, pki-deps:10.6, podman, python-jwt, python-pillow, python-pyasn1, qt5-qtbase, thunderbird, tomcat, util-linux, and wireshark), Red Hat (dnsmasq, fence-agents, freerdp, pki-core:10.6, and thunderbird), SUSE (amazon-ssm-agent, aom-tools, apache2, brotli, cadvisor, chromium, cups, curl, distribution-registry, eog, gh, go-containerregistry, google-guest-agent, gvfs, haproxy, hauler, helm3, kernel, libBasicUsageEnvironment2, libcdio, libinstpatch-1_0-2, libosmocore, libreoffice, libX11, nodejs22, nvidia-open-dri",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-04T14:13:24+00:00",
+      "coletado_em": "2026-11-04T17:15:46.263585+00:00",
+      "imagem_feed": null,
+      "score": 5.728,
+      "cobertura": []
+    },
+    {
+      "id": "7258adf1eeb2",
+      "titulo": "Windows 11 fica até 40% mais rápido em PCs com 8 GB de RAM",
+      "url": "https://canaltech.com.br/software/windows-11-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/",
+      "resumo": "A Microsoft anunciou uma nova atualização no Windows 11 para otimizar o consumo de memória em computadores com até 8 GB de RAM . Testes da Gigante de Redmond indicam que o sistema está 20% mais responsivo e até 40% mais rápido ao gerenciar múltiplas tarefas. Por padrão, o Windows usa praticamente toda a memória que tem à disposição para manter aplicativos e dados prontos para uso, mas consegue alocar a capacidade ao identificar tarefas mais exigentes. O grande desafio é manter o sistema responsivo enquanto usa toda a RAM disponíve l. A empresa fez novos ajustes na compressão dos dados de olho nos PCs com 8 GB de memória: agora, o sistema pode manter até 2 GB de dados ativos antes de movê-los para um armazenamento mais lento, o que garante que apps e abas do navegador serão recarregadas com menos frequência no dia a dia. Novos ajustes para reduzir o consumo Algumas mudanças na estrutura dos aplicativos contribuíram para otimizar o uso de RAM, com destaque para redução de até 900 MB no crescimento de memória comprometida em testes de multitarefas. Veja algumas alterações destacadas pela companhia: Melhorias em Word, PowerPoint, Excel e Outlook tiveram ganhos de até 360 MB no consumo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-04T16:11:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": null,
+      "score": 5.679,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/windows-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/"
+      ]
+    },
+    {
+      "id": "f4d98ee43e2c",
+      "titulo": "Bazzite 45 released",
+      "url": "https://lwn.net/Articles/1105395/",
+      "resumo": "Version 45 of Bazzite , the image-based gaming distribution based on Fedora Linux, has been released. Notable changes in this release include a rebase to Fedora 45, updated Open Gaming Collective (OGC) kernels, support for Logitech TrueWheel devices, and more. LWN covered Bazzite in December 2025.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-04T15:54:44+00:00",
+      "coletado_em": "2026-11-04T17:15:46.263585+00:00",
+      "imagem_feed": null,
+      "score": 5.4,
+      "cobertura": []
+    },
+    {
+      "id": "4a6481805010",
+      "titulo": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
+      "url": "https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "The panelists explain how AI tools and vibe coding reshape frontend and mobile engineering. They share insights on evolving junior developer roles, managing AI-generated code review fatigue, designing systems for autonomous agents, enforcing architectural guardrails, and navigating economic shifts in open-source software sustainability. By Luca Mezzalira, James Hall, Danielle An, Ivan Zarea",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-04T11:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.263031+00:00",
+      "imagem_feed": "https://res.infoq.com/presentations/panel-ai-frontend-architecture/en/mediumimage/medium-1792133520845.jpg",
+      "score": 5.093,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "ed2bc0c6a5b3",
+      "titulo": "Nvidia can only fulfill 1% of China’s massive $70 billion GPU order for AI chips, report claims — supply constraints choke export-friendly RTX Pro 5500 deliveries despite huge demand",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
+      "resumo": "Just 1% of chips promised to major Chinese companies to power their AI ambitions will be delivered, according to reports.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-04T12:15:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.264029+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/dSBDYrrovpyaiRvgSSQPGT-1920-80.jpg",
+      "score": 5.697,
+      "cobertura": []
+    },
+    {
+      "id": "91136f1d1050",
+      "titulo": "Micron details ambitious DRAM and NAND roadmap — 3D NAND, High-NA EUV, new materials, and custom silicon makes a comeback",
+      "url": "https://www.tomshardware.com/pc-components/dram/micron-details-ambitious-dram-and-nand-roadmap-3d-nand-high-na-euv-new-materials-and-custom-silicon-makes-a-comeback",
+      "resumo": "As DRAM and 3D NAND are about to adopt all-new technologies, custom types of memory are about to become mainstream as AI developers face limitations with current solutions.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-04T14:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.264029+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/APuiUbxoQ4N74RU5gQJJPj-1920-80.jpg",
+      "score": 5.356,
+      "cobertura": []
+    },
+    {
+      "id": "7258adf1eeb2",
+      "titulo": "Windows 11 fica até 40% mais rápido em PCs com 8 GB de RAM",
+      "url": "https://canaltech.com.br/software/windows-11-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/",
+      "resumo": "A Microsoft anunciou uma nova atualização no Windows 11 para otimizar o consumo de memória em computadores com até 8 GB de RAM . Testes da Gigante de Redmond indicam que o sistema está 20% mais responsivo e até 40% mais rápido ao gerenciar múltiplas tarefas. Por padrão, o Windows usa praticamente toda a memória que tem à disposição para manter aplicativos e dados prontos para uso, mas consegue alocar a capacidade ao identificar tarefas mais exigentes. O grande desafio é manter o sistema responsivo enquanto usa toda a RAM disponíve l. A empresa fez novos ajustes na compressão dos dados de olho nos PCs com 8 GB de memória: agora, o sistema pode manter até 2 GB de dados ativos antes de movê-los para um armazenamento mais lento, o que garante que apps e abas do navegador serão recarregadas com menos frequência no dia a dia. Novos ajustes para reduzir o consumo Algumas mudanças na estrutura dos aplicativos contribuíram para otimizar o uso de RAM, com destaque para redução de até 900 MB no crescimento de memória comprometida em testes de multitarefas. Veja algumas alterações destacadas pela companhia: Melhorias em Word, PowerPoint, Excel e Outlook tiveram ganhos de até 360 MB no consumo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-04T16:11:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": null,
+      "score": 5.179,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/windows-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/"
+      ]
+    },
+    {
+      "id": "ab3f2fae201b",
+      "titulo": "Team Group CEO warns memory crisis could reach point where 'even money can't buy goods' — will get worse next year, with 'no downward trend in price whatsoever'",
+      "url": "https://www.tomshardware.com/pc-components/dram/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-cant-buy-goods-will-get-worse-next-year-with-no-downward-trend-in-price-whatsoever",
+      "resumo": "“How can prices fall when there’s nothing left?” Team Group CEO Chen Ching-wen said during the company's earnings call.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-04T15:28:30+00:00",
+      "coletado_em": "2026-11-04T17:15:46.264029+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ZjcryyxSndRuq3owzsZtxD-1920-80.png",
+      "score": 5.004,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "15fa37619dd4",
+      "titulo": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
+      "url": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+      "resumo": "So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to date, astronomers are unclear as to how they could have grown so large so quickly.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-04T16:30:01+00:00",
+      "coletado_em": "2026-11-04T17:15:46.265063+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-hole-pair.jpg",
+      "score": 5.964,
+      "cobertura": []
+    },
+    {
+      "id": "e199d2bf8a7e",
+      "titulo": "Hubble Reveals Cosmic Mystery",
+      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+      "resumo": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-04T15:59:36+00:00",
+      "coletado_em": "2026-11-04T17:15:46.264724+00:00",
+      "imagem_feed": null,
+      "score": 5.859,
+      "cobertura": []
+    },
+    {
+      "id": "917d636c7270",
+      "titulo": "NASA is racing against time to save the Hubble Space Telescope",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+      "resumo": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-04T11:22:33+00:00",
+      "coletado_em": "2026-11-04T17:15:46.265258+00:00",
+      "imagem_feed": null,
+      "score": 5.323,
+      "cobertura": [
+        "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope"
+      ]
+    },
+    {
+      "id": "c5b74db307c6",
+      "titulo": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
+      "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
+      "resumo": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-03T21:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.265701+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/KckHSz3cKUaFQJHGiYko5E-1920-80.png",
+      "score": 5.02,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "20e273b9eaad",
+      "titulo": "China’s Photonic Quantum Computer Among WIC Award Winners",
+      "url": "https://thequantuminsider.com/2026/11/04/chinas-photonic-quantum-computer-among-wic-award-winners/",
+      "resumo": "Insider Brief China’s Jiuzhang 4.0 photonic quantum computer has won one of the World Internet Conference’s top science prizes. The prototype, built by researchers at the University of Science and Technology of China, or USTC, was among 20 projects honored with the 2026 WIC Leading Science and Technology Awards at a ceremony Monday in Wuzhen, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-04T12:06:23+00:00",
+      "coletado_em": "2026-11-04T17:15:46.266040+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Jiuzhang.jpg",
+      "score": 5.185,
+      "cobertura": []
+    },
+    {
+      "id": "4b172becb627",
+      "titulo": "EIC Scaling Club Reports €4 Billion Raised, Including Major Quantum and AI Round",
+      "url": "https://thequantuminsider.com/2026/11/04/eic-scaling-club-reports-e4-billion-raised-including-major-quantum-and-ai-round/",
+      "resumo": "Insider Brief PRESS RELEASE — European deep tech scale-ups have raised more than €4 billion since joining the EIC Scaling Club, an EIC-funded initiative for promising European deep tech scale-ups, growing their funding 2.3 times faster than comparable businesses relative to their pre-joining funding, according to a new report. These technologies will play a pivotal […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-04T15:09:53+00:00",
+      "coletado_em": "2026-11-04T17:15:46.266040+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/1x3li7tgf6o.jpg",
+      "score": 4.972,
+      "cobertura": []
+    },
+    {
+      "id": "15e3f2d51143",
+      "titulo": "Guest Post: Why Crypto-Agility Matters for Financial Institutions Preparing for PQC",
+      "url": "https://thequantuminsider.com/2026/11/04/crypto-agility-post-quantum-security-banks/",
+      "resumo": "Guest Post by Andrew Gault, CEO, ZeroTier. The financial services industry depends on cryptography to move money, protect customer and transaction data, verify digital identities, and connect banks with processors, cloud providers, and other third parties. This protection, Quantum computing puts that protection at risk. A sufficiently capable cryptographically relevant quantum computer, or CRQC, will […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-04T08:50:37+00:00",
+      "coletado_em": "2026-11-04T17:15:46.266040+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-04_13-47.png",
+      "score": 4.93,
+      "cobertura": []
+    },
+    {
+      "id": "b02c910f6c30",
+      "titulo": "Quantum Base Secures £700,000 UKRI Research Fellowship",
+      "url": "https://thequantuminsider.com/2026/11/04/quantum-base-secures-ukri-research-fellowship/",
+      "resumo": "Insider Brief PRESS RELEASE — Quantum Base (AIM: QUBE), the quantum science company focused on creating a new global standard in authentication, is pleased to announce that it has been awarded a UK Research and Innovation (“UKRI”) Future Leaders Fellowship Grant (the “Grant”), with Dr William Thom, Head of Materials Science at Quantum Base, receiving […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-04T13:17:20+00:00",
+      "coletado_em": "2026-11-04T17:15:46.266040+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-04_18-16.png",
+      "score": 4.79,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "6add6306f18a",
+      "titulo": "Chrome 157 fixes over 200 security flaws, 7 of them critical",
+      "url": "https://www.pcworld.com/article/3276837/chrome-157-fixes-over-200-security-flaws-7-of-them-critical.html",
+      "resumo": "Google just released Chrome 157.0.8103.38/39 for Windows and macOS and 157.0.8103.38 for Linux, fixing over 200 security vulnerabilities, some of which are critical. According to Google, none of the patched vulnerabilities have been exploited in the wild yet. Chrome 158 is due to be released in two weeks. What’s new in Chrome 157? In Chrome’s “What’s New” page that shows after updating, Google announces a new feature for sending open browser tabs to all (or select) devices. To use this feature, you’ll need to be signed in to Chrome with the same account on all sending and receiving devices (phone, tablet, laptop). When sending from your PC, you don’t need to use the unnecessarily fiddly method of three-dot menu → Stream, save, and share → Send to my device . Instead, it’s quicker if you right-click on the relevant tab and select Send to my device from the context menu. When sending from your Android device, open the tab you want to send, then press and hold the address bar and select Send to my device . This has worked this way since Chrome 77 (2019), so it’s not really news. Security flaws fixed in Chrome 157 In the Chrome Releases blog post , Srinivas Sista lists 213 security vul",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-04T14:54:07+00:00",
+      "coletado_em": "2026-11-04T17:15:46.267001+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3276837-0-20682200-1793804059-Chrome-logo-on-pixelized-Chrome-logo.jpg?quality=50&strip=all",
+      "score": 6.445,
+      "cobertura": []
+    },
+    {
+      "id": "c6d3197bc6ef",
+      "titulo": "Best SSDs: From SATA to PCIe 5.0, from budget to premium",
+      "url": "https://www.pcworld.com/article/407542/best-ssds.html",
+      "resumo": "Solid state drives, or SSDs, are singularly responsible for vast improvements to PC performance over the last decade or so. Taking the place of mechanical hard drives, SSDs transformed once-ponderous boot times into being virtually instantaneous, programs and games far more responsive, and the frustratingly long large-file loads largely a thing of a past. If you’re not yet using an SSD, you’re missing out. If you already have an older SSD, you might consider upgrading it for the even speedier performance offered by cutting-edge PCIe 4.0 and 5.0 designs — if your PC sports those technologies, of course. That said, a premium drive may not deliver any more real-world performance than a bargain drive. Mainstream software, including Windows Explorer has yet to implement the numerous performance tricks, such as multiple queues, that NVMe SSDs offer. PROMOTION EaseUS PDF Editor – Edit, Convert, Compress & Protect PDFs Integrate PDF maker, PDF editor, PDF converter, and PDF reader in one full pack with all the basics you need. The clean interface simplifies your PDF work to edit, convert, comment, annotate, merge, split, background, page, watermark, sign PDFs, or fill forms. Your PDF workl",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-04T14:30:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.267001+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/407542-0-57601100-1793802630-ssd-aufmacher.png",
+      "score": 5.905,
+      "cobertura": []
+    },
+    {
+      "id": "e25939f8797e",
+      "titulo": "Nvidia’s RTX Spark laptops make no sense — until they do",
+      "url": "https://www.pcworld.com/article/3275866/nvidias-rtx-spark-laptops-make-no-sense-until-they-do.html",
+      "resumo": "Nvidia makes laptop CPUs now. That still feels weird to type! Over the past month, PCWorld has been hammering on several laptops powered by Nvidia’s new RTX Spark platform, including Microsoft’s Surface Laptop Ultra , HP’s OmniBook Ultra, and the absolutely insane $7,000 Asus ProArt P16 I reviewed with 128GB of unified memory. We’ve tested everyday performance, played games, and run local AI models ranging from relatively petite LLMs all the way up to OpenAI’s gargantuan 120-billion-parameter gpt-oss model. I even pitted the top-of-the-line ProArt against my monstrous GeForce RTX 5090 desktop in an AI cage match. So after weeks of poking, prodding, benchmarking, and generally trying to make these things sweat, what should you actually expect from an RTX Spark laptop? Quite a lot—just probably not in the ways you’d expect. AI is RTX Spark’s superpower RTX Spark laptops are AI PCs in the most literal sense—not because Windows has a Copilot button or somebody sprinkled “AI” across a marketing slide, but because the hardware itself is designed to run serious AI workloads locally. The secret sauce is memory, and how it behaves with Nvidia’s RTX 5070-class integrated graphics. Traditiona",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-04T13:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.267001+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3275866-0-08940300-1793797262-nvidia-rtx-spark-7.jpg?quality=50&strip=all",
+      "score": 5.763,
+      "cobertura": []
+    },
+    {
+      "id": "7258adf1eeb2",
+      "titulo": "Windows 11 fica até 40% mais rápido em PCs com 8 GB de RAM",
+      "url": "https://canaltech.com.br/software/windows-11-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/",
+      "resumo": "A Microsoft anunciou uma nova atualização no Windows 11 para otimizar o consumo de memória em computadores com até 8 GB de RAM . Testes da Gigante de Redmond indicam que o sistema está 20% mais responsivo e até 40% mais rápido ao gerenciar múltiplas tarefas. Por padrão, o Windows usa praticamente toda a memória que tem à disposição para manter aplicativos e dados prontos para uso, mas consegue alocar a capacidade ao identificar tarefas mais exigentes. O grande desafio é manter o sistema responsivo enquanto usa toda a RAM disponíve l. A empresa fez novos ajustes na compressão dos dados de olho nos PCs com 8 GB de memória: agora, o sistema pode manter até 2 GB de dados ativos antes de movê-los para um armazenamento mais lento, o que garante que apps e abas do navegador serão recarregadas com menos frequência no dia a dia. Novos ajustes para reduzir o consumo Algumas mudanças na estrutura dos aplicativos contribuíram para otimizar o uso de RAM, com destaque para redução de até 900 MB no crescimento de memória comprometida em testes de multitarefas. Veja algumas alterações destacadas pela companhia: Melhorias em Word, PowerPoint, Excel e Outlook tiveram ganhos de até 360 MB no consumo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-04T16:11:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": null,
+      "score": 5.679,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/windows-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "37ee305a9fed",
+      "titulo": "Pioneiro da IA diz que mundo estaria melhor sem inteligência artificial",
+      "url": "https://olhardigital.com.br/2026/11/04/inteligencia-artificial/pioneiro-da-ia-diz-que-mundo-estaria-melhor-sem-inteligencia-artificial/",
+      "resumo": "Cientista defende a criação de agências reguladoras internacionais e testes obrigatórios para conter os riscos de modelos avançados de IA O post Pioneiro da IA diz que mundo estaria melhor sem inteligência artificial apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-04T16:40:21+00:00",
+      "coletado_em": "2026-11-04T17:15:46.278606+00:00",
+      "imagem_feed": null,
+      "score": 5.383,
+      "cobertura": []
+    },
+    {
+      "id": "bcb8ea013009",
+      "titulo": "Google empurra IA para escolas a todo custo e ameaça cortar acesso à Busca",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-empurra-ia-para-escolas-a-todo-custo-e-ameaca-cortar-acesso-a-busca/",
+      "resumo": "O Google vai desativar por padrão suas ferramentas de inteligência artificial nas contas de alunos do ensino fundamental e médio (K-12) nos Estados Unidos. As escolas que bloquearem todos os recursos de IA também perderão acesso à Busca, conforme revelou o The New York Times. A nova política deve entrar em vigor no início de 2027. O Google tem forte presença nas escolas norte-americanas, com dispositivos Chromebook e serviços, como Gmail, Google Docs e Classroom. A ex-presidente da Comissão Federal de Comércio dos EUA (FTC), Lina Khan, acusou a empresa de usar seu “monopólio da busca para coagir as escolas” a adotar ferramentas de IA. Morgan Polikoff, professor de educação da Universidade do Sul da Califórnia (USC), também criticou a iniciativa e afirmou que a indústria de tecnologia está impondo a IA aos usuários, mesmo diante da resistência das comunidades escolares. A controvérsia ocorre em meio à preocupação de pais e professores com o uso de chatbots em sala de aula . Os principais receios envolvem plágio, disseminação de informações falsas, prejuízos ao pensamento crítico e dependência emocional dos jovens, além do tempo maior de tela. Os distritos escolares de Nova York e Lo",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-04T17:07:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/BBQorLPjtjO2BXNrF86RWK4euiw=/0x0/filters:format(webp):quality(85)/d3dae32a-bb13-432e-a6db-a33d7c76cc6c.png",
+      "score": 5.083,
+      "cobertura": []
+    },
+    {
+      "id": "cd57baf0babd",
+      "titulo": "Hannah Fry: How to win The Traitors with maths (step one, don’t get made a traitor)",
+      "url": "https://www.newscientist.com/article/2597314-hannah-fry-how-to-win-the-traitors-with-maths-step-one-dont-get-made-a-traitor/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "With a little help from Alan Turing and Thomas Bayes, I came up with a mathematical model I hoped would help me win The Traitors. Unfortunately, events then got in the way, writes Professor Hannah Fry in her latest column",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-04T14:00:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.301526+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI319273841-1.jpg",
+      "score": 5.006,
+      "cobertura": []
+    },
+    {
+      "id": "9dbc10d9b869",
+      "titulo": "Cátedra Sérgio Henrique Ferreira promove formação on-line em análise de dados com uso de inteligência artificial",
+      "url": "https://jornal.usp.br/campus-ribeirao-preto/catedra-sergio-henrique-ferreira-promove-formacao-on-line-em-analise-de-dados-com-uso-de-inteligencia-artificial/",
+      "resumo": "Iniciativa é voltada a profissionais, gestores e interessados na área de educação, com inscrições gratuitas",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-04T11:14:31+00:00",
+      "coletado_em": "2026-11-04T17:15:46.276538+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261103_dadosiaaula-1024x538.jpg",
+      "score": 4.763,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "8a629aa46492",
+      "titulo": "Researchers uncover hidden cause of aging in perovskite solar cells",
+      "url": "https://techxplore.com/news/2026-11-uncover-hidden-aging-perovskite-solar.html",
+      "resumo": "A research team at The Hong Kong Polytechnic University (PolyU) has found a previously overlooked cause of aging in perovskite solar cells exposed to light. The team has also developed a solution that effectively extends the cells' lifetime, an important step toward bringing the technology to market.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-04T15:00:11+00:00",
+      "coletado_em": "2026-11-04T17:15:46.275196+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/polyu-research-uncover.jpg",
+      "score": 5.305,
+      "cobertura": []
+    },
+    {
+      "id": "6c1a0786aac9",
+      "titulo": "4D neutron scattering uncovers ion interactions that could guide solid-state battery design",
+      "url": "https://techxplore.com/news/2026-11-4d-neutron-uncovers-ion-interactions.html",
+      "resumo": "Understanding how ions move through solid materials is key to advancing technologies such as batteries, fuel cells and sensors. A team of scientists led by the U.S. Department of Energy's (DOE) Argonne National Laboratory has demonstrated a cutting-edge method for gauging the activity of ions, revealing a new level of detail about how they move and interact.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-04T14:40:01+00:00",
+      "coletado_em": "2026-11-04T17:15:46.275196+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/argonne-led-team-intro.jpg",
+      "score": 5.272,
+      "cobertura": []
+    },
+    {
+      "id": "c6f765702681",
+      "titulo": "Novo Omoda 5 chega ao Brasil em duas versões e \"no precinho\"",
+      "url": "https://canaltech.com.br/carros/novo-omoda-5-chega-ao-brasil-em-duas-versoes-e-no-precinho/",
+      "resumo": "O novo Omoda E5 chega às concessionárias brasileiras nesta quinta-feira (5) com preços a partir de R$ 159.990 . A versão Elite custa esse valor, enquanto a Prestige sai por R$ 184.990 . O preço agressivo da versão de entrada se destaca por colocar um SUV elétrico de porte médio na faixa de preço de modelos menores. A estratégia amplia a disputa com outras marcas chinesas e pode incomodar rivais como GWM Ora 5, BYD Yuan Pro e Geely EX5. O posicionamento é especialmente relevante em um mercado no qual preço, autonomia e equipamentos pesam cada vez mais na decisão de compra. O SUV tem motor elétrico dianteiro de 210 cv e duas opções de bateria, conforme a versão. Além do conjunto mecânico, a fabricante aposta em uma lista de equipamentos completa , que inclui telas amplas, assistentes de condução e itens de conforto para diferenciar o modelo. Autonomia do Omoda E5 chega a 320 km no ciclo do Inmetro A versão Elite utiliza bateria de 50,6 kWh e tem autonomia de 278 km , segundo o ciclo do Inmetro. Já a Prestige conta com conjunto de 60,9 kWh e pode rodar até 320 km com uma carga . Os números brasileiros são inferiores aos 430 km divulgados no ciclo WLTP. Na recarga, a potência máxima em",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-04T17:01:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/zU24UWgstsVSeNzXPNaAEoCAnDc=/0x0/filters:format(webp):quality(85)/faac2184-32fb-434b-a4a5-d6c7e1536664.jpg",
+      "score": 4.572,
+      "cobertura": []
+    },
+    {
+      "id": "82c3f42a5cdc",
+      "titulo": "Iron powder could store wind and solar power for winter in retired coal plants",
+      "url": "https://techxplore.com/news/2026-11-iron-powder-solar-power-winter.html",
+      "resumo": "When wind and sun are weak in winter, Europe needs power plants that can deliver energy at the push of a button—and in a climate-neutral way. So far, hydrogen and carbon capture and storage (CCS) are considered the favorites for this. Both require infrastructure that doesn't yet exist. An expert report by the Energy Economics Institute at the University of Cologne (EWI), commissioned by the Metal Energy Hubs project of TU Darmstadt and the DESERTEC Foundation, is now examining a third option: iron. TU Darmstadt and KIT have been collaborating on the Clean Circles project on iron as an energy source since 2021.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-03T14:40:23+00:00",
+      "coletado_em": "2026-11-04T17:15:46.275196+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/rust-as-a-savior.jpg",
+      "score": 4.481,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "4756c335b9ba",
+      "titulo": "Ex-COO do Xbox quebra o silêncio após demissão misteriosa e rebate acusações",
+      "url": "https://canaltech.com.br/games/ex-coo-do-xbox-quebra-o-silencio-apos-demissao-misteriosa-e-rebate-acusacoes/",
+      "resumo": "A ex-COO do XBOX, Helen Chiang, se pronunciou pela primeira vez após sua demissão repentina, poucos meses depois de assumir o cargo. A ex-executiva contestou reportagens do Eurogamer e do The Verge que afirmavam que ela havia sido demitida por \"violação de políticas\". “Tem havido algumas especulações sobre a minha saída repentina da Microsoft, incluindo alegações de que fui ‘demitida por violação de políticas’”, declarou Chiang em uma publicação no LinkedIn nesta segunda-feira (2). A ex-COO não entrou em detalhes sobre o motivo da demissão, mas buscou esclarecer os fatos: “O que não foi dito criou uma imagem de mim que mal reconheço”. Ela desmentiu qualquer vazamento de informações confidenciais para a imprensa. “Nunca me comuniquei com nenhum jornalista fora das entrevistas limitadas e autorizadas pela empresa que concedi como parte do meu trabalho”, destacou, citando inclusive profissionais da mídia que entraram em contato com ela para ouvir seu lado da história sobre a demissão . Chiang também afirmou que não deixou a companhia para migrar para um concorrente do XBOX. “Você não passa duas décadas em um lugar sem desenvolver uma profunda lealdade às pessoas, equipes e negócios qu",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-03T23:16:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/jLMA811eOup1FoeSm24QNEJzF28=/0x0/filters:format(webp):quality(85)/392bf3bf-056d-44f9-8f18-b7580103bc17.png",
+      "score": 3.307,
+      "cobertura": []
+    },
+    {
+      "id": "86db1a0c4128",
+      "titulo": "Google rompe com fabricante que mandava TV box infectada para clientes",
+      "url": "https://canaltech.com.br/seguranca/google-rompe-com-fabricante-que-mandava-tv-box-infectada-para-clientes/",
+      "resumo": "O Google rompeu vínculo com a fabricante de TV Box Videostrong após identificar que a empresa inseriu malware intencionalmente nos aparelhos . A empresa ofuscou testes de segurança para inserir código malicioso e está proibida de vender novos aparelhos com aplicativos e plataformas do Android. A equipe de Inteligência de Ameaças da Big Tech acabou com um backdoor (método para ocultar mecanismos de segurança de um sistema) chamado XCPE, no qual era possível infectar os dispositivos Android e transformá-los numa rede de botnet (rede de dispositivos atacados sob controle de uma organização específica) para ações maliciosas. A companhia estima que mais de 1,3 milhão de aparelhos foram comprometidos e faziam parte da rede. O Google tem uma série de testes de segurança para as fabricantes que certificadas como OEM (“Fabricante de Equipamento Original”, em tradução livre da sigla). A investigação aponta que a Videostrong conseguiu burlar alguns desses requisitos para incluir o malware nas configurações de fábrica. A Gigante de Mountain View ainda anunciou que vai revisar alguns dos testes e parâmetros para evitar novos episódios. O XCPE tinha distribuição global, incluindo casos no Brasil",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-03T21:10:00+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/pQyGBCmX35oGZ2MQqELR5nHOHug=/0x0/filters:format(webp):quality(85)/ad44087c-0970-465b-8961-6130f14078f9.jpg",
+      "score": 3.226,
+      "cobertura": []
+    },
+    {
+      "id": "59b00a4329c5",
+      "titulo": "Rumor: nova câmera Nikon pode ter sensor de 45 MP e recurso para dobrar o zoom",
+      "url": "https://canaltech.com.br/produtos/rumor-nova-camera-nikon-pode-ter-sensor-de-45-mp-e-recurso-para-dobrar-o-zoom/",
+      "resumo": "A Nikon pode estar preparando uma nova câmera mirrorless voltada para fotógrafos profissionais. Um vazamento atribuído à própria divisão da empresa em Singapura menciona a suposta Nikon Z70 , modelo que teria um recurso de teleconversor digital capaz de dobrar o alcance do zoom. Rumores anteriores também apontam para um sensor empilhado de 45 megapixels. A informação apareceu em uma imagem promocional da lente Nikkor Z 120-300mm f/2.8 TC VR S, divulgada pelo site Nikon Rumors. Na legenda, a fabricante supostamente recomenda combinar a objetiva com o “Teleconversor Digital da Z70” para alcançar uma distância focal equivalente a 1.260 mm em f/4 . 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas O detalhe chamou a atenção porque pode revelar como funcionaria o recurso. Considerando que a Z70 seja uma câmera APS-C, com fator de corte de 1,5x, a lente de 120-300 mm teria alcance equivalente a 180-450 mm. O teleconversor óptico de 1,4x integrado à objetiva elevaria esse número para 252-630 mm. Com a aplicação de um zoom digital de 2x, o alcance chegaria justamente aos 1.260 mm mencionados no material. Sensor de 45 MP pode compensar zoom digital A possibilidade de um telecon",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-04T16:25:13+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/OfBvHwC1d9-rsEZpFsyxmSvY3LQ=/0x0/filters:format(webp):quality(85)/be28c51d-8623-4ee0-a4d2-9973c743b02e.jpg",
+      "score": 1.505,
+      "cobertura": []
+    },
+    {
+      "id": "1acc03cabbe7",
+      "titulo": "Galaxy A38 pode ganhar bateria de 6.000 mAh e superar todos os antecessores",
+      "url": "https://canaltech.com.br/smartphone/galaxy-a38-pode-ganhar-bateria-de-6000-mah-e-superar-todos-os-antecessores/",
+      "resumo": "O Samsung Galaxy A38 deve ganhar uma bateria de 6.000 mAh, cerca de 20% maior que a do Galaxy A37, que tem uma bateria de 5.000 mAh. As informações vêm de vazamentos publicados pelos sites GSMArena e GalaxyClub. Segundo os relatos, a bateria terá capacidade nominal de 5.882 mAh, mas deve aparecer nas especificações comerciais com 6.000 mAh. Apesar do salto na capacidade, a Samsung não deve adotar uma bateria de silício-carbono no novo aparelho. A tecnologia costuma permitir baterias maiores sem exigir tanto espaço físico dentro do celular. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Se a bateria vai ser uma novidade importante, o conjunto de câmeras deve permanecer praticamente igual ao das gerações anteriores. Os vazamentos apontam que o Galaxy A38 terá uma câmera principal de 50 MP , uma ultrawide de 8 MP e outra macro de 5 MP. Na parte frontal, o celular deve trazer um sensor de 12 MP para selfies. Essa combinação seria a mesma encontrada no Galaxy A36 e no Galaxy A37 . Portanto, o A38 será o terceiro aparelho consecutivo da linha com esse conjunto fotográfico. Ainda não existem informações suficientes sobre o processador ou outras possíveis mudanças de hardwa",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-04T14:10:41+00:00",
+      "coletado_em": "2026-11-04T17:15:46.282217+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/vqYGFTz-aOYBZyFj_E_lmzXJEwA=/0x0/filters:format(webp):quality(85)/17ee1193-1426-4bf1-bc6d-dd87d4e8f437.jpg",
+      "score": 1.274,
+      "cobertura": []
+    }
+  ]
+}
