@@ -1,0 +1,754 @@
+{
+  "medicina": [
+    {
+      "id": "21374e028790",
+      "titulo": "Scientists use AI to develop bird flu vaccine that outperforms current stockpiled shot",
+      "url": "https://medicalxpress.com/news/2026-11-scientists-ai-bird-flu-vaccine.html",
+      "resumo": "A University of Cambridge team has had a third success with its AI-guided technique for designing vaccines against highly infectious viruses that threaten animal and human health. Its new broad-spectrum bird flu vaccine gave complete protection against globally circulating, diverse variants of the disease in animal trials.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-05T16:00:34+00:00",
+      "coletado_em": "2026-11-05T17:24:52.801473+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/cambridge-scientists-u-2.jpg",
+      "score": 6.394,
+      "cobertura": []
+    },
+    {
+      "id": "b652d077e359",
+      "titulo": "STAT+: A possible comeback for a failed sickle cell gene therapy",
+      "url": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
+      "resumo": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy…",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-05T16:22:53+00:00",
+      "coletado_em": "2026-11-05T17:24:52.801986+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2020/08/AdobeStock_287945965-1024x576.jpeg",
+      "score": 6.234,
+      "cobertura": []
+    },
+    {
+      "id": "7ea93072ba3c",
+      "titulo": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
+      "url": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
+      "resumo": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-05T09:30:00+00:00",
+      "coletado_em": "2026-11-05T17:24:52.801986+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/1042-1024x576.jpg",
+      "score": 6.116,
+      "cobertura": []
+    },
+    {
+      "id": "1ddf70446bce",
+      "titulo": "STAT+: Pharmalittle: We’re reading about India’s new manufacturing rules, clinical trials in China, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/05/india-new-manufacturing-rules-china-clinical-trials/?utm_campaign=rss",
+      "resumo": "India proposed rules requiring regulators to immediately suspend manufacturing licenses for drugs that fail quality standards in government testing",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-05T14:49:16+00:00",
+      "coletado_em": "2026-11-05T17:24:52.801986+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "score": 6.072,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "4bce975916c8",
+      "titulo": "Historic duck DNA traces wild mallard genetic changes to more than a century of releases",
+      "url": "https://phys.org/news/2026-11-historic-duck-dna-wild-mallard.html",
+      "resumo": "Researchers have long known that releasing domesticated ducks can alter wild populations. Now, a study led by a doctoral student at The University of Texas at El Paso has documented, for the first time in North America, when and where these genetic changes took place and tied them directly to more than a century of releases.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-05T12:40:06+00:00",
+      "coletado_em": "2026-11-05T17:24:52.802338+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/utep-researcher-leads-1.jpg",
+      "score": 5.07,
+      "cobertura": []
+    },
+    {
+      "id": "594012cda406",
+      "titulo": "Tiny animal populations can recover, challenging assumptions about extinction risk",
+      "url": "https://phys.org/news/2026-11-tiny-animal-populations-recover-assumptions.html",
+      "resumo": "Species reduced to fewer than 50 individuals in the wild are not automatically doomed to extinction, according to a major study co-authored by researchers at the Zoological Society of London and Monash University.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-05T17:20:01+00:00",
+      "coletado_em": "2026-11-05T17:24:52.802338+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/echo-parakeet.jpg",
+      "score": 5.041,
+      "cobertura": []
+    },
+    {
+      "id": "de3a626efb2c",
+      "titulo": "A 70-million-year-old genetic rescue allowed codfishes to escape extinction and shape the North Atlantic",
+      "url": "https://phys.org/news/2026-11-million-year-genetic-codfishes-extinction.html",
+      "resumo": "A new study has revealed how the repurposing of an ancestral gene saved the embryos of cod's ancestors from extinction, enabling them to form the large populations that, millions of years later, would change the course of human history. The codfishes and their relatives in the order Gadiformes lost genes essential for egg buoyancy and the survival of their embryos, yet survived by adaptively recruiting mechanisms that aid egg ovulation in freshwater fishes.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-05T16:20:27+00:00",
+      "coletado_em": "2026-11-05T17:24:52.802338+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-70-million-year-old.jpg",
+      "score": 4.93,
+      "cobertura": []
+    },
+    {
+      "id": "f0b00e97501b",
+      "titulo": "A aposta brasileira em terapias e vacinas de RNA",
+      "url": "https://revistapesquisa.fapesp.br/aposta-brasileira-em-terapias-e-vacinas-de-rna/",
+      "resumo": "Como o país tenta transformar a experiência da pandemia de Covid-19 em uma estratégia de soberania tecnológica e inovação em saúde",
+      "fonte": "Agência FAPESP",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-05T17:24:52.815777+00:00",
+      "imagem_feed": null,
+      "score": 4.7,
+      "cobertura": [
+        "https://revistapesquisa.fapesp.br/aposta-brasileira-em-terapias-e-vacinas-de-rna/?utm_source=rss&utm_medium=rss&utm_campaign=aposta-brasileira-em-terapias-e-vacinas-de-rna"
+      ]
+    }
+  ],
+  "robotica": [
+    {
+      "id": "b66f2045205c",
+      "titulo": "Chimney or squirrel? Clearing up a robot's fuzzy memory by comparing images from different angles",
+      "url": "https://techxplore.com/news/2026-11-chimney-squirrel-robot-fuzzy-memory.html",
+      "resumo": "In an emergency, a human might someday ask a robotic assistant to fetch a wall-mounted defibrillator located down the hall. But if the robot has incorrectly labeled the defibrillator as a fire extinguisher in its stored memory, it may not know where to find the lifesaving device.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-05T14:00:06+00:00",
+      "coletado_em": "2026-11-05T17:24:52.803870+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/clearing-up-a-robots-f.jpg",
+      "score": 5.692,
+      "cobertura": [
+        "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105"
+      ]
+    },
+    {
+      "id": "9316a2ac717b",
+      "titulo": "Agility Robotics begins trading on Nasdaq",
+      "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+      "resumo": "Agility Robotics becomes the first U.S.-based legged humanoid company to be publicly listed. The post Agility Robotics begins trading on Nasdaq appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-05T14:46:29+00:00",
+      "coletado_em": "2026-11-05T17:24:52.803713+00:00",
+      "imagem_feed": null,
+      "score": 5.617,
+      "cobertura": []
+    },
+    {
+      "id": "babfc9dd96bc",
+      "titulo": "How Ambi Robotics helps its customers prepare for peak season",
+      "url": "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/",
+      "resumo": "Ambi Robotics' co-founder and COO Stephen McKinley says the company is installing eight new systems at customer sites before peak season. The post How Ambi Robotics helps its customers prepare for peak season appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-05T16:50:23+00:00",
+      "coletado_em": "2026-11-05T17:24:52.803713+00:00",
+      "imagem_feed": null,
+      "score": 5.335,
+      "cobertura": []
+    },
+    {
+      "id": "3665ca3c2f99",
+      "titulo": "Are Drone Ports the Next Annoying Tech Neighbor?",
+      "url": "https://spectrum.ieee.org/drone-delivery-noise",
+      "resumo": "Rick and Marcia LeCompte loved to watch the Cooper’s hawks that frequented a sweet-gum tree in their yard in Baton Rouge, La. But this October, the hawks were gone. Marcia LeCompte is convinced the birds were scared away by the same flying robots that have been vexing the couple since early September. The noise had them spending less time outside in their garden, and even inside their home, they couldn’t escape the near-constant buzzing. Angry and feeling harassed, the LeComptes began to think about moving. The problem: delivery drones. Amazon’s MK30 delivery drones are large and must fly near the ground when making deliveries. Annabel Lee-Ellis/Press Association/AP Images Last August, Amazon Prime Air began flying its MK30 drones from a distribution center 3.2 kilometers (2 miles) from the LeComptes’ home. People in the neighborhood first noticed just a few of the drones, flying high (U.S. regulations authorize drones to fly at up to 120 meters (400 feet )). But a couple of weeks later, they felt as if drones were everywhere, and often flying much lower. The high-pitched whine of rotors was what bothered them the most, says Blake Fugler, who lives in the same neighborhood. It soun",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-04T18:47:21+00:00",
+      "coletado_em": "2026-11-05T17:24:52.803339+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-worker-walking-amid-several-delivery-drones-on-a-launchpad-in-a-chinese-city.jpg?id=68592213&width=980",
+      "score": 4.691,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "afdcab0f2622",
+      "titulo": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1105639/",
+      "resumo": "Security updates have been issued by AlmaLinux (dpdk, httpd:2.4, kernel, kernel-rt, mysql:8.0, php:7.4, php:8.0, qt5, ruby:2.7, ruby:3.0, tesseract, webkit2gtk3, and xorg-x11-server-Xwayland), Debian (imagemagick, puppet-agent, symfony, trapperkeeper-authorization-clojure, and xen), Fedora (3proxy, bind, bind-dyndb-ldap, curl, dhcpcd, erlang-jose, forgejo, freetype, laszip, libical, libmongocrypt, markdownlint-cli2, mongo-c-driver, openbao, pipx, python-boto3, python-botocore, python-crate-ingredients, python-lxml-html-clean, python3.11, python3.13, python3.14, python3.15, roundcubemail, rply, ruby-build, rust-app-store-connect, rust-qemu-rdp, rust-redlib, scribus, and valkey), Mageia (minetest, python-pypdf, stunnel, znc, and zvbi), Oracle (.NET 10.0, bind, brotli, cockpit, dpdk, fence-agents, freerdp, gimp, glibc, grafana, gvfs, host-metering, kernel, python-dns, qemu-kvm, raptor2, tesseract, webkit2gtk3, and xorg-x11-server-Xwayland), Red Hat (grafana and pcs), Slackware (rsync), SUSE (amazon-cloudwatch-agent, apache2, aws-efs-utils, brotli, cephfs, coredns, cramfs-tools, firefox-esr, fuse-overlayfs, ghostscript, GraphicsMagick, libpolkit-agent-1-0-128, libsoup, nvidia-open-driv",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-05T14:11:50+00:00",
+      "coletado_em": "2026-11-05T17:24:52.804549+00:00",
+      "imagem_feed": null,
+      "score": 6.211,
+      "cobertura": []
+    },
+    {
+      "id": "7d07d03e1f0d",
+      "titulo": "Critical security vulnerability affects OpenSSH on Alpine Linux systems",
+      "url": "https://lwn.net/Articles/1105464/",
+      "resumo": "Version 10.6p2 of OpenSSH has been released with a workaround for a critical vulnerability that affects Linux systems that use musl libc with PAM disabled, such as Alpine Linux . OpenSSH developer Damien Miller said : If you operate a Linux system that uses musl libc without PAM (Alpine Linux is one example) then stop reading and set PasswordAuthentication=no or disable SSH for these systems IMMEDIATELY. This vulnerability does not exist on non-Linux systems, Linux/glibc systems and Linux systems that use PAM for password authentication. We consider the root cause of this bug to be outside OpenSSH itself, but we're in a good position to deliver a mitigation quickly. The Alpine Linux project has announced that it will be backporting the OpenSSH fix \" all the way back to Alpine 3.16 \", which was released in May 2022.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-05T11:39:10+00:00",
+      "coletado_em": "2026-11-05T17:24:52.804549+00:00",
+      "imagem_feed": null,
+      "score": 5.984,
+      "cobertura": []
+    },
+    {
+      "id": "48db7c1c50f6",
+      "titulo": "Siri ganha superpoderes em nova atualização do iOS; veja o que muda",
+      "url": "https://canaltech.com.br/apps/siri-ganha-superpoderes-em-nova-atualizacao-do-ios-veja-o-que-muda/",
+      "resumo": "A Apple liberou a versão Beta do iOS 27.3 para desenvolvedores nesta semana com mudanças importantes na Siri. A assistente ganhou mais recursos para gerenciar os aplicativos nativos do iOS e enfim está disponível para se conectar com aplicativos de terceiros . No caso das ferramentas da Apple, a Siri AI consegue criar playlists a partir de comandos simples no Music, agendar ou editar mensagens no iMessage, formatar textos no Notes e gerar grupos de abas no Safari, por exemplo. O suporte aos apps de terceiros é outro destaque importante. Desenvolvedores já podem experimentar a integração da assistente com seus respectivos softwares, no qual a IA pode interagir com interfaces, extrair dados e adquirir novas habilidades. Isso significa que, em breve, a Siri AI poderá ser usada para reservar um restaurante num app específico ou criar tarefas automatizadas — similar ao que os agentes de IA fazem, mas de forma integrada ao iOS. A nova versão da Siri foi anunciada em 2024 e chegou apenas neste ano com o iOS 27, mas aos poucos cumpre as promessas feitas pela Gigante de Cupertino durante o lançamento. Além de aumentar o suporte a apps, a ferramenta se tornou compatível com mais idiomas (inc",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-05T12:08:31+00:00",
+      "coletado_em": "2026-11-05T17:24:52.822611+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/vyidGOEcVE9rooIAm1hwqUlUJ-4=/0x0/filters:format(webp):quality(85)/e69ad77b-5bc6-4c4b-be5b-939a3e2ae48c.jpg",
+      "score": 5.575,
+      "cobertura": []
+    },
+    {
+      "id": "a6119cf98860",
+      "titulo": "Building a Culture for a Kubernetes-Based Platform in a Bank",
+      "url": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "In banking, open source can earn trust by running real workloads, as Marcy Paramonova and Stéphane Cusin explained in their talk Building Cloud Native Culture in a Bank at KubeCon & CloudNativeCon Europe. Deploying Kubernetes was the easy part; the hard part was culture: community of practice, shared knowledge, rituals, ownership. Teams try things, keep what works, and improve bottom-up. By Ben Linders",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-05T11:11:00+00:00",
+      "coletado_em": "2026-11-05T17:24:52.804076+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/culture-kubernetes-bank/en/headerimage/generatedHeaderImage-1793781033508.jpg",
+      "score": 5.095,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "c9be4b4dc557",
+      "titulo": "Intel leaker claims Nova Lake desktop chips have 5.1 GHz clock limit beyond 90°C",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips",
+      "resumo": "A known Intel leaker claims that Intel's next-generation processors will top out at 5.1 GHz if the CPU core temperatures aren't kept below 90°C.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-05T14:57:51+00:00",
+      "coletado_em": "2026-11-05T17:24:52.804935+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/B4avSRi36yewaj7Wyj3k5Q-1920-80.jpg",
+      "score": 6.436,
+      "cobertura": []
+    },
+    {
+      "id": "749a74f3c038",
+      "titulo": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
+      "resumo": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-05T16:48:30+00:00",
+      "coletado_em": "2026-11-05T17:24:52.804935+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/fmbubhzMvhqdXsuXX8CbYA-1920-80.png",
+      "score": 5.631,
+      "cobertura": []
+    },
+    {
+      "id": "63a5f433b41f",
+      "titulo": "Celular com a 2ª melhor câmera do mundo chega ao Brasil",
+      "url": "https://tecnoblog.net/noticias/celular-com-a-2a-melhor-camera-do-mundo-chega-ao-brasil/",
+      "resumo": "Motorola Signature 27 tem preço a partir de R$ 10.999, com Snapdragon 8 Elite Extreme Gen 6 e memória RAM de 12 GB. Celular com a 2ª melhor câmera do mundo chega ao Brasil",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-05T13:00:21+00:00",
+      "coletado_em": "2026-11-05T17:24:52.820009+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/img_4063.jpg",
+      "score": 5.3,
+      "cobertura": [
+        "https://canaltech.com.br/smartphone/motorola-signature-27-chega-ao-brasil-com-camera-de-200-mp-veja-precos/"
+      ]
+    },
+    {
+      "id": "f2a96a3da27f",
+      "titulo": "Intel prepara mais uma linha de processadores para notebooks em 2027",
+      "url": "https://canaltech.com.br/hardware/intel-prepara-mais-uma-linha-de-processadores-para-notebooks-em-2027/",
+      "resumo": "A principal geração de CPUs Intel Core disponível hoje é a Panther Lake , que mescla bem eficiência e desempenho. Já a geração Wildcat Lake chegou focando em economia de energia, mas o Time Azul deve ir além com a família \"Moon Lake\" , com processadores formados somente por núcleos de baixo consumo (LPE-cores) e TDP baixíssimo , ao mesmo tempo em que prepara um refresh de Wildcat Lake . O grande destaque do que vem por aí, segundo o leaker Jaykihn, é o Moon Lake, projetado para suceder chips de consumo ultrabaixo como a antiga série Alder Lake-N. A arquitetura abandona completamente os núcleos de desempenho (P-Cores) e adota uma estrutura baseada em até 4 núcleos de baixo consumo, fabricados na litografia 18A padrão . Com um consumo base estimado em apenas 6 W , semelhante ao de processadores voltados para smartphones, o chip pode operar com resfriamento totalmente passivo (sem ventoinhas). Ele será montado na mesma da série Wildcat Lake (BGA1516), integrando também gráficos com a arquitetura Xe3 em um pacote compacto voltado para notebooks básicos, mini-PCs e servidores NAS de entrada. O lançamento das CPUs Moon Lake está previsto para o último trimestre de 2027 . Wildcat Lake Ref",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-05T14:06:00+00:00",
+      "coletado_em": "2026-11-05T17:24:52.822611+00:00",
+      "imagem_feed": null,
+      "score": 4.951,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "37974e11c5ee",
+      "titulo": "Webb Space Telescope's little red dots could hold key to first black holes",
+      "url": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html",
+      "resumo": "Johns Hopkins researchers searching the expanse of the universe for the existence of the first black holes are zeroing in on little red dots that may hold the key to the theoretical phenomenon.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-05T14:20:02+00:00",
+      "coletado_em": "2026-11-05T17:24:52.805774+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/webb-space-telescopes.jpg",
+      "score": 5.724,
+      "cobertura": []
+    },
+    {
+      "id": "1d342b24619c",
+      "titulo": "Hubble Learns Galactic History From Stars",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "resumo": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-05T12:56:21+00:00",
+      "coletado_em": "2026-11-05T17:24:52.805528+00:00",
+      "imagem_feed": null,
+      "score": 5.044,
+      "cobertura": []
+    },
+    {
+      "id": "99322664961d",
+      "titulo": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
+      "url": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
+      "resumo": "NASA has announced its next X-plane, known as the X-70 Fractal, designed to test advanced maneuverability and which will feature a rapidly reconfigurable design.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-05T13:33:52+00:00",
+      "coletado_em": "2026-11-05T17:24:52.806146+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/AiaAqXG4pJVCeRwNm9i8jH-1920-80.jpg",
+      "score": 5.001,
+      "cobertura": [
+        "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+      ]
+    },
+    {
+      "id": "9160bc4d22a4",
+      "titulo": "Vitória democrata nas eleições de meio de mandato pressiona governo Trump",
+      "url": "https://jornal.usp.br/radio-usp/vitoria-democrata-nas-eleicoes-de-meio-de-mandato-pressiona-governo-trump/",
+      "resumo": "Partido Democrata conquista maioria na Câmara e no Senado e ganha força para contestar decisões do presidente",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-05T12:52:53+00:00",
+      "coletado_em": "2026-11-05T17:24:52.816711+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/08/20230807_donald-trump-1024x538.jpg",
+      "score": 4.889,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "d41acab1ea50",
+      "titulo": "Majorana qubits explained: The Quantum Kid goes inside Microsoft’s quantum lab",
+      "url": "https://thequantuminsider.com/2026/11/05/majorana-qubits-explained-the-quantum-kid-goes-inside-microsofts-quantum-lab/",
+      "resumo": "Insider brief What happens when you zip a 10-year-old into a full clean room suit and walk him into one of the most advanced quantum labs in Europe? In the newest episode of The Quantum Kid, Kai gets to find out. He spent a day at Microsoft’s quantum lab in Lyngby, just outside Copenhagen. It’s […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-05T15:28:02+00:00",
+      "coletado_em": "2026-11-05T17:24:52.806460+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Majorana-2_-The-Mystery-Chip.png",
+      "score": 5.987,
+      "cobertura": []
+    },
+    {
+      "id": "53a30f89a11c",
+      "titulo": "Horizon Quantum Plans to Acquire Entropica Labs for $27 Million",
+      "url": "https://thequantuminsider.com/2026/11/05/horizon-quantum-acquire-entropica-labs-27-million/",
+      "resumo": "Insider Brief PRESS RELEASE — Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, today announced that they have signed a non-binding letter of intent to acquire Entropica Labs Pte. Ltd. (“Entropica Labs”), a Singapore-based quantum software company specializing in error correction and fault tolerance, for an anticipated […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-05T13:52:43+00:00",
+      "coletado_em": "2026-11-05T17:24:52.806460+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-05_18-51.png",
+      "score": 5.331,
+      "cobertura": []
+    },
+    {
+      "id": "06f2a962b2a0",
+      "titulo": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
+      "url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
+      "resumo": "Insider Brief PRESS RELEASE — IBM (NYSE: IBM), the U.S. Department of Energy-funded Quantum Science Center (QSC) at Oak Ridge National Laboratory (ORNL), and AMD (NASDAQ: AMD) today unveiled a new co-design platform for quantum error correction, integrating quantum and high-performance computing. Over the last several years, researchers have made significant advances in the field […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-05T13:02:38+00:00",
+      "coletado_em": "2026-11-05T17:24:52.806460+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/IBM-ORNL-AMD-Co-design-Platform-for-QEC-Ribbon-Cutting-2-1.jpg",
+      "score": 5.254,
+      "cobertura": []
+    },
+    {
+      "id": "1b7169ea79a7",
+      "titulo": "SEALSQ and Eco Wave Power Demonstrate Digital Energy Transactions for AI Data Centers",
+      "url": "https://thequantuminsider.com/2026/11/05/sealsq-eco-wave-power-digital-energy-transactions-ai-data-centers/",
+      "resumo": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or “Company”), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that together with its parent company, WISeQey Corp. (“WISeQey”) (Nasdaq/SIX: WQEY), a global quantum cybersecurity and space IoT company and sister company SEALCOIN AG, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-05T15:46:56+00:00",
+      "coletado_em": "2026-11-05T17:24:52.806460+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-05_20-45.png",
+      "score": 5.02,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "bd97238bf6d6",
+      "titulo": "Best Thunderbolt docks to extend your laptop’s capabilities",
+      "url": "https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html",
+      "resumo": "A Thunderbolt laptop docking station offers a serious boost to your productivity, providing support for old and new peripherals alike. It’s a necessity for a home office, but only buy what you need: In 2026, premium Thunderbolt 5 docks might be overkill for a Windows PC. Here, we’ll recommend the best Thunderbolt docks — an overall pick, as well as budget and premium recommendations — based on our own testing of dozens of Thunderbolt docking stations. That testing includes a formal performance evaluation, of course, but also simply using each dock day-in and day-out over an extended period. If you need help deciding what’s best for you, a FAQ at the bottom of the page is there to assist. That FAQ includes an explanation of why I generally lean toward slightly older Thunderbolt 4 docks at the moment. Be aware that significantly older laptops often don’t use Thunderbolt. They may have a slower, generic USB-C port instead, making my picks for the best USB-C hubs and dongles a better choice. If you have a Ryzen laptop, you’re rocking USB4 instead of Thunderbolt 4, although the two are essentially interchangeable. If you’re interested in productivity and not gaming, consider a middle gr",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-05T17:00:00+00:00",
+      "coletado_em": "2026-11-05T17:24:52.807827+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/393714-0-27630600-1793898026-thunderbolt-dock-primary-100868060-orig.jpg?quality=50&strip=all",
+      "score": 6.153,
+      "cobertura": []
+    },
+    {
+      "id": "c26d3ca0f11a",
+      "titulo": "Windows is no longer the center of the PC universe",
+      "url": "https://www.pcworld.com/article/3275869/windows-is-no-longer-the-center-of-the-pc-universe.html",
+      "resumo": "For most of my life, talking about “the PC” basically meant talking about Windows. Sure, Macs existed. Linux existed. Weirdos like us knew you could build Hackintoshes, boot obscure Linux distros, and spend an entire Saturday compiling something because it’s fun and interesting, dammit! But Windows was the sun that the rest of the PC universe orbited around. New hardware existed to run Windows. New software targeted Windows. Gaming meant Windows. The PC industry moved where Microsoft moved. I don’t think that’s true anymore. Windows is still gigantic. It isn’t dying or going anywhere. But look at the most interesting things happening to consumer PCs this decade and it’s obvious: Windows isn’t driving them. Sometimes, Windows is the problem they’re trying to solve. The Steam Deck changed PCs without Windows Valve’s Steam Deck was a revelation that kicked off a whole new computing form factor. Willis Lai/IDG The Steam Deck is the single most important PC hardware release of the 2020s. Not the fastest GPU. Not some $4,000 halo laptop. The Steam Deck. Valve took the enormous existing PC gaming ecosystem, stuffed it into an affordable handheld, and created an entirely new category of co",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-05T14:00:00+00:00",
+      "coletado_em": "2026-11-05T17:24:52.807827+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3275869-0-45202100-1793887224-Windows-11-Gaming.png",
+      "score": 5.842,
+      "cobertura": []
+    },
+    {
+      "id": "503ba921d6c6",
+      "titulo": "Paint has a no-click security flaw. Your PC might’ve missed the patch",
+      "url": "https://www.pcworld.com/article/3277811/paint-has-a-no-click-security-flaw-your-pc-mightve-missed-the-patch.html",
+      "resumo": "Dangerous security vulnerabilities can occur in virtually any Windows app. Now it’s Microsoft Paint’s turn. The well-known Windows drawing app contains a vulnerability that attackers can exploit to inject malicious code. The user doesn’t even need to click on anything for it to happen. Microsoft rated the threat posed by the CVE-2026-83844 vulnerability at 8.1 out of 10 and released a fix on October 13th, which was the last major Patch Tuesday . The problem? That patch apparently never reached some users, meaning the Paint app remains unpatched and vulnerable. This was reported by Windows Latest , who checked the version of the Paint app on their system. It corresponded to the version number prior to the security patch (in this case 11.2603.251.0) and not the recommended patched version (which should be 11.2609.401.0). Some antivirus software apparently flagged Paint as unpatched, and some users and administrators noticed that their version of Paint had apparently not been updated. It’s still unclear whether the fault lies in the distribution of the update or in Paint itself. Both Windows Latest and other affected users had automatic updates correctly enabled in their settings. To ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-05T15:20:09+00:00",
+      "coletado_em": "2026-11-05T17:24:52.807827+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3277811-0-84866100-1793892020-Windows-11-laptop-on-a-wooden-desk-workstation.jpg?quality=50&strip=all",
+      "score": 5.474,
+      "cobertura": []
+    },
+    {
+      "id": "63a5f433b41f",
+      "titulo": "Celular com a 2ª melhor câmera do mundo chega ao Brasil",
+      "url": "https://tecnoblog.net/noticias/celular-com-a-2a-melhor-camera-do-mundo-chega-ao-brasil/",
+      "resumo": "Motorola Signature 27 tem preço a partir de R$ 10.999, com Snapdragon 8 Elite Extreme Gen 6 e memória RAM de 12 GB. Celular com a 2ª melhor câmera do mundo chega ao Brasil",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-05T13:00:21+00:00",
+      "coletado_em": "2026-11-05T17:24:52.820009+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/img_4063.jpg",
+      "score": 5.3,
+      "cobertura": [
+        "https://canaltech.com.br/smartphone/motorola-signature-27-chega-ao-brasil-com-camera-de-200-mp-veja-precos/"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "513dfed9debc",
+      "titulo": "AI Text Watermarking May Not Be Able to Meet the EU’s New Rules",
+      "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+      "resumo": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new EU law , show that these watermarks often do not survive additional editing of the text or when it’s under 150 words. With no clear legal benchmark for how well watermarks should work, it’s uncertain whether textGrain will meet Europe’s transparency rules, which could cost the company significantly and make it difficult to detect AI-generated text as models grow more sophisticated. AI models calculate the probabilities of different possible next tokens (the next word or word fragment it generates) based on the text already written, then select one and repeat that process until the response is complete. After the prompt “today the weather is…,” for example, says Xiang Li , co-author of the textGrain technical report and a postdoctoral researcher at the University of Pennsylvania, the model might weigh “warm” or “cool” as possible next words. A watermark uses a secret key to generate pseudorandom values: numbers produced by a mathematical process, which influence which token th",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-05T15:00:03+00:00",
+      "coletado_em": "2026-11-05T17:24:52.814311+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-the-european-union-flag-with-its-stars-replaced-by-logos-for-open-ai.jpg?id=68564327&width=980",
+      "score": 5.89,
+      "cobertura": []
+    },
+    {
+      "id": "f343e93953d0",
+      "titulo": "Agentes de IA precisam de dados para decidir",
+      "url": "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-precisam-de-dados-para-decidir/",
+      "resumo": "*Por Fernando Cabral A inteligência artificial está entrando em uma nova fase. Depois de ganhar espaço como ferramenta para gerar conteúdo, organizar informações e responder perguntas, ela começa a assumir um papel mais ativo nas empresas. Os agentes de IA ampliam essa possibilidade ao executar tarefas e trabalhar de forma contínua em direção a objetivos definidos. Esse movimento já está acontecendo. Segundo o The State of AI 2026 da McKinsey, entre grandes organizações com receita anual superior a US$ 1 bilhão, 40% dos respondentes afirmam que suas empresas já estão escalando agentes de IA em pelo menos uma função . No ano anterior, esse percentual era de 27%. Tenho notado que setores como bens de consumo e varejo, marketing e vendas estão entre as atividades em que o uso desses agentes já é mais frequente. A tendência que observo é que esse avanço continuará nos próximos anos, como reforça uma previsão do Gartner. Publicado em 2025, o o 3 Bold and Actionable Predictions for the Future of GenAI aponta que, até 2028, 33% das aplicações de software empresarial devem incorporar recursos de IA agêntica . Em 2024, esse percentual era inferior a 1%. Para o marketing, essa evolução ganha",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-05T13:32:28+00:00",
+      "coletado_em": "2026-11-05T17:24:52.822611+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/h8CSuUOvkffM-rWIZEsfBu_AidQ=/0x0/filters:format(webp):quality(85)/c1780697-2b1e-4ed2-8d5a-b29ec103b27e.png",
+      "score": 5.699,
+      "cobertura": []
+    },
+    {
+      "id": "63c3d56bc72b",
+      "titulo": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "resumo": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+      "fonte": "Google Blog",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-05T17:00:00+00:00",
+      "coletado_em": "2026-11-05T17:24:52.814591+00:00",
+      "imagem_feed": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
+      "score": 5.303,
+      "cobertura": []
+    },
+    {
+      "id": "9b3869db6fb5",
+      "titulo": "Google shouldn’t be pressuring schools to use its AI",
+      "url": "https://www.newscientist.com/article/2597761-google-shouldnt-be-pressuring-schools-to-use-its-ai/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Google has said schools can’t have access to its search engine without AI, even in schools where AI use is being banned. Columnist Jacob Aron says the tech giant shouldn’t be dictating education policy in this way",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-05T16:46:46+00:00",
+      "coletado_em": "2026-11-05T17:24:52.839875+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319433950.jpg",
+      "score": 5.278,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "310b62e458c1",
+      "titulo": "Model shows factories and employees can profit from idle car batteries at work",
+      "url": "https://techxplore.com/news/2026-11-factories-employees-profit-idle-car.html",
+      "resumo": "Researchers from Skoltech—a VEB.RF Group institution—have developed an optimization framework to help factories compare strategies for using onsite solar power and the electric vehicles of employees to reduce electricity costs. Evaluated in a Moscow case study, the approach accounts for industrial electricity billing rules, operating decisions and drivers' willingness to participate, helping businesses assess options before investing.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-05T12:20:01+00:00",
+      "coletado_em": "2026-11-05T17:24:52.815504+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/model-shows-factories.jpg",
+      "score": 5.041,
+      "cobertura": []
+    },
+    {
+      "id": "ed569fd35ede",
+      "titulo": "Graphene networks help lithium-ion batteries store more energy and deliver more power",
+      "url": "https://techxplore.com/news/2026-11-graphene-networks-lithium-ion-batteries.html",
+      "resumo": "Making more efficient, longer-lasting lithium-ion batteries has been a challenge for researchers because adding more mass to the batteries restricts how fast electricity and lithium ions can move. To overcome this challenge, a research team has added graphene mesosponge to batteries to improve their performance during fast discharge. Their results show that graphene mesosponge is highly effective at improving the energy and power densities of commercial lithium-ion batteries.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-05T14:40:01+00:00",
+      "coletado_em": "2026-11-05T17:24:52.815504+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-lithium-ion-bat.jpg",
+      "score": 4.756,
+      "cobertura": []
+    },
+    {
+      "id": "47e1fe202ed3",
+      "titulo": "GAC estipula prazo para levar bateria de estado sólido aos EVs",
+      "url": "https://canaltech.com.br/carros/gac-estipula-prazo-para-levar-bateria-de-estado-solido-aos-evs/",
+      "resumo": "A GAC avançou no desenvolvimento de uma tecnologia que pode mudar o alcance dos carros elétricos e acabar, de uma vez por todas, com a ansiedade de autonomia . A fabricante chinesa levou suas baterias de estado sólido da fase de pesquisa para a produção-piloto e estabeleceu um prazo para começar a equipar seus EVs . O projeto vem sendo desenvolvido desde 2014 e já alcançou densidade energética superior a 400 Wh/kg . De acordo com a empresa, esse índice abre caminho para carros elétricos capazes de superar 1.000 km de autonomia com uma única carga. A estreia está prevista inicialmente para modelos da Hyper , marca premium da GAC. Apesar do avanço, a tecnologia ainda está em fase de produção-piloto, e a autonomia anunciada representa um potencial estimado pela fabricante , não um resultado homologado em um carro comercial. O que muda com a bateria de estado sólido? A principal diferença está na composição interna: em vez do eletrólito líquido utilizado nas baterias convencionais, a tecnologia da GAC emprega um material sólido . Essa mudança permite trabalhar com ânodos de lítio metálico e células mais compactas, aumentando a quantidade de energia armazenada em relação ao peso do conj",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-05T14:03:00+00:00",
+      "coletado_em": "2026-11-05T17:24:52.822611+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/RRE6Q4t-etZcGlGiy8pnI3W7cJU=/0x0/filters:format(webp):quality(85)/5c0413ea-76b4-4f09-8f78-b3253e0d3002.jpeg",
+      "score": 4.747,
+      "cobertura": []
+    },
+    {
+      "id": "1a813ad6fae6",
+      "titulo": "Study reveals path to carbon-negative hydrogen production",
+      "url": "https://techxplore.com/news/2026-11-reveals-path-carbon-negative-hydrogen.html",
+      "resumo": "Hydrogen could help industries reduce their dependence on fossil fuels, but its environmental benefits depend largely on how it is produced. Conventional hydrogen production can release substantial amounts of greenhouse gases, creating a need for technologies that not only reduce emissions but also help remove carbon dioxide from the atmosphere.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-05T12:40:01+00:00",
+      "coletado_em": "2026-11-05T17:24:52.815504+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/jeonbuk-national-unive-11.jpg",
+      "score": 4.57,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "e84151b2293b",
+      "titulo": "Vazamentos do Smart Sampa expõem fragilidades de sistema de monitoramento",
+      "url": "https://jornal.usp.br/radio-usp/vazamentos-do-smart-sampa-expoem-fragilidades-de-sistema-de-monitoramento/",
+      "resumo": "Raquel Rolnik aponta riscos à privacidade, discriminação pelo reconhecimento facial e falhas de segurança digital",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-05T11:54:43+00:00",
+      "coletado_em": "2026-11-05T17:24:52.816711+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_raquel--1024x1024.jpg",
+      "score": 4.805,
+      "cobertura": []
+    },
+    {
+      "id": "3a8f59837f38",
+      "titulo": "FGC sofre invasão e notifica investidores sobre dados vazados",
+      "url": "https://tecnoblog.net/noticias/fgc-sofre-invasao-e-notifica-investidores-sobre-dados-vazados/",
+      "resumo": "Fundo Garantidor de Créditos sofreu um vazamento que expôs nomes, CPFs e dados de pagamento de garantias. FGC sofre invasão e notifica investidores sobre dados vazados",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-05T15:24:14+00:00",
+      "coletado_em": "2026-11-05T17:24:52.820009+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-3.png",
+      "score": 4.531,
+      "cobertura": []
+    },
+    {
+      "id": "49bf8b366c47",
+      "titulo": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "resumo": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-05T04:36:17+00:00",
+      "coletado_em": "2026-11-05T17:24:52.815720+00:00",
+      "imagem_feed": null,
+      "score": 3.504,
+      "cobertura": []
+    },
+    {
+      "id": "1e677eb4a8c4",
+      "titulo": "AMD deve atrasar nova arquitetura RDNA 5+ para notebooks; veja nova previsão",
+      "url": "https://canaltech.com.br/hardware/amd-deve-atrasar-nova-arquitetura-rdna-5-para-notebooks-veja-nova-previsao/",
+      "resumo": "As atuais placas de vídeo da AMD, as Radeon RX 9000, são baseadas em RDNA 4 e não sabemos quando a nova geração deve chegar. Mas, para o leaker KeplerL2, a arquitetura gráfica RDNA 5+, que deve fazer parte de APUs baseadas em Zen 7, deve chegar somente em 2029 . Em uma discussão no fórum NeoGAF, o leaker corrigiu a expectativa de usuários que esperavam a novidade para 2028, cravando que a versão \"Plus\" da arquitetura fará sua estreia de forma integrada na família mobile conhecida pelo codinome \"Grimlock\" , que será baseada em núcleos Zen 7, duas gerações à frente da que estamos agora. Essa informação se alinha com rumores anteriores postados pelo próprio KeplerL2, indicando que a AMD estaria dividindo seu roadmap de APUs em duas frentes bem distintas. De um lado, os modelos voltados para o mercado de entrada e intermediário, além de notebooks que dependem de GPUs dedicadas, devem continuar reaproveitando arquiteturas mais antigas (como a RDNA 3.5) por um bom tempo. Do outro, apenas os chips de altíssimo desempenho, como a linha Medusa Halo , receberiam a RDNA 5 padrão um pouco antes no segmento premium. O que esperar da revisão RDNA 5+? Embora o vazamento não detalhe as mudanças té",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-04T21:06:00+00:00",
+      "coletado_em": "2026-11-05T17:24:52.822611+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/innwvPjvjjdOHuAlofLTgxResHM=/0x0/filters:format(webp):quality(85)/e8d07af0-2570-4a54-a0ad-c341206640a5.png",
+      "score": 3.219,
+      "cobertura": []
+    }
+  ]
+}
