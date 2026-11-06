@@ -1,0 +1,741 @@
+{
+  "medicina": [
+    {
+      "id": "15026c3086ec",
+      "titulo": "Crigler-Najjar syndrome: Gene therapy maintains its efficacy four years after treatment",
+      "url": "https://medicalxpress.com/news/2026-11-crigler-najjar-syndrome-gene-therapy.html",
+      "resumo": "The New England Journal of Medicine has published a study on the long-term efficacy of AAV8-mediated gene therapy (GNT0003) in patients with Crigler-Najjar syndrome, an extremely rare congenital liver disorder affecting approximately 500 people in Europe. It is caused by a deficiency of UGT1A1, an enzyme required for bilirubin metabolism. The accumulation of this substance can lead to irreversible neurological damage and, in the most severe cases, death.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-06T16:20:06+00:00",
+      "coletado_em": "2026-11-06T16:46:56.320766+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/liver.jpg",
+      "score": 5.999,
+      "cobertura": []
+    },
+    {
+      "id": "e8a48e1e7456",
+      "titulo": "Drug discovery by scientists joins world's largest trial of Parkinson's treatments",
+      "url": "https://medicalxpress.com/news/2026-11-drug-discovery-scientists-world-largest.html",
+      "resumo": "A liver drug could be used to slow down the progression of Parkinson's disease as it joins the world's largest trial of treatments for the condition.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-06T16:00:08+00:00",
+      "coletado_em": "2026-11-06T16:46:56.320766+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/clinical-trial.jpg",
+      "score": 5.962,
+      "cobertura": []
+    },
+    {
+      "id": "fa4e03e8fd33",
+      "titulo": "Genetic variant may increase the risk of pneumonia",
+      "url": "https://medicalxpress.com/news/2026-11-genetic-variant-pneumonia.html",
+      "resumo": "Pneumonia is a common and sometimes serious infection that affects 20,000–30,000 people in Sweden every year. Well-known risk factors include advanced age, smoking and underlying medical conditions. In a new study published in eBioMedicine, researchers at Lund University and Skåne University Hospital have shown that genetic differences in the innate immune system can also influence the risk of developing the disease.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-06T15:40:01+00:00",
+      "coletado_em": "2026-11-06T16:46:56.320766+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-variant-may-in.jpg",
+      "score": 5.925,
+      "cobertura": []
+    },
+    {
+      "id": "9b4543cb93e7",
+      "titulo": "STAT+: New tumor cases show common gene therapy tool can come with risk",
+      "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
+      "resumo": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-06T16:14:40+00:00",
+      "coletado_em": "2026-11-06T16:46:56.321409+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/F0367611-Adeno-associated_virus_illustration-1024x576.jpg",
+      "score": 5.789,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "be2152b4e150",
+      "titulo": "Technique that spots tRNAs in action could accelerate drug development for inherited diseases",
+      "url": "https://phys.org/news/2026-11-technique-trnas-action-drug-inherited.html",
+      "resumo": "Human cells turn genetic instructions into proteins with great precision. Critical for the translation of this information are transfer RNAs, or tRNAs, small molecules that read the genetic code three letters at a time and bring the matching building blocks of proteins, the amino acids, to the cell's protein-making machinery, the ribosome.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-06T16:40:07+00:00",
+      "coletado_em": "2026-11-06T16:46:56.322208+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-could-accel-1.jpg",
+      "score": 6.037,
+      "cobertura": []
+    },
+    {
+      "id": "4f23755d9e81",
+      "titulo": "This may be the best evidence yet that dinosaur blood can fossilize",
+      "url": "https://www.sciencenews.org/article/evidence-dinosaur-blood-fossilize",
+      "resumo": "Imaging and chemical analysis of a 115-million-year-old dinosaur fossil points to blood cells. But some aren't convinced.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-06T16:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.369015+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_CG_oldestfossil_mainsocial.jpg?w=800",
+      "score": 5.412,
+      "cobertura": []
+    },
+    {
+      "id": "04be413e9094",
+      "titulo": "Processo digestivo do peixe-boi revela novas possibilidades para a biotecnologia",
+      "url": "https://jornal.usp.br/ciencias/processo-digestivo-do-peixe-boi-revela-novas-possibilidades-para-a-biotecnologia/",
+      "resumo": "Estudo publicado na Nature Microbiology identificou milhares de espécies microbianas e enzimas inéditas com potencial para aplicações em saúde, agricultura e biocombustíveis",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-11-06T11:02:02+00:00",
+      "coletado_em": "2026-11-06T16:46:56.339172+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261105_peixeboi-1024x538.jpg",
+      "score": 5.285,
+      "cobertura": []
+    },
+    {
+      "id": "f2178e6065b8",
+      "titulo": "Parkinson’s may be driven by ‘vicious cycle’ that disrupts brain waste drainage",
+      "url": "https://www.newscientist.com/article/2597911-parkinsons-may-be-driven-by-vicious-cycle-that-disrupts-brain-waste-drainage/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Parkinson's disease is linked to toxic protein clumps and disrupted brain waste removal, which may feed off each other, causing the condition to progress",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-11-06T15:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.367948+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319524460.jpg",
+      "score": 5.154,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "7afb5baa5458",
+      "titulo": "How did Agility Robotics perform on its first day on the stock market?",
+      "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
+      "resumo": "Humanoid developer Agility Robotics ended its first day of trading on the Nasdaq just 2% above where it started, at $11.49. The post How did Agility Robotics perform on its first day on the stock market? appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-05T22:48:14+00:00",
+      "coletado_em": "2026-11-06T16:46:56.323655+00:00",
+      "imagem_feed": null,
+      "score": 5.608,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+      ]
+    },
+    {
+      "id": "b66453d13d67",
+      "titulo": "How octopuses squeeze through tiny openings, step by step",
+      "url": "https://www.sciencenews.org/article/octopuses-squeeze-escape-steps-video",
+      "resumo": "In the lab, octopuses used specific moves to slip arms and a bulbous body through tiny holes. The finding could inspire new body plans for soft robots.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-05T21:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.369015+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110526_nb_octopus-squeeze_main.jpg?w=800",
+      "score": 5.138,
+      "cobertura": [
+        "https://phys.org/news/2026-11-octopuses-small-gaps.html"
+      ]
+    },
+    {
+      "id": "815298b1fb14",
+      "titulo": "A robot called GIMLI will explore a lunar cave for a future moon base",
+      "url": "https://www.newscientist.com/article/2597780-a-robot-called-gimli-will-explore-a-lunar-cave-for-a-future-moon-base/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The race to build a moon base is ramping up. Columnist Robin George Andrews explores how NASA is preparing by sending a cave-hunting robot ahead of humans",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-06T09:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.367948+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319405592.jpg",
+      "score": 4.626,
+      "cobertura": []
+    },
+    {
+      "id": "b66f2045205c",
+      "titulo": "Chimney or squirrel? Clearing up a robot's fuzzy memory by comparing images from different angles",
+      "url": "https://techxplore.com/news/2026-11-chimney-squirrel-robot-fuzzy-memory.html",
+      "resumo": "In an emergency, a human might someday ask a robotic assistant to fetch a wall-mounted defibrillator located down the hall. But if the robot has incorrectly labeled the defibrillator as a fire extinguisher in its stored memory, it may not know where to find the lifesaving device.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-05T14:00:06+00:00",
+      "coletado_em": "2026-11-06T16:46:56.323799+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/clearing-up-a-robots-f.jpg",
+      "score": 4.476,
+      "cobertura": [
+        "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105"
+      ]
+    }
+  ],
+  "software": [
+    {
+      "id": "0f11469d758f",
+      "titulo": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
+      "url": "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Yelp combines native mobile controls with server-driven conversation rendering in its AI Assistant using the CHAOS framework. The architecture separates view configuration from conversation data, supports backend-driven chat interactions, and enables faster UI updates without new app releases. Yelp also discusses cross-platform challenges and reuse for its Biz Ask Anything pilot. By Leela Kumili",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-06T14:25:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.324042+00:00",
+      "imagem_feed": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+      "score": 5.945,
+      "cobertura": []
+    },
+    {
+      "id": "8cc794688d65",
+      "titulo": "Google lança backup automático de fotos do Android no PC; veja como usar",
+      "url": "https://canaltech.com.br/apps/google-lanca-backup-automatico-do-android-no-pc-veja-como-usar/",
+      "resumo": "O Android agora permite fazer backup automático de fotos do aparelho no PC . O processo ocorre pela ferramenta Quick Share e dispensa a sincronização em plataformas de nuvem, como o próprio Google Fotos. A novidade surgiu na atualização do Google Play Services de novembro deste ano. Quando ativo, o envio ocorre de forma automática a um computador vinculado à mesma conta do Google e com o Quick Share habilitado. Qual é a vantagem em relação ao backup do Google Fotos? A principal vantagem é ter uma cópia de fotos e vídeos armazenada localmente no PC. O método não depende de um plano de armazenamento em nuvem ou de gastos adicionais para ampliar o espaço disponível. Vale lembrar que o Google oferece 15 GB de armazenamento gratuito por conta e o limite é compartilhado entre Fotos, Drive e Gmail. Salvar os arquivos no computador permite um teto maior e sem mexer no bolso para comprar novas assinaturas. Por outro lado, o backup local tem algumas limitações. Os arquivos originais podem ser perdidos ao formatar o PC , por exemplo, e talvez seja necessário usar um aplicativo adicional para ter reconhecimento de fotos ou busca por locais, dois recursos que já existem no Google Fotos. Como at",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-06T14:03:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.346272+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/SR0voYqq_kz-t9aOu7b1lklVriE=/0x0/filters:format(webp):quality(85)/6ca0e530-463c-40a2-b414-f78194faf6ba.png",
+      "score": 5.308,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/android-permitira-backup-automatico-de-fotos-e-videos-no-windows/"
+      ]
+    },
+    {
+      "id": "c70d6d352539",
+      "titulo": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1105881/",
+      "resumo": "Security updates have been issued by AlmaLinux (cockpit-files, container-tools:rhel8, delve, gcc-toolset-12-binutils, gimp:2.8, glibc, go-toolset:rhel8, kernel, libfastjson, mariadb:10.3, mod_auth_openidc:2.3, mysql:8.0, php:8.0, pki-core:10.6 and pki-deps:10.6, squid:4, tang, tesseract, thunderbird, and virt:rhel and virt-devel:rhel), Debian (chromium, ntfs-3g, puppet-agent, and trapperkeeper-authorization-clojure), Fedora (freerdp, goose, gpsd, hatch, perl-HTTP-Headers-ActionPack, perl-MIME-tools, perl-Plack, perl-Starman, proftpd, python-mistune, ruby-build, rust-crypto-bigint, rust-ctutils, rust-elliptic-curve, rust-num-bigint, rust-num-bigint0.4, rust-num-modular, rust-num-modular0.6, rust-num-prime, rust-zmij, rust-zstd, rust-zstd-safe, rust-zstd-safe7, rust-zstd-sys, rust-zstd0.13, scribus, sofia-sip, tailscale, tor, and wordpress), Oracle (cockpit-files, delve, firefox, gimp:2.8, kernel, and osbuild-composer), Red Hat (delve, git-lfs, go-toolset:rhel8, grafana, ignition, opentelemetry-collector, osbuild-composer, python-pillow, and yggdrasil), Slackware (openssh), SUSE (bind, brotli, cpupower, expat, fuse-overlayfs, go1.26, google-guest-agent, helm, ibus-typing-booster, ker",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-06T14:04:54+00:00",
+      "coletado_em": "2026-11-06T16:46:56.324728+00:00",
+      "imagem_feed": null,
+      "score": 5.261,
+      "cobertura": []
+    },
+    {
+      "id": "13fdeb168f54",
+      "titulo": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
+      "url": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "GitLab 19.5, released on October 15, puts agentic software development and governance at the centre of the platform, making its GitLab MCP server generally available while expanding how external AI agents can interact with GitLab. By Craig Risi",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-06T12:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.324042+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/en/headerimage/generatedHeaderImage-1793095997884.jpg",
+      "score": 5.217,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "dd9ac9e30405",
+      "titulo": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
+      "resumo": "Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence tracking program, giving the chipmaker greater visibility into where its AI GPUs are deployed. The move comes as Washington increases pressure over suspected chip smuggling into China, with investigations involving Megaspeed International and Super Micro highlighting the challenges of enforcing U.S. export restrictions",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-06T13:49:33+00:00",
+      "coletado_em": "2026-11-06T16:46:56.325109+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/bBGEYE8htq38xZgt4xCdTQ-1920-80.jpg",
+      "score": 5.886,
+      "cobertura": []
+    },
+    {
+      "id": "d148be8030c1",
+      "titulo": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
+      "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+      "resumo": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-06T13:35:16+00:00",
+      "coletado_em": "2026-11-06T16:46:56.325109+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/WJysu4KWtLyywCbvdHhuLF-1920-80.jpg",
+      "score": 5.863,
+      "cobertura": []
+    },
+    {
+      "id": "f5f395f15ed1",
+      "titulo": "NVIDIA App testa recurso secreto para dar prioridade da GPU a jogos",
+      "url": "https://canaltech.com.br/hardware/nvidia-app-testa-recurso-secreto-para-dar-prioridade-da-gpu-a-jogos/",
+      "resumo": "A NVIDIA liberou silenciosamente uma nova funcionalidade no NVIDIA App que promete dar mais controle aos usuários sobre como os recursos da placa de vídeo são distribuídos pelo sistema operacional . O recurso de priorização de GPU é uma ferramenta feita para evitar engasgos e quedas de desempenho em jogos quando há outros aplicativos pesados rodando em segundo plano. O recurso já está disponível na versão mais recente do aplicativo, a 11.0.9.585 , que traz ainda o override do DLSS para vários jogos, incluindo 007 First Light, The Witcher 3: Wild Hunt, CONTROL Resonant, Gears of War: E-Day, além de otimizações específicas para outros títulos. Como funciona o gerenciamento dinâmico de recursos A proposta da novidade é simples, mas resolve um problema crônico de quem costuma fazer multitarefa no PC. Ao ativar a priorização, o sistema reserva a maior parte da capacidade de processamento gráfico e da memória VRAM para o jogo ou aplicativo que estiver em foco na tela principal , limitando a alocação de recursos de softwares secundários, como navegadores de internet com dezenas de abas abertas, players de mídia ou aplicativos de transmissão ao vivo. Na prática, isso impede que uma renderi",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-06T15:13:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.346272+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/0Km14vOG5JPYy9ERBjCNU9JvAnA=/0x0/filters:format(webp):quality(85)/131be93d-c56b-4be0-a5b0-36b683583a77.png",
+      "score": 5.427,
+      "cobertura": []
+    },
+    {
+      "id": "44f526082f74",
+      "titulo": "Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets",
+      "url": "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets",
+      "resumo": "New Intel CPUs mean a new LGA 1954 socket and new motherboards. Here’s what we know about Nova Point’s Z990, Z970, and B960 chipsets, including more PCIe 5.0, Thunderbolt 5, faster base RAM speeds, and active cooling",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-06T12:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.325109+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/3JguTaB6k8VyZTixTzb5tE-1920-80.jpg",
+      "score": 5.217,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "ffaae19f99e2",
+      "titulo": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+      "resumo": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-06T07:12:55+00:00",
+      "coletado_em": "2026-11-06T16:46:56.326390+00:00",
+      "imagem_feed": null,
+      "score": 6.051,
+      "cobertura": [
+        "https://www.newscientist.com/article/2597221-hubble-space-telescope-is-falling-to-earth-should-nasa-save-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ]
+    },
+    {
+      "id": "9ee29b170407",
+      "titulo": "M30’s Sparkling Stars",
+      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "resumo": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-06T16:23:41+00:00",
+      "coletado_em": "2026-11-06T16:46:56.325824+00:00",
+      "imagem_feed": null,
+      "score": 5.956,
+      "cobertura": []
+    },
+    {
+      "id": "0a8f19882944",
+      "titulo": "Hubble Space Telescope is falling to Earth – should NASA save it?",
+      "url": "https://www.newscientist.com/article/2597221-hubble-space-telescope-is-falling-to-earth-should-nasa-save-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The Hubble Space Telescope faces a fiery and fatal re-entry to Earth's atmosphere sometime around 2032, but NASA is asking the private sector for ideas to keep it working",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-06T12:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.367948+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319526014.jpg",
+      "score": 5.867,
+      "cobertura": [
+        "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
+      ]
+    },
+    {
+      "id": "b425514e986e",
+      "titulo": "Space trail resembling “scattered popcorn” challenges theory about stars",
+      "url": "https://jornal.usp.br/uspnews/space-trail-resembling-scattered-popcorn-challenges-theory-about-stars/",
+      "resumo": "Researchers discover a nebula associated with a type B subdwarf star, even though, according to astrophysical theories until now, it should not be there",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-06T11:43:19+00:00",
+      "coletado_em": "2026-11-06T16:46:56.339172+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2024/08/20240827_Boletim-Dia-e-Noite-com-as-Estrelas.jpg",
+      "score": 5.343,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "4a0ec6345a28",
+      "titulo": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+      "url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+      "resumo": "Insider Brief Quantum computers could deliver substantial speedups on 24 computational problems, but a new study also reveals the challenging conditions that would make those gains useful. Researchers affiliated with the Open Quantum Institute, hosted at CERN, Google Quantum AI, Microsoft, Oratomic, NVIDIA, JPMorganChase, MIT, Harvard University and other institutions have assembled a guide to […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-06T15:23:58+00:00",
+      "coletado_em": "2026-11-06T16:46:56.327060+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Quantum-Processor-Mapping-Computational-Frontiers-1.png",
+      "score": 5.546,
+      "cobertura": []
+    },
+    {
+      "id": "e6443b672998",
+      "titulo": "Guest Post — Commercial Diplomacy: Building The Quantum Ecosystem",
+      "url": "https://thequantuminsider.com/2026/11/06/guest-post-commercial-diplomacy-building-the-quantum-ecosystem/",
+      "resumo": "Guest Post by by Charlene B. Flick, Esq. “Demonstrating that logical qubits can maintain coherence, we are paving the way toward fault-tolerant systems that can eventually scale to millions of qubits!” The CEO paused, seemingly absorbing this revelation. “Congratulations, Professor. Forgive me, but what does it do?” This is the question every startup in […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-06T08:10:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.327060+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/fyocihbhlq8.jpg",
+      "score": 5.416,
+      "cobertura": []
+    },
+    {
+      "id": "3467df7d1d0e",
+      "titulo": "UK Announces New Funding to Support Quantum Technology Commercialisation",
+      "url": "https://thequantuminsider.com/2026/11/06/uk-announces-new-funding-to-support-quantum-technology-commercialisation/",
+      "resumo": "Insider Brief PRESS RELEASE — New steps to help accelerate the adoption, commercialisation, and talent pipeline for UK Quantum will kickstart a major event demonstrating Britain’s global leadership in the technology being held in London today (Friday 6th November). Run by Innovate UK, part of UKRI, the UK’s National Quantum Technologies Showcase is set to […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-06T11:30:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.327060+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-06_15-08.png",
+      "score": 4.674,
+      "cobertura": []
+    },
+    {
+      "id": "c7dd90ca3e37",
+      "titulo": "Toshiba Secures UK Contract to Develop Quantum Networking Technologies",
+      "url": "https://thequantuminsider.com/2026/11/06/toshiba-uk-contract-quantum-networking-technologies/",
+      "resumo": "Insider Brief PRESS RELEASE — Toshiba Europe has been awarded a contract by Innovate UK, part of UK Research and Innovation (UKRI), to develop technologies that can help unlock the commercial potential of quantum networks. The project will develop technology for long-distance quantum links and networks serving multiple users and validate it under realistic operating […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-06T09:50:17+00:00",
+      "coletado_em": "2026-11-06T16:46:56.327060+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-06_14-49.png",
+      "score": 4.539,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "21d3d8e03a91",
+      "titulo": "Valve escaped Windows. Now Steam is breaking free from the PC itself",
+      "url": "https://www.pcworld.com/article/3266419/valve-escaped-windows-now-steam-is-breaking-free-from-the-pc-itself.html",
+      "resumo": "Valve spent the last decade making Windows optional for PC gaming . Now it wants to do the same thing to x86 — the Intel- and AMD-based CPU architecture at the heart of every gaming PC. If it succeeds, the resulting shake-up could change what “PC game” even means. The Steam Deck proved Valve’s Proton compatibility layer could run an enormous library of Windows games on Linux without developers needing to port them to Linux first. That breakthrough helped make the Steam Deck a success. It also made Linux gaming legitimately viable, and laid the groundwork for SteamOS to spread to other PCs. But the Steam Frame reveals that Valve’s ambitions go much deeper. The standalone VR headset runs SteamOS on a Qualcomm Snapdragon 8 Gen 3 processor based on the Arm architecture, rather than the x86 processors from AMD and Intel that have powered PC gaming for decades. And Valve expects your existing x86 Windows games to run on it anyway. That’s why the Arm chip inside Steam Frame matters so much more than VR. Valve is starting to dismantle the fundamental assumptions about which hardware and software a gaming PC needs to run your games. The writing is on the wall. We’re looking at the endgame f",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-06T14:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.328851+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3266419-0-59719400-1793973662-image_3acedd.png",
+      "score": 5.903,
+      "cobertura": []
+    },
+    {
+      "id": "8cc794688d65",
+      "titulo": "Google lança backup automático de fotos do Android no PC; veja como usar",
+      "url": "https://canaltech.com.br/apps/google-lanca-backup-automatico-do-android-no-pc-veja-como-usar/",
+      "resumo": "O Android agora permite fazer backup automático de fotos do aparelho no PC . O processo ocorre pela ferramenta Quick Share e dispensa a sincronização em plataformas de nuvem, como o próprio Google Fotos. A novidade surgiu na atualização do Google Play Services de novembro deste ano. Quando ativo, o envio ocorre de forma automática a um computador vinculado à mesma conta do Google e com o Quick Share habilitado. Qual é a vantagem em relação ao backup do Google Fotos? A principal vantagem é ter uma cópia de fotos e vídeos armazenada localmente no PC. O método não depende de um plano de armazenamento em nuvem ou de gastos adicionais para ampliar o espaço disponível. Vale lembrar que o Google oferece 15 GB de armazenamento gratuito por conta e o limite é compartilhado entre Fotos, Drive e Gmail. Salvar os arquivos no computador permite um teto maior e sem mexer no bolso para comprar novas assinaturas. Por outro lado, o backup local tem algumas limitações. Os arquivos originais podem ser perdidos ao formatar o PC , por exemplo, e talvez seja necessário usar um aplicativo adicional para ter reconhecimento de fotos ou busca por locais, dois recursos que já existem no Google Fotos. Como at",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-06T14:03:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.346272+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/SR0voYqq_kz-t9aOu7b1lklVriE=/0x0/filters:format(webp):quality(85)/6ca0e530-463c-40a2-b414-f78194faf6ba.png",
+      "score": 5.808,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/android-permitira-backup-automatico-de-fotos-e-videos-no-windows/"
+      ]
+    },
+    {
+      "id": "4d9bbaa64b5c",
+      "titulo": "Zelda: Ocarina of Time remake launches to day-one PC emulation and strong reviews",
+      "url": "https://www.techspot.com/news/114468-zelda-ocarina-time-remake-launches-day-one-pc.html",
+      "resumo": "The Nintendo Switch 2 remake of arguably the greatest Nintendo 64 game has been dumped and run on a PC emulator within hours of launch. However, users should probably stick with the console version for now. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-06T15:40:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.334426+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-05-ts3_thumbs-8ea.jpg",
+      "score": 5.775,
+      "cobertura": [
+        "https://canaltech.com.br/games/remake-de-zelda-ocarina-of-time-ja-roda-no-pc-via-emulador/"
+      ]
+    },
+    {
+      "id": "e8de4aa80bc8",
+      "titulo": "Contra o CapCut, Instagram lança Edits para PC com suporte a 4K e sem marca d'água",
+      "url": "https://canaltech.com.br/software/contra-o-capcut-instagram-lanca-edits-para-pc-com-suporte-a-4k-e-sem-marca-dagua/",
+      "resumo": "O Instagram lançou uma versão do Edits para deskto p nesta quinta-feira (05). O editor de vídeos está disponível para macOS e permite fazer ajustes mais precisos em telas maiores. A base do Edits no celular também existe nos computadores: é possível exportar vídeos em resolução 4K sem marca d’água , adicionar legendas automáticas, acessar uma biblioteca de músicas com reprodução autorizada e sincronizar os textos salvos no Instagram. A interface segue o padrão de outros editores para desktop com uma organização por camadas. A nova versão foi criada para facilitar edições mais avançadas , que exigem um espaço maior de tela e controles ainda mais precisos com o mouse e o teclado. “Muitos criadores descreviam o mesmo problema para nós: o projeto fica muito grande para o celular. Seu trabalho cresce e suas ferramentas devem crescer junto”, afirmou o chefe do Edits, Brett Westervelt, em comunicado. O aplicativo está disponível inicialmente apenas para macOS em computadores com chip Apple M1 ou posterior. Disputa aberta com o CapCut O Edits surgiu nos celulares como uma alternativa concorrer o CapCut , feito pela ByteDance (controladora do TikTok) e um dos editores mais populares do merc",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-06T11:57:44+00:00",
+      "coletado_em": "2026-11-06T16:46:56.346272+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/_f0R75auwTox2-YVKkqyxDC-SZc=/0x0/filters:format(webp):quality(85)/661c659c-8131-41ed-8c4d-f7d8e38bc3b1.png",
+      "score": 5.614,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "f497d89c236c",
+      "titulo": "Inteligência artificial amplia desafios da segurança cibernética",
+      "url": "https://jornal.usp.br/radio-usp/inteligencia-artificial-amplia-desafios-da-seguranca-cibernetica/",
+      "resumo": "Automação facilita a identificação de vulnerabilidades por criminosos e exige estratégias mais robustas de proteção das organizações",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-06T11:54:33+00:00",
+      "coletado_em": "2026-11-06T16:46:56.339172+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2016/09/colunista_radioUSP-marceloFinger-3-1024x1024.jpg",
+      "score": 4.859,
+      "cobertura": []
+    },
+    {
+      "id": "d275be2a1267",
+      "titulo": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "resumo": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-06T15:54:47+00:00",
+      "coletado_em": "2026-11-06T16:46:56.336723+00:00",
+      "imagem_feed": null,
+      "score": 4.652,
+      "cobertura": []
+    },
+    {
+      "id": "513dfed9debc",
+      "titulo": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
+      "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+      "resumo": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional editing of the text or when it’s under 150 words. With no clear legal benchmark for how well watermarks should work, it’s uncertain whether textGrain will meet Europe’s transparency rules, which could cost the company significantly and make it difficult to detect AI-generated text as models grow more sophisticated. AI models calculate the probabilities of different possible next “tokens” (the next word or word fragment it generates) based on the text already written, then select one and repeat that process until the response is complete. After the prompt “today the weather is…,” for example, says Xiang Li , coauthor of the textGrain technical report and a postdoctoral researcher at the University of Pennsylvania, the model might weigh “warm” or “cool” as possible next words. A watermark uses a secret key to generate pseudorandom values—numbers produced by a mathematical process that influence which token th",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-05T15:00:03+00:00",
+      "coletado_em": "2026-11-06T16:46:56.336032+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-the-european-union-flag-with-its-stars-replaced-by-logos-for-open-ai.jpg?id=68564327&width=980",
+      "score": 4.601,
+      "cobertura": []
+    },
+    {
+      "id": "4c72a01bca4d",
+      "titulo": "Microsoft quer patentear IA que altera falas ao vivo",
+      "url": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
+      "resumo": "Sistema poderia traduzir discursos e substituir palavras com poucos segundos de atraso e sincronia labial. Microsoft quer patentear IA que altera falas ao vivo",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-06T15:10:46+00:00",
+      "coletado_em": "2026-11-06T16:46:56.343160+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-3.jpg",
+      "score": 4.573,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "fed8c7187796",
+      "titulo": "New instrument at Brazil's Sirius accelerator enables researchers to observe solar cells in operation",
+      "url": "https://techxplore.com/news/2026-11-instrument-brazil-sirius-enables-solar.html",
+      "resumo": "Scientists at the Brazilian Center for Research in Energy and Materials (CNPEM) in Campinas, São Paulo state, developed an instrument for the Sirius particle accelerator that can observe the interior of solar cells on a nanoscale while they are operating. Rather than analyzing isolated components in a laboratory setting, this new platform enables the evaluation of complete devices generating electricity under real operating conditions. It simulates daily exposure to light, heat and humidity.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-05T21:00:01+00:00",
+      "coletado_em": "2026-11-06T16:46:56.337528+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-instrument-at-braz.jpg",
+      "score": 4.688,
+      "cobertura": []
+    },
+    {
+      "id": "1a35b32f7cf6",
+      "titulo": "Scientists give hard-to-recycle wind turbine blades a second life",
+      "url": "https://techxplore.com/news/2026-11-scientists-hard-recycle-turbine-blades.html",
+      "resumo": "From intense UV radiation and extreme temperatures to wind gusts and lightning strikes, wind turbine blades are engineered to withstand some of the harshest conditions. But that durability becomes a problem at the end of their lives, because the blades are also difficult to break down and recycle.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-06T16:00:13+00:00",
+      "coletado_em": "2026-11-06T16:46:56.337528+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-give-hard-t.jpg",
+      "score": 4.462,
+      "cobertura": []
+    },
+    {
+      "id": "4d2f73c08bd1",
+      "titulo": "Inspired by honeycombs, a low-cost cooling structure lasts over 100 million cycles",
+      "url": "https://techxplore.com/news/2026-11-honeycombs-cooling-million.html",
+      "resumo": "As global demand for cooling continues to grow, the urgent need for sustainable refrigeration technologies is becoming increasingly evident. Conventional vapor-compression systems remain energy-intensive, while the refrigerants can contribute to the greenhouse effect. The Hong Kong University of Science and Technology (HKUST) research team has manufactured a low-cost, ultradurable elastocaloric refrigerant structure, inspired by the stacked porous architecture of honeycombs, that operated for more than 100 million cooling cycles with an estimated service life of more than 10 years.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-06T15:40:11+00:00",
+      "coletado_em": "2026-11-06T16:46:56.337528+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-lo-2.jpg",
+      "score": 4.426,
+      "cobertura": []
+    },
+    {
+      "id": "8d40fc1c6660",
+      "titulo": "Devices aren't lasting as long as they should. Here's why",
+      "url": "https://techxplore.com/news/2026-11-devices.html",
+      "resumo": "Is your new phone already slowing down or are your expensive earphones acting up?",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-06T15:40:09+00:00",
+      "coletado_em": "2026-11-06T16:46:56.337528+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/e-waste.jpg",
+      "score": 4.425,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "094134bd1ccd",
+      "titulo": "CISA, FBI, HHS, USDA, and DOT Urge Critical Infrastructure To Strengthen Industrial Refrigeration and Cold Chain Monitoring Systems Cybersecurity",
+      "url": "https://www.cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-strengthen-industrial-refrigeration-and-cold",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-05T12:00:00+00:00",
+      "coletado_em": "2026-11-06T16:46:56.337904+00:00",
+      "imagem_feed": null,
+      "score": 3.379,
+      "cobertura": []
+    },
+    {
+      "id": "3a8f59837f38",
+      "titulo": "FGC sofre invasão e notifica investidores sobre dados vazados",
+      "url": "https://tecnoblog.net/noticias/fgc-sofre-invasao-e-notifica-investidores-sobre-dados-vazados/",
+      "resumo": "Fundo Garantidor de Créditos sofreu um vazamento que expôs nomes, CPFs e dados de pagamento de garantias. FGC sofre invasão e notifica investidores sobre dados vazados",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-05T15:24:14+00:00",
+      "coletado_em": "2026-11-06T16:46:56.343160+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-3.png",
+      "score": 3.212,
+      "cobertura": []
+    },
+    {
+      "id": "e68805e9a4af",
+      "titulo": "Redmi prepara celular com câmera de 50 MP e processador de última geração",
+      "url": "https://canaltech.com.br/smartphone/redmi-prepara-celular-com-camera-de-50-mp-e-processador-de-ultima-geracao/",
+      "resumo": "A Redmi está testando um novo celular topo de linha com câmera periscópica de 50 MP e zoom óptico de aproximadamente 3x. O aparelho ainda não teve seu nome revelado, mas deve fazer parte da linha da Xiaomi e chegar ao mercado no primeiro semestre de 2027. Outro destaque é o possível uso do Snapdragon 8 Elite Gen 6 Pro , processador fabricado em 2 nanômetros. As informações foram divulgadas pelo conhecido informante chinês Digital Chat Station, que revelou detalhes sobre os testes do conjunto fotográfico. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Segundo o vazamento, o sensor terá tamanho de 1/1,95 polegada, uma característica que pode favorecer a captura de imagens com mais detalhes. A Xiaomi ainda não confirmou oficialmente a existência do smartphone nem suas especificações. Por enquanto, os dados indicam que a fabricante prepara uma nova geração de aparelhos premium da Redmi, com atenção especial às câmeras e ao desempenho. Câmera periscópica de 50 MP é destaque do novo Redmi O principal detalhe revelado até agora é a câmera com lente periscópica de 50 MP. Esse tipo de estrutura permite aproximar objetos distantes sem depender exclusivamente de recursos digit",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-06T10:43:03+00:00",
+      "coletado_em": "2026-11-06T16:46:56.346272+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/AbON7UYJ9Iua_8HvTHTxvvZD1l8=/0x0/filters:format(webp):quality(85)/4900f054-23a5-492f-91ae-ccd7b5dcbf5d.jpg",
+      "score": 1.009,
+      "cobertura": []
+    }
+  ]
+}
