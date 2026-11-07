@@ -72,8 +72,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-11-06T23:15:02+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -203,8 +203,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-11-06T20:05:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -421,6 +421,22 @@
   "cobertura": []
  },
  {
+  "id": "18b47eae16a5",
+  "titulo": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+  "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+  "resumo": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T14:50:00+00:00",
+  "coletado_em": "2026-11-07T15:40:18.694301+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_450283499_Editorial_Use_Only-1024x576.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "1a35b32f7cf6",
   "titulo": "Scientists give hard-to-recycle wind turbine blades a second life",
   "url": "https://techxplore.com/news/2026-11-scientists-hard-recycle-turbine-blades.html",
@@ -477,10 +493,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "hardware",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-11-06T18:05:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -553,6 +569,23 @@
   "cobertura": []
  },
  {
+  "id": "1ff511746a87",
+  "titulo": "Quanto vale à pena pagar na RTX 5060 Ti na Black Friday 2026?",
+  "url": "https://canaltech.com.br/hardware/geforce-rtx-5060-ti-quanto-vale-a-pena-pagar-black-friday-2026/",
+  "resumo": "A série de placas RTX xx60 da NVIDIA costuma ser a mais popular para quem quer aproveitar bem jogos na resolução Full HD. Porém a variação RTX xx60 Ti eleva o padrão ao entregar desempenho de folga em 1080p, conseguindo até mesmo encarar 1440p com certos ajustes, principalmente na versão de 16 GB. Com a Black Friday chegando, é hora de dar uma olhada em quanto a RTX 5060 Ti já custou, qual foi sua mínima histórica e o que esperar em termos de promoção para o evento. O que a GeForce RTX 5060 Ti entrega de desempenho? A RTX 5060 Ti se posiciona como um degrau acima da RTX 5060 padrão no lineup Blackwell da NVIDIA, sendo voltada para quem busca taxas de FPS ainda mais altas em 1080p ou quer rodar jogos em 1440p sem sacrificar performance. O grande atrativo da linha está na divisão entre as versões de 8 GB e 16 GB de VRAM , permitindo que o usuário escolha o modelo ideal de acordo com a longevidade e o tipo de jogo que pretende encarar. No quesito tecnologias, ambas contam com suporte completo ao DLSS 4.5 com geração de quadros e reconstrução de raios por inteligência artificial , além do ecossistema NVIDIA Reflex para redução de latência e do novo DLSS 5 . Enquanto a versão de 8 GB at",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T15:00:05+00:00",
+  "coletado_em": "2026-11-07T15:40:18.718886+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/FPSfNukmmz34ZSE339-Ow34Ae84=/0x0/filters:format(webp):quality(85)/04df4e31-bbca-44d3-bc6f-f6e45d48ad9e.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "200ab3204752",
   "titulo": "Os 7 jogos mais caros da história: o ranking de orçamentos que GTA 6 deve liderar",
   "url": "https://olhardigital.com.br/2026/11/07/games-e-consoles/os-7-jogos-mais-caros-da-historia-e-quanto-gta-6-pode-custar/",
@@ -608,10 +641,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "astrofisica",
-   "inteligencia_artificial"
+   "hardware",
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-11-06T21:03:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -895,6 +928,22 @@
   "cobertura": []
  },
  {
+  "id": "3387280ae19e",
+  "titulo": "New treatment may cure common hormonal cause of high blood pressure",
+  "url": "https://medicalxpress.com/news/2026-11-treatment-common-hormonal-high-blood.html",
+  "resumo": "A study led by Queen Mary University of London has found that a new treatment could offer a lasting cure for some people with a common hormonal cause of high blood pressure, even after they stop taking medication.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T14:40:06+00:00",
+  "coletado_em": "2026-11-07T15:40:18.693463+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-blood-pressure-2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "33cdda41f989",
   "titulo": "Microsoft Office 2024 Home is just $119.97 through 11/8",
   "url": "https://www.pcworld.com/article/3277070/microsoft-office-2024-home-is-just-119-97-through-11-8.html",
@@ -918,8 +967,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "ciberseguranca"
+   "ciberseguranca",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-11-06T18:51:01+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -983,8 +1032,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "medicina",
-   "inteligencia_artificial"
+   "inteligencia_artificial",
+   "medicina"
   ],
   "publicado": "2026-11-06T16:00:07+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -1288,8 +1337,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-11-07T12:01:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -1773,8 +1822,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-11-07T13:00:00+00:00",
@@ -2491,6 +2540,23 @@
   "cobertura": []
  },
  {
+  "id": "7a1ea973f294",
+  "titulo": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live",
+  "url": "https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners",
+  "resumo": "Elegoo's November sale has begun, and you can score savings of up to 54% on a new printer for the entire month, as long as the stock lasts.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T14:30:00+00:00",
+  "coletado_em": "2026-11-07T15:40:18.698903+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/t6fV9VsZ9pDvT9Pm4nJ8EG-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "7a3513031f56",
   "titulo": "Supercomputing Tech Demo Schedule",
   "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
@@ -2503,6 +2569,22 @@
   "publicado": "2026-11-06T16:03:52+00:00",
   "coletado_em": "2026-11-07T13:55:40.741088+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7f424ba8508f",
+  "titulo": "Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial",
+  "url": "https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html",
+  "resumo": "Like cholesterol, inflammation causally contributes to the risk of cardiovascular disease, but findings from the clinical trial ZEUS indicate that the road to targeting inflammation may be less straightforward than once thought. ZEUS, a global phase 3 clinical trial led by Mass General Brigham researcher Paul Ridker, M.D., tested a drug that targets interleukin-6 (IL-6), a downstream inflammatory molecule. IL-6 inhibitors are commonly used to treat autoimmune disorders. However, while the new drug known as ziltivekimab lowered IL-6 levels, it did not reduce cardiovascular event rates compared to placebo.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T14:40:02+00:00",
+  "coletado_em": "2026-11-07T15:40:18.693463+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-ekg.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2578,8 +2660,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-11-06T20:06:00+00:00",
@@ -2936,6 +3018,22 @@
   ],
   "publicado": null,
   "coletado_em": "2026-11-07T13:55:40.736629+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9aabf39f7414",
+  "titulo": "Good riddance, Cybertruck!",
+  "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+  "resumo": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T14:40:06+00:00",
+  "coletado_em": "2026-11-07T15:40:18.709119+00:00",
   "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
@@ -3301,12 +3399,28 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "astrofisica"
+   "astrofisica",
+   "software"
   ],
   "publicado": "2026-11-06T21:47:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/y0hd-xd-1wqOVUtzVmU3j0M9AkU=/0x0/filters:format(webp):quality(85)/55a6c8c8-c467-4e3b-af67-3cc179db5d2c.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "aecc80a308a7",
+  "titulo": "Meta adia regras sobre coleta de conteúdo jornalístico para treinar IA",
+  "url": "https://olhardigital.com.br/2026/11/07/pro/meta-adia-regras-sobre-coleta-de-conteudo-jornalistico-para-treinar-ia/",
+  "resumo": "Adiamento comunicado pela Meta vem pouco depois de um revés judicial no Brasil; relembre a decisão da Justiça de São Paulo e entenda o caso O post Meta adia regras sobre coleta de conteúdo jornalístico para treinar IA apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T14:16:23+00:00",
+  "coletado_em": "2026-11-07T15:40:18.714799+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -3320,8 +3434,8 @@
   "categorias": [
    "astrofisica",
    "computadores_pessoais",
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-11-06T18:00:05+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -3740,8 +3854,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
-   "astrofisica"
+   "astrofisica",
+   "hardware"
   ],
   "publicado": "2026-11-06T21:36:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -3762,6 +3876,22 @@
   "publicado": "2026-11-06T14:04:54+00:00",
   "coletado_em": "2026-11-07T13:55:40.740315+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c7aec693551c",
+  "titulo": "The NASA Artemis II launch punched two 5,000 km holes in the ionosphere that disrupted GPS signals, study finds",
+  "url": "https://www.techspot.com/news/114480-nasa-artemis-ii-launch-punched-two-5000-km.html",
+  "resumo": "This April's Artemis II mission caused two large holes in Earth's ionosphere, resulting in significant disturbances that could affect GPS positioning accuracy. A new study by Taiwan-based researchers highlighted how modern launch systems can impact the atmosphere, and how future exploration missions are going to affect one of the most... Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T14:48:00+00:00",
+  "coletado_em": "2026-11-07T15:40:18.707896+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-06-ts3_thumbs-8c9.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -4218,6 +4348,23 @@
   "cobertura": []
  },
  {
+  "id": "deec94caf8f9",
+  "titulo": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
+  "url": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
+  "resumo": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can’t make up for weak overall performance, poor efficiency, and high temps.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T14:00:00+00:00",
+  "coletado_em": "2026-11-07T15:40:18.698903+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4uccTHKwWnDD6go5YwpkAk-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "dfb0cd15dded",
   "titulo": "APOD: 2026 November 6 – A Farewell to Swift",
   "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
@@ -4262,6 +4409,38 @@
   "publicado": "2026-11-06T19:00:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.769729+00:00",
   "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319645963.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e23cb596fd16",
+  "titulo": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
+  "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+  "resumo": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The research, titled \"A Big Bang Nucleosynthesis Consistency Test of the CCC+TL Cosmology,\" is published in the journal Universe.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T14:00:02+00:00",
+  "coletado_em": "2026-11-07T15:40:18.700022+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/theory-predicting-an-o-2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e574df8b124c",
+  "titulo": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
+  "resumo": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T15:00:00+00:00",
+  "coletado_em": "2026-11-07T15:40:18.700742+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4TsvmNPsG8o4nXmHcQLzbX-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -4362,6 +4541,23 @@
   "cobertura": []
  },
  {
+  "id": "eb20fdeaf759",
+  "titulo": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+  "resumo": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T14:47:37+00:00",
+  "coletado_em": "2026-11-07T15:40:18.698903+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/fjFkN4c5HUsWwQPK4dVKZR-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "eb77fde37c32",
   "titulo": "EA ouve fãs e relança Road Rash, Ultima e mais 23 clássicos no PC",
   "url": "https://canaltech.com.br/games/ea-ouve-fas-e-relanca-road-rash-ultima-e-mais-23-classicos-no-pc/",
@@ -4369,8 +4565,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-11-06T16:04:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -4461,6 +4657,23 @@
   "cobertura": []
  },
  {
+  "id": "f0c3875dbf03",
+  "titulo": "This week in Tom's Hardware Premium: November 7, 2026",
+  "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
+  "resumo": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you won't want to miss.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T15:00:00+00:00",
+  "coletado_em": "2026-11-07T15:40:18.698903+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/EJymn9UT9oot2ydST6x9yd-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "f1f43879d0b5",
   "titulo": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
   "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere",
@@ -4484,8 +4697,8 @@
   "fonte": "New Scientist",
   "peso_fonte": 0.85,
   "categorias": [
-   "medicina",
-   "biologia"
+   "biologia",
+   "medicina"
   ],
   "publicado": "2026-11-06T15:00:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.769729+00:00",
@@ -4646,9 +4859,9 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
+   "computadores_pessoais",
    "hardware",
-   "computadores_pessoais"
+   "software"
   ],
   "publicado": "2026-11-06T15:13:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -4765,6 +4978,22 @@
   "publicado": "2026-11-06T16:21:23+00:00",
   "coletado_em": "2026-11-07T13:55:40.742747+00:00",
   "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3279020-0-64425800-1793982093-Ugreen-Revodok-5-in-1-USB-C-Hub.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "fb5d046343f9",
+  "titulo": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+  "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+  "resumo": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T14:35:00+00:00",
+  "coletado_em": "2026-11-07T15:40:18.694301+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_387040854-1024x576.jpeg",
   "score": 0.0,
   "cobertura": []
  },

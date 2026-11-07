@@ -1,0 +1,704 @@
+{
+  "medicina": [
+    {
+      "id": "7f424ba8508f",
+      "titulo": "Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial",
+      "url": "https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html",
+      "resumo": "Like cholesterol, inflammation causally contributes to the risk of cardiovascular disease, but findings from the clinical trial ZEUS indicate that the road to targeting inflammation may be less straightforward than once thought. ZEUS, a global phase 3 clinical trial led by Mass General Brigham researcher Paul Ridker, M.D., tested a drug that targets interleukin-6 (IL-6), a downstream inflammatory molecule. IL-6 inhibitors are commonly used to treat autoimmune disorders. However, while the new drug known as ziltivekimab lowered IL-6 levels, it did not reduce cardiovascular event rates compared to placebo.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-07T14:40:02+00:00",
+      "coletado_em": "2026-11-07T15:40:18.693463+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-ekg.jpg",
+      "score": 6.437,
+      "cobertura": []
+    },
+    {
+      "id": "18b47eae16a5",
+      "titulo": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+      "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+      "resumo": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-07T14:50:00+00:00",
+      "coletado_em": "2026-11-07T15:40:18.694301+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_450283499_Editorial_Use_Only-1024x576.jpeg",
+      "score": 6.255,
+      "cobertura": []
+    },
+    {
+      "id": "fb5d046343f9",
+      "titulo": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+      "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+      "resumo": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-07T14:35:00+00:00",
+      "coletado_em": "2026-11-07T15:40:18.694301+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_387040854-1024x576.jpeg",
+      "score": 5.728,
+      "cobertura": []
+    },
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-07T13:55:40.736629+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "f510be305e79",
+      "titulo": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "resumo": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-07T12:15:55+00:00",
+      "coletado_em": "2026-11-07T13:55:40.770581+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
+      "score": 4.993,
+      "cobertura": []
+    },
+    {
+      "id": "be2152b4e150",
+      "titulo": "Technique that spots tRNAs in action could accelerate drug development for inherited diseases",
+      "url": "https://phys.org/news/2026-11-technique-trnas-action-drug-inherited.html",
+      "resumo": "Human cells turn genetic instructions into proteins with great precision. Critical for the translation of this information are transfer RNAs, or tRNAs, small molecules that read the genetic code three letters at a time and bring the matching building blocks of proteins, the amino acids, to the cell's protein-making machinery, the ribosome.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-06T16:40:07+00:00",
+      "coletado_em": "2026-11-07T13:55:40.738380+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-could-accel-1.jpg",
+      "score": 4.58,
+      "cobertura": []
+    },
+    {
+      "id": "27594e23b93c",
+      "titulo": "Why treating soil acidity crop by crop is no longer enough for prairie farmers",
+      "url": "https://phys.org/news/2026-11-soil-acidity-crop-longer-prairie.html",
+      "resumo": "To protect their future harvests, Western Canadian farmers need to manage soil acidity across their entire multiyear rotation rather than crop by crop, long-term research from the University of Alberta suggests.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-07T13:00:01+00:00",
+      "coletado_em": "2026-11-07T13:55:40.738380+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/crop.jpg",
+      "score": 4.264,
+      "cobertura": []
+    },
+    {
+      "id": "b560a747a6aa",
+      "titulo": "AI points researchers toward new disease targets hidden in mitochondria",
+      "url": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html",
+      "resumo": "Artificial intelligence is helping Texas A&M AgriLife Research scientists fast-track answers to a long-standing question in human biology: What do hundreds of mystery proteins in the mitochondria actually do?",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-06T19:20:01+00:00",
+      "coletado_em": "2026-11-07T13:55:40.738380+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-intelligenc-27.jpg",
+      "score": 4.168,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "d3518bca05b9",
+      "titulo": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+      "url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+      "resumo": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN, TEXAS Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CALIF. Enjoy today’s videos! This is such a novel and underrated form factor for a household robot. I absolutely love it. Stringman is all yours for US $795. [ Neufangled Robotics ] As of yesterday, Agility Robotics is publicly trading as AGLT. [ Agility Robotics ] Happy Halloween from Flexiv Robotics! Okay WHAT. [ Flexiv ] Nothing hides from SCUTL. Not even the paranormal. [ Ground Control Robotics ] Thanks, Dan! Happy Halloween from HEBI Robotics! We asked ourselves if you can carve a pumpkin using nothing but a T-Series arm and a drill originally designed to run an auger. The answer is yes, so long as you don’t care too much about accuracy. Basic pathing commands running off a laptop, stability provided by a quick connection to Treadward. Happy Halloween, HEBI fans! [ HEBI ] Something strange has been happening at KIMLAB. Our snacks kept disappe",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-06T17:00:03+00:00",
+      "coletado_em": "2026-11-07T13:55:40.739234+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/cable-robot-tidies-messy-playroom-with-scattered-toys-playhouse-and-musical-keyboard.gif?id=68608914&width=980",
+      "score": 5.19,
+      "cobertura": []
+    },
+    {
+      "id": "caccdd9152cf",
+      "titulo": "Robot integration brings high-precision production to midmarket manufacturers",
+      "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
+      "resumo": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist. The post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-07T13:32:59+00:00",
+      "coletado_em": "2026-11-07T13:55:40.739532+00:00",
+      "imagem_feed": null,
+      "score": 4.669,
+      "cobertura": []
+    },
+    {
+      "id": "1022fc311283",
+      "titulo": "How Point One turned GPS accuracy into a robotics platform",
+      "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
+      "resumo": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments. The post How Point One turned GPS accuracy into a robotics platform appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-06T21:47:35+00:00",
+      "coletado_em": "2026-11-07T13:55:40.739532+00:00",
+      "imagem_feed": null,
+      "score": 4.112,
+      "cobertura": []
+    },
+    {
+      "id": "1e81754f53eb",
+      "titulo": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
+      "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
+      "resumo": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years. The post Boston Dynamics built Stretch Gen 2 for reliable, consistent performance appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-06T21:34:44+00:00",
+      "coletado_em": "2026-11-07T13:55:40.739532+00:00",
+      "imagem_feed": null,
+      "score": 4.103,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "fcfc75e78514",
+      "titulo": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
+      "url": "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "The growing adoption of AI coding assistants has accelerated development and increased the volume of code changes per release, bringing more opportunities for defects and crashes, says Grab. To address these challenges, they implemented a layered defense strategy to prevent, detect, and contain crashes throughout the development and release lifecycle. By Sergio De Simone",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-07T11:00:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.739812+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/grab-ai-generated-code-safety/en/headerimage/momentic-postgres-clickhouse-1794048104353.jpeg",
+      "score": 5.227,
+      "cobertura": []
+    },
+    {
+      "id": "8f0205477cba",
+      "titulo": "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL",
+      "url": "https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Tiger Data has released pg_vectorsearch, an open source PostgreSQL extension for vector similarity search, currently in alpha. Its PRISM index uses data partitioning and compression instead of the graph-based approach used by pgvector’s HNSW index, reducing memory requirements and index build times. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-07T09:49:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.739812+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/postgresql-vector-search/en/headerimage/generatedHeaderImage-1792331528868.jpg",
+      "score": 5.126,
+      "cobertura": []
+    },
+    {
+      "id": "6a91ff56de2a",
+      "titulo": "Asahi Linux 7.3 progress report",
+      "url": "https://lwn.net/Articles/1105936/",
+      "resumo": "The Asahi Linux developers have put out a new report on their progress toward a Linux distribution for Apple devices. Some time ago, we were made aware of multiple attempts to exploit our permissive licensing to hijack our work, with a direct view to replacing the project and aggressively monetising Linux on Apple Silicon. In some extreme cases, in-development feature code was being lifted straight out of our personal forks and published without attribution or lazily rewritten with LLM assistance to obfuscate its origin. The MIT licence explicitly allows this, and has no carveouts to protect against bad faith actors. As such, we made the difficult decision to begin the process of transitioning all of our repositories to the GNU General Public License version 2 or later. Going forward all Asahi Linux code will be licenced under strong copyleft licences only. Those who do not learn from history are doomed to repeat it.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-07T09:49:38+00:00",
+      "coletado_em": "2026-11-07T13:55:40.740315+00:00",
+      "imagem_feed": null,
+      "score": 4.977,
+      "cobertura": []
+    },
+    {
+      "id": "6bf9eae9434b",
+      "titulo": "Amutable Foundations: A Technical Overview",
+      "url": "https://lwn.net/Articles/1105934/",
+      "resumo": "Lennart Poettering, Michael Vogt, and Joaquim Rocha have put together a detailed overview of what the Amutable Operating System (AOS) and associated infrastructure will look like. The image-based OS approach enables us to enforce some very strict but powerful security properties, which elevate the security posture of the system substantially above traditional Linux systems. Specifically, let's highlight seven major essential security properties of AOS here: No Shell + No SSH + No Language Interpreters . By default AOS does not install a UNIX shell, nor makes remote access via SSH available on the nodes. Moreover, we do not install any of the usual language interpreters (Python, Perl, …) by default. For most nodes a shell or interpreted language support is not required and it removes a whole class of attacks. Signed Images Only . On AOS only images that come with Verity data signed by a signing key listed in the Verity keyring may be activated. [...]",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-07T09:32:56+00:00",
+      "coletado_em": "2026-11-07T13:55:40.740315+00:00",
+      "imagem_feed": null,
+      "score": 4.954,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "79241398b499",
+      "titulo": "TSMC denies exploring 3D DRAM at Nvidia's request",
+      "url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+      "resumo": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-07T13:00:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.740646+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/inWCPzXNVFbyYDRmxtthn3-1920-80.jpg",
+      "score": 6.414,
+      "cobertura": []
+    },
+    {
+      "id": "eb20fdeaf759",
+      "titulo": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+      "resumo": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-07T14:47:37+00:00",
+      "coletado_em": "2026-11-07T15:40:18.698903+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/fjFkN4c5HUsWwQPK4dVKZR-1920-80.png",
+      "score": 5.601,
+      "cobertura": []
+    },
+    {
+      "id": "d150fcee4b06",
+      "titulo": "US FAA to eliminate floppy disks from air traffic control by 2028",
+      "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+      "resumo": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-07T11:00:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.740646+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/QmF9S6XUtsUo8pn66PSXMh-1920-80.jpg",
+      "score": 5.227,
+      "cobertura": [
+        "https://www.techspot.com/news/114471-almost-2027-faa-finally-replacing-floppy-disks-used.html"
+      ]
+    },
+    {
+      "id": "317e2e130baf",
+      "titulo": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+      "resumo": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials mention growing concerns over national security",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-07T13:30:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.740646+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/umLVLKxLCxcj2CWHug2Wb8-1920-80.jpg",
+      "score": 4.964,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "e23cb596fd16",
+      "titulo": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
+      "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+      "resumo": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The research, titled \"A Big Bang Nucleosynthesis Consistency Test of the CCC+TL Cosmology,\" is published in the journal Universe.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-07T14:00:02+00:00",
+      "coletado_em": "2026-11-07T15:40:18.700022+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/theory-predicting-an-o-2.jpg",
+      "score": 5.366,
+      "cobertura": []
+    },
+    {
+      "id": "10fb0c4d7d52",
+      "titulo": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+      "resumo": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years away and a star cluster hidden behind cosmic dust. Scientists suspect hundreds of additional satellite galaxies remain undiscovered, and Rubin's powerful telescope could finally bring them into view.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-07T09:12:43+00:00",
+      "coletado_em": "2026-11-07T13:55:40.741431+00:00",
+      "imagem_feed": null,
+      "score": 5.277,
+      "cobertura": []
+    },
+    {
+      "id": "ffaae19f99e2",
+      "titulo": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+      "resumo": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-06T07:12:55+00:00",
+      "coletado_em": "2026-11-07T13:55:40.741431+00:00",
+      "imagem_feed": null,
+      "score": 5.207,
+      "cobertura": [
+        "https://www.newscientist.com/article/2597221-hubble-space-telescope-is-falling-to-earth-should-nasa-save-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ]
+    },
+    {
+      "id": "46bad3520e5e",
+      "titulo": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
+      "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
+      "resumo": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-06T17:00:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.741654+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/wBy8Spn5h2GF3fZmTit74h-1920-80.png",
+      "score": 4.94,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "151eb7c0a574",
+      "titulo": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+      "url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+      "resumo": "Insider Brief A mathematical proof has resolved a conjecture open since 2008 about when quantum computers can achieve enormous advantages over conventional machines, establishing a limit on their ability to outperform classical algorithms on unstructured inputs. The result proves the Aaronson-Ambainis conjecture, which connects a question about mathematical functions to whether dramatic speedups require special […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-06T21:28:02+00:00",
+      "coletado_em": "2026-11-07T13:55:40.741974+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-4.24.26-PM-1.png",
+      "score": 4.399,
+      "cobertura": []
+    },
+    {
+      "id": "4a0ec6345a28",
+      "titulo": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+      "url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+      "resumo": "Insider Brief Quantum computers could deliver substantial speedups on 24 computational problems, but a new study also reveals the challenging conditions that would make those gains useful. Researchers affiliated with the Open Quantum Institute, hosted at CERN, Google Quantum AI, Microsoft, Oratomic, NVIDIA, JPMorganChase, MIT, Harvard University and other institutions have assembled a guide to […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-06T15:23:58+00:00",
+      "coletado_em": "2026-11-07T13:55:40.741974+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Quantum-Processor-Mapping-Computational-Frontiers-1.png",
+      "score": 4.192,
+      "cobertura": []
+    },
+    {
+      "id": "e0f04ee85939",
+      "titulo": "Record-breaking, fast-spinning magnet could help uncover new physics",
+      "url": "https://www.newscientist.com/article/2597816-record-breaking-fast-spinning-magnet-could-help-uncover-new-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "A magnet barely wider than a human hair is one of the fastest spinning objects ever and could be useful for both fundamental physics experiments and in quantum technology",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-06T19:00:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.769729+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319645963.jpg",
+      "score": 3.956,
+      "cobertura": []
+    },
+    {
+      "id": "3c4ea6613db3",
+      "titulo": "University of Cambridge Joins UK Quantum Commercialisation Initiative",
+      "url": "https://thequantuminsider.com/2026/11/06/cambridge-uk-quantum-superconnector-commercialisation/",
+      "resumo": "Insider Brief PRESS RELEASE — A consortium of five of the UK’s top universities, including the University of Cambridge, has announced the launch of the UK Quantum SuperConnector, an initiative designed to bridge the gap between quantum research and commercial success. The initiative will create a UK-wide community of entrepreneurs, investors, industry adopters and policymakers […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-06T18:53:02+00:00",
+      "coletado_em": "2026-11-07T13:55:40.741974+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-06_23-51.png",
+      "score": 3.802,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "d150fcee4b06",
+      "titulo": "US FAA to eliminate floppy disks from air traffic control by 2028",
+      "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+      "resumo": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-07T11:00:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.740646+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/QmF9S6XUtsUo8pn66PSXMh-1920-80.jpg",
+      "score": 5.227,
+      "cobertura": [
+        "https://www.techspot.com/news/114471-almost-2027-faa-finally-replacing-floppy-disks-used.html"
+      ]
+    },
+    {
+      "id": "deec94caf8f9",
+      "titulo": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
+      "url": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
+      "resumo": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can’t make up for weak overall performance, poor efficiency, and high temps.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-07T14:00:00+00:00",
+      "coletado_em": "2026-11-07T15:40:18.698903+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4uccTHKwWnDD6go5YwpkAk-1920-80.jpg",
+      "score": 5.016,
+      "cobertura": []
+    },
+    {
+      "id": "43de0d7d734c",
+      "titulo": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
+      "url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
+      "resumo": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to relay local hardware and software alerts. Postfix on Ubuntu Server LTS will take over, with plans to add STARTTLS, Let's Encrypt certificates, and boot encryption",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-07T12:30:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.740646+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-1920-80.jpg",
+      "score": 4.865,
+      "cobertura": []
+    },
+    {
+      "id": "21d3d8e03a91",
+      "titulo": "Valve escaped Windows. Now Steam is breaking free from the PC itself",
+      "url": "https://www.pcworld.com/article/3266419/valve-escaped-windows-now-steam-is-breaking-free-from-the-pc-itself.html",
+      "resumo": "Valve spent the last decade making Windows optional for PC gaming . Now it wants to do the same thing to x86 — the Intel- and AMD-based CPU architecture at the heart of every gaming PC. If it succeeds, the resulting shake-up could change what “PC game” even means. The Steam Deck proved Valve’s Proton compatibility layer could run an enormous library of Windows games on Linux without developers needing to port them to Linux first. That breakthrough helped make the Steam Deck a success. It also made Linux gaming legitimately viable, and laid the groundwork for SteamOS to spread to other PCs. But the Steam Frame reveals that Valve’s ambitions go much deeper. The standalone VR headset runs SteamOS on a Qualcomm Snapdragon 8 Gen 3 processor based on the Arm architecture, rather than the x86 processors from AMD and Intel that have powered PC gaming for decades. And Valve expects your existing x86 Windows games to run on it anyway. That’s why the Arm chip inside Steam Frame matters so much more than VR. Valve is starting to dismantle the fundamental assumptions about which hardware and software a gaming PC needs to run your games. The writing is on the wall. We’re looking at the endgame f",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-06T14:00:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.742747+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3266419-0-98315300-1793996341-image_3acedd.png",
+      "score": 4.654,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "5236e53c91a4",
+      "titulo": "O que são e como funcionam os dots do ChatGPT?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-como-funciona-chatgpt-dots/",
+      "resumo": "Os dots são agentes de inteligência artificial que trabalham continuamente para executar tarefas e acompanhar projetos. Ao contrário dos chatbots, que apenas respondem a comandos, os agentes podem atuar em segundo plano, aprender preferências e assumir atividades que envolvem várias etapas. A ferramenta faz parte de uma tendência de expansão dos agentes de IA . Com computadores próprios na nuvem, navegadores e acesso a aplicativos conectados, os dots conseguem pesquisar informações, organizar fluxos de trabalho e desenvolver projetos completos. O recurso pode ser usado por usuários comuns e empresas. Sua proposta é delegar atividades recorrentes e trabalhos complexos para agentes, que são capazes de acompanhar as necessidades de cada pessoa ou equipe. A seguir, confira: O que são dots no ChatGPT? Como funcionam os dots no ChatGPT? Tem como definir limites para os dots? Como criar um dot no ChatGPT? O que são dots no ChatGPT? Os dots são agentes de inteligência artificial que permanecem ativos e assumem tarefas de forma contínua . Cada agente conta com um computador próprio na nuvem e um navegador integrado, além de poder alternar entre os modelos avançados GPT-6 Astra e GPT-6.1 Ter",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-07T13:00:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.752569+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qLxzmvx2-FVPLbXX2CHud1ZT3Is=/0x0/filters:format(webp):quality(85)/3716c7e1-c83b-4b13-82ce-17184f670d89.png",
+      "score": 5.814,
+      "cobertura": []
+    },
+    {
+      "id": "2154a8a3f9b9",
+      "titulo": "Novo GPT-6 Cyber encontra falhas de segurança mais rápido que qualquer hacker",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/",
+      "resumo": "A OpenAI anunciou o GPT-6 Cyber , um modelo de inteligência artificial desenvolvido para pesquisas avançadas em cibersegurança. A ferramenta foi treinada para identificar vulnerabilidades, testar formas de exploração e sugerir correções de código. Segundo a empresa, o modelo supera o GPT-5.6 Cyber e consegue encontrar falhas críticas antes que invasores tenham a oportunidade de explorá-las. Durante testes de segurança, o GPT-6 Cyber identificou 81 vulnerabilidades inéditas no navegador Firefox, todas classificadas pela Mozilla como de alta gravidade. O modelo também descobriu que outros 30 problemas já conhecidos eram mais perigosos do que as avaliações iniciais indicavam. A empresa já liberou correções para muitas dessas falhas. No ecossistema Linux, a IA reproduziu 1.724 vulnerabilidades e desenvolveu códigos (exploits) capazes de explorá-las em 948 casos. O resultado supera os 166 exploits obtidos pelo GPT-5.6 Sol no mesmo ambiente de testes. A OpenAI também encaminhou 304 descobertas críticas aos responsáveis pela manutenção do kernel Linux. A empresa ainda testou o modelo em sua própria infraestrutura . Durante exercícios controlados de segurança, agentes com acesso ao GPT-6 C",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "hardware",
+        "inteligencia_artificial",
+        "software"
+      ],
+      "publicado": "2026-11-06T21:03:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.752569+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/ghD2z0XVzSdNKsk1aaAohcKqEJA=/0x0/filters:format(webp):quality(85)/6de05839-f89f-4e11-9241-bf65e6e6c8d6.jpg",
+      "score": 4.782,
+      "cobertura": []
+    },
+    {
+      "id": "5b3f02982728",
+      "titulo": "Como a IA vai criar o carro de F1 do futuro antes mesmo de colocá-lo nas pistas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-a-ia-vai-criar-o-carro-de-f1-do-futuro-antes-mesmo-de-coloca-lo-nas-pistas/",
+      "resumo": "Enquanto o Brasil se prepara para receber mais um Grande Prêmio da Fórmula 1 , a próxima geração do automobilismo é desenvolvida com a inteligência artificial (IA) como protagonista e capaz de moldar diferentes cenários do esporte sem sequer colocar os carros nas pistas . O caminho é traçado com uma nova parceria entre a Amazon Web Services (AWS) e a Federação Internacional de Automobilismo (FIA), entidade que comanda a F1 e outras modalidades do automobilismo. A AWS vai fornecer tecnologia de dados, IA e computação para simular novos regulamentos e regras para carros no ambiente digital , o que reduz custos com produção de peças. A empresa também fornece a tecnologia responsável por coletar e interpretar os dados de cada volta durante as corridas da F1 . As informações são usadas para municiar a estratégia das equipes e contar histórias para os fãs que acompanham pela TV. Para entender mais sobre o impacto da IA na principal categoria do automobilismo, o Canaltech conversou com a líder de Gestão de Soluções para Clientes da AWS do Brasil, Fernanda Spinardi. A executiva mostra o panorama da parceria com a FIA e reforça como a Fórmula 1 é um exemplo de sucesso no uso de dados . Proj",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-07T11:30:02+00:00",
+      "coletado_em": "2026-11-07T13:55:40.752569+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/s-exzhiEWhJVpGDO7utftwPQNj0=/0x0/filters:format(webp):quality(85)/adbce4b4-e59d-4b1c-8b7c-d03a28c32165.jpg",
+      "score": 4.672,
+      "cobertura": []
+    },
+    {
+      "id": "aecc80a308a7",
+      "titulo": "Meta adia regras sobre coleta de conteúdo jornalístico para treinar IA",
+      "url": "https://olhardigital.com.br/2026/11/07/pro/meta-adia-regras-sobre-coleta-de-conteudo-jornalistico-para-treinar-ia/",
+      "resumo": "Adiamento comunicado pela Meta vem pouco depois de um revés judicial no Brasil; relembre a decisão da Justiça de São Paulo e entenda o caso O post Meta adia regras sobre coleta de conteúdo jornalístico para treinar IA apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-07T14:16:23+00:00",
+      "coletado_em": "2026-11-07T15:40:18.714799+00:00",
+      "imagem_feed": null,
+      "score": 4.295,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "410ea659b7d9",
+      "titulo": "Review Leapmotor C10 REEV: um SUV para enterrar qualquer preconceito",
+      "url": "https://canaltech.com.br/carros/review-leapmotor-c10-reev-um-suv-para-enterrar-qualquer-preconceito/",
+      "resumo": "Quando o CT Auto dirigiu o Leapmotor C10 REEV pela primeira vez , uma coisa ficou clara: o SUV da marca chinesa tinha uma proposta diferente dos outros eletrificados que estavam chegando ao Brasil. Não era simplesmente mais um híbrido plug-in , nem um elétrico com uma bateria enorme. A ideia era entregar a experiência de um carro elétrico e usar um motor a combustão para resolver justamente o maior receio de quem ainda não migrou para essa tecnologia: a autonomia . Depois de conviver novamente com o modelo, agora por um período bem maior, a proposta ficou ainda mais clara. O C10 REEV tem 215 cv , tração traseira e 32,6 kgf/m entregues pelo motor elétrico. Já o motor 1.5 a gasolina , aspirado e de ciclo Atkinson, não movimenta as rodas . Ele funciona exclusivamente como gerador para alimentar a bateria de 28,4 kWh quando necessário. E é aí que aparece o grande trunfo do SUV. A Leapmotor declara 950 km de autonomia combinada no ciclo WLTP (111 km de autonomia elétrica no PBEV/Inmetro), enquanto a bateria pode ser recarregada de 30% a 80% em 18 minutos em carregador DC . Na prática, isso permite usar o C10 como um elétrico no dia a dia e ainda ter um “plano B” para viagens longas. Ou ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-07T12:01:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.752569+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/tlGwd3PBdD723gnxnqt0NysxlrE=/0x0/filters:format(webp):quality(85)/b1a633cc-37fc-4863-86a4-6bcc77679ccc.jpeg",
+      "score": 4.219,
+      "cobertura": []
+    },
+    {
+      "id": "803daca52527",
+      "titulo": "Nonflammable gel membrane could help batteries run twice as long on a single charge",
+      "url": "https://techxplore.com/news/2026-11-nonflammable-gel-membrane-batteries.html",
+      "resumo": "A new polymer electrolyte to replace lithium ions in batteries is the result of research carried out by a team from the Department of Chemistry, Materials and Chemical Engineering (DCMIC) \"Giulio Natta\" at Politecnico di Milano, which conceived and developed a revolutionary, nonflammable, quasi-solid gel membrane that enables the transport of fluoride ions within batteries at room temperature.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-06T17:25:42+00:00",
+      "coletado_em": "2026-11-07T13:55:40.747840+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/lithium-free-non-flamm.jpg",
+      "score": 3.603,
+      "cobertura": []
+    },
+    {
+      "id": "642c8b50a606",
+      "titulo": "Energy security concerns spur faster renewables growth across a widening constellation of countries",
+      "url": "https://techxplore.com/news/2026-11-energy-spur-faster-renewables-growth.html",
+      "resumo": "Renewables, already expanding at a record pace before the current energy crisis, are set to see strong growth across a wider range of countries around the world in the coming years as governments seek to strengthen energy security and reduce their exposure to imported fuels and volatile prices, according to the IEA's latest report.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-06T23:40:01+00:00",
+      "coletado_em": "2026-11-07T13:55:40.747840+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2020/solar.jpg",
+      "score": 3.343,
+      "cobertura": []
+    },
+    {
+      "id": "1d3ef6af7920",
+      "titulo": "Novos notebooks Dell Pro são fabricados no Brasil e prometem até 22 horas de bateria",
+      "url": "https://canaltech.com.br/notebook/novos-notebooks-dell-pro-sao-fabricados-no-brasil-e-prometem-ate-22-horas-de-bateria/",
+      "resumo": "A Dell anunciou a renovação da linha de notebooks corporativos Pro nesta quinta-feira (5), durante a feira Dell Technologies Fórum 2026, que aconteceu em São Paulo. Entre os destaques, os modelos chegam com NPU integrada, produção nacional, arquitetura modular e o retorno das nomenclaturas numéricas. A linha Dell Pro chega ao Brasil em janeiro de 2027 na faixa de preço de R$ 10 mil , enquanto novidades do segmento Rugged já estão disponíveis a partir de R$ 29.999 . O primeiro modelo da linha é o Dell Pro 3, que promete atender até 90% da demanda do mercado corporativo . O notebook vem nas versões 14\" e 16\" (Intel) e 14\" (AMD), com telas Full HD e brilho máximo de 400 nits. A linha Pro é pensada para mobilidade, o que justifica o peso a partir de 1,31 kg e até 20 horas de bateria. O modelo é equipado com processadores Core Series 3, Core Ultra Series 3 (Copilot+ de até 50 TOPS) ou AMD Ryzen 200 e Ryzen AI 400 PRO. Já o Dell Pro 5 se destaca pelo chassi montado em três peças de alumínio e pelo foco em mobilidade. O modelo é até 12% mais fino que a geração anterior, conforme a empresa . O notebook corporativo conta com uma tela de 14\" Full HD de 400 nits, memória RAM expansível de até",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "energia_materiais",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-06T18:05:00+00:00",
+      "coletado_em": "2026-11-07T13:55:40.752569+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/iYX5CkRjmWiPLt6WYMIoNfjX5Fw=/0x0/filters:format(webp):quality(85)/7d8e7f00-49b6-49a8-a27d-1f65ad0928d4.jpg",
+      "score": 3.175,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "3433e80132d9",
+      "titulo": "OPPO pode cancelar celular que prometia câmera poderosa e filmagem de cinema",
+      "url": "https://canaltech.com.br/smartphone/oppo-pode-cancelar-celular-que-prometia-camera-poderosa-e-filmagem-de-cinema/",
+      "resumo": "A OPPO pode cancelar o lançamento do Find X10 Ultra, celular que prometia um conjunto de câmeras poderoso, com especificações voltadas para fotografia profissional e gravações cinematográficas. Segundo um novo vazamento, a fabricante chinesa teria suspendido o desenvolvimento do aparelho, que seria o sucessor do Find X9 Ultra. A informação foi divulgada pelo conhecido informante Digital Chat Station, em uma publicação na rede social chinesa Weibo. Apesar de não citar diretamente o nome do dispositivo na publicação inicial, o leaker esclareceu nos comentários que o modelo da atual geração teria sido cancelado. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Até o momento, a OPPO não confirmou a informação e também não explicou os possíveis motivos para a decisão. Portanto, ainda não é possível afirmar se o projeto foi definitivamente encerrado ou se a fabricante pretende retomá-lo futuramente. OPPO Find X10 Ultra prometia câmeras de até 200 MP O possível cancelamento chama atenção principalmente pelas especificações fotográficas esperadas para o celular. Um vazamento divulgado nesta semana indicou que o Find X10 Ultra poderia contar com três câmeras de 200 MP e u",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-06T18:51:01+00:00",
+      "coletado_em": "2026-11-07T13:55:40.752569+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/_lz8Tn959oXCJjVkpMQ9vhyGoXo=/0x0/filters:format(webp):quality(85)/a943885f-4620-46b6-b362-a990cb53de52.jpg",
+      "score": 0.201,
+      "cobertura": []
+    }
+  ]
+}
