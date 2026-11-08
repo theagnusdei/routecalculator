@@ -33,6 +33,22 @@
   "cobertura": []
  },
  {
+  "id": "03bd83a3aef1",
+  "titulo": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
+  "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
+  "resumo": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "quantica"
+  ],
+  "publicado": "2026-11-07T18:00:02+00:00",
+  "coletado_em": "2026-11-08T07:14:12.532255+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-paths-one-flux-tra.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "03dfa2610366",
   "titulo": "What's that bright 'star' in the early morning sky? It's not a star at all!",
   "url": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
@@ -72,11 +88,27 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "software"
   ],
   "publicado": "2026-11-06T23:15:02+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "055e03fe8fc4",
+  "titulo": "AI broke the cybersecurity world. What’s next?",
+  "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+  "resumo": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T15:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533657+00:00",
   "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
@@ -203,8 +235,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
-   "computadores_pessoais"
+   "computadores_pessoais",
+   "hardware"
   ],
   "publicado": "2026-11-06T20:05:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -341,6 +373,22 @@
   "cobertura": []
  },
  {
+  "id": "131c7319af2c",
+  "titulo": "Costco members can get $5 off the reimagined Ocarina of Time",
+  "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+  "resumo": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T16:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533657+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "13fdeb168f54",
   "titulo": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
   "url": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -405,6 +453,22 @@
   "cobertura": []
  },
  {
+  "id": "17f5c8fb6724",
+  "titulo": "Vidro elétrico \"fantasma\"? Veja o que é e como resolver",
+  "url": "https://canaltech.com.br/carros/vidro-eletrico-fantasma-veja-o-que-e-e-como-resolver/",
+  "resumo": "O vidro elétrico é daqueles equipamentos que só costumam chamar a atenção quando deixam de funcionar direito . Às vezes, ele para no meio do caminho, demora para fechar ou até volta a abrir s em que ninguém tenha tocado no botão . Esse comportamento pode ter diferentes explicações. Falhas elétricas, desgaste de componentes e problemas no mecanismo estão entre as possibilidades, mas nem sempre o defeito está no motor do vidro. Antes de levar o carro à oficina , vale observar alguns detalhes e fazer verificações simples. O importante é não forçar o sistema nem tentar desmontar a porta por conta própria, principalmente quando o vidro apresenta movimentos inesperados. Por que o vidro elétrico trava ou se movimenta sozinho? O primeiro passo é conferir se a ignição está na posição correta e se o veículo permite acionar os vidros naquele momento. Se nenhum deles funcionar, o problema pode estar no fusível do circuito. Já quando apenas os comandos das portas traseiras deixam de responder, vale verificar se o botão de bloqueio dos vidros foi acionado no painel do motorista. Quando s omente um vidro apresenta defeito , as causas podem incluir interruptor, fiação, motor elétrico ou máquina de",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T22:03:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/VYxCHaSkGCobNSUNdyq_yh6ji_k=/0x0/filters:format(webp):quality(85)/911e0a3e-c9ba-497e-a9cb-da595390e6a8.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "18880c972b87",
   "titulo": "The Raspberry Pi 5 16GB now costs $385, more than triple its launch price",
   "url": "https://www.techspot.com/news/114465-raspberry-pi-5-16gb-now-costs-385-more.html",
@@ -417,6 +481,22 @@
   "publicado": "2026-11-06T18:02:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.745840+00:00",
   "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-06-ts3_thumbs-2a2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "18b47eae16a5",
+  "titulo": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+  "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+  "resumo": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T14:50:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.529220+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_450283499_Editorial_Use_Only-1024x576.jpeg",
   "score": 0.0,
   "cobertura": []
  },
@@ -553,6 +633,23 @@
   "cobertura": []
  },
  {
+  "id": "1ff511746a87",
+  "titulo": "Quanto vale à pena pagar na RTX 5060 Ti na Black Friday 2026?",
+  "url": "https://canaltech.com.br/hardware/geforce-rtx-5060-ti-quanto-vale-a-pena-pagar-black-friday-2026/",
+  "resumo": "A série de placas RTX xx60 da NVIDIA costuma ser a mais popular para quem quer aproveitar bem jogos na resolução Full HD. Porém a variação RTX xx60 Ti eleva o padrão ao entregar desempenho de folga em 1080p, conseguindo até mesmo encarar 1440p com certos ajustes, principalmente na versão de 16 GB. Com a Black Friday chegando, é hora de dar uma olhada em quanto a RTX 5060 Ti já custou, qual foi sua mínima histórica e o que esperar em termos de promoção para o evento. O que a GeForce RTX 5060 Ti entrega de desempenho? A RTX 5060 Ti se posiciona como um degrau acima da RTX 5060 padrão no lineup Blackwell da NVIDIA, sendo voltada para quem busca taxas de FPS ainda mais altas em 1080p ou quer rodar jogos em 1440p sem sacrificar performance. O grande atrativo da linha está na divisão entre as versões de 8 GB e 16 GB de VRAM , permitindo que o usuário escolha o modelo ideal de acordo com a longevidade e o tipo de jogo que pretende encarar. No quesito tecnologias, ambas contam com suporte completo ao DLSS 4.5 com geração de quadros e reconstrução de raios por inteligência artificial , além do ecossistema NVIDIA Reflex para redução de latência e do novo DLSS 5 . Enquanto a versão de 8 GB at",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T15:00:05+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/FPSfNukmmz34ZSE339-Ow34Ae84=/0x0/filters:format(webp):quality(85)/04df4e31-bbca-44d3-bc6f-f6e45d48ad9e.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "200ab3204752",
   "titulo": "Os 7 jogos mais caros da história: o ranking de orçamentos que GTA 6 deve liderar",
   "url": "https://olhardigital.com.br/2026/11/07/games-e-consoles/os-7-jogos-mais-caros-da-historia-e-quanto-gta-6-pode-custar/",
@@ -608,10 +705,10 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "hardware",
    "astrofisica",
-   "inteligencia_artificial"
+   "hardware",
+   "inteligencia_artificial",
+   "software"
   ],
   "publicado": "2026-11-06T21:03:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -632,6 +729,24 @@
   "publicado": "2026-11-06T14:00:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.742747+00:00",
   "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3266419-0-98315300-1793996341-image_3acedd.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "2237028f2ad8",
+  "titulo": "SUV elétrico da Peugeot \"no precinho\" sai mais em conta que VW Tera",
+  "url": "https://canaltech.com.br/carros/suv-eletrico-da-peugeot-no-precinho-sai-mais-em-conta-que-vw-tera/",
+  "resumo": "Quem procura um SUV pode encontrar uma alternativa diferente no mercado de usados . O Peugeot e-2008 GT 2023 , modelo totalmente elétrico, perdeu mais da metade do valor desde que chegou ao Brasil e hoje aparece na faixa de preço de um Volkswagen Tera de entrada. Lançado em novembro de 2023 por R$ 259.990, o modelo tem preço de referência de R$ 126.221 na Tabela Fipe de novembro de 2026. A queda representa R$ 133.769 em relação ao valor original, equivalente a aproximadamente 51,5% de desvalorização. A diferença é que, pelo valor de um SUV compacto novo de entrada , o comprador pode levar para casa um elétrico com desempenho interessante , bom espaço interno e uma lista generosa de equipamentos. A escolha, porém, exige considerar também a autonomia e as possibilidades de recarga. Peugeot e-2008 tem motor elétrico de 136 cv O e-2008 GT utiliza um motor elétrico dianteiro de 136 cv de potência e 26,5 kgf/m de torque. A energia vem de uma bateria de 50 kWh, que proporciona autonomia de até 345 quilômetros pelo ciclo europeu WLTP. A aceleração de zero a 100 km/h é feita em 9,9 segundos, e a velocidade máxima é limitada a 150 km/h. O carregamento pode ser feito em tomadas convencionais ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "biologia",
+   "inteligencia_artificial",
+   "energia_materiais"
+  ],
+  "publicado": "2026-11-07T19:03:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/WtMNrYY4jn9XJbI7bYP_sclhWdE=/0x0/filters:format(webp):quality(85)/a56db2a0-3b2a-41c2-941f-9bead5a5c6e7.JPG",
   "score": 0.0,
   "cobertura": []
  },
@@ -701,6 +816,23 @@
   "cobertura": []
  },
  {
+  "id": "25c6db8b93a8",
+  "titulo": "This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount",
+  "url": "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount",
+  "resumo": "Best Buy knocks $500 off the iBUYPOWER Slate, bringing this RTX 5060-powered gaming desktop down to $899 with a Ryzen 5 processor, 16GB of DDR5 memory, and a 1TB SSD",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T21:27:30+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531083+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/9WfubkiBcJoBjUZEzfhJgG-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "27107c2082bb",
   "titulo": "WhatsApp ganha recurso para organizar festas de fim de ano e mais; veja como funciona",
   "url": "https://canaltech.com.br/apps/whatsapp-ganha-recurso-para-organizar-festas-de-fim-de-ano-e-mais-veja-como-funciona/",
@@ -713,6 +845,23 @@
   "publicado": "2026-11-06T15:21:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/sGo4aCmj7O3nO8X9tmFZLWTa040=/0x0/filters:format(webp):quality(85)/cb79c59b-913e-47c9-9510-e1066764c2bb.webp",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "2743449098c5",
+  "titulo": "Galaxy Watch 8 LTE: quanto vale pagar na Black Friday?",
+  "url": "https://canaltech.com.br/smartwatch/galaxy-watch-8-lte-quanto-vale-pagar-na-black-friday/",
+  "resumo": "O Galaxy Watch 8 LTE é uma opção interessante para quem busca um smartwatch completo e quer manter a conexão mesmo quando o celular não está por perto . Na Black Friday, a escolha entre a versão Bluetooth e a variante com 4G precisa considerar mais do que a diferença na etiqueta: o LTE tem utilidade real para alguns perfis, mas pode ser um gasto desnecessário para quem está sempre com o smartphone. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Galaxy Watch 8 LTE: quanto pagar na Black Friday? O Galaxy Watch 8 chegou ao Brasil em 2025 nas versões de 40 mm e 44 mm. No lançamento, o LTE custava R$ 3.299 e R$ 3.499 , respectivamente. Já as versões Bluetooth tinham preços sugeridos de R$ 2.999 e R$ 3.199. Os valores caíram bastante em 2026 . Em outubro, ofertas chegaram a aproximadamente R$ 1.200 no modelo LTE de 40 mm e a cerca de R$ 1.300 a R$ 1.400 na versão de 44 mm . Para a Black Friday, estas são as faixas que consideramos interessantes: Versão Preço-alvo Quando vale comprar Galaxy Watch 8 Bluetooth 40 mm Até R$ 1.100 Boa opção para uso conectado ao celular Galaxy Watch 8 LTE 40 mm Até R$ 1.300 Excelente compra se o LTE for necessário Galaxy Watch 8 Bluetooth 44 m",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "astrofisica",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T21:30:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/d7L0_qVwlw5iwSZjYNawWIpP9kw=/0x0/filters:format(webp):quality(85)/edbe2da4-c17a-43d3-bddd-ee41a3d2f704.jpeg",
   "score": 0.0,
   "cobertura": []
  },
@@ -746,6 +895,23 @@
   "publicado": "2026-11-06T14:00:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.740646+00:00",
   "imagem_feed": "https://cdn.mos.cms.futurecdn.net/i66usdGjdEJZNFU6ocr58a-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "2b471ec7eea4",
+  "titulo": "EUA deixou Nvidia vender chips de IA para empresa fantasma da China",
+  "url": "https://olhardigital.com.br/2026/11/07/pro/eua-deixou-nvidia-vender-chips-de-ia-para-empresa-fantasma-da-china/",
+  "resumo": "Caso faz parte de padrão preocupante: empresas ligadas a entidades sujeitas a restrições comerciais têm sido autorizadas a comprar chips da Nvidia O post EUA deixou Nvidia vender chips de IA para empresa fantasma da China apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "hardware",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T18:52:50+00:00",
+  "coletado_em": "2026-11-08T07:14:12.535934+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -895,6 +1061,22 @@
   "cobertura": []
  },
  {
+  "id": "3387280ae19e",
+  "titulo": "New treatment may cure common hormonal cause of high blood pressure",
+  "url": "https://medicalxpress.com/news/2026-11-treatment-common-hormonal-high-blood.html",
+  "resumo": "A study led by Queen Mary University of London has found that a new treatment could offer a lasting cure for some people with a common hormonal cause of high blood pressure, even after they stop taking medication.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T14:40:06+00:00",
+  "coletado_em": "2026-11-08T07:14:12.528881+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-blood-pressure-2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "33cdda41f989",
   "titulo": "Microsoft Office 2024 Home is just $119.97 through 11/8",
   "url": "https://www.pcworld.com/article/3277070/microsoft-office-2024-home-is-just-119-97-through-11-8.html",
@@ -1009,6 +1191,22 @@
   "cobertura": []
  },
  {
+  "id": "37e18eb5d450",
+  "titulo": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+  "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+  "resumo": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T16:57:13+00:00",
+  "coletado_em": "2026-11-08T07:14:12.529220+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_576237302-1024x576.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "38798b603799",
   "titulo": "EA brings Wing Commander and Ultima to Steam, with cutscenes restored from the original master tapes",
   "url": "https://www.techspot.com/news/114472-ea-brings-wing-commander-ultima-steam-cutscenes-restored.html",
@@ -1021,6 +1219,22 @@
   "publicado": "2026-11-06T13:39:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.745840+00:00",
   "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-06-ts3_thumbs-31d.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "387dec1f5d5c",
+  "titulo": "7 TVs de 55 e 65 polegadas para ficar de olho durante a Black Friday",
+  "url": "https://canaltech.com.br/tv/7-tvs-de-55-e-65-polegadas-para-ficar-de-olho-durante-a-black-friday/",
+  "resumo": "A Black Friday pode ser uma boa oportunidade para quem deseja trocar a TV de casa por um modelo mais atual ou por uma versão de tela maior. Mas, entre tantos modelos de 55 e 65 polegadas disponíveis no mercado, vale olhar além do tamanho e comparar também os recursos que realmente fazem diferença no uso diário para garantir o modelo ideal. Há opções de entrada, intermediárias e mais sofisticadas, com diferenças que passam por fatores como tecnologia de tela, processamento de imagem e recursos para jogos . Há também uma boa variedade de marcas e sistemas operacionais, que podem oferecer compatibilidade com outros aparelhos de casa. 📺 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A seguir, reunimos sete televisores de 55 e 65 polegadas que valem ficar no radar durante as ofertas da Black Friday: LG UN85CBPSA. Samsung U8000H. TCL P7K. LG UA85. Samsung M75H. TCL C6K. TCL C7L. 1. LG UN85CBPSA A LG UN85CBPSA é uma boa alternativa para quem busca uma televisão de 55 ou 65 polegadas com resolução 4K, sem necessariamente investir em tecnologias de imagem mais avançadas. A proposta é oferecer uma tela ampla para assistir a filmes, séries e outros conteúdos do dia a dia. A sua ",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T23:30:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/8X1YnibL8OUvWUWrT46KkVojtTI=/0x0/filters:format(webp):quality(85)/767978e6-2d18-473c-8a71-3d273a43b3f4.webp",
   "score": 0.0,
   "cobertura": []
  },
@@ -1288,8 +1502,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "inteligencia_artificial",
-   "energia_materiais"
+   "energia_materiais",
+   "inteligencia_artificial"
   ],
   "publicado": "2026-11-07T12:01:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
@@ -1654,6 +1868,22 @@
   "cobertura": []
  },
  {
+  "id": "4c1d02bb2020",
+  "titulo": "8 melhores apps para acompanhar preços e encontrar ofertas na Black Friday",
+  "url": "https://canaltech.com.br/apps/melhores-apps-precos-ofertas-black-friday/",
+  "resumo": "Durante a Black Friday, diversas lojas fazem promoções e, com tantas ofertas publicadas ao mesmo tempo, fica difícil acompanhar os preços de cada produto e encontrar os melhores descontos. Além disso, algumas promoções não apresentam uma economia real, pois lojas podem aumentar os valores antes da data para simular descontos maiores. Para evitar cair nessas “promoções”, é possível acompanhar o histórico de preços dos produtos por meio de aplicativos, além de visualizar as lojas com os maiores descontos e ganhar cupons para economizar na compra. Algumas plataformas também contam com cashback e comunidades que avaliam as promoções publicadas. 8 apps para encontrar promoções na Black Friday A seguir, veja oito apps para acompanhar preços e encontrar descontos na Black Friday: Buscapé Zoom Pechincha.ai Promobit Pelando Keepa Cuponomia Cuponeria 1. Buscapé O Buscapé compara preços de diferentes lojas online e apresenta o histórico de valores dos produtos nos últimos 40 dias ou seis meses, ajudando a identificar se um desconto realmente compensa. O aplicativo também oferece alertas personalizados, cupons e cashback , com a opção de resgatar o dinheiro de volta via Pix. A plataforma ainda",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T19:30:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/kqXk5OE4dg0i-w8k-6yLwcMOdyw=/0x0/filters:format(webp):quality(85)/2b8e6c40-e275-4e60-a467-602e180beffe.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "4c5c31034f4f",
   "titulo": "Newly-developed paint could keep your home cooler and lower energy bills",
   "url": "https://techxplore.com/news/2026-11-newly-home-cooler-energy-bills.html",
@@ -1682,6 +1912,22 @@
   "publicado": "2026-11-06T15:10:46+00:00",
   "coletado_em": "2026-11-07T13:55:40.751186+00:00",
   "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-3.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "4c7ce1604c62",
+  "titulo": "Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million",
+  "url": "https://www.techspot.com/news/114482-thieves-steal-114-million-nvidia-equipment-ai-hardware.html",
+  "resumo": "According to the Bay Area News Group, police suspect that sophisticated thieves stole $11.4 million worth of Nvidia equipment that was supposed to ship from Oakland to Fort Worth, Texas. No arrests have been announced so far. Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T17:08:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533208+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/09/2026-09-28-ts3_thumbs-9bb.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -1773,8 +2019,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "computadores_pessoais",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-11-07T13:00:00+00:00",
@@ -2138,6 +2384,38 @@
   "cobertura": []
  },
  {
+  "id": "62cec584fd69",
+  "titulo": "Potential driver of severe early-onset preeclampsia identified",
+  "url": "https://medicalxpress.com/news/2026-11-potential-driver-severe-early-onset.html",
+  "resumo": "Severe early-onset preeclampsia has confounded doctors for more than 2,000 years. It can strike as early as 20 weeks into pregnancy, sending blood pressure soaring and putting both the mother and baby at risk.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T19:00:06+00:00",
+  "coletado_em": "2026-11-08T07:14:12.528881+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-working-wi.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "62e89f4bf096",
+  "titulo": "De MacBook a bolsa para empreender: o ‘pacote dos sonhos’ de demissão da Canva",
+  "url": "https://olhardigital.com.br/2026/11/07/pro/de-macbook-a-bolsa-para-empreender-o-pacote-dos-sonhos-de-demissao-da-canva/",
+  "resumo": "Entre \"benefícios\", estão seis meses de salário, assistência médica por um ano, MacBook da empresa e auxílio para empreender O post De MacBook a bolsa para empreender: o ‘pacote dos sonhos’ de demissão da Canva apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T15:39:37+00:00",
+  "coletado_em": "2026-11-08T07:14:12.535934+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "630dd8a85654",
   "titulo": "Release of largest dataset to date on wildlife in Europe",
   "url": "https://phys.org/news/2026-11-largest-dataset-date-wildlife-europe.html",
@@ -2150,6 +2428,22 @@
   "publicado": "2026-11-06T14:20:04+00:00",
   "coletado_em": "2026-11-07T13:55:40.738380+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/100000-observations-of-2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "6338675ae184",
+  "titulo": "9 melhores edições limitadas do Mega Drive",
+  "url": "https://canaltech.com.br/games/mega-drive-melhores-edicoes-limitadas/",
+  "resumo": "Diferentemente de seu antecessor, o Mega Drive recebeu pouquíssimas edições limitadas e variações fabricadas pela própria SEGA. Nessa altura, a empresa se consolidou na indústria dos games como fabricante de consoles caseiros ao levar versões parecidas do hardware para praticamente todas as regiões do mundo , sem muitas mudanças. Nessa época, a SEGA travava o que chamamos de Guerra dos Consoles com a Nintendo no início dos anos 1990 . Mesmo nesse período, houve espaço para que fabricantes parceiras trouxessem o Mega Drive ao mundo de formas um tanto diferentes. Nesse caso , a Tectoy pouco participou de variações emblemáticas do console no Brasil, embora tenha levado adiante o excelente trabalho de localização e distribuição marcado na era do Mega Drive. Por esse motivo, é bem provável que você nunca tenha ouvido falar destas 9 edições limitadas marcantes do Mega Drive, pelo menos até ler esta matéria! Estas são 9 das edições limitadas mais curiosas do Mega Drive: Mega Drive 4 Guitar Idol Mega Drive 3 com 86 jogos SEGA Nomad SEGA Mega Jet SEGA Multi-Mega Wondermega Amstrad Mega PC Teradrive Aiwa Mega-CD 9. Aiwa Mega-CD Lançado exclusivamente no Japão em setembro de 1994, o Aiwa Mega",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T18:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/T_a2oxXIoxw-N95eZ30ZX5GUqF4=/0x0/filters:format(webp):quality(85)/f4060070-c832-47fc-b582-31a6ef8d4e0e.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -2202,6 +2496,22 @@
   "cobertura": []
  },
  {
+  "id": "65072e1c3772",
+  "titulo": "Scientists discover new jellyfish species in waters off Alicante in Spain",
+  "url": "https://phys.org/news/2026-11-scientists-jellyfish-species-alicante-spain.html",
+  "resumo": "The Mediterranean Sea still holds species unknown to science. One of them is Copula lucentia, a tiny jellyfish measuring just a few millimeters. Discovered off El Campello, in Alicante, it was formally described in 2024 by a research team at the University of Alicante (UA) Marine Laboratory in Dénia, which forms part of the university's Ramón Margalef Multidisciplinary Institute for Environmental Research.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-07T16:00:01+00:00",
+  "coletado_em": "2026-11-08T07:14:12.529417+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/university-of-alicante.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "66162af34731",
   "titulo": "3 ajustes para rodar Phantom Blade Zero com o máximo desempenho no PC",
   "url": "https://canaltech.com.br/games/phantom-blade-zero-ajustes-para-rodar-maximo-desempenho-pc/",
@@ -2218,6 +2528,22 @@
   "cobertura": []
  },
  {
+  "id": "6662e17f843a",
+  "titulo": "APOD: 2026 November 8 – Major Fireball Meteor",
+  "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+  "resumo": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-08T05:05:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531453+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "66f45ac4e630",
   "titulo": "Zelda is back and better than ever",
   "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
@@ -2230,6 +2556,23 @@
   "publicado": "2026-11-07T13:49:01+00:00",
   "coletado_em": "2026-11-07T13:55:40.746449+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "679768dd339c",
+  "titulo": "5 recursos e funcionalidades que só quem tem Android com root tem",
+  "url": "https://canaltech.com.br/apps/recursos-funcionalidades-celulares-android-com-root/",
+  "resumo": "O root no Android libera acesso de superusuário, com a possibilidade de mexer em funções avançadas de personalização e controle do sistema . Por exemplo, dá para remover aplicativos pré-instalados, instalar versões alternativas do Android, alterar o funcionamento do processador e usar ferramentas que não funcionam com as permissões padrão do celular. No entanto, o root também traz riscos . As mudanças podem comprometer a segurança do aparelho, causar falhas no sistema e afetar o acesso a aplicativos bancários, carteiras digitais e serviços de streaming. Ainda, o procedimento pode anular a garantia, dependendo das condições da fabricante. Por isso, é indicado para pessoas que têm conhecimento técnico do sistema operacional. 5 funções que só o root libera no Android Confira cinco recursos e funcionalidades que só o root libera no Android: Personalizar a interface Remover aplicativos pré-instalados Instalar versões alternativas do Android Ajustar o desempenho do processador Acessar arquivos protegidos e fazer backups avançados 1. Personalizar a interface O root amplia as opções de personalização do Android. Com as permissões de superusuário, é possível alterar elementos que não aceita",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T21:00:04+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/g5fEjAjhd2BEKhuULNzOTYq7BHw=/0x0/filters:format(webp):quality(85)/7521ad58-c9a9-47a2-9ed1-1311edab69dd.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -2262,6 +2605,22 @@
   "publicado": "2026-11-06T02:20:01+00:00",
   "coletado_em": "2026-11-07T13:55:40.738380+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-ecological-risk.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "69c75581d56f",
+  "titulo": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "resumo": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T21:17:08+00:00",
+  "coletado_em": "2026-11-08T07:14:12.534349+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -2394,6 +2753,22 @@
   "cobertura": []
  },
  {
+  "id": "73be1ddc7ff2",
+  "titulo": "The US let Nvidia sell chips to an empty office in China",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+  "resumo": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T15:43:45+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533657+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "747269d87c1b",
   "titulo": "Opinion: AI depends on medical records that don’t always tell the full truth about women",
   "url": "https://www.statnews.com/2026/11/06/women-medical-records-artificial-intelligence-diagnosis-mental-health-pain/?utm_campaign=rss",
@@ -2491,6 +2866,23 @@
   "cobertura": []
  },
  {
+  "id": "7a1ea973f294",
+  "titulo": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live",
+  "url": "https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners",
+  "resumo": "Elegoo's November sale has begun, and you can score savings of up to 54% on a new printer for the entire month, as long as the stock lasts.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T14:30:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531083+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/t6fV9VsZ9pDvT9Pm4nJ8EG-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "7a3513031f56",
   "titulo": "Supercomputing Tech Demo Schedule",
   "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
@@ -2503,6 +2895,38 @@
   "publicado": "2026-11-06T16:03:52+00:00",
   "coletado_em": "2026-11-07T13:55:40.741088+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7f424ba8508f",
+  "titulo": "Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial",
+  "url": "https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html",
+  "resumo": "Like cholesterol, inflammation causally contributes to the risk of cardiovascular disease, but findings from the clinical trial ZEUS indicate that the road to targeting inflammation may be less straightforward than once thought. ZEUS, a global phase 3 clinical trial led by Mass General Brigham researcher Paul Ridker, M.D., tested a drug that targets interleukin-6 (IL-6), a downstream inflammatory molecule. IL-6 inhibitors are commonly used to treat autoimmune disorders. However, while the new drug known as ziltivekimab lowered IL-6 levels, it did not reduce cardiovascular event rates compared to placebo.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T14:40:02+00:00",
+  "coletado_em": "2026-11-08T07:14:12.528881+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-ekg.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "7f98756536bd",
+  "titulo": "Financial incentives nearly double quit rates among underserved people who smoke in national study",
+  "url": "https://medicalxpress.com/news/2026-11-financial-incentives-underserved-people-national.html",
+  "resumo": "Offering financial incentives to people trying to quit smoking nearly doubled cessation rates among medically underserved adults undergoing lung cancer screening, according to a large national clinical trial involving Henry Ford Health.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T22:00:01+00:00",
+  "coletado_em": "2026-11-08T07:14:12.528881+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/quit-smoking.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2535,6 +2959,38 @@
   "publicado": "2026-11-06T17:25:42+00:00",
   "coletado_em": "2026-11-07T13:55:40.747840+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/lithium-free-non-flamm.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "808e191374b6",
+  "titulo": "The hidden ways insects support animal life—from habitat to health—go way beyond being food",
+  "url": "https://phys.org/news/2026-11-hidden-ways-insects-animal-life.html",
+  "resumo": "There are at least 14 million insect species on Earth, and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits—what scientists often call \"ecosystem services.\" For example, you can thank a bee or a hoverfly for pollinating wildflowers and agricultural crops, or credit dung beetles for decomposing manure and other waste materials.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-07T21:00:01+00:00",
+  "coletado_em": "2026-11-08T07:14:12.529417+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/wide-blue-head-of-a-da.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "811769905ce1",
+  "titulo": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+  "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+  "resumo": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T21:39:02+00:00",
+  "coletado_em": "2026-11-08T07:14:12.529220+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2019/02/GettyImages-57319981-1024x576.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -2578,8 +3034,8 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
    "astrofisica",
+   "hardware",
    "inteligencia_artificial"
   ],
   "publicado": "2026-11-06T20:06:00+00:00",
@@ -2669,6 +3125,22 @@
   "cobertura": []
  },
  {
+  "id": "8a4cc8d29532",
+  "titulo": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+  "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+  "resumo": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T22:47:03+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531453+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "8c0ff908a4f5",
   "titulo": "The wasps that horrified Darwin reveal evolution's one-way streets",
   "url": "https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html",
@@ -2717,6 +3189,22 @@
   "cobertura": []
  },
  {
+  "id": "8ccdc2449e21",
+  "titulo": "Student finds proof of rare wild cat in northern New Mexico",
+  "url": "https://phys.org/news/2026-11-student-proof-rare-wild-cat.html",
+  "resumo": "Armed with dozens of motion-sensing cameras, William Grooms spent this past summer documenting wildlife across Carson National Forest in northern New Mexico. It was his first field season collecting photos for a two-year study to understand how forest structure influences biodiversity in the Southern Rocky Mountains.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-07T22:00:05+00:00",
+  "coletado_em": "2026-11-08T07:14:12.529417+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/nmsu-phd-student-finds.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "8d40fc1c6660",
   "titulo": "Devices aren't lasting as long as they should. Here's why",
   "url": "https://techxplore.com/news/2026-11-devices.html",
@@ -2745,6 +3233,22 @@
   "publicado": "2026-11-06T18:36:58+00:00",
   "coletado_em": "2026-11-07T13:55:40.741974+00:00",
   "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-06_23-36.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "8eea48456f05",
+  "titulo": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+  "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+  "resumo": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T16:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533657+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -2941,6 +3445,38 @@
   "cobertura": []
  },
  {
+  "id": "9a3500d6fef8",
+  "titulo": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+  "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+  "resumo": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T17:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533657+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9aabf39f7414",
+  "titulo": "Good riddance, Cybertruck!",
+  "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+  "resumo": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T14:40:06+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533657+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "9b4543cb93e7",
   "titulo": "STAT+: New tumor cases show common gene therapy tool can come with risk",
   "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
@@ -3001,6 +3537,22 @@
   "publicado": "2026-11-07T13:00:06+00:00",
   "coletado_em": "2026-11-07T13:55:40.737460+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/prostate-cancer.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "9d8233f4f4dd",
+  "titulo": "Valve wants Steam to squash Arm gaming stutter before you even hit play",
+  "url": "https://www.pcworld.com/article/3276245/valve-wants-steam-to-kill-arm-gaming-stutter-before-you-even-hit-play.html",
+  "resumo": "A powerful gaming PC can still stutter like hell. Now imagine your processor having to translate the game’s instructions while you’re playing it. That’s one of the challenges Valve faces in its fascinating push to bring Windows games to Arm chips . And the company has a clever plan to tackle it before you even hit Play. “FEX code caching is vital for frame time consistency,” Valve software engineer Pierre-Loup Griffais told PCWorld in an interview. “In the future, it will also be integrated with Steam’s Pre-Caching feature, so that cached code is available even prior to the first local run of an application.” That’s a nifty trick when you’re trying to make thousands of Windows games run on processors they were never designed for. And it dovetails with a broader industry push to stamp out one of PC gaming’s most infuriating problems. Translating games without the hiccups FEX is a crucial piece of Valve’s ambitious effort to break Steam free from traditional gaming PCs . Most Windows games are built for x86 processors from AMD and Intel. Arm chips speak a different instruction language, so FEX translates x86 code into Arm instructions as games run. Fortunately, FEX doesn’t have to tr",
+  "fonte": "PCWorld",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T17:09:51+00:00",
+  "coletado_em": "2026-11-08T07:14:12.532820+00:00",
+  "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3276245-0-48899500-1794071475-image_d9d7c6.png",
   "score": 0.0,
   "cobertura": []
  },
@@ -3246,6 +3798,22 @@
   "cobertura": []
  },
  {
+  "id": "ab60e9f00bac",
+  "titulo": "After buying EA, Silver Lake and PIF reportedly offer $25 billion for Unity",
+  "url": "https://www.techspot.com/news/114479-after-buying-ea-silver-lake-pif-reportedly-offer.html",
+  "resumo": "According to unnamed insider sources cited by Reuters, the offer was made weeks before Unity released its Q3 earnings report, which revealed a 59% increase in strategic revenue year-over-year and 134% growth in adjusted EBITDA. The report pushed the company's stock price up by roughly 4% and its market capitalization to around $21.5 billion. Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T15:44:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533208+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2022/08/2022-08-09-ts3_thumbs-96b.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "ad0279d0ae23",
   "titulo": "Supercarro da BYD quebra barreira dos 500 km/h e é certificado pelo Guinness",
   "url": "https://canaltech.com.br/carros/supercarro-da-byd-quebra-barreira-dos-500-kmh-e-e-certificado-pelo-guinness/",
@@ -3301,12 +3869,28 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "software",
-   "astrofisica"
+   "astrofisica",
+   "software"
   ],
   "publicado": "2026-11-06T21:47:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/y0hd-xd-1wqOVUtzVmU3j0M9AkU=/0x0/filters:format(webp):quality(85)/55a6c8c8-c467-4e3b-af67-3cc179db5d2c.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "aecc80a308a7",
+  "titulo": "Meta adia regras sobre coleta de conteúdo jornalístico para treinar IA",
+  "url": "https://olhardigital.com.br/2026/11/07/pro/meta-adia-regras-sobre-coleta-de-conteudo-jornalistico-para-treinar-ia/",
+  "resumo": "Adiamento comunicado pela Meta vem pouco depois de um revés judicial no Brasil; relembre a decisão da Justiça de São Paulo e entenda o caso O post Meta adia regras sobre coleta de conteúdo jornalístico para treinar IA apareceu primeiro em Olhar Digital .",
+  "fonte": "Olhar Digital",
+  "peso_fonte": 0.65,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T14:16:23+00:00",
+  "coletado_em": "2026-11-08T07:14:12.535934+00:00",
+  "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
  },
@@ -3325,6 +3909,22 @@
   ],
   "publicado": "2026-11-06T18:00:05+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "aff8c97b0bc1",
+  "titulo": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+  "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+  "resumo": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
+  "fonte": "NASA",
+  "peso_fonte": 1.0,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T18:11:57+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531453+00:00",
   "imagem_feed": null,
   "score": 0.0,
   "cobertura": []
@@ -3459,6 +4059,24 @@
   "cobertura": []
  },
  {
+  "id": "b85000d28e15",
+  "titulo": "Como usar o mapa do Gemini para encontrar novos lugares?",
+  "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-mapa-do-gemini-para-encontrar-novos-lugares/",
+  "resumo": "O Google lançou uma nova ferramenta chamada “Mapa” para o aplicativo Gemini em celulares. Com ela, você pode escolher uma região no mapa e pedir à inteligência artificial informações, recomendações e sugestões relacionadas ao local selecionado. A ferramenta é útil para quem quer encontrar restaurantes, pontos turísticos, lojas ou outros lugares de interesse sem precisar informar apenas o nome de uma cidade ou bairro. Ao abrir o recurso, o Gemini mostra um mapa da região atual do celular com uma área circular destacada . Você pode arrastar o mapa, aproximar ou afastar a visualização para posicionar a área sobre o local que deseja pesquisar. Também dá para procurar outro endereço ou região pelo ícone de lupa no canto superior direito. Depois de encontrar o local desejado, toque em “Explorar esta área”. O Gemini adiciona automaticamente a etiqueta “Área do Mapa” à caixa de texto, indicando que a região selecionada fará parte do contexto da conversa. A partir daí, é só fazer a pergunta ou enviar uma instrução, como pedir restaurantes próximos, pontos turísticos ou lugares interessantes para visitar. O recurso “Mapa” já está disponível nos aplicativos Gemini para Android e iOS , mas ain",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "hardware",
+   "astrofisica",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T17:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/Ax_v6bLwRDFntlJGB9GftCprRb4=/0x0/filters:format(webp):quality(85)/5e76d40e-8c82-48fe-8bca-c85b83f51fa3.jpeg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "b91466b13eb7",
   "titulo": "AMD agora prioriza data centers; mas e os jogos e os PCs?",
   "url": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
@@ -3504,6 +4122,25 @@
   "publicado": "2026-11-06T08:00:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.747193+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "bcb47ba62e7f",
+  "titulo": "Galaxy Tab S10 Lite ou S10 FE: qual tablet da Samsung comprar na Black Friday?",
+  "url": "https://canaltech.com.br/tablet/galaxy-tab-s10-lite-ou-s10-fe-qual-comprar-na-black-friday/",
+  "resumo": "Escolher um tablet da Samsung na Black Friday pode gerar uma dúvida importante: vale economizar com um modelo mais acessível ou investir em uma dispositivo que ofereça mais desempenho? O Galaxy Tab S10 Lite e o Galaxy Tab S10 FE são dois aparelhos que entram nesse comparativo, apresentando diferenças de hardware que podem pesar na decisão. Os dois tablets contam com tela de 10,9 polegadas, taxa de atualização de 90 Hz e acessórios como a S Pen e a capa protetora. Por outro lado, o modelo FE traz um processador mais recente, mais memória RAM e uma tela de resolução superior. 📱 Veja as melhores promoções de tablets no WhatsApp do CT Ofertas A escolha depende principalmente do tipo de uso e das vantagens que cada configuração oferece. Além disso, é crucial analisar quanto vale a pena pagar a mais para ter em mãos uma opção mais avançada. Galaxy Tab S10 Lite é a versão mais acessível O Galaxy Tab S10 Lite combina uma tela LCD de 10,9 polegadas, resolução de 1920 x 1200 pixels e taxa de atualização de 90 Hz. O painel oferece uma área ampla para a exibição de conteúdos, enquanto a frequência de atualização favorece a fluidez durante a navegação. O tablet utiliza o processador Exynos 1380",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "software",
+   "hardware",
+   "astrofisica",
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T19:05:39+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/QckjZg-GszKzhUEM-yZ5f0A-ZMQ=/0x0/filters:format(webp):quality(85)/e688b8e8-8ab6-4a75-8a6d-01db5d53ea2f.jpeg",
   "score": 0.0,
   "cobertura": []
  },
@@ -3621,6 +4258,22 @@
   "cobertura": []
  },
  {
+  "id": "c030d0661f3f",
+  "titulo": "Cloudflare Scales D1 Control Plane to Millions of Databases",
+  "url": "https://www.infoq.com/news/2026/11/cloudflare-d1-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+  "resumo": "In a recent article, Cloudflare shared the redesign of the control plane of its D1 serverless SQL database to support millions of databases, avoiding centralized bottlenecks, implementing retries and idempotency, and using eventual consistency. By Renato Losio",
+  "fonte": "InfoQ",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "software"
+  ],
+  "publicado": "2026-11-08T06:34:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.530489+00:00",
+  "imagem_feed": "https://res.infoq.com/news/2026/11/cloudflare-d1-control-plane/en/headerimage/generatedHeaderImage-1792577891694.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "c0641eb0de56",
   "titulo": "All the latest updates on AI data centers",
   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
@@ -3717,6 +4370,22 @@
   "cobertura": []
  },
  {
+  "id": "c5c4a14fe902",
+  "titulo": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
+  "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
+  "resumo": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T16:31:11+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531925+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/cnKGmstwQTYV3pPvcNum4d-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "c5d2f821d99b",
   "titulo": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
   "url": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
@@ -3740,12 +4409,29 @@
   "fonte": "Canaltech",
   "peso_fonte": 0.6,
   "categorias": [
-   "hardware",
-   "astrofisica"
+   "astrofisica",
+   "hardware"
   ],
   "publicado": "2026-11-06T21:36:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
   "imagem_feed": "https://tl.ctcdn.com.br/ICktOSWJzCwRed1Lh8cvu49OTuA=/0x0/filters:format(webp):quality(85)/b470795e-e29e-42bb-9768-ec6f9d2a7ea3.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c6eb38c4c18a",
+  "titulo": "Ar-condicionado pode acumular bactérias? 7 cuidados para evitar riscos à saúde",
+  "url": "https://canaltech.com.br/eletro/ar-condicionado-pode-acumular-bacterias-7-cuidados-para-evitar-riscos-a-saude/",
+  "resumo": "O ar-condicionado pode acumular bactérias e fungos em filtros e componentes internos, principalmente quando falta limpeza e há umidade no aparelho. Essa contaminação pode prejudicar a qualidade do ar e favorecer alergias, irritações respiratórias e outros problemas de saúde. Para evitar esses riscos, é importante cuidar da higienização, observar sinais de sujeira e respeitar os intervalos de manutenção. Separamos dicas de especialistas para evitar riscos. O problema não se limita ao mau cheiro ou à perda de eficiência do equipamento. Segundo Luiz Fernando Bianchini, farmacêutico, mestre em Biologia Celular e Molecular e pesquisador em Microbiologia, filtros contaminados podem contribuir para a presença de microrganismos no ambiente. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Pessoas alérgicas podem sentir irritação respiratória, mas a ausência de sintomas não significa que o aparelho esteja limpo. A boa notícia é que alguns cuidados ajudam a reduzir esse risco. Veja sete medidas para manter o ar-condicionado limpo e o ambiente mais saudável. 1. Limpe os filtros de ar regularmente Os filtros retêm poeira e partículas suspensas, mas também podem acumular microrgan",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "medicina",
+   "biologia"
+  ],
+  "publicado": "2026-11-07T17:37:11+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/ZUW_qxyQZuMC7Y-O3fg_vRlfnFM=/0x0/filters:format(webp):quality(85)/3c967030-6833-4e27-8b29-2af09f60e767.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -3762,6 +4448,22 @@
   "publicado": "2026-11-06T14:04:54+00:00",
   "coletado_em": "2026-11-07T13:55:40.740315+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c7aec693551c",
+  "titulo": "The NASA Artemis II launch punched two 5,000 km holes in the ionosphere that disrupted GPS signals, study finds",
+  "url": "https://www.techspot.com/news/114480-nasa-artemis-ii-launch-punched-two-5000-km.html",
+  "resumo": "This April's Artemis II mission caused two large holes in Earth's ionosphere, resulting in significant disturbances that could affect GPS positioning accuracy. A new study by Taiwan-based researchers highlighted how modern launch systems can impact the atmosphere, and how future exploration missions are going to affect one of the most... Read Entire Article",
+  "fonte": "TechSpot",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T14:48:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533208+00:00",
+  "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-06-ts3_thumbs-8c9.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -3811,6 +4513,22 @@
   "publicado": "2026-11-07T11:08:22+00:00",
   "coletado_em": "2026-11-07T13:55:40.737460+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2015/measles.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "c9285e69f6c7",
+  "titulo": "This Week In Space podcast: Episode 235 — Robots in Dark and Scary Places",
+  "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-235-robots-in-dark-and-scary-places",
+  "resumo": "On Episode 235 of This Week In Space, Tariq Malik and Rod Pyle are joined by Dr. Jim Green to talk about the past, present, and future of planetary exploration.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T17:10:54+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531925+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/yAyQqdHw6qnqFbaRrGNbHX-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -3975,6 +4693,22 @@
   "cobertura": []
  },
  {
+  "id": "cdf087d9a456",
+  "titulo": "Why the tropics lose the most birds when cities expand",
+  "url": "https://phys.org/news/2026-11-tropics-birds-cities.html",
+  "resumo": "Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the latitudinal diversity gradient—is pervasive across branches of the tree of life, and fossil evidence suggests it has existed for millennia.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "biologia"
+  ],
+  "publicado": "2026-11-08T01:30:01+00:00",
+  "coletado_em": "2026-11-08T07:14:12.529417+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-tropical-city.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "ced2be47e027",
   "titulo": "A galaxy nicknamed Misty Moons offers a glimpse of early star formation",
   "url": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html",
@@ -4057,6 +4791,22 @@
   "cobertura": []
  },
  {
+  "id": "d21d28aa4445",
+  "titulo": "A rinite está atacando? Saiba se seu ar condicionado é o vilão",
+  "url": "https://canaltech.com.br/eletro/a-rinite-esta-atacando-saiba-se-seu-ar-condicionado-e-o-vilao/",
+  "resumo": "Pra quem sofre com o calor, o ar-condicionado é um grande aliado. Mas precisa ter cuidado, porque ele pode se transformar em um problema para quem sofre com rinite. Mas será que dormir com o ar-condicionado ligado realmente piora o quadro? E como aproveitar o aparelho sem prejudicar a saúde respiratória? Primeiro, vale entender que o uso frequente do aparelho pode provocar ressecamento das vias respiratórias, mudanças bruscas de temperatura e até espalhar partículas que agravam os sintomas alérgicos. A situação fica ainda pior quando a limpeza e a manutenção dos filtros são deixadas de lado. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas De acordo com Alexandre Camilotti Gasperin, médico otorrinolaringologista e professor de Otorrinolaringologia da Escola de Medicina e Ciências da Vida da Pontifícia Universidade Católica do Paraná (PUCPR), o ar-condicionado pode agravar os sintomas da rinite por diferentes motivos. Um deles é o ressecamento do ar, que prejudica a hidratação natural da mucosa nasal e pode provocar irritação e desconforto. As mudanças bruscas de temperatura também funcionam como um fator de agressão para as vias respiratórias. Segundo Gasperin, o prob",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T22:30:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/D5Z91Kb-nblfP0Nr8m3EEJtnZU0=/0x0/filters:format(webp):quality(85)/262054b3-977d-4073-8473-fa6d0cfd5ea5.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "d275be2a1267",
   "titulo": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
@@ -4133,6 +4883,22 @@
   "publicado": "2026-11-06T23:00:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.752569+00:00",
   "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "d616672e1edb",
+  "titulo": "O que é recompilação? Entenda técnica que roda jogos antigos no PC sem emulador",
+  "url": "https://canaltech.com.br/games/o-que-e-recompilacao-de-jogos/",
+  "resumo": "Ao longo das décadas, vimos diversos jogos serem lançados de forma exclusiva em múltiplas plataformas. A Nintendo pode ser a campeã neste quesito, mas a cultura também é presente no PlayStation e no XBOX — assim como era na Atari, nos consoles da SEGA e vários outros que surgiram na História. Com o passar dos anos e o envelhecimento dos hardwares, esses videogames foram deixados para trás. A maioria dos títulos, mesmo os mais emblemáticos, permaneceu presa nestes dispositivos e nunca chegou às gerações atuais. Os poucos que chegam, inclusive, encontram vários entraves: remoção de conteúdo, perda de qualidade na remasterização e um desempenho questionável. A partir deste cenário e da preservação de jogos, começaram a surgir os “ports nativos” . O processo de recompilação permitiu que muitas experiências surgissem nos PCs, mesmo os de entrada. Ele garante que mais pessoas conheçam os principais capítulos de franquias icônicas, assim como vejam como o game se comporta hoje em dia. Em 2026, este cenário virou uma verdadeira febre. Não é de se estranhar ver um novo port todo dia — dos mais variados títulos. De aventuras mais “recentes” como God of War 3 (2010) a clássicos como Banjo-Kaz",
+  "fonte": "Canaltech",
+  "peso_fonte": 0.6,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T20:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.537481+00:00",
+  "imagem_feed": "https://tl.ctcdn.com.br/hhicQaZokhU5-FfknjKW2ka4Ezc=/0x0/filters:format(webp):quality(85)/19a868c3-e26f-4c06-8328-0d58baa28189.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -4218,6 +4984,23 @@
   "cobertura": []
  },
  {
+  "id": "deec94caf8f9",
+  "titulo": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
+  "url": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
+  "resumo": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can’t make up for weak overall performance, poor efficiency, and high temps.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T14:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531083+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4uccTHKwWnDD6go5YwpkAk-1920-80.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "dfb0cd15dded",
   "titulo": "APOD: 2026 November 6 – A Farewell to Swift",
   "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
@@ -4250,6 +5033,22 @@
   "cobertura": []
  },
  {
+  "id": "e03896b90a61",
+  "titulo": "Normal-looking sleep can mask memory problems, study suggests",
+  "url": "https://medicalxpress.com/news/2026-11-mask-memory-problems.html",
+  "resumo": "A new mouse study that set out to test how sleep helps stabilize new memories has identified cells that may offer a genetic target for accessing circuits implicated in cognitive disorders. Researchers led by Min Xu and Wanling Peng from the Institute of Neuroscience at the Chinese Academy of Sciences focused on interneurons that gate the generation of ripples, which are brief bursts of electrical activity that are critical for memory consolidation.",
+  "fonte": "Medical Xpress",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T15:40:01+00:00",
+  "coletado_em": "2026-11-08T07:14:12.528881+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/older-person-sleeping.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "e0f04ee85939",
   "titulo": "Record-breaking, fast-spinning magnet could help uncover new physics",
   "url": "https://www.newscientist.com/article/2597816-record-breaking-fast-spinning-magnet-could-help-uncover-new-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -4262,6 +5061,38 @@
   "publicado": "2026-11-06T19:00:00+00:00",
   "coletado_em": "2026-11-07T13:55:40.769729+00:00",
   "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319645963.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e23cb596fd16",
+  "titulo": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
+  "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+  "resumo": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The research, titled \"A Big Bang Nucleosynthesis Consistency Test of the CCC+TL Cosmology,\" is published in the journal Universe.",
+  "fonte": "Phys.org",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T14:00:02+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531603+00:00",
+  "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/theory-predicting-an-o-2.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "e574df8b124c",
+  "titulo": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
+  "resumo": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan.",
+  "fonte": "Space.com",
+  "peso_fonte": 0.7,
+  "categorias": [
+   "astrofisica"
+  ],
+  "publicado": "2026-11-07T15:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531925+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/4TsvmNPsG8o4nXmHcQLzbX-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -4362,6 +5193,23 @@
   "cobertura": []
  },
  {
+  "id": "eb20fdeaf759",
+  "titulo": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+  "resumo": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T14:47:37+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531083+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/fjFkN4c5HUsWwQPK4dVKZR-1920-80.png",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "eb77fde37c32",
   "titulo": "EA ouve fãs e relança Road Rash, Ultima e mais 23 clássicos no PC",
   "url": "https://canaltech.com.br/games/ea-ouve-fas-e-relanca-road-rash-ultima-e-mais-23-classicos-no-pc/",
@@ -4412,6 +5260,22 @@
   "cobertura": []
  },
  {
+  "id": "ed263cbbe1a4",
+  "titulo": "After the midterms, things are looking rocky for Elon Musk and data centers",
+  "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+  "resumo": "On Equity, we unpacked what the midterms mean for the tech industry.",
+  "fonte": "TechCrunch",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "inteligencia_artificial"
+  ],
+  "publicado": "2026-11-07T22:07:22+00:00",
+  "coletado_em": "2026-11-08T07:14:12.534349+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "eddb01178380",
   "titulo": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
   "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
@@ -4457,6 +5321,23 @@
   "publicado": "2026-11-06T15:40:16+00:00",
   "coletado_em": "2026-11-07T13:55:40.737460+00:00",
   "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-identifie-6.jpg",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "f0c3875dbf03",
+  "titulo": "This week in Tom's Hardware Premium: November 7, 2026",
+  "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
+  "resumo": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you won't want to miss.",
+  "fonte": "Tom's Hardware",
+  "peso_fonte": 0.8,
+  "categorias": [
+   "computadores_pessoais",
+   "hardware"
+  ],
+  "publicado": "2026-11-07T15:00:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.531083+00:00",
+  "imagem_feed": "https://cdn.mos.cms.futurecdn.net/EJymn9UT9oot2ydST6x9yd-1920-80.jpg",
   "score": 0.0,
   "cobertura": []
  },
@@ -4673,6 +5554,22 @@
   "cobertura": []
  },
  {
+  "id": "fa06ff8fdc83",
+  "titulo": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+  "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+  "resumo": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+  "fonte": "The Verge",
+  "peso_fonte": 0.75,
+  "categorias": [
+   "computadores_pessoais"
+  ],
+  "publicado": "2026-11-07T15:50:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.533657+00:00",
+  "imagem_feed": null,
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
   "id": "fa4e03e8fd33",
   "titulo": "Genetic variant may increase the risk of pneumonia",
   "url": "https://medicalxpress.com/news/2026-11-genetic-variant-pneumonia.html",
@@ -4765,6 +5662,22 @@
   "publicado": "2026-11-06T16:21:23+00:00",
   "coletado_em": "2026-11-07T13:55:40.742747+00:00",
   "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3279020-0-64425800-1793982093-Ugreen-Revodok-5-in-1-USB-C-Hub.jpg?quality=50&strip=all",
+  "score": 0.0,
+  "cobertura": []
+ },
+ {
+  "id": "fb5d046343f9",
+  "titulo": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+  "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+  "resumo": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
+  "fonte": "STAT News",
+  "peso_fonte": 0.85,
+  "categorias": [
+   "medicina"
+  ],
+  "publicado": "2026-11-07T14:35:00+00:00",
+  "coletado_em": "2026-11-08T07:14:12.529220+00:00",
+  "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_387040854-1024x576.jpeg",
   "score": 0.0,
   "cobertura": []
  },
