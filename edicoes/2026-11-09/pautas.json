@@ -1,0 +1,342 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "1d5f5f3fb2ec",
+      "titulo": "A 24-hour fast triggers a surprising repair response in the gut",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+      "resumo": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-08T11:06:30+00:00",
+      "coletado_em": "2026-11-08T15:58:49.066995+00:00",
+      "imagem_feed": null,
+      "score": 5.909,
+      "cobertura": []
+    },
+    "texto_fonte": "A 24-hour fast triggers a surprising repair response in the gut\n- Date:\n- November 8, 2026\n- Source:\n- University of Texas M. D. Anderson Cancer Center\n- Summary:\n- Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.\n- Share:\nA 24-hour fast may help prepare the intestines to recover from radiation damage, but scientists have discovered that a particular gut bacterium plays a crucial role in making this possible. New preclinical research from The University of Texas MD Anderson Cancer Center reveals how fasting and beneficial microbes work together to activate the body's natural tissue repair mechanisms.\nThe findings could eventually lead to new ways to protect healthy tissue during cancer treatment. By improving the intestine's ability to recover from radiation exposure, researchers hope to reduce serious side effects and potentially make radiation therapy safer and more effective.\nPublished in the Proceedings of the National Academy of Sciences, the study was co-led by Helen Piwnica-Worms, Ph.D., professor of Experimental Radiation Oncology, and Kunal Rai, Ph.D., professor of Genomic Medicine.\n\"Fasting helps prepare intestinal cells to respond more quickly and effectively after injury, almost like training the cells with an emergency preparedness plan,\" Piwnica-Worms said. \"This study helps explain how that plan is organized and identifies a key bacterium involved in coordinating the response.\"\nWhy Radiation Therapy Can Damage the Intestines\nRadiation therapy is widely used to treat cancers in the abdomen, including pancreatic, colorectal, and gynecologic cancers. Although radiation can destroy cancer cells, it can also harm nearby healthy tissue. The small intestine is particularly vulnerable because its delicate lining is highly sensitive to radiation exposure.\nWhen this protective lining becomes damaged, patients may experience nausea, diarrhea, and infections. Severe injuries can cause life-threatening complications. These risks can also restrict the amount of radiation doctors can safely administer, potentially limiting treatment options.\nPrevious preclinical research from the Piwnica-Worms Laboratory showed that fasting before radiation exposure helped the intestines recover afterward. However, researchers had not fully determined why going without food produced this protective effect.\nThe latest study provides an important piece of that puzzle by identifying a specific gut bacterium and explaining how it helps intestinal cells prepare for injury.\nHow a 24-Hour Fast Activates Gut Repair\nResearchers found that 24 hours of fasting increased the abundance of a beneficial bacterium called Akkermansia muciniphila, also known as AKK, in the small intestine. This microbe produces a substance called propionate, which helps trigger changes inside intestinal cells that make them better prepared to regenerate following radiation damage.\nPropionate works alongside other metabolic changes caused by fasting to modify proteins known as histones. These proteins serve as structures around which DNA is packaged inside cells. Small chemical markers added to histones can influence which genes become active without changing the underlying DNA sequence.\nThese modifications make portions of DNA more accessible, allowing cells to activate genes involved in tissue regeneration. During fasting, a population of intestinal cells carrying these repair programs becomes more abundant.\nIn effect, fasting helps prepare these cells with the biological instructions they will need if an injury occurs. When the intestines are subsequently exposed to radiation, the prepared cells can expand and help rebuild the damaged intestinal lining.\nOne Gut Bacterium Proves Essential for Recovery\nTo determine how important AKK was to this process, the researchers selectively removed the bacterium. Without it, fasting no longer produced the same regenerative benefits.\nEven more revealing, the protective response returned only when the bacterium was restored in combination with fasting. This demonstrated that neither component alone was sufficient to reproduce the full effect observed in the study.\nThe results suggest that fasting does more than temporarily change the gut's metabolism. Together with AKK, it alters the activity of intestinal cells before radiation exposure, placing them in a state that supports more efficient recovery after damage occurs.\nBy uncovering this connection between nutrition, gut bacteria, and cellular regeneration, the researchers have identified a potential new way to strengthen the body's response to tissue injury. The discovery could be especially valuable for protecting healthy organs during cancer treatment.\nCould Gut Bacteria Make Cancer Treatment Safer?\nAlthough the results are promising, the research remains preclinical. Additional studies will be needed to determine whether the same protective mechanism operates in humans and whether it can safely improve outcomes for patients receiving radiation therapy.\nOne possibility is that the newly discovered pathway could be used to help other healthy tissues recover from cancer treatment. Researchers are particularly interested in tissues with rapidly dividing cells, including bone marrow, which can also suffer treatment-related damage.\nIf further investigations support the findings, clinical trials could eventually explore whether activating this repair mechanism benefits patients undergoing abdominal radiation therapy.\nImportantly, the discovery may also provide ways to achieve these effects without requiring patients to fast. Treatments involving beneficial bacteria or the molecules they produce could potentially stimulate similar repair processes while avoiding the practical difficulties of food restriction during cancer care.\n\"Fasting is not always practical for cancer patients, and this work supports several other potential ways to enhance recovery after treatment,\" Rai said. \"Whether through dietary interventions, targeted microbes or their metabolites, the goal is to help repair healthy tissue more effectively while patients receive the cancer therapies they need.\"\nThe research was funded by the National Cancer Institute (NCI) within the National Institutes of Health (NIH) and the Cancer Prevention and Research Institute of Texas (CPRIT).\nStory Source:\nMaterials provided by University of Texas M. D. Anderson Cancer Center. Note: Content may be edited for style and length.\nJournal Reference:\n- Praveen Barrodia, Ajay Kumar Saw, Sabrina L. Jeter-Jones, Chia-Chi Chang, Jiansu Shao, Emre Arslan, Anand K. Singh, Suresh Satpati, Robert R. Jenq, Kunal Rai, Helen Piwnica-Worms. Fasting primes small intestinal regeneration after damage via a microbiomeâmetaboliteâchromatin axis. Proceedings of the National Academy of Sciences, 2026; 123 (26) DOI: 10.1073/pnas.2529215123\nCite This Page:",
+    "autor_fonte": null,
+    "site_fonte": "ScienceDaily",
+    "imagem_url": "https://www.sciencedaily.com/images/1920/rnascope-image-of-small-intestinal-crypts.webp",
+    "imagem_arquivo": "imagens/medicina-a-24-hour-fast-triggers-a-surprising-rep.jpg",
+    "imagem_credito": "ScienceDaily",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "1844e5108b91",
+      "titulo": "Nas montanhas da Amazônia: expedição científica à serra do Aracá",
+      "url": "https://revistapesquisa.fapesp.br/nas-montanhas-da-amazo%cc%82nia-expedicao-cientifica-a-serra-do-araca/?utm_source=rss&utm_medium=rss&utm_campaign=nas-montanhas-da-amazo%25cc%2582nia-expedicao-cientifica-a-serra-do-araca",
+      "resumo": "Expedição científica explora terras altas da Amazônia e revela fauna e flora inéditas",
+      "fonte": "Revista Pesquisa FAPESP",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-08T13:12:27+00:00",
+      "coletado_em": "2026-11-08T15:58:49.069168+00:00",
+      "imagem_feed": null,
+      "score": 4.404,
+      "cobertura": []
+    },
+    "texto_fonte": "Ao longo de 19 dias contínuos de amostragem em campo, uma equipe de 16 pesquisadores se dividiu em um sistema de rodízio entre duas bases situadas em altitudes distintas: uma no platô principal do maciço, a 1.260 m de altitude, onde foi instalado o acampamento principal da expedição; e outra em uma elevação desgarrada e erodida, batizada de Aracazinho, situada a 850 m de altitude, onde se ergueu um acampamento secundário. O transporte até os locais foi feito por meio de um helicóptero Black Hawk do Exército, a partir de uma base operacional em Barcelos (AM), no rio Negro, a 220 km dali.\nA expedição contou com a participação de 17 militares em campo para dar suporte aos cientistas nos deslocamentos, na abertura de trilhas (picadas), na fixação de armadilhas de coleta, no preparo das refeições e no atendimento médico. A montagem dos acampamentos e o transporte de materiais até o topo da serra exigiram o manejo pelo Exército de mais de cinco toneladas de carga, como barracas e camas de campanha, sem contar comida e água.\nRepublicar",
+    "autor_fonte": null,
+    "site_fonte": "PesquisaFapesp",
+    "imagem_url": "https://revistapesquisa.fapesp.br/wp-content/thumbs/8866a1b44c92fadb8729b9a10f3f7541f029774a_1200-630.jpg",
+    "imagem_arquivo": "imagens/biologia-nas-montanhas-da-amazonia-expedicao-cien.jpg",
+    "imagem_credito": "PesquisaFapesp",
+    "imagem_licenca": "Agência FAPESP — reprodução permitida com crédito (conferir condições)",
+    "imagem_pagina": "https://revistapesquisa.fapesp.br/nas-montanhas-da-amazo%cc%82nia-expedicao-cientifica-a-serra-do-araca/?utm_source=rss&utm_medium=rss&utm_campaign=nas-montanhas-da-amazo%25cc%2582nia-expedicao-cientifica-a-serra-do-araca",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": []
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "6c46f2aa7914",
+      "titulo": "Antipersonnel mines have returned in Ukraine and now threaten the world",
+      "url": "https://www.newscientist.com/article/2597901-antipersonnel-mines-have-returned-in-ukraine-and-now-threaten-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "3D printing, microcontrollers and drones have enabled the resurgence of antipersonnel mines in the Russia-Ukraine war, making mines deadlier and more accessible",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-08T10:00:00+00:00",
+      "coletado_em": "2026-11-08T15:58:49.104567+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319659570.jpg",
+      "score": 4.766,
+      "cobertura": []
+    },
+    "texto_fonte": "Antipersonnel (AP) mines seemed to be on the way out in 1997, when 122 countries signed the Ottawa Treaty to ban them. But in 2026, such mines are making a comeback.\n“These things are both cheap to produce and offer a level of sophistication that actors couldn’t hope to reproduce for a hundred times the price only a few years ago,” says Seán Moorhouse, an explosive ordnance disposal consultant.\nAP mines come in two forms. Blast mines, weighing 100 grams or less, are typically scattered by aircraft. Activated by pressure, blast mines are designed to maim. Larger fragmentation mines, laid by combat engineers, have tripwires and spray lethal fragments in all directions.\nAdvertisement\nMoorhouse notes that three technologies have enabled the resurgence of AP mines in Ukraine: 3D printing, microcontrollers and drone delivery.\n3D printing enables any frontline unit to produce its own mines. Different shapes, sizes and colours proliferate, making mines harder to spot. Some, like the curved, green Caterpillar, blend in with vegetation. Urban mines, meanwhile, may look like pieces of brick or concrete.\nFragmentation mines can be triggered by microcontrollers connected to sensors rather than tripwires. In Ukraine, the most common type, nicknamed Jonik (“little soldier”), is magnetic and sensitive enough to be set off by a rifle carried nearby. Doppler microwave sensors detect movement; others sense body heat or vibration. A new variety is triggered by the approach of any Bluetooth device.\nDrone delivery of both blast and fragmentation types has been transformational. Drones slip far behind the lines to place mines precisely on tracks and paths, or around trenches, giving a greater chance of finding a victim than random scattering. Human rights organisations and a UN commission have reported that Russian forces are using drones to drop AP mines to target civilians in the city of Kherson.\nThe combination of these technologies makes mines both deadlier and more accessible. “The triad of drone delivery, 3D printing and microcontrollers will proliferate worldwide,” predicts Moorhouse.\nNetworks of soldiers and volunteer groups produce mines in garage workshops in Ukraine and Russia. The technology is easy to replicate.\n“These simple devices can be rapidly produced by any group with access to explosives, enabling a significant expansion of mine warfare,” says Roy Gardiner at the non-profit group Defense Tech for Ukraine.\nAP mines present a threat to civilians for decades after a conflict. When the Ottawa Treaty was signed, this lasting danger outweighed any military value. The calculus seems to have changed. Ukraine suspended its implementation of the treaty, and others have also changed their minds.\n“Now we see five countries pulling out of the Ottawa Treaty [Poland, Finland, Latvia, Lithuania and Estonia], which suggests that mines have some utility,” says Moorhouse.\nHe says demining agencies need to act urgently to adapt to the challenges of new AP mines and update their training and awareness programmes. Technology may mitigate the problem, with AI-enabled drones beginning to play a role in mine detection and disposal. But Moorhouse warns the risk from AP mines is growing rather than shrinking, and many states and non-state actors are likely to adopt these cheap, accessible and effective weapons, despite the human cost.",
+    "autor_fonte": "David Hambling",
+    "site_fonte": "New Scientist",
+    "imagem_url": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319659570.jpg",
+    "imagem_arquivo": "imagens/robotica-antipersonnel-mines-have-returned-in-ukr.jpg",
+    "imagem_credito": "New Scientist",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.newscientist.com/article/2597901-antipersonnel-mines-have-returned-in-ukraine-and-now-threaten-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "43b783eb9b8b",
+      "titulo": "Entire's Git Forge Rethinks Git Collaboration for Coding Agents",
+      "url": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Entire is a Git forge designed specifically for collaboration between human developers and AI coding agents. Its premise is that traditional software development infrastructure, particularly the pull request (PR) model, is not well suited to an environment where AI agents generate, review, and iterate on code at high speed. By Sergio De Simone",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-08T11:00:00+00:00",
+      "coletado_em": "2026-11-08T15:58:49.070018+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/entire-git-forge-coding-agents/en/headerimage/entire-git-forge-agents-1794134163813.jpeg",
+      "score": 5.2,
+      "cobertura": []
+    },
+    "texto_fonte": "Entire is a Git forge designed specifically for collaboration between human developers and AI coding agents. Its premise is that traditional software development infrastructure, particularly the pull request (PR) model, is not well suited to an environment where AI agents generate, review, and iterate on code at high speed.\nAs Thomas Dohmke, former GitHub CEO and currently CEO of Entire, explains, GitHub and GitLab transformed human-to-human collaboration by centering it around asynchronous code reviews and version control. A multi-agent forge, by contrast, centers around the asynchronous orchestration, versioning, and auditing of AI agents working alongside humans.\nBuilt on top of a fully distributed architecture that enables pushes up to 89 times faster than GitHub, Entire's core component is trails, which addresses the challenges AI coding agents pose to the traditional PR-based development model:\nThe pull request [timeline] has become an audit log that only the agent reads. It does not provide the information for the developer to decide whether they can merge with confidence.\nTrails bring the most relevant information to the top of the page in the form of eval scores that are updated on every push. These scores help developers assess whether a PR has reached a stable state or requires another iteration of agent-driven coding and review:\nOnly when the confidence is high, risk is low, and all findings are cleared, the merge should happen.\nA trail can be initiated from a bug report, a feature request, or manually, and can span multiple repositories. Whenever new code is pushed, a review agent running in a cloud sandbox evaluates the changes and returns a score and a rationale based on code quality, security, slop, and whether human code review is required. For example, if the slop score is orange, developers can ask their coding agent to improve the code and push a new change, thus triggering a new iteration.\nThe last 5 runs and the current run are shown for each eval. We believe this is crucial as one-shot loops are often missing a critical issue. Repeating the loops and stabilizing the scores is crucial for the success of agentic coding.\nEvaluation agents can be configured through Entire's interface or repository-level JSON configuration.\nReview agents can suggest fixes or improvements, which remain visible in the trail while it is open. All review findings must be either resolved or closed before a merge is allowed. Developers can also configure repository-level Gates to define the conditions required for approval.\nAnother foundational concept introduced by Entire is continuous memory, which preserves all accumulated knowledge in the repository so that agents can reuse it across sessions rather than starting from scratch. Continuous memory is implemented by two open-source tools, entire-graph, which builds a precomputed map of the Git repository including ranked code searches, definition and callers, types and routes, and more; and entire-brain, which creates a persistent memory layer by combining the codebase map with previous agent sessions and information recorded in Git history.\nThis allows agents to always have the right context at the right time, aka the \"why\" behind the \"what changed.\"\nAs a final note on Entire, it also supports integrations with CI platforms like Buildkite and Depot.\nCommenting on the announcement on Hacker News, user conartist6 expressed the view that engineers have delegated writing code to agents because of programming languages and tools that leave much to be desired. Haimantika, currently at Entire, points out that the problem has never been languages or tools, rather\nit' s that the reasoning gets thrown away between the person and the artifact. Commit messages were always bad, docs always rotted, “why is this here” was always answered by whoever remembered. Agents just made that acute, because now there's no one who remembers. That's the bit we're trying to fix. If a better language fixes it too, honestly I'd take that.\nEntire is only one of several new players in the source code management arena, which also include Zed DeltaDB, Anthropic Scion, East River Source Control, Cursor Origin, Radicle, and others.",
+    "autor_fonte": "Sergio De Simone",
+    "site_fonte": "InfoQ",
+    "imagem_url": "https://res.infoq.com/news/2026/11/entire-git-forge-coding-agents/en/headerimage/entire-git-forge-agents-1794134163813.jpeg",
+    "imagem_arquivo": "imagens/software-entire-s-git-forge-rethinks-git-collabor.jpg",
+    "imagem_credito": "InfoQ",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "b6f0207e5bb9",
+      "titulo": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+      "url": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+      "resumo": "CPU-Z data reveals PC memory capacity is dropping for the first time ever. Driven by skyrocketing AI DRAM prices, 64GB RAM adoption plummeted 18% YoY.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-08T12:40:00+00:00",
+      "coletado_em": "2026-11-08T15:58:49.071100+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vp5VEBetgZmgodQQoxWEvY-1920-80.jpg",
+      "score": 5.852,
+      "cobertura": []
+    },
+    "texto_fonte": "The latest CPU-Z hardware survey data shows 32GB and 64GB memory configurations down 2.5% and 18% year on year, respectively. The driving factor is no mystery: High-capacity memory has become a luxury in modern PC builds. The AI rush is still gobbling up the global DRAM supply, so prices for the best RAM options across DDR4 and DDR5 have gone through the roof.\nIf you are not familiar with CPU-Z, it is a free program that gives you a detailed breakdown of the hardware inside your system. It only tracks systems where it is actually installed and running, so it does not report monthly retail sales figures. Do not take the data as sales figures in any sense. They represent CPU-Z's active user base.\n32GB and 16GB are common configurations that have grown over the years. According to the gathered data, 32GB configurations lead CPU-Z's user base with a 37.2% share, with 16GB configurations close behind at 33%. Not a surprise, really, since applications and games have grown more memory-intensive. 16GB has been the baseline for a long time now, and 32GB is now the sweet spot for many people, even gamers.\nOn the flip side, 8GB configurations have been steadily declining. They make up only 11% of the surveyed systems. 8GB systems are rare nowadays. You may still find them in legacy systems, basic office machines, or extremely budget-limited builds where performance takes a backseat. Meanwhile, higher-end configurations, including 64GB and 24GB, are still in the minority at 7.3% and 2.3%, respectively.\nFor the first time, the CPU-Z developer recorded a noticeable decline in higher-capacity configurations. Specifically, 32GB configurations fell 2.5% year over year, while 64GB options dropped a significant 18%. This is likely due to the steep rise in memory prices, which has forced consumers to reconsider the cost-benefit of larger capacities.\nAs the price per gigabyte goes up, buyers are opting for more affordable capacities. Lower-capacity memory kits have seen a somewhat revival. The 16GB configuration, often considered the minimum, has rebounded by 12.9%. Similarly, 8GB configurations, which were previously in sharp decline, grew 5.5%.\nInterestingly, 24GB configurations also increased by 19.7% and have become a compromise for consumers who need more than 16GB of memory but do not want to spend a lot of money on a premium 32GB memory kit.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nHow much money are you willing to spend during the Black Friday sales?\nThe current distribution between DDR4 and DDR5 memory types reveals that DDR4 remains the dominant memory standard at 54.5%. In contrast, DDR5, despite being the latest memory technology, is still in its early adoption phase at 32.9%. DDR4 has been the de facto standard for almost a decade now, so it will take time for DDR5 to overtake it.\nNonetheless, the noticeable 6% growth in DDR4 and 2.9% decline in DDR5 suggests budget-conscious consumers are sticking with platforms that still embrace DDR4, such as AMD's Zen 3-powered Ryzen 5000 (codenamed Vermeer) or Intel's 13th Generation Raptor Lake processors. CPU-Z's processor charts show a significant increase in Zen 3 chips, including the Ryzen 7 5700X, Ryzen 5 5600, and Ryzen 5 5500, with figures up to 42.8%, 36.1%, and 67.3%, respectively.\nAlthough both DDR4 and DDR5 have increased in price, the former remains slightly more affordable. Companies are supporting the effort too, such as AMD rereleasing the Ryzen 7 5800X3D, vendors restarting DDR4 and DDR4 motherboard production, or Intel preparing rewarmed Raptor Lake Next chips for 2027.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nZhiye Liu is a news editor, memory reviewer, and SSD tester at Tom’s Hardware. Although he loves everything that’s hardware, he has a soft spot for CPUs, GPUs, and RAM.\n- \nI paid around $275 for the 64gb currently inhabiting my system, and I thought that was expensive. Today, the price would be over $1000, and that's even if it could be found at all. So yeah, there's no way I could build today what I built 2 years ago.Reply",
+    "autor_fonte": "Zhiye Liu",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/vp5VEBetgZmgodQQoxWEvY-2560-80.jpg",
+    "imagem_arquivo": "imagens/hardware-pc-s-with-64gb-of-ram-plummet-18-as-memo.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "2154305b5600",
+      "titulo": "'Stupendously large' primordial black holes ruled out as a dark matter source",
+      "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+      "resumo": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars collapse. Some theories suggest that \"stupendously large\" primordial black holes could account for a significant share of the universe's elusive dark matter.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-08T14:40:01+00:00",
+      "coletado_em": "2026-11-08T15:58:49.072273+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/stupendously-large-pri.jpg",
+      "score": 5.904,
+      "cobertura": []
+    },
+    "texto_fonte": "'Stupendously large' primordial black holes ruled out as a dark matter source\nSam Jarman\nAuthor\nPrimordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars collapse. Some theories suggest that \"stupendously large\" primordial black holes could account for a significant share of the universe's elusive dark matter.\nYet new calculations by Nicholas Leister at the Mainz Institute for Theoretical Physics and colleagues show that even if these immense objects do exist, they can't make up any meaningful fraction of dark matter.\nTheir research has been published in Physical Review Letters.\nStupendously large\nDark matter is thought to make up around 85% of the matter in the universe—but despite decades of intensive searching, physicists still don't know what it is really made from. One proposed candidate is a population of primordial black holes, each weighing at least 100 billion times as much as the sun. Named \"stupendously large\" black holes, these bodies would be even more massive than the largest supermassive black holes found at the centers of galaxies including the Milky Way.\nIn their study, Leister's team tested this possibility from a new angle. If primordial black holes were scattered randomly through space, some regions would contain more of them than others, purely by chance.\nAt first, each surplus of black holes would be balanced by a slight shortage of radiation. But as the universe expanded and its radiation thinned out, this balance would break down. The result would be patchy variations in the amount of dark matter relative to radiation.\nSearching the Big Bang's afterglow\nAfter calculating the resulting strengths of these variations, the team compared their predictions with limits set by measurements of the cosmic microwave background (CMB). This subtle microwave signal is the faint afterglow of the Big Bang and can tell us how galaxies are spread across the largest scales of the universe. The fewer and heavier the black holes, the more uneven their random scattering becomes.\nThrough their analysis, Leister's team found that a substantial population of stupendously large primordial black holes would leave the balance between dark matter and radiation far too uneven.\nThis patchiness would imprint distinctive patterns on the CMB, but these patterns clearly aren't present in the signal. The result also challenges suggestions that primordial black holes helped seed the surprisingly massive early galaxies spotted by the James Webb Space Telescope.\nTightening dark matter theories\nThe study doesn't rule out primordial black holes in this mass range altogether. Since the team assumed that all the black holes share the same mass, populations with a wide range of masses still need to be explored before their calculations can be fully conclusive. All the same, their results place tight new limits on how much these objects could contribute to dark matter.\nWith upcoming CMB experiments, including LiteBIRD and the Simons Observatory, the researchers predict that these limits would be tightened even further. They also hope to extend their analysis to even heavier black holes by searching for the gravitational waves that would have been released as they formed. Together, these efforts could ultimately help to narrow the search for the true identity of dark matter.\nWritten for you by our author Sam Jarman, edited by Lisa Lock, and fact-checked and reviewed by Robert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.\nPublication details\nChristopher Gerlach et al., Closing the Mass Window for Stupendously Large Black Holes, Physical Review Letters (2026). DOI: 10.1103/qlf9-thf4. On arXiv: arxiv.org/abs/2508.08238\n© 2026 Science X Network",
+    "autor_fonte": "Sam Jarman",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/stupendously-large-pri.jpg",
+    "imagem_arquivo": "imagens/astrofisica-stupendously-large-primordial-black-hole.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "03bd83a3aef1",
+      "titulo": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
+      "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
+      "resumo": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-07T18:00:02+00:00",
+      "coletado_em": "2026-11-08T15:58:49.073428+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-paths-one-flux-tra.jpg",
+      "score": 4.112,
+      "cobertura": []
+    },
+    "texto_fonte": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory\nTejasri Gururaj\nAuthor\nIn a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.\nGauge theories describe how matter interacts through fields called gauge fields, which carry the electromagnetic, weak and strong forces. They form the basis of the Standard Model of particle physics. In lattice gauge theories, space is modeled as a grid with matter at the vertices and gauge fields on the links connecting them.\nQuantum simulators offer a way to study these theories. However, most quantum simulations of the simplest version—the Z₂ lattice gauge theory—have been limited to one spatial dimension, where effects linked to magnetic flux cannot appear.\nTo address this issue, researchers from the University of Oxford have now used trapped ions to simulate a Z₂ lattice gauge theory in a quasi-two-dimensional loop. The trapped ions perform a dual role. Their electronic states encode the gauge fields and their vibrations encode the matter.\nPhys.org spoke to the first author of the study, Sebastian Saner, about the work.\n\"We first started brainstorming how to use a hybrid trapped-ion quantum system to simulate lattice gauge theories back in 2022. Later, during the project, we had the idea of using entangled qubits to encode the gauge-field flux. Coming up with this idea was one of the particularly exciting moments for us during the project,\" said Saner.\nUsing two trapped ions, the team built a closed loop to see how a flux stored in entangled qubits would affect a moving particle.\nMatter, fields and flux\n\"Gauge theories describe how particles interact with each other through gauge fields. A simple example is two electrons repelling each other through the electromagnetic field,\" explained Saner. \"In this picture, the electrons are described by a matter field, while the electromagnetic field is the gauge field that mediates their interaction.\"\nSome of the most puzzling materials in physics, such as quantum spin liquids and high-temperature superconductors, are also described by gauge theories. Here, the gauge fields emerge from the collective behavior of electrons. Physicists often describe these materials using Z₂ lattice gauge theories, the simplest type, in which the field at each link of a grid can take only two values.\nIn these theories, the two values represent whether a field line is present or absent. Z₂ lattice gauge theories are also relevant to topological quantum error correction.\nSimulating these theories on classical computers is challenging. According to Saner, computational complexity generally grows exponentially with system size, particularly in higher dimensions. The physics also becomes richer with each additional dimension.\nFor instance, in two spatial dimensions, links can form closed loops, which can be pierced by a magnetic flux. This gives rise to quasiparticles called visons, which have no counterpart in one dimension, where no loops can form.\nEarlier experiments have studied Z₂ lattice gauge theories using cold atoms and superconducting qubits, but mostly in one-dimensional setups. Some experiments have simulated two-dimensional geometries, but removed the matter fields to simplify the model. As a result, these approaches could not capture how moving charges and gauge fields influence each other, including how flux affects particle motion.\nIons doing double duty\n\"Trapped ions naturally have both qubits and vibrational modes. Typically, the ions' vibrations are cooled close to their ground state and used to mediate interactions between qubits, but are not directly used to store quantum information,\" explained Saner.\nThe team used both. Two electronic energy levels of a strontium ion served as a qubit, representing the gauge field on a link. The ion's vibrations, behaving like harmonic oscillators, served as the matter sites.\nAn oscillator can hold any number of units of vibrational energy, or phonons. In this simulation, a single phonon represents a matter particle.\n\"The advantage is that matter fields can be stored much more efficiently in the vibrational modes,\" said Saner.\nThe geometry of the lattice is determined by which qubits and vibrational modes are coupled together, not by the ions' physical positions. Even with the ions in a single line, these connections can create loops and other geometries that the arrangement alone can't. Dimensions created this way are known as synthetic dimensions.\nTo make the phonon hop, the researchers used a laser to apply two forces, each acting on a different vibrational mode and each pushing in a direction set by the qubit's state.\nIn simple terms, each time the particle hops between sites, the field line on the link switches between present and absent. This ties the particle's motion to the gauge field, as the theory requires.\nThe team first used a single ion to simulate one link connecting two matter sites. Adding a second ion introduced a second qubit, and so a second link between the same two sites. The result was a loop, which gave the particle two paths to choose from.\nTo encode the flux through this loop, the researchers entangled the two link qubits. One entangled state corresponded to zero flux, while the other corresponded to a nonzero flux, representing a vison.\n\"The hardest part was combining all the different ingredients and translating the theoretical ideas into a feasible experiment,\" Saner noted. \"This involved getting the hybrid interactions to the required level of control, as well as developing the necessary state preparation and readout techniques.\"\nFrozen by flux\nWith a single ion, the researchers observed the particle tunnel back and forth between the two sites, with the field line switching between present and absent. This is consistent with the Z₂ version of Gauss's law. As the particle moved away from the starting site, a field line stretched out behind it and disappeared when the particle returned to the site.\nIn these first runs, the researchers set the energy cost of creating a field line to zero. When the team then added the cost, the oscillations became faster but smaller, and the particle no longer moved fully from one site to the other. Because every move required creating a field line, moving became energetically costly. According to the researchers, this tunneling suppression is a precursor to confinement in larger systems, the effect that binds quarks together inside hadrons.\nThe researchers then moved to the two-ion setup to study the Aharonov–Bohm effect.\n\"The Aharonov–Bohm effect is a phenomenon where, in its original conception, an electron travels along two different paths around a region containing magnetic flux. Even though the magnetic field is zero along the paths of the electron, the interference pattern shifts depending on the magnetic flux,\" explained Saner.\nIn the loop, the two links play the role of the two paths. As the particle crosses a link, it picks up a phase set by that link's gauge field. In the Z₂ case, this phase is either a plus or minus sign. The flux through the loop determines whether the two paths give the particle the same sign or opposite signs.\nWhen the two qubits were entangled in the zero-flux state, both paths gave the particle the same sign, so they added up. The particle tunneled freely between the sites, twice as fast as on a single link. When the two qubits were entangled in the state representing a vison, the two paths gave the particle opposite signs and canceled out. The particle stayed where it started, with its tunneling completely suppressed.\nThe researchers also confirmed that the flux remained constant throughout, except for a slow decay caused by decoherence. Numerical simulations that included known sources of noise, such as heating of the vibrational modes, agreed with the experimental data.\nNext steps\nAccording to the researchers, the results show that the hybrid approach can capture how flux affects the motion of matter, something earlier simulations without matter fields could not.\nSaner sees two main directions for future work. The first is simulating larger lattices.\n\"Currently, we are simulating a single loop, which in lattice terms is still a very small system and can easily be solved using classical computers. However, even a relatively modest increase in lattice size could make the problem very difficult, if not impossible in practice, to solve using classical computers,\" said Saner.\nThe second is extending the approach beyond Z₂. \"Future work could extend this to Zₙ gauge theories, where the gauge field can take a larger number of values, or even toward the limit N → ∞,\" Saner explained.\nWritten for you by our author Tejasri Gururaj, edited by Gaby Clark, and fact-checked and reviewed by Robert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.\nPublication details\nAharonov–Bohm interference in a Z₂ lattice gauge theory on a hybrid qubit–oscillator quantum computer, Nature Physics (2026). DOI: 10.1038/s41567-026-03400-6.\nKey concepts\nQuantum algorithms & computationQuantum correlations, foundations & formalismQuantum field theoryQuasiparticles & collective excitations\n© 2026 Science X Network",
+    "autor_fonte": "Tejasri Gururaj",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/two-paths-one-flux-tra.jpg",
+    "imagem_arquivo": "imagens/quantica-two-paths-one-flux-trapped-ions-simulate.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "6d032d33a205",
+      "titulo": "Por que algumas portas USB são pretas?",
+      "url": "https://canaltech.com.br/hardware/por-que-algumas-portas-usb-sao-pretas/",
+      "resumo": "Ao olhar para a lateral de um notebook ou para o painel traseiro de uma placa-mãe, é muito comum notar uma variedade de cores nos conectores USB . Enquanto algumas entradas trazem o azul, vermelho ou verde, os conectores pretos continuam presentes na imensa maioria dos computadores modernos. Longe de ser apenas uma escolha estética, a tonalidade é usada pela indústria para sinalizar as capacidades de velocidade e entrega de energia daquele barramento . Convenções estabelecem que a cor preta em conectores USB do Tipo-A geralmente indica o padrão USB 2.0 . Lançado no ano 2000 e comercialmente apelidado de \"Hi-Speed USB\", esse protocolo suporta taxas de transferência de dados de até 480 Mbps . No entanto, como essas paletas de cores não são um padrão oficial obrigatório estabelecido pelo USB-IF, cada fabricante tem liberdade para adotar o padrão visual que desejar, algo que exige atenção dos usuários. O que conectar em uma porta USB preta? Por entregarem velocidades mais modestas em comparação aos padrões modernos, as portas USB pretas baseadas na especificação 2.0 são ideais para periféricos simples do dia a dia. Acessórios como teclados, mouses, receptores sem fio, controles de vide",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-08T13:30:00+00:00",
+      "coletado_em": "2026-11-08T15:58:49.081099+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/V3iUkC_MsSqbtembNT8Y3F7f6EA=/0x0/filters:format(webp):quality(85)/e8bde1dc-c2a4-4d47-929d-3bacba69829c.jpeg",
+      "score": 5.833,
+      "cobertura": []
+    },
+    "texto_fonte": "Por que algumas portas USB são pretas?\nPor Raphael Giannotti • Editado por Jones Oliveira |\nAo olhar para a lateral de um notebook ou para o painel traseiro de uma placa-mãe, é muito comum notar uma variedade de cores nos conectores USB. Enquanto algumas entradas trazem o azul, vermelho ou verde, os conectores pretos continuam presentes na imensa maioria dos computadores modernos. Longe de ser apenas uma escolha estética, a tonalidade é usada pela indústria para sinalizar as capacidades de velocidade e entrega de energia daquele barramento.\nConvenções estabelecem que a cor preta em conectores USB do Tipo-A geralmente indica o padrão USB 2.0. Lançado no ano 2000 e comercialmente apelidado de \"Hi-Speed USB\", esse protocolo suporta taxas de transferência de dados de até 480 Mbps. No entanto, como essas paletas de cores não são um padrão oficial obrigatório estabelecido pelo USB-IF, cada fabricante tem liberdade para adotar o padrão visual que desejar, algo que exige atenção dos usuários.\nO que conectar em uma porta USB preta?\nPor entregarem velocidades mais modestas em comparação aos padrões modernos, as portas USB pretas baseadas na especificação 2.0 são ideais para periféricos simples do dia a dia. Acessórios como teclados, mouses, receptores sem fio, controles de videogame e fones de ouvido demandam baixa largura de banda e não se beneficiam de velocidades maiores. Conectar esses dispositivos em portas pretas evita desperdiçar conectores mais avançados que poderiam ser aproveitados por equipamentos exigentes.\nPor outro lado, utilizar um conector USB 2.0 preto para conectar um SSD externo ou um HD portátil pode resultar em gargalos significativos de desempenho. Transferir arquivos grandes de vídeo ou realizar backups completos em uma porta preta costuma ser um processo extremamente lento devido ao limite de 480 Mbps. Além disso, certas portas USB 2.0 possuem limitações de fornecimento elétrico, podendo falhar na alimentação de dispositivos de maior consumo energético.\nDiferença entre portas USB pretas e brancas\nNa hierarquia visual dos conectores USB, existe uma diferença importante de desempenho entre os conectores brancos e pretos. As portas USB brancas representam a primeira geração da tecnologia (USB 1.x), cuja velocidade máxima de transferência atinge apenas 12 Mbps. Em comparação direta, as portas pretas com especificação USB 2.0 chegam a ser até 40 vezes mais rápidas que suas antecessoras de cor branca.\nEmbora a indústria costume respeitar essa diferenciação de desempenho entre branco e preto, nem todas as marcas seguem a regra. É comum encontrar fabricantes de placas-mãe que utilizam plástico preto em todas as portas do painel traseiro por razões puramente estéticas, mesmo que as conexões internamente utilizem padrões mais rápidos, como o USB 3.0 ou 3.2. O mesmo vale para o conector USB-C, que raramente adota cores diferentes.\nComo confirmar a velocidade real\nPara não depender apenas da cor do conector e garantir que seus dispositivos entreguem o desempenho máximo, a recomendação principal é consultar o manual do produto ou verificar a inscrição ao lado da porta (quando há). Símbolos como \"SS\" (SuperSpeed) acompanhados de números indicam alta velocidade, independentemente do conector ser preto ou colorido. Na ausência de marcações físicas no gabinete ou na placa-mãe, checar as especificações técnicas no site do fabricante é o caminho mais seguro.\nEm resumo, embora a porta USB preta tenha se consolidado no mercado como o símbolo clássico das conexões USB 2.0, ela continua sendo uma peça fundamental nos PCs. Saber identificar e destinar os periféricos corretos para cada tipo de entrada garante não apenas uma organização mais inteligente do seu setup, mas também evita perda de tempo com transferências lentas ao extrair o potencial máximo do seu hardware.",
+    "autor_fonte": "Raphael Giannotti",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/55FiDbK6lSsYyZcZ9bM6ouUKWXU=/1200x675/smart/filters:format(webp):quality(85)/21b3d5fe-af51-4b16-9e12-5626e3861aff.jpg",
+    "imagem_arquivo": "imagens/computadores_pessoais-por-que-algumas-portas-usb-sao-pretas.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/hardware/por-que-algumas-portas-usb-sao-pretas/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "28064603d370",
+      "titulo": "8 ferramentas para descobrir se texto, foto ou vídeo foram feitos por IA",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ferramentas-para-descobrir-texto-foto-video-feito-por-ia/",
+      "resumo": "Hoje, já não é fácil identificar um conteúdo gerado por inteligência artificial , seja imagem, vídeo ou texto. As ferramentas de IA, como ChatGPT, Gemini e Claude, conseguem gerar imagens hiperrealistas, com iluminação, textura e movimentos semelhantes à uma produção autêntica. Elas também são capazes de reproduzir o estilo de escrita do autor, dificultando o reconhecimento de um texto produzido por IA. No entanto, existem recursos específicos para identificar esses conteúdos, algumas sendo mais certeiras que outras, mas todas ajudam nesse aspecto. Há recursos para identificar trechos possivelmente escritos por IA, de acordo com o estilo de escrita. Para as imagens, os recursos buscam marcas d'água digitais invisíveis. 8 ferramentas para saber se o conteúdo foi gerado por IA Veja oito plataformas para detecção de conteúdos gerados por inteligência artificial: SynthID Detector Verify OpenAI GPTZero Copyleaks Originality.ai Grammarly AI Detector Solvely.ai Decopy AI Image Detector 1. SynthID Detector O SynthID Detector é uma ferramenta desenvolvida pelo Google DeepMind para verificar a presença de marcas d’água invisíveis em imagens e vídeos gerados por IA. O sistema aceita os format",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-08T13:00:00+00:00",
+      "coletado_em": "2026-11-08T15:58:49.081099+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/j6S0md4xF0orJk9wsNCmtjII1G0=/0x0/filters:format(webp):quality(85)/951ba2b0-05a9-4d99-b31c-2c49bdf170b6.png",
+      "score": 5.784,
+      "cobertura": []
+    },
+    "texto_fonte": "8 ferramentas para descobrir se texto, foto ou vídeo foram feitos por IA\nPor Viviane França • Editado por Jones Oliveira |\nHoje, já não é fácil identificar um conteúdo gerado por inteligência artificial, seja imagem, vídeo ou texto. As ferramentas de IA, como ChatGPT, Gemini e Claude, conseguem gerar imagens hiperrealistas, com iluminação, textura e movimentos semelhantes à uma produção autêntica. Elas também são capazes de reproduzir o estilo de escrita do autor, dificultando o reconhecimento de um texto produzido por IA.\nNo entanto, existem recursos específicos para identificar esses conteúdos, algumas sendo mais certeiras que outras, mas todas ajudam nesse aspecto. Há recursos para identificar trechos possivelmente escritos por IA, de acordo com o estilo de escrita. Para as imagens, os recursos buscam marcas d'água digitais invisíveis.\n8 ferramentas para saber se o conteúdo foi gerado por IA\nVeja oito plataformas para detecção de conteúdos gerados por inteligência artificial:\n- SynthID Detector\n- Verify OpenAI\n- GPTZero\n- Copyleaks\n- Originality.ai\n- Grammarly AI Detector\n- Solvely.ai\n- Decopy AI Image Detector\n1. SynthID Detector\nO SynthID Detector é uma ferramenta desenvolvida pelo Google DeepMind para verificar a presença de marcas d’água invisíveis em imagens e vídeos gerados por IA. O sistema aceita os formatos JPG, PNG, WEBP, MP4, MOV, WAV e MP3 e consegue identificar até produções que passaram por cortes, aplicação de filtros e compressão.\nNo entanto, ela só identifica conteúdo que contém a marca SynthID, como modelos do Google e da OpenAI. Além disso, o SynthID não analisa textos, já que a maioria não contém marcas d’água invisíveis que possam ser identificadas facilmente.\n2. GPTZero\nO GPTZero é uma extensão para o Google Chrome, que funciona em qualquer navegador com Chromium, como Edge e outros. O sistema é focado na detecção de textos produzidos por IA. Apesar de ser focado nos ambientes educacionais e profissionais, qualquer pessoa pode instalar a extensão no navegador.\nO serviço analisa a previsibilidade das palavras e variação na estrutura de frases para identificar se aquele conteúdo foi feito totalmente por IA, parcialmente ou feito por humanos. Como não há marcas d’água invisíveis, como nas imagens, a análise é uma probabilidade, não podendo ser considerada 100% correta sempre.\n3. Copyleaks\nO Copyleaks também é uma plataforma de verificação de textos criados por IA, porém ela também identifica provável plágio na escrita. O serviço analisa conteúdos em mais de 30 idiomas e consegue, inclusive, verificar materiais que passaram por alterações após a geração.\nNa conta gratuita, é possível verificar textos com até 25 mil caracteres. Quando os créditos acabam, é possível acessar créditos adicionais para obter relatórios detalhados.\n4. Verify OpenAI\nO Verify OpenAI é uma programa semelhante do SynthID Detector, porém desenvolvido pela OpenAI. Com ela, é possível identificar imagens e arquivos de áudio que foram criados usando a tecnologia da empresa. A análise inclui a avaliação da presença de metadados o padrão C2PA (Content Credentials) e marcas-d'água digitais.\nMas como falamos, o recurso funciona apenas com conteúdos feitos pelo ChatGPT ou outra ferramenta de IA da OpenAI, sendo bastante restrito para análise de materiais produzidos por IA.\n5. Originality.ai\nO Originality.ai analisa textos para identificar sinais de IA e conta com o Deep Scan, que explica por que determinadas partes foram sinalizadas. Na versão gratuita, é possível fazer até 3 detecções de conteúdos, considerando o limite de 2 mil palavras por verificação.\nA plataforma aceita textos em até 30 idiomas, incluindo o português. Além disso, ela conta com análises de plágio, gramática, legibilidade e fatos.\n6. Grammarly AI Detector\nO Grammarly AI Detector também analisa textos para estimar a quantidade de conteúdo criado por IA e informa por que os trechos foram classificados assim. De acordo com a empresa, o serviço conta com 99% de precisão e ocupa o primeiro lugar no teste independente chamado RAID, que avalia detectores de IA.\nA plataforma tem uma versão gratuita, mas conta com o Grammarly Pro que traz sugestões de reescrita e outros recursos.\n7. Solvely.ai\nAssim como as demais ferramentas, o Solvely.ai é um detector que analisa textos para identificar sinais de conteúdo gerado IA . A aplicação conta com três detectores de IA, que trabalham ao mesmo tempo: ZeroGPT, GPTZero e Turnitin.\nCaso o texto seja identificado como feito por IA, a plataforma também oferece um humanizador de texto, que reescreve o conteúdo para deixá-lo mais natural e humano.\nCom o plano gratuito, dá para analisar conteúdos de até 500 palavras sem cadastro. No caso de textos mais longos, é necessário optar por uma assinatura.\n8. Decopy AI Image Detector\nO Decopy AI Image Detector analisa imagens para identificar se elas foram criadas por inteligência artificial. A ferramenta verifica padrões visuais e inconsistências de pixel comuns em imagens sintéticas, por isso, pode detectar conteúdos de vários chatbots de IA.\nO sistema também tem outros recursos, como detectores de textos, verificações de plágio e ferramentas para resumir imagens.\nSe você gostou do conteúdo, talvez também se interesse por conferir “Deepfakes: como saber se um vídeo de candidato é verdadeiro”.",
+    "autor_fonte": "Viviane França",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/XAOrgsji2e7AefNCBBeIUjBzpms=/1200x675/smart/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
+    "imagem_arquivo": "imagens/inteligencia_artificial-8-ferramentas-para-descobrir-se-texto-fo.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/inteligencia-artificial/ferramentas-para-descobrir-texto-foto-video-feito-por-ia/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "bfb781931450",
+      "titulo": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "resumo": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-08T12:15:31+00:00",
+      "coletado_em": "2026-11-08T15:58:49.105062+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+      "score": 4.963,
+      "cobertura": []
+    },
+    "texto_fonte": "Superconductors carry electricity without resistance, but most only work a few degrees above absolute zero. In the late 1980s, copper-based materials called cuprates were found to superconduct at higher temperatures—reachable with affordable liquid nitrogen. Yet nearly 40 years later, physicists still don’t agree on why.\nIn a recent Science study, a team of physicists led by Milan Allan of Ludwig Maximilian University of Munich and Ingmar Swart of Utrecht University in the Netherlands has found some answers by listening to the faint electrical crackle of current flowing into a cuprate.\nThe missing electrons\nCentral to the mystery of cuprates’ high-temperature superconductivity is a strange state called the pseudogap. “The pseudogap is a phenomenon of missing electrons,” Allan said. Above the temperature at which cuprates become superconducting, some of their electrons seem to vanish—measurements find far fewer of them at the energies where they should be. “Everybody knows that from different probes, you see that there’s these vanishing electrons, but nobody knows why,” Allan said.\nOver the decades, physicists have put forward two main competing explanations. The first hypothesizes that the electrons get stuck in some sort of structure. In this view, electrons freeze into patterns, such as charge density waves, and superconductivity develops separately. The alternative explanation tightly links this phenomenon to superconductivity. “Other people think they’re missing because they form pairs,” Allan said. Pairs of electrons, called Cooper pairs, are what carry current in a superconductor. If, as the material cools, these pairs appear before the material becomes superconducting, they would be a precondition of superconductivity, a waiting room of sorts, where pairs exist but can’t yet move together in lockstep.\nSettling this proved extremely hard. “Lots of different experimental signatures are kind of lumped inside this,” Allan said. Different instruments all see something, but their readings, Allan said, are never conclusive. “It’s always something kind of incoherent, hard to grasp,” he said. What the researchers needed was a way to see pairs directly, and Allan and his colleagues figured it out.",
+    "autor_fonte": "Jacek Krywko",
+    "site_fonte": "Ars Technica",
+    "imagem_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-physicists-listened-to-electrical-noise.jpg",
+    "imagem_credito": "Ars Technica",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]
