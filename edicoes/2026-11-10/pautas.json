@@ -1,0 +1,397 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "8a0bc9b8854d",
+      "titulo": "Drugs like Ozempic may help reverse chronic kidney disease",
+      "url": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
+      "resumo": "Scientists found that semaglutide, Ozempic’s key ingredient, repaired blood vessels, dampened inflammation and improved kidney function in patients.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-09T16:00:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.239442+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_RF_GLP1-kidneydisease_main.jpg?w=800",
+      "score": 6.103,
+      "cobertura": []
+    },
+    "texto_fonte": "Ozempic’s key ingredient fixes faulty filters in the kidney.\nThe well-known weight loss drug repairs and restores blood vessels that power people’s waste disposal systems, researchers report October 1 in Nature Medicine. Those actions mean the ingredient, called semaglutide, can add another notch to its list of health benefits: treating chronic kidney disease.\nIn patients with the condition, semaglutide also increased blood flow and tamped down inflammation, the team found. The study reinforces the GLP-1 drug’s known anti-inflammatory effects, while also suggesting that it may play a direct role in protecting the kidney’s blood vessels, says Susan Quaggin, a nephrologist at Northwestern University Feinberg School of Medicine in Chicago who was not involved in the work.\nChronic kidney disease affects an estimated 674 million people worldwide, with some of the most common causes being diabetes and high blood pressure. As the disease progresses, the kidneys slowly lose their ability to filter out waste from blood and excrete it as urine. This causes other health complications, as well as a sharply increased risk of dying from a heart attack or stroke.\nPatients with diabetic chronic kidney disease who took semaglutide were less likely to wind up in kidney failure, or die from a heart attack or stroke, than those taking a placebo, researchers reported in 2024 in the New England Journal of Medicine. That trial was stopped early, as the drug was so effective at preventing death that doctors no longer considered it ethical to keep giving participants the placebo.\nFor the new study, some of those same researchers then looked at a subset of 106 participants to find out how the drug worked. The team collected kidney tissue samples before and after the participants took semaglutide, and compared them with samples from participants given the placebo. Semaglutide use led to striking visible changes in the tissues, including increased blood flow, reduced scarring and reduced blood vessel stiffness, a measure of vessel health.\nIncreased blood flow is important because it increases filtration, which is the kidneys’ main job, says Peter Nguyen, a nephrologist at Houston Methodist Hospital who was not involved in the study.\nResearchers also looked at levels of a protein, called albumin, in patients’ urine. High levels can be an early sign that the kidneys’ filters aren’t working well. While those levels didn’t change much in those on the placebo, they dropped in patients taking semaglutide ― a sign the filters weren’t quite as leaky any more.\nThe team then looked under the hood for genetic clues to how semaglutide appeared to heal the kidneys. Within the glomerulus, the tiny blood vessels responsible for the kidney’s filtering action, genes relating to metabolic stress were turned off, Katherine Tuttle, a nephrologist at the University of Washington’s Providence Medical Research Center in Spokane, and colleagues found. Within these same cells, inflammatory genes were also turned off, while repair genes were switched on.\nThe researchers also looked at a subset of genes responsible for cells “talking” to each other within the glomerulus. Before semaglutide, the blood vessels and immune cells were “chattering” with each other, sending lots of inflammatory signals, Tuttle says. After semaglutide, the immune cells went quiet, silencing the messages that ramp up harmful inflammation. These changes in gene activity point to a healthier kidney that’s less stressed and inflamed, and that has had repair processes flipped on.\nWith semaglutide treatment, Tuttle says, patients’ damaged kidneys showed clear signs of repair.",
+    "autor_fonte": "Rachel Fairbank",
+    "site_fonte": "Science News Magazine",
+    "imagem_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_RF_GLP1-kidneydisease_main.jpg",
+    "imagem_arquivo": "imagens/medicina-drugs-like-ozempic-may-help-reverse-chro.jpg",
+    "imagem_credito": "Science News Magazine",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "bb5e04f04e8b",
+      "titulo": "Study reveals overcompensation in desert plant-weevil interactions",
+      "url": "https://phys.org/news/2026-11-reveals-overcompensation-weevil-interactions.html",
+      "resumo": "A research team led by professor Zhang Yuanming from the Xinjiang Institute of Ecology and Geography (XIEG) of the Chinese Academy of Sciences has revealed that the outcomes of desert plant-herbivore interactions are strongly context-dependent. The paper is published in the journal Plant, Cell & Environment.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-09T18:20:13+00:00",
+      "coletado_em": "2026-11-09T19:50:04.186269+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-overcomp.jpg",
+      "score": 5.384,
+      "cobertura": []
+    },
+    "texto_fonte": "Study reveals overcompensation in desert plant-weevil interactions\nA research team led by professor Zhang Yuanming from the Xinjiang Institute of Ecology and Geography (XIEG) of the Chinese Academy of Sciences has revealed that the outcomes of desert plant-herbivore interactions are strongly context-dependent. The paper is published in the journal Plant, Cell & Environment.\nPlant-herbivore interactions are typically antagonistic: herbivores damage plant tissues, often reducing plant growth and reproduction. But plants do not always suffer from herbivory. Their responses can range from undercompensation to exact compensation, in which attacked plants eventually recover to levels similar to those of unattacked plants, and on to overcompensation, in which attacked plants show higher growth or reproduction.\nFor desert ephemerals, which have a short growing period and concentrate resource use in the spring moisture pulse, it remains unclear how often these less typical responses occur in the field and what they mean for the plants' ecological performance.\nTo address this question, the researchers conducted a comparative study of naturally infested and uninfested plants of the annual desert ephemeral Strigosella scorpioides and its stem-boring weevil Lixus ochraceus in the Gurbantunggut Desert.\nThe researchers tagged plants before visible weevil oviposition scars appeared, then compared growth and reproductive traits at different developmental stages. They also carried out phytochemical analysis, Y-tube olfactometer assays and seed germination tests to examine how plant-insect interactions affect the plants and insects under low-intensity herbivory.\nAt the first sampling stage after weevil oviposition, no significant differences were detected between naturally infested and uninfested plants in the morphological and biomass traits measured. At later developmental stages, however, differences in growth and reproduction gradually emerged. At peak growth, the total biomass of naturally infested plants was about 2.2 times that of uninfested plants, and their fruit number was about 2.1 times higher.\nThis stage-dependent pattern suggests that, under a low herbivore load (usually only one weevil developing per plant), weevil occupancy can coexist with higher late-stage growth and reproduction of the host plant, consistent with overcompensation.\nChemical changes and insect responses\nThe researchers also found clear differences in the chemical profiles of naturally infested and uninfested plants. Naturally infested plants had lower concentrations of the three glucosinolates detected and a lower relative abundance of benzyl isothiocyanate (BITC) among the volatiles. By contrast, they had higher benzaldehyde content in their tissues and a higher relative abundance of benzaldehyde among the volatiles.\nY-tube olfactometer assays showed that female weevils' orientation responses to the two candidate volatiles depended strongly on their concentrations. When the two odors were compared directly at the same low concentration, responding weevils clearly favored BITC. But as the concentrations increased, females began to avoid both BITC and benzaldehyde. Benzaldehyde produced the strongest repellent effect at high concentrations.\nAccording to the researchers, these results suggest that BITC may be more involved in host recognition and relative attraction, whereas benzaldehyde may act as a repellent at higher concentrations. The combination of lower BITC and higher benzaldehyde in naturally infested plants could potentially alter how later-arriving females recognize and select already occupied plants, thereby reducing the likelihood of repeated oviposition and larval competition.\nIn addition, the two seed lots differed in germination under different temperature conditions, with the lot from naturally infested plants showing higher average germination under some conditions. Overall, the overcompensatory pattern of growth and reproduction occurred together with differences in chemical phenotype and insect behavioral responses.\nThe study indicates that during the brief spring resource pulse, low herbivore load, plant developmental stage and host tolerance strategy may together influence interaction outcomes. It provides new field evidence for herbivory tolerance and overcompensation in desert ephemerals, and deepens understanding of how context shapes plant-herbivore interactions in extreme environments.\nIn future work, the team will use experimentally controlled infestation and multiyear, multisite observations to further test the causality and generality of these associations. They will also extend the research to root resource acquisition and allocation, rhizosphere processes and coordinated above- and belowground responses.\nThe researchers also plan to apply transcriptomic and metabolomic approaches to resolve the physiological and molecular basis of overcompensation and changes in volatile signals, and to further test their effects on host selection, repeated oviposition and the fitness of both plants and weevils.\nMore information\nLan Zhang et al., Evidence for a Potentially Facilitative Interaction Between the Stem‐Boring Weevil Lixus ochraceus and the Desert Ephemeral Strigosella scorpioides, Plant, Cell & Environment (2026). DOI: 10.1111/pce.70909",
+    "autor_fonte": "Chinese Academy",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-reveals-overcomp.jpg",
+    "imagem_arquivo": "imagens/biologia-study-reveals-overcompensation-in-desert.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-reveals-overcompensation-weevil-interactions.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "7a0b73d62a7f",
+      "titulo": "FLEX approach helps robots reason beyond literal commands",
+      "url": "https://techxplore.com/news/2026-11-flex-approach-robots-literal.html",
+      "resumo": "Humans are intuitive by nature. We can sense meaning beyond the literal words that we encounter. Now, a new artificial intelligence–assisted learning platform developed by MIT engineers is enabling robots to read larger meaning into a human's natural language commands.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-09T17:40:01+00:00",
+      "coletado_em": "2026-11-09T19:50:04.189066+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-assisted-learning-p.jpg",
+      "score": 5.815,
+      "cobertura": [
+        "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109"
+      ]
+    },
+    "texto_fonte": "FLEX approach helps robots reason beyond literal commands\nHumans are intuitive by nature. We can sense meaning beyond the literal words that we encounter. Now, a new artificial intelligence–assisted learning platform developed by MIT engineers is enabling robots to read larger meaning into a human's natural language commands.\nIn a study to be presented at the annual Conference on Robot Learning (CoRL 2026), held in Austin, Texas, Nov. 9–12, researchers from MIT and New York University introduce FLEX, a flexible feature-editing pipeline for robot motion planning.\nWith FLEX, humans can interact with a robot by giving it instructions in natural, conversational language. The robot can not only follow the instructions literally but also read into the words to draw larger generalizations that help to improve its motion-planning task.\nThe team demonstrated FLEX in several simulated scenarios, including one in which a robot serves a cup of coffee. In these virtual scenarios, a person interacts with a robotic arm by typing commands in natural language. As the robot moves the coffee cup over a cluttered table, the person might type \"Don't spill on the laptop!\" In response, the robot will reason about why it should avoid the laptop.\nFor this, FLEX incorporates a large language model (LLM)—a type of AI system that is trained on enormous libraries of text, including social media posts, video transcriptions and web content, which the LLM uses to identify larger trends, patterns and generalizations.\n\"LLMs have seen so many texts from the internet,\" says study author Nathan Dennler, a postdoc in MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL). \"People might have written about, 'Oh, my phone dropped in the water and now it doesn't work,' or 'I spilled coffee on my computer and now it doesn't work.' So LLMs pick up on the idea that liquids plus devices leads to things not working.\"\nThrough the LLM, the robot reasons that it should also avoid bumping into all electronics. In its updated path, the robot adjusts to avoid both the laptop and a nearby phone, without the person having to explicitly spell this out.\n\"The idea is that there is some higher-level intention behind the words that you say,\" Dennler says. \"People naturally get this. But you have to carefully explain that to a robot, which takes time and effort. FLEX gives you an interface of communication with a robot to say, 'When people say this, they mean that.'\"\nThe study was led by Andreea Bobu, assistant professor of aeronautics and astronautics at MIT. Co-authors are Audrey Lee SM '26 and Ilia Sucholutsky of New York University. The paper is available on the arXiv preprint server.\nBeyond what we say\nAt MIT, Bobu heads up the Collaborative Learning and Autonomy Research (CLEAR) Lab, where her group develops autonomous agents that learn to work for, with and around people. She is focused on developing assistive and household robots that can carry out physical tasks, and reason and adapt in real time, in response to a person's natural, conversational commands.\n\"Robots use math to do their trajectory planning. But we can't expect a consumer to learn to do this math in order to tell a robot what to do,\" says Dennler, who is a member of the CLEAR Lab. \"Instead of having to get people to learn how to use a robot in a specific way, the goal is to interact with the robot through natural language.\"\nThere is a large effort in the robotics community to incorporate natural language into robotic learning pipelines. Various strategies include using language to clarify a task's goal, redirecting a robot's trajectory and updating its understanding of what is a safe path to take. These existing methods use natural language to tell the robot how to physically perform a task. But a robot could potentially learn much more from what we tell it.\nBobu and her colleagues are expanding what robots can learn from natural language commands. In their new study, they focused on enabling a robot to interpret a person's underlying, unspecified preference from limited natural language commands.\nAbsorbing common sense\nThe team's new robot learning platform, FLEX, is a three-step process that helps a robot read more into a natural language command, beyond what it is explicitly told to do.\nThe first step, \"Add,\" instructs a robot to add a feature to its list of things in its environment that matter for the task at hand, based on a user's natural language command. For instance, as a robot is moving a bowling ball from one location to another, a person might interject with \"Don't drop it on my mug!\" The robot would then add the mug to a list of things to avoid in its path. This first step is how previous methods have worked. Every time a person makes a correction, the robot adds to its features list and updates its trajectory to avoid those features.\n\"The problem happens when your feature list becomes super long, and some features are no longer relevant because your environment may have changed,\" says Dennler, who notes that this approach can grow tiresome if a person has to specify every specific feature to avoid.\nThe second step, \"Generalize,\" is the new solution that FLEX provides. This step incorporates an LLM—in this case, GPT-4o—that considers the mug, along with any other features that the person has so far specified to avoid. The LLM automatically searches through its vast cache of data for patterns and connections among these features, to ultimately make a generalization that it should avoid objects that are fragile, even when the person has not explicitly said so.\n\"LLMs have seen so many texts from the internet, from all sorts of people and places,\" Dennler says. \"Because they've trained so much on those things, some of that common sense gets absorbed into the LLM.\"\nIn the third step, \"Mask,\" the robot's standard computer vision system assesses its environment to determine what objects are no longer present and then deletes those objects from its features list. This entire three-step process takes about five seconds.\nThe team tested FLEX in simulations of a robot arm carrying out three different tasks: serving a cup of coffee, moving a candle and carrying a bowling ball. In all three scenarios, volunteers interacted with the virtual robot by typing natural language commands, such as \"Don't spill on my laptop,\" \"Stay away from the stack of paper\" and \"Don't drop on the mug.\"\nWith FLEX, the robot followed all three commands literally and also reasoned at a higher level to not spill on electronics, stay away from flammable objects and not drop its cargo on fragile things.\n\"Everyone's homes are different, and everyone cares about different things, so no robot comes out of the box knowing what matters to you,\" Bobu says. \"What excites me about FLEX is that it can pick that up from a sentence or two instead of asking you to spell out every rule—and that's the difference between a robot people put up with and one they actually want in their home.\"\nPublication details\nAudrey Lee et al., Flexible Language-Guided Representation Editing for Adaptive Robot Behavior, arXiv (2026). DOI: 10.48550/arxiv.2610.28893\nThis story is republished courtesy of MIT News (web.mit.edu/newsoffice/), a popular site that covers news about MIT research, innovation and teaching.",
+    "autor_fonte": "Jennifer Chu",
+    "site_fonte": "Tech Xplore",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/ai-assisted-learning-p.jpg",
+    "imagem_arquivo": "imagens/robotica-flex-approach-helps-robots-reason-beyond.jpg",
+    "imagem_credito": "Tech Xplore",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techxplore.com/news/2026-11-flex-approach-robots-literal.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "4ade5241ebc4",
+      "titulo": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security",
+      "url": "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Cloudflare is developing a public certificate authority for Merkle Tree Certificates (MTCs) to reduce the bandwidth overhead of post-quantum cryptography. A Chrome experiment served billions of MTCs to 50% of Chrome Beta 146 for selected domains, reporting 9% faster median performance. Wider deployment depends on browser support, transparency, and production-scale validation. By Leela Kumili",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-09T14:35:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.189410+00:00",
+      "imagem_feed": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+      "score": 5.177,
+      "cobertura": []
+    },
+    "texto_fonte": "Cloudflare has tested Merkle Tree Certificates (MTCs) as an alternative to traditional certificate chains, reporting 9% faster median performance in a Chrome experiment. The approach batches certificate data into an append-only Merkle tree, letting clients verify certificates with compact inclusion proofs instead of transmitting a full certificate chain. Cloudflare attributed most of the measured improvement to eliminating intermediate certificates; the experiment used classical signatures rather than post-quantum signatures.\nBuilding on the approach covered in InfoQ’s earlier report, Cloudflare describes how landmark-based verification and independent transparency log cosigners support certificate issuance and verification at scale.\nThe experiment served billions of MTCs to 50% of Chrome Beta 146 for selected domains on Cloudflare’s free plan. Cloudflare wound down the experiment in August 2026 and is developing a public certificate authority (CA) that supports MTC issuance, targeting inclusion in Chrome’s quantum-resistant Root Store in early 2027, subject to evaluation.\nCloudflare CEO Matthew Prince, in a press release, said:\nUpgrading the web's security before quantum computers can break it is one of the biggest coordination challenges in the history of the Internet.\nPost-quantum cryptography creates scaling challenges for the Web Public Key Infrastructure (Web PKI). According to Cloudflare, post-quantum signatures can be approximately 40 times larger than classical signatures, increasing bandwidth and storage requirements.\nMTCs combine certificate issuance with transparency logging. Instead of signing certificates individually, a certificate authority (CA) records certificate data in an append-only Merkle tree and signs a checkpoint. Clients verify certificate inclusion using cryptographic proofs.\nCloudflare uses the Automated Certificate Management Environment (ACME) protocol to validate domain ownership. An independent mirroring cosigner verifies and stores updated tree states, helping detect inconsistent log views and preserve issuance records if the original log becomes unavailable.\nMTC issuance and independent log mirroring (Source: Cloudflare Blog Post)\nLandmark relative certificates further reduce TLS handshake data. Cloudflare distributes authenticated landmarks to clients, which verify certificate inclusion using cryptographic proofs. Servers must still prove possession of their private keys. In the common case, the handshake transmits one public key, one signature, and an inclusion proof smaller than 1 KB.\nLandmark relative certificate verification using pre-distributed tree landmarks. (Source: Cloudflare Blog Post)\nClients may be newly installed, offline, or missing the relevant landmark update. Servers must therefore retain a standalone MTC certificate as a fallback. Cloudflare identifies independent monitoring at production volume, a diverse ecosystem of CAs and cosigners, and browser support as remaining requirements for broader deployment.\nAlicja Tendaj, Tier 2 Technical Support Specialist at SSL.com, raised questions about revocation and incident handling in response to Cloudflare’s announcement on LinkedIn:\nWith short validity and trust anchored in a tree head, a lot of the old OCSP and CRL playbook becomes a question of how quickly you can stop including a certificate\nCloudflare’s planned public CA will require evaluation before its MTC issuance can be trusted through Chrome’s quantum-resistant Root Store. The company says production deployment will help determine whether the approach can maintain transparency, interoperability, and availability at Internet scale.",
+    "autor_fonte": "Leela Kumili",
+    "site_fonte": "InfoQ",
+    "imagem_url": "https://res.infoq.com/news/2026/11/cloudflare-merkle-certificates/en/card_header_image/generatedCard-1792889369262.jpg",
+    "imagem_arquivo": "imagens/software-cloudflare-develops-public-certificate-a.jpg",
+    "imagem_credito": "InfoQ",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "303caac7e48e",
+      "titulo": "Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+      "resumo": "Jensen Huang has been summoned to appear before Congress's Select Committee on the CCP.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-09T15:57:13+00:00",
+      "coletado_em": "2026-11-09T19:50:04.191013+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/t75kmqCZia9XGcHiAKqZ5T-1920-80.jpg",
+      "score": 7.798,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+        "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html",
+        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+      ]
+    },
+    "texto_fonte": "Less than 24 hours after he admitted to having an affair with Alice Huang, a Megaspeed executive suspected of being a Chinese spy, Nvidia CEO Jensen Huang has been asked to appear before the House Select Committee on China. The Committee issued a letter today, signed by Rep. Brian J. Mast (R-FL), Rep. John Moolenaar (R-MI), and Rep. Eric A. Crawford (R-AK). An X post featuring the letter states that the letter \"expresses concerns over NVIDIA’s security protocols against foreign adversary espionage and Mr. Huang’s reported ties to a Chinese intelligence-linked executive of a Singapore-based data center company.\"\n\"Dear Mr. Huang: We are writing to request that you appear before our committees for a joint, closed-door briefing on NVIDIA’s security protocols against foreign adversary espionage and your interactions with a publicly reported People’s Republic of China (PRC) intelligence asset: Megaspeed executive Alice Huang,\" the letter begins.\nIt goes on to say that recent reports surrounding the affair \"raise significant national security concerns regarding the PRC’s access to sensitive U.S. technology and information. \"The issue of PRC infiltration and access to cutting-edge U.S. technology is core to the investigative work of our three committees this Congress. It is vital that Congress determines the extent to which U.S. national security has been placed at risk.\"\nThe closed-door hearing is set for November 18, 2026; whether Huang will attend remains unclear. The letter also allows for Huang to set an alternative date during while the 119th Congress is still in session.\nOn Sunday, Huang admitted to having an affair with Alice Huang, a former executive of Singapore-based Megaspeed. It is alleged that the latter was recruited by China's Ministry of State Security to gather information and help China get its hands on Nvidia's AI GPUs, the most powerful of which are banned from export to the country by Washington. Megaspeed has been accused of smuggling $2 billion of AI chips into China.\nIn a statement to Nvidia employees, Jensen Huang said, \"To my colleagues at NVIDIA, I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\" As Huang's statement noted, Nvidia has opened an independent investigation into its CEO's conduct regarding the national security concerns the story has laid bare. The board of directors stated, \"While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information.\"\nNvidia shares dropped by around 5% in early trading, but have since recovered some of their losses. The company has rocketed to a market capitalization of over $4 trillion as the global hardware leader of the AI boom. Its powerful GPUs are in high demand for both the training of AI models and inference.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nStephen is Tom's Hardware's News Editor with almost a decade of industry experience covering technology, having worked at TechRadar, iMore, and even Apple over the years. He has covered the world of consumer tech from nearly every angle, including supply chain rumors, patents, and litigation, and more. When he's not at work, he loves reading about history and playing video games.\n- ...for a joint, closed-door briefing on NVIDIA’s security protocols against foreign adversary espionage and your interactions with a publicly reported People’s Republic of China (PRC) intelligence asset: Megaspeed executive Alice Huang,\" the letter begins. \"so....give us stock in company and we sweep this under bridge else we will be \"forced\" to take certain actions' - certain group of ppl Reply\n- \nNo wonder China has the 5090 so readily in stock everywhere! What are the American and European spies doing?!?!?! Clearly they're falling behind their Chinese competitors!!! Get in Jensen's bedroom and get us some GPUs!!!1!!1!Reply",
+    "autor_fonte": "Stephen Warwick",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/t75kmqCZia9XGcHiAKqZ5T-2000-80.jpg",
+    "imagem_arquivo": "imagens/hardware-nvidia-ceo-jensen-huang-summoned-to-cong.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "f30fcf3a6051",
+      "titulo": "NASA just launched a $1 million Moon Base Student Challenge to award cash prizes to students that solve lunar base problems",
+      "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
+      "resumo": "NASA has officially launched the Moon Base Student Challenge, asking students to help build humanity's future on the moon. And there is $1 million in prizes for the best ideas.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-09T17:00:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.193217+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/q7vCqn7LxFksz2NwjJGvRm-1920-80.jpg",
+      "score": 5.098,
+      "cobertura": [
+        "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+      ]
+    },
+    "texto_fonte": "CAPE CANAVERAL, Fla. — NASA has officially launched the Moon Base Student Challenge, asking students to help build humanity's future on the moon. And there's $1 million in prizes up for grabs for the winners.\nTo build and sustain a base on the moon, NASA will have to solve a myriad of problems. And they're looking to the next generation for help, the space agency's chief Jared Isaacman said Sunday (Nov. 8).\n\"We are inviting students from across the country to help solve some of the problems that stand between humanity and a permanent presence on another world,\" Isaacman said. \"We're putting 1 million in prizes together to support the best ideas and recognize the teams behind them.\"\nIsaacman made this announcement wearing his blue flight suit from the rocket garden at NASA's Kennedy Space Center Visitor Center amidst the agency's MAX POWER air show event. Just the day before, he flew fighter jets in that suit and even jumped out of a plane, skydiving into the event. Soon after this announcement, he was flying another fighter plane above the crowd.\nThe audience for this announcement was filled with students of all ages. Some young children wearing costume spacesuits squeezed as close as they could to the front of the room while teenagers considering their futures listened intently. It was clear that Isaacman's presence and words were landing with this group.\nBut what moon base challenges does NASA want to see these students tackle? In short, all of them.\n\"The moon base will allow us to conduct groundbreaking science, test new technologies, and prepare again for where we inevitably go next, which is the red planet,\" he said. \"But before any of that can happen, we have an awful lot of problems that need to be solved.\"\n\"We need ways to generate power through the long lunar night. We need to protect our astronauts from that incredibly harsh and dangerous and demanding environment on the surface. We need to move people and equipment around on the surface and support human life three days away from Earth,\" Isaacman said, illustrating just a few of the big issues that present with the concept of a moon base.\nHow will it work?\nThis challenge is open to high school and post-secondary students based in the U.S. For participating students, they will form teams that will work on an idea from one of six different technical topics related to creating and running a moon base. These six topics include power systems, habitats, communications, mobility, life support and astronaut safety.\nThis will be what Isaacman described as a \"multi-phase competition that mirrors how ideas are developed actually in the aerospace industry.\"\n\"Teams will first submit concepts, then they're going to refine them, and finalists will have the opportunity to present their solutions directly to NASA leaders and stakeholders,\" he further explained.\n\"The prize money is great for sure, but the the real opportunity is to work on problems NASA is actively trying to solve right now, so students don't need to wait to graduation to contribute to that effort,\" Isaacman added.\nA long road ahead\nRight now, NASA has a long road ahead of them before a moon base is actually built. In mid-2027, the agency is planning to launch its Artemis III mission which will see a crew of four astronauts practice rendezvous maneuvers with two different lunar landers. If all goes to plan, this will be followed by Artemis IV landing humans on the moon's surface for the first time since the final Apollo mission in 1972.\nThe agency is making these big steps forward to not just a crewed return to the moon, but a sustained, long-term return to the moon. However, knowing that a fully-fledged moon base is still firmly in the future, they are banking on the ingenuity, creativity and passion of\nIf you're a student or know a student interested in participating in this challenge, you can find more information on NASA's website here. Interested students can register until Jan. 25, 2027.\nChelsea Gohd served as a Senior Writer for Space.com from 2018 to 2022 before returning in 2026, covering everything from climate change to planetary science and human spaceflight in both articles and on-camera in videos. With a M.S. in Biology, Chelsea has written and worked for institutions including NASA JPL, the American Museum of Natural History, Scientific American, Discover Magazine Blog, Astronomy Magazine, and Live Science. When not writing, editing or filming something space-y, Gohd is writing music and performing as Foxanne, even launching a song to space in 2021 with Inspiration4. You can follow her online @chelsea.gohd and @foxanne.music\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+    "autor_fonte": "Chelsea Gohd",
+    "site_fonte": "Space",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/q7vCqn7LxFksz2NwjJGvRm-1920-80.jpg",
+    "imagem_arquivo": "imagens/astrofisica-nasa-just-launched-a-1-million-moon-base.jpg",
+    "imagem_credito": "Space",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "740defba9d4f",
+      "titulo": "hzero Emerges From Stealth to Coordinate Quantum and Classical Computing",
+      "url": "https://thequantuminsider.com/2026/11/09/hzero-emerges-from-stealth-to-coordinate-quantum-and-classical-computing/",
+      "resumo": "Insider Brief hzero has emerged from stealth with software designed to help quantum computers and classical computing systems work together, backed by investors including LEA Ventures, FORWARD.one and Leo Capital. The Munich, Germany-based company is developing a software layer that coordinates computing jobs and resources across quantum processors and high-performance computing infrastructure. Its approach is […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-09T15:36:19+00:00",
+      "coletado_em": "2026-11-09T19:50:04.193714+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-10.22.29-AM.png",
+      "score": 5.267,
+      "cobertura": []
+    },
+    "texto_fonte": "Insider Brief\n- hzero has emerged from stealth to develop software that coordinates workloads and resources across quantum and classical computing systems.\n- The software is designed to integrate with existing computing tools and adjust resource use based on application requirements, operating conditions and operator priorities.\n- Led by co-founders Bruno G. Taketani and Martin Rüfenacht, the company is backed by LEA Ventures, FORWARD.one and Leo Capital.\nhzero has emerged from stealth with software designed to help quantum computers and classical computing systems work together, backed by investors including LEA Ventures, FORWARD.one and Leo Capital.\nThe Munich, Germany-based company is developing a software layer that coordinates computing jobs and resources across quantum processors and high-performance computing infrastructure. Its approach is designed to work with the scheduling tools, application software and quantum computing systems that operators already use.\nCo-founders Bruno G. Taketani, chief executive, and Martin Rüfenacht, chief technology officer, lead the company. The team brings experience in quantum hardware, control systems, high-performance computing and systems software, according to the company’s website.\nhzero’s software addresses the operation of hybrid computing systems, which combine quantum and classical resources. The company says connecting those resources is one step while coordinating how they are used is another.\nIts software combines information about an application’s requirements, the current condition of computing resources and the priorities set by infrastructure operators. It uses that information to coordinate work across the system and adjust resource use as operating conditions change.\nOperators can set different priorities, such as completing more computing jobs, improving execution quality or using available resources more efficiently, according to the company. The software is intended to support those choices across infrastructure containing different types of quantum processors and classical computers.\nFor quantum computer manufacturers, hzero is offering integration, joint development and technology partnerships. The company says its software can help manufacturers fit their systems into customers’ existing computing environments and coordinate their use with other resources.\nFor high-performance computing centers and infrastructure operators, hzero is seeking technical evaluations, infrastructure integration work and pilot deployments. Its stated aim is to help those organizations add quantum processors and other computing resources while continuing to use their existing software.\nThe company’s team also includes founding engineer Rakhim Davletkaliyev, principal software engineer Muhammad Nufail Farooqi and senior data scientist Juan Venegas.\nAccording to hzero, the team’s previous work includes developing and deploying software that connects quantum processors with high-performance computing infrastructure. Team members have also contributed to an interface designed to connect quantum devices from different vendors and built software that gives advanced users greater access to hardware capabilities.\nLEA Ventures lists hzero as a pre-seed portfolio company. In a LinkedIn announcement, the investor said the backing marked its first commitment in quantum technology and named FORWARD.one and Leo Capital as fellow investors.\nhzero’s company site also states that it has support from the European Union. The materials describe opportunities for manufacturers and infrastructure operators to explore integration, technical evaluations and joint development with the team.\nMatt Swayne\nGet the latest research, company news, and market intelligence every week.",
+    "autor_fonte": "Matt Swayne",
+    "site_fonte": "The Quantum Insider",
+    "imagem_url": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-10.22.29-AM.png",
+    "imagem_arquivo": "imagens/quantica-hzero-emerges-from-stealth-to-coordinate.jpg",
+    "imagem_credito": "The Quantum Insider",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://thequantuminsider.com/2026/11/09/hzero-emerges-from-stealth-to-coordinate-quantum-and-classical-computing/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "db92d38fc027",
+      "titulo": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
+      "resumo": "Nvidia's board of directors is investigating a report about Jensen Huang's alleged affair with a client, claims it is still confident in Jensen and leadership team.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-08T21:27:29+00:00",
+      "coletado_em": "2026-11-09T19:50:04.191013+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-1920-80.jpg",
+      "score": 6.249,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+        "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html",
+        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+      ]
+    },
+    "texto_fonte": "Nvidia CEO Jensen Huang has admitted to having an affair with a woman who is allegedly a Chinese spy. His apology came in a letter to Nvidia staff, which you can read in full below. Nvidia's board of directors released a statement late on Sunday to address the bombshell report that U.S. intelligence believes Huang had an affair with a Chinese spy. The board says it has no reason to believe sensitive corporate information or U.S. national security was compromised, but the company intends to examine all available information to determine what happened.\nThe BoD claims it is fully confident in Jensen Huang and his leadership team. Huang, who has been married to his wife, Lori Huang, for 41 years, says he fully supports the investigation.\n\"A committee of independent directors, assisted by outside independent counsel, will oversee the investigation,\" a statement by Nvidia's BoD reads. \"The Board prioritizes U.S. national and economic security, which is paramount to the interests of Nvidia and its shareholders. […] Jensen fully supports the review and has committed to cooperating with it.\"\nOn Friday, the first reporting emerged claiming U.S. intelligence agencies believe Huang had a romantic relationship with Alice Huang, also known as Huang Le, a former executive at Singapore-based Megaspeed who was allegedly recruited by China's Ministry of State Security (MSS) to gather information and help Chinese companies obtain restricted AI GPUs. The company has been on the radar for smuggling restricted hardware to China since at least 2025: Megaspeed has been accused of smuggling $2 billion worth of AI chips into China via its subsidiary Speedmatrix.\nNvidia has strenuously rejected suggestions of improper dealings, saying that its CEO regularly meets thousands of customers and that these interactions do not involve sensitive corporate information or national security secrets. Chinese officials have also dismissed the espionage allegations as unfounded.\nThe suspected Chinese intelligence operation targeting Jensen has not been independently confirmed as a fact. The relationship is alleged to follow the typical \"honeypot\" strategy, wherein foreign intelligence agencies use operatives to ensnare targets into romantic relationships to steal information and influence their decision-making.\nHuang has been an outspoken critic of those opposed to limiting the supply of AI GPUs to China. Huang recently expressed his opinion that the label 'China hawk' is not a badge of honor Americans should wear; it is really 'a badge of shame.' Huang also said it \"doesn’t have to be all us or them. It could be us and them,\" drawing fire from others in the administration and other tech companies, including the CEO of Palantir.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\n\"I owe my family and all of you an apology,\" Huang wrote. \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my family has given me love and support. They deserve my honesty and loyalty. Instead, I let them down and damaged the life we built together. I take full responsibility for what I did and the hurt I caused, and I accept the criticism that comes with it. To my wife and family: I love you. I know an apology cannot undo what I have done. I hope our family will heal and that, over time, I can earn back your trust.\"\nIn June 2018, Intel chief executive Brian Krzanich resigned after an internal investigation, assisted by external legal counsel, confirmed that he had engaged in a consensual romantic relationship with an Intel employee, which violated the company's non-fraternization policy applicable to all managers. Krzanich, who had led Intel since 2013, also stepped down from the company's board, while then-chief financial officer Robert Swan took over as interim CEO. For now, it remains unclear if Jensen will meet a similar fate and lose control of the company he founded.\nJensen's full letter to staff reads as follows:\nTo my colleagues at NVIDIA, I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. \nThroughout my life, my family has given me love and support. They deserve my honesty and loyalty. Instead, I let them down and damaged the life we built together. I take full responsibility for what I did and the hurt I caused, and I accept the criticism that comes with it.\nTo my wife and family: I love you. I know an apology cannot undo what I have done. I hope our family will heal and that, over time, I can earn back your trust.\nTo my colleagues at NVIDIA, including those I have worked alongside for decades, and to our board, partners, and shareholders around the world: you deserve better from me. Leading NVIDIA is the privilege of my life. My responsibility is to serve you and be worthy of your trust. I have fallen short of that responsibility. I am fully committed to NVIDIA and will work to earn back your confidence.\nRegarding the national security concerns raised in news reports, NVIDIA’s Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully. I love our country and our company. I am committed to protecting NVIDIA and supporting America’s national security. I am proud and grateful to be an American.\nMy family bears no responsibility for my choices. I do. Please give them privacy.\nJensen\nThe whole statement from Nvidia's Board of Directors reads as follows:\nThe Nvidia Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort.\nA committee of independent directors, assisted by outside independent counsel, will oversee the investigation.\nThe Board prioritizes U.S. national and economic security, which is paramount to the interests of NVIDIA and its shareholders.\nWhile the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information.\nJensen fully supports the review and has committed to cooperating with it.\nThe Board has confidence in Jensen and his leadership team and will provide further updates as appropriate.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nAnton Shilov is a contributing writer at Tom’s Hardware. Over the past couple of decades, he has covered everything from CPUs and GPUs to supercomputers and from modern process technologies and latest fab tools to high-tech industry trends.\n- \nnot gonna lie his wife should divorce and take half of everything.\nShe can find better than the piece of crap that is Jensen.\nCheating shows lack of fulfillment and/or trust.\nA relationship w/o trust isnt a relationship.\nYou can't trust a cheater to not cheat again. (as again you trusted em not to in first place and now they have no trustworthiness)\nDivorce him, take enoguh $ to live happily with kids and be done with him. Reply\n- \nWell, now that it's out in the open, at least they can no longer use it as blackmail.\nAlso...\nThe article said:In June 2018, Intel chief executive Brian Krzanich resigned after an internal investigation, assisted by external legal counsel, confirmed that he had engaged in a consensual romantic relationship with an Intel employee, which violated the company's non-fraternization policy applicable to all managers. Krzanich, who had led Intel since 2013, also stepped down from the company's board, while then-chief financial officer Robert Swan took over as interim CEO. For now, it remains unclear if Jensen will meet a similar fate and lose control of the company he founded.That's an apples-and-oranges comparison. Krzanich broke internal company rules, whereas Jensen's affair was (so far as it's been established) a private matter. If it turns out to have influenced business decisions and especially if it resulted in any laws being broken, that is what I think would trigger Jensen's demise as CEO. These facts have yet to be established, so far as we know.\nAlso, Jensen was a co-founder, along with two others. This is right on the wikipedia page, in the handy sidebar they put near the top:\nFounders: Jensen Huang \nChris Malachowsky\nCurtis Priem\nI would point out that it's quite common for a founding CEO to step down, after a company goes public. And it's certainly quite rare for any CEO of such a big company to stay on as long as Jensen did. That said, we can easily find other high-profile examples of both, such as Amazon and Facebook. Even Microsoft, although Gates did step aside after less time than Jensen. Reply\n- \nhotaru251 said:not gonna lie his wife should divorce and take half of everything.I don't know anything about their marriage or private life, but \"open marriage\" is an option that some pursue when they're either too lazy to get divorced or just don't want to give up all the benefits of staying married. It's even possible they'd agreed to this before-hand or were already separated (although the letter certainly gives the impression neither was the case, or at least they're still keeping that a secret).\nAlso, history is littered with examples of powerful people having marriages for political reasons, yet the husband and often the wife would pursue romantic relationships on the side and often quite publicly.\nhotaru251 said:Divorce him, take enoguh $ to live happily with kids and be done with him.You think his wife of 41 years still has kids living at home? Reply",
+    "autor_fonte": "Anton Shilov",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg",
+    "imagem_arquivo": "imagens/computadores_pessoais-nvidia-ceo-jensen-huang-admits-to-having.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "20ff528b5495",
+      "titulo": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "resumo": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-09T18:09:52+00:00",
+      "coletado_em": "2026-11-09T19:50:04.202778+00:00",
+      "imagem_feed": null,
+      "score": 6.566,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
+      ]
+    },
+    "texto_fonte": "Nvidia CEO Jensen Huang has never been quiet about his belief that the U.S. should continue selling AI chips to China, rather than shutting the country off from the technology. The revelation that he had an affair with an alleged Chinese spy threatens to complicate that argument.\nThe Financial Times reported Friday on the relationship with Alice Huang, a former executive at Megaspeed, an Nvidia customer. Jensen Huang admitted to the affair and apologized in a memo to the company on Sunday. U.S. intelligence officials believe Alice Huang was recruited by Chinese intelligence to gather information about the CEO and influence the company’s efforts to loosen chip export restrictions.\nNvidia’s independent directors, working with outside legal counsel, are investigating the matter, and Congress is already demanding answers.\nThe controversy comes at a sensitive moment for Nvidia. Historically, China has been a big market for the company. It has shrunk in recent years due to strict U.S. export controls and an aggressive push by Beijing for domestic alternatives. In the three months ended July 26, Nvidia recorded $7.9 billion in revenue from customers headquartered in China, roughly 8% of total revenue.\nHuang has repeatedly lobbied the U.S. government to expand access to China, and some of his persuasion tactics have been successful. Huang met repeatedly with President Donald Trump and administration officials last year; afterward, the government reversed restrictions on Nvidia’s H20 chips and allowed exports of its more powerful H200 processors.\nOn numerous occasions, Huang has publicly lamented export controls, calling them a “failure” at a conference last year and saying in May that it was “not wise” for the U.S. and China to create two distinct AI ecosystems. He has also warned that shutting Nvidia out of China’s compute market would enable the country to develop its own AI chips to challenge Nvidia internationally.\nChina is already moving in that direction. Reuters reported last week that about 600,000 H200 chips are being held in Hong Kong, awaiting shipment to mainland China. Beijing is pushing AI companies to prioritize buying chips from Chinese companies instead.\nThe idea that Huang needed any encouragement in the form of an attractive woman to push for greater access to China seems like a stretch, particularly because his lobbying efforts predate their reported meeting at an Nvidia event in early 2024. At the end of the day, Huang is a salesman trying to dominate one of the world’s biggest AI markets.\nStill, the allegations involving Alice Huang open new scrutiny of the company’s business relationships and could taint any assurances Nvidia offers that it can prevent sensitive technology from reaching unauthorized customers.\nOnce made, rumors of questionable allegiances can be hard to shake. Secretary of State Marco Rubio reportedly warned officials close to Trump earlier this year about Huang’s relationship with an alleged spy. Even if Nvidia’s investigation finds that Huang didn’t share secrets with his paramour, the question is whether he’ll be able to convince Washington that Nvidia can still responsibly do business with China.\nNvidia did not respond to a request for comment.",
+    "autor_fonte": "Rebecca Bellan",
+    "site_fonte": "TechCrunch",
+    "imagem_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+    "imagem_arquivo": "imagens/inteligencia_artificial-jensen-huangs-affair-with-alleged-chines.jpg",
+    "imagem_credito": "TechCrunch",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "57a4933022ba",
+      "titulo": "Engineers develop the world's first megawatt ultra-wide bandgap semiconductor module",
+      "url": "https://techxplore.com/news/2026-11-world-megawatt-ultra-wide-bandgap.html",
+      "resumo": "Researchers from the Department of Electrical and Computer Engineering under the Faculty of Engineering at the University of Hong Kong (HKU) and the Center for Advanced Semiconductors and Integrated Circuits (CASIC) have developed an ultra-wide bandgap (UWBG) semiconductor gallium oxide (Ga₂O₃) power module capable of handling megawatt-level power conversion, opening new possibilities for compact and highly efficient power systems in areas such as power grids, medical equipment and fusion energy.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-09T18:20:09+00:00",
+      "coletado_em": "2026-11-09T19:50:04.203628+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineers-develop-the.jpg",
+      "score": 4.884,
+      "cobertura": []
+    },
+    "texto_fonte": "Engineers develop the world's first megawatt ultra-wide bandgap semiconductor module\nResearchers from the Department of Electrical and Computer Engineering under the Faculty of Engineering at the University of Hong Kong (HKU) and the Center for Advanced Semiconductors and Integrated Circuits (CASIC) have developed an ultra-wide bandgap (UWBG) semiconductor gallium oxide (Ga₂O₃) power module capable of handling megawatt-level power conversion, opening new possibilities for compact and highly efficient power systems in areas such as power grids, medical equipment and fusion energy.\nLed by professor Yuhao Zhang, Dr. Hehe Gong and Ph.D. student Xin Yang, in collaboration with professor Guo-Quan Lu from Virginia Tech and professor Jiandong Ye from Nanjing University, the team demonstrated a multi-chip Ga₂O₃ power module capable of repeatedly switching 1,000 volts and 1,000 amperes. This technology, now published in Nature Communications, represents more than a two-order-of-magnitude increase in the power capability previously demonstrated using UWBG semiconductor technologies.\nHigh voltage, difficult heat management\nPower semiconductor devices act as the \"switches\" that control and convert electricity in modern systems, from AI data centers and electric vehicles to renewable-energy systems and power grids. Conventional silicon devices are approaching their physical limits, while newer wide-bandgap semiconductors such as silicon carbide and gallium nitride have enabled major improvements in efficiency and power density.\nGallium oxide belongs to an emerging class of materials known as UWBG semiconductors. Its ability to withstand extremely high electric fields makes it highly attractive for future high-voltage electronics. However, practical Ga₂O₃ devices have historically been limited to relatively low power because the material does not conduct heat efficiently and because packaging multiple devices together becomes increasingly difficult at high voltage and current.\nCooling and packaging designed together\n\"Our work shows that the thermal limitations of gallium oxide do not necessarily prevent it from reaching very high power levels,\" said Zhang. \"Instead of treating the semiconductor device and its package separately, we designed them together as a single system. This device-package co-design allowed us to simultaneously manage the electrical field, heat flow and mechanical stress.\"\nThe researchers developed a new \"junction-side cooling\" architecture that places the heat-generating region of the semiconductor close to the cooling path. They further introduced a high-permittivity insulating layer that helps redistribute the electric field around the device. Together, these approaches allow heat to escape more efficiently while also improving the voltage-handling capability of the module.\nA single packaged Ga₂O₃ device was able to conduct 234 amperes at 1,000 volts during pulsed operation, while remaining functional at junction temperatures exceeding 250°C. The team then integrated six devices into a larger module and demonstrated repetitive switching at 1,000 volts and 1,000 amperes at a frequency of 1 kHz, corresponding to a peak power level of one megawatt.\n\"This is the first time that a UWBG multi-chip module has reached the megawatt power level,\" said Gong. \"More importantly, the result provides a scalable approach for translating the exceptional material properties of UWBG semiconductors into practical high-power systems.\"\nPulsed-power applications in sight\nThe technology is particularly promising for pulsed-power applications, where extremely large amounts of electrical energy must be delivered within microseconds. Pulsed-power systems can take advantage of Ga₂O₃'s intrinsically superior volumetric heat capacity to withstand high electric fields and high transient temperatures.\nPotential applications include high-voltage protection for future power grids, advanced medical systems, particle accelerators and fusion-energy facilities. The fast switching capability of the module could also enable smaller and more efficient power-conversion systems.\nThe study builds on the team's earlier research in the co-design of semiconductor devices and packaging. The team's previous research in this area was selected as a Technical Highlight at the 2025 IEEE International Electron Devices Meeting (IEDM).\nThe significance of this research direction was also highlighted in a News & Views article in Nature Electronics in 2025 titled \"Powering the ultrawide-bandgap era,\" which discussed the potential of multi-physics device and packaging design to overcome fundamental limitations of emerging semiconductor materials.\nPublication details\nHehe Gong et al., A megawatt ultra-wide bandgap semiconductor module for pulsed power electronics, Nature Communications (2026). DOI: 10.1038/s41467-026-71274-6",
+    "autor_fonte": "The University",
+    "site_fonte": "Tech Xplore",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/engineers-develop-the.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-engineers-develop-the-world-s-first-mega.jpg",
+    "imagem_credito": "Tech Xplore",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techxplore.com/news/2026-11-world-megawatt-ultra-wide-bandgap.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "0dc85328478e",
+      "titulo": "\"iPhone Duo da Motorola\" tem nome revelado antes da hora; veja o que já sabemos",
+      "url": "https://canaltech.com.br/smartphone/iphone-duo-da-motorola-tem-nome-revelado-antes-da-hora-veja-o-que-ja-sabemos/",
+      "resumo": "A Motorola deu mais um sinal de que o lançamento do seu novo celular dobrável está chegando, e agora revelou antecipadamente o nome do aparelho. O “iPhone Duo” da marca apareceu em uma página oficial de suporte como motorola Razr Flex, além de uma indicação de que chegará às lojas em 2027. A página não traz imagens nem confirma a ficha técnica , mas representa uma referência oficial ao nome do dispositivo. Até então, as informações sobre o dobrável circulavam apenas em vazamentos, que apontavam para um formato diferente dos modelos Razr tradicionais. A expectativa é que o Razr Flex entre na disputa dos celulares dobráveis que têm formato de passaporte. Com isso, a companhia terá um dispositivo para fazer frente a lançamentos recentes, como o Galaxy Z Fold 8 e o já citado iPhone Duo . Tela ampla e Snapdragon 8 Gen 5 estão entre os rumores Se o nome do aparelho foi confirmado pela própria Motorola, algumas especificações atribuídas ao Razr Flex apareceram em uma página da loja portuguesa MegaPC e em um registro no Geekbench. Os vazamentos dão conta de que o smartphone pode trazer uma tela OLED interna de 6,92 polegadas, com resolução de 2.364 x 1.728 pixels e taxa de atualização de 1",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-09T19:33:24+00:00",
+      "coletado_em": "2026-11-09T19:50:04.213018+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/lTn3jvFZWt0DkxTxFfN5Weigsek=/0x0/filters:format(webp):quality(85)/c7a4097a-6ed6-497f-aaf2-eee84cc2e250.png",
+      "score": 4.568,
+      "cobertura": []
+    },
+    "texto_fonte": "\"iPhone Duo da Motorola\" tem nome revelado antes da hora; veja o que já sabemos\nPor João Melo |\nA Motorola deu mais um sinal de que o lançamento do seu novo celular dobrável está chegando, e agora revelou antecipadamente o nome do aparelho. O “iPhone Duo” da marca apareceu em uma página oficial de suporte como motorola Razr Flex, além de uma indicação de que chegará às lojas em 2027.\nA página não traz imagens nem confirma a ficha técnica, mas representa uma referência oficial ao nome do dispositivo. Até então, as informações sobre o dobrável circulavam apenas em vazamentos, que apontavam para um formato diferente dos modelos Razr tradicionais.\nA expectativa é que o Razr Flex entre na disputa dos celulares dobráveis que têm formato de passaporte. Com isso, a companhia terá um dispositivo para fazer frente a lançamentos recentes, como o Galaxy Z Fold 8 e o já citado iPhone Duo.\nTela ampla e Snapdragon 8 Gen 5 estão entre os rumores\nSe o nome do aparelho foi confirmado pela própria Motorola, algumas especificações atribuídas ao Razr Flex apareceram em uma página da loja portuguesa MegaPC e em um registro no Geekbench. Os vazamentos dão conta de que o smartphone pode trazer uma tela OLED interna de 6,92 polegadas, com resolução de 2.364 x 1.728 pixels e taxa de atualização de 165 Hz.\nJá o display externo deve ter 4,97 polegadas, enquanto o conjunto de processamento seria formado pelo Snapdragon 8 Gen 5. O chip trabalharia com 12 GB de RAM e sistema Android 17.\nNo Geekbench 6, uma unidade de teste teria alcançado 2.669 pontos em single-core e 8.837 pontos em multi-core. Como se trata de um dispositivo em desenvolvimento, os resultados ainda podem mudar.\nCâmeras de 50 MP e preço de quase R$ 9 mil aparecem em listagem\nNa parte fotográfica, os vazamentos indicam duas câmeras traseiras de 50 MP. Para selfies e chamadas de vídeo, o Razr Flex pode contar com dois sensores frontais de 32 MP.\nOutros detalhes vazados incluem bateria de 5.000 mAh, carregamento sem fio de 25 W e peso de 215 gramas. A MegaPC também listou uma versão com 12 GB de RAM e 256 GB de armazenamento na cor Dark Botanical Garden por 1.510,90 euros (cerca de R$ 8.960 na cotação atual).",
+    "autor_fonte": "João Melo",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/fMp-0aCty_1dYVCwUhSMhKvfhEs=/1200x675/smart/filters:format(webp):quality(85)/8ce576f2-fc63-4270-ac63-35cc8527aea4.jpg",
+    "imagem_arquivo": "imagens/ciberseguranca-iphone-duo-da-motorola-tem-nome-revelado.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/smartphone/iphone-duo-da-motorola-tem-nome-revelado-antes-da-hora-veja-o-que-ja-sabemos/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]

@@ -1,0 +1,764 @@
+{
+  "medicina": [
+    {
+      "id": "8a0bc9b8854d",
+      "titulo": "Drugs like Ozempic may help reverse chronic kidney disease",
+      "url": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
+      "resumo": "Scientists found that semaglutide, Ozempic’s key ingredient, repaired blood vessels, dampened inflammation and improved kidney function in patients.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-09T16:00:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.239442+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_RF_GLP1-kidneydisease_main.jpg?w=800",
+      "score": 6.103,
+      "cobertura": []
+    },
+    {
+      "id": "3681153cd1f2",
+      "titulo": "Cell reprogramming could make tumors more responsive to immunotherapy",
+      "url": "https://medicalxpress.com/news/2026-11-cell-reprogramming-tumors-responsive-immunotherapy.html",
+      "resumo": "In a new international study led by Lund University in Sweden, researchers have uncovered how reprogrammed cancer cells can help orchestrate the immune system's attack on tumors. Experiments in mice revealed how immune cells are recruited and organized within tumors to mount an immune response. The findings could pave the way for more effective immunotherapy and, ultimately, help more patients benefit from the treatment.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-09T19:40:04+00:00",
+      "coletado_em": "2026-11-09T19:50:04.184510+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-tumors-more-res.jpg",
+      "score": 6.031,
+      "cobertura": []
+    },
+    {
+      "id": "e0d8b3359765",
+      "titulo": "How a protein contributes to blood vessel damage in the brain in patients with malaria",
+      "url": "https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html",
+      "resumo": "Malaria remains one of the deadliest infectious diseases worldwide. According to World Health Organization (WHO) estimates, there were more than 280 million cases in 2024, with 610,000 people dying from the parasitic infection. Ninety-five percent of deaths occur in sub-Saharan Africa, where children under the age of 5 are particularly affected. Prompt treatment is crucial. Nevertheless, some patients die from malaria even when treated with medication.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-09T19:00:01+00:00",
+      "coletado_em": "2026-11-09T19:50:04.184510+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-protein-contribu.jpg",
+      "score": 5.956,
+      "cobertura": []
+    },
+    {
+      "id": "5fb57312b46b",
+      "titulo": "GLP-1 drugs show lower obesity-related cancer risk than insulin, but not all diabetes treatments",
+      "url": "https://medicalxpress.com/news/2026-11-glp-drugs-obesity-cancer-insulin.html",
+      "resumo": "Years of research point to obesity and type 2 diabetes raising the risk of developing several types of cancer. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), a recent medical breakthrough, were originally developed for blood sugar control or diabetes management and also work overtime promoting weight loss. Scientists are curious to explore whether there are any links between these drugs and the onset of cancers in people with diabetes.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-09T18:20:04+00:00",
+      "coletado_em": "2026-11-09T19:50:04.184510+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-drugs-linked-to.jpg",
+      "score": 5.884,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "bb5e04f04e8b",
+      "titulo": "Study reveals overcompensation in desert plant-weevil interactions",
+      "url": "https://phys.org/news/2026-11-reveals-overcompensation-weevil-interactions.html",
+      "resumo": "A research team led by professor Zhang Yuanming from the Xinjiang Institute of Ecology and Geography (XIEG) of the Chinese Academy of Sciences has revealed that the outcomes of desert plant-herbivore interactions are strongly context-dependent. The paper is published in the journal Plant, Cell & Environment.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-09T18:20:13+00:00",
+      "coletado_em": "2026-11-09T19:50:04.186269+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-overcomp.jpg",
+      "score": 5.384,
+      "cobertura": []
+    },
+    {
+      "id": "e3bb9d04809d",
+      "titulo": "Genetic hitchhikers make Aspergillus infections even harder to treat",
+      "url": "https://phys.org/news/2026-11-genetic-hitchhikers-aspergillus-infections-harder.html",
+      "resumo": "Resistance to antifungal medicines in the pathogenic fungus Aspergillus fumigatus is proving more persistent than previously thought. Research by Wageningen University & Research (WUR), published in Current Biology, shows that fungicides used in agriculture, even those with a different mode of action from these medicines, can help maintain this resistance. This is because different resistance genes \"hitchhike\" together.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-09T18:20:01+00:00",
+      "coletado_em": "2026-11-09T19:50:04.186269+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-hitchhikers-ma-1.jpg",
+      "score": 5.384,
+      "cobertura": []
+    },
+    {
+      "id": "bf94ebf5795e",
+      "titulo": "Cells 'sense' physical forces to seal tissues and protect organs",
+      "url": "https://phys.org/news/2026-11-cells-physical-tissues.html",
+      "resumo": "Northwestern Medicine scientists have uncovered a molecular mechanism that enables cells to protect organs from leaks, infection and inflammation, according to a study published in the Journal of Cell Biology. The findings of the study add to scientific understanding of how epithelial cells maintain protective barriers, said senior author Cara J. Gottardi, professor of medicine in the Division of Pulmonary and Critical Care and of cell and developmental biology.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-09T16:40:04+00:00",
+      "coletado_em": "2026-11-09T19:50:04.186269+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/cells-sense-physical-f.jpg",
+      "score": 5.216,
+      "cobertura": []
+    },
+    {
+      "id": "299439753d2c",
+      "titulo": "Watching others pays off: Attentive macaques benefit from observing their group mates interacting",
+      "url": "https://phys.org/news/2026-11-pays-attentive-macaques-benefit-group.html",
+      "resumo": "Monkeys constantly observe and evaluate their social environment. It stands to reason that the social and mental abilities required to do so were favored by evolution. After all, these abilities should influence how an animal interacts with its conspecifics and, as a result, what social position it can attain within the group's hierarchy. Researchers from the DPZ and the University of Göttingen have now investigated whether this widely held assumption is correct by studying 46 wild male Assamese macaques in Thailand. The paper is published in the journal Current Biology.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-09T16:00:18+00:00",
+      "coletado_em": "2026-11-09T19:50:04.186269+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/watching-others-pays-o.jpg",
+      "score": 5.153,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "7a0b73d62a7f",
+      "titulo": "FLEX approach helps robots reason beyond literal commands",
+      "url": "https://techxplore.com/news/2026-11-flex-approach-robots-literal.html",
+      "resumo": "Humans are intuitive by nature. We can sense meaning beyond the literal words that we encounter. Now, a new artificial intelligence–assisted learning platform developed by MIT engineers is enabling robots to read larger meaning into a human's natural language commands.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-09T17:40:01+00:00",
+      "coletado_em": "2026-11-09T19:50:04.189066+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-assisted-learning-p.jpg",
+      "score": 5.815,
+      "cobertura": [
+        "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109"
+      ]
+    },
+    {
+      "id": "cf83aea47cbb",
+      "titulo": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?",
+      "url": "https://spectrum.ieee.org/agentic-robotics",
+      "resumo": "Robotics companies are investing heavily in the belief that data will solve the most difficult problems in robotics. Once AI systems have ingested enough data from human demonstrations, the thinking goes, robots will be able to perform the vast majority of the manual tasks that humans now do. There are even robotics companies that exist solely to collect training data and sell it to other robotics companies in pursuit of this goal. But whether data will finally bring us general-purpose robots is an open question . Nobody knows how much data would be necessary , what kind of data is important , or whether something else might be missing . And there are other problems with a reliance on massive amounts of data: the resulting AI algorithms are essentially black boxes, which despite their high performance are difficult or impossible for humans to understand. This characteristic is becoming increasingly concerning in commercial deployments, where robots must be flexible, reliable, and safe. At the 2026 Conference on Robot Learning this week, UC Berkeley and NVIDIA are jointly announcing a new approach to using AI to program robots for everyday practical tasks in industrial environments.",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-09T14:00:02+00:00",
+      "coletado_em": "2026-11-09T19:50:04.188167+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=980",
+      "score": 5.578,
+      "cobertura": []
+    },
+    {
+      "id": "61ccb0e32798",
+      "titulo": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+      "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+      "resumo": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas. The post Boston Dynamics adds wheels to Atlas humanoid to test whole-body control appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-09T18:34:38+00:00",
+      "coletado_em": "2026-11-09T19:50:04.188886+00:00",
+      "imagem_feed": null,
+      "score": 5.26,
+      "cobertura": []
+    },
+    {
+      "id": "a4599c070cc7",
+      "titulo": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots",
+      "url": "https://www.therobotreport.com/how-minimize-wi-fi-roaming-interruptions-autonomous-mobile-robots/",
+      "resumo": "Dedicated Wi-Fi scan architectures can improve robot mobility, reliability, and performance, says Synaptics. The post How to minimize Wi-Fi roaming interruptions for autonomous mobile robots appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-09T15:40:41+00:00",
+      "coletado_em": "2026-11-09T19:50:04.188886+00:00",
+      "imagem_feed": null,
+      "score": 4.973,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "4ade5241ebc4",
+      "titulo": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security",
+      "url": "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Cloudflare is developing a public certificate authority for Merkle Tree Certificates (MTCs) to reduce the bandwidth overhead of post-quantum cryptography. A Chrome experiment served billions of MTCs to 50% of Chrome Beta 146 for selected domains, reporting 9% faster median performance. Wider deployment depends on browser support, transparency, and production-scale validation. By Leela Kumili",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-09T14:35:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.189410+00:00",
+      "imagem_feed": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+      "score": 5.177,
+      "cobertura": []
+    },
+    {
+      "id": "a8be6d480cf2",
+      "titulo": "Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore",
+      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "This week's Java roundup for November 2nd, 2026, features news highlighting: point releases of TornadoVM, TornadoInsight, A2A for Java, Gradle and EclipseStore; the November 2026 edition of Open Liberty; the third release candidate of Open J Proxy; the second release candidates of Micrometer Metrics and Micrometer Tracing; and the third beta release of Quarkus 4.0. By Michael Redlich",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-09T18:40:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.189410+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/java-news-roundup-nov02-2026/en/headerimage/java-news-roundup-image-1794249482778.jpg",
+      "score": 5.07,
+      "cobertura": []
+    },
+    {
+      "id": "af88a49f1e49",
+      "titulo": "Desenvolvedor cria script que manda dados de RAM para Sam Altman",
+      "url": "https://tecnoblog.net/noticias/desenvolvedor-cria-script-que-manda-dados-de-memoria-ram-para-sam-altman/",
+      "resumo": "Ferramenta para Linux transforma dados de memória disponível em mensagens irônicas ao CEO da OpenAI, em resposta a declarações sobre o uso de RAM em PCs. Desenvolvedor cria script que manda dados de RAM para Sam Altman",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "software",
+        "hardware"
+      ],
+      "publicado": "2026-11-09T17:19:21+00:00",
+      "coletado_em": "2026-11-09T19:50:04.210214+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa.png",
+      "score": 4.98,
+      "cobertura": []
+    },
+    {
+      "id": "5737306f1a5a",
+      "titulo": "Article: Agentic AI Architecture: Current Challenges and Future Opportunities",
+      "url": "https://www.infoq.com/articles/agentic-ai-architecture-challenges-opportunities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Agentic AI architecture extends microservices and cloud-native architectures with AI agents that work with context, memory, and protocols such as MCP and A2A. The article covers bounded-context integration, task-dependent coordination strategies, new security risks, and observability needs. It expects gradual adoption alongside existing architectures, with platforms absorbing common components. By Rafał Gancarz",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-09T10:52:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.189410+00:00",
+      "imagem_feed": "https://res.infoq.com/articles/agentic-ai-architecture-challenges-opportunities/en/headerimage/agentic-ai-architecture-challenges-opportunities-header-1793709540690.jpg",
+      "score": 4.891,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "303caac7e48e",
+      "titulo": "Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+      "resumo": "Jensen Huang has been summoned to appear before Congress's Select Committee on the CCP.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-09T15:57:13+00:00",
+      "coletado_em": "2026-11-09T19:50:04.191013+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/t75kmqCZia9XGcHiAKqZ5T-1920-80.jpg",
+      "score": 7.798,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+        "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html",
+        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+      ]
+    },
+    {
+      "id": "db92d38fc027",
+      "titulo": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
+      "resumo": "Nvidia's board of directors is investigating a report about Jensen Huang's alleged affair with a client, claims it is still confident in Jensen and leadership team.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-08T21:27:29+00:00",
+      "coletado_em": "2026-11-09T19:50:04.191013+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-1920-80.jpg",
+      "score": 6.749,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+        "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html",
+        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+      ]
+    },
+    {
+      "id": "e5d6ece1c063",
+      "titulo": "CEO da Nvidia admite traição em meio a escândalo de espionagem chinesa",
+      "url": "https://canaltech.com.br/hardware/ceo-da-nvidia-admite-traicao-em-meio-a-escandalo-de-espionagem-chinesa/",
+      "resumo": "A NVIDIA atravessa agora seu pior momento envolvendo a vida pessoal do CEO, Jensen Huang, e possível espionagem por brecha aberta por ele mesmo. Em nota pública, o executivo admitiu uma traição e pediu desculpas por isso à sua família. Ao mesmo tempo, o conselho administrativo da gigante americana abriu uma investigação independente para saber se o caso extraconjugal resultou em espionagem por parte da China . A crise ganhou contornos dramáticos após reportagens do The New York Times e do Financial Times apontarem que o r elacionamento extraconjugal de Huang envolveu Alice Huang (que não é parente), executiva da empresa Megaspeed, cliente sediada em Singapura que adquiriu mais de US$ 4,8 bilhões em chips da NVIDIA nos últimos dois anos e que estaria sob suspeita de repassar informações estratégicas à inteligência de Pequim . Pedido de desculpas e a resposta do conselho Em uma mensagem enviada aos funcionários da companhia, Jensen Huang assumiu total responsabilidade pelo escândalo pessoal. \"Fui infiel à minha esposa. Minhas ações machucaram ela e nossos filhos. Não há desculpa para o que fiz. Sinto muito\", escreveu o CEO, pedindo privacidade para sua família e reafirmando seu compr",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-09T17:08:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.213018+00:00",
+      "imagem_feed": null,
+      "score": 5.511,
+      "cobertura": []
+    },
+    {
+      "id": "8d4a4873ef58",
+      "titulo": "Huawei develops 'entirely Chinese' homegrown desktop PC system",
+      "url": "https://www.tomshardware.com/tech-industry/huawei-develops-entirely-chinese-homegrown-desktop-pc-system-features-10-core-20-thread-kirin-x90-consumer-cpu-and-huaweis-own-harmonyos-operating-system-but-western-supply-chain-lingers",
+      "resumo": "Huawei's 'entirely Chinese' desktop system does not use components made outside of China, yet they still rely on semiconductor supply chain that includes tools and materials from America, the Netherlands, and Japan.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-09T12:30:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.191013+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/TvpWuNxHtvcGy27N4NbD5E-1920-80.png",
+      "score": 5.509,
+      "cobertura": [
+        "https://www.techspot.com/news/114490-huawei-new-desktop-pc-contains-only-chinese-components.html"
+      ]
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "25a82779b34c",
+      "titulo": "Startup criada na USP apresenta tecnologia para neurodiversidade no Web Summit Lisboa 2026",
+      "url": "https://jornal.usp.br/diversidade/startup-criada-na-usp-apresenta-tecnologia-para-neurodiversidade-no-web-summit-lisboa-2026/",
+      "resumo": "Selecionada para integrar a missão internacional da ApexBrasil, a Braine apresentará o AURA-T, ferramenta de teletriagem orientativa de sinais do neurodesenvolvimento que já contabiliza mais de mil atendimentos",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-09T19:39:02+00:00",
+      "coletado_em": "2026-11-09T19:50:04.205448+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261109_crianca-quebra-cabeca-1024x538.jpg",
+      "score": 5.329,
+      "cobertura": []
+    },
+    {
+      "id": "f30fcf3a6051",
+      "titulo": "NASA just launched a $1 million Moon Base Student Challenge to award cash prizes to students that solve lunar base problems",
+      "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
+      "resumo": "NASA has officially launched the Moon Base Student Challenge, asking students to help build humanity's future on the moon. And there is $1 million in prizes for the best ideas.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-09T17:00:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.193217+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/q7vCqn7LxFksz2NwjJGvRm-1920-80.jpg",
+      "score": 5.098,
+      "cobertura": [
+        "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+      ]
+    },
+    {
+      "id": "4c8417bb19ef",
+      "titulo": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
+      "url": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
+      "resumo": "Using the James Webb Space Telescope (JWST), a team of astronomers identified 104 magnified stellar events in a galaxy known as the Dragon, located around 6.5 billion light-years away. This discovery more than doubles the previous record of 44 such detections in the same galaxy. Because these kinds of events reveal some of the most luminous stars and likely the presence of dark matter, this study offers a rare look at the galaxy's stellar population along with a possible hint at the nature of dark matter.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-08T19:20:01+00:00",
+      "coletado_em": "2026-11-09T19:50:04.192544+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-tracks-more-than.jpg",
+      "score": 5.036,
+      "cobertura": []
+    },
+    {
+      "id": "422fb850b078",
+      "titulo": "La NASA busca a la próxima generación de astronautas",
+      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "resumo": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-09T19:27:20+00:00",
+      "coletado_em": "2026-11-09T19:50:04.192081+00:00",
+      "imagem_feed": null,
+      "score": 4.957,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "740defba9d4f",
+      "titulo": "hzero Emerges From Stealth to Coordinate Quantum and Classical Computing",
+      "url": "https://thequantuminsider.com/2026/11/09/hzero-emerges-from-stealth-to-coordinate-quantum-and-classical-computing/",
+      "resumo": "Insider Brief hzero has emerged from stealth with software designed to help quantum computers and classical computing systems work together, backed by investors including LEA Ventures, FORWARD.one and Leo Capital. The Munich, Germany-based company is developing a software layer that coordinates computing jobs and resources across quantum processors and high-performance computing infrastructure. Its approach is […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-09T15:36:19+00:00",
+      "coletado_em": "2026-11-09T19:50:04.193714+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-10.22.29-AM.png",
+      "score": 5.267,
+      "cobertura": []
+    },
+    {
+      "id": "72744afcd198",
+      "titulo": "EV Group Helps Accelerate Qubit Scaling for Quantum Computing Through Advanced Packaging Expertise",
+      "url": "https://thequantuminsider.com/2026/11/09/ev-group-manufacturing-support-quantum-computing/",
+      "resumo": "Insider Brief PRESS RELEASE — EV Group (EVG), a leading provider of innovative process solutions and expertise serving leading-edge and future semiconductor designs and chip integration schemes, today announced that it is supporting quantum chip developers and manufacturers in addressing the complex manufacturing requirements associated with scaling quantum computing systems. Building on its ongoing contributions […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-09T14:52:08+00:00",
+      "coletado_em": "2026-11-09T19:50:04.193714+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_19-50.png",
+      "score": 5.201,
+      "cobertura": []
+    },
+    {
+      "id": "ba021528b1ee",
+      "titulo": "Horizon Quantum Integrates OQC’s 32-Qubit Processor with Triple Alpha",
+      "url": "https://thequantuminsider.com/2026/11/09/horizon-quantum-oqc-pulse-level-integration-triple-alpha/",
+      "resumo": "Insider Brief PRESS RELEASE — Horizon Quantum Computing Pte. Ltd., the wholly-owned subsidiary of Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, and OQC, a global leader in quantum computing, today announced the successful pulse-level integration of OQC’s QPU with Triple Alpha, Horizon Quantum’s integrated development environment, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-09T14:37:31+00:00",
+      "coletado_em": "2026-11-09T19:50:04.193714+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-05_18-51-1.png",
+      "score": 5.18,
+      "cobertura": []
+    },
+    {
+      "id": "afdb3558a953",
+      "titulo": "Atomic defects leave telltale optical fingerprints in quantum material",
+      "url": "https://phys.org/news/2026-11-atomic-defects-telltale-optical-fingerprints.html",
+      "resumo": "The tiny atomic defects so important for future quantum technologies can be difficult to spot. Fortunately, they leave behind some clues. The defects can alter how a material responds to light, producing a distinctive optical fingerprint that scientists can measure. The challenge is figuring out which fingerprints belong to which defects.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-09T19:40:09+00:00",
+      "coletado_em": "2026-11-09T19:50:04.194103+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-decodes-quantum.jpg",
+      "score": 5.031,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "db92d38fc027",
+      "titulo": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
+      "resumo": "Nvidia's board of directors is investigating a report about Jensen Huang's alleged affair with a client, claims it is still confident in Jensen and leadership team.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-08T21:27:29+00:00",
+      "coletado_em": "2026-11-09T19:50:04.191013+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-1920-80.jpg",
+      "score": 6.249,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+        "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html",
+        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+      ]
+    },
+    {
+      "id": "b81074c25415",
+      "titulo": "Huawei says its new desktop PC is 100% Chinese-made, with a few asterisks",
+      "url": "https://www.techspot.com/news/114490-huawei-new-desktop-pc-contains-only-chinese-components.html",
+      "resumo": "China has long been pushing to lessen its reliance on US tech. Huawei says with its Qinyun HM650 series desktop computers, the machines are 100% domestically made. They also use the company's own HarmonyOS operating system. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-09T16:46:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.199867+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-09-ts3_thumbs-787.gif",
+      "score": 6.075,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/huawei-develops-entirely-chinese-homegrown-desktop-pc-system-features-10-core-20-thread-kirin-x90-consumer-cpu-and-huaweis-own-harmonyos-operating-system-but-western-supply-chain-lingers"
+      ]
+    },
+    {
+      "id": "8d4a4873ef58",
+      "titulo": "Huawei develops 'entirely Chinese' homegrown desktop PC system",
+      "url": "https://www.tomshardware.com/tech-industry/huawei-develops-entirely-chinese-homegrown-desktop-pc-system-features-10-core-20-thread-kirin-x90-consumer-cpu-and-huaweis-own-harmonyos-operating-system-but-western-supply-chain-lingers",
+      "resumo": "Huawei's 'entirely Chinese' desktop system does not use components made outside of China, yet they still rely on semiconductor supply chain that includes tools and materials from America, the Netherlands, and Japan.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-09T12:30:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.191013+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/TvpWuNxHtvcGy27N4NbD5E-1920-80.png",
+      "score": 6.009,
+      "cobertura": [
+        "https://www.techspot.com/news/114490-huawei-new-desktop-pc-contains-only-chinese-components.html"
+      ]
+    },
+    {
+      "id": "416f1e04d49b",
+      "titulo": "US officials say a Chinese businesswoman close to Nvidia's Jensen Huang was a spy for Beijing",
+      "url": "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html",
+      "resumo": "Update (Nov 8, 7pm): Nvidia CEO Jensen Huang has admitted to having an extramarital affair following reports that he was targeted by a suspected Chinese intelligence operative. In a letter to employees, Huang apologized to his wife, family, and colleagues, taking responsibility for his actions and promising to cooperate with... Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-08T13:29:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.199867+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-08-ts3_thumbs-7fb.jpg",
+      "score": 5.746,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "20ff528b5495",
+      "titulo": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "resumo": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-09T18:09:52+00:00",
+      "coletado_em": "2026-11-09T19:50:04.202778+00:00",
+      "imagem_feed": null,
+      "score": 6.566,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
+      ]
+    },
+    {
+      "id": "987809f8bbee",
+      "titulo": "Adeus ao Gemini Pro: Google corta nesta semana modelos avançados do plano mais barato",
+      "url": "https://canaltech.com.br/inteligencia-artificial/adeus-ao-gemini-pro-google-corta-nesta-semana-modelos-avancados-do-plano-mais-barato/",
+      "resumo": "Quem assina o plano Google AI Plus vai perder acesso à variante Pro dos modelos de IA do Gemini a partir desta sexta-feira (13) . Dessa forma, o plano mais barato da empresa vai garantir acesso apenas às variantes Flash e Flash-Lite, voltadas para respostas rápidas. A mudança foi anunciada pela empresa no mês passado e já vale para novas assinaturas. No entanto, a Gigante de Mountain View estendeu o prazo para aplicar os ajustes em novembro para assinantes ativos e comunicou a decisão por e-mail. Na prática, o acesso aos modelos mais poderosos do Gemini fica limitado a assinantes dos planos AI Pro e AI Ultra , oferecidos a partir de R$ 96,99 e R$ 779,90 por mês, respectivamente. O que é o Gemini Pro? A variante Pro é considerada a versão mais inteligente de um modelo de IA do Gemini . Normalmente é usada para tarefas complexas e maiores , que exigem um nível de raciocínio mais intenso, com destaque para as áreas de lógica e programação. O Google ainda pode destrinchar uma família de modelos com as variantes Flash e Flash-Lite: nesse caso, a IA tem menor latência e consegue ser mais rápida nas respostas, mesmo perdendo “poder de fogo” para prompts mais elaborados. De acordo com a em",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-09T17:11:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.213018+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/knPhcA9t95V4pGcrABCyX-FJVpw=/0x0/filters:format(webp):quality(85)/74b11b2f-3b3c-45a8-b667-25d3c00a65ae.jpeg",
+      "score": 5.816,
+      "cobertura": []
+    },
+    {
+      "id": "273d7db17a98",
+      "titulo": "AI Agents Are Testing the Limits of Zero-Trust Security",
+      "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+      "resumo": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yield with a slight overview of decision making. One of the important components for these agents is to ensure that the logs are managed and historic relevance is not being used to avoid skewing towards same decision making. Thus, the system is expected to keep checkpoints in place where agents are prompted to delete such historic relevance. However, despite such methodology in place, a future prompt could make the agents bring forward the information that was supposed to be deleted and can be tricked into revealing more information, which is a classic case of context recovery attack. So, the question raised here is: How can we trust that our instructions have been followed? And where is the proof? There is an element of utilizing zero-trust architectures (ZTA) for orchestrating and managing agentic activity, which simply means all agentic interactions use the core principle of “never trust,” “always verify.” Z",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial",
+        "quantica"
+      ],
+      "publicado": "2026-11-09T16:25:06+00:00",
+      "coletado_em": "2026-11-09T19:50:04.194951+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/collage-of-indoor-drone-flight-phone-controls-and-operator-at-computer-workstation.jpg?id=68578379&width=980",
+      "score": 5.792,
+      "cobertura": []
+    },
+    {
+      "id": "bc55171edc52",
+      "titulo": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "resumo": "In a memo to the company, Huang admitted that he had an affair.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-08T21:00:11+00:00",
+      "coletado_em": "2026-11-09T19:50:04.202778+00:00",
+      "imagem_feed": null,
+      "score": 5.785,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+        "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
+      ]
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "57a4933022ba",
+      "titulo": "Engineers develop the world's first megawatt ultra-wide bandgap semiconductor module",
+      "url": "https://techxplore.com/news/2026-11-world-megawatt-ultra-wide-bandgap.html",
+      "resumo": "Researchers from the Department of Electrical and Computer Engineering under the Faculty of Engineering at the University of Hong Kong (HKU) and the Center for Advanced Semiconductors and Integrated Circuits (CASIC) have developed an ultra-wide bandgap (UWBG) semiconductor gallium oxide (Ga₂O₃) power module capable of handling megawatt-level power conversion, opening new possibilities for compact and highly efficient power systems in areas such as power grids, medical equipment and fusion energy.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-09T18:20:09+00:00",
+      "coletado_em": "2026-11-09T19:50:04.203628+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineers-develop-the.jpg",
+      "score": 4.884,
+      "cobertura": []
+    },
+    {
+      "id": "c1ef50bcffde",
+      "titulo": "Fabric molds could bring material-saving concrete beams within reach",
+      "url": "https://techxplore.com/news/2026-11-fabric-molds-material-concrete.html",
+      "resumo": "Topology optimization is a computer design method that can help engineers design beams using reduced amounts of concrete and steel. But those intricate shapes produced from the tool are often too complex or expensive to pour into conventional rigid molds. The few that have been built have mostly relied on specialized equipment, such as concrete 3D printers or machine-carved molds, equipment that is out of reach in regions where new construction is expected to grow.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-09T18:00:01+00:00",
+      "coletado_em": "2026-11-09T19:50:04.203628+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/fabric-molds-could-bri-2.jpg",
+      "score": 4.849,
+      "cobertura": []
+    },
+    {
+      "id": "28d67006415e",
+      "titulo": "New AI model could help UN nuclear watchdog achieve near-perfect uranium enrichment assessment",
+      "url": "https://techxplore.com/news/2026-11-ai-nuclear-watchdog-uranium-enrichment.html",
+      "resumo": "Scientists say they have developed a new artificial intelligence system capable of predicting uranium enrichment levels with extraordinary precision while identifying different types of nuclear material using gamma spectroscopy data. The findings, based on tests of three machine-learning models—XGBoost, CatBoost and LightGBM—could offer the U.N. nuclear watchdog valuable new tools to strengthen its safeguards under the Nuclear Non-Proliferation Treaty (NPT), according to researchers at the University of Sharjah.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-09T16:20:22+00:00",
+      "coletado_em": "2026-11-09T19:50:04.203628+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/nuclear-energy.jpg",
+      "score": 4.684,
+      "cobertura": []
+    },
+    {
+      "id": "212c5c843653",
+      "titulo": "Data centers need power—lower-income rural residents pay the price",
+      "url": "https://techxplore.com/news/2026-11-centers-power-income-rural-residents.html",
+      "resumo": "As the engines of artificial intelligence, large data centers can consume as much power as medium-sized cities, straining grids and prompting expensive upgrades to U.S. energy infrastructure. New research finds that residents, and especially lower-income and rural residents, are disproportionately bearing the costs.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-09T19:00:24+00:00",
+      "coletado_em": "2026-11-09T19:50:04.203628+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/illustration-of-a-data.jpg",
+      "score": 4.457,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "0dc85328478e",
+      "titulo": "\"iPhone Duo da Motorola\" tem nome revelado antes da hora; veja o que já sabemos",
+      "url": "https://canaltech.com.br/smartphone/iphone-duo-da-motorola-tem-nome-revelado-antes-da-hora-veja-o-que-ja-sabemos/",
+      "resumo": "A Motorola deu mais um sinal de que o lançamento do seu novo celular dobrável está chegando, e agora revelou antecipadamente o nome do aparelho. O “iPhone Duo” da marca apareceu em uma página oficial de suporte como motorola Razr Flex, além de uma indicação de que chegará às lojas em 2027. A página não traz imagens nem confirma a ficha técnica , mas representa uma referência oficial ao nome do dispositivo. Até então, as informações sobre o dobrável circulavam apenas em vazamentos, que apontavam para um formato diferente dos modelos Razr tradicionais. A expectativa é que o Razr Flex entre na disputa dos celulares dobráveis que têm formato de passaporte. Com isso, a companhia terá um dispositivo para fazer frente a lançamentos recentes, como o Galaxy Z Fold 8 e o já citado iPhone Duo . Tela ampla e Snapdragon 8 Gen 5 estão entre os rumores Se o nome do aparelho foi confirmado pela própria Motorola, algumas especificações atribuídas ao Razr Flex apareceram em uma página da loja portuguesa MegaPC e em um registro no Geekbench. Os vazamentos dão conta de que o smartphone pode trazer uma tela OLED interna de 6,92 polegadas, com resolução de 2.364 x 1.728 pixels e taxa de atualização de 1",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-09T19:33:24+00:00",
+      "coletado_em": "2026-11-09T19:50:04.213018+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/lTn3jvFZWt0DkxTxFfN5Weigsek=/0x0/filters:format(webp):quality(85)/c7a4097a-6ed6-497f-aaf2-eee84cc2e250.png",
+      "score": 4.568,
+      "cobertura": []
+    },
+    {
+      "id": "ceda0d09040a",
+      "titulo": "Vazamento de GTA 6 revela 55 troféus da história e novidade no XBOX",
+      "url": "https://canaltech.com.br/games/vazamento-de-gta-6-revela-55-trofeus-da-historia-e-novidade-no-xbox/",
+      "resumo": "A lista de conquistas de GTA 6 no PlayStation 5 e XBOX Series vazou no último domingo. Ao todo, o jogo contará com 55 conquistas relativas ao modo single-player , número maior do que no lançamento de GTA 5 e Red Dead Redemption II para quem gosta de fazer tudo que um jogo tem a oferecer. Vale notar que os títulos ou conteúdos das conquistas não foram vazados. Enquanto os donos do PlayStation 5 irão buscar o almejado troféu de platina, os jogadores do XBOX poderão correr atrás da novidade da plataforma, as Conquistas Míticas . O novo prêmio por completar o jogo adiciona um destaque em verde à capa dos títulos na aba Jogos. Vale notar que as Conquistas Míticas do XBOX já estavam disponíveis para títulos third-party e até games do XBOX 360 . Ou seja, GTA 6 não será o primeiro título a integrar o recurso nos consoles da Microsoft. É possível que esse número de conquistas superior a outros jogos da Rockstar se deva ao fato de que GTA 6 terá o maior mapa que a produtora já criou. O mapa colossal de GTA 6 tem o tamanho de GTA 4, 5 e Red Dead Redemption 2 somados , de acordo com o co-chefe da Rockstar, Aaron Garbut. O tamanho do mapa e o número de conquistas refletem totalmente na duração ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-09T16:01:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.213018+00:00",
+      "imagem_feed": null,
+      "score": 3.904,
+      "cobertura": []
+    },
+    {
+      "id": "c09a3f8be34b",
+      "titulo": "Vazamento aponta Intel Razor Lake no mesmo soquete e janela de lançamento",
+      "url": "https://canaltech.com.br/hardware/vazamento-aponta-intel-razor-lake-no-mesmo-soquete-e-janela-de-lancamento/",
+      "resumo": "Se tem uma coisa pela qual a Intel é conhecida, é a falta de suporte as plataformas, lançando poucas gerações para cada socket. Mas, segundo um novo rumor, a próxima plataforma LGA-1954 deve não só receber a nova geração Nova Lake (Core Ultra 4000), como também a família Razor Lake, prevista para 2028 . Com a linha Nova Lake-S cotada para estrear no início de 2027, inaugurando o soquete LGA-1954, os processadores Razor Lake-S chegariam cerca de um ano depois , como uma opção direta de upgrade na mesma plataforma. A decisão marca uma mudança de postura importante para o Time Azul, que chegou a trocar de plataforma três vezes nos últimos cinco anos. Desempenho em IA do Razor Lake Sabemos bastante, de forma não oficial, sobre os processadores Nova Lake. Porém algumas informações referentes aos Razor Lake já surgiram também, como a sua grande capacidade de processamento de inteligência artificial, podendo chegar a incríveis 700 TOPS , mas não para o segmento de PC. Para efeito de comparação, a atual plataforma de referência da Intel para robótica, baseada nos chips Panther Lake (Core Ultra 300), alcança até 180 TOPS de desempenho combinado de IA . Com o salto de arquitetura do Razor La",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-09T15:06:00+00:00",
+      "coletado_em": "2026-11-09T19:50:04.213018+00:00",
+      "imagem_feed": null,
+      "score": 3.821,
+      "cobertura": []
+    }
+  ]
+}
