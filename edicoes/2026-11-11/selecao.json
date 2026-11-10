@@ -1,0 +1,770 @@
+{
+  "medicina": [
+    {
+      "id": "bbbc3cc741b9",
+      "titulo": "What are biomarkers? How doctors assess health and pooling people's cells reveals new markers—a biologist explains",
+      "url": "https://medicalxpress.com/news/2026-11-biomarkers-doctors-health-pooling-people.html",
+      "resumo": "A family of five is exposed to the flu virus, but only two of them get sick. A lifelong chain-smoker lives 100 years, while a professional athlete in their prime dies of an unexpected heart attack. A drug fails a clinical trial due to harmful side effects in a subset of patients despite showing good results in others.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-10T16:40:23+00:00",
+      "coletado_em": "2026-11-10T17:03:53.348164+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopy-image-of-an.jpg",
+      "score": 6.505,
+      "cobertura": []
+    },
+    {
+      "id": "1694b4b720ab",
+      "titulo": "Experimental drug eliminates 75% of aggressive pancreatic tumors and enhances immune system memory",
+      "url": "https://medicalxpress.com/news/2026-11-experimental-drug-aggressive-pancreatic-tumors.html",
+      "resumo": "Many solid tumors, including many cancers of the pancreas, breast, colon and lung, protect themselves with a dense wall of scar-like tissue. That wall keeps the immune system's cancer-killing T cells out. It is a major reason why immunotherapy drugs, which have transformed treatment for some patients, help only a minority of people with solid tumors.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-10T14:40:01+00:00",
+      "coletado_em": "2026-11-10T17:03:53.348164+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/preclinical-findings-s.jpg",
+      "score": 6.291,
+      "cobertura": []
+    },
+    {
+      "id": "387e2929e4b5",
+      "titulo": "Chemotherapy for breast cancer linked to accelerated biological aging",
+      "url": "https://medicalxpress.com/news/2026-11-chemotherapy-breast-cancer-linked-biological.html",
+      "resumo": "Chemotherapy helps many women survive breast cancer, but new research suggests that chemotherapy may also accelerate biological aging beyond chronological age and increase the risk of earlier death from other causes. The findings point to a need to explore whether interventions to slow or reverse biological aging could improve long-term health for breast cancer survivors.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-10T16:00:14+00:00",
+      "coletado_em": "2026-11-10T17:03:53.348164+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/older-lady.jpg",
+      "score": 5.931,
+      "cobertura": []
+    },
+    {
+      "id": "5ac5e9026145",
+      "titulo": "Blood proteins that may predict brain and cardiovascular health issues identified",
+      "url": "https://medicalxpress.com/news/2026-11-blood-proteins-brain-cardiovascular-health.html",
+      "resumo": "Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), have identified four proteins in the blood that could potentially help identify people at higher risk of worsening cerebrovascular disease, cognitive decline, serious heart- and stroke-related events, and mortality.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-10T15:00:06+00:00",
+      "coletado_em": "2026-11-10T17:03:53.348164+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-proteins-that-ma.jpg",
+      "score": 5.825,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "9fb3e49f0e1f",
+      "titulo": "Molecular structures reveal how a bacteriophage protein inhibits bacterial cell wall synthesis",
+      "url": "https://phys.org/news/2026-11-molecular-reveal-bacteriophage-protein-inhibits.html",
+      "resumo": "Drug-resistant bacteria are becoming more common worldwide, posing a major public health challenge. Addressing this problem requires finding new ways to eliminate bacteria, which in turn requires analyzing essential cellular processes that could serve as targets for future antibiotics.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-10T16:00:01+00:00",
+      "coletado_em": "2026-11-10T17:03:53.349550+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-how-a-ba.jpg",
+      "score": 5.431,
+      "cobertura": []
+    },
+    {
+      "id": "7c5737398611",
+      "titulo": "The Case for a Bubble at Life’s Start",
+      "url": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+      "resumo": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather. The post The Case for a Bubble at Life’s Start first appeared on Quanta Magazine",
+      "fonte": "Quanta Magazine",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-10T15:08:35+00:00",
+      "coletado_em": "2026-11-10T17:03:53.350458+00:00",
+      "imagem_feed": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Default.webp",
+      "score": 5.29,
+      "cobertura": []
+    },
+    {
+      "id": "578985c6c05e",
+      "titulo": "Como os dinossauros gigantes sustentavam toneladas de peso sem quebrar os ossos?",
+      "url": "https://jornal.usp.br/ciencias/como-os-dinossauros-gigantes-sustentavam-toneladas-de-peso-sem-quebrar-os-ossos/",
+      "resumo": "Ao longo da evolução, linhagens de saurópodes - dinossauros gigantes e pescoçudos - usaram estratégias biomecânicas distintas para a sustentação do peso e a movimentação sem fraturas por estresse",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-10T16:07:19+00:00",
+      "coletado_em": "2026-11-10T17:03:53.367055+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261110_sauropode02-1024x538.jpg",
+      "score": 5.244,
+      "cobertura": []
+    },
+    {
+      "id": "4a416922c5e0",
+      "titulo": "Student team develops innovative 'Trojan horse' in the fight against the Asian hornet",
+      "url": "https://phys.org/news/2026-11-student-team-trojan-horse-asian.html",
+      "resumo": "An interdisciplinary team of students from the Vrije Universiteit Brussel (VUB) is taking part in iGEM, the international synthetic biology competition in Paris (Nov. 13–16), this fall. Using a clever combination of artificial intelligence, a mechanical trap and protein nanofibers, they are presenting a targeted method to efficiently control populations of the Asian hornet.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-10T12:40:11+00:00",
+      "coletado_em": "2026-11-10T17:03:53.349550+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-team-develops.jpg",
+      "score": 5.102,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "2de9822bc9fb",
+      "titulo": "Why predictive maintenance matters more as factories add robots",
+      "url": "https://www.therobotreport.com/why-predictive-maintenance-matters-more-as-factories-add-robots/",
+      "resumo": "As robotics scales across industries, companies need a maintenance strategy to collect and use the right data to minimize downtime. The post Why predictive maintenance matters more as factories add robots appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-10T16:13:40+00:00",
+      "coletado_em": "2026-11-10T17:03:53.351679+00:00",
+      "imagem_feed": null,
+      "score": 5.306,
+      "cobertura": []
+    },
+    {
+      "id": "9e9a5853f7d7",
+      "titulo": "Intel and Altera expand collaboration to simplify sensor integration for physical AI",
+      "url": "https://www.therobotreport.com/intel-altera-expand-collaboration-simplify-sensor-integration-physical-ai/",
+      "resumo": "Altera and Intel are working to make it easier to connect diverse sensors, turn data into real-time insights, and develop robotics. The post Intel and Altera expand collaboration to simplify sensor integration for physical AI appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-10T14:47:10+00:00",
+      "coletado_em": "2026-11-10T17:03:53.351679+00:00",
+      "imagem_feed": null,
+      "score": 5.153,
+      "cobertura": []
+    },
+    {
+      "id": "231c03db38be",
+      "titulo": "Axon invests $1.2B into Skydio and becomes its U.S. public safety distributor",
+      "url": "https://www.therobotreport.com/axon-invests-1-2b-into-skydio-and-becomes-its-u-s-public-safety-distributor/",
+      "resumo": "The partners plan to bring Skydio drones to public safety agencies across the U.S. as Axon expands its Drone as First Responder program. The post Axon invests $1.2B into Skydio and becomes its U.S. public safety distributor appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-10T13:06:58+00:00",
+      "coletado_em": "2026-11-10T17:03:53.351679+00:00",
+      "imagem_feed": null,
+      "score": 4.992,
+      "cobertura": []
+    },
+    {
+      "id": "f45497111a6f",
+      "titulo": "Extra robotic thumb lets wearers complete two-handed tasks with one hand",
+      "url": "https://techxplore.com/news/2026-11-extra-robotic-thumb-wearers-tasks.html",
+      "resumo": "To complete many everyday tasks and chores, humans typically use both of their hands. For instance, when opening a bottle, they use one hand to hold the bottle and the other to twist its cap. Researchers at the University of California San Diego recently developed EgoThumb, a robotic thumb that could allow people to complete some tasks that generally require both hands using only one.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-10T14:23:22+00:00",
+      "coletado_em": "2026-11-10T17:03:53.351861+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-robotic-thumb-could.jpg",
+      "score": 4.764,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "0e1d874deb6f",
+      "titulo": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1106522/",
+      "resumo": "Security updates have been issued by AlmaLinux (curl, dpdk, glibc, kernel, nodejs-nodemon, nodejs22, nodejs24, nodejs:18, nodejs:22, patch, qt5, qt5-qtdeclarative, ruby, ruby4.0, ruby:3.3, ruby:4.0, squid:4, tomcat, util-linux, and webkit2gtk3), Debian (symfony and tomcat10), Fedora (bind, dnf5, kernel, kernel-headers, libmodulemd, maturin, perl-CGI, perl-Net-IDN-Encode, perl-Starlet, python-jiter, python-pydantic-core, python-pysequoia, python3-docs, python3.14, python3.15, ruff, rust-afterburn, rust-astral_async_zip, rust-clearscreen, rust-jiter, rust-lzma-rust2, rust-mailparse, rust-pyo3-introspection, rust-python-pkginfo, rust-serde_json, rust-testresult, rust-zip, selenium-manager, ty, and uutils-coreutils), Mageia (glibc, packages, php-smarty, python-aiohttp, and thunderbird), Oracle (curl, firefox, gdb, glibc, kernel, oVirt 4.5 ovirt-engine-wildfly, perl-YAML:1.24, and tesseract), Slackware (krb5), SUSE (ansible-core, apr-util, aspell, buildpacks-cli, dpdk22, firefox, git-bug, glib2, google-cloud-sap-agent, haproxy, jsoup, kernel, krb5, libjxl, librsvg, libruby4_0-4_0, libunbound8, libXtst, nodejs24, nvidia-open-driver-G07-signed, PackageKit, perl-XS-Parse-Keyword, poppler, ",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-10T14:03:54+00:00",
+      "coletado_em": "2026-11-10T17:03:53.352805+00:00",
+      "imagem_feed": null,
+      "score": 5.732,
+      "cobertura": []
+    },
+    {
+      "id": "00e3d4d76dfa",
+      "titulo": "[$] Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/Articles/1102549/",
+      "resumo": "Mike Lothian owns a docking station (or dock) that uses a DisplayLink chipset that had, at least in his opinion, subpar performance on Linux. He decided to try improving the Linux driver, with LLM assistance, but ran into one problem that he could not solve—so he asked for help, hoping that Synaptics's developers would lend a hand. (DisplayLink was acquired by Synaptics in 2022.) Rather than help him in improving the driver, however, the Synaptics legal team responded with patent infringement claims, a demand that he cease unauthorized implementation of DisplayLink technology, and threats of expensive legal penalties. For now, it appears that Linux users of the company's docks will have to continue to live without feature parity with other platforms.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-10T15:38:10+00:00",
+      "coletado_em": "2026-11-10T17:03:53.352805+00:00",
+      "imagem_feed": null,
+      "score": 5.392,
+      "cobertura": []
+    },
+    {
+      "id": "69310809cfa3",
+      "titulo": "Anthropic lança Claude Fable 5.2, supera Opus 5.5 e libera uso extra para assinantes",
+      "url": "https://canaltech.com.br/inteligencia-artificial/anthropic-lanca-claude-fable-52-supera-opus-55-e-libera-uso-extra-para-assinantes/",
+      "resumo": "A Anthropic anunciou o Claude Fable 5.2 , novo modelo de inteligência artificial que supera o Opus 5.5 e concorrentes em testes de programação, engenharia de software, pesquisa científica e raciocínio. A ferramenta já está disponível para assinantes de planos pagos e também pode ser acessada pelas plataformas Amazon Web Services (AWS), Google Cloud e Microsoft Azure. O modelo alcançou 49,1% no benchmark FrontierCode 2.0 , que avalia programação com agentes de IA, contra 45,5% do Opus 5.5 e 42,8% do GPT-6 Astra. Na engenharia de software, obteve 69,9% no FrontierSWE v2, acima do Fable 5.1 (56,3%) e do Opus 5.5 (62,3%). Já no teste OSWorld 2.1, que avalia o controle de computadores, atingiu 89,3%. Os resultados também incluem avanços em pesquisa científica e raciocínio . No Terminal-Bench-Science 0.1, o Fable 5.2 obteve 74,6%, enquanto o Opus 5.5 registrou 58,7%. O novo modelo ainda alcançou 74,2% no Humanity's Last Exam e 73,4% no Chartography, que avalia o reconhecimento de informações visuais. Segundo a Anthropic, ele também executa tarefas complexas com menos tokens e gera respostas até 30% mais rápido que o Fable 5.1. O Fable 5.2 também demonstrou capacidade de executar projetos",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-10T14:03:10+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qufiNUtOzv94gCRjANt5gFVbbjA=/0x0/filters:format(webp):quality(85)/0b4f9bd8-c96d-4169-ba9e-74bda377d923.jpg",
+      "score": 5.281,
+      "cobertura": []
+    },
+    {
+      "id": "8abde1ce00be",
+      "titulo": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "resumo": "\"*sshole\" poses a serious threat to Internet security.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-09T19:41:34+00:00",
+      "coletado_em": "2026-11-10T17:03:53.352472+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "score": 4.932,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "394603b621a8",
+      "titulo": "AMD lança CPU gigante de 256 núcleos para deixar NVIDIA e Intel preocupadas",
+      "url": "https://canaltech.com.br/hardware/amd-lanca-cpu-gigante-de-256-nucleos-para-deixar-nvidia-e-intel-preocupadas/",
+      "resumo": "A AMD apresentou todos os detalhes da sexta geração dos seus processadores EPYC na última quarta-feira (4), durante um evento fechado para a imprensa. Os novos EPYC Venice são chips literalmente gigantes — como você pode ver na imagem abaixo — e reúnem até 256 núcleos e 512 threads para atender à crescente demanda por inteligência artificial agêntica nos data centers de grandes empresas de tecnologia. Segundo os testes de benchmark apresentados ao Canaltech durante o AMD In Depth 2026, em Las Vegas, nos Estados Unidos, os novos processadores demonstraram vantagens consideráveis sobre alternativas da NVIDIA e da Intel em determinadas aplicações de IA. Em um dos cenários, a fabricante afirma que o Venice consegue executar até 2,8 vezes mais agentes de inteligência artificial por watt consumido do que soluções concorrentes. Isso é motivo suficiente para deixar a concorrência preocupada com market-share em um mercado que drena bilhões de dólares da economia global mensalmente. A AMD também divulgou resultados de uma plataforma que combina os novos EPYC Venice com aceleradores gráficos Instinct. Nesse caso, a empresa afirma entregar até 30% mais tokens de IA por dólar investido em compa",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-10T17:00:08+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/8Gi_vJNyFMiW54X_XifsM3YvFG0=/0x0/filters:format(webp):quality(85)/f44126f1-83d0-428a-b832-14368bb869e9.jpg",
+      "score": 6.093,
+      "cobertura": []
+    },
+    {
+      "id": "94121f1341ae",
+      "titulo": "AMD revela pistas dos novos Ryzen: 24 núcleos e desempenho muito maior?",
+      "url": "https://canaltech.com.br/hardware/amd-revela-pistas-dos-novos-ryzen-24-nucleos-e-desempenho-muito-maior/",
+      "resumo": "A AMD acabou de revelar todas as novidades dos seus gigantescos processadores EPYC Venice, com até 256 núcleos para servidores. Mas, se você não é dono de um data center, o que realmente importa são as pistas que a fabricante deixou sobre a arquitetura Zen 6 , que também servirá de base para os próximos chips Ryzen destinados aos computadores pessoais. Durante o AMD In Depth 2026, evento realizado em Las Vegas, nos Estados Unidos, o Canaltech acompanhou uma apresentação técnica de Mike Clark, principal arquiteto da família Zen , que detalhou mudanças importantes na organização dos núcleos, no sistema de cache e no processamento de instruções. As novidades indicam que os futuros Ryzen poderão chegar com até 24 núcleos, mais memória cache e ganhos expressivos de desempenho , embora a AMD ainda não tenha confirmado as especificações dos modelos domésticos. A seguir, reunimos cinco avanços da arquitetura que ajudam a entender o que esperar da próxima geração de processadores da marca. 1. Próximos Ryzen podem chegar a 24 núcleos Uma das novidades mais interessantes está na quantidade de núcleos que a AMD conseguiu colocar em cada complexo de processamento. Na arquitetura Zen 5, utilizad",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-10T17:00:08+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/CrG0PMjFgiDyuz2Ljkd48UFBgds=/0x0/filters:format(webp):quality(85)/f73a64d0-b340-4b49-ae91-9c6e861d64f3.png",
+      "score": 6.093,
+      "cobertura": []
+    },
+    {
+      "id": "b2c82dcacfa8",
+      "titulo": "AMD quer frear a crise de memória RAM com tecnologia revolucionária",
+      "url": "https://canaltech.com.br/hardware/amd-quer-frear-a-crise-de-memoria-ram-com-tecnologia-revolucionaria/",
+      "resumo": "A novidade mais promissora que a AMD apresentou durante o lançamento dos novos processadores EPYC Venice, na última quarta-feira (4), em Las Vegas, não foram os chips em si, mas uma tecnologia de gerenciamento de memória chamada MEXT Memory . Desenvolvida para reduzir os custos dos servidores, a solução pode ter um impacto extremamente positivo no combate à crise de memória RAM provocada pela demanda dos data centers de inteligência artificial. Quando a AMD começou a falar sobre uma tecnologia capaz de substituir metade da memória RAM de um servidor por armazenamento SSD, minha primeira reação foi de desconfiança. Afinal, soluções que prometem ampliar a memória utilizando o armazenamento interno existem há décadas, e nem sempre entregam os ganhos de desempenho esperados. Em testes apresentados pela fabricante durante o AMD In Depth 2026, a tecnologia conseguiu preservar 99% do desempenho original de um servidor utilizando apenas metade da memória DRAM. Um resultado surpreendente e com potencial muito além do que apenas baratear servidores. Em um momento de crise global de memória RAM, impulsionada pela demanda dos data centers de inteligência artificial, que já encarece celulares, ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-10T17:00:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/F_X3VuTRUZiF4DXKvhCxMzNpZdw=/0x0/filters:format(webp):quality(85)/5932d933-3be3-4eb4-acfe-51fd8ded8086.jpg",
+      "score": 6.093,
+      "cobertura": []
+    },
+    {
+      "id": "dab7fe82b754",
+      "titulo": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop",
+      "resumo": "Class-action lawsuit and legal investigations against Nvidia over securities fraud start flying",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-10T00:03:08+00:00",
+      "coletado_em": "2026-11-10T17:03:53.353543+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vmfpT5LqUXTgKosXsbK9nj-1920-80.jpg",
+      "score": 5.949,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+        "https://www.techspot.com/news/114504-nvidia-jensen-huang-face-class-action-lawsuit-after.html"
+      ]
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "96c8f88a1c12",
+      "titulo": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
+      "url": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
+      "resumo": "While rivals announce increasingly expensive smart telescopes, ZWO’s new Seestar S30 Plus makes galaxy and nebula photography surprisingly affordable.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-10T14:00:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.355098+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/z2QmaT5onPi8VTz593SMfc-1920-80.jpg",
+      "score": 6.076,
+      "cobertura": []
+    },
+    {
+      "id": "f1e81eb74762",
+      "titulo": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+      "resumo": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy. […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-10T16:00:26+00:00",
+      "coletado_em": "2026-11-10T17:03:53.354320+00:00",
+      "imagem_feed": null,
+      "score": 5.881,
+      "cobertura": []
+    },
+    {
+      "id": "a03aaf73617f",
+      "titulo": "The supernova impostor: Chandra finds likely source of giant star's repeated outbursts",
+      "url": "https://phys.org/news/2026-11-supernova-impostor-chandra-source-giant.html",
+      "resumo": "Using NASA's Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-09T21:40:10+00:00",
+      "coletado_em": "2026-11-10T17:03:53.354637+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-chandra-finds-so.jpg",
+      "score": 5.202,
+      "cobertura": [
+        "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
+      ]
+    },
+    {
+      "id": "d544226bf8e6",
+      "titulo": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "resumo": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-09T18:55:50+00:00",
+      "coletado_em": "2026-11-10T17:03:53.354320+00:00",
+      "imagem_feed": null,
+      "score": 5.057,
+      "cobertura": [
+        "https://phys.org/news/2026-11-supernova-impostor-chandra-source-giant.html"
+      ]
+    }
+  ],
+  "quantica": [
+    {
+      "id": "002543b81cd7",
+      "titulo": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
+      "url": "https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110",
+      "resumo": "An MIT faculty member for nearly half a century, Goldstone was a “theoretical physicist of rare talent and impact” who made fundamental contributions to multiple disciplines.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-10T16:10:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.356425+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/jeffrey-goldstone-mit-A1.jpg?itok=Vgz7ysYG",
+      "score": 5.199,
+      "cobertura": []
+    },
+    {
+      "id": "20024e0336a7",
+      "titulo": "Laser-driven magnetic state defies equilibrium rules",
+      "url": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
+      "resumo": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to study materials systems driven far from their equilibrium. Manipulation of quantum magnets is important for advancing quantum information science and could reduce loss of transported information, improve memory devices and benefit other quantum technologies.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-10T17:00:10+00:00",
+      "coletado_em": "2026-11-10T17:03:53.355927+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/lasers-neutrons-reveal.jpg",
+      "score": 5.043,
+      "cobertura": []
+    },
+    {
+      "id": "7ea3086515c1",
+      "titulo": "Commission on U.S. Quantum Primacy Urges Sustained Investment to Turn Quantum Discovery Into American Advantage",
+      "url": "https://thequantuminsider.com/2026/11/10/commission-on-u-s-quantum-primacy-urges-sustained-investment-to-turn-quantum-discovery-into-american-advantage/",
+      "resumo": "Insider Brief PRESS RELEASE — The Commission on U.S. Quantum Primacy (CUSP), convened by the Special Competitive Studies Project (SCSP), released today its preliminary report, Defining the American Quantum Era, a strategy argument for why the United States must move beyond scientific leadership in quantum and build the capacity to deploy and manufacture quantum technologies […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-10T15:26:59+00:00",
+      "coletado_em": "2026-11-10T17:03:53.355550+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/dnvihg3xf30.jpg",
+      "score": 5.022,
+      "cobertura": []
+    },
+    {
+      "id": "c885f92e9e1c",
+      "titulo": "Quantum could solve AI energy drain, says tech founder",
+      "url": "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html",
+      "resumo": "Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-10T11:12:30+00:00",
+      "coletado_em": "2026-11-10T17:03:53.355927+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/founder-of-australian.jpg",
+      "score": 4.976,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "eadb37a866a6",
+      "titulo": "Nvidia and Jensen Huang face class-action lawsuit after affair with alleged Chinese spy wipes $190 billion off company",
+      "url": "https://www.techspot.com/news/114504-nvidia-jensen-huang-face-class-action-lawsuit-after.html",
+      "resumo": "Huang admitted to the extramarital affair over the weekend following reports that he was targeted by a suspected Chinese intelligence operative, Alice Huang, who is not related to Jensen. US intelligence services claim she was acting as a honeypot, tasked with gathering information about American AI chips and influencing the... Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-10T11:15:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.362334+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-10-ts3_thumbs-e4b.jpg",
+      "score": 6.829,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+        "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+        "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop"
+      ]
+    },
+    {
+      "id": "89cbcfa27705",
+      "titulo": "AMD confirms GPU driver bug is writing data continuously, promises fix with next update",
+      "url": "https://www.techspot.com/news/114496-amd-confirms-gpu-driver-bug-writing-data-continuously.html",
+      "resumo": "The problem, which affects only Windows PCs, has been reported by multiple users on social media, online message boards, and official AMD forums for years. Some users have complained that the excessive disk activity was reducing their SSD's lifespan by around 1% every month. One user even claimed that their... Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-10T15:57:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.362334+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2024/09/2024-09-12-ts3_thumbs-1cb.jpg",
+      "score": 6.275,
+      "cobertura": [
+        "https://www.tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year"
+      ]
+    },
+    {
+      "id": "40f87d3956a3",
+      "titulo": "Still using an older laptop? These 3 security steps are essential",
+      "url": "https://www.pcworld.com/article/3273765/3-steps-you-should-take-to-keep-old-tech-secure.html",
+      "resumo": "Tech is expensive these days. AI data center for demand hasn’t abated, and word on the street is that RAM and storage will continue to be pinched through 2030. Ouch. If you’re like me, you’re probably making do with your current gear—even if it’s considered old by pre-AI-apocalypse standards. It’s a smart move financially, but you shouldn’t just keep plugging along as you always have. Without some smart tweaks, you leave yourself open to danger online. But doing just these three things will ensure your faithful devices will continue to be protected while online. 1 – Use a current operating system PCWorld Back in the day, aged PCs could technically run new versions of Windows, but they didn’t always run well. With Windows 11, they’re actually shut out completely. Meanwhile, Windows 10 still is getting security updates for now, but its end-of-life is coming in 2027—so anyone still on it is on borrowed time. If this is you, you’ll have to switch alternative operating system. ChromeOS is usually the first option I recommend, as most people only ever their laptop or PC for web browsing. This OS is very lightweight—running it on 10+ year old machines can make them feel as fast (if not fa",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-10T14:00:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.357456+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3273765-0-89235700-1794319230-pexels-cottonbro-8720269-sm.jpg?quality=50&strip=all",
+      "score": 5.876,
+      "cobertura": []
+    },
+    {
+      "id": "e09aca0e9966",
+      "titulo": "AMD confirms bug causing excessive SSD wear",
+      "url": "https://www.pcworld.com/article/3281207/amd-confirms-a-bug-in-its-drivers-it-may-cause-wear-and-tear-on-the-computers-ssd.html",
+      "resumo": "If you’ve noticed your SSD filling up or experiencing heavy background activity lately, an ongoing bug in AMD’s software might be to blame. The fault lies within AMD Software: Adrenalin Edition. It has been reported by several users, according to Tom’s Hardware . The underlying cause appears to be the AMD External Events Utility service, which, on some computers, continuously writes data to the system drive. Users have reported write speeds of between 0.3 and 5 MB/s. In the worst reported case, this equates to over 400 GB per day. One user states that the storage device’s reported health status has deteriorated by around one percent a month over a period of 16 months, though this has not been verified. The issue has been reported in both Windows 10 and Windows 11 and appears across several versions of AMD’s drivers, though not all users are affected. AMD has confirmed the bug and states that a fix is expected in driver version 26.11.1, which does not yet have a confirmed release date. PC för Alla To check whether your computer is affected, open the Windows Resource Monitor by pressing Windows + R , typing resmon , and selecting the Disk tab. Look for continuous writes from the proc",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-10T14:00:33+00:00",
+      "coletado_em": "2026-11-10T17:03:53.357456+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3281207-0-81178000-1794320006-AMD-Ryzen-sticker-on-a-laptop.jpg?quality=50&strip=all",
+      "score": 5.876,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "20ff528b5495",
+      "titulo": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "resumo": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-09T18:09:52+00:00",
+      "coletado_em": "2026-11-10T17:03:53.364757+00:00",
+      "imagem_feed": null,
+      "score": 6.283,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+        "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop",
+        "https://www.techspot.com/news/114504-nvidia-jensen-huang-face-class-action-lawsuit-after.html"
+      ]
+    },
+    {
+      "id": "6e9587b81b32",
+      "titulo": "Meta lança Muse Ember, IA ultrabarata para tarefas repetitivas que custa centavos",
+      "url": "https://canaltech.com.br/inteligencia-artificial/meta-lanca-muse-ember-ia-ultrabarata-para-tarefas-repetitivas-que-custa-centavos/",
+      "resumo": "A Meta anunciou o Muse Ember , seu menor e mais eficiente modelo de inteligência artificial até o momento. Apresentada por Mark Zuckerberg em uma publicação no X, a novidade foi desenvolvida para executar tarefas repetitivas em grande volume, especialmente aquelas realizadas continuamente por agentes de IA, como chamadas de ferramentas, análise de documentos, extração de dados e subtarefas de programação. O modelo funciona como um agente leve ou subagente dentro de sistemas mais complexos de inteligência artificial. Desenvolvido a partir do Muse Wonder Full, modelo mais avançado da empresa, o Ember prioriza velocidade e baixo custo operacional. Ele tem uma janela de contexto de 1 milhão de tokens e consegue gerar até 512 mil tokens de saída por chamada. Também processa textos, imagens, áudios e vídeos sem depender de modelos auxiliares. O Muse Ember superou o Claude Haiku 5.5 e o GPT-6 Luna em avaliações de automação empresarial, tarefas complexas de agentes, programação em terminal e percepção visual. No índice geral de inteligência da Artificial Analysis, o modelo alcançou 36 pontos, empatado com o Claude Haiku 5.5 e acima dos 28 pontos do GPT-6 Luna. Já no FrontierCode 2.0-AA, q",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-10T16:07:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/NtXwk2R68W047NY-9VUnD9TFRwQ=/0x0/filters:format(webp):quality(85)/384d5f96-6fdd-4ff7-824b-bbb20f819138.jpg",
+      "score": 5.993,
+      "cobertura": []
+    },
+    {
+      "id": "69310809cfa3",
+      "titulo": "Anthropic lança Claude Fable 5.2, supera Opus 5.5 e libera uso extra para assinantes",
+      "url": "https://canaltech.com.br/inteligencia-artificial/anthropic-lanca-claude-fable-52-supera-opus-55-e-libera-uso-extra-para-assinantes/",
+      "resumo": "A Anthropic anunciou o Claude Fable 5.2 , novo modelo de inteligência artificial que supera o Opus 5.5 e concorrentes em testes de programação, engenharia de software, pesquisa científica e raciocínio. A ferramenta já está disponível para assinantes de planos pagos e também pode ser acessada pelas plataformas Amazon Web Services (AWS), Google Cloud e Microsoft Azure. O modelo alcançou 49,1% no benchmark FrontierCode 2.0 , que avalia programação com agentes de IA, contra 45,5% do Opus 5.5 e 42,8% do GPT-6 Astra. Na engenharia de software, obteve 69,9% no FrontierSWE v2, acima do Fable 5.1 (56,3%) e do Opus 5.5 (62,3%). Já no teste OSWorld 2.1, que avalia o controle de computadores, atingiu 89,3%. Os resultados também incluem avanços em pesquisa científica e raciocínio . No Terminal-Bench-Science 0.1, o Fable 5.2 obteve 74,6%, enquanto o Opus 5.5 registrou 58,7%. O novo modelo ainda alcançou 74,2% no Humanity's Last Exam e 73,4% no Chartography, que avalia o reconhecimento de informações visuais. Segundo a Anthropic, ele também executa tarefas complexas com menos tokens e gera respostas até 30% mais rápido que o Fable 5.1. O Fable 5.2 também demonstrou capacidade de executar projetos",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-10T14:03:10+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qufiNUtOzv94gCRjANt5gFVbbjA=/0x0/filters:format(webp):quality(85)/0b4f9bd8-c96d-4169-ba9e-74bda377d923.jpg",
+      "score": 5.781,
+      "cobertura": []
+    },
+    {
+      "id": "394603b621a8",
+      "titulo": "AMD lança CPU gigante de 256 núcleos para deixar NVIDIA e Intel preocupadas",
+      "url": "https://canaltech.com.br/hardware/amd-lanca-cpu-gigante-de-256-nucleos-para-deixar-nvidia-e-intel-preocupadas/",
+      "resumo": "A AMD apresentou todos os detalhes da sexta geração dos seus processadores EPYC na última quarta-feira (4), durante um evento fechado para a imprensa. Os novos EPYC Venice são chips literalmente gigantes — como você pode ver na imagem abaixo — e reúnem até 256 núcleos e 512 threads para atender à crescente demanda por inteligência artificial agêntica nos data centers de grandes empresas de tecnologia. Segundo os testes de benchmark apresentados ao Canaltech durante o AMD In Depth 2026, em Las Vegas, nos Estados Unidos, os novos processadores demonstraram vantagens consideráveis sobre alternativas da NVIDIA e da Intel em determinadas aplicações de IA. Em um dos cenários, a fabricante afirma que o Venice consegue executar até 2,8 vezes mais agentes de inteligência artificial por watt consumido do que soluções concorrentes. Isso é motivo suficiente para deixar a concorrência preocupada com market-share em um mercado que drena bilhões de dólares da economia global mensalmente. A AMD também divulgou resultados de uma plataforma que combina os novos EPYC Venice com aceleradores gráficos Instinct. Nesse caso, a empresa afirma entregar até 30% mais tokens de IA por dólar investido em compa",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-10T17:00:08+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/8Gi_vJNyFMiW54X_XifsM3YvFG0=/0x0/filters:format(webp):quality(85)/f44126f1-83d0-428a-b832-14368bb869e9.jpg",
+      "score": 5.593,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "77fa7a420e6a",
+      "titulo": "New research explains why silicon outperforms thin film in the race for solar panel supremacy",
+      "url": "https://techxplore.com/news/2026-11-silicon-outperforms-thin-solar-panel.html",
+      "resumo": "Even the most promising technologies can fail to take off if governments, producers and suppliers, along with consumer and business demand, are not able to support their growth, according to new research by Bayes Business School.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-10T16:40:01+00:00",
+      "coletado_em": "2026-11-10T17:03:53.365557+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/rooftop-solar-panels-1.jpg",
+      "score": 5.505,
+      "cobertura": []
+    },
+    {
+      "id": "7ccf7541104c",
+      "titulo": "Conheça o \"truque\" da Mercedes para o carona ver vídeos no para-brisa sem distrair o motorista",
+      "url": "https://canaltech.com.br/carros/conheca-o-truque-da-mercedes-para-o-carona-ver-videos-no-para-brisa-sem-distrair-o-motorista/",
+      "resumo": "A Mercedes-Benz apresentou uma novidade no para-brisa dos seus carros. Com a nova tecnologia, é possível projetar filmes e conteúdos de entretenimento exclusivamente para o passageiro dianteiro , sem que o motorista consiga enxergar a imagem e acabe distraído da via. Chamado de Holo Display , o sistema opera a partir de um projetor embutido no painel que direciona feixes de luz a uma película holográfica transparente laminada no vidro . Essa película reflete a imagem com alta nitidez mesmo sob incidência direta de luz solar, direcionando a visualização em ângulos específicos. Isso significa que o carona pode assistir a vídeos e até realizar chamadas de vídeo, enquanto o condutor visualiza somente dados essenciais de navegação ou vê o vidro perfeitamente translúcido. A solução supera inclusive as dimensões dos head-up displays tradicionais , e ocupa áreas maiores só quando é ativado. Tecnologia Mercedes Desenvolvido na Alemanha, o Holo Display é um sistema holográfico que usa refração óptica para eliminar distrações ao volante . O recurso foi revelado junto de outras inovações da montadora, como o Intelligent Display in Glass , que consiste em vidros dotados de LEDs integrados para ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-10T16:00:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/aSI4f1xe7dCECUfNVnGJQyQR4B0=/0x0/filters:format(webp):quality(85)/59eba013-5bc6-4296-ad18-4336a78cd6cc.png",
+      "score": 4.981,
+      "cobertura": []
+    },
+    {
+      "id": "67d4e3242c5e",
+      "titulo": "A new modeling approach could make it easier to predict home energy use",
+      "url": "https://techxplore.com/news/2026-11-approach-easier-home-energy.html",
+      "resumo": "Predicting how much energy individual homes consume is a persistent challenge for researchers and urban planners. Models often group houses into broad categories based on their age or other characteristics, overlooking differences in their size, construction and energy performance.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-10T16:40:08+00:00",
+      "coletado_em": "2026-11-10T17:03:53.365557+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-modeling-approac.jpg",
+      "score": 4.505,
+      "cobertura": []
+    },
+    {
+      "id": "ba173d6bc86f",
+      "titulo": "Hybrid system could make cooling AI data centers cheaper and more efficient",
+      "url": "https://techxplore.com/news/2026-11-hybrid-cooling-ai-centers-cheaper.html",
+      "resumo": "Data centers at the heart of the artificial intelligence (AI) revolution could be cooled more effectively and economically with a hybrid system under development at the University of Waterloo that targets hotspots on computer chips with a single drop of boiling coolant.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-10T14:40:05+00:00",
+      "coletado_em": "2026-11-10T17:03:53.365557+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-innovation-could-m.jpg",
+      "score": 4.291,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "55f05ecac18f",
+      "titulo": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
+      "resumo": "",
+      "fonte": "CISA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-09T12:00:00+00:00",
+      "coletado_em": "2026-11-10T17:03:53.365860+00:00",
+      "imagem_feed": null,
+      "score": 3.373,
+      "cobertura": []
+    },
+    {
+      "id": "0dc85328478e",
+      "titulo": "\"iPhone Duo da Motorola\" tem nome revelado antes da hora; veja o que já sabemos",
+      "url": "https://canaltech.com.br/smartphone/iphone-duo-da-motorola-tem-nome-revelado-antes-da-hora-veja-o-que-ja-sabemos/",
+      "resumo": "A Motorola deu mais um sinal de que o lançamento do seu novo celular dobrável está chegando, e agora revelou antecipadamente o nome do aparelho. O “iPhone Duo” da marca apareceu em uma página oficial de suporte como motorola Razr Flex, além de uma indicação de que chegará às lojas em 2027. A página não traz imagens nem confirma a ficha técnica , mas representa uma referência oficial ao nome do dispositivo. Até então, as informações sobre o dobrável circulavam apenas em vazamentos, que apontavam para um formato diferente dos modelos Razr tradicionais. A expectativa é que o Razr Flex entre na disputa dos celulares dobráveis que têm formato de passaporte. Com isso, a companhia terá um dispositivo para fazer frente a lançamentos recentes, como o Galaxy Z Fold 8 e o já citado iPhone Duo . Tela ampla e Snapdragon 8 Gen 5 estão entre os rumores Se o nome do aparelho foi confirmado pela própria Motorola, algumas especificações atribuídas ao Razr Flex apareceram em uma página da loja portuguesa MegaPC e em um registro no Geekbench. Os vazamentos dão conta de que o smartphone pode trazer uma tela OLED interna de 6,92 polegadas, com resolução de 2.364 x 1.728 pixels e taxa de atualização de 1",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-09T19:33:24+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/lTn3jvFZWt0DkxTxFfN5Weigsek=/0x0/filters:format(webp):quality(85)/c7a4097a-6ed6-497f-aaf2-eee84cc2e250.png",
+      "score": 3.177,
+      "cobertura": []
+    },
+    {
+      "id": "eda08569fb9a",
+      "titulo": "Galaxy S27 pode decepcionar? Vazamento das câmeras preocupa fãs da Samsung",
+      "url": "https://canaltech.com.br/smartphone/galaxy-s27-pode-decepcionar-vazamento-das-cameras-preocupa-fas-da-samsung/",
+      "resumo": "A linha Galaxy S27 pode decepcionar quem esperava grandes avanços nas câmeras dos próximos celulares da Samsung. Um novo vazamento indica que o Galaxy S27 Pro terá uma telefoto de apenas 10 MP com zoom óptico de 3x, bem abaixo do que rumores anteriores apontavam para o modelo. A suposta ficha técnica também mostra poucas novidades para o Galaxy S27 e S27+, enquanto o S27 Ultra pode abandonar a segunda câmera telefoto. As informações já causaram críticas entre fãs da Samsung nas redes sociais. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Galaxy S27 Pro pode ter câmera de 10 MP Segundo informações vazadas, o Galaxy S27 Pro deve ter uma câmera telefoto de 10 MP com sensor de 1/2,55 polegada e zoom óptico de 3x. A configuração chama atenção porque vazamentos anteriores apontavam para opções bem mais avançadas. Entre elas, estavam uma câmera de 50 MP com zoom óptico de 5x, outra de 50 MP com aproximação de 3,5x e até um sensor de 12 MP com zoom de 3x. No restante do conjunto, o Galaxy S27 Pro ficaria bem mais próximo do S27 Ultra. Os dois teriam uma câmera principal de 200 MP com sensor Samsung ISOCELL HP6, ultrawide de 50 MP e frontal de 16 MP. A diferença estari",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-10T14:10:17+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/heSuMUIYeRcVK0DSXO9IQN40sPs=/0x0/filters:format(webp):quality(85)/8609ccfc-34d4-41c5-ace7-f4ad0e944589.png",
+      "score": 1.292,
+      "cobertura": []
+    },
+    {
+      "id": "3c5505474c34",
+      "titulo": "Xiaomi prepara \"top barato\" com bateria absurda de 10.000 mAh",
+      "url": "https://canaltech.com.br/smartphone/xiaomi-prepara-top-barato-com-bateria-absurda-de-10000-mah/",
+      "resumo": "A Xiaomi pode estar preparando um novo celular topo de linha da Redmi com uma bateria absurda de 10.000 mAh . Apontado como o possível Redmi K100 Ultra, o aparelho ainda teria carregamento de 100 W e suporte a recarga sem fio de 50 W. As informações foram divulgadas nesta terça-feira (10) pelo leaker Digital Chat Station, duas semanas depois do lançamento da versão base, o Redmi K100 . Apesar de a fonte ter bom histórico de vazamentos, ela não revelou o nome do celular e cita apenas um topo de linha de uma submarca em fase de testes. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Pelo histórico do leaker, a expectativa é que o protótipo pertença à Redmi. Com isso, o aparelho passou a ser associado ao futuro K100 Ultra, mas o nome ainda não foi confirmado pela Xiaomi. Bateria de 10.000 mAh e carga sem fio De acordo com o vazamento, o protótipo usa uma bateria personalizada com capacidade próxima de 10.000 mAh. O conjunto ainda teria descarga em baixa tensão e um sistema de bypass para alimentar o celular diretamente pelo carregador durante tarefas mais pesadas. Esse último recurso ajuda a reduzir o uso da bateria enquanto o aparelho está conectado à tomada, algo",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-10T12:22:26+00:00",
+      "coletado_em": "2026-11-10T17:03:53.374789+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/NOjDUca18fUQ_HxK-bNzx1jRuy8=/0x0/filters:format(webp):quality(85)/2693d546-df2b-46e1-86de-35abab507fe0.jpg",
+      "score": 1.125,
+      "cobertura": []
+    }
+  ]
+}
