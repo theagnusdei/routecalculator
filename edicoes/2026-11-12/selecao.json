@@ -1,0 +1,759 @@
+{
+  "medicina": [
+    {
+      "id": "1487f55cdfb7",
+      "titulo": "Drug ads can influence AI treatment recommendations, study finds",
+      "url": "https://medicalxpress.com/news/2026-11-drug-ads-ai-treatment.html",
+      "resumo": "As people increasingly turn to artificial intelligence (AI) for health information, a new study by researchers at the Icahn School of Medicine at Mount Sinai raises questions about what happens when commercial advertising appears alongside a clinical question. The findings were reported in the Nov. 11 online issue of The Lancet Digital Health.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-11T17:00:11+00:00",
+      "coletado_em": "2026-11-11T17:08:13.733620+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/drug-ads-can-influence.jpg",
+      "score": 6.535,
+      "cobertura": []
+    },
+    {
+      "id": "73ffa08ab25d",
+      "titulo": "New clinical definition outperforms BMI in diagnosing obesity",
+      "url": "https://medicalxpress.com/news/2026-11-clinical-definition-outperforms-bmi-obesity.html",
+      "resumo": "A new diagnostic definition of obesity outperforms body mass index (BMI) in identifying differences in health and prognosis, including mortality risk, according to a large international study published in Nature.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-11T16:00:40+00:00",
+      "coletado_em": "2026-11-11T17:08:13.733620+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/bmi-1.jpg",
+      "score": 6.424,
+      "cobertura": [
+        "https://www.nature.com/articles/d41586-026-03425-0"
+      ]
+    },
+    {
+      "id": "0fd96aaf8c86",
+      "titulo": "Human neurons regain communication in motor neuron disease lab models",
+      "url": "https://medicalxpress.com/news/2026-11-human-neurons-regain-communication-motor.html",
+      "resumo": "A novel potential treatment approach for motor neuron disease (MND), similar to the approach being pursued with an investigational drug that recently entered human clinical trials, has been shown to restore broken communication between neurons in lab models of the disease. This could have beneficial therapeutic implications for 97% of people with MND, for whom there is currently no significant disease-modifying treatment.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-11T16:00:08+00:00",
+      "coletado_em": "2026-11-11T17:08:13.733620+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2020/neuron.jpg",
+      "score": 6.423,
+      "cobertura": []
+    },
+    {
+      "id": "55ecdaf7f0ac",
+      "titulo": "Molecular brace traps two cancer-driving proteins to suppress prostate cancer growth in preclinical tests",
+      "url": "https://medicalxpress.com/news/2026-11-molecular-brace-cancer-proteins-suppress.html",
+      "resumo": "Many modern cancer drugs typically target a specific protein or signaling pathway to treat tumors. Now, researchers at the University of Michigan Health Rogel Cancer Center are taking a new approach by throwing a molecular wrench into the machinery driving prostate cancer. In preclinical studies, this new approach demonstrated greater antitumor activity while sparing normal cells.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-11T16:00:01+00:00",
+      "coletado_em": "2026-11-11T17:08:13.733620+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-anti-cancer-stra.jpg",
+      "score": 6.423,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "51c278ad2375",
+      "titulo": "Even cacti are severely threatened in a warmer, drier world",
+      "url": "https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html",
+      "resumo": "Findings from a study spanning the Americas show that climate change forecasts are underestimating threats to biodiversity—even to exceptionally resilient species—by not factoring in extreme weather events that become more likely in a warmer world.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-11T16:00:34+00:00",
+      "coletado_em": "2026-11-11T17:08:13.735544+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-finds-tha-1.jpg",
+      "score": 5.924,
+      "cobertura": [
+        "https://www.nature.com/articles/d41586-026-03496-z"
+      ]
+    },
+    {
+      "id": "cbb26079e7ed",
+      "titulo": "Nuclear softening at an embryo's two-cell stage may be vital for further embryonic development",
+      "url": "https://phys.org/news/2026-11-nuclear-softening-embryo-cell-stage.html",
+      "resumo": "A research team led by Kyushu University and the National Institute of Genetics has discovered that during the two-cell stage of mouse embryonic development, the embryo's nucleus softens and deforms. This nuclear softening is an integral part of major zygotic gene activation, where approximately 2,000 genes necessary for embryonic development activate simultaneously. This indicates that nuclear softening is a critical step for further embryonic development.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-11T16:00:47+00:00",
+      "coletado_em": "2026-11-11T17:08:13.735544+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-softening-of-an-em.jpg",
+      "score": 5.424,
+      "cobertura": []
+    },
+    {
+      "id": "146036b8339e",
+      "titulo": "New review explores how faint 'glow' from plants could transform global monitoring of photosynthesis",
+      "url": "https://phys.org/news/2026-11-explores-faint-global-photosynthesis.html",
+      "resumo": "A faint glow emitted by plants as they absorb sunlight could offer scientists a powerful new way to monitor photosynthesis across the planet. Fully realizing that potential, however, will require advances in both the general understanding of plant biology and the satellite technology used to observe it.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-11T16:00:04+00:00",
+      "coletado_em": "2026-11-11T17:08:13.735544+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/eddy-covariance-tower.jpg",
+      "score": 5.423,
+      "cobertura": []
+    },
+    {
+      "id": "b9d36816ea30",
+      "titulo": "Cacti are severely threatened by drought in a warming world",
+      "url": "https://www.nature.com/articles/d41586-026-03496-z",
+      "resumo": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03496-z Forecasts of the effects that climate change will have on biodiversity typically rely on long-term climate averages while excluding extreme events. Projections that include severe drought predict that a majority of the 993 cactus species assessed will see large losses of suitable climatic area: more than 25% of species could lose at least 80% of it by 2100.",
+      "fonte": "Nature",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-11T00:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.736797+00:00",
+      "imagem_feed": null,
+      "score": 5.243,
+      "cobertura": [
+        "https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html"
+      ]
+    }
+  ],
+  "robotica": [
+    {
+      "id": "6b40bc2ffbd5",
+      "titulo": "USP Robotics Center in São Carlos celebrates 15 years of research, innovation, and technological advances",
+      "url": "https://jornal.usp.br/uspnews/usp-robotics-center-in-sao-carlos-celebrates-15-years-of-research-innovation-and-technological-advances/",
+      "resumo": "The anniversary event brought researchers together to present projects, share results, and discuss the center’s next steps. A new facility is planned, with an investment of R$ 64.7 million",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-11T13:08:35+00:00",
+      "coletado_em": "2026-11-11T17:08:13.758642+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261027_00_pesquisadores_crob_icmc_usp-1024x538.jpg",
+      "score": 5.438,
+      "cobertura": []
+    },
+    {
+      "id": "c65ae6b550d7",
+      "titulo": "Serve Robotics opens robot delivery network for others to build on",
+      "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+      "resumo": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots. The post Serve Robotics opens robot delivery network for others to build on appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-11T13:43:29+00:00",
+      "coletado_em": "2026-11-11T17:08:13.738434+00:00",
+      "imagem_feed": null,
+      "score": 5.042,
+      "cobertura": []
+    },
+    {
+      "id": "b5d40ccd862b",
+      "titulo": "PRISM helps robots move better by learning how forces and motion interact",
+      "url": "https://techxplore.com/news/2026-11-prism-robots-motion-interact.html",
+      "resumo": "A new neural network component, developed at University of Michigan Engineering, challenges a common assumption in robot learning: that the same general-purpose neural networks used for image recognition are equally suited to controlling physical movement.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-11T17:00:01+00:00",
+      "coletado_em": "2026-11-11T17:08:13.738703+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/prism-a-neural-network.jpg",
+      "score": 5.034,
+      "cobertura": []
+    },
+    {
+      "id": "ab9f5a3d1256",
+      "titulo": "Memories.ai builds standardized egocentric video pipeline",
+      "url": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline/",
+      "resumo": "Memories.ai provides standardized egocentric video collection and AI-powered annotation to build training data infrastructure for robotics. The post Memories.ai builds standardized egocentric video pipeline appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-11T13:00:34+00:00",
+      "coletado_em": "2026-11-11T17:08:13.738434+00:00",
+      "imagem_feed": null,
+      "score": 4.976,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "4d77e6f6199c",
+      "titulo": "[$] Additional hardening for the glibc dynamic linker",
+      "url": "https://lwn.net/Articles/1105134/",
+      "resumo": "The Node.js project recently had a security vulnerability that affected its Brotli decoder. The bug was a buffer overflow , but the particular way that official Node.js binaries are built for Linux meant that one of the main protections against turning a buffer overflow into remote code execution, address space layout randomization (ASLR) could not be turned on. If ASLR had been enabled, the bug would still be exploitable in theory, but much more difficult to exploit in practice. In response, the GNU C Library (glibc) is considering a new set of tunable settings to allow administrators to forbid programs that do not support ASLR. The new settings, while a welcome hardening measure, may not address the root problem.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-11T14:35:29+00:00",
+      "coletado_em": "2026-11-11T17:08:13.739985+00:00",
+      "imagem_feed": null,
+      "score": 5.777,
+      "cobertura": []
+    },
+    {
+      "id": "cffb9b6f0046",
+      "titulo": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1106876/",
+      "resumo": "Security updates have been issued by AlmaLinux (edk2), Debian (openexr, rsyslog, and srt), Fedora (alertmanager, dotnet11.0, gdal, mstflint, nextcloud, python-crate-ingredients, rust-ingredients, rust-pore, rust-pulldown-cmark, rust-rbw, rust-sequoia-sq, rust-siguldry-fedora-autopen, tigervnc, unbound, and zchunk), Gentoo (Brotli, git, and libde265), Mageia (mopidy, python-dulwich, rust-similar3, rclone, and sofia-sip), Oracle (dpdk, edk2, firefox, glibc, kernel, kernel-uek, nodejs-nodemon, nodejs22, nodejs:24, patch, ruby, ruby4.0, squid:4, and thunderbird), Red Hat (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, bind, bind9.16, bind9.18, buildah, c-ares, containernetworking-plugins, delve, flatpak-builder, gcc, gcc-toolset-15-gcc, gcc-toolset-16-gcc, go-fdo-client, go-fdo-server, golang-github-openprinting-ipp-usb, grafana, grafana-pcp, gstreamer1-plugins-bad-free, gstreamer1-plugins-good, gvfs, gvisor-tap-vsock, nginx, nginx:1.24, nginx:1.26, oci-delta, podman, python-oauthlib, python3, python3.12, python3.9, qt5-qtbase, qt6-qtbase, rhc, runc, skopeo, squid, squid:4, tesseract, util-linux, xdg-dbus-proxy, and yggdrasil), Slackware (xorg-server), SUSE (aliyun-cli, amazon-cloudwatch-ag",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-11T14:15:31+00:00",
+      "coletado_em": "2026-11-11T17:08:13.739985+00:00",
+      "imagem_feed": null,
+      "score": 5.744,
+      "cobertura": []
+    },
+    {
+      "id": "8d07794f0475",
+      "titulo": "Restrito a assinantes Ultra, Gemini 4 Carbon chega como nova IA de raciocínio profundo",
+      "url": "https://canaltech.com.br/inteligencia-artificial/restrito-a-assinantes-ultra-gemini-4-carbon-chega-como-nova-ia-de-raciocinio-profundo/",
+      "resumo": "O Google liberou o Gemini 4 Carbon , seu modelo de inteligência artificial mais avançado até o momento, para desenvolvedores, empresas, pesquisadores e assinantes do plano Google AI Ultra. A ferramenta foi desenvolvida para tarefas que exigem raciocínio profundo, pesquisas científicas, programação complexa e análises de segurança digital. Inicialmente, o modelo ficou restrito a um grupo selecionado de especialistas em cibersegurança. O Gemini 4 Carbon foi projetado para lidar com problemas mais complexos do que aqueles atendidos pelo Gemini 4 Argon, modelo recomendado pelo Google para tarefas cotidianas, engenharia de software e atividades profissionais. Para isso, a nova IA utiliza uma quantidade maior de tokens , com ciclos mais longos de raciocínio e verificação das respostas. O modelo também alcançou o primeiro lugar em três avaliações independentes , cada uma com foco em uma habilidade diferente: o CursorBench 4.0 testa o desempenho em programação e desenvolvimento de software; o WANDR, da Perplexity, avalia a capacidade de realizar pesquisas aprofundadas; e o AutomationBench, da Zapier, mede a execução de tarefas e a automação de fluxos de trabalho. Segundo o Google, o custo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-11T17:07:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.768597+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 5.598,
+      "cobertura": []
+    },
+    {
+      "id": "c20b22079c80",
+      "titulo": "Semana do Esgoto tem programação na USP sobre pesquisas em saúde hidrossanitária",
+      "url": "https://jornal.usp.br/universidade/semana-do-esgoto-tem-programacao-na-usp-sobre-pesquisas-em-saude-hidrossanitaria/",
+      "resumo": "De 17 a 19 de novembro, evento no no Instituto de Química de São Carlos vai mostrar o que o esgoto pode revelar sobre a saúde da cidade; inscrições são gratuitas",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "software"
+      ],
+      "publicado": "2026-11-11T14:52:55+00:00",
+      "coletado_em": "2026-11-11T17:08:13.758642+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2020/08/20200826_programa-saneamento-basico.jpg",
+      "score": 5.106,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "81c693f5ead5",
+      "titulo": "IBM to offer access to a dual-processor quantum system in 2027",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "resumo": "The company plans on linking two 520-qubit chips before next year is over.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "quantica"
+      ],
+      "publicado": "2026-11-11T16:33:08+00:00",
+      "coletado_em": "2026-11-11T17:08:13.797038+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+      "score": 5.784,
+      "cobertura": []
+    },
+    {
+      "id": "20f15c84f16e",
+      "titulo": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027",
+      "resumo": "Following AMD’s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity while achieving 95% of the performance of a full-DRAM system in certain applications.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-11T12:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.740604+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Yr76o6YXagRHfHkjYNTT3D-1920-80.jpg",
+      "score": 5.686,
+      "cobertura": []
+    },
+    {
+      "id": "87971ea2f7f2",
+      "titulo": "Adeus aos 16 núcleos: novo chiplet da AMD abre caminho para Ryzen 9 de 24 núcleos",
+      "url": "https://canaltech.com.br/hardware/adeus-aos-16-nucleos-novo-chiplet-da-amd-abre-caminho-para-ryzen-9-de-24-nucleos/",
+      "resumo": "Se tem uma barreira que não parecia que seria superada, era o teto de 16 núcleos nos modelos Ryzen 9 , algo praticado há anos pela AMD. No entanto, a chegada da arquitetura Zen 6 promete quebrar essa limitação histórica. Ao reformular a estrutura de seus novos chips e expandir a densidade dos Core Complex Dies (CCDs) , a AMD prepara o terreno para introduzir uma nova era de desempenho multithread, abrindo caminho para processadores de até 24 núcleos no mercado para o consumidor final. A mudança pode representar o maior salto geracional de performance da empresa desde a estreia da microarquitetura Zen original . O avanço não se limita a colocar mais núcleos no encapsulamento, mas sim a reestruturar a forma como o chip gerencia memória cache, frequências de operação e eficiência energética. Vale ressaltar que a AMD ainda não tocou no assunto Ryzen Zen 6, então tudo aqui não passa de especulação baseada no que o próprio Time Vermelho disse em evento recente. A revolução do novo chiplet e a arquitetura Zen 6 O coração dessa evolução está no redesign completo do chiplet. Nas gerações Zen 4 e Zen 5, cada CCD abrigava no máximo 8 núcleos . Para a arquitetura Zen 6, a fabricante expandiu e",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-11T12:36:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.768597+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/jnL6U8f4bzgL7bEonpokceNir5w=/0x0/filters:format(webp):quality(85)/3a98cebf-d413-408b-bb89-6c6e53afa757.jpg",
+      "score": 5.639,
+      "cobertura": []
+    },
+    {
+      "id": "0e3d5c7c169a",
+      "titulo": "SpaceX aims to safely land Starship and booster stage after orbital flight",
+      "url": "https://www.newscientist.com/article/2598233-spacex-aims-to-safely-land-starship-and-booster-stage-after-orbital-flight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The upcoming Starship test flight is the most ambitious to date and, if successful, will mark an important milestone in the company's mission to create a truly reusable launch vehicle that dramatically lowers the cost of space launches",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-11T17:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.794944+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320289737.jpg",
+      "score": 5.334,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "22d730874dd0",
+      "titulo": "Re-analysis of black hole data proves iconic ring shape really is there",
+      "url": "https://www.newscientist.com/article/2598415-re-analysis-of-black-hole-data-proves-iconic-ring-shape-really-is-there/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The doughnut shape of the Event Horizon Telescope’s first image of a black hole has come under fire, but an independent check showed that it – and general relativity – still stands",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-11T16:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.794944+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320279401.jpg",
+      "score": 5.723,
+      "cobertura": []
+    },
+    {
+      "id": "dff2377c06a9",
+      "titulo": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review",
+      "url": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review",
+      "resumo": "I photographed galaxies, nebulas and star clusters from a city with the Seestar S30 Plus. Here’s why I think it’s the best affordable smart telescope for beginners.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-11T13:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.742719+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/fQpViQbo2cphxG8jcdHSpe-1920-80.jpg",
+      "score": 5.475,
+      "cobertura": []
+    },
+    {
+      "id": "0e3d5c7c169a",
+      "titulo": "SpaceX aims to safely land Starship and booster stage after orbital flight",
+      "url": "https://www.newscientist.com/article/2598233-spacex-aims-to-safely-land-starship-and-booster-stage-after-orbital-flight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The upcoming Starship test flight is the most ambitious to date and, if successful, will mark an important milestone in the company's mission to create a truly reusable launch vehicle that dramatically lowers the cost of space launches",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-11T17:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.794944+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320289737.jpg",
+      "score": 5.334,
+      "cobertura": []
+    },
+    {
+      "id": "ad6234a33f6f",
+      "titulo": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
+      "resumo": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-11T15:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.742719+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/sUscbyNcGzAkq7QeXUWQJn-1920-80.jpg",
+      "score": 5.168,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "78f10a01db54",
+      "titulo": "Zhengyuan Quantum Raises Angel Funding For 1,000-Qubit Computer",
+      "url": "https://thequantuminsider.com/2026/11/11/zhengyuan-quantum-raises-angel-funding-for-1000-qubit-computer/",
+      "resumo": "Insider Brief Chinese quantum computing startup Zhengyuan Quantum has completed an angel funding round to support development of a 1,000-qubit superconducting computer, according to media reports. The company announced the financing Nov. 10, according to a Jiemian News report republished by Sohu. Investors include Shenzhen Capital Group, Pudong Venture Capital, Dening Capital, Xiangjiang Xincheng and […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-11T15:23:36+00:00",
+      "coletado_em": "2026-11-11T17:08:13.743309+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Superconducting-quantum-chip-with-Chinese-flag-motif-1.png",
+      "score": 6.008,
+      "cobertura": []
+    },
+    {
+      "id": "27529f6011b2",
+      "titulo": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+      "url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+      "resumo": "Insider Brief PRESS RELEASE — IBM (NYSE: IBM) today announced IBM Quantum Nighthawk r3, its next-generation processor, will be built to accurately execute 10,000 quantum operations across 520 qubits to tackle larger, more complex problems while maintaining the speed and quality demonstrated by the current generation Nighthawk available today. In 2027, IBM plans to link […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-11T14:03:23+00:00",
+      "coletado_em": "2026-11-11T17:08:13.743309+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-11_19-02.png",
+      "score": 5.874,
+      "cobertura": []
+    },
+    {
+      "id": "81c693f5ead5",
+      "titulo": "IBM to offer access to a dual-processor quantum system in 2027",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "resumo": "The company plans on linking two 520-qubit chips before next year is over.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "quantica"
+      ],
+      "publicado": "2026-11-11T16:33:08+00:00",
+      "coletado_em": "2026-11-11T17:08:13.797038+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+      "score": 5.784,
+      "cobertura": []
+    },
+    {
+      "id": "0bcfb29c0082",
+      "titulo": "SEAFOOD Puts OCTOPUS and Quantum Computers on the Same Menu",
+      "url": "https://thequantuminsider.com/2026/11/11/seafood-puts-octopus-and-quantum-computers-on-the-same-menu/",
+      "resumo": "Insider Brief PRESS RELEASE — Researchers at D3 Center and the Center for Quantum Information and Quantum Biology (QIQB), the University of Osaka, have created SEAFOOD, a platform that allows the university’s OCTOPUS supercomputer and superconducting quantum computers to work together in a single computing workflow. It is the first case in Japan of integrating […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-11T09:25:24+00:00",
+      "coletado_em": "2026-11-11T17:08:13.743309+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Low-Res_Fig.-1_D3.jpg",
+      "score": 5.481,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "19dffa35d7ff",
+      "titulo": "Lost track of which Windows virtual desktop you’re on? This free tool helps",
+      "url": "https://www.pcworld.com/article/3277776/lost-track-of-which-windows-desktop-youre-on-this-free-tool-helps.html",
+      "resumo": "Windows allows you to create multiple desktops, so that users can quickly switch between a work environment, a personal one, and a desktop optimized for gaming. This often leads to overlap: a word processor, for example, is normally needed for both work and personal correspondence. If the program is running in full-screen mode, it’s often hard to tell which desktop you’re currently on. The simplest method is to assign a different background to each desktop. However, this must be a background image; Windows applies solid colors uniformly across all desktops. The Windows Virtual Desktop Helper tool always displays which desktop you are currently working on in the taskbar. You can specify exactly how this is displayed in the settings. Foundry And, of course, the wallpaper trick only works if you’re not using the current application in full-screen mode. The open-source program Windows Virtual Desktop Helper offers a better solution. Once installed, you’ll find the tool in the Start menu under ‘Recommended.’ As soon as you’ve launched it by double-clicking, it appears in the corner of the taskbar with three new entries. A number or an initial letter indicates which desktop you’re curren",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-11T16:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.745014+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3277776-0-47419400-1794412828-Living-room-TV-with-Windows-desktop-PC.jpg?quality=50&strip=all",
+      "score": 5.573,
+      "cobertura": []
+    },
+    {
+      "id": "b04cb3ec59da",
+      "titulo": "Windows 11 Home vs. Pro: Which is right for you?",
+      "url": "https://www.pcworld.com/article/2533392/windows-11-home-vs-pro-which-one-compared.html",
+      "resumo": "If you need Windows 11 for your PC, you have two options: Windows 11 Home and Windows 11 Professional . The Pro version is (obviously) the more expensive of the two because it offers a variety of extra features. The most compelling extra is full-featured BitLocker drive encryption for securing your data, as well as an intriguing Sandbox feature for testing software, plus some other stuff. But what if you’re just a regular home user? Are these additional features worth paying a bit more? Here’s what you need to consider. Windows 11 Pro and BitLocker encryption BitLocker drive encryption is the main reason to get Windows 11 Professional. BitLocker is a full-disk encryption feature that protects your files from unauthorized access. If your PC is ever stolen or misplaced, nobody will be able to access your protected files without signing in as you. It’s an essential modern security feature. Get Windows 11 Pro for cheap right now Windows 11 Pro Price When Reviewed: 199.99 Best Prices Today: $59 at PCWorld Store – Win 11 Pro Upgrade Only | $79.99 at PCWorld Software Store Both Windows 11 Home and Windows 11 Professional include some disk encryption features, but Microsoft’s BitLocker enc",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-11T14:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.745014+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/2533392-0-26339700-1794405659-Windows-11-screen-with-upgrade-prompt-for-Windows-Pro-hero.jpg?quality=50&strip=all",
+      "score": 5.369,
+      "cobertura": []
+    },
+    {
+      "id": "db18f905ea40",
+      "titulo": "Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU",
+      "url": "https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first",
+      "resumo": "Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-11T13:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.740604+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/rJ9DVssjvfgAJwQazxQhbm-1920-80.jpg",
+      "score": 5.275,
+      "cobertura": []
+    },
+    {
+      "id": "b203f45be8d6",
+      "titulo": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
+      "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+      "resumo": "PCWorld has been testing and writing about PCs since 1983. That’s a long time! Today, we put more than 70 laptops through our review process every year, covering everything from affordable everyday laptops to powerful gaming machines . That kind of hands-on experience matters when you’re trying to buy a laptop. What begins as a simple Google search can quickly spiral into a maze of complicated processor names, graphic cards, and other specs that can be difficult to make sense of. That’s where we come in. Every laptop featured below has been tested by PCWorld reviewers using a combination of real-world experience and performance benchmarks. We focus on a how a laptop performs in the ways that matter, so you can spend less time puzzling out the specs and more time finding out the right laptop that suits your lifestyle. Updated November 2026 to reflect the latest prices and retailers, and to update our list of “other laptops we tested” below our top picks. Acer Aspire 16 AI – Best laptop overall Pros Gorgeous OLED display Punchy audio Lightweight Solid all-around performance Plenty of ports Cons Solid battery life (though not class-leading) The keyboard takes some getting used to The ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-11T17:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.745014+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/436674-0-56966600-1794416429-best-budget-laptops.jpg?quality=50&strip=all",
+      "score": 5.184,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "8d07794f0475",
+      "titulo": "Restrito a assinantes Ultra, Gemini 4 Carbon chega como nova IA de raciocínio profundo",
+      "url": "https://canaltech.com.br/inteligencia-artificial/restrito-a-assinantes-ultra-gemini-4-carbon-chega-como-nova-ia-de-raciocinio-profundo/",
+      "resumo": "O Google liberou o Gemini 4 Carbon , seu modelo de inteligência artificial mais avançado até o momento, para desenvolvedores, empresas, pesquisadores e assinantes do plano Google AI Ultra. A ferramenta foi desenvolvida para tarefas que exigem raciocínio profundo, pesquisas científicas, programação complexa e análises de segurança digital. Inicialmente, o modelo ficou restrito a um grupo selecionado de especialistas em cibersegurança. O Gemini 4 Carbon foi projetado para lidar com problemas mais complexos do que aqueles atendidos pelo Gemini 4 Argon, modelo recomendado pelo Google para tarefas cotidianas, engenharia de software e atividades profissionais. Para isso, a nova IA utiliza uma quantidade maior de tokens , com ciclos mais longos de raciocínio e verificação das respostas. O modelo também alcançou o primeiro lugar em três avaliações independentes , cada uma com foco em uma habilidade diferente: o CursorBench 4.0 testa o desempenho em programação e desenvolvimento de software; o WANDR, da Perplexity, avalia a capacidade de realizar pesquisas aprofundadas; e o AutomationBench, da Zapier, mede a execução de tarefas e a automação de fluxos de trabalho. Segundo o Google, o custo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-11T17:07:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.768597+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 6.098,
+      "cobertura": []
+    },
+    {
+      "id": "f95e4a530b1c",
+      "titulo": "When Does It Actually Make Sense to Put AI Into Products?",
+      "url": "https://spectrum.ieee.org/human-centered-ai-product-design",
+      "resumo": "Over the past few years, the tech industry has rushed to plug a new microchip into every device on the assumption that if you can add AI, you should. Smart vision toothbrushes , mood-reading household robots , and a host of physical products are invading consumers’ daily lives, reliant on artificial intelligence to learn, predict, and adjust our behavior. But as anyone who’s struggled to update the firmware in their fridge knows, AI doesn’t improve every product. Some product designers are asking where the line is between genuine innovation and a solution looking for a problem. Savannah Kunovsky leads a team of industrial product designers at Ideo , a design consultancy based in San Francisco focused on helping clients unpack when AI becomes a barrier rather than a breakthrough. Kunovsky spoke with IEEE Spectrum about the pressure to integrate AI in everything, where that integration goes wrong, and what companies can do to determine when an AI integration is—and isn’t—a smart choice. When AI makes products worse How much of the current wave of AI integration into physical products is driven by pressure from investors and shareholders to keep up with industry trends? Savannah Kunov",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-11T14:00:02+00:00",
+      "coletado_em": "2026-11-11T17:08:13.754206+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/photo-collage-of-a-woman-speaking-on-stage-with-electric-toothbrushes-and-refrigerators-layered-in-the-background.jpg?id=68653834&width=980",
+      "score": 5.819,
+      "cobertura": []
+    },
+    {
+      "id": "7c021a2e6c5b",
+      "titulo": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "resumo": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-11T14:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.755714+00:00",
+      "imagem_feed": null,
+      "score": 5.419,
+      "cobertura": []
+    },
+    {
+      "id": "940b8a321b94",
+      "titulo": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "resumo": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-10T17:04:19+00:00",
+      "coletado_em": "2026-11-11T17:08:13.755714+00:00",
+      "imagem_feed": null,
+      "score": 5.248,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation",
+        "https://www.techspot.com/news/114504-nvidia-jensen-huang-face-class-action-lawsuit-after.html"
+      ]
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "ed90e50f4747",
+      "titulo": "Voyager is one light day away from us. Here’s what it discovered on its epic journey",
+      "url": "https://www.newscientist.com/article/2598369-voyager-is-one-light-day-away-from-us-heres-what-it-discovered-on-its-epic-journey/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The Voyager 1 spacecraft is the most distant human-made object from Earth. What it saw on its 50-year journey to the edge of the solar system revolutionised our understanding of the planets and ourselves",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-11T08:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.794944+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320203243.jpg",
+      "score": 5.03,
+      "cobertura": []
+    },
+    {
+      "id": "1c7173c61705",
+      "titulo": "Light is hard to block from every direction. This physicist found a way",
+      "url": "https://www.sciencenews.org/article/light-block-direction-physicist-sn10",
+      "resumo": "Physicist Stefano Martiniani uses a computer algorithm to design new materials that could help advance light-based computers.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-11T12:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.796452+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/111126_sn10-martiniani_main_rev.jpg?w=800",
+      "score": 4.986,
+      "cobertura": []
+    },
+    {
+      "id": "5ca9899d189f",
+      "titulo": "Shape-shifting rubber blades could make tidal power cheaper",
+      "url": "https://techxplore.com/news/2026-11-shifting-rubber-blades-tidal-power.html",
+      "resumo": "Fitting tidal turbines with flexible rubber blades could enable the machines to generate cheaper power by making them simpler and tougher, a study published in the journal Nature suggests.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-11T16:00:37+00:00",
+      "coletado_em": "2026-11-11T17:08:13.756750+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/shape-shifting-rubber.jpg",
+      "score": 4.424,
+      "cobertura": []
+    },
+    {
+      "id": "ef4c0bb0cfd4",
+      "titulo": "Starlink Mini 2 chega com bateria para até 4,5 horas de uso",
+      "url": "https://tecnoblog.net/noticias/starlink-mini-2-chega-com-bateria-para-ate-45-horas-de-uso/",
+      "resumo": "Nova antena portátil da SpaceX tem bateria removível e carregamento USB-C, mas ainda não tem previsão de lançamento no Brasil. Starlink Mini 2 chega com bateria para até 4,5 horas de uso",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-11T12:31:32+00:00",
+      "coletado_em": "2026-11-11T17:08:13.764071+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/starlink-mini-2-edited-1.webp",
+      "score": 4.282,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "9364f9baac68",
+      "titulo": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "resumo": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-10T21:55:03+00:00",
+      "coletado_em": "2026-11-11T17:08:13.757240+00:00",
+      "imagem_feed": null,
+      "score": 4.709,
+      "cobertura": [
+        "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/"
+      ]
+    },
+    {
+      "id": "fe2ee0efadaf",
+      "titulo": "Porto de Santos eleva segurança para nível 2 após falhas em gates; site continua fora do ar",
+      "url": "https://olhardigital.com.br/2026/11/11/seguranca/porto-de-santos-eleva-seguranca-para-nivel-2-apos-falhas-em-gates-site-continua-fora-do-ar/",
+      "resumo": "Entenda as medidas de segurança adotadas no Porto de Santos após ataque hacker afetar sistemas de acesso e entrar na mira da PF O post Porto de Santos eleva segurança para nível 2 após falhas em gates; site continua fora do ar apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-11T15:10:17+00:00",
+      "coletado_em": "2026-11-11T17:08:13.761554+00:00",
+      "imagem_feed": null,
+      "score": 4.235,
+      "cobertura": []
+    },
+    {
+      "id": "c371a3719b15",
+      "titulo": "Malware que lê e-mails do Gmail mantém acesso mesmo após usuário desconectar conta",
+      "url": "https://canaltech.com.br/apps/malware-que-le-e-mails-do-gmail-mantem-acesso-mesmo-apos-usuario-desconectar-conta/",
+      "resumo": "Um novo malware chamado Remus Stealer consegue manter o acesso à caixa de entrada do Gmail mesmo após a vítima trocar a senha, fechar o navegador ou desconectar os dispositivos da conta. A ferramenta do tipo infostealer é comercializada por cibercriminosos por US$ 1.000 mensais e promete acesso contínuo às mensagens de contas comprometidas. Segundo um relatório da empresa de cibersegurança Hudson Rock, o programa utiliza uma técnica que manipula a memória do navegador e contorna os mecanismos de segurança do Google. Em vez de roubar cookies tradicionais, a principal hipótese dos pesquisadores é que o malware obtenha uma autorização reutilizável a partir de uma sessão ativa do Gmail. Com isso, um componente remoto continua solicitando novas mensagens aos servidores do Google mesmo se o computador for desligado ou se os acessos forem revogados. Os pesquisadores ressalvam, contudo, que os detalhes exatos de como o invasor contorna as verificações antifraude n ão foram revelados pelo desenvolvedor . Para demonstrar o funcionamento da ferramenta, a Hudson Rock entrou em contato com o desenvolvedor do malware e um de seus compradores. O criminoso compartilhou capturas de tela do painel d",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-10T19:02:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.768597+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/JMse8g8T3dynOD4ENRnetWFQsZc=/0x0/filters:format(webp):quality(85)/d7261bb8-3a95-419c-a0fa-98d3b178588a.jpg",
+      "score": 3.158,
+      "cobertura": []
+    },
+    {
+      "id": "6920f9b0f4de",
+      "titulo": "12.000 mAh! Dois celulares com bateria absurda estão prestes a chegar ao mercado",
+      "url": "https://canaltech.com.br/smartphone/12000-mah-dois-celulares-com-bateria-absurda-estao-prestes-a-chegar-ao-mercado/",
+      "resumo": "A disputa por celulares com baterias gigantes está prestes a ganhar dois novos representantes. Vivo e Oppo estão desenvolvendo smartphones com capacidade próxima de 12.000 mAh , um número muito acima do encontrado na maioria dos aparelhos convencionais. As novidades ainda não têm lançamento confirmado, mas os vazamentos indicam que os projetos estão avançando. No caso da Vivo (Jovi), a bateria de 12.000 mAh já teria entrado em produção em massa. Enquanto isso, um novo aparelho da Oppo surgiu com imagens oficiais publicadas em um registro regulatório chinês, acompanhado de informações que apontam para um acumulador de energia com capacidade semelhante. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Vivo já teria bateria de 11.970 mAh em produção A informação sobre a fabricante chinesa foi compartilhada pelo insider Digital Chat Station. Segundo ele, a bateria desenvolvida pela vivo possui capacidade nominal de 11.970 mAh e já está em produção em massa. O informante não revelou qual smartphone receberá o componente nem quando ele chegará ao mercado. A empresa já vem apostando em aparelhos com baterias maiores: recentemente, lançou na China o vivo Y600 , equipado com u",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-10T17:22:32+00:00",
+      "coletado_em": "2026-11-11T17:08:13.768597+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/QVTUsCcjddohz5F3Oeisk65dmUI=/0x0/filters:format(webp):quality(85)/6ed65ff9-c009-47cf-99b1-0808f68d1150.jpg",
+      "score": 0.107,
+      "cobertura": []
+    }
+  ]
+}

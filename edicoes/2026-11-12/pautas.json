@@ -1,0 +1,384 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "1487f55cdfb7",
+      "titulo": "Drug ads can influence AI treatment recommendations, study finds",
+      "url": "https://medicalxpress.com/news/2026-11-drug-ads-ai-treatment.html",
+      "resumo": "As people increasingly turn to artificial intelligence (AI) for health information, a new study by researchers at the Icahn School of Medicine at Mount Sinai raises questions about what happens when commercial advertising appears alongside a clinical question. The findings were reported in the Nov. 11 online issue of The Lancet Digital Health.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-11T17:00:11+00:00",
+      "coletado_em": "2026-11-11T17:08:13.733620+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/drug-ads-can-influence.jpg",
+      "score": 6.535,
+      "cobertura": []
+    },
+    "texto_fonte": "Drug ads can influence AI treatment recommendations, study finds\nAs people increasingly turn to artificial intelligence (AI) for health information, a new study by researchers at the Icahn School of Medicine at Mount Sinai raises questions about what happens when commercial advertising appears alongside a clinical question. The findings were reported in the Nov. 11 online issue of The Lancet Digital Health.\nResearchers tested 12 AI models from major technology companies, including Google, OpenAI and Anthropic, to determine whether a clearly labeled pharmaceutical advertisement could influence which treatment an AI model recommended. They found that when the AI models were given a physician-written clinical case, preceded by an ad for a drug, the ad could shift which treatment the AI recommended, making it more likely to select the advertised drug.\nAcross 33 clinical scenarios, the advertised drug was selected in 47.6% of responses when an ad was present, compared with 35% without an ad. In four cases, models shifted from selecting the advertised drug 0% of the time to selecting it 100% of the time when the ad was introduced.\n\"What I find quite interesting, and even surprising, was how reasonable the answers often appeared,\" says physician-scientist and first author Mahmud Omar, MD, a lecturer in the Windreich Department of Artificial Intelligence and Human Health at the Icahn School of Medicine, who leads research on the safety, reliability and real-world effects of generative AI in clinical care.\n\"The model could recommend an appropriate treatment, but its preference among several reasonable options changed after seeing the ad. Because the final answer could still appear medically sound, that influence could be easy to miss in typical research evaluations and in other patient- and physician-facing personal use cases.\"\nThe study was designed to isolate the potential effect of advertising. Researchers gave the AI models the same clinical cases, either alone or with a clearly labeled real drug advertisement placed immediately before the case. The patient information and treatment choices remained unchanged. Only the presence of the advertisement varied. Across the 33 scenarios, researchers analyzed 258,559 AI responses and assessed both the treatment selected and whether it was consistent with clinical guidance.\nThe researchers also examined how often AI models acknowledged the presence of an advertisement or repeated information from it. In a subset of free-text responses, models explicitly mentioned the ad in only 29.9% of responses, while they repeated information or claims contained in the advertisement more frequently.\n\"An answer can be clinically reasonable and still raise an important question about why the AI arrived at that answer,\" says senior author Girish N. Nadkarni, MD, MPH, chair of the Windreich Department of Artificial Intelligence and Human Health, director of the Hasso Plattner Institute for Digital Health, Irene and Dr. Arthur M. Fishberg Professor of Medicine at the Icahn School of Medicine, and chief AI officer of the Mount Sinai Health System.\n\"As AI becomes part of how people get health information, we need to be able to distinguish clinical guidance from commercial influence and be transparent about when advertising is part of the interaction.\"\nThe findings do not mean pharmaceutical advertising will necessarily cause AI models to recommend unsafe or inappropriate treatments, say the investigators. In the study, advertisements did not clearly increase recommendations for unsupported supplements or clearly suboptimal drugs. The researchers also did not examine whether changes in AI recommendations ultimately affected prescriptions, patient decisions, costs or health outcomes.\nThe researchers say the findings point to several practical steps for AI developers and health systems, including testing AI systems with and without promotional content to determine whether recommendations change, clearly disclosing when advertising is presented to an AI system, and keeping promotional material separate from clinical advice.\nThe findings may also have implications for regulators as they consider how existing rules governing pharmaceutical advertising apply when promotional content is incorporated into AI-generated health information.\nThe research team plans to extend the work through their ongoing evaluation of AI and human-AI interaction in real-world clinical cases.\nMore information\nMahmud Omar et al., Pharmaceutical advertising and drug recommendations by consumer-facing artificial intelligence: a controlled study, The Lancet Digital Health (2026). DOI: 10.1016/j.landig.2026.101114",
+    "autor_fonte": "The Mount Sinai Hospital",
+    "site_fonte": "Medical Xpress",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/drug-ads-can-influence.jpg",
+    "imagem_arquivo": "imagens/medicina-drug-ads-can-influence-ai-treatment-reco.jpg",
+    "imagem_credito": "Medical Xpress",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://medicalxpress.com/news/2026-11-drug-ads-ai-treatment.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "51c278ad2375",
+      "titulo": "Even cacti are severely threatened in a warmer, drier world",
+      "url": "https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html",
+      "resumo": "Findings from a study spanning the Americas show that climate change forecasts are underestimating threats to biodiversity—even to exceptionally resilient species—by not factoring in extreme weather events that become more likely in a warmer world.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-11T16:00:34+00:00",
+      "coletado_em": "2026-11-11T17:08:13.735544+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-finds-tha-1.jpg",
+      "score": 5.924,
+      "cobertura": [
+        "https://www.nature.com/articles/d41586-026-03496-z"
+      ]
+    },
+    "texto_fonte": "Even cacti are severely threatened in a warmer, drier world\nFindings from a study spanning the Americas show that climate change forecasts are underestimating threats to biodiversity—even to exceptionally resilient species—by not factoring in extreme weather events that become more likely in a warmer world.\nNew research published in Nature reveals a dramatic decline in suitable habitat for the majority of nearly 1,000 cactus species studied when incorporating severe drought data into existing climate distribution models.\nAn international team led by researchers at the University of Arizona and the University of South Florida found that more than a quarter of cactus species analyzed could lose at least 80% of their suitable habitat by the end of the century. Projected diversity declines could be especially severe in important cactus diversity hot spots like Chile, Peru and northeastern Brazil.\nThis level of loss could qualify these cactus species as critically endangered, according to criteria established by the International Union for Conservation of Nature, which would more than double the number of species currently in this category.\nExtreme weather changes biodiversity forecasts\nOne of the great challenges in biodiversity science is predicting how life on Earth will respond to a changing climate, according to Brian Enquist, a plant ecology professor at the U of A and senior author on the study.\n\"For decades, we have relied on average temperature and precipitation to understand how species will be impacted by changing climate and who will likely persist,\" he said. \"But organisms do not experience averages alone. They must also survive the extremes. Our study shows that accounting for these extremes can fundamentally change how we assess the future of biodiversity.\"\nThe authors suggest similar impacts will be seen in many other plant groups when accounting for extreme weather events with future climate scenarios.\n\"Climate change makes extreme events more frequent, but such events are typically excluded from large-scale forecasts,\" said the study's lead author, Michiel Pillet, who did the work as part of his dissertation at the U of A and is now a postdoctoral researcher at USF.\n\"For this study, we integrated severe drought projections into models, which is quite novel, and extrapolated that at large scales with a plant family that is adapted to drought conditions. Our findings indicate that these adaptations may not be sufficient in a future with longer and more intense droughts.\"\nConventional distribution models typically rely on long-term temperature and rainfall averages but fail to capture the damaging effects of extreme events such as droughts, hurricanes and cold snaps on biodiversity. By incorporating newly available global data on future droughts with records from biodiversity databases, field observations and the community science network iNaturalist, researchers were able to improve predictions of future impacts.\nDrought tests cacti's survival strategies\nWhile cacti are icons of desert environments, they inhabit nearly all types of ecosystems across the Americas, from California to Florida, and from Canada to the southern stretches of South America. More than 30% of cactus species are already threatened with extinction, particularly from habitat destruction and poaching.\nResearch published in 2022 by Pillet and Enquist already showed that climate change will elevate this number, but the addition of severe drought vastly increases how much suitable area species stand to lose.\n\"Cacti have evolved an astonishing range of forms and strategies that allow them to persist in some of the driest environments on the planet,\" Enquist said, explaining that impacts of severe drought are already visible in the Southwest, including Arizona, \"with large-scale mortality of chollas, prickly pears and even the mighty saguaro.\"\n\"Droughts in the last few years have contributed to stunted saguaro growth and reproduction and killed many plants in some areas,\" Pillet added. \"These effects also impact the many animal species that rely on these cacti for habitat and food.\"\nSharper forecasts for conservation assessments\nThe research was informed by a cadre of scientists across the Americas, including in Chile, Peru, Mexico and Cuba, and from institutions including the Desert Botanical Garden, Conservation International and the IUCN Cactus and Succulent Plants Specialist Group. The study was aided by additional data from iNaturalist.\n\"What we are seeing on the ground are some cactus populations that are already experiencing reductions in habitat and nearing extinction risks due to this combination of climate and extreme events,\" said Pablo Guerrero, a professor of botany at the Universidad de Concepción in Chile and co-author of the study.\n\"The data and modeling allow us to reveal the extent of this surprising development across geographic scale and hopefully inform how we proceed in conserving and protecting what we can.\"\n\"Though these forecasts are for the end of the century, it is important to note we are already seeing impacts that are limiting plant ranges today,\" Pillet said. \"Our results will inform updated IUCN Red List conservation assessments, and we expect the outlook for cacti will be grim, especially when our projections are combined with ongoing threats of habitat destruction and illegal collection.\"\nPublication details\nMichiel Pillet, Severe drought and warming increase the extinction risk of cacti, Nature (2026). DOI: 10.1038/s41586-026-11265-1. www.nature.com/articles/s41586-026-11265-1",
+    "autor_fonte": "University",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-research-finds-tha-1.jpg",
+    "imagem_arquivo": "imagens/biologia-even-cacti-are-severely-threatened-in-a.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-cacti-severely-threatened-warmer-drier.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "6b40bc2ffbd5",
+      "titulo": "USP Robotics Center in São Carlos celebrates 15 years of research, innovation, and technological advances",
+      "url": "https://jornal.usp.br/uspnews/usp-robotics-center-in-sao-carlos-celebrates-15-years-of-research-innovation-and-technological-advances/",
+      "resumo": "The anniversary event brought researchers together to present projects, share results, and discuss the center’s next steps. A new facility is planned, with an investment of R$ 64.7 million",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-11T13:08:35+00:00",
+      "coletado_em": "2026-11-11T17:08:13.758642+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261027_00_pesquisadores_crob_icmc_usp-1024x538.jpg",
+      "score": 5.438,
+      "cobertura": []
+    },
+    "texto_fonte": ".\nFifteen years of research, technology development, and professional training have helped transform robotics in Brazil. This journey was celebrated by USP’s Center for Robotics (CRob), in São Carlos, during an anniversary event that brought together researchers and members of the academic community to look back on its achievements, present projects, and discuss the institution’s next steps. The event took place on October 14 at the Institute of Mathematics and Computer Science (ICMC).\nEstablished in 2011 through a joint initiative by the Institute of Mathematics and Computer Science (ICMC) and the São Carlos School of Engineering (EESC), CRob has become one of Brazil’s leading centers for research and development in the field. The center currently brings together researchers from different laboratories and maintains partnerships with universities, research institutions, and companies in Brazil and abroad.\nDuring the celebration, representatives of laboratories affiliated with the center presented some of the research and technologies developed in recent years. Members of the management committee led the presentations, giving attendees an overview of CRob’s diverse areas of activity, which range from industrial robotics to autonomous systems and applications across different sectors of society.\nThe meeting also marked the release of a technical report outlining the center’s activities and achievements over its 15-year history. The report is available online.\nFor Fernando Santos Osório, an ICMC professor, CRob member, and one of the event’s organizers, the anniversary marks the maturation of a project built collectively by researchers who believed in the potential of robotics. “The Robotics Center’s 15-year history reflects a successful journey, with significant achievements, major challenges, and important results. Above all, it demonstrates how much the center has matured”, he said.\nAccording to Osório, the work of the 10 professors who served on the management committee and devoted themselves to consolidating the initiative was essential to CRob’s current standing. “We are very pleased to see how far we have come, and even more pleased to know that we have a very promising path ahead.”\nFrom research to applications in society\nCRob’s importance is closely tied to the development of technologies that make a wide range of activities more efficient, safer, and more automated. In industry, agribusiness, and the service sector, robotic systems can perform repetitive, physically demanding, or dangerous tasks while also improving productivity and process quality.\nIn this context, the center plays a strategic role by bringing together expertise from different fields, particularly computer science and engineering. Collaboration between researchers at the ICMC and EESC enables the development of solutions that combine intelligent systems, sensors, control mechanisms, and automation technologies.\nOsório noted that this collaboration has become even more important in light of advances in artificial intelligence (AI), an area in which the ICMC has established expertise and which is increasingly used to develop robots capable of perceiving their surroundings, learning, and making decisions.\nThe center’s location in São Carlos is also considered an advantage. The city is home to numerous universities, researchers, and technology-based companies, creating favorable conditions for partnerships and the development of innovative solutions.\nFor the professor, CRob is not only an achievement for USP but also an important means of strengthening the São Carlos campus’s position as a leading center for robotics research and innovation, while expanding opportunities for collaboration with institutions in Brazil and abroad.\n.\nNew building marks the beginning of a new phase\nAlong with celebrating the achievements of the past 15 years, the anniversary comes at a time when the center’s infrastructure is expanding. In January 2026, USP held a groundbreaking ceremony for CRob’s new facility, which will be built in Area 2 of the São Carlos campus.\nWith an estimated investment of approximately R$ 64.7 million, the project calls for a three-story building with an area of about 6,500 square meters. The facility will house specialized laboratories, prototyping spaces, areas for testing robotic systems, and spaces for collaborative research.\nFor Osório, the new facility fulfills a long-held aspiration shared by the center’s members. “The new CRob building at USP’s Area 2 campus in São Carlos represents the realization of a dream”, he said.\nThe centralization of groups and laboratories, which are currently spread across different locations, is expected to facilitate equipment sharing, strengthen collaboration among teams, and enable more complex projects. According to the researcher, the new infrastructure should also create more opportunities for cooperation with external institutions, reinforcing the center’s role as a leading developer of robotic technologies.\n.\nTribute recognizes the contribution of one of the founders\nOne of the highlights of the celebration was a tribute to Marco Henrique Terra, in recognition of his fundamental role in the creation and development of CRob. Terra was one of the key people responsible for bringing together the researchers who launched the project and became the center’s first general coordinator. His work was decisive in establishing the initiative as a USP Research Support Center, bringing together different areas of scientific expertise to advance robotics.\nDuring the ceremony, Terra received a plaque recognizing his academic career, scientific contributions, and dedication to strengthening the center. The tribute also underscored the collective nature of a history built over 15 years through collaboration among professors, students, and researchers from different specialties.\nLooking back on past achievements and ahead to the opportunities created by the new facility, the 15th-anniversary celebration reaffirmed the importance of continuing research and training new generations of professionals.\nFor Osório, the occasion offered an opportunity not only to recognize what has already been achieved but also to consider the possibilities arising from the institution’s growth. What began as a collaboration among researchers from the ICMC and EESC is now preparing to enter a new chapter in robotics research at USP.\nTo learn more, visit the USP Robotics Center website.\n*Written with information provided by the ICMC/USP Communications Office\nEnglish version: Nexus Traduções, edited by Denis Pacheco",
+    "autor_fonte": null,
+    "site_fonte": "Jornal da USP",
+    "imagem_url": "https://jornal.usp.br/wp-content/uploads/2026/10/20261027_00_pesquisadores_crob_icmc_usp.jpg",
+    "imagem_arquivo": "imagens/robotica-usp-robotics-center-in-sao-carlos-celebr.jpg",
+    "imagem_credito": "Jornal da USP",
+    "imagem_licenca": "Jornal da USP — reprodução permitida com crédito (conferir condições)",
+    "imagem_pagina": "https://jornal.usp.br/uspnews/usp-robotics-center-in-sao-carlos-celebrates-15-years-of-research-innovation-and-technological-advances/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": []
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "8d07794f0475",
+      "titulo": "Restrito a assinantes Ultra, Gemini 4 Carbon chega como nova IA de raciocínio profundo",
+      "url": "https://canaltech.com.br/inteligencia-artificial/restrito-a-assinantes-ultra-gemini-4-carbon-chega-como-nova-ia-de-raciocinio-profundo/",
+      "resumo": "O Google liberou o Gemini 4 Carbon , seu modelo de inteligência artificial mais avançado até o momento, para desenvolvedores, empresas, pesquisadores e assinantes do plano Google AI Ultra. A ferramenta foi desenvolvida para tarefas que exigem raciocínio profundo, pesquisas científicas, programação complexa e análises de segurança digital. Inicialmente, o modelo ficou restrito a um grupo selecionado de especialistas em cibersegurança. O Gemini 4 Carbon foi projetado para lidar com problemas mais complexos do que aqueles atendidos pelo Gemini 4 Argon, modelo recomendado pelo Google para tarefas cotidianas, engenharia de software e atividades profissionais. Para isso, a nova IA utiliza uma quantidade maior de tokens , com ciclos mais longos de raciocínio e verificação das respostas. O modelo também alcançou o primeiro lugar em três avaliações independentes , cada uma com foco em uma habilidade diferente: o CursorBench 4.0 testa o desempenho em programação e desenvolvimento de software; o WANDR, da Perplexity, avalia a capacidade de realizar pesquisas aprofundadas; e o AutomationBench, da Zapier, mede a execução de tarefas e a automação de fluxos de trabalho. Segundo o Google, o custo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-11T17:07:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.768597+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 5.598,
+      "cobertura": []
+    },
+    "texto_fonte": "Restrito a assinantes Ultra, Gemini 4 Carbon chega como nova IA de raciocínio profundo\nPor Viviane França |\nO Google liberou o Gemini 4 Carbon, seu modelo de inteligência artificial mais avançado até o momento, para desenvolvedores, empresas, pesquisadores e assinantes do plano Google AI Ultra. A ferramenta foi desenvolvida para tarefas que exigem raciocínio profundo, pesquisas científicas, programação complexa e análises de segurança digital. Inicialmente, o modelo ficou restrito a um grupo selecionado de especialistas em cibersegurança.\nO Gemini 4 Carbon foi projetado para lidar com problemas mais complexos do que aqueles atendidos pelo Gemini 4 Argon, modelo recomendado pelo Google para tarefas cotidianas, engenharia de software e atividades profissionais. Para isso, a nova IA utiliza uma quantidade maior de tokens, com ciclos mais longos de raciocínio e verificação das respostas.\nO modelo também alcançou o primeiro lugar em três avaliações independentes, cada uma com foco em uma habilidade diferente: o CursorBench 4.0 testa o desempenho em programação e desenvolvimento de software; o WANDR, da Perplexity, avalia a capacidade de realizar pesquisas aprofundadas; e o AutomationBench, da Zapier, mede a execução de tarefas e a automação de fluxos de trabalho. Segundo o Google, o custo por tarefa ficou mais de duas vezes abaixo do concorrente externo mais próximo.\nO Google Antigravity também ganhou uma prévia do comando /swarm, que coordena vários agentes de inteligência artificial em paralelo a partir de uma única instrução. O recurso pode ser usado para desenvolver sistemas de código, criar visualizações em 3D e executar verificações formais de segurança.\nNa área de cibersegurança, o Gemini 4 Carbon também recebeu uma versão específica, chamada Carbon for Cyber. O modelo apresenta avanços na identificação e no bloqueio de tentativas de jailbreak e ataques de injeção indireta de prompts.\nComo acessar o Gemini 4 Carbon?\nO acesso ao Gemini 4 Carbon depende do tipo de conta e da plataforma utilizada. Confira as opções:\n- Assinantes do Google AI Ultra: podem selecionar o modelo no aplicativo Gemini, no Modo IA da Busca do Google e no Google Antigravity. No Modo IA, a opção aparece no seletor de modelos para contas pessoais de maiores de 18 anos em países compatíveis, com limites diários de uso;\n- Desenvolvedores: podem usar o Carbon pela API paga no Google AI Studio e no Android Studio. Até 30 de novembro de 2026, o Google oferece preços promocionais de US$ 2 por milhão de tokens de entrada e US$ 10 por milhão de tokens de saída. A partir de 1º de dezembro, os valores serão dobrados;\n- Empresas: podem habilitar o modelo no Gemini for Business, com acesso pela API, pelo seletor de modelos, pelo Google Antigravity e pelo CodeMender;\n- Cientistas e pesquisadores: podem participar do programa de acesso gratuito por seis meses, oferecido pelo nível mais avançado do Google Antigravity. A iniciativa terá até 10 mil participantes, com inscrições abertas e seleção contínua;\n- Especialistas em cibersegurança: organizações da área podem solicitar acesso à versão especializada do modelo por meio do Programa Fairwind.",
+    "autor_fonte": "Viviane França",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/hszkwJ3xO1oTErkHaIsyJKAahgM=/1200x675/smart/filters:format(webp):quality(85)/4845c3b7-001f-4a19-80cf-a85800ba9047.webp",
+    "imagem_arquivo": "imagens/software-restrito-a-assinantes-ultra-gemini-4-car.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/inteligencia-artificial/restrito-a-assinantes-ultra-gemini-4-carbon-chega-como-nova-ia-de-raciocinio-profundo/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "81c693f5ead5",
+      "titulo": "IBM to offer access to a dual-processor quantum system in 2027",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "resumo": "The company plans on linking two 520-qubit chips before next year is over.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "quantica"
+      ],
+      "publicado": "2026-11-11T16:33:08+00:00",
+      "coletado_em": "2026-11-11T17:08:13.797038+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+      "score": 5.784,
+      "cobertura": []
+    },
+    "texto_fonte": "IBM’s Quantum Developer’s Conference is being held this week, and the company is using the gathering to provide an update to its roadmap: It is aiming to make error-corrected quantum computers before the decade is out.\nThe changes greatly expand the scope of its next-generation Nighthawk general-use processors by adding a version with over 500 programmable qubits. At the same time, it’s stepping back a bit on its plan to link multiple Nighthawk processors together, dropping the intended number of linked systems from nine to two.\nThe total number of qubits planned for next year will remain the same; how the company is getting there, however, will be different.\nMeanwhile, the company is touting the performance boost achieved via a major change that was made in the generation of Nighthawk processors released in September: hardware-based qubit resets.\nParallel roadmaps\nIBM’s most recent roadmap to error-corrected quantum computing has two parallel tracks. One is focused on technical development, with the company testing technologies it will need to build error-corrected hardware but that may not be useful outside of that context. The other is public-facing, focused on delivering high-performance processors for people interested in testing algorithms on quantum systems today.\nThe reason for this split is that IBM plans to use an error-correction “code” that requires a specific number of hardware qubits connected in a specific geometry, along with additional hardware qubits needed to perform operations on that code. You could potentially run some algorithms directly on this hardware without error correction, but it wouldn’t necessarily be optimal. So IBM is also offering a more general-purpose processor in parallel, called Nighthawk.\nFor past generations of its processors, the company has often developed revisions that improve performance in various ways. So while the roadmap lists only one processor labeled Heron, there were two subsequent revisions to Heron after its release. Throughout 2028, however, the company’s public-facing track will see nothing but revisions to the current generation of processors, called Nighthawk, which started with 120 hardware qubits and the expectation of performing about 5,000 gate operations before errors become too likely to rely on its output.",
+    "autor_fonte": "John Timmer",
+    "site_fonte": "Ars Technica",
+    "imagem_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+    "imagem_arquivo": "imagens/hardware-ibm-to-offer-access-to-a-dual-processor.jpg",
+    "imagem_credito": "Ars Technica",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "22d730874dd0",
+      "titulo": "Re-analysis of black hole data proves iconic ring shape really is there",
+      "url": "https://www.newscientist.com/article/2598415-re-analysis-of-black-hole-data-proves-iconic-ring-shape-really-is-there/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The doughnut shape of the Event Horizon Telescope’s first image of a black hole has come under fire, but an independent check showed that it – and general relativity – still stands",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-11T16:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.794944+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320279401.jpg",
+      "score": 5.723,
+      "cobertura": []
+    },
+    "texto_fonte": "When the Event Horizon Telescope (EHT) team released their first image of a black hole in 2019, the astrophysics community was abuzz: the image of black hole M87* showed a perfect ring structure, just as predicted by the theory of general relativity. As other teams reanalysed the data in the following years, though, scepticism about the image began to slip in. A new, completely independent analysis has now finally banished that scepticism.\nThe now-iconic doughnut shape of the EHT image is caused by a key property of general relativity, the way that light bends in the presence of an extremely massive object. Observing it for real was one of the strongest pieces of evidence that general relativity is accurate.\nWhat allowed us to finally capture the image was the unique structure of the EHT, which is made up of a network of telescopes all around the world, used as one Earth-sized radio dish. This allows it to peer much closer to the edge of a black hole than any other observatory. However, the same structure that enabled the image also limits the EHT. “It has only a handful of telescopes spread across the globe, which leaves large gaps in its measurements that the imaging algorithm has to fill in,” says Nithyanandan Thyagarajan at CSIRO in Australia. “It also observes at very short radio wavelengths, where the atmosphere can distort the signal.”\nAdvertisement\nThese limitations mean that the raw data from the EHT is more subject to interpretation than most astronomical observations, and the way the data is processed is particularly impactful on the final image. Most of the analyses of the M87* data produced similar ring shapes, but one that was published in 2022 found no ring at all.\nSo, when Thyagarajan and his colleagues reanalysed the data, they developed an entirely new data pipeline to do so. Instead of analysing the data from pairs of EHT telescopes before combining them, which is the standard method, they grouped the telescopes into triplets.\n“By combining measurements from sets of three telescopes, we preserve the information about the object’s shape while cancelling out errors from the atmosphere and the telescopes,” says Thyagarajan. They also developed a machine learning algorithm trained on non-black-hole images to minimise bias from their own expectations of what the image might look like.\nIn the end, their new image is nearly identical to the original. This is a key confirmation of the EHT’s finding that general relativity truly does describe the space-time around a black hole accurately.",
+    "autor_fonte": "Leah Crane",
+    "site_fonte": "New Scientist",
+    "imagem_url": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320279401.jpg",
+    "imagem_arquivo": "imagens/astrofisica-re-analysis-of-black-hole-data-proves-ic.jpg",
+    "imagem_credito": "New Scientist",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.newscientist.com/article/2598415-re-analysis-of-black-hole-data-proves-iconic-ring-shape-really-is-there/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "78f10a01db54",
+      "titulo": "Zhengyuan Quantum Raises Angel Funding For 1,000-Qubit Computer",
+      "url": "https://thequantuminsider.com/2026/11/11/zhengyuan-quantum-raises-angel-funding-for-1000-qubit-computer/",
+      "resumo": "Insider Brief Chinese quantum computing startup Zhengyuan Quantum has completed an angel funding round to support development of a 1,000-qubit superconducting computer, according to media reports. The company announced the financing Nov. 10, according to a Jiemian News report republished by Sohu. Investors include Shenzhen Capital Group, Pudong Venture Capital, Dening Capital, Xiangjiang Xincheng and […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-11T15:23:36+00:00",
+      "coletado_em": "2026-11-11T17:08:13.743309+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Superconducting-quantum-chip-with-Chinese-flag-motif-1.png",
+      "score": 6.008,
+      "cobertura": []
+    },
+    "texto_fonte": "Insider Brief\n- Zhengyuan Quantum has completed an angel funding round of undisclosed size to develop a 1,000-qubit superconducting quantum computer, according to media reports.\n- The funding will support computer development and testing of three-dimensional packaging, low-temperature connections, and integrated measurement and control technologies.\n- Dealroom reported that the startup has secured component orders and is discussing complete systems with potential customers, but disclosed no delivery timeline for its planned computer.\nChinese quantum computing startup Zhengyuan Quantum has completed an angel funding round to support development of a 1,000-qubit superconducting computer, according to media reports.\nThe company announced the financing Nov. 10, according to a Jiemian News report republished by Sohu. Investors include Shenzhen Capital Group, Pudong Venture Capital, Dening Capital, Xiangjiang Xincheng and Shenzen Angel Fund of Funds, according to Dealroom. Duowei Capital served as the exclusive financial adviser.\nThe size of the round was not disclosed and no delivery timeline for the computer was offered, according to the reports.\nThe funding will primarily support research and development of the machine and testing of three technologies needed to connect and operate its hardware: three-dimensional packaging, connections that work at extremely low temperatures, and integrated measurement and control, according to Jiemian News.\nFounded in 2026, Zhengyuan is pursuing the 1,000-qubit system as a step toward general-purpose quantum computing, Dealroom reported.\nQubits are the basic units of information in a quantum computer. Superconducting systems use electrical circuits cooled to extremely low temperatures to perform quantum operations. It’s important to note that 1,000 qubits does not guarantee a useful quantum computing because building a larger machine requires more than adding qubits. Engineers must also deliver control signals and read results while limiting interference and unwanted heat.\nDealroom described those connections as a main focus of Zhengyuan’s technology. As the number of qubits increases, space for wiring around a chip’s edges becomes crowded. Additional lines running through the cooling equipment can also introduce heat and interfere with signals, according to its account.\nZhengyuan is developing connections that pass vertically through silicon, along with three-dimensional packaging, to route signals out of the chip, Dealroom reported. The approach would give engineers another route for making connections beyond the chip’s perimeter. Whether it can support the company’s planned system remains to be demonstrated.\nThe reported spending priorities also extend to the equipment needed to manage a complete machine. Low-temperature connections must carry signals within the cooled hardware, while measurement and control systems direct operations and collect results. Jiemian News described these areas as targets for technology verification, rather than completed capabilities.\nAlongside its computer development, Zhengyuan has secured orders for quantum chips and signal amplifiers, according to Dealroom. Its report did not identify the customers or disclose the value of those orders. It also said the company is discussing demand for complete machines with potential customers; those discussions were not described as signed system orders.\nDealroom identified the founder as Zheng Yarui, who holds a doctorate from the Chinese Academy of Sciences’ Institute of Physics and previously led superconducting quantum hardware work at a major internet company. The report did not name that employer. Co-founder Wu Dachao worked on research associated with the Zuchongzhi 3.0 quantum processor, according to Dealroom.\nMatt Swayne\nGet the latest research, company news, and market intelligence every week.\nMENTIONED IN THE ARTICLE\nShenzhen Capital Group (SCGC) is a leading venture capital firm established in 1999. The group was initially a company formerly known as Shenzhen Innovation and Technology Investment company, established on August 26, 1999.\nPudong Venture Capital is a state-owned venture capital firm based in Shanghai, China, established in 1997. Operating under the Pudong New Area government, it focuses on hard technology sectors such as artificial intelligence, integrated circuits, biomedicine, and quantum technology. The firm specializes in early-stage and seed investments, supporting startups in high-risk, high-tech fields to advance China's technological capabilities. Pudong Venture Capital is a key player in the Shanghai quantum ecosystem, investing in companies developing photonic quantum computing hardware and related technologies.\nLaunched in 2018, Shenzhen Angel FOF Fund is an angel investment vehicle funded by Shenzhen Government Guiding FOF. It had raised RMB5 billion (US$720 million) in seed capital to guide personal capital to early-stage projects and facilitate financing for Shenzhen-based enterprises in March.",
+    "autor_fonte": "Matt Swayne",
+    "site_fonte": "The Quantum Insider",
+    "imagem_url": "https://thequantuminsider.com/wp-content/uploads/2026/11/Superconducting-quantum-chip-with-Chinese-flag-motif-1.png",
+    "imagem_arquivo": "imagens/quantica-zhengyuan-quantum-raises-angel-funding-f.jpg",
+    "imagem_credito": "The Quantum Insider",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://thequantuminsider.com/2026/11/11/zhengyuan-quantum-raises-angel-funding-for-1000-qubit-computer/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "19dffa35d7ff",
+      "titulo": "Lost track of which Windows virtual desktop you’re on? This free tool helps",
+      "url": "https://www.pcworld.com/article/3277776/lost-track-of-which-windows-desktop-youre-on-this-free-tool-helps.html",
+      "resumo": "Windows allows you to create multiple desktops, so that users can quickly switch between a work environment, a personal one, and a desktop optimized for gaming. This often leads to overlap: a word processor, for example, is normally needed for both work and personal correspondence. If the program is running in full-screen mode, it’s often hard to tell which desktop you’re currently on. The simplest method is to assign a different background to each desktop. However, this must be a background image; Windows applies solid colors uniformly across all desktops. The Windows Virtual Desktop Helper tool always displays which desktop you are currently working on in the taskbar. You can specify exactly how this is displayed in the settings. Foundry And, of course, the wallpaper trick only works if you’re not using the current application in full-screen mode. The open-source program Windows Virtual Desktop Helper offers a better solution. Once installed, you’ll find the tool in the Start menu under ‘Recommended.’ As soon as you’ve launched it by double-clicking, it appears in the corner of the taskbar with three new entries. A number or an initial letter indicates which desktop you’re curren",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-11T16:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.745014+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3277776-0-47419400-1794412828-Living-room-TV-with-Windows-desktop-PC.jpg?quality=50&strip=all",
+      "score": 5.573,
+      "cobertura": []
+    },
+    "texto_fonte": "Windows allows you to create multiple desktops, so that users can quickly switch between a work environment, a personal one, and a desktop optimized for gaming. This often leads to overlap: a word processor, for example, is normally needed for both work and personal correspondence.\nIf the program is running in full-screen mode, it’s often hard to tell which desktop you’re currently on. The simplest method is to assign a different background to each desktop. However, this must be a background image; Windows applies solid colors uniformly across all desktops.\nFoundry\nAnd, of course, the wallpaper trick only works if you’re not using the current application in full-screen mode. The open-source program Windows Virtual Desktop Helper offers a better solution. Once installed, you’ll find the tool in the Start menu under ‘Recommended.’ As soon as you’ve launched it by double-clicking, it appears in the corner of the taskbar with three new entries.\nA number or an initial letter indicates which desktop you’re currently on. Right-click and select ‘Settings’ from the context menu to access the program’s settings. You can quickly switch between your desktops using the arrow keys.",
+    "autor_fonte": "Roland Freist",
+    "site_fonte": "PCWorld",
+    "imagem_url": "https://www.pcworld.com/wp-content/uploads/2026/11/3277776-0-47419400-1794412828-Living-room-TV-with-Windows-desktop-PC.jpg?quality=50&strip=all&w=1024",
+    "imagem_arquivo": "imagens/computadores_pessoais-lost-track-of-which-windows-virtual-desk.jpg",
+    "imagem_credito": "PCWorld",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.pcworld.com/article/3277776/lost-track-of-which-windows-desktop-youre-on-this-free-tool-helps.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "8d07794f0475",
+      "titulo": "Restrito a assinantes Ultra, Gemini 4 Carbon chega como nova IA de raciocínio profundo",
+      "url": "https://canaltech.com.br/inteligencia-artificial/restrito-a-assinantes-ultra-gemini-4-carbon-chega-como-nova-ia-de-raciocinio-profundo/",
+      "resumo": "O Google liberou o Gemini 4 Carbon , seu modelo de inteligência artificial mais avançado até o momento, para desenvolvedores, empresas, pesquisadores e assinantes do plano Google AI Ultra. A ferramenta foi desenvolvida para tarefas que exigem raciocínio profundo, pesquisas científicas, programação complexa e análises de segurança digital. Inicialmente, o modelo ficou restrito a um grupo selecionado de especialistas em cibersegurança. O Gemini 4 Carbon foi projetado para lidar com problemas mais complexos do que aqueles atendidos pelo Gemini 4 Argon, modelo recomendado pelo Google para tarefas cotidianas, engenharia de software e atividades profissionais. Para isso, a nova IA utiliza uma quantidade maior de tokens , com ciclos mais longos de raciocínio e verificação das respostas. O modelo também alcançou o primeiro lugar em três avaliações independentes , cada uma com foco em uma habilidade diferente: o CursorBench 4.0 testa o desempenho em programação e desenvolvimento de software; o WANDR, da Perplexity, avalia a capacidade de realizar pesquisas aprofundadas; e o AutomationBench, da Zapier, mede a execução de tarefas e a automação de fluxos de trabalho. Segundo o Google, o custo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-11T17:07:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.768597+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 6.098,
+      "cobertura": []
+    },
+    "texto_fonte": "Restrito a assinantes Ultra, Gemini 4 Carbon chega como nova IA de raciocínio profundo\nPor Viviane França |\nO Google liberou o Gemini 4 Carbon, seu modelo de inteligência artificial mais avançado até o momento, para desenvolvedores, empresas, pesquisadores e assinantes do plano Google AI Ultra. A ferramenta foi desenvolvida para tarefas que exigem raciocínio profundo, pesquisas científicas, programação complexa e análises de segurança digital. Inicialmente, o modelo ficou restrito a um grupo selecionado de especialistas em cibersegurança.\nO Gemini 4 Carbon foi projetado para lidar com problemas mais complexos do que aqueles atendidos pelo Gemini 4 Argon, modelo recomendado pelo Google para tarefas cotidianas, engenharia de software e atividades profissionais. Para isso, a nova IA utiliza uma quantidade maior de tokens, com ciclos mais longos de raciocínio e verificação das respostas.\nO modelo também alcançou o primeiro lugar em três avaliações independentes, cada uma com foco em uma habilidade diferente: o CursorBench 4.0 testa o desempenho em programação e desenvolvimento de software; o WANDR, da Perplexity, avalia a capacidade de realizar pesquisas aprofundadas; e o AutomationBench, da Zapier, mede a execução de tarefas e a automação de fluxos de trabalho. Segundo o Google, o custo por tarefa ficou mais de duas vezes abaixo do concorrente externo mais próximo.\nO Google Antigravity também ganhou uma prévia do comando /swarm, que coordena vários agentes de inteligência artificial em paralelo a partir de uma única instrução. O recurso pode ser usado para desenvolver sistemas de código, criar visualizações em 3D e executar verificações formais de segurança.\nNa área de cibersegurança, o Gemini 4 Carbon também recebeu uma versão específica, chamada Carbon for Cyber. O modelo apresenta avanços na identificação e no bloqueio de tentativas de jailbreak e ataques de injeção indireta de prompts.\nComo acessar o Gemini 4 Carbon?\nO acesso ao Gemini 4 Carbon depende do tipo de conta e da plataforma utilizada. Confira as opções:\n- Assinantes do Google AI Ultra: podem selecionar o modelo no aplicativo Gemini, no Modo IA da Busca do Google e no Google Antigravity. No Modo IA, a opção aparece no seletor de modelos para contas pessoais de maiores de 18 anos em países compatíveis, com limites diários de uso;\n- Desenvolvedores: podem usar o Carbon pela API paga no Google AI Studio e no Android Studio. Até 30 de novembro de 2026, o Google oferece preços promocionais de US$ 2 por milhão de tokens de entrada e US$ 10 por milhão de tokens de saída. A partir de 1º de dezembro, os valores serão dobrados;\n- Empresas: podem habilitar o modelo no Gemini for Business, com acesso pela API, pelo seletor de modelos, pelo Google Antigravity e pelo CodeMender;\n- Cientistas e pesquisadores: podem participar do programa de acesso gratuito por seis meses, oferecido pelo nível mais avançado do Google Antigravity. A iniciativa terá até 10 mil participantes, com inscrições abertas e seleção contínua;\n- Especialistas em cibersegurança: organizações da área podem solicitar acesso à versão especializada do modelo por meio do Programa Fairwind.",
+    "autor_fonte": "Viviane França",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/hszkwJ3xO1oTErkHaIsyJKAahgM=/1200x675/smart/filters:format(webp):quality(85)/4845c3b7-001f-4a19-80cf-a85800ba9047.webp",
+    "imagem_arquivo": "imagens/inteligencia_artificial-restrito-a-assinantes-ultra-gemini-4-car.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/inteligencia-artificial/restrito-a-assinantes-ultra-gemini-4-carbon-chega-como-nova-ia-de-raciocinio-profundo/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "1c7173c61705",
+      "titulo": "Light is hard to block from every direction. This physicist found a way",
+      "url": "https://www.sciencenews.org/article/light-block-direction-physicist-sn10",
+      "resumo": "Physicist Stefano Martiniani uses a computer algorithm to design new materials that could help advance light-based computers.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-11T12:00:00+00:00",
+      "coletado_em": "2026-11-11T17:08:13.796452+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/111126_sn10-martiniani_main_rev.jpg?w=800",
+      "score": 4.986,
+      "cobertura": []
+    },
+    "texto_fonte": "This is a human-written story voiced by AI. Got feedback?\nTake our survey .\n(See our AI policy\nhere .)\nPhysicist Stefano Martiniani has designed an entirely new class of materials that blurs the line between order and chaos. Called gyromorphs, these metamaterials rely on crystal-like geometric structure and liquidlike randomness to block light from penetrating at any angle.\nPhysicists thought, structurally speaking, that they could not create such hybrid materials. “But this is evidence that you can, under certain constraints,” says Martiniani, of New York University. He likens the gyromorphs’ disorderliness to a crowd of people. You could see through the crowd if individuals stood still in straight lines, but not if they are clustered together in random groups. But there’s order too: From anywhere you stand in a gyromorph crowd, you’ll see a ring of people at a given distance.\nGyromorphs are a type of metamaterial, a substance with a structure designed to give it properties not found in naturally occurring materials. Metamaterials can control light, sound or other waves, and are often used in smartphones, medical imaging and computers. Martiniani says gyromorphs could be used to make more energy-efficient optical computers, which use light to process and store data.\nTo design a gyromorph, Martiniani needed to find a way to achieve the perfect structural balance. He turned to FReSCo, a program his lab created that designs molecular structures to meet researchers’ specifications, for help. “We had an algorithm, we gave it an objective, and then it was able to solve that objective, finding a solution that we were not expecting,” he says. “That is the best kind of discovery.”",
+    "autor_fonte": "Mandana Tadayon; Anna Mattson; Emily Conover",
+    "site_fonte": "Science News Magazine",
+    "imagem_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/111126_sn10-martiniani_main_rev.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-light-is-hard-to-block-from-every-direct.jpg",
+    "imagem_credito": "Science News Magazine",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.sciencenews.org/article/light-block-direction-physicist-sn10",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "9364f9baac68",
+      "titulo": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "resumo": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-10T21:55:03+00:00",
+      "coletado_em": "2026-11-11T17:08:13.757240+00:00",
+      "imagem_feed": null,
+      "score": 4.709,
+      "cobertura": [
+        "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/"
+      ]
+    },
+    "texto_fonte": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.\nNovember’s patch release from Redmond tackles 1,093 vulnerabilities, fixing 63 “critical” flaws that can be exploited to seize control over a Windows system with little or no help from users. Nearly half of those critical bugs are remote code execution vulnerabilities. Overall, 535 of the flaws addressed this month allow an attacker to elevate their privileges on a vulnerable device.\nThis latest round of updates means Microsoft has shipped more than 5,100 security patches so far this year, a staggering number considering that a year ago Microsoft was averaging around 100 patches per month. Microsoft credits advances in artificial intelligence for helping to find (and fix) such a large volume of security bugs in recent months. Last month, Microsoft pushed more than 1,400 fixes.\nAccording to Redmond, just one of the flaws is already seeing active exploitation: CVE-2026-124194, a spoofing bug in Outlook. The advisory for CVE-2026-124194 says it affects Microsoft 365 Apps for Enterprise and editions of Microsoft Office.\nSeveral other major software makers pushed security updates this week to fix critical weaknesses in their products. Apple on Monday released out-of-cycle security updates to fix at least nine vulnerabilities in iOS/iPadOS, macOS, watchOS and visionOS. Among the weaknesses reportedly fixed in Apple’s release include an iMessage flaw that could let a remote attacker join a group chat and receive its messages; the updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined.\nLee Neely, an instructor at the SANS Institute, noted that Apple backported the fix to iOS 18.\n“I take notice when Apple releases fixes to more than two versions,” Neely wrote in a SANS newsletter today. “You really need to get to version 27.2.1 of their OSes and push folks who are holding onto devices which cannot run the current version. The best plan often involves setting an upgrade date for old hardware. Run through all your Apple devices and make sure everything is up to date, don’t assume the fixes went out automatically.”\nGoogle this week released Chrome version 157.0.8103.50, which resolves nine security holes, including CVE-2026-125350, the sixth zero-day vulnerability this year for Chrome (this bug also being patched in Chromium-based browsers like Edge). The latest Chrome version follows its November 3 release, which fixed 213 vulnerabilities. A new version of Mozilla Firefox out today (Firefox 160) resolves almost 100 CVEs, about half of them high severity.\nAdobe today released patches for at least 110 vulnerabilities across a range of products, with nearly half of the flaws rated high severity. Adobe said there is no evidence any of the security holes it addressed this month are being actively exploited.\nChris Goettl, vice president of product management at Ivanti, said it’s easy for security teams at large enterprises to feel overwhelmed by the volume and criticality of patches from Microsoft lately. But he notes that while some 95,000 vulnerabilities have been assigned CVEs this year across all vendors, only 217 have so far this year been added to the Known Exploited Vulnerabilities (KEV) list maintained by the U.S. Cybersecurity and Infrastructure Security Agency (CISA).\n“Roughly four in ten of this year’s exploited vulnerabilities sit in operating systems, endpoint software, browsers, and server platforms, which a continuous patch strategy can close quickly,” Goettl said.”The rest calls for exposure management alongside patching, especially the 44% that sit in edge devices and IT management or remote access tools, the internet-facing systems that hold privileged access. Teams that can quickly identify those assets, confirm exposure and act on confirmed exploitation can focus on the small slice of vulnerabilities attackers are actively using, while the rest stays on the normal patch cadence.”\nPlease don’t neglect to back up any important data if you haven’t recently; generally speaking, this is a task best accomplished before applying operating system updates. As ever, if you experience any issues applying this month’s bundle of love from Microsoft, please drop a comment about it in the space below.",
+    "autor_fonte": null,
+    "site_fonte": "krebsonsecurity.com",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/First_Bounty_hunter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imagem_arquivo": "imagens/ciberseguranca-microsoft-fixes-nearly-1-100-security-vu.jpg",
+    "imagem_credito": "Microsoft adobe yahoo / Wikimedia Commons",
+    "imagem_licenca": "Wikimedia Commons — CC BY-SA 4.0",
+    "imagem_pagina": "https://commons.wikimedia.org/wiki/File:First_Bounty_hunter.jpg",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem ilustrativa obtida no Wikimedia Commons (não é da matéria original): conferir pertinência."
+    ]
+  }
+]
