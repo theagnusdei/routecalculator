@@ -1,0 +1,778 @@
+{
+  "medicina": [
+    {
+      "id": "5bfb59c5ffee",
+      "titulo": "Unusual pathogen: Fatal viral infection identified during advanced cancer immunotherapy",
+      "url": "https://medicalxpress.com/news/2026-11-unusual-pathogen-fatal-viral-infection.html",
+      "resumo": "Modern immunotherapy may leave patients vulnerable to rare and potentially severe infections, according to a case study by researchers at the University Medical Center Hamburg-Eppendorf (UKE) and the Leibniz Institute of Virology (LIV). The team identified an avian virus, typically harmless to humans, as the cause of a fatal brain infection in a cancer patient.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-12T15:20:11+00:00",
+      "coletado_em": "2026-11-12T17:36:31.878497+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/unusual-pathogen-fatal.jpg",
+      "score": 6.304,
+      "cobertura": []
+    },
+    {
+      "id": "4a77778081f6",
+      "titulo": "NVIDIA prepara demissão de Jensen Huang após segundo caso de traição",
+      "url": "https://canaltech.com.br/hardware/nvidia-prepara-demissao-de-jensen-huang-apos-segundo-caso-de-traicao/",
+      "resumo": "Se você é PC gamer, viu Jensen Huang, fundador e único CEO da história da NVIDIA, subir ao palco e apresentar novas placas de vídeo por anos. Isso pode mudar daqui pra frente, já que o conselho administrativo da empresa está discutindo a demissão do executivo agora após outro caso extraconjugal vir à tona . Segundo o The Wall Street Journal, a diretoria se prepara para destituir o líder que comanda a gigante dos semicondutores há 33 anos, em uma reunião decisiva que pode selar a primeira troca de comando desde a fundação da companhia em 1993. O estopim para a mudança drástica foi uma reportagem do The New York Times revelando que Huang manteve um relacionamento com Kimberly Powell, vice-presidente da divisão de saúde da própria NVIDIA e sua subordinada direta . O caso se soma ao escândalo recente envolvendo a empresária e executiva Alice Huang , suspeita de atuar como agente da inteligência chinesa. Essa crise de governança e segurança nacional já fez as ações da fabricante despencarem 20% na bolsa de valores desde o início das revelações. Conflito de interesses e impacto na sucessão De acordo com relatos de funcionários citados pela imprensa norte-americana, Huang e Powell foram v",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T14:34:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": null,
+      "score": 5.978,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+        "https://olhardigital.com.br/2026/11/12/pro/acoes-da-nvidia-afundam-12-na-abertura-apos-saida-de-jensen-huang/"
+      ]
+    },
+    {
+      "id": "75b60d053c7c",
+      "titulo": "Primeira vacina brasileira contra malária avança para testes clínicos em humanos",
+      "url": "https://jornal.usp.br/campus-ribeirao-preto/primeira-vacina-brasileira-contra-malaria-avanca-para-testes-clinicos-em-humanos/",
+      "resumo": "Desenvolvida em parceria entre USP e UFMG, a Vivaxin é um avanço em saúde pública no combate à doença",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-12T13:00:45+00:00",
+      "coletado_em": "2026-11-12T17:36:31.897689+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261110_vacina-1024x538.jpg",
+      "score": 5.884,
+      "cobertura": []
+    },
+    {
+      "id": "e005a89cfbd1",
+      "titulo": "Head-to-head trial reveals better immune-dampening drug for psoriatic arthritis",
+      "url": "https://medicalxpress.com/news/2026-11-trial-reveals-immune-dampening-drug.html",
+      "resumo": "A newer immune-dampening drug appears to effectively quell pain and swelling in joints affected by psoriatic arthritis, a new study says. The injectable drug bimekizumab (Bimzelx) eased psoriatic arthritis for more patients than a slightly older drug from its same class, risankizumab (Skyrizi), researchers reported at the American College of Rheumatology (ACR) conference in Orlando, Florida.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-12T15:20:22+00:00",
+      "coletado_em": "2026-11-12T17:36:31.878497+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/joint-pain.jpg",
+      "score": 5.804,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "279ca1e27c4a",
+      "titulo": "The Evolving Story of How Chemistry Became Biology",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "resumo": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be. The post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine",
+      "fonte": "Quanta Magazine",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-12T15:45:27+00:00",
+      "coletado_em": "2026-11-12T17:36:31.880643+00:00",
+      "imagem_feed": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp",
+      "score": 5.797,
+      "cobertura": []
+    },
+    {
+      "id": "c626d3f20a74",
+      "titulo": "New analytical method offers potential for faster risk assessment of avian influenza viruses",
+      "url": "https://phys.org/news/2026-11-analytical-method-potential-faster-avian.html",
+      "resumo": "Highly pathogenic avian influenza causes significant damage to the poultry industry worldwide. As the virus evolves, new variants regularly emerge that may differ in how easily they spread and how severely they affect infected birds. Researchers at Wageningen Bioveterinary Research (WBVR, part of Wageningen University & Research) characterized eight avian influenza virus variants in chicken and duck cells. Using mathematical modeling, they identified differences in how these viruses behave in poultry cells. Their paper is published in Microbiology Spectrum.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-12T16:40:16+00:00",
+      "coletado_em": "2026-11-12T17:36:31.879762+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/lab-testing.jpg",
+      "score": 5.445,
+      "cobertura": []
+    },
+    {
+      "id": "127d0d032d75",
+      "titulo": "Sea pigs from the abyss host unusual bacteria",
+      "url": "https://phys.org/news/2026-11-sea-pigs-abyss-host-unusual.html",
+      "resumo": "In the deep ocean, translucent sea pigs trundle across the seafloor. Researchers at the University of Tokyo have discovered an unusual bacterium beneath the sea pig's \"skin.\" Through fluorescent imaging, they determined the location of the bacterium, which they named Candidatus Abyssoplasma scotoplanesicola. DNA analysis revealed a minimized genome of just 649,000 bases.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-12T15:20:01+00:00",
+      "coletado_em": "2026-11-12T17:36:31.879762+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-pigs-from-the-abys-1.jpg",
+      "score": 5.304,
+      "cobertura": []
+    },
+    {
+      "id": "903a9cb555d3",
+      "titulo": "Grupo brasileiro antecipou achado sobre a estrutura celular que intriga a biologia há 40 anos",
+      "url": "https://jornal.usp.br/ciencias/grupo-brasileiro-antecipou-achado-sobre-a-estrutura-celular-que-intriga-a-biologia-ha-quarenta-anos/",
+      "resumo": "Reportagem exclusiva da revista Science sobre um resultado da empresa de inteligência artificial Anthropic cita o professor Luiz Eduardo Del Bem, da USP, cujo grupo descreveu em 2023 as primeiras proteínas vault encontradas em vírus",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T11:18:14+00:00",
+      "coletado_em": "2026-11-12T17:36:31.897689+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261111_capa-1024x538.jpg",
+      "score": 5.24,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "44e4371cbc1e",
+      "titulo": "NVIDIA replaces CEO amid China AI and robotics concerns",
+      "url": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
+      "resumo": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C. Jones as board chair as it faces trade scrutiny. The post NVIDIA replaces CEO amid China AI and robotics concerns appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-12T16:33:17+00:00",
+      "coletado_em": "2026-11-12T17:36:31.881332+00:00",
+      "imagem_feed": null,
+      "score": 5.282,
+      "cobertura": []
+    },
+    {
+      "id": "d7547929d235",
+      "titulo": "Viam Launchpad aims to accelerate robotics deployments",
+      "url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+      "resumo": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-12T13:30:31+00:00",
+      "coletado_em": "2026-11-12T17:36:31.881332+00:00",
+      "imagem_feed": null,
+      "score": 4.978,
+      "cobertura": []
+    },
+    {
+      "id": "452d03a4295b",
+      "titulo": "Runway’s Praxis-1 world action model for robotics is now available",
+      "url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+      "resumo": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights. The post Runway’s Praxis-1 world action model for robotics is now available appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-12T13:18:47+00:00",
+      "coletado_em": "2026-11-12T17:36:31.881332+00:00",
+      "imagem_feed": null,
+      "score": 4.961,
+      "cobertura": []
+    },
+    {
+      "id": "21d1fe421f7a",
+      "titulo": "GWM lança Tank 400; veja quanto custa o SUV híbrido",
+      "url": "https://canaltech.com.br/carros/gwm-lanca-tank-400-suv-hibrido-plug-in-que-roda-como-esportivo/",
+      "resumo": "O mercado de utilitários brasileiro acaba de ganhar mais um membro. A GWM lançou nesta quinta (12) seu novo Tank 400 , SUV híbrido plug-in flex que chegou combinando o melhor do porte da categoria, motorização eletrificada e muito luxo. O novo modelo já pode ser adquirido na rede de concessionárias da GWM, bem como no site oficial da marca. De primeira, fica claro que um dos maiores atrativos estéticos do SUV é o visual “zero curva” , que confere ao carro design sem nenhuma linha curva em toda a parte externa. A proposta é inspirada no estilo dos mecha , os robôs gigantes pilotados por humanos e presentes em animes e mangás, como Neon Genesis Evangelion . O estilo é complementado por um toque estelar (literalmente!): os faróis angulares do Tank 400 foram desenhados de modo a representar os olhos dos robôs, junto de inspiração na constelação da Ursa Maior . As lanternas traseiras, por sua vez, têm formato da constelação de Órion , o Caçador, e a capa do estepe na tampa traseira traz a combinação do visual dos buracos negros com o brilho da obsidiana, um vidro vulcânico natural. Como é o Tank 400 Equipado com o sistema de tração Hi4-T associado ao câmbio automático de nove marchas , ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "robotica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T12:01:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/svTuEO_e5OkbfqGoUVJgSC8GVk0=/0x0/filters:format(webp):quality(85)/150ad0ee-bd1d-4b71-96b5-d3cb27727d8e.png",
+      "score": 4.048,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "646b53fcd24a",
+      "titulo": "Stenberg: 30 years of Internet transfers with curl",
+      "url": "https://lwn.net/Articles/1107151/",
+      "resumo": "Daniel Stenberg reflects on the 30th anniversary of the curl project. libcurl runs in an estimated thirty billion installations today. It is a rough estimate since the majority of all libcurl users never tell us they use it, but we need to find it mentioned in their credit screens, open source license windows or their manuals. A super popular app might use libcurl today and not tomorrow, or vice versa, which can make the numbers shift by several billions overnight. In reality of course, once the pulse raise has calmed down and your ego is content, these numbers do not matter. In our corner of the world, things don't change notably when we go from a thousand installs to billions. We still work with similar people, in similar ways, with similar challenges.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-12T14:24:47+00:00",
+      "coletado_em": "2026-11-12T17:36:31.882403+00:00",
+      "imagem_feed": null,
+      "score": 5.713,
+      "cobertura": []
+    },
+    {
+      "id": "a15fe65e52c0",
+      "titulo": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1107146/",
+      "resumo": "Security updates have been issued by Debian (aodh, apache2, dnspython, firefox-esr, mutt, octavia, spip, thunderbird, and watcher), Fedora (epiphany, firefox, freerdp, java-25-openjdk, java-latest-openjdk, libsoup3, perl-HTTP-Parser-XS, perl-libnet, php-getid3, pipx, python-crate-ingredients, python-pillow, python-robotframework, python3.9, rsync, rubygem-nokogiri, tpm2-tss, udns, and xorg-x11-server-Xwayland), Gentoo (curl, ImageMagick, libheif, and PCRE2), Mageia (nginx and python-django), Oracle (go-toolset:rhel8, libimobiledevice, nodejs:22, util-linux, and vim), Red Hat (.NET 10.0, .NET 8.0, .NET 9.0, cockpit, freerdp, gdb, go-fdo-client, grafana-pcp, ignition, kernel, kernel-rt, krb5, openssh, openssl, osbuild-composer, rpm, rsync, and webkit2gtk3), Slackware (git, httpd, and tigervnc), SUSE (aliyun-cli, alloy, apache-parent, aqute-bnd, google-gson, logback, maven, maven-artifact-transfer, maven-parent, maven-resolver, methanol, osgi-service- subsystem, slf4j, xmvn, bcel, benchdnn, containerd, distribution, dpdk, efivar, elemental, elemental-register, elemental-system-agent, elemental-toolkit, firefox, kernel, liblldpctl4, libonnxruntime1, openssl-1_0_0, openssl-1_1, openvpn,",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-12T14:13:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.882403+00:00",
+      "imagem_feed": null,
+      "score": 5.694,
+      "cobertura": []
+    },
+    {
+      "id": "8550cab08292",
+      "titulo": "Introducing Polo: a Wayland MATE compositor",
+      "url": "https://lwn.net/Articles/1107152/",
+      "resumo": "Kerem Söke has announced the 1.0 release of Polo , a Wayland compositor for the MATE Desktop Environment : The idea is to keep MATE behaving as closely as possible to how it does on X11, rather than changing the desktop to fit a different compositor. [...] Window management, metacity, workspaces, tiling, XWayland, clipboard and clipman support, multiple monitors, display scaling, hotplugging, screenshots, screen sharing, and session management are all working. I've also added desktop effects: fade, zoom, zap, spin, squeemize, magic lamp, desktop cube, expo, and wobbly windows. Söke is looking for people to test Polo, particularly on multi-monitor setups, and report back with problems.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-12T14:32:49+00:00",
+      "coletado_em": "2026-11-12T17:36:31.882403+00:00",
+      "imagem_feed": null,
+      "score": 5.226,
+      "cobertura": []
+    },
+    {
+      "id": "732f7727c6c8",
+      "titulo": "Museu Republicano de Itu oferece programação especial no feriado de 15 de novembro",
+      "url": "https://jornal.usp.br/universidade/museu-republicano-de-itu-oferece-programacao-especial-no-feriado-de-15-de-novembro/",
+      "resumo": "Agenda traz ensaio aberto da Orquestra Ituana de Viola Caipira, mediação educativa da exposição “Missão curador por um dia: encontre o acervo do Museu”, e a apresentação musical do MaracaITU, tudo com entrada gratuita",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-12T14:31:42+00:00",
+      "coletado_em": "2026-11-12T17:36:31.897689+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261112_00_museu_republicano_de_itu.jpg",
+      "score": 5.024,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "1707bdff1905",
+      "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalos",
+      "url": "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+      "resumo": "Cofundador deixa o comando da empresa após denúncias de casos extraconjugais e investigação sobre possível espionagem. Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalos",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-12T13:29:59+00:00",
+      "coletado_em": "2026-11-12T17:36:31.901657+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-ceo-jensen-huang.jpg",
+      "score": 7.327,
+      "cobertura": [
+        "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "https://canaltech.com.br/hardware/jensen-huang-renuncia-ao-cargo-de-ceo-da-nvidia-apos-admitir-traicao/",
+        "https://canaltech.com.br/hardware/nvidia-prepara-demissao-de-jensen-huang-apos-segundo-caso-de-traicao/",
+        "https://olhardigital.com.br/2026/11/12/pro/acoes-da-nvidia-afundam-12-na-abertura-apos-saida-de-jensen-huang/"
+      ]
+    },
+    {
+      "id": "3c58f7be98b5",
+      "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após admitir traição",
+      "url": "https://canaltech.com.br/hardware/jensen-huang-renuncia-ao-cargo-de-ceo-da-nvidia-apos-admitir-traicao/",
+      "resumo": "O CEO e cofundador da Nvidia, Jensen Huang, renunciou ao cargo nesta quinta-feira (12) , após admitir publicamente uma relação extraconjugal com a ex-diretora da Megaspeed International e empresária Alice Huang. A executiva é investigada por espionagem a serviço do Ministério de Segurança do Estado da China. A atual CFO da empresa, Colette Kress, foi nomeada CEO interina enquanto o conselho busca por um novo executivo para assumir o cargo. A renúncia de Huang acontece após 33 anos na liderança da Nvidia, que tem vivido um dos seus melhores momentos por liderar o boom da inteligência artificial e fornecer componentes para data centers de IA. No ano passado, a empresa foi a primeira do mundo a ultrapassar os valores de mercado de US$ 4 trilhões e US$ 5 trilhões. A relação extraconjugal entre o ex-CEO da Nvidia e Alice Huang levantou preocupações sobre a segurança nacional dos Estados Unidos e o mercado de chips de IA . No último domingo (8), o ex-chefão da companhia de chips admitiu a traição em meio a um escândalo de espionagem chinesa . \"Fui infiel à minha esposa. Minhas ações a machucaram, assim como aos nossos filhos. Não há desculpa para o que fiz. Sinto muito\", escreveu o então",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T14:48:19+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/6RNhEMc6ggLi4jBC0Q7l6GDQ37I=/0x0/filters:format(webp):quality(85)/8331a04a-6599-49ca-85ef-11910686df12.png",
+      "score": 7.301,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+        "https://olhardigital.com.br/2026/11/12/pro/acoes-da-nvidia-afundam-12-na-abertura-apos-saida-de-jensen-huang/"
+      ]
+    },
+    {
+      "id": "ae786de931d1",
+      "titulo": "Ações da Nvidia afundam 12% na abertura após saída de Jensen Huang",
+      "url": "https://olhardigital.com.br/2026/11/12/pro/acoes-da-nvidia-afundam-12-na-abertura-apos-saida-de-jensen-huang/",
+      "resumo": "Jensen Huang deixou o comando da Nvidia após reportagens sobre sua vida pessoal. As ações caíram até 12% e a empresa perdeu US$ 830 bilhões O post Ações da Nvidia afundam 12% na abertura após saída de Jensen Huang apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-12T15:55:10+00:00",
+      "coletado_em": "2026-11-12T17:36:31.900029+00:00",
+      "imagem_feed": null,
+      "score": 7.264,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+        "https://canaltech.com.br/hardware/jensen-huang-renuncia-ao-cargo-de-ceo-da-nvidia-apos-admitir-traicao/",
+        "https://canaltech.com.br/hardware/nvidia-prepara-demissao-de-jensen-huang-apos-segundo-caso-de-traicao/"
+      ]
+    },
+    {
+      "id": "4a77778081f6",
+      "titulo": "NVIDIA prepara demissão de Jensen Huang após segundo caso de traição",
+      "url": "https://canaltech.com.br/hardware/nvidia-prepara-demissao-de-jensen-huang-apos-segundo-caso-de-traicao/",
+      "resumo": "Se você é PC gamer, viu Jensen Huang, fundador e único CEO da história da NVIDIA, subir ao palco e apresentar novas placas de vídeo por anos. Isso pode mudar daqui pra frente, já que o conselho administrativo da empresa está discutindo a demissão do executivo agora após outro caso extraconjugal vir à tona . Segundo o The Wall Street Journal, a diretoria se prepara para destituir o líder que comanda a gigante dos semicondutores há 33 anos, em uma reunião decisiva que pode selar a primeira troca de comando desde a fundação da companhia em 1993. O estopim para a mudança drástica foi uma reportagem do The New York Times revelando que Huang manteve um relacionamento com Kimberly Powell, vice-presidente da divisão de saúde da própria NVIDIA e sua subordinada direta . O caso se soma ao escândalo recente envolvendo a empresária e executiva Alice Huang , suspeita de atuar como agente da inteligência chinesa. Essa crise de governança e segurança nacional já fez as ações da fabricante despencarem 20% na bolsa de valores desde o início das revelações. Conflito de interesses e impacto na sucessão De acordo com relatos de funcionários citados pela imprensa norte-americana, Huang e Powell foram v",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T14:34:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": null,
+      "score": 6.978,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+        "https://olhardigital.com.br/2026/11/12/pro/acoes-da-nvidia-afundam-12-na-abertura-apos-saida-de-jensen-huang/"
+      ]
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "4349f29ce179",
+      "titulo": "The amazing disappearing exoplanet",
+      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+      "resumo": "An exoplanet seems to stopped transiting in front of its host star.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-12T17:18:10+00:00",
+      "coletado_em": "2026-11-12T17:36:31.928529+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
+      "score": 5.815,
+      "cobertura": []
+    },
+    {
+      "id": "c68a350b9837",
+      "titulo": "I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review",
+      "url": "https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review",
+      "resumo": "I photographed nebulas and star clusters over multiple nights with the Vaonis Vespera 3. It’s one of the most capable smart telescopes I’ve used, but it won’t be for everyone.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-12T15:00:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.884580+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/cc6xzdF56vfGcBXL63bxK-1920-80.jpg",
+      "score": 5.62,
+      "cobertura": []
+    },
+    {
+      "id": "5778f2f3568a",
+      "titulo": "A suspected black hole turns out to be a rapidly spinning star",
+      "url": "https://phys.org/news/2026-11-black-hole-rapidly-star.html",
+      "resumo": "Sometimes massive stars can mimic the behavior of a black hole and trick astronomers into misinterpreting their nature. Such is the case with a strange pair of stars in the Large Magellanic Cloud (LMC) cluster NGC 1850. The system was initially thought to contain a star about five times the mass of the sun orbiting a stellar-mass black hole. Now, a new study led by Rhys Seeburger of Liverpool John Moores University demonstrates that this is a black hole \"impostor\" system. The research paper was posted to the arXiv preprint server on Oct. 27.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-12T17:30:01+00:00",
+      "coletado_em": "2026-11-12T17:36:31.884053+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-suspected-black-hole.jpg",
+      "score": 5.537,
+      "cobertura": []
+    },
+    {
+      "id": "05d41116291f",
+      "titulo": "Vast data dump from Euclid space telescope reveals stunning galaxies",
+      "url": "https://www.newscientist.com/article/2598614-vast-data-dump-from-euclid-space-telescope-reveals-stunning-galaxies/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "In the latest release of images collected by the Euclid space telescope, there are close-ups of distant galaxies where stars are in the process of forming",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-12T14:00:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.926895+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320389760.jpg",
+      "score": 5.474,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "d8966ae93eaf",
+      "titulo": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
+      "url": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
+      "resumo": "Insider Brief PRESS RELEASE — PsiQuantum and AMD (NASDAQ: AMD) today announced an expanded strategic partnership to co-design the computing infrastructure required to operate utility-scale, fault-tolerant quantum computers and the hybrid applications that combine quantum, high-performance, and AI computing. The collaboration builds on the companies’ existing work around AMD Versal™ FPGA technology—selected by PsiQuantum for […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-12T15:54:57+00:00",
+      "coletado_em": "2026-11-12T17:36:31.884985+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-12_20-54.png",
+      "score": 5.514,
+      "cobertura": []
+    },
+    {
+      "id": "5b4cb9f2454f",
+      "titulo": "Qunova’s Hybrid Computing Method Matches Classical Benchmark for Iron-Sulfur Cluster",
+      "url": "https://thequantuminsider.com/2026/11/12/qunovas-hybrid-computing-method-matches-classical-benchmark-for-iron-sulfur-cluster/",
+      "resumo": "Insider Brief PRESS RELEASE — Qunova Computing, a world leader in quantum computations for advanced chemistry, today announces that its HI-VQE algorithm has become the first quantum algorithm to reach chemical accuracy (a level of precision required for practical use) at 80 qubits. It did so while simulating the 4Fe-4S iron-sulfur cubane cluster in a […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-12T10:02:05+00:00",
+      "coletado_em": "2026-11-12T17:36:31.884985+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-4.50.19-AM.png",
+      "score": 5.491,
+      "cobertura": []
+    },
+    {
+      "id": "86922180a448",
+      "titulo": "Haiqu Appoints Kortny Rolston-Duce to Lead Ecosystem Development and Marketing",
+      "url": "https://thequantuminsider.com/2026/11/12/haiqu-appoints-kortny-rolston-duce-ecosystem-development-marketing/",
+      "resumo": "Insider Brief PRESS RELEASE — Quantum AI software developer Haiqu today announced the appointment of Kortny Rolston-Duce as head of ecosystem development and marketing. In her new role, she will build the Haiqu brand and work to put its software in the hands of researchers in academia, government labs and companies interested in using quantum […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-12T16:19:28+00:00",
+      "coletado_em": "2026-11-12T17:36:31.884985+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-12_21-18.png",
+      "score": 5.057,
+      "cobertura": []
+    },
+    {
+      "id": "dfb55d68f863",
+      "titulo": "Qedma Appoints Scott Aaronson to Its Scientific Advisory Board",
+      "url": "https://thequantuminsider.com/2026/11/12/qedma-appoints-scott-aaronson-scientific-advisory-board/",
+      "resumo": "Insider Brief PRESS RELEASE — Qedma, a quantum computing software company specializing in quantum error suppression and mitigation, today announced that Professor Scott Aaronson, one of the world’s leading researchers in quantum computing and computational complexity theory, has joined its Scientific Advisory Board. Aaronson is the Schlumberger Centennial Chair of Computer Science at The University […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-12T16:04:33+00:00",
+      "coletado_em": "2026-11-12T17:36:31.884985+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-12_21-03.png",
+      "score": 5.031,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "15c28179b2dc",
+      "titulo": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "resumo": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-12T15:01:31+00:00",
+      "coletado_em": "2026-11-12T17:36:31.893892+00:00",
+      "imagem_feed": null,
+      "score": 6.973,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+        "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+        "https://www.pcworld.com/article/3283741/nvidia-ceo-jensen-huang-resigns-in-the-wake-of-multiple-controversies.html"
+      ]
+    },
+    {
+      "id": "3666cb96e0a1",
+      "titulo": "Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo",
+      "resumo": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-12T13:58:41+00:00",
+      "coletado_em": "2026-11-12T17:36:31.882973+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/t75kmqCZia9XGcHiAKqZ5T-1920-80.jpg",
+      "score": 6.322,
+      "cobertura": [
+        "https://www.techspot.com/news/114533-jensen-huang-resigns-nvidia-ceo-following-allegations-two.html",
+        "https://www.pcworld.com/article/3283741/nvidia-ceo-jensen-huang-resigns-in-the-wake-of-multiple-controversies.html"
+      ]
+    },
+    {
+      "id": "889ee0eb1816",
+      "titulo": "Jensen Huang resigns as Nvidia CEO following reports of two extramarital affairs",
+      "url": "https://www.techspot.com/news/114533-jensen-huang-resigns-nvidia-ceo-following-allegations-two.html",
+      "resumo": "\"Nvidia Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately,\" the company said in a statement. \"Colette Kress, current Executive Vice President and Chief Financial Officer of Nvidia, has agreed to serve as Interim Chief Executive... Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-12T14:09:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.892808+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-12-ts3_thumbs-cb6.jpg",
+      "score": 6.038,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo",
+        "https://www.pcworld.com/article/3283741/nvidia-ceo-jensen-huang-resigns-in-the-wake-of-multiple-controversies.html"
+      ]
+    },
+    {
+      "id": "4a77778081f6",
+      "titulo": "NVIDIA prepara demissão de Jensen Huang após segundo caso de traição",
+      "url": "https://canaltech.com.br/hardware/nvidia-prepara-demissao-de-jensen-huang-apos-segundo-caso-de-traicao/",
+      "resumo": "Se você é PC gamer, viu Jensen Huang, fundador e único CEO da história da NVIDIA, subir ao palco e apresentar novas placas de vídeo por anos. Isso pode mudar daqui pra frente, já que o conselho administrativo da empresa está discutindo a demissão do executivo agora após outro caso extraconjugal vir à tona . Segundo o The Wall Street Journal, a diretoria se prepara para destituir o líder que comanda a gigante dos semicondutores há 33 anos, em uma reunião decisiva que pode selar a primeira troca de comando desde a fundação da companhia em 1993. O estopim para a mudança drástica foi uma reportagem do The New York Times revelando que Huang manteve um relacionamento com Kimberly Powell, vice-presidente da divisão de saúde da própria NVIDIA e sua subordinada direta . O caso se soma ao escândalo recente envolvendo a empresária e executiva Alice Huang , suspeita de atuar como agente da inteligência chinesa. Essa crise de governança e segurança nacional já fez as ações da fabricante despencarem 20% na bolsa de valores desde o início das revelações. Conflito de interesses e impacto na sucessão De acordo com relatos de funcionários citados pela imprensa norte-americana, Huang e Powell foram v",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T14:34:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": null,
+      "score": 5.978,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+        "https://olhardigital.com.br/2026/11/12/pro/acoes-da-nvidia-afundam-12-na-abertura-apos-saida-de-jensen-huang/"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "3c58f7be98b5",
+      "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após admitir traição",
+      "url": "https://canaltech.com.br/hardware/jensen-huang-renuncia-ao-cargo-de-ceo-da-nvidia-apos-admitir-traicao/",
+      "resumo": "O CEO e cofundador da Nvidia, Jensen Huang, renunciou ao cargo nesta quinta-feira (12) , após admitir publicamente uma relação extraconjugal com a ex-diretora da Megaspeed International e empresária Alice Huang. A executiva é investigada por espionagem a serviço do Ministério de Segurança do Estado da China. A atual CFO da empresa, Colette Kress, foi nomeada CEO interina enquanto o conselho busca por um novo executivo para assumir o cargo. A renúncia de Huang acontece após 33 anos na liderança da Nvidia, que tem vivido um dos seus melhores momentos por liderar o boom da inteligência artificial e fornecer componentes para data centers de IA. No ano passado, a empresa foi a primeira do mundo a ultrapassar os valores de mercado de US$ 4 trilhões e US$ 5 trilhões. A relação extraconjugal entre o ex-CEO da Nvidia e Alice Huang levantou preocupações sobre a segurança nacional dos Estados Unidos e o mercado de chips de IA . No último domingo (8), o ex-chefão da companhia de chips admitiu a traição em meio a um escândalo de espionagem chinesa . \"Fui infiel à minha esposa. Minhas ações a machucaram, assim como aos nossos filhos. Não há desculpa para o que fiz. Sinto muito\", escreveu o então",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T14:48:19+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/6RNhEMc6ggLi4jBC0Q7l6GDQ37I=/0x0/filters:format(webp):quality(85)/8331a04a-6599-49ca-85ef-11910686df12.png",
+      "score": 6.801,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+        "https://olhardigital.com.br/2026/11/12/pro/acoes-da-nvidia-afundam-12-na-abertura-apos-saida-de-jensen-huang/"
+      ]
+    },
+    {
+      "id": "4a77778081f6",
+      "titulo": "NVIDIA prepara demissão de Jensen Huang após segundo caso de traição",
+      "url": "https://canaltech.com.br/hardware/nvidia-prepara-demissao-de-jensen-huang-apos-segundo-caso-de-traicao/",
+      "resumo": "Se você é PC gamer, viu Jensen Huang, fundador e único CEO da história da NVIDIA, subir ao palco e apresentar novas placas de vídeo por anos. Isso pode mudar daqui pra frente, já que o conselho administrativo da empresa está discutindo a demissão do executivo agora após outro caso extraconjugal vir à tona . Segundo o The Wall Street Journal, a diretoria se prepara para destituir o líder que comanda a gigante dos semicondutores há 33 anos, em uma reunião decisiva que pode selar a primeira troca de comando desde a fundação da companhia em 1993. O estopim para a mudança drástica foi uma reportagem do The New York Times revelando que Huang manteve um relacionamento com Kimberly Powell, vice-presidente da divisão de saúde da própria NVIDIA e sua subordinada direta . O caso se soma ao escândalo recente envolvendo a empresária e executiva Alice Huang , suspeita de atuar como agente da inteligência chinesa. Essa crise de governança e segurança nacional já fez as ações da fabricante despencarem 20% na bolsa de valores desde o início das revelações. Conflito de interesses e impacto na sucessão De acordo com relatos de funcionários citados pela imprensa norte-americana, Huang e Powell foram v",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T14:34:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": null,
+      "score": 5.978,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+        "https://olhardigital.com.br/2026/11/12/pro/acoes-da-nvidia-afundam-12-na-abertura-apos-saida-de-jensen-huang/"
+      ]
+    },
+    {
+      "id": "a865d7bae4f0",
+      "titulo": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "resumo": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T05:00:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.894161+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Climate-Emulation-01.jpg?itok=QnECRQGT",
+      "score": 5.265,
+      "cobertura": []
+    },
+    {
+      "id": "004343a1cbb0",
+      "titulo": "How Nvidia became so crucial to the AI boom",
+      "url": "https://www.newscientist.com/article/2598755-how-nvidia-became-so-crucial-to-the-ai-boom/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "An espionage scandal has hit the biggest company in the world, and the fallout has the potential to destabilise economies that rely on its AI chips. Columnist Jacob Aron explains how Nvidia became the lynchpin to the AI industry",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-12T15:49:12+00:00",
+      "coletado_em": "2026-11-12T17:36:31.926895+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320388900.jpg",
+      "score": 5.154,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "af3feaabc987",
+      "titulo": "Concrete made with industrial waste can cut emissions up to 80%, yet uptake lags",
+      "url": "https://techxplore.com/news/2026-11-concrete-industrial-emissions-uptake-lags.html",
+      "resumo": "Concrete is the most widely used human-made material on Earth. Billions of tonnes are produced every year.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-12T12:20:14+00:00",
+      "coletado_em": "2026-11-12T17:36:31.896249+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/pouring-concrete.jpg",
+      "score": 4.525,
+      "cobertura": []
+    },
+    {
+      "id": "d0e34173505d",
+      "titulo": "Rival elétrico da BYD chega ao Brasil; veja quanto custa o BAIC Arcfox T5",
+      "url": "https://canaltech.com.br/carros/rival-eletrico-da-byd-chega-ao-brasil-veja-quanto-custa-o-baic-arcfox-t5/",
+      "resumo": "O Arcfox T5 chegou ao mercado brasileiro . O SUV elétrico da chinesa BAIC está disponível por R$ 219.990 — quem quiser se adiantar pode já adquirir o seu no modelo de pré-venda, válido para as primeiras 50 unidades do carro. Nesse caso, há a possibilidade de bônus adicional de até R$ 8 mil . Estreando ao lado do hatch T1 sob a submarca Arcfox, o utilitário aposta no porte generoso para disputar o segmento médio. Com 4,76 metros de comprimento e 2,84 metros de entre-eixos , as especificações deixam o modelo à frente do BYD Song Plus e bem próximo do Jeep Commander . Já o porta-malas entrega 400 L , e os faróis em LED são divididos na frente; as lanternas, por sua vez, formam uma faixa horizontal na parte de trás do carro. As maçanetas são do tipo embutido , também encontrado em carros de marcas como Volkswagen e Mercedes-Benz. Como é o Arcfox T5 Sob o capô, o Arcfox T5 conta com um motor elétrico de 252 cv de potência e 32,6 kgfm de torque , capaz de acelerar de 0 a 100 km/h em 8,8 segundos . A velocidade máxima é limitada a 180 km/h, e a bateria LFP de 64,8 kWh garante autonomia de 362 km pelo ciclo Inmetro . Aliás, o componente aceita carregamento rápido em corrente contínua de at",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-12T14:03:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/UpQWuNLRakZWjtCEA3U-Pe71bfs=/0x0/filters:format(webp):quality(85)/7ac28ed5-8f32-4339-ac9d-44e1d3425526.png",
+      "score": 4.228,
+      "cobertura": []
+    },
+    {
+      "id": "4ef111deda0e",
+      "titulo": "Radio waves pave the way for better wireless EV charging",
+      "url": "https://techxplore.com/news/2026-11-radio-pave-wireless-ev.html",
+      "resumo": "Imagine parking your electric vehicle (EV) and charging it without plugging in a cable. Wireless charging makes this possible, but efficient charging requires precise alignment between the vehicle's receiver coil and the charging pad. Researchers at the University of Osaka, working with Tokai Rika Co., Ltd. and the University of California San Diego, have developed a technology that could help vehicles do just that.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-12T14:20:20+00:00",
+      "coletado_em": "2026-11-12T17:36:31.896249+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/radio-waves-pave-the-w.jpg",
+      "score": 4.206,
+      "cobertura": []
+    },
+    {
+      "id": "795de23bf8aa",
+      "titulo": "Caloi Mobylette elétrica ganha nova geração no Brasil; veja o preço",
+      "url": "https://canaltech.com.br/carros/caloi-mobylette-eletrica-ganha-nova-geracao-no-brasil-veja-o-preco/",
+      "resumo": "A Caloi Mobylette , um dos maiores sucessos da história da marca, está com uma nova geração 100% elétrica no Brasil. Apresentada no início da semana, a releitura do clássico que conquistou geração chega \"no precinho\" para impulsionar os fãs da mobilidade verde no país: R$ 4.990 . A nova geração da Mobylette elétrica combina motor de 500W e bateria de 500Wh , conjunto que permite rodar até 60 km com uma carga , segundo a fabricante. Há ainda três níveis de assistência , que podem ser ajustados conforme o percurso e a necessidade de quem está pedalando. A proposta é atender principalmente moradores de grandes e médias cidades que desejam escapar dos congestionamentos e reduzir gastos com combustível, estacionamento e aplicativos de transporte. O que a nova Mobylette elétrica oferece? Entre os recursos voltados ao uso diário estão os pneus largos de medida 20x4.0 , que favorecem a estabilidade, e os freios a disco com rotores de 180 mm, desenvolvidos para proporcionar frenagens mais precisas. O conjunto também inclui farol dianteiro e lanterna traseira , itens que ajudam a melhorar a visibilidade em diferentes condições de iluminação. De acordo com Marcos Ribeiro, diretor de Produto, ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-12T09:58:00+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/R77XbJlLGHnXQUGwI9ZomvMwYzk=/0x0/filters:format(webp):quality(85)/7aa8a899-5ba1-44a5-9b93-248a9454aa87.jpeg",
+      "score": 3.886,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "8cdc4a0f74c8",
+      "titulo": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "resumo": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-11T18:06:01+00:00",
+      "coletado_em": "2026-11-12T17:36:31.896550+00:00",
+      "imagem_feed": null,
+      "score": 3.564,
+      "cobertura": []
+    },
+    {
+      "id": "8f9d1623917a",
+      "titulo": "Galaxy S27 Ultra vai copiar a cor do iPhone 18 Pro? Veja novo vazamento",
+      "url": "https://canaltech.com.br/smartphone/galaxy-s27-ultra-vai-copiar-a-cor-do-iphone-18-pro-veja-novo-vazamento/",
+      "resumo": "A Samsung pode estar preparando uma mudança na paleta de cores dos seus próximos celulares premium. Um novo vazamento revelou cinco tonalidades que podem aparecer na linha Galaxy S27 , incluindo um tom de bordô que chama a atenção pela semelhança com a cor vinho do iPhone 18 Pro. As informações foram divulgadas pelo site SammyGuru , que afirma ter tido acesso aos papéis de parede oficiais da próxima geração de smartphones da Samsung. O material apresenta um mesmo desenho em cinco versões de cores diferentes, o que pode indicar as opções preparadas pela fabricante para os aparelhos. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas De acordo com a publicação, os tons identificados são azul-marinho, branco, azul-claro, rosa e bordô . A última opção é uma das novidades mais interessantes, já que não havia aparecido em vazamentos anteriores sobre a família Galaxy S27. O tom de bordô descrito pelo vazamento é um vermelho escuro com nuances de vinho e ameixa. A publicação considera que essa cor, junto do azul-marinho, pode ser destinada principalmente aos modelos mais avançados, como o Galaxy S27 Pro e o Galaxy S27 Ultra . Já as opções mais claras, como rosa, branco e azul-c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-12T12:27:31+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/yZbtOPUq7w6dKQyqhxE7I5KppNk=/0x0/filters:format(webp):quality(85)/15121ddb-d387-409b-8a71-a4cad2f7a5b5.webp",
+      "score": 1.085,
+      "cobertura": []
+    },
+    {
+      "id": "0009be9191a1",
+      "titulo": "Xiaomi anuncia lançamento global de relógio, smartband, fones e produtos para casa",
+      "url": "https://canaltech.com.br/produtos/xiaomi-anuncia-lancamento-global-de-relogio-smartband-fones-e-produtos-para-casa/",
+      "resumo": "A Xiaomi prepara um lançamento global de vários produtos para o dia 17 de novembro. A apresentação vai incluir o relógio Xiaomi Watch S5 de 41 mm, a pulseira Smart Band 11 , os fones Xiaomi Clip e uma nova linha de eletrodomésticos inteligentes da Mijia . As novidades serão apresentadas no mesmo evento que marcará a estreia internacional da linha Xiaomi 18 Pro . O anúncio foi feito pela própria Xiaomi na rede social X, onde a empresa destacou que a apresentação não ficará restrita aos celulares. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Entre os acessórios anunciados, o Xiaomi Watch S5 de 41 mm e a Smart Band 11 chamam atenção. Os dois produtos já foram lançados na China e agora devem chegar a outros mercados. O Xiaomi Clip também está na lista. O acessório é um novo modelo de fone de ouvido da fabricante, que já apareceu em páginas de lojas internacionais antes do anúncio oficial de disponibilidade. Até o momento, a Xiaomi não confirmou os preços globais dos três produtos. Vazamentos anteriores indicaram que o Watch S5 de 41 mm poderia custar a partir de 240 euros, cerca de R$ 1.418 em conversão direta. Já o Xiaomi Clip apareceu em uma página de varejo interna",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-12T10:25:19+00:00",
+      "coletado_em": "2026-11-12T17:36:31.906189+00:00",
+      "imagem_feed": null,
+      "score": 0.621,
+      "cobertura": []
+    }
+  ]
+}
