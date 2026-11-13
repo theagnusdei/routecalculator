@@ -1,0 +1,49 @@
+# Why exercise has become a key part of cancer treatment
+
+- Editoria: Medicina (`medicina`)
+- Fonte: Medical Xpress — https://medicalxpress.com/news/2026-11-key-cancer-treatment.html
+- Autor: Rachel Tompa
+- Publicado: 2026-11-13T14:40:01+00:00
+- Score: 6.275
+- Imagem: imagens/medicina-why-exercise-has-become-a-key-part-of-ca.jpg | crédito: Medical Xpress | licença: © do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)
+
+## Outras coberturas
+- nenhuma
+
+## Texto extraído
+
+Why exercise has become a key part of cancer treatment
+Scientists have long known that regular exercise decreases the risk of developing many types of cancer. But last year, results from a large, randomized clinical trial of patients with colon cancer definitively showed what many observational studies and animal research had been hinting at for decades: People who exercise following cancer treatment have a better chance of surviving the disease and a lower likelihood of recurrence.
+Known as the CHALLENGE trial and led by scientists at the University of Alberta and Queen's University in Canada, it showed the benefit of exercise in patients with colon cancer, but observational studies have seen similar boosts to survival in other types of cancer, including breast cancer and prostate cancer.
+It's also been clear for a while that exercise can help mitigate many symptoms of cancer or cancer treatment's burdensome side effects as well as improve patients' and survivors' quality of life. But results like those from the CHALLENGE trial have moved physical activity from an add-on into the spotlight together with more traditional cancer treatments, said Allison Betof, M.D., Ph.D., an associate professor of medicine (oncology) whose Ph.D. research focused on exercise oncology.
+"We've now seen this move from exercise as a quality-of-life recommendation to truly incorporating it into ongoing cancer care with a goal of improving survival," Betof said. More randomized clinical trial results will be needed for other types of cancer besides colon cancer, she said, "but for an intervention that we already know is safe and improves quality of life, it makes sense to get this into the hands of patients as soon as possible."
+Betof and other exercise experts at Stanford Medicine offer their insight on what patients and survivors should know about the cancer-specific benefits of working out, how to safely incorporate physical activity into their treatment plans and why they might want to find a cancer rehabilitation expert to support their exercise journey.
+1. Exercise is safe for those with cancer—even those in active treatment
+Just a few decades ago, it was common advice for cancer patients to rest as much as possible while in treatment. Many cancer therapies are hard on the body, and doctors and other care providers advised patients to take it easy.
+"Previously, there was this idea that rest is really needed until treatment is over," said Alyssa Mixon, D.O., a Stanford Medicine physical medicine and rehabilitation physician who specializes in working with cancer patients. "Now, we emphasize that movement is medicine."
+That doesn't mean all cancer patients should sign up for their first marathon while completing chemotherapy courses or ignore activity restrictions after surgery, Mixon said. The treatments can be taxing, and patients should listen to their bodies and their doctors. But there's now a good body of evidence that exercise is safe—and beneficial—even during active treatment.
+2. Physical activity can supercharge cancer therapies
+About those benefits: Animal studies and observational studies in humans suggest that regular physical activity helps boost cancer survival by enhancing the effects of cancer treatments.
+In 2015, Betof led a study in a mouse model of breast cancer showing that mice that exercised regularly grew more blood vessels around their tumors and had more oxygen in the tumors, both of which are associated with better prognoses. Animals that exercised had reduced tumor growth, and when the scientists gave them chemotherapy, those that worked out responded better to the drugs.
+Other researchers have noted similar treatment-enhancing effects for other types of cancer and other forms of cancer treatment, including surgery, radiation and immunotherapy, a class of cancer therapy that uses the body's own immune system to fight the cancer.
+Researchers have also seen that in patients who exercise, certain cancer-fighting immune cells are more active in the bloodstream and around tumors, Betof said, which could explain why working out helps patients fare better.
+3. Working out may help alleviate common cancer symptoms as well as treatment side effects
+Fatigue is one of the most common symptoms of cancer and a frequent side effect of its associated treatments. It may sound counterintuitive, but research has shown that moving is the best defense.
+"While this may not make sense to someone tired from cancer therapy, appropriate exercise has been shown to decrease fatigue," said Anjali Sibley, M.D., a clinical associate professor of medicine (oncology). "Exercise is one of the most effective ways to treat cancer-related fatigue."
+A 2017 meta-analysis (a study assessing the findings from many other previous studies) found that regular exercise bested all other methods for combating cancer-associated fatigue, including medications and supplements. Cognitive behavioral therapy and mindfulness exercises are also effective in combating fatigue, studies have shown.
+Research also indicates that regular exercise helps cancer patients with other symptoms of their disease or treatment, including boosting their moods, reducing joint pain (a common side effect of aromatase inhibitors, a hormone therapy treatment for breast cancer) and improving overall quality of life, Sibley said.
+4. Exercise recommendations for cancer patients and survivors mirror those for the general public—but something is better than nothing
+Like those for the general public, guidelines from the American Cancer Society for cancer patients and survivors recommend exercising at moderate intensity for at least 150 minutes a week or intensely for at least 75 minutes a week and adding strength or resistance training at least twice a week. But if those numbers sound intimidating, start where you are able.
+"People often think, 'If I'm not going to the gym for 50 minutes, it's not worth going.' And that's not true for patients with cancer," Betof said. "We have shown that minutes per week of exercise is the thing that matters, more so than intensity. A walk is much better than saying, 'I don't feel up to going to the gym so I'm not going to do anything.'"
+With the fatigue and stress of the disease and its associated treatments, there may be days or weeks when an intense workout feels out of reach. Those fluctuations should be built into a patient's exercise plan together with their care providers, Sibley said.
+"Patients will be able to do different levels of exercise depending on the day or week and depending on where they are in their treatment course," she said. "Some days will allow more vigorous movement while others will encourage lighter movement or temporary pauses."
+5. Consider seeking out an expert in cancer and movement
+Unlike the general public, however, those with a cancer diagnosis—especially those in active treatment—may want to avoid their neighborhood gym.
+Many cancer patients have lowered immunity, so a crowded, indoor space may be risky. Some also have disease-specific needs that the average personal trainer or gym class teacher might not have knowledge of: postsurgery activity restrictions, sensitive skin from radiation treatment or bone or muscle weakness from tumors in those areas, for example.
+This is where an expert in cancer rehabilitation can be key, Mixon said. She recently joined Stanford Medicine from the University of Virginia to launch Stanford Health Care's first cancer rehab program.
+Along with specialized physical therapists, speech therapists and occupational therapists, rehabilitation physicians like Mixon support cancer patients' physical well-being through a comprehensive therapy plan using a variety of modalities: coordination and supervision of lymphedema therapists for compression wrapping for lymphedema, the accumulation of excess lymph fluid that can be a side effect of certain cancer surgeries; speech therapy for patients whose mouth, throat or vocal cords are affected by their cancers; and physical or occupational therapy to recover after cancer surgeries.
+Those with expertise in cancer and exercise can design workout plans for patients that take their specific limitations into account but still give them the benefits of regular exercise, Mixon said.
+Unfortunately, not every cancer clinic has a specialized rehab program. Groups like Mixon's are more common within larger, academic health care systems. For those without in-person access, however, several organizations offer online programs and advice.
+Some of Stanford Health Care's free cancer wellness classes are available virtually, and the cancer-support nonprofit Livestrong runs exercise programs for cancer patients and survivors through YMCAs around the U.S. and online.
+And even where specialized programs exist, not all patients and oncologists are aware of them, Mixon said. She hopes that as more data proving the benefits of exercise like those from the CHALLENGE trial come out, awareness will grow.
+"It's never too early or too late to refer a patient to cancer rehab, once they have been diagnosed," Mixon said. "Many patients understand the importance of exercise but might be afraid or concerned about what they should be doing, and that's where having that education from a cancer rehab doctor comes into play."

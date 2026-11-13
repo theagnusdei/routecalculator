@@ -1,0 +1,755 @@
+{
+  "medicina": [
+    {
+      "id": "de3a58f79cce",
+      "titulo": "Why exercise has become a key part of cancer treatment",
+      "url": "https://medicalxpress.com/news/2026-11-key-cancer-treatment.html",
+      "resumo": "Scientists have long known that regular exercise decreases the risk of developing many types of cancer. But last year, results from a large, randomized clinical trial of patients with colon cancer definitively showed what many observational studies and animal research had been hinting at for decades: People who exercise following cancer treatment have a better chance of surviving the disease and a lower likelihood of recurrence.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-13T14:40:01+00:00",
+      "coletado_em": "2026-11-13T17:13:45.305851+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/treadmill-1.jpg",
+      "score": 6.275,
+      "cobertura": []
+    },
+    {
+      "id": "f0e2cf19894e",
+      "titulo": "Intensified liver-directed radionuclide therapy shows promise for patients with metastatic neuroendocrine tumors",
+      "url": "https://medicalxpress.com/news/2026-11-liver-radionuclide-therapy-patients-metastatic.html",
+      "resumo": "Combining intraarterial and intravenous administration of peptide receptor radionuclide therapy (PRRT) can selectively intensify treatment for liver-dominant metastatic neuroendocrine tumors (NETs) while still effectively delivering treatment throughout the whole body. This hybrid approach safely delivered over three times more radiation directly to liver metastases, resulting in encouraging tumor responses among patients. This research was published online in the Journal of Nuclear Medicine.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-13T16:40:07+00:00",
+      "coletado_em": "2026-11-13T17:13:45.305851+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/hybrid-radionuclide-th.jpg",
+      "score": 5.986,
+      "cobertura": []
+    },
+    {
+      "id": "cc29162f7941",
+      "titulo": "The future of heart drug research in the wake of study setbacks",
+      "url": "https://www.statnews.com/2026/11/13/cardiovascular-disease-heart-drug-failures-readout-loud-podcast/?utm_campaign=rss",
+      "resumo": "What does the failure of two closely watched heart disease medicines mean for the future of drug research in the field? Find out on this week's episode of \"The Readout…",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-13T13:34:45+00:00",
+      "coletado_em": "2026-11-13T17:13:45.306809+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
+      "score": 5.97,
+      "cobertura": []
+    },
+    {
+      "id": "4fecf0564267",
+      "titulo": "Women's health research highlights the role of molecular testing in precision medicine",
+      "url": "https://medicalxpress.com/news/2026-11-women-health-highlights-role-molecular.html",
+      "resumo": "Molecular diagnostic approaches are expanding what information is available for clinicians and laboratory professionals, including uncovering antimicrobial resistance, identifying pathogens missed by conventional methods, revealing cancer recurrence risks and characterizing complex tumor biology.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-13T14:20:09+00:00",
+      "coletado_em": "2026-11-13T17:13:45.305851+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/womens-health-1.jpg",
+      "score": 5.742,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "ffe19d74371d",
+      "titulo": "Can you pass our science quiz set by Nobel laureates?",
+      "url": "https://www.newscientist.com/article/2594152-think-you-know-science-try-our-quiz-set-by-nobel-laureates/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Test your knowledge of Nobel-prizewinning discoveries in microbiology, genomics and cosmology with questions set by the laureates themselves: Barry Marshall, Jennifer Doudna and Saul Perlmutter",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-13T13:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.363472+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317848336.jpg",
+      "score": 4.917,
+      "cobertura": []
+    },
+    {
+      "id": "f7b7eb13e566",
+      "titulo": "Fish prove every pregnancy is a battle: Unexpected evidence for the food fight between mothers and babies",
+      "url": "https://phys.org/news/2026-11-fish-pregnancy-unexpected-evidence-food.html",
+      "resumo": "Left to their own devices, babies in the womb would suck their mothers dry. A developing baby benefits from taking as many essential nutrients as possible, but evolutionary theory predicts that to survive pregnancy, mothers need to keep some of these nutrients for themselves.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-13T15:40:05+00:00",
+      "coletado_em": "2026-11-13T17:13:45.307704+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-prove-every-pregn.jpg",
+      "score": 4.878,
+      "cobertura": []
+    },
+    {
+      "id": "f1b4e916be86",
+      "titulo": "New dinosaur species that lived more than 100 million years ago identified in the United Kingdom",
+      "url": "https://jornal.usp.br/uspnews/new-dinosaur-species-that-lived-more-than-100-million-years-ago-identified-in-the-united-kingdom/",
+      "resumo": "Described by a USP researcher, Paludohadros proudlovii lived during the Early Cretaceous, weighed approximately 1.5 metric tons, and is part of the collection of a London museum",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-13T12:06:23+00:00",
+      "coletado_em": "2026-11-13T17:13:45.328871+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/10/20261027_Paludohdros-1024x538.jpg",
+      "score": 4.838,
+      "cobertura": []
+    },
+    {
+      "id": "3a261bd994d2",
+      "titulo": "Microscopic solar panels could help shape 3D-printed biological tissue",
+      "url": "https://phys.org/news/2026-11-microscopic-solar-panels-3d-biological.html",
+      "resumo": "Bioprinting uses living cells and molecular signals to produce biological tissues and even whole organs, building them layer by layer in the lab. To keep the bioink, or blend of cells and materials that power this printing, correctly aligned to grow a target tissue, researchers use electricity. However, this typically requires bulky electronic interfaces and invasive wiring.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-13T14:20:04+00:00",
+      "coletado_em": "2026-11-13T17:13:45.307704+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-solar-pane.jpg",
+      "score": 4.742,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "c89adaf93ed1",
+      "titulo": "Parece ficção científica, mas aconteceu: robô da DARPA constrói antena sozinho no espaço",
+      "url": "https://canaltech.com.br/ciencia-e-espaco/parece-ficcao-cientifica-mas-aconteceu-robo-da-darpa-constroi-antena-sozinho-no-espaco/",
+      "resumo": "E se um robô pudesse construir sozinho uma estrutura no espaço, sem precisar da ajuda de astronautas? A ideia pode parecer digna de um filme de ficção científica, mas já aconteceu: no início do mês, a agência Defense Advanced Research Projects Agency (DARPA) construiu uma estrutura no espaço com um robô . Para a missão Autonomous In-Space Tensioned Reflector Assembly (ASTRA) , a agência usou um “construtor” composto por um manipulador autônomo, que coleta hastes e juntas armazenadas por perto. Depois, o equipamento monta seções idênticas para criar uma treliça perimetral. O resultado foi uma antena refletora de 1,4 m feita de filme Kapton, tubos de fibra composta e juntas de alumínio. Claro que a ASTRA foi uma demonstração, ou seja, foi conduzida para os pesquisadores verificarem onde o processo precisava de ajustes e identificar obstáculos antes de tentar algo mais ousado. Deu certo: a equipe já se deparou com limitações de tempo , que não permitiram que eles construíssem seções adicionais da antena. Mesmo assim, os resultados permitiram concluir esta que foi a terceira fase de um projeto da DARPA . Construção no espaço Futuramente, o objetivo da DARPA é ir além com seu programa N",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-13T17:11:33+00:00",
+      "coletado_em": "2026-11-13T17:13:45.338416+00:00",
+      "imagem_feed": null,
+      "score": 5.296,
+      "cobertura": []
+    },
+    {
+      "id": "471fb334b4f9",
+      "titulo": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
+      "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
+      "resumo": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store. The post Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-13T16:32:58+00:00",
+      "coletado_em": "2026-11-13T17:13:45.309845+00:00",
+      "imagem_feed": null,
+      "score": 4.823,
+      "cobertura": []
+    },
+    {
+      "id": "3a31ccef0c0d",
+      "titulo": "How Rhoda AI is using video data to create generalized AI models for robots",
+      "url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
+      "resumo": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-13T13:30:44+00:00",
+      "coletado_em": "2026-11-13T17:13:45.309845+00:00",
+      "imagem_feed": null,
+      "score": 4.514,
+      "cobertura": []
+    },
+    {
+      "id": "4165c4803c3d",
+      "titulo": "A robot has assembled a structure in space for the first time",
+      "url": "https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Autonomous in-orbit manufacturing will be key to any future space economy, and researchers have taken the first step with a robot building a radio antenna without astronaut assistance",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-12T19:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.363472+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320392890.jpg",
+      "score": 4.404,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "82573e209911",
+      "titulo": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri",
+      "url": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Apple released the Siri AI Developer Preview in the 27.3 beta releases of its operating systems, enabling developers and apps to integrate with the assistant and hand off actions to it. During the Preview, access to Siri AI is restricted to developer builds and internal TestFlight testers. By Sergio De Simone",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-13T16:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.310419+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/apple-siri-ai-integration/en/headerimage/ios-27-virtualization-1794583601204.jpeg",
+      "score": 5.563,
+      "cobertura": []
+    },
+    {
+      "id": "a7ce3ea4f28b",
+      "titulo": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
+      "url": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Google has open-sourced AQuA, a reference implementation that analyzes production AI agent sessions, verifies recurring failure patterns, and investigates root causes against deployed source snapshots. In a 32-session replay, developers reduced seat selection bypasses from 15 sessions to two and dietary preference omissions from seven to zero after prompt changes. By Leela Kumili",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-13T13:53:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.310419+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/google-ambient-agent-prod/en/headerimage/generatedHeaderImage-1792894383462.jpg",
+      "score": 5.349,
+      "cobertura": []
+    },
+    {
+      "id": "fcdcf30ed87c",
+      "titulo": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "resumo": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-13T16:26:32+00:00",
+      "coletado_em": "2026-11-13T17:13:45.310799+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+      "score": 5.261,
+      "cobertura": []
+    },
+    {
+      "id": "fe9602d05f02",
+      "titulo": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1107472/",
+      "resumo": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 8.0, .NET 9.0, firefox, gcc, grafana, grafana-pcp, gstreamer1, gstreamer1-plugins-base, java-1.8.0-openjdk, kernel, kernel-rt, libimobiledevice, mingw-libpng, nginx:1.24, nodejs:22, nodejs:24, perl-CGI, perl-DBI, qt5-qtbase, tigervnc, vim, and xorg-x11-server), Debian (apache2, c-ares, linux-6.12, node-shell-quote, nova, parted, postgresql-17, python-django, sympa, and tomcat10), Fedora (cockpit, erlang-ssl_verify_fun, httpd, ignition, jackson-bom, jackson-core, jackson-databind, jackson-modules-base, libvirt, mod_http2, mongo-c-driver, poppler, prometheus, pylint, python-discovery, python-loguru, python-PyMuPDF, rabbitmq-server, rust-crypto-bigint, rust-ctutils, rust-elliptic-curve, rust-num-bigint, rust-num-bigint0.4, rust-num-modular, rust-num-modular0.6, rust-num-prime, rust-routinator, rust-zmij, strongswan, xen, xorg-x11-server, and zvbi), Mageia (amule, peazip, and python-pytest), Red Hat (buildah, fence-agents, go-fdo-server, grafana, grafana-pcp, oci-seccomp-bpf-hook, osbuild-composer, podman, and rhc), SUSE (ansible-core, apr-util, aspell, brotli, cadvisor, civetweb, distribution-registry, elemental, elementa",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-13T14:25:42+00:00",
+      "coletado_em": "2026-11-13T17:13:45.311251+00:00",
+      "imagem_feed": null,
+      "score": 5.251,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "f1b19e588764",
+      "titulo": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
+      "url": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip",
+      "resumo": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-13T16:30:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.311951+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/oyZG7mCstmm8dWyPWJmMqU-1920-80.jpg",
+      "score": 6.118,
+      "cobertura": []
+    },
+    {
+      "id": "3666cb96e0a1",
+      "titulo": "Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo",
+      "resumo": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-12T13:58:41+00:00",
+      "coletado_em": "2026-11-13T17:13:45.311951+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/t75kmqCZia9XGcHiAKqZ5T-1920-80.jpg",
+      "score": 5.614,
+      "cobertura": [
+        "https://www.techspot.com/news/114533-jensen-huang-resigns-nvidia-ceo-following-allegations-two.html",
+        "https://www.pcworld.com/article/3283741/nvidia-ceo-jensen-huang-resigns-in-the-wake-of-multiple-controversies.html"
+      ]
+    },
+    {
+      "id": "187a58491854",
+      "titulo": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
+      "resumo": "Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumvention of U.S. restrictions on China as Singapore charges an executive over suspicious purchases of 917 AI servers.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-13T16:15:28+00:00",
+      "coletado_em": "2026-11-13T17:13:45.311951+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Shoacr4XJZW9Mkip4RDNCA-1920-80.jpg",
+      "score": 5.591,
+      "cobertura": []
+    },
+    {
+      "id": "4b400464e33c",
+      "titulo": "AMD lembra gamers que está do lado deles após falas contraditórias da CEO",
+      "url": "https://canaltech.com.br/hardware/amd-lembra-gamers-que-sempre-esteve-ao-seu-lado-apos-falas-contraditorias-da-ceo/",
+      "resumo": "A comunidade de PC gamers já não olha para a NVIDIA com os mesmos olhos por conta da priorização de chips para data center. A própria empresa já deixou claro que não se importa mais com placas de vídeo . A AMD está seguindo os mesmos passos, com a CEO, Lisa Su, afirmando que é uma empresa de data center, ao mesmo tempo que tenta acalmar os ânimos dos gamers com publicações nas redes sociais . No X, o perfil AMD Gaming publicou uma foto de uma placa de vídeo \"de mãos dadas\" com uma pessoa com a frase \"Nunca se esqueça de quem esteve ao seu lado nos momentos mais difíceis\", e a legenda da publicação dizendo: \"eu sei que sempre estará lá por mim\". A publicação veio poucos dias depois de Lisa Su afirmar aos acionistas que a AMD é \"uma empresa de data center primeiro\", apresentando seu resultado fiscal que mostrava queda de 40% na receita do segmento de gaming e crescimento de quase 100% no ramo de servidores. A brincadeira também pode ser entendida como uma alfinetada na sua rival NVIDIA, que abandonou quase que completamente o cenário gamer, alocando grande parte de sua fabricação de chips para o segmento de data center, deixando pouco para gaming, o que acabou resultando em pouca ofe",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-13T17:06:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.338416+00:00",
+      "imagem_feed": null,
+      "score": 5.285,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "f2a7cd4c8040",
+      "titulo": "Gemini and DECam showcase a young Type Ia supernova",
+      "url": "https://phys.org/news/2026-11-gemini-decam-showcase-young-ia.html",
+      "resumo": "A star's explosive demise has added a shiny new feature to NGC 1433, a barred spiral galaxy approximately 50 million light-years away in the southern constellation Horologium (the Pendulum Clock). New images of supernova SN 2026ahvu from the U.S. Department of Energy–fabricated Dark Energy Camera (DECam) and the Gemini South telescope capture the explosion against its galactic surroundings, recording an event that is changing in appearance from night to night.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-13T16:20:10+00:00",
+      "coletado_em": "2026-11-13T17:13:45.313196+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-capture-br.jpg",
+      "score": 6.449,
+      "cobertura": []
+    },
+    {
+      "id": "1cbd2bca9bd5",
+      "titulo": "Outbursts from a Massive Star",
+      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+      "resumo": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-13T16:39:33+00:00",
+      "coletado_em": "2026-11-13T17:13:45.312797+00:00",
+      "imagem_feed": null,
+      "score": 5.935,
+      "cobertura": []
+    },
+    {
+      "id": "c052426b21d0",
+      "titulo": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
+      "url": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
+      "resumo": "Celestron’s StarSense Explorer tech makes this 150mm Dobsonian so easy to operate — but its tabletop design makes me wonder whether beginners should go bigger.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-13T15:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.313864+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/n8CuApNZ4LyAmmJHMQVsL3-1920-80.jpg",
+      "score": 5.158,
+      "cobertura": []
+    },
+    {
+      "id": "27291617b734",
+      "titulo": "Jovens enfrentam obstáculos para conquistar autonomia financeira",
+      "url": "https://jornal.usp.br/campus-ribeirao-preto/jovens-enfrentam-obstaculos-para-conquistar-autonomia-financeira/",
+      "resumo": "Salários iniciais, custo de vida e instabilidade profissional dificultam o planejamento financeiro.",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-13T15:20:24+00:00",
+      "coletado_em": "2026-11-13T17:13:45.328871+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261112_mudanca-1024x538.jpg",
+      "score": 5.143,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "ddbd64fc1889",
+      "titulo": "Research advances quantum computing that harnesses speed of light",
+      "url": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+      "resumo": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-13T03:40:01+00:00",
+      "coletado_em": "2026-11-13T17:13:45.315790+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/purdue-professor-vladi.jpg",
+      "score": 5.464,
+      "cobertura": []
+    },
+    {
+      "id": "8a84c07ca832",
+      "titulo": "Researchers build the first ever quantum clock that uses sunlight",
+      "url": "https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Quantum clocks usually rely on advanced lasers and isolated atoms in the lab, but a new experiment showed that the same clock design can work with sunlight instead",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-13T17:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.363472+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320386804.jpg",
+      "score": 5.324,
+      "cobertura": []
+    },
+    {
+      "id": "aad1b0833ee9",
+      "titulo": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
+      "url": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
+      "resumo": "Insider Brief U.S. quantum ambitions could outpace the supply chains needed to turn laboratory advances into a commercial industry, four policy analysts warn. In a policy piece published by the Foundation for American Innovation, Joshua Levine, Prineha Narang, Jacqueline Tame and Alexandra Seymour Gabel, write that Washington must invest in the components and manufacturing capacity […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-13T16:17:23+00:00",
+      "coletado_em": "2026-11-13T17:13:45.315444+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/ipuim-36tag.jpg",
+      "score": 5.094,
+      "cobertura": []
+    },
+    {
+      "id": "e59ebffd458c",
+      "titulo": "The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm",
+      "url": "https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/",
+      "resumo": "Insider Brief An ordinary qubit remembers too much and listens too well. Its delicate phase is the hidden part of a qubit’s state. It carries much of the qubit’s information and is very easy to disturb. The phase takes account of every stray field, lattice vibration, and fluctuating charge. In turn, a qubit lives a […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-13T02:40:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.315444+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/29652326.jpeg",
+      "score": 4.562,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "1fe6381f5a2a",
+      "titulo": "Will that game run like crap on your PC? Steam finally has some answers",
+      "url": "https://www.pcworld.com/article/3285316/will-that-game-run-like-crap-on-your-pc-steam-finally-has-some-answers.html",
+      "resumo": "Minimum PC game system requirements are damn near useless. Sure, they’ll tell you what hardware you need to get a game running, but whether it’ll actually run well is anybody’s guess. Valve is finally doing something about it, putting real-world performance data on Steam store pages so gamers can see what frame rates other people are getting before plunking down their hard-earned cash, starting with the Steam Deck. Valve is pushing Steam beyond Windows and conventional PCs . Figuring out how games will run on all that new hardware is another headache entirely. Valve announced this week that Steam now displays average frame rates for thousands of Steam Deck games, collected anonymously from players who opt in to sharing performance data (“a majority of Steam Deck players”). You’ll find the numbers under Steam Deck Compatibility > Learn more on supported store pages, alongside an expandable histogram showing how frequently games hit different frame rates. Verified, Playable, and even Unsupported games are included. As Ars Technica notes , Cyberpunk 2077 and Skyrim: Special Edition both carry Steam Deck’s coveted Verified badge, but player data shows the former typically hovering arou",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-13T16:30:36+00:00",
+      "coletado_em": "2026-11-13T17:13:45.316850+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3285316-0-76296200-1794587446-PPH22_054_SteamDeck_01.jpg?quality=50&strip=all",
+      "score": 5.619,
+      "cobertura": []
+    },
+    {
+      "id": "4c7d63fd75e2",
+      "titulo": "How DirectStorage 1.4 eliminates game loading times using your GPU",
+      "url": "https://www.pcworld.com/article/3279092/directstorage-1-4-how-to-speed-up-games-using-an-ssd-and-gpu.html",
+      "resumo": "Direct Storage 1.4 is a Microsoft technology that optimizes the flow of data between the SSD and the graphics card, allowing loading times in games – particularly in open-world titles – to be almost completely eliminated. At the heart of this version is support for the Zstandard codec (Zstd for short), an extremely efficient compression method. Normally, the central processing unit (CPU) has to laboriously decompress game data before it can be displayed. With Direct Storage 1.4, this task shifts directly to the graphics card (GPU), which can perform the decompression much faster using Zstd codecs. With Direct Storage 1.4 technology, the graphics processor handles the decompression. This works quickly thanks to highly efficient compression using Zstd codecs. Corsair For this to work, you must first enable Hardware-accelerated GPU Scheduling . Open the Windows 11 setting and go to System > Display > Graphics Click on Default Graphics Settings (or Advances Graphics Settings) Toggle on Hardware-accelerated GPU scheduling Only then will the graphics card be granted the necessary permissions to perform Zstd decompression. To check whether your system is actually using this technology, Mi",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-13T15:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.316850+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3279092-0-92353600-1794582037-corsair-gaming4.jpg?quality=50&strip=all",
+      "score": 5.458,
+      "cobertura": []
+    },
+    {
+      "id": "0acc80f4119f",
+      "titulo": "10 great PC upgrades for under $100",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/10-great-pc-upgrades-for-under-usd100-spice-up-your-setup-for-less-with-these-gifts-and-impulse-purchases",
+      "resumo": "If you're in the market for a PC upgrade for a cheaper gift, here are 10 items under $100.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-13T17:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.311951+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/V2jcLanD6fqrx3qJzuG94-1920-80.jpg",
+      "score": 5.174,
+      "cobertura": []
+    },
+    {
+      "id": "483db3e02120",
+      "titulo": "Best gaming monitors 2026: Displays that will do your games justice",
+      "url": "https://www.pcworld.com/article/813301/best-gaming-monitors.html",
+      "resumo": "Any monitor can be used for PC gaming, but a display built for productivity will likely leave you feeling less than satisfied. Limited contrast, blurry motion, and slow refresh rates still hold back the performance of basic productivity monitors in games. Fortunately, there’s no shortage of excellent gaming monitors available at a range of budgets—and the best of them embrace cutting-edge technology unavailable in any other PC display. Below are our picks of the best gaming monitors we’ve tested throughout this year and last. If you want to learn more about what we look for in a good gaming monitor and how we test them, scroll further down the page. Why you should trust PCWorld for monitors reviews and buying advice: We’re PCWorld, after all. We’ve been covering PCs since 1983, and we now review dozens of monitors every year. All of our recommendations have been personally tested and vetted by our expert reviewers, who’ve applied not only performance benchmarks but rigorous usability standards. MSI MPG 272URX – Best gaming monitor Pros 26.5-inch 4K OLED panel looks sharp Great contrast and color performance Strong motion clarity Respectable HDR performance Lots of connectivity incl",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-13T17:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.316850+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/813301-0-28586300-1794589226-dell-3223q-1.jpg?quality=50&strip=all",
+      "score": 5.174,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "4825b62dd4b2",
+      "titulo": "Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "url": "https://tecnoblog.net/noticias/gemini-4-hydrogen-e-o-novo-modelo-do-google-para-tarefas-do-dia-a-dia/",
+      "resumo": "Novo modelo substitui o Gemini 3.8 Flash e chega gratuitamente ao aplicativo Gemini e à Busca do Google. Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-12T20:05:40+00:00",
+      "coletado_em": "2026-11-13T17:13:45.333588+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-4.png",
+      "score": 5.84,
+      "cobertura": [
+        "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+        "https://canaltech.com.br/inteligencia-artificial/google-lanca-modelo-de-ia-veloz-e-eficiente-conheca-o-gemini-4-hydrogen/"
+      ]
+    },
+    {
+      "id": "50f48f4b6e64",
+      "titulo": "Entenda o que assinantes perdem com o fim do Gemini Pro no Google AI Plus",
+      "url": "https://canaltech.com.br/inteligencia-artificial/entenda-o-que-assinantes-perdem-com-o-fim-do-gemini-pro-no-google-ai-plus/",
+      "resumo": "O Google vai retirar o acesso aos modelos Pro do plano Google AI Plus , sua assinatura paga mais barata para o Gemini. Com a mudança, os assinantes não poderão mais escolher as versões avançadas da inteligência artificial no aplicativo do Gemini e no Modo IA da Busca. O plano ficará restrito aos modelos Flash e Flash-Lite, focados em respostas mais rápidas e tarefas cotidianas. A restrição entra em vigor para os assinantes atuais nesta sexta-feira (13) . Inicialmente, os documentos de suporte do Google indicavam que a mudança começaria em 9 de outubro de 2026, mas a empresa ampliou o prazo de transição e confirmou a nova data em e-mails enviados aos usuários. Para quem contratar o AI Plus a partir de agora, as novas condições já estão em vigor. A mudança também acompanha a reorganização dos planos de inteligência artificial do Google. Com os novos modelos Gemini 4 Argon e Gemini 4 Carbon , a empresa concentra as versões avançadas nas assinaturas de preço elevado, que oferecem limites ampliados de processamento. O que muda no Google AI Plus? Com o fim do acesso aos modelos Pro, os assinantes do AI Plus vão perder algumas ferramentas usadas em tarefas complexas, incluindo lógica e pr",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-13T13:00:00+00:00",
+      "coletado_em": "2026-11-13T17:13:45.338416+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 5.667,
+      "cobertura": []
+    },
+    {
+      "id": "c231d25e54b9",
+      "titulo": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "resumo": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-13T16:00:12+00:00",
+      "coletado_em": "2026-11-13T17:13:45.326043+00:00",
+      "imagem_feed": null,
+      "score": 5.113,
+      "cobertura": []
+    },
+    {
+      "id": "adcff7e76f3f",
+      "titulo": "Tinder proíbe que agentes de IA conversem pelos usuários",
+      "url": "https://tecnoblog.net/noticias/tinder-proibe-que-agentes-de-ia-conversem-pelos-usuarios/",
+      "resumo": "Match Group quer impedir que assistentes escolham perfis e enviem mensagens no lugar das pessoas. Tinder proíbe que agentes de IA conversem pelos usuários",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-13T14:17:13+00:00",
+      "coletado_em": "2026-11-13T17:13:45.333588+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2025/12/tinder-edited.jpg",
+      "score": 4.937,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "5362fdae93b7",
+      "titulo": "Google lança modelo de IA veloz e eficiente; conheça o Gemini 4 Hydrogen",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-modelo-de-ia-veloz-e-eficiente-conheca-o-gemini-4-hydrogen/",
+      "resumo": "O Google anunciou o Gemini 4 Hydrogen , novo modelo de inteligência artificial desenvolvido para acelerar tarefas de programação e fluxos de trabalho executados por agentes de IA. Com foco em velocidade e eficiência, ele pode funcionar sozinho ou em conjunto com o Gemini 4 Carbon e o Gemini 4 Argon, modelos focados em atividades que exigem raciocínio mais complexo e de longo prazo. Segundo Koray Kavukcuoglu, vice-presidente sênior do Google DeepMind e arquiteto-chefe de IA do Google, o Hydrogen assume tarefas que precisam de execução rápida , e o Carbon e Argon cuidam das demandas mais complexas. No Google Antigravity, o recurso Orchestrator gerencia essa divisão e alterna entre os modelos durante uma mesma sessão. Em testes com o Terminal-Bench 4.0, o sistema alcançou resultados próximos aos do Carbon, com 24% menos consumo de cota e conclusão das tarefas 19% mais rápida. O Carbon também pode coordenar vários agentes Hydrogen, responsáveis pela execução e verificação de alterações em ambientes isolados. O Hydrogen oferece quatro níveis de raciocínio (low, medium, high e xhigh), que definem a quantidade de processamento dedicada a cada tarefa. No Artificial Analysis Intelligence In",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-13T16:33:03+00:00",
+      "coletado_em": "2026-11-13T17:13:45.338416+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/WB_bsRvFDaWxDCZQ6sQrjgtr-28=/0x0/filters:format(webp):quality(85)/7959b5fa-bef0-473c-a9b3-6662703746f4.jpg",
+      "score": 5.523,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/gemini-4-hydrogen-e-o-novo-modelo-do-google-para-tarefas-do-dia-a-dia/"
+      ]
+    },
+    {
+      "id": "4825b62dd4b2",
+      "titulo": "Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "url": "https://tecnoblog.net/noticias/gemini-4-hydrogen-e-o-novo-modelo-do-google-para-tarefas-do-dia-a-dia/",
+      "resumo": "Novo modelo substitui o Gemini 3.8 Flash e chega gratuitamente ao aplicativo Gemini e à Busca do Google. Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-12T20:05:40+00:00",
+      "coletado_em": "2026-11-13T17:13:45.333588+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-4.png",
+      "score": 5.34,
+      "cobertura": [
+        "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+        "https://canaltech.com.br/inteligencia-artificial/google-lanca-modelo-de-ia-veloz-e-eficiente-conheca-o-gemini-4-hydrogen/"
+      ]
+    },
+    {
+      "id": "18a784815fb6",
+      "titulo": "Bateria de carro elétrico vicia? Estudo da Ford com Mustang Mach-E dá a resposta",
+      "url": "https://canaltech.com.br/carros/bateria-de-carro-eletrico-vicia-estudo-da-ford-com-mustang-mach-e-da-a-resposta/",
+      "resumo": "As baterias dos Ford Mustang Mach-E mantêm, em média, 92% de sua capacidade original após cinco anos de uso . O resultado vem de um levantamento divulgado pela fabricante norte-americana na segunda (9), a partir de informações coletadas remotamente em agosto de cerca de 36 mil unidades do SUV elétrico ano-modelo 2021 comercializadas nos Estados Unidos e no Canadá. Os carros analisados rodaram um total de aproximadamente 3,2 bilhões de km , o equivalente a uma média de 88 mil km por exemplar. Segundo a montadora, todos os utilitários estavam equipados com baterias de níquel, cobalto e manganês (NCM) , e mantiveram entre 87% e 97% da carga útil inicial . Projetados para durar ao menos uma década, os conjuntos elétricos da Ford superam os 90% de capacidade média aos 160 mil km — aliás, a marca já foi ultrapassada por mais de 2 mil unidades do Mach-E 2021, que seguiram com a média acima de 91%. O levantamento, inclusive, foi motivado pelo caso do motorista norte-americano David Blenkle, que rodou mais de 640 mil km com a bateria original de seu Mach-E 2022 . Bateria do Ford Mustang Mach-E De qualquer forma, existem algumas boas práticas que ajudam a prolongar a vida útil do componente ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-13T14:00:04+00:00",
+      "coletado_em": "2026-11-13T17:13:45.338416+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Ljc_GxeSbqU0u2_9OPR4u1FhO4o=/0x0/filters:format(webp):quality(85)/8fcc5b2b-0fa2-4321-9f6d-c067ee67da26.png",
+      "score": 4.26,
+      "cobertura": []
+    },
+    {
+      "id": "a1e26c82b9fc",
+      "titulo": "The hidden gatekeeper: How water in tiny rock pores shapes underground energy storage",
+      "url": "https://techxplore.com/news/2026-11-hidden-gatekeeper-tiny-pores-underground.html",
+      "resumo": "Storing renewable energy on a large scale is one of the biggest challenges facing the energy transition.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-13T12:00:01+00:00",
+      "coletado_em": "2026-11-13T17:13:45.327108+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-gatekeeper.jpg",
+      "score": 4.029,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "95f867ecfe5a",
+      "titulo": "Tesouro Nacional alerta para vazamento de dados pessoais e chaves Pix",
+      "url": "https://tecnoblog.net/noticias/tesouro-nacional-alerta-para-vazamento-de-dados-pessoais-e-chaves-pix/",
+      "resumo": "Secretaria do Tesouro Nacional identificou um incidente no portal e-Serviços. O ataque expôs dados cadastrais de 30 mil pessoas e 4 mil chaves Pix. Tesouro Nacional alerta para vazamento de dados pessoais e chaves Pix",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-13T15:23:23+00:00",
+      "coletado_em": "2026-11-13T17:13:45.333588+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-8.png",
+      "score": 4.548,
+      "cobertura": []
+    },
+    {
+      "id": "b6643089420e",
+      "titulo": "Apagão da Microsoft já afeta 74 países e passa de 18 horas; ataque hacker é descartado",
+      "url": "https://canaltech.com.br/apps/apagao-da-microsoft-ja-afeta-74-paises-e-passa-de-18-horas-ataque-hacker-e-descartado/",
+      "resumo": "Uma falha global nos serviços da Microsoft já afeta usuários de pelo menos 74 países e territórios há mais de 18 horas. A instabilidade atinge ferramentas do Microsoft 365, incluindo Outlook, Teams e Copilot, além de SharePoint, Microsoft Defender, Planner, To Do e Intune. As ferramentas do Microsoft Purview também são potencialmente afetadas . Já no Power BI, o problema ocorre na exportação de relatórios com rótulos de sensibilidade para arquivos PDF. Ao Live CNN Brasil , nesta sexta-feira (13), o repórter do Canaltech André Magalhães comentou sobre o apagão da Microsoft: Apesar do impacto, a Microsoft descartou a possibilidade de um ataque hacker ou de uma invasão aos seus sistemas. Charles Lamanna, vice-presidente executivo do Copilot, afirmou que não há indícios de atividade maliciosa ou cibernética e lamentou os transtornos causados pela falha até o momento. Em comunicados oficiais, a companhia explicou que o problema foi provocado por uma sobrecarga em um processo essencial dos servidores . O componente deixou de responder corretamente, o que provocou novas falhas e comprometeu a capacidade da infraestrutura de atender às solicitações dos usuários. A interrupção também afetou",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-13T12:25:31+00:00",
+      "coletado_em": "2026-11-13T17:13:45.338416+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/IYhDaXLCz4frOlAhPKyvdDiOkRk=/0x0/filters:format(webp):quality(85)/7aa0bfc2-e9b3-47d6-a13c-ee8ab310ed5d.jpg",
+      "score": 4.115,
+      "cobertura": []
+    },
+    {
+      "id": "77cdc833a52e",
+      "titulo": "Alerta: vazamento na Caixa expõe dados de 7,6 milhões de clientes",
+      "url": "https://tecnoblog.net/noticias/alerta-vazamento-na-caixa-expoe-dados-de-76-milhoes-de-clientes/",
+      "resumo": "Dados como nome, CPF, e-mail e telefone de clientes vazaram em invasão à Caixa Vida e Previdência. Alerta: vazamento na Caixa expõe dados de 7,6 milhões de clientes",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-12T18:19:33+00:00",
+      "coletado_em": "2026-11-13T17:13:45.333588+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/capas_caixa-04.jpg",
+      "score": 3.283,
+      "cobertura": []
+    },
+    {
+      "id": "f76edcdafe8c",
+      "titulo": "Quais consoles vão rodar GTA 6? Veja plataformas confirmadas para o lançamento",
+      "url": "https://canaltech.com.br/games/quais-consoles-vao-rodar-gta-6-veja-plataformas-confirmadas-para-o-lancamento/",
+      "resumo": "Estamos a uma semana do lançamento de GTA 6, em 19 de novembro de 2026. O jogo chegará 13 anos depois do seu antecessor, GTA 5, e carrega a expectativa de toda a indústria de ser um dos maiores títulos do século. Naturalmente, a procura por um jogo tão aguardado tem gerado um hype absurdo, o que se traduziu em uma receita de US$ 1 bilhão mesmo com o GTA 6 ainda na pré-venda . Mas, afinal, onde será possível jogar o novo hit da Rockstar Games? Embora a internet seja inundada por novidades e vazamentos sobre GTA 6 a todo minuto , alguns jogadores podem ter ficado um pouco perdidos nesse verdadeiro mar de hype e informação. Pensando nisso, o Canaltech produziu esta matéria para responder à dúvida que está no topo das buscas do Google: quais consoles vão rodar GTA 6? Onde GTA 6 rodará nativamente? Desde o início, a Rockstar Games confirmou que GTA 6 chegará ao PlayStation 5, PlayStation 5 Pro, XBOX Series S e XBOX Series X . A partir de 19 de novembro, será possível jogar o título nativamente em qualquer um desses modelos. A pré-venda de GTA 6 já está disponível e quebrou o recorde de mais encomendas de todos os tempos no PlayStation e XBOX . É importante ressaltar que o pré-download d",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-12T18:30:30+00:00",
+      "coletado_em": "2026-11-13T17:13:45.338416+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/s-gO0QaKSJFaZzFMnyzH3D15bqI=/0x0/filters:format(webp):quality(85)/c9b5d443-454f-4610-927e-422f66dc56d0.png",
+      "score": 3.138,
+      "cobertura": []
+    }
+  ]
+}
