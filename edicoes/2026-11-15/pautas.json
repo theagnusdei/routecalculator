@@ -1,0 +1,378 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-14T15:49:34.738426+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    "texto_fonte": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial\nFriday, October 23, 2026\nA precision T-cell therapy stalls treatment-resistant cancers in clinical trial\nExperimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.\nEarly results of the first clinical trial to evaluate the drug invikafusp alfa (invika) in humans indicate that the pioneering treatment may be capable of managing cancers that have rebuffed most other interventions, including standard immunotherapy. A study led by researchers at the National Institutes of Health (NIH), Mass General Brigham and Memorial Sloan Kettering found that, at optimal doses, invika was well tolerated and, in patients whose solid tumors had resisted standard immunotherapy, halted disease progression in most and shrank tumors in some.\n“Patients whose tumors are advanced — particularly tumors that don’t respond well to immunotherapy — often have their backs against a wall. Few options remain once you reach that point, but these results highlight a more precise means of stimulating anti-tumor immunity that could provide another solution,” said co-corresponding author James Gulley, M.D., Ph.D., clinical director at the Center for Cancer Research (CCR), part of NIH’s National Cancer Institute (NCI).\nWhile immunotherapies have already transformed treatment for several cancers, many patients benefit from them for only a short time, or not at all. Tumors frequently adapt to immune checkpoint blockade (ICB) therapies, such as pembrolizumab, limiting long-term benefits. Other strategies aim to rally T cells, the frontline soldiers of adaptive immunity, but usually do so indiscriminately, commonly leading to severe side effects.\nScientists designed the protein invika to engage a small subset of T cells, two groups of tumor-infiltrating lymphocytes specifically. By activating only this narrow population rather than T cells broadly, invika is designed to drive anti-tumor activity while avoiding the severe side effects that less selective approaches can cause. Preclinical studies also conducted at CCR indicate that the drug hits its intended marks and stimulates anti-tumor activity in animal models. This new study describes the next step for invika, detailing the results of phase 1 and initial phase 2 experiments in humans.\nThe researchers leading the trial recruited patients with a wide variety of cancers, the majority of which had not responded well to ICB. In phase 1, they treated study participants with varying dosages of invika every two weeks to evaluate the drug’s safety and determine the optimal dose. While several participants experienced flu-like side effects, these were expected and generally manageable with additional medication and supportive care. After identifying the lowest dose at which desired effects peaked, the researchers advanced to phase 2, treating participants at this optimal dose.\nOf the 27 participants treated with the optimal dose across both phases, disease did not progress in 16 (59.3%) of them. Four (14.8%) participants experienced greater than 30% decreases in the size of targeted tumors, two of whom had metastatic colorectal cancer with tumors of a notoriously treatment-resistant type and were receiving invika as their seventh-line therapy. Another responsive participant had stage 4 non-small cell lung cancer, again with tumors that had repelled multiple therapies including ICB. In participants receiving non-optimal levels, invika did not appear to have significant benefit.\nIn these patients, the study authors found that the drug fostered growth in the target T-cell populations without affecting any other T cells. They linked the four instances of tumor reduction to the largest shifts in target populations, though, as the authors expected at this early stage, immune activity alone did not always produce a measurable clinical response.\n“These results are early, and although signs of immune activity don't always translate into benefit to patients at this stage, it is new and exciting to see activity in patients whose cancers had stopped responding to immunotherapy — a group of people with very few options left,” said co-first author Nicholas Tschernia, M.D., a physician-scientist early investigator in the CCR at NCI. “These findings give us a reason to keep studying this new type of immunotherapy, particularly by combining it with other cancer treatments to continue to seek improved results.”\nThe treatment sponsor, Marengo Therapeutics, previously announced that the U.S. Food and Drug Administration (FDA) granted a Fast Track designation to invika to accelerate its evaluation as a treatment for antigen-rich, metastatic colorectal cancer. More recently, FDA has granted the same designation to invika for similar solid tumors, regardless of tissue type, following prior therapy including checkpoint inhibitors.\nThe ongoing clinical trial is still seeking study participants. Patients interested in enrolling in this study may contact NCI’s toll-free number 1-800-4-Cancer (1-800-422-6237) (TTY: 1-800-332-8615) or email [email protected]. More information can also be found at https://www.cancer.gov/research/participate/clinical-trials-search.\nAbout the National Cancer Institute (NCI): NCI leads the National Cancer Program and NIH’s efforts to dramatically reduce the prevalence of cancer and improve the lives of cancer patients and their families, through research into prevention and cancer biology, the development of new interventions, and the training and mentoring of new researchers. NCI’s intramural research program at the Center for Cancer Research (CCR) conducts innovative, transdisciplinary basic, translational, and clinical studies, including research at the NIH Clinical Center — the world’s largest research hospital. Learn more about the intramural research done in NCI’s CCR. For more information about cancer, please visit the NCI website at www.cancer.gov or call NCI’s contact center, the Cancer Information Service, at 1-800-4-CANCER (1-800-422-6237).\nAbout the National Institutes of Health (NIH): NIH, the nation's medical research agency, includes 27 Institutes and Centers and is a component of the U.S. Department of Health and Human Services. NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both common and rare diseases. For more information about NIH and its programs, visit www.nih.gov.\nNIH…Turning Discovery Into Health®\nReference\nRyan J. Sullivan, Nicholas P. Tschernia, Claire F. Friedman et al. Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial. Nature Medicine. October 23, 2026. DOI: 10.1038/s41591-026-04711-0",
+    "autor_fonte": null,
+    "site_fonte": "National Institutes of Health (NIH)",
+    "imagem_url": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-10/20261023-scan.jpg?itok=wcP7jvLW",
+    "imagem_arquivo": "imagens/medicina-a-precision-t-cell-therapy-stalls-treatm.jpg",
+    "imagem_credito": "National Institutes of Health (NIH)",
+    "imagem_licenca": "Governo dos EUA — em geral domínio público; conferir",
+    "imagem_pagina": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": []
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "08f158740a97",
+      "titulo": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion",
+      "url": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html",
+      "resumo": "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-13T22:20:01+00:00",
+      "coletado_em": "2026-11-14T15:49:34.741355+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/fusion-of-a-unicellula.jpg",
+      "score": 5.278,
+      "cobertura": []
+    },
+    "texto_fonte": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion\nMost DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.\nIn contrast, organisms can acquire DNA from organisms of the same species or other species outside of asexual or sexual reproduction through a process called horizontal gene transfer. For example, bacteria can take up free-floating DNA from dead bacteria in the environment. Bacteria can also form a tube between cells to exchange DNA. These mechanisms can spread antibiotic resistance genes among bacteria.\nEukaryotic organisms (whose cells contain nuclei) can also acquire genetic material through horizontal gene transfer by taking up DNA from the environment and through viral infection, but genome-scale transfers between distantly related eukaryotes are rarely documented.\nMore than 1.5 billion years ago, an ancestral eukaryotic cell engulfed a cyanobacterium, a type of photosynthetic bacterium, which eventually evolved into the chloroplasts (cell structures where photosynthesis occurs to produce energy from sunlight) found in present-day algae and plants.\nDuring this evolutionary process, many genes from the engulfed cyanobacterium were transferred to the host cell's nuclear genome, allowing the two organisms to become an integrated biological system. This ancient event gave rise to the ancestors of modern red algae, green algae and land plants, demonstrating how the transfer of genetic material across species boundaries can lead to the evolution of entirely new cellular functions.\nTesting chromosome transfer across species\nDespite our current understanding of how horizontal gene transfer occurs between prokaryotic organisms (which are single-celled and lack a nucleus), scientists have had little direct evidence of what happens when chromosome-scale foreign DNA enters a eukaryotic host cell. To address this knowledge gap, a research team led by scientists from the University of Tokyo recently designed a series of experiments to create \"planimal\" cells—mammalian cells containing algal DNA—to better characterize horizontal gene transfer in mammalian cells. The results are published in the journal Nature Communications.\n\"We wanted to understand whether entire chromosomes could cross the enormous evolutionary divide between algae and animals and whether animal cells could stably maintain and pass on such foreign genetic material to their daughter cells,\" said Sachihiro Matsunaga, a professor from the Laboratory of Integrated Biology at the University of Tokyo and senior author of the research study.\n\"We also wanted to discover how animal cells accommodate DNA from such a different organism without losing their ability to survive and divide. These questions are fundamental to understanding how genetic material can move across species boundaries and contribute to evolution.\"\nInspired by the ancient event more than an eon and a half ago, the research team investigated genome transfer by fusing photosynthetic algal cells with hamster-derived mammalian cells or allowing the mammalian cells to engulf the algae. They found that cell fusion produced stable hybrid cells much more efficiently than engulfment. The team used live-cell imaging and genome sequencing to characterize how the host manipulated algal DNA over a number of generations.\nAlgal DNA persists through generations\nIn one hamster-derived cell line, approximately 16.3 million base pairs of algal nuclear DNA—including intact chromosomes and sequences from all 20 algal chromosomes—were retained. Algal DNA remained detectable through 155 cell generations, with substantial portions persisting for 95 generations without antibiotic selection (a technique used to isolate genetically modified cells and generate stable cell lines).\n\"Plants and animals cannot reproduce with each other, so their chromosomes are never combined through mating. Yet, we have succeeded in creating hybrid chromosomes containing genetic material from both an alga and a mammal, and have shown that this genetic material can be stably passed on to daughter cells through repeated cell divisions,\" said Matsunaga. \"Remarkably, our planimal cells retained nearly an entire algal genome over many generations. This demonstrates that even the vast evolutionary divide between plants and animals can be crossed at the level of chromosomes, without reproduction.\"\nGene silencing and the photosynthesis challenge\nThe researchers also found that most transferred algal genes were inactive, while the foreign DNA acquired DNA methylation and repressive histone marks, modifications associated with gene silencing. When the team repeated the experiment using hamster cells lacking DNMT3A, an enzyme involved in establishing DNA methylation, fewer stable hybrid colonies formed and the resulting cells retained less algal DNA. Together, the findings suggest that epigenetic \"gatekeeping\" (involving changes in gene function without altering the DNA sequence) helps mammalian cells accommodate large amounts of foreign DNA while keeping most imported genes inactive.\nWith about 96% of the transferred algal protein-coding genes showing no detectable expression, the team hopes to learn how selected algal genes might be switched back on.\n\"Our next challenge is to selectively switch on the genes we need and make them work inside animal cells,\" said Matsunaga. \"The red alga we use has a remarkably compact genome containing genes for metabolic functions that animal cells do not possess. Our ultimate goal is to activate these biological pathways and give animal cells some of the unique abilities of plants and algae. Imagine animal cells that could sustain photosynthesis for long periods, producing oxygen while using carbon dioxide to make useful organic compounds.\"\nThe present study did not produce photosynthetic animal cells. Achieving this remains a long-term goal that will require functional chloroplasts and further engineering.\nPublication details\nRyota Aoki et al., Epigenetic gatekeeping enables genome-scale horizontal gene transfer in eukaryotic cells, Nature Communications (2026). DOI: 10.1038/s41467-026-78753-w",
+    "autor_fonte": "University",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/fusion-of-a-unicellula.jpg",
+    "imagem_arquivo": "imagens/biologia-planimal-cells-retain-nearly-entire-alga.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "0967f4990132",
+      "titulo": "Video Friday: NASA PROMISEs a New Moon Rover",
+      "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+      "resumo": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! NASA will send a nuclear-powered rover called PROMISE (Polar Rover for Observation, Mapping, and In-Situ Exploration, depicted in the rendering) to the Moon’s South Pole as a foundational mission in the Moon Base Program. It will be constructed largely from existing hardware—test-bed and flight-spare components—developed for NASA’s ongoing Mars rover missions, Curiosity and Perseverance. [ NASA Jet Propulsion Laboratory ] What happens when you put wheels on a humanoid and let a learned controller drive it? We swapped the feet on our Atlas robot to find out; it let us push our actuators, and our models of them, hard. [ Boston Dynamics ] The Novel Orbital and Moon Manufacturing, Materials and Mass-efficient Design (NOM4D) program has achieved the first ever demonstration of automated in-space assembly. A California Institute of Technology (Caltech) payload operating in o",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-13T17:30:03+00:00",
+      "coletado_em": "2026-11-14T15:49:34.742941+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/rendering-of-a-lunar-rover-with-a-drill-as-it-explores-a-snowy-crater-under-a-starry-night-sky.png?id=68673117&width=980",
+      "score": 5.701,
+      "cobertura": []
+    },
+    "texto_fonte": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.\nHumanoids 2026: 6–9 December 2026, SANTA CLARA, CA\nEnjoy today’s videos!\nNASA will send a nuclear-powered rover called PROMISE (Polar Rover for Observation, Mapping, and In-Situ Exploration, depicted in the rendering) to the Moon’s South Pole as a foundational mission in the Moon Base Program. It will be constructed largely from existing hardware—test-bed and flight-spare components—developed for NASA’s ongoing Mars rover missions, Curiosity and Perseverance.\n[ NASA Jet Propulsion Laboratory ]\nWhat happens when you put wheels on a humanoid and let a learned controller drive it? We swapped the feet on our Atlas robot to find out; it let us push our actuators, and our models of them, hard.\n[ Boston Dynamics ]\nThe Novel Orbital and Moon Manufacturing, Materials and Mass-efficient Design (NOM4D) program has achieved the first ever demonstration of automated in-space assembly. A California Institute of Technology (Caltech) payload operating in orbit built a truss structure from individual components. A relatively simple gantry robot (able to move along three linear axes) connected composite truss members using custom-designed joints while simultaneously deploying a thin reflective mesh; a proof-of-concept for future space-based antennas.\n[ DARPA ]\nWell, it looks like Amazon’s idea for using mobile robots as security systems is not as dead as we thought it was back in 2020.\n[ Amazon Ring ]\nThere are many excellent applications for robots that have a market size of very close to zero, and this is one of them.\n[ DEEP Robotics ]\nI don’t know about you, but my philosophy in life is that more tentacles is always better.\n[ Paper ]\nWell I’m impressed.\n[ UZH Robotics and Perception Group ]\nHow Corvus One drones count boxes and read every UPC in case reserve and the singles area at ASICS America’s distribution center. Corvus One flies both areas at the ASICS distribution center in Byhalia, Mississippi, with no localization infrastructure anywhere in the building. No stickers, no beacons, no markers.\n[ Corvus Robotics ]\nThanks, Joan!\nHow do you solve a math problem that might have quadrillions of computations? It’s increasingly a problem for robot fleets in manufacturing and warehouse facilities. Lots of robots, lots of tasks, lots of traffic. Brute force, even with a supercomputer, could take years to find answers. That’s where Toyota Research Institute steps in with a bespoke solver program to elegantly tackle the problem of multi-agent optimal planning. In just one minute, Andrew Best, a scientist at TRI, explains how the company approaches this complex robotics deployment problem.\nRumor has it that printers built by robots never have PC LOAD LETTER errors.\n[ Flexiv ]\nDancing robots are getting even better! Hooray...?\n[ LimX Dynamics ]\nIt’s season two of AI in Motion, and we’re on a road trip to talk with more of America’s experts in physical AI. We’re rolling into Austin to talk with Jeff Cardenas, who co-founded Apptronik to build robots for humans in very familiar forms. \n[ Waymo ]",
+    "autor_fonte": "Evan Ackerman",
+    "site_fonte": "IEEE Spectrum",
+    "imagem_url": "https://spectrum.ieee.org/media-library/image.png?id=68673117&width=1200&height=600&coordinates=0%2C120%2C0%2C120",
+    "imagem_arquivo": "imagens/robotica-video-friday-nasa-promises-a-new-moon-ro.jpg",
+    "imagem_credito": "IEEE Spectrum",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "3570c0313092",
+      "titulo": "Qual é o problema de usar um app desatualizado por muito tempo?",
+      "url": "https://canaltech.com.br/apps/qual-e-o-problema-de-usar-um-app-desatualizado-por-muito-tempo/",
+      "resumo": "Com dezenas de apps instalados no celular, é comum esquecer de atualizar algum deles. Isso não é um problema a curto prazo, mas manter um aplicativo desatualizado por muito tempo pode impedir que a ferramenta funcione corretamente . Os apps recebem novas versões no Android e iOS para otimizar a experiência e trazer novos recursos. Ainda que algumas soluções sejam atualizadas em segundo plano, é comum que os serviços pouco acessados fiquem defasados . Por que você deve manter os apps atualizados A seguir, o Canaltech explica o que acontece ao deixar um app sem atualizações por muito tempo: App não carrega Em alguns casos, o aplicativo simplesmente não carrega ou não passa da tela de login . A impressão inicial pode ser de algum erro ou instabilidade e nem sempre o software informa que há uma atualização pendente. De qualquer forma, ao identificar dificuldade para entrar numa plataforma, vale abrir a App Store ou a Google Play Store para confirmar se não há uma versão mais nova disponível. Falta de novos recursos Baixar um novo update ajuda a liberar o acesso a novas ferramentas em apps . As desenvolvedoras podem publicar novidades pelo servidor (sem a necessidade de intervenção do u",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-14T14:00:03+00:00",
+      "coletado_em": "2026-11-14T15:49:34.769231+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qwJ2lZTf99qxvqa-cqaoL0WUsIk=/0x0/filters:format(webp):quality(85)/29d67f88-4bd8-4526-b750-346ceef72c67.png",
+      "score": 5.9,
+      "cobertura": []
+    },
+    "texto_fonte": "Qual é o problema de usar um app desatualizado por muito tempo?\nPor André Lourenti Magalhães • Editado por Jones Oliveira |\nCom dezenas de apps instalados no celular, é comum esquecer de atualizar algum deles. Isso não é um problema a curto prazo, mas manter um aplicativo desatualizado por muito tempo pode impedir que a ferramenta funcione corretamente.\nOs apps recebem novas versões no Android e iOS para otimizar a experiência e trazer novos recursos. Ainda que algumas soluções sejam atualizadas em segundo plano, é comum que os serviços pouco acessados fiquem defasados.\nPor que você deve manter os apps atualizados\nA seguir, o Canaltech explica o que acontece ao deixar um app sem atualizações por muito tempo:\nApp não carrega\nEm alguns casos, o aplicativo simplesmente não carrega ou não passa da tela de login. A impressão inicial pode ser de algum erro ou instabilidade e nem sempre o software informa que há uma atualização pendente.\nDe qualquer forma, ao identificar dificuldade para entrar numa plataforma, vale abrir a App Store ou a Google Play Store para confirmar se não há uma versão mais nova disponível.\nFalta de novos recursos\nBaixar um novo update ajuda a liberar o acesso a novas ferramentas em apps. As desenvolvedoras podem publicar novidades pelo servidor (sem a necessidade de intervenção do usuário) ou por novas versões nas lojas de aplicativos.\nA situação se torna mais crítica quando o recurso é crucial para a plataforma funcionar — nesse caso, a versão desatualizada pode deixar de cumprir tarefas básicas.\nBrechas de segurança\nAtualizações menores não são menos importante: é comum que os pacotes venham com correções de bugs e ajustes de segurança. Portanto, usar uma versão anterior pode deixar o celular vulnerável a ameaças cibernéticas.",
+    "autor_fonte": "André Lourenti Magalhães",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/wVAqKW9zX-D4IN2FkvKGWlzQKyI=/1200x675/smart/filters:format(webp):quality(85)/a70f736a-4970-4065-a938-15852fa7f876.png",
+    "imagem_arquivo": "imagens/software-qual-e-o-problema-de-usar-um-app-desatua.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/apps/qual-e-o-problema-de-usar-um-app-desatualizado-por-muito-tempo/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "1550629ee152",
+      "titulo": "Malaysia plans new law using data center power consumption to catch AI GPU smugglers",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
+      "resumo": "Malaysia plans to track AI GPU imports and data center power consumption to combat chip smuggling. But will it be able to do so?",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-14T15:10:00+00:00",
+      "coletado_em": "2026-11-14T15:49:34.745096+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/XC7BztBiYaLzNEMYPXdhWc-1920-80.jpg",
+      "score": 5.625,
+      "cobertura": []
+    },
+    "texto_fonte": "Malaysia plans to introduce a new law requiring data center operators to disclose their AI accelerator imports and power consumption to prevent diversion of restricted hardware to countries like China and optimize the use of the country’s power infrastructure, reports Malay Mail. The authorities also plan to charge data center operators for unused electricity capacity they reserve. While the idea to use power consumption to detect potential GPU smuggling has merit, it also has flaws.\nMalaysia's Minister of Investment, Trade and Industry Datuk Seri Johari Abdul Ghani acknowledged on Thursday that some companies had rented space in Malaysian data centers to import GPUs legally, which they then shipped abroad in smuggling operations. To prevent such practices, Malaysia's Digital Ministry is now reviewing existing legislation to determine whether local authorities can take action against entities that re-export processors subject to U.S. export bans. The minister stressed that Malaysia wants AI accelerators imported into the country to be used domestically.\nThe proposed legislation will require data center operators to disclose the number of GPUs they import, their power consumption (presumably nameplate power consumption), the physical locations of their facilities, and the identities of operators and hyperscale customers. The government intends to track data center operations throughout their lifetime rather than limit oversight to the project approval stage.\nMeanwhile, data center operators will have to pay for all the electricity capacity they reserve, irrespective of their actual power consumption. For example, if a data center secures 100 MW of power capacity but only uses 50 MW, its operator will still have to pay for the remaining 50 MW. The measure is meant to discourage companies from reserving electricity capacity they may not need for another one to three years. As an added bonus, the measure will further discourage rerouting AI hardware to China while pretending it is used in Malaysia.\nWhile data on power consumption could help Malaysian authorities spot suspicious discrepancies between AI GPU imports and actual data center operations, it is virtually impossible to accurately determine the number of AI accelerators deployed at a facility based on power consumption alone. For example, Nvidia's H100 and H200 SXM GPUs are rated at 700W, whereas its B200 SXM accelerators are rated at 1,000W, yet neither necessarily consumes its rated power under actual workloads.\nFurthermore, without knowledge of server configurations, the power consumption of CPUs, memory, storage, and networking equipment, or the power usage effectiveness (PUE) of a particular facility, any estimates of the number of operational GPUs would be imprecise, to put it mildly. Also, there may be a considerable delay between GPU imports and their actual deployment. As a result, reliable verification would require physical inventory audits or other mechanisms to track individual processors.\nJohari said that Malaysian authorities were prepared to cooperate with their U.S. counterparts and provide information about facilities that house particular GPUs upon request. However, the minister did not specify whether the new legislation would require data center operators to disclose GPU models and serial numbers, or whether authorities would conduct on-site inspections.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nMalaysia has emerged as a major destination for data center investments in Southeast Asia as cloud service providers and AI infrastructure companies expand their presence in the region. To date, Malaysian authorities have approved 117 data center projects, 55 of which are already operational, according to Johari. The proliferation of local AI data centers makes Malaysia a suitable venue for rerouting restricted hardware to countries like China, as it is easier to hide a needle in a pile of needles than in a haystack.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nAnton Shilov is a contributing writer at Tom’s Hardware. Over the past couple of decades, he has covered everything from CPUs and GPUs to supercomputers and from modern process technologies and latest fab tools to high-tech industry trends.",
+    "autor_fonte": "Anton Shilov",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/XC7BztBiYaLzNEMYPXdhWc-1504-80.jpg",
+    "imagem_arquivo": "imagens/hardware-malaysia-plans-new-law-using-data-center.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "36a3bda31172",
+      "titulo": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "resumo": "Radiation and collisions reshape the planetary building materials.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-14T12:15:48+00:00",
+      "coletado_em": "2026-11-14T15:49:34.799245+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
+      "score": 5.978,
+      "cobertura": []
+    },
+    "texto_fonte": "Beta Pictoris is a young star, roughly 20 million years old, and located about 64 light-years away from Earth. It is surrounded by a vast disk of dust and rubble where planets are still forming—astronomers have already found three. In a new Science study, a team led by Sarah Betti, an astronomer at the Space Telescope Science Institute in Baltimore, used the James Webb Space Telescope to look for ice in this disk. Researchers found both water and carbon dioxide ice.\nThe water ice is glassy rather than crystalline, and it is mixed with carbon dioxide in roughly the same proportions we see in comets of our own Solar System. This suggests ingredients necessary to form water-rich worlds might be common around young stars.\nThe missing ice\nBeta Pictoris is one of the best studied stars in the sky. Its disk was among the first ever imaged, back in 1984, and we see it almost exactly edge-on, which makes it a natural laboratory for studying how planetary systems grow. It’s what astronomers call a debris disk, where the dust is constantly replenished by collisions among comets and planetesimals, small bodies that are the building blocks of planets.\nThe outer parts of the disk are far enough from the star that water and other volatile molecules should freeze into solid ice. The disk holds a large reservoir of carbon monoxide gas, which ultraviolet light from the star should destroy within 50 to 300 years. For that gas to still be there, something must keep replenishing it—most likely it’s released from ice when volatile-rich comets collide. The properties of the planet Beta Pictoris b also suggest it formed from ice-rich material.\nYet despite plenty of reasons to suspect the system is full of ice, earlier searches have failed to find it. Attempts to detect water vapor found nothing, and a search for the telltale dip that water ice leaves in starlight at a wavelength of 3 micrometers also failed.",
+    "autor_fonte": "Jacek Krywko",
+    "site_fonte": "Ars Technica",
+    "imagem_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
+    "imagem_arquivo": "imagens/astrofisica-james-webb-telescope-finds-ice-older-tha.jpg",
+    "imagem_credito": "Ars Technica",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "0224756e339d",
+      "titulo": "Europe’s Digital Wallets May Be More Traceable Than Intended",
+      "url": "https://spectrum.ieee.org/europe-digital-id-security-cryptography",
+      "resumo": "Millions of European Union citizens should soon have access to digital wallets , as member states roll out their implementations of the European Digital Identity Regulation ahead of an end of the year deadline. But the digital identity wallets, which are intended to provide a secure and private place to store identifying information such as bank account information, diplomas, and government IDs such as driver’s licenses, could leave behind a trail of cryptographic clues that makes it possible to recognize someone across services. Cryptographers warn that the technology protecting individual privacy may not yet go far enough to stop people from being tracked. Advances in cryptographic techniques since the law was passed in 2024 means this problem could be solved. However, the law doesn’t require that these techniques be used, and cryptographers that IEEE Spectrum spoke with are split as to whether the wallets should be rolled out at all without such a requirement in place, and whether they’ll be secure enough without it. With digital wallets, when someone is asked to provide their ID, a digital, verifiable form of the ID can be transmitted, via a QR code for example. When scanned wi",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-14T14:00:02+00:00",
+      "coletado_em": "2026-11-14T15:49:34.748551+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-bank-vault-covered-in-binary-code-and-circuit-board-lines.jpg?id=68680479&width=980",
+      "score": 4.8,
+      "cobertura": []
+    },
+    "texto_fonte": "Millions of European Union citizens should soon have access to digital wallets, as member states roll out their implementations of the European Digital Identity Regulation ahead of an end of the year deadline. But the digital identity wallets, which are intended to provide a secure and private place to store identifying information such as bank account information, diplomas, and government IDs such as driver’s licenses, could leave behind a trail of cryptographic clues that makes it possible to recognize someone across services. Cryptographers warn that the technology protecting individual privacy may not yet go far enough to stop people from being tracked.\nAdvances in cryptographic techniques since the law was passed in 2024 means this problem could be solved. However, the law doesn’t require that these techniques be used, and cryptographers that IEEE Spectrum spoke with are split as to whether the wallets should be rolled out at all without such a requirement in place, and whether they’ll be secure enough without it.\nWith digital wallets, when someone is asked to provide their ID, a digital, verifiable form of the ID can be transmitted, via a QR code for example. When scanned with a verification app, it would show basic identifying user information, according to Anna Lysyanskaya, a professor of computer science at Brown University.\nThe EU’s digital identity regulation already includes a requirement for selective disclosure, which allows people to share only the attributes requested by the person checking identification rather than handing over an entire document. A bar checking someone’s age, for example, could request a simple confirmation that a person is over 18 and not need their full name or address..\nTracking Risks in EU Digital Wallets\nWhen the person who requested the ID scans it, they still record some personal information, such as the digital signature and identifiers that are required to check the ID. This additional information can serve as a way of tracking a user even if the attributes shared are quite common. Two requesters could share this information to show they had interacted with the same person, says Johannes Schönrich, the director at the FIM Research Center for Information Management at the Augsburg Technical University of Applied Sciences in Germany\nIf two parties can share that information, that would be a problem: EU legislation specifies that the wallets should also be unlinkable, which means that “tracking a user by means of [these] digital attestations should not be possible,” says Schönrich.\nOne way to address the problem is to issue multiple versions of a user’s credentials, each with different cryptographic information attached, says Lysyanskaya. The wallet could keep track of which certificates have already been used, ensuring that a different one is presented during each interaction.\n“If you allow a service provider to say, look, I’m not supporting the Google protocol, I want a traditional verification, you essentially allow the service provider to do a kind of downgrade.” —Jaap-Henk Hoepman, Raadboud University\nThis approach has limitations. If the issuer—the government department that creates and digitally verifies that the credential is authentic—can identify who a credential was originally issued to, it could potentially help link the different versions back to the same person, according to Lysyanskaya.\n“Now anybody you’ve ever interacted with has some kind of way of tracking you,” she says.\n“If this kind of interaction becomes really ubiquitous … then unless we place a tremendous amount of trust in both issuers and verifiers to guard our privacy, we may encounter a situation where everybody knows at all times what everybody else is up to, by just leaving these little digital crumbs of information about yourself.”\nLysyanskaya was one of sixteen cryptographers who were invited to provide feedback for the European Commission when the law was passed in 2024. They recommended using anonymous credentials, which use zero-knowledge proofs to let people demonstrate their identity or eligibility without revealing unnecessary personal information.\nHow Zero-Knowledge Proofs Work\nZero-knowledge proofs allow one party to convince another that something is true without needing to send any additional information beyond the fact that it is true. For example, they would allow someone to demonstrate that they hold a valid government-issued credential, or meet a particular requirement, without revealing the underlying personal information or creating the same linkable record of the interaction, says Lysyanskaya.\nIf these two people, the person checking the ID and the person being asked for it ever meet again, there will be no record of any earlier encounters.\nThe service provider could still verify that the credential is authentic, has not expired or been revoked, and has not been manipulated. However, it would receive less information than it does under traditional verification methods.\n“You learn exactly what you need, but not a single bit more about anything that might accidentally be disclosed but is not that necessary,” says Schönrich.\nZero-knowledge proofs have existed in cryptography since the 1980s, but teams of researchers have only recently developed techniques to run them on more constrained devices like smartphones. Shortly after the EU’s digital wallets regulations were passed in 2024, for example, a research team at Google found a way to generate zero-knowledge proofs using credentials signed with the elliptic curve digital signature algorithm, which generates and authenticates digital signatures efficiently enough to be used in a digital wallet.\nThose kinds of credentials allow individuals to prove that a credential is valid without revealing the cryptographic signature that could otherwise make separate interactions linkable, according to Jaap-Henk Hoepman, an associate professor of computer science at Radboud University in the Netherlands.\nThe European Commission wants to conduct more research on implementing zero-knowledge proofs before making them a mandatory requirement for wallet operators from day 1. Because of that, it considers the proofs to be “a core roadmap item,” according to the universal digital blueprint for the wallets. EU governments are free to implement them on a per-country basis if they so choose.\nThe Commission said on its GitHub page for the wallets that zero-knowledge proofs are not yet mandatory because “there is currently no clear, certifiable approach agreed at EU level,” and that it needs to do more pan-European consultation with cryptographers and groups such as the European Cybersecurity Certification Group (ECCG) that oversee the profession.\n“Refinement at this stage focuses on establishing common understanding and boundaries, rather than immediate deployment to secure and privacy-preserving future integration,” their GitHub post from June 2026 reads.\nSchönrich says he understands the Commission’s position, but wants them to commit to a binding timeline for introducing zero-knowledge proofs in the next few years for a second version of the wallets.\nKarsten Wildberger, Germany’s Federal Minister for Digitalization and State Modernization, unveils the country’s version of the European Union’s EUDI digital wallet in September 2026.Bernd von Jutrczenka/picture alliance/Getty Images\nZero-Knowledge Proofs in EU Digital Wallets\nThe cryptographers that IEEE Spectrum spoke with are split on whether the EU should ask states to roll out digital wallets without adding in zero-knowledge proofs. The regulation does not specify what type of cryptographic protocols should be used as each country implements its version of the digital wallet, just the privacy requirements.\nHoepman argues that zero-knowledge proofs should be mandated by law so that wallets have to implement this technology. Otherwise, the wallet will not have strong enough privacy protections.\n“If you allow a service provider to say, look, I’m not supporting the Google protocol, I want a traditional verification, you essentially allow the service provider to do a kind of downgrade,” Hoepman says. (Some of the cryptographers IEEE Spectrum spoke with advocate for another protocol called the BBS Signature scheme.)\nSchönrich believes the EU should proceed with the initial rollout rather than delay the wallets, as even without offering the strongest unlinkability guarantees the wallets are still privacy-friendly. Using lessons from their deployment could also inform a second generation that incorporates the newer cryptographic methods.\nHowever, Hoepman says that online service providers will not want to migrate to a second version because “it will cost them money,” so many will still use the initial version.\nEven if a second version becomes available, Lysyanskaya argues that some users may never update their digital wallets unless it becomes mandatory, so the first version needs to be private enough as to not put their IDs at risk.\nHoepman argues that any decision to delay the rollout should be made before the wallets become widely available across Europe. Once businesses and governments have built systems around the first generation, he says, it will be difficult to reverse course.\nAnna Desmarais is an award-winning Canadian journalist based in France with a decade of experience writing, filming and broadcasting on both sides of the Atlantic. She covers artificial intelligence, emerging technologies, space, and disinformation. She has reported everywhere from the high Arctic to the hills of Rwanda for outlets including WIRED, Euronews, France 24, and the Canadian Broadcasting Corporation (CBC).",
+    "autor_fonte": "Anna Desmarais",
+    "site_fonte": "IEEE Spectrum",
+    "imagem_url": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-bank-vault-covered-in-binary-code-and-circuit-board-lines.jpg?id=68680479&width=1200&height=600&coordinates=0%2C665%2C0%2C665",
+    "imagem_arquivo": "imagens/quantica-europes-digital-wallets-may-be-more-trac.jpg",
+    "imagem_credito": "IEEE Spectrum",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://spectrum.ieee.org/europe-digital-id-security-cryptography",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "59ea2620afc6",
+      "titulo": "The Hackintosh might be back, with macOS booting on Snapdragon and x86 PCs",
+      "url": "https://www.techspot.com/news/114551-hackintosh-might-back-macos-booting-snapdragon-x86-pcs.html",
+      "resumo": "Users can now try an early version of a new Arm-to-x86 translation layer that aims to support macOS on most recent Intel and AMD processors. Elsewhere, another project has booted the operating system on a Snapdragon-powered Asus Zenbook with basic functionality. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-14T14:26:00+00:00",
+      "coletado_em": "2026-11-14T15:49:34.756303+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-14-ts3_thumbs-cd2.jpg",
+      "score": 5.245,
+      "cobertura": []
+    },
+    "texto_fonte": "In brief: For decades, users who wanted to use macOS without buying a Mac could build a Hackintosh. Hackintoshing became more difficult after Apple transitioned to in-house Arm processors, but at least two projects have recently emerged that aim to revive the practice on Snapdragon and x86 processors.\nUsers can now try an early version of a new Arm-to-x86 translation layer that aims to support macOS on most recent Intel and AMD processors. Elsewhere, another project has booted the operating system on a Snapdragon-powered Asus Zenbook with basic functionality.\nAlthough Hackintoshes have existed since the 1980s, running macOS on non-Apple devices gained popularity in the early 2000s. Apple's shift from PowerPC to Intel processors in 2006 made the process much easier, since the Intel chips used for Windows devices were more widely available. However, the company's transition to Apple Silicon, a homegrown Arm architecture, was thought to have ended Hackintoshes for good.\n – Miguel C (e/acc) 👁️ (@Acelogic_) October 22, 2026\nSnapintosh, which engineer Miguel Cruz revealed last month, might be the first serious effort to break macOS free of Apple Silicon via a Qualcomm Snapdragon SoC. Brief social media clips show him booting the operating system, shifting between various desktop modes, and opening numerous programs on an Asus Zenbook A16 laptop, but much work remains.\nCurrently, Snapintosh only supports the Zenbook A16's Snapdragon X2 Elite processor, requires a Mac host, and doesn't work on battery power. Furthermore, Wi-Fi, audio, cameras, Bluetooth, sleep, and external displays don't work yet, and the OS can't maintain a stable 60 fps. It remains unclear when a beta will be available on the project's GitHub repository.\n – Miguel C (e/acc) 👁️ (@Acelogic_) October 20, 2026\nMeanwhile, engineer Tyler Smith is developing Stela, which uses an Arm-to-x86 translator to run macOS on a much broader range of PCs. The open beta supports Intel Nehalem or later and AMD Bulldozer or later. It also only requires 8GB of RAM and an Nvidia GTX 16-series or newer graphics card.\nTo try Stela, download the beta from the GitHub repository, run the setup executable on a Windows device, and select a USB stick as the installation destination. The online installer requires 8GB of free storage space, while the offline version requires 32GB, and the target device's installation drive requires 60GB. Like Snapintosh, Stela doesn't yet support Wi-Fi or audio, but Bluetooth works.\nInterested users can discuss Stela and share tips on the project's Discord server.",
+    "autor_fonte": "Daniel Sims",
+    "site_fonte": "TechSpot",
+    "imagem_url": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-14-ts3_thumbs-cd2.jpg",
+    "imagem_arquivo": "imagens/computadores_pessoais-the-hackintosh-might-be-back-with-macos.jpg",
+    "imagem_credito": "TechSpot",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.techspot.com/news/114551-hackintosh-might-back-macos-booting-snapdragon-x86-pcs.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "c231d25e54b9",
+      "titulo": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "resumo": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-13T16:00:12+00:00",
+      "coletado_em": "2026-11-14T15:49:34.759166+00:00",
+      "imagem_feed": null,
+      "score": 4.755,
+      "cobertura": [
+        "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+      ]
+    },
+    "texto_fonte": "ChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf. The option will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a U.S.-issued Visa, Mastercard, or American Express.\nOpenAI says that users are fully in control of the purchases, as they’re able to review the items, the total, and the payment card that will be used to complete the transaction before the checkout occurs. In addition, users will approve the purchases directly with a security check like Face ID or a fingerprint, which creates a record of their transaction.\nThe addition comes as consumer-facing AI tools are working to find the right product-market fit, in terms of how they can help people be more efficient as they complete various tasks. While companies like DoorDash and Uber have so far reported low numbers of orders placed by AI agents, Meta’s Muse, which now has over 10 million users, has seen AI-assisted shopping become a top activity on its app.\nOther personal AI agents, like Instinct, also support making purchases on users’ behalf.\nIt’s no surprise, then, that OpenAI would want to enter this space more with an agentic shopping feature of its own.\nTo get started, ChatGPT subscribers add their eligible payment cards to the new ChatGPT Wallet, then ask their dot to help with a purchase. (This setup is a one-time thing; users don’t have to re-enter their payment information every time they buy.) When it’s time to transact, ChatGPT’s Wallet charges the selected card using a payment token, which is a substitute for the user’s actual card details, so that information isn’t shared with either the dot or the merchant.\nThe merchant will automatically receive what it needs to fulfill the order from the dot, like the shipping address and contact information, OpenAI says. The company notes that customers who shop via their dots will still be able to earn their credit card rewards and be able to take advantage of protections that typically come with cards, like being able to dispute transactions.\nThe limited availability at launch will allow OpenAI to test and improve the feature and its capabilities before rolling it out more broadly. In the future, the company plans to offer users more control over the feature by allowing them to set spending limits or configure other parameters around purchase categories or time periods, so they can pre-approve purchases that their agent can then handle more autonomously.\nIt also aims to make the agentic shopping feature an option at a broader number of supported retailers. This could be a challenge in some areas, where retailers are blocking AI agents from using their site; on the shopping front, the largest retailer to ban AI agents is Amazon, as it aims to steer users to its own AI agent, Alexa, instead.\nTo help retailers adapt to agentic commerce, OpenAI also published a Commerce Partner Playbook that offers tools and guidance to sites that want to support customers using agents.",
+    "autor_fonte": "Sarah Perez",
+    "site_fonte": "TechCrunch",
+    "imagem_url": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
+    "imagem_arquivo": "imagens/inteligencia_artificial-chatgpts-new-wallet-lets-ai-agents-shop.jpg",
+    "imagem_credito": "TechCrunch",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "faa40dfeff52",
+      "titulo": "India seeks to triple clean energy capacity to 900 gigawatts by 2035, but major hurdles remain",
+      "url": "https://techxplore.com/news/2026-11-india-triple-energy-capacity-gigawatts.html",
+      "resumo": "With the United Nations climate talks underway, India has set an ambitious goal of installing enough clean power to supply more than 1 billion homes by 2035, and has approved nearly $20 billion in power grid upgrades to ease bottlenecks that prevent some solar and wind energy from reaching consumers.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-14T12:00:01+00:00",
+      "coletado_em": "2026-11-14T15:49:34.760107+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-cop31-india-re.jpg",
+      "score": 5.153,
+      "cobertura": []
+    },
+    "texto_fonte": "India seeks to triple clean energy capacity to 900 gigawatts by 2035, but major hurdles remain\nWith the United Nations climate talks underway, India has set an ambitious goal of installing enough clean power to supply more than 1 billion homes by 2035, and has approved nearly $20 billion in power grid upgrades to ease bottlenecks that prevent some solar and wind energy from reaching consumers.\nThe world's most populous country and one of the biggest carbon polluters is also among the fastest to expand clean power. Accelerating the shift away from fossil fuels is a key goal of this year's climate talks, known as COP31, in Turkey.\nIndia announced the 900-gigawatt goal in late September. It covers nonfossil power sources, including solar, wind, hydropower and nuclear energy. It is nearly twice India's existing target of 500 gigawatts of clean power by 2030. India's current clean power capacity of just over 300 gigawatts ranks it third behind China and the United States.\nExperts say meeting the target could lower electricity costs, curb coal construction and accelerate the transition to clean energy.\nThe push comes as India struggles to use all the renewable electricity it can generate because of inadequate transmission infrastructure. The new goal refers to installed generating capacity, rather than the amount of electricity actually produced.\n\"If the grid doesn't catch up, then there is no way India can meet this target,\" Nikit Abhyankar from the India Energy and Climate Center at the University of California, Berkeley, said. \"A robust and innovative transmission grid is an absolute must.\"\nThe government also approved nearly $20 billion in funding for transmission infrastructure and battery storage under its Green Energy Corridor plan.\nCheaper clean electricity could reduce India's reliance on coal\nEconomist Ajay Shah of the Mumbai-based XKDR Forum described the transition as the emergence of an Indian \"electrostate,\" in which electricity increasingly replaces coal and petroleum products.\n\"So now in India you have two assets—not only do you have cheap labor, you also have cheap energy,\" Shah said.\nThe shift mirrors a global trend toward cleaner power, even as fossil fuel energy remains a key energy source amid rising electricity demand. Brazil, which ranks close behind India in clean energy capacity, projects renewables will supply nearly 90% of its electricity in the next decade, even as it expands oil and gas production. In the United States, where President Donald Trump supports fossil fuels, electricity demand is expected to grow by 40%, with natural gas remaining a major source.\nIndia's clean energy expansion could help industries replace costly imported fossil fuels with domestically produced electricity. Abhyankar said solar and wind power, even when combined with battery storage, are increasingly cost-competitive with power from coal, oil and natural gas.\nLower generation costs could eventually translate into cheaper electricity for households, though utilities also factor in transmission costs and other expenses.\nThere are concerns about maintaining a reliable power supply\nHowever, India's continued dependence on coal presents a major challenge to its clean energy transition. Coal generated about 71% of the country's electricity in 2025, according to energy think tank Ember.\nIndia's power planners remain concerned about meeting growing demand and maintaining reliable electricity when solar and wind output fluctuates. Ghanshyam Prasad, chair of the Central Electricity Authority, said earlier this month that India could need as much as 150 gigawatts of additional coal-fired generating capacity by 2035.\nEmber energy analyst Neshwin Rodrigues said coal will remain important for years, particularly until large-scale batteries can store solar energy to reliably meet demand when the sun isn't shining.\nExisting coal plants also pose operational challenges. Many cannot quickly reduce output when renewable electricity becomes available, making it difficult for the grid to accommodate growing solar and wind power.\nResearchers at Berkeley estimate that beyond approximately 35 gigawatts of coal capacity already under construction, additional coal plants would not be economically necessary under the country's new clean energy goals. Berkeley's Abhyankar warned that newly built coal plants could become stranded assets if the government meets its renewable energy targets.\nGrid improvements and finance remain hurdles\nMeeting the 2035 target requires more than building more renewable power plants. Their electricity must be able to reach consumers.\nIndia's rapid clean energy expansion is already testing the grid's limits. Although clean power accounted for 55% of installed power capacity by September, it generated about a third of the country's electricity in the preceding three months, according to government data.\nOver the past 16 months, India curtailed enough solar generation to power about 10 million homes because the grid could not accommodate it, according to government data and Ember.\nThe Green Energy Corridor plan aims to help states accommodate up to 135 gigawatts of renewable energy by 2033 by adding thousands of kilometers (miles) of transmission lines. The plan also includes additional battery storage.\nBut analysts question whether that's enough. The Berkeley researchers estimate that India needs as much as 250 gigawatts of energy storage to integrate renewable electricity over the next decade.\n\"You either have more transmission to get the power out and transfer it. Or if you cannot get the power out, you store it and then transfer it during some other hours,\" Ember's Rodrigues said.\nShah, the economist, said two types of government policy could discourage investment in renewable energy: requirements that businesses pay higher rates to subsidize other consumers, and restrictions on electricity producers selling directly to private buyers.\nHe said India needs to allow electricity prices to rise and fall based on supply and demand, and make it easier for foreign investors to fund power projects. Domestic financing alone would not be enough to meet the country's growing energy needs, he said.\n\"Currently, the government is a man in the middle, trying to interfere in a transaction between a private generator and a private buyer,\" which creates a \"choke point,\" Shah said.\nBattery supply chains pose another challenge, particularly India's dependence on imported battery cells, mainly from China. Abhyankar said expanding domestic battery manufacturing could help India capture more economic benefits from the transition.\nDespite those challenges, Abhyankar said India has already overtaken the United States in annual renewable energy growth, and its experience in expanding clean energy could be a model for other developing countries.\n\"What India is doing can be replicated in many countries in the Global South and can help these countries make the energy transition in an economically affordable manner,\" he said.\n© 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+    "autor_fonte": "Sibi Arasu",
+    "site_fonte": "Tech Xplore",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/climate-cop31-india-re.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-india-seeks-to-triple-clean-energy-capac.jpg",
+    "imagem_credito": "Tech Xplore",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techxplore.com/news/2026-11-india-triple-energy-capacity-gigawatts.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "8a1e44df695e",
+      "titulo": "R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
+      "url": "https://tecnoblog.net/noticias/r-34-bilhoes-binance-cobriu-100-do-prejuizo-do-maior-roubo-de-cripto-da-historia/",
+      "resumo": "Corretora de criptomoedas anunciou aos clientes que cobriu os ativos que foram roubados em ataque hacker no final de outubro. R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-14T09:29:01+00:00",
+      "coletado_em": "2026-11-14T15:49:34.766220+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/como-depositar-dinheiro-na-binance-001-edited.jpg",
+      "score": 4.136,
+      "cobertura": []
+    },
+    "texto_fonte": "Resumo IA\n- A Binance anunciou ter cobriu 100% do prejuízo de R$ 34 bilhões decorrente de um ataque hacker no dia 29 de outubro.\n- A cobertura foi feita com recursos do fundo de emergência, compra de novos tokens e outras fontes.\n- A empresa afirmou que não repassará as perdas para os clientes, mas não informou se recuperou alguma parte dos ativos roubados.\nA corretora Binance disse que cobriu 100% dos US$ 6,3 bilhões (R$ 34 bilhões, em conversão direta) que haviam sido roubados no ataque hacker de 29 de outubro. A empresa anunciou a normalização em um post no X. Além disso, também foi publicada uma nova Prova de Reserva indicando a reposição dos criptoativos nas carteiras dos clientes afetados.\nApesar da cobertura integral do roubo, a reposição não significa recuperação: os bilhões de dólares roubados em criptomoedas ainda não voltaram para a empresa. Segundo o site Quartz, a Binance combinou recursos do seu fundo de emergência com a compra de novos tokens e outras fontes para chegar aos 100% do valor roubado.\nEsse pode ter sido o maior roubo a criptoativos já registrado. A maior parte do montante foi transferida em apenas 20 minutos. Segundo investigação feita pela TRM Labs, empresa de inteligência em blockchain e cripto, os responsáveis fazem parte do grupo TraderTraitor, supostamente ligado ao governo da Coréia do Norte. O país nega qualquer relação com o ataque.\nOperação de guerra para repor os ativos\nUma parte relevante do recurso roubado foi reposta dois dias após as transações fraudulentas. A Binance anunciou em 31 de outubro que havia combinado diferentes fundos para chegar ao montante de US$ 6 bilhões. Entre as fontes estão o seu fundo de emergência SAFU, seu fundo de garantia e também a partir de sua tesouraria corporativa.\nNas últimas semanas, a empresa conseguiu os últimos 10% por meio da compra de tokens, tanto na bolsa de cripto quanto via OTC (over-the-counter, ou mercado de balcão), em negociação direta.\nDesde que a situação foi divulgada, a Binance assumiu todos os custos. Até o momento, a empresa não revelou se conseguiu recuperar alguma parte das ações roubadas, mas garantiu que não iria repassar as perdas para os clientes.\nComo aconteceu o ataque hacker?\nO roubo teria sido realizado por meio do acesso indevido ao computador de um engenheiro de DevOps (setor de desenvolvimento e operações). Uma vez com as credenciais da vítima, os cibercriminosos fizeram diversas transferências autorizadas internamente, sem a necessidade de burlar a segurança para enviar as ações. Segundo a Binance, essa não foi a única vulnerabilidade no caso, e a solução imediata foi bloquear todas as movimentações pela plataforma. O sistema só foi retomado no dia 3 de novembro.\nSegundo relatório da TRM Labs, os hackers transformaram um pool de liquidez em uma rota de lavagem de dinheiro. Basicamente, esses ativos foram transferidos e trocados por criptomoedas recém cunhadas pelos próprios criminosos. O valor foi convertido em dólares e, depois, reconvertidos em cripto, utilizando moedas como Ethereum (ETH) e Bitcoins (BTC). Isso aconteceu em diversas carteiras, dificultando o rastreio por completo.",
+    "autor_fonte": "Yuri Hildebrand",
+    "site_fonte": "Mobilon Mídia LTDA",
+    "imagem_url": "https://files.tecnoblog.net/wp-content/uploads/2026/11/como-depositar-dinheiro-na-binance-001-edited-2048x1152.jpg",
+    "imagem_arquivo": "imagens/ciberseguranca-r-34-bilhoes-binance-cobriu-prejuizo-do.jpg",
+    "imagem_credito": "Mobilon Mídia LTDA",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://tecnoblog.net/noticias/r-34-bilhoes-binance-cobriu-100-do-prejuizo-do-maior-roubo-de-cripto-da-historia/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]
