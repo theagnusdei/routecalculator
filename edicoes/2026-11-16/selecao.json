@@ -1,0 +1,618 @@
+{
+  "medicina": [
+    {
+      "id": "40a2ec682aed",
+      "titulo": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
+      "url": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
+      "resumo": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-15T15:05:15+00:00",
+      "coletado_em": "2026-11-15T16:22:14.845584+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2024/09/GettyImages-1237273640-1-1024x576.jpg",
+      "score": 6.207,
+      "cobertura": []
+    },
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-15T16:22:14.844424+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "620a21301f08",
+      "titulo": "Integrated health service delivery through medical mobile units helped to reduce deaths among individuals at risk for HIV who also inject drugs",
+      "url": "https://www.nih.gov/news-events/news-releases/integrated-health-service-delivery-through-medical-mobile-units-helped-reduce-deaths-among-individuals-risk-hiv-who-also-inject-drugs",
+      "resumo": "NIH-funded clinical trial shows mobile units may help overcome significant barriers to accessing HIV and addiction treatment, but replication is needed.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-15T16:22:14.844424+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "9e686c543495",
+      "titulo": "A blood-pressure drug may activate health-promoting brown fat",
+      "url": "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+      "resumo": "Large retrospective study suggests the tissue deters more than cardiovascular disease.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-15T16:22:14.844424+00:00",
+      "imagem_feed": null,
+      "score": 5.0,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "e23abe21d5d0",
+      "titulo": "Giant, prehistoric rodent fossils discovered in southern Thailand",
+      "url": "https://phys.org/news/2026-11-giant-prehistoric-rodent-fossils-southern.html",
+      "resumo": "An international team of paleontologists, including researchers from McGill University, has discovered \"remarkably large\" rodent fossils in the pit of a mine in southern Thailand. The finding, published in Scientific Reports, provides a new perspective on the early manifestation of rodent gigantism—the process by which animals evolve to become larger—demonstrating that the evolutionary history of large-bodied rodents is considerably older and more geographically widespread than previously recognized, the researchers said.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-15T15:00:01+00:00",
+      "coletado_em": "2026-11-15T16:22:14.845734+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/illustration-of-yakamy.jpg",
+      "score": 4.898,
+      "cobertura": []
+    },
+    {
+      "id": "50743857d154",
+      "titulo": "Taiwan Indigenous farmer revives climate-resilient millet",
+      "url": "https://phys.org/news/2026-11-taiwan-indigenous-farmer-revives-climate.html",
+      "resumo": "Indigenous farmer Banu Ismahasan walks through a golden field of tall stalks in southeastern Taiwan, harvesting by hand the grain heads of an ancient crop resistant to extreme weather.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-15T13:40:08+00:00",
+      "coletado_em": "2026-11-15T16:22:14.845734+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/oil-millet-a-tradition.jpg",
+      "score": 4.261,
+      "cobertura": []
+    },
+    {
+      "id": "1d9c84f2da72",
+      "titulo": "Urban expansion causes ecological collapse in streams in the São Paulo Metropolitan Area",
+      "url": "https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html",
+      "resumo": "The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. A study published in August in the journal Nature Cities reveals that the impact of the metropolis goes far beyond a simple reduction in species. Degradation selectively eliminates organisms based on their size and simplifies ecological interactions. Networks of 190 connections plummet to just three.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-14T22:00:01+00:00",
+      "coletado_em": "2026-11-15T16:22:14.845734+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-expansion-causes.jpg",
+      "score": 3.742,
+      "cobertura": []
+    },
+    {
+      "id": "e9166ef1d741",
+      "titulo": "Scientists discover a bizarre paradox among endangered penguins",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+      "resumo": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions. Even more surprisingly, the tiny Bounty Islands support nearly as many breeding pairs as the Antipodes Islands, despite being 40 times smaller.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-15T03:42:52+00:00",
+      "coletado_em": "2026-11-15T16:22:14.845905+00:00",
+      "imagem_feed": null,
+      "score": 3.363,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "6e4f12848fc1",
+      "titulo": "Robots recognize the shape of an arena by messaging each other",
+      "url": "https://techxplore.com/news/2026-11-robots-arena-messaging.html",
+      "resumo": "Humans can create loose maps of environments they are exploring in their minds, using their senses and navigation skills. Many robots, on the other hand, rely on set maps of known environments or new maps produced using data collected by their sensors.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-14T13:40:02+00:00",
+      "coletado_em": "2026-11-15T16:22:14.846597+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/robots-recognize-the-s.jpg",
+      "score": 3.478,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "3570c0313092",
+      "titulo": "Qual é o problema de usar um app desatualizado por muito tempo?",
+      "url": "https://canaltech.com.br/apps/qual-e-o-problema-de-usar-um-app-desatualizado-por-muito-tempo/",
+      "resumo": "Com dezenas de apps instalados no celular, é comum esquecer de atualizar algum deles. Isso não é um problema a curto prazo, mas manter um aplicativo desatualizado por muito tempo pode impedir que a ferramenta funcione corretamente . Os apps recebem novas versões no Android e iOS para otimizar a experiência e trazer novos recursos. Ainda que algumas soluções sejam atualizadas em segundo plano, é comum que os serviços pouco acessados fiquem defasados . Por que você deve manter os apps atualizados A seguir, o Canaltech explica o que acontece ao deixar um app sem atualizações por muito tempo: App não carrega Em alguns casos, o aplicativo simplesmente não carrega ou não passa da tela de login . A impressão inicial pode ser de algum erro ou instabilidade e nem sempre o software informa que há uma atualização pendente. De qualquer forma, ao identificar dificuldade para entrar numa plataforma, vale abrir a App Store ou a Google Play Store para confirmar se não há uma versão mais nova disponível. Falta de novos recursos Baixar um novo update ajuda a liberar o acesso a novas ferramentas em apps . As desenvolvedoras podem publicar novidades pelo servidor (sem a necessidade de intervenção do u",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-14T14:00:03+00:00",
+      "coletado_em": "2026-11-15T16:22:14.854412+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qwJ2lZTf99qxvqa-cqaoL0WUsIk=/0x0/filters:format(webp):quality(85)/29d67f88-4bd8-4526-b750-346ceef72c67.png",
+      "score": 4.536,
+      "cobertura": []
+    },
+    {
+      "id": "3de4b230ec25",
+      "titulo": "Qual é a diferença entre os modelos Muse Wonder, Muse Spark e Muse Ember?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-os-modelos-muse-wonder-muse-spark-e-muse-ember/",
+      "resumo": "A Meta desenvolveu três modelos de inteligência artificial da família Muse , cada um pensado para um tipo de tarefa. O Muse Wonder é indicado para atividades complexas, que exigem raciocínio e planejamento, e o Muse Spark atende às interações do dia a dia com a assistente Meta AI. Já o Muse Ember foi criado para executar tarefas repetitivas com rapidez e baixo custo. Os três modelos fazem parte do trabalho do Meta Superintelligence Labs (MSL) , divisão da empresa dedicada ao desenvolvimento de IA avançada. Embora pertençam à mesma família, eles têm capacidades e recursos diferentes, o que também muda a forma de usar cada um. Qual é a diferença entre o Muse Wonder, Muse Spark e Muse Ember? A principal diferença entre os três modelos está no tipo de atividade que cada um consegue realizar . O Muse Wonder é o mais avançado da família e atende a tarefas complexas, como programação, análise de documentos e trabalhos que exigem autonomia por longos períodos. O Muse Spark é mais compacto e rápido, com suporte a textos, imagens, vídeos e áudio. Ele funciona como base da assistente Meta AI nos aplicativos da empresa e nos óculos inteligentes Ray-Ban Meta e Oakley Meta. Já o Muse Ember prior",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-15T14:30:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.854412+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/otpqo0i0Ysos6O25e53iQ6esANQ=/0x0/filters:format(webp):quality(85)/bdab883d-a035-4832-a4dd-4647b3ef4fea.jpeg",
+      "score": 4.395,
+      "cobertura": []
+    },
+    {
+      "id": "423192d35d0d",
+      "titulo": "Cloudflare Introduces Private Origins for Application Services",
+      "url": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Cloudflare recently made Application Services for Private Origins generally available, allowing public traffic to reach applications hosted on private networks without exposing their IP addresses or opening inbound firewall ports. Private-to-private connectivity is not yet supported. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-15T06:18:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.846763+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/cloudflare-private-origins/en/headerimage/generatedHeaderImage-1793395278236.jpg",
+      "score": 4.318,
+      "cobertura": []
+    },
+    {
+      "id": "32b14552292e",
+      "titulo": "Anthropic Outlines Its AI-Powered Code Review Process for Claude Code",
+      "url": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Anthropic has outlined how the Claude Code team handles code reviews as AI agents increasingly contribute to its codebase. The approach relies on multiple layers of automated verification, AI-powered reviews, and risk-based human approval, aiming to reduce manual review time without increasing regressions or production incidents. By Robert Krzaczyński",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-15T09:55:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.846763+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/claude-code-review/en/headerimage/generatedHeaderImage-1794735663601.jpg",
+      "score": 4.078,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "25ef49503ab1",
+      "titulo": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return",
+      "resumo": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-15T12:00:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847344+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/bdFUC46Kd6JVWXBBXwJACc-1920-80.png",
+      "score": 5.754,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      ]
+    },
+    {
+      "id": "c8e9a463f8d3",
+      "titulo": "The original Xbox was released 25 years ago today",
+      "url": "https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era",
+      "resumo": "Microsoft’s first games console hit North America 25 years ago today powered by a Pentium III CPU and Nvidia GPU.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-15T11:00:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847344+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Zx8v2NCkpQnoktZ8nzaiS7-1920-80.jpg",
+      "score": 5.667,
+      "cobertura": []
+    },
+    {
+      "id": "ab8909b5ae85",
+      "titulo": "357 detailed CPU die shots spanning 1971 to 2024 crammed into a new gallery",
+      "url": "https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail",
+      "resumo": "A CPU enthusiast has put together an eye-popping visual database containing crystal clear detailed die shots of 357 legendary, and some lesser-known, processors.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-15T16:00:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847344+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/HPnMtb7oLbF3AwF8u3rXDU-1920-80.jpg",
+      "score": 5.658,
+      "cobertura": []
+    },
+    {
+      "id": "5d036594fd6c",
+      "titulo": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+      "resumo": "The judge characterized the three companies as \"hawks flying in formation\" when it came to their business decisions.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-15T15:09:50+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847344+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "score": 5.065,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "a374723948f5",
+      "titulo": "New observations challenge evidence for an 'outsize' black hole in the early universe",
+      "url": "https://phys.org/news/2026-11-evidence-outsize-black-hole-early.html",
+      "resumo": "A recent reanalysis of the outsize black hole galaxy UHZ1 using existing X-ray data and new infrared observations challenges a previous groundbreaking claim. Three years ago, this galaxy made news for hosting an unusually massive and heavily dust-obscured black hole formed through direct collapse. Led by Fan Zou of the University of Michigan, the new study reports no signs of hidden black hole activity. The paper, published in The Astrophysical Journal on Oct. 14, suggests UHZ1 could be a low-mass, metal-poor, star-forming galaxy.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-15T14:00:04+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847943+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-observations-chall-1.jpg",
+      "score": 5.794,
+      "cobertura": []
+    },
+    {
+      "id": "45256f4846ed",
+      "titulo": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+      "resumo": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-15T13:04:09+00:00",
+      "coletado_em": "2026-11-15T16:22:14.848118+00:00",
+      "imagem_feed": null,
+      "score": 5.553,
+      "cobertura": [
+        "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html"
+      ]
+    },
+    {
+      "id": "f475aa88e0ed",
+      "titulo": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
+      "url": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html",
+      "resumo": "Thanks to the gravitational lensing caused by a massive galaxy cluster and high-resolution images from the James Webb Space Telescope (JWST), astronomers discovered an exploding star when the universe was 4.9 billion years old. The discovery paper, posted to the arXiv preprint server on Oct. 23, presents a prediction for when the rest of the distorted images of SN Ares will arrive.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-14T18:20:01+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847943+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-cosmic-magnifying-gl.jpg",
+      "score": 5.11,
+      "cobertura": []
+    },
+    {
+      "id": "162522190d56",
+      "titulo": "Is this iconic black hole image accurate? New study delivers an independent result",
+      "url": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
+      "resumo": "On April 10, 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the center of a galaxy known as M87, about 55 million light-years away.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-15T01:30:01+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847943+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-this-iconic-black-h.jpg",
+      "score": 4.897,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "0224756e339d",
+      "titulo": "Europe’s Digital Wallets May Be More Traceable Than Intended",
+      "url": "https://spectrum.ieee.org/europe-digital-id-security-cryptography",
+      "resumo": "Millions of European Union citizens should soon have access to digital wallets , as member states roll out their implementations of the European Digital Identity Regulation ahead of an end of the year deadline. But the digital identity wallets, which are intended to provide a secure and private place to store identifying information such as bank account information, diplomas, and government IDs such as driver’s licenses, could leave behind a trail of cryptographic clues that makes it possible to recognize someone across services. Cryptographers warn that the technology protecting individual privacy may not yet go far enough to stop people from being tracked. Advances in cryptographic techniques since the law was passed in 2024 means this problem could be solved. However, the law doesn’t require that these techniques be used, and cryptographers that IEEE Spectrum spoke with are split as to whether the wallets should be rolled out at all without such a requirement in place, and whether they’ll be secure enough without it. With digital wallets, when someone is asked to provide their ID, a digital, verifiable form of the ID can be transmitted, via a QR code for example. When scanned wi",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-14T14:00:02+00:00",
+      "coletado_em": "2026-11-15T16:22:14.849038+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-bank-vault-covered-in-binary-code-and-circuit-board-lines.jpg?id=68680479&width=980",
+      "score": 3.436,
+      "cobertura": []
+    },
+    {
+      "id": "f6e33a255f41",
+      "titulo": "Guia de compra para Black Friday: 4 TVs para comprar de olhos fechados",
+      "url": "https://canaltech.com.br/tv/guia-de-compra-para-black-friday-4-tvs-para-comprar-de-olhos-fechados/",
+      "resumo": "Quem procura uma TV intermediária ou mais avançada não precisa olhar apenas para a resolução 4K. A tecnologia do painel e o sistema de iluminação fazem uma diferença enorme na qualidade da imagem, principalmente em cenas escuras, conteúdos HDR e ambientes muito iluminados. Na faixa de R$ 3 mil a R$ 6 mil, já existem opções com tecnologias bem mais interessantes do que o LED convencional. Para este guia, separamos quatro categorias e uma recomendação de 55 polegadas para cada uma: QLED, Mini LED, Micro RGB e OLED. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Vale esclarecer uma diferença: MicroLED e Micro RGB não são a mesma coisa . As TVs MicroLED tradicionais ainda estão muito acima dessa faixa de preço. Por isso, a alternativa mais próxima e acessível para esta seleção é a Micro RGB. QLED: Samsung Q7F Mini LED: TCL C6K Micro RGB: LG Mini RGB evo MRGB85 OLED: Samsung S85H 1. QLED: Samsung Q7F A tecnologia QLED utiliza uma camada de pontos quânticos para ampliar a reprodução de cores em uma tela LCD. Na prática, isso permite exibir tonalidades mais intensas e um volume de cor maior do que o de muitos televisores LED convencionais. Nossa recomendação é a Samsung QL",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-14T13:30:02+00:00",
+      "coletado_em": "2026-11-15T16:22:14.854412+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/a2aDsaspUtPlpuBGF4lZWqO8m3c=/0x0/filters:format(webp):quality(85)/1b276ae6-5b9c-4fc0-beb3-12563bfb2f35.webp",
+      "score": 0.024,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "607509a89853",
+      "titulo": "Enthusiast builds a working 486 DX2 retro PC on a breadboard in just 16 days, immediately runs Doom",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/enthusiast-builds-a-working-486-dx2-retro-pc-on-a-breadboard-in-just-16-days-immediately-runs-doom-build-includes-a-66-mhz-intel-chip-and-custom-five-inch-3d-printed-display",
+      "resumo": "An app engineer has showcased his homemade breadboard 486DX2 PC running Doom, put together in just over two weeks.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-15T14:30:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847344+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/tzXTFwaP4RT6zsmkXgmXkg-1920-80.jpg",
+      "score": 4.995,
+      "cobertura": []
+    },
+    {
+      "id": "ab8909b5ae85",
+      "titulo": "357 detailed CPU die shots spanning 1971 to 2024 crammed into a new gallery",
+      "url": "https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail",
+      "resumo": "A CPU enthusiast has put together an eye-popping visual database containing crystal clear detailed die shots of 357 legendary, and some lesser-known, processors.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-15T16:00:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847344+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/HPnMtb7oLbF3AwF8u3rXDU-1920-80.jpg",
+      "score": 4.658,
+      "cobertura": []
+    },
+    {
+      "id": "e08296fe8bcc",
+      "titulo": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
+      "resumo": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-15T15:41:13+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847344+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/LVU3kxMU42xw93Lbc2p2Wc-1920-80.jpg",
+      "score": 4.623,
+      "cobertura": []
+    },
+    {
+      "id": "5d036594fd6c",
+      "titulo": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+      "resumo": "The judge characterized the three companies as \"hawks flying in formation\" when it came to their business decisions.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-15T15:09:50+00:00",
+      "coletado_em": "2026-11-15T16:22:14.847344+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "score": 4.565,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "3de4b230ec25",
+      "titulo": "Qual é a diferença entre os modelos Muse Wonder, Muse Spark e Muse Ember?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-os-modelos-muse-wonder-muse-spark-e-muse-ember/",
+      "resumo": "A Meta desenvolveu três modelos de inteligência artificial da família Muse , cada um pensado para um tipo de tarefa. O Muse Wonder é indicado para atividades complexas, que exigem raciocínio e planejamento, e o Muse Spark atende às interações do dia a dia com a assistente Meta AI. Já o Muse Ember foi criado para executar tarefas repetitivas com rapidez e baixo custo. Os três modelos fazem parte do trabalho do Meta Superintelligence Labs (MSL) , divisão da empresa dedicada ao desenvolvimento de IA avançada. Embora pertençam à mesma família, eles têm capacidades e recursos diferentes, o que também muda a forma de usar cada um. Qual é a diferença entre o Muse Wonder, Muse Spark e Muse Ember? A principal diferença entre os três modelos está no tipo de atividade que cada um consegue realizar . O Muse Wonder é o mais avançado da família e atende a tarefas complexas, como programação, análise de documentos e trabalhos que exigem autonomia por longos períodos. O Muse Spark é mais compacto e rápido, com suporte a textos, imagens, vídeos e áudio. Ele funciona como base da assistente Meta AI nos aplicativos da empresa e nos óculos inteligentes Ray-Ban Meta e Oakley Meta. Já o Muse Ember prior",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-15T14:30:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.854412+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/otpqo0i0Ysos6O25e53iQ6esANQ=/0x0/filters:format(webp):quality(85)/bdab883d-a035-4832-a4dd-4647b3ef4fea.jpeg",
+      "score": 5.895,
+      "cobertura": []
+    },
+    {
+      "id": "502c3ba16995",
+      "titulo": "Híbridos mais vendidos: BYD põe três no top 10, mas GWM lidera",
+      "url": "https://canaltech.com.br/carros/hibridos-mais-vendidos-byd-poe-tres-no-top-10-mas-gwm-lidera/",
+      "resumo": "O ranking com os 10 carros híbridos mais vendidos do Brasil em outubro de 2026 fechou com a BYD como a montadora com mais modelos na lista (três), mas a GWM com o mais emplacado do período. O carro híbrido mais vendido do mês foi o Haval H6 , com 5.792 unidades emplacadas, somadas todas as versões da linha. A s egunda posição ficou com a \" família Song \", composta pelo BYD Song Pro e pelas duas versões do Song Plu s, que registraram 5.148 (2.831 Pro e 2.317 Plus). A BYD também marcou presença com outros dois modelos entre os híbridos mais vendidos: o novato Atto 2 , que fechou outubro na quinta posição, e o veterano King , que mais uma vez superou o Toyota Corolla e ocupou a sétima colocação. Avenger se mantém no top 10; Fastback sai O pódio do mês , a exemplo do que ocorreu no ranking dos mais vendidos de setembro , ficou nas mãos do Omoda 5, enquanto a posição restante do top 5 ficou com o Toyota Yaris Cross, quarto colocado. Na parte inferior do top 10 , destaque para a presença mais uma vez do Jeep Avenger , que se manteve após a estreia em setembro. O oposto, porém, ocorreu com o Fiat Fastback , SUV coupé que não atingiu a nota de corte e ficou de fora da relação de outubro. 1",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-15T16:02:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.854412+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/ZE565QjlJiha2j4aDjqb9zc3pCw=/0x0/filters:format(webp):quality(85)/e8d213fd-a4d3-4de6-a88c-d50f36d786bc.jpg",
+      "score": 4.561,
+      "cobertura": []
+    },
+    {
+      "id": "e2299add8b87",
+      "titulo": "Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente",
+      "url": "https://olhardigital.com.br/2026/11/15/colunistas/atencao-empresas-inteligencia-artificial-nao-e-sinonimo-de-operacao-inteligente/",
+      "resumo": "Os modelos estão ficando melhores rapidamente. Mas inteligência não é sinônimo de confiabilidade operacional O post Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-15T10:04:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.852554+00:00",
+      "imagem_feed": null,
+      "score": 4.34,
+      "cobertura": []
+    },
+    {
+      "id": "8f0d7df512f8",
+      "titulo": "Como adicionar instruções para que o Gemini lembre de informações em qualquer conversa?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-para-que-o-gemini-lembre-de-informacoes-em-qualquer-conversa/",
+      "resumo": "É possível definir instruções personalizadas no Gemini para que a inteligência artificial siga suas preferências durante as conversas. Assim, você não precisa repetir as mesmas orientações sempre que abrir um novo chat. Também dá para pedir ao Gemini que guarde algumas informações durante uma conversa. Com esses dados, a IA pode adaptar o tom e o formato das respostas , como fazer resumos curtos ou usar listas, além de lembrar fatos sobre hábitos e datas importantes. As informações salvas ficam disponíveis em novas conversas no aplicativo para Android e iOS, na versão web, no Chrome e em smartwatches compatíveis. Como adicionar instruções personalizadas no Gemini? As instruções personalizadas servem para definir previamente como a inteligência artificial deve se comportar ou formatar as respostas. Veja como adicionar suas preferências: Abra o Gemini No painel lateral, entre em “Configurações” (ícone de engrenagem); Vá em “Inteligência Personalizada”; Clique em “Instruções para o Gemini”; Toque em “Adicionar”; Digite a orientação que deseja salvar; Selecione “Enviar”. Como editar ou excluir as instruções personalizadas no Gemini? As instruções salvas podem ser alteradas ou removidas",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-14T23:00:00+00:00",
+      "coletado_em": "2026-11-15T16:22:14.854412+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 4.333,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "01d589214971",
+      "titulo": "Hybrids make gains in US auto market amid high gasoline prices",
+      "url": "https://techxplore.com/news/2026-11-hybrids-gains-auto-high-gasoline.html",
+      "resumo": "Electric vehicle growth has hit a speed bump in the United States, but hybrid autos are gaining market share thanks to the jump in fuel prices due to the Iran war.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-15T14:00:01+00:00",
+      "coletado_em": "2026-11-15T16:22:14.852242+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/strong-demand-for-hybr.jpg",
+      "score": 4.294,
+      "cobertura": []
+    },
+    {
+      "id": "84f468ef50e7",
+      "titulo": "Africa is charting a different road to electric mobility with motorbikes and versatile 3-wheelers",
+      "url": "https://techxplore.com/news/2026-11-africa-road-electric-mobility-motorbikes.html",
+      "resumo": "The electric vehicle revolution in Zimbabwe began on rural dirt paths. Three-wheeled vehicles carried cabbages to markets, women farmers to their fields and patients to clinics in communities where transport has long been scarce.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-15T13:20:01+00:00",
+      "coletado_em": "2026-11-15T16:22:14.852242+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/zimbabwe-electric-cycl.jpg",
+      "score": 4.228,
+      "cobertura": []
+    },
+    {
+      "id": "faa40dfeff52",
+      "titulo": "India seeks to triple clean energy capacity to 900 gigawatts by 2035, but major hurdles remain",
+      "url": "https://techxplore.com/news/2026-11-india-triple-energy-capacity-gigawatts.html",
+      "resumo": "With the United Nations climate talks underway, India has set an ambitious goal of installing enough clean power to supply more than 1 billion homes by 2035, and has approved nearly $20 billion in power grid upgrades to ease bottlenecks that prevent some solar and wind energy from reaching consumers.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-14T12:00:01+00:00",
+      "coletado_em": "2026-11-15T16:22:14.852242+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-cop31-india-re.jpg",
+      "score": 3.938,
+      "cobertura": []
+    },
+    {
+      "id": "5d04dde7507a",
+      "titulo": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "resumo": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-15T02:18:16+00:00",
+      "coletado_em": "2026-11-15T16:22:14.852053+00:00",
+      "imagem_feed": null,
+      "score": 3.787,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "8a1e44df695e",
+      "titulo": "R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
+      "url": "https://tecnoblog.net/noticias/r-34-bilhoes-binance-cobriu-100-do-prejuizo-do-maior-roubo-de-cripto-da-historia/",
+      "resumo": "Corretora de criptomoedas anunciou aos clientes que cobriu os ativos que foram roubados em ataque hacker no final de outubro. R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-14T09:29:01+00:00",
+      "coletado_em": "2026-11-15T16:22:14.853961+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/como-depositar-dinheiro-na-binance-001-edited.jpg",
+      "score": 3.086,
+      "cobertura": []
+    }
+  ]
+}
