@@ -1,0 +1,768 @@
+{
+  "medicina": [
+    {
+      "id": "391c90667cf0",
+      "titulo": "STAT+: Bladder cancer immunotherapy from CG Oncology reduced risk of tumor recurrence",
+      "url": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
+      "resumo": "CG Oncology's bladder cancer immunotherapy reduced risk of tumor recurrence by 68% — results that may change how physicians treat certain patients.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-16T13:00:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.695359+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_180917809-1024x576.jpeg",
+      "score": 5.714,
+      "cobertura": []
+    },
+    {
+      "id": "4e0ebd7e3e7a",
+      "titulo": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
+      "url": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
+      "resumo": "How obesity medications may become the next big battleground over access to medicines in lower-income countries.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-16T18:18:25+00:00",
+      "coletado_em": "2026-11-16T19:37:29.695359+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2281096570-1024x576.jpg",
+      "score": 5.703,
+      "cobertura": []
+    },
+    {
+      "id": "a829098311a5",
+      "titulo": "Making tumor cells easier for T cells to recognize",
+      "url": "https://medicalxpress.com/news/2026-11-tumor-cells-easier.html",
+      "resumo": "Immunotherapy has transformed cancer treatment, but not all patients experience long-term benefit, as tumor cells can develop ways of evading the immune system. In his doctoral thesis, Lucas Baldran at the Department of Oncology-Pathology investigated whether changes within tumor cells could improve their recognition by T cells, immune cells that can recognize and attack cancer cells. The thesis was supervised by PhD Jeroen Melief. The public defense took place on October 23.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-16T15:20:01+00:00",
+      "coletado_em": "2026-11-16T19:37:29.694505+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-tumor-cells-eas.jpg",
+      "score": 5.611,
+      "cobertura": []
+    },
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-16T19:37:29.692978+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "c121029c2f78",
+      "titulo": "New tool tracks unintended CRISPR edits and their effects in individual cells",
+      "url": "https://phys.org/news/2026-11-tool-tracks-unintended-crispr-effects.html",
+      "resumo": "A new era of genome research began in 2012 with the discovery that CRISPR/Cas9 could function as molecular scissors to cut specific DNA sequences. Over time, scientists harnessed CRISPR as a genome-editing tool, which held the promise of precise gene removal and addition for research purposes, targeted therapies for genetic diseases like cystic fibrosis or Huntington's, and a future where personalized treatments are the norm. But a major shortcoming has snagged that progress: CRISPR can make off-target edits to parts of the genome never meant to be touched.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-16T10:00:01+00:00",
+      "coletado_em": "2026-11-16T19:37:29.696168+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2022/crispr.jpg",
+      "score": 5.697,
+      "cobertura": []
+    },
+    {
+      "id": "a54121be7fa8",
+      "titulo": "Soberania genética na arqueologia inspirou criação do primeiro laboratório de DNA Antigo do Brasil",
+      "url": "https://jornal.usp.br/ciencias/soberania-genetica-na-arqueologia-inspirou-criacao-do-primeiro-laboratorio-de-dna-antigo-do-brasil/",
+      "resumo": "Com sede no Museu de Arqueologia e Etnologia da USP, laboratório pretende inverter \"lógica colonialista”, criando uma rede latino-americana de colaboração; primeiras análises investigam origens luso-africanas de ilha no Amapá",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-16T11:00:42+00:00",
+      "coletado_em": "2026-11-16T19:37:29.717622+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261111_rauinaselaboratorio-1024x538.jpg",
+      "score": 5.066,
+      "cobertura": []
+    },
+    {
+      "id": "180f5b03c12c",
+      "titulo": "Team develops 3D biomimetic aging muscle model that can replace animal experiments",
+      "url": "https://phys.org/news/2026-11-team-3d-biomimetic-aging-muscle.html",
+      "resumo": "Skeletal muscles, which are attached to bones and enable body movement, are crucial for metabolic regulation. \"Sarcopenia,\" characterized by age-related declines in muscle mass and function, reduces mobility and severely undermines quality of life in old age. However, previous research has been constrained by substantial biological differences between animal models and humans, while conventional methods of culturing cells on flat (2D) dishes have remained ineffective in fully replicating the three-dimensional movements and contractile function of actual human muscles.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-16T16:20:35+00:00",
+      "coletado_em": "2026-11-16T19:37:29.696168+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/studying-human-muscle.jpg",
+      "score": 4.705,
+      "cobertura": []
+    },
+    {
+      "id": "96fc81785713",
+      "titulo": "An ancient virus may help explain what makes the human brain different",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
+      "resumo": "A virus that infected chimpanzees millions of years ago may have helped shape one of the most important differences between humans and our closest relatives: how our brains develop. Scientists at Lund University discovered that ancient viral DNA embedded in the chimpanzee genome switches off a gene called LINC00662, which remains active in humans and appears to play an important role in early brain development.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-16T00:32:12+00:00",
+      "coletado_em": "2026-11-16T19:37:29.696671+00:00",
+      "imagem_feed": null,
+      "score": 4.564,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "c9da46c837ee",
+      "titulo": "Agile Robots raises $500M to increase production capacity",
+      "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+      "resumo": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-16T17:47:48+00:00",
+      "coletado_em": "2026-11-16T19:37:29.699684+00:00",
+      "imagem_feed": null,
+      "score": 5.7,
+      "cobertura": []
+    },
+    {
+      "id": "1dea03b2350e",
+      "titulo": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+      "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "resumo": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others. Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The count may change following vendor and vulnerability-authority review, and some findings do not yet have CVE tracking numbers. Many of these tools help teams train, simulate, test, and operate robots. Weaknesses in them could influence the models teams build, the test results they trust, and the instructions sent to robots. These findings create two demands for robotics teams: responding as AI helps uncover weaknesses faster , and assessing how each one could affect robot safety and operations . What AI changes about vulnerability discovery Vulnerability discovery involves examining code, tracing how systems communicate, and testing whether a suspected weakness can actually be exploited. AI can accelerate parts of this work, helping researchers analyze more software in less time. Attackers coul",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial",
+        "robotica"
+      ],
+      "publicado": "2026-11-16T10:00:01+00:00",
+      "coletado_em": "2026-11-16T19:37:29.697670+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=980",
+      "score": 5.297,
+      "cobertura": []
+    },
+    {
+      "id": "d40156bb9a84",
+      "titulo": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+      "url": "https://spectrum.ieee.org/telesurgery-stroke",
+      "resumo": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, tracking my progress on the live X-ray feed. As I imagine finding a blood clot, David Bell , the surgeon seated to my right, helpfully reminds me that every minute a stroke goes untreated, millions of brain cells suffocate, swell, and die . The patient under the X-ray in Bell’s office is not flesh and blood, but a plastic container holding long branches of silicone tubing. The controller I hold comes from an Xbox. But the surgical robot is real. The Remedy N1 is designed for emergency operations, including thrombectomies , the standard brain operation for acute ischemic strokes caused by blood clots. Ischemia, a restriction of blood flow, is the most common cause of stroke. “We want it to feel a bit like a video game—a bit easy,” Bell says. “But we don’t want to dehumanize it as if there’s just another ‘game over.’ ” Bell, a clinician and former cardiac-surgery trainee from Australia, cofounded",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-16T14:00:02+00:00",
+      "coletado_em": "2026-11-16T19:37:29.697670+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/remedy-robotics-n1-prototype-console-lower-left-sits-ready-to-guide-a-catheter-through-blood-vessels-using-a-ct-scan-overlai.jpg?id=68671534&width=980",
+      "score": 5.095,
+      "cobertura": []
+    },
+    {
+      "id": "8f247e561454",
+      "titulo": "A shared signal for humans and robots: Flexible display uses both color and near-infrared to communicate",
+      "url": "https://techxplore.com/news/2026-11-humans-robots-flexible-display-infrared.html",
+      "resumo": "A joint research team from the Korea Advanced Institute of Science and Technology (KAIST) and Yonsei University has developed a flexible display that can communicate information to both humans and robots. Human workers can interpret information through visible color changes, while robots can detect near-infrared patterns invisible to the human eye. The technology could serve as an \"electronic tag\" attached to products or equipment, allowing humans and robots to monitor work status using the same display.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-16T17:00:10+00:00",
+      "coletado_em": "2026-11-16T19:37:29.699824+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-flexibl-1.jpg",
+      "score": 4.769,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "6d3dc9f1b0c6",
+      "titulo": "Microsoft explica “apagão” que derrubou o Outlook (não foi hacker)",
+      "url": "https://tecnoblog.net/noticias/microsoft-explica-apagao-que-derrubou-o-outlook-nao-foi-hacker/",
+      "resumo": "Microsoft informou que o \"apagão\" recente no Outlook e em outros serviços foi causado por uma falha em uma atualização de software aplicada em julho. Microsoft explica “apagão” que derrubou o Outlook (não foi hacker)",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-16T18:20:57+00:00",
+      "coletado_em": "2026-11-16T19:37:29.722285+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-outlook_tb.png",
+      "score": 6.108,
+      "cobertura": [
+        "https://canaltech.com.br/software/apagao-da-microsoft-empresa-explica-os-3-erros-que-derrubaram-80-dos-servidores/"
+      ]
+    },
+    {
+      "id": "0145c4ec2eda",
+      "titulo": "Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw",
+      "url": "https://www.infoq.com/news/2026/11/alpine-linux-openssh-sshhole/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "A recently disclosed vulnerability in OpenSSH lets an unauthenticated attacker log into accounts that should have no usable password. The issue, named *sshole and tracked as CVE-2026-123158, affects Linux systems running OpenSSH with the musl C library and which don't use PAM. Security researchers now report that attackers are exploiting it in the wild. By Matt Saunders",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-16T09:00:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.700135+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/alpine-linux-openssh-sshhole/en/headerimage/generatedHeaderImage-1794610199233.jpg",
+      "score": 5.283,
+      "cobertura": []
+    },
+    {
+      "id": "c13287dcc8cd",
+      "titulo": "Apagão da Microsoft: empresa explica os 3 erros que derrubaram 80% dos servidores",
+      "url": "https://canaltech.com.br/software/apagao-da-microsoft-empresa-explica-os-3-erros-que-derrubaram-80-dos-servidores/",
+      "resumo": "A Microsoft informou mais detalhes sobre o apagão global que afetou serviços como Outlook e Teams nas últimas semanas. A pane afetou 80% dos servidores da empresa em todo o mundo entre quinta-feira (12) e sexta-feira (13), o que deixou milhares de empresas sem acesso a e-mails. O Vice-Presidente de Copilot, Agentes e Plataformas da Microsoft, Charles Lamanna, fez um longo post no X com os três detalhes principais que geraram o erro. Um bug despercebido , problemas de tráfego e uma falha que aconteceu nos dias anteriores foram responsáveis por toda a pane. A demora para resolver o problema, segundo Lamanna, aconteceu porque os servidores voltaram a funcionar, mas ficavam imediatamente sobrecarregados. Os 3 erros que geraram o apagão da Microsoft O primeiro problema foi um erro escondido no software dos servidores . De acordo com a MS, uma correção implementada em julho deste ano fazia a estrutura travar em alguns casos. No entanto, os testes foram feitos em máquinas menos potentes, então a empresa não identificou as possíveis consequências nos servidores mais novos e poderosos. A segunda causa foi um aumento repentino no tráfego : cerca de 15 horas antes da pane, o Microsoft Teams p",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T14:32:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/VWqgz9FebqeQ2VDiZb5SD-wjeoA=/0x0/filters:format(webp):quality(85)/baffbdf7-961c-4c6c-aee9-faac3779da06.png",
+      "score": 5.09,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/microsoft-explica-apagao-que-derrubou-o-outlook-nao-foi-hacker/"
+      ]
+    },
+    {
+      "id": "187099f24a31",
+      "titulo": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
+      "url": "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
+      "resumo": "Another unscheduled patch for IT teams already having quite enough fun with Redmond",
+      "fonte": "The Register",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-16T17:27:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.700762+00:00",
+      "imagem_feed": "https://image.theregister.com/?imageId=233068&width=800",
+      "score": 4.814,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "b380dfe95e53",
+      "titulo": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+      "resumo": "President Trump has called for Jensen Huang to return as Nvidia CEO, but a new report says the board is not considering the move.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-16T18:24:40+00:00",
+      "coletado_em": "2026-11-16T19:37:29.701619+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/AcvQdNE4MvE4MZ6pKF6f9Y-1920-80.jpg",
+      "score": 8.065,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/ceos-de-tecnologia-pedem-volta-de-jensen-huang-a-nvidia/",
+        "https://olhardigital.com.br/2026/11/16/pro/conselho-da-nvidia-descarta-discutir-retorno-de-jensen-huang-como-ceo/",
+        "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+        "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+      ]
+    },
+    {
+      "id": "93ba9f0002bc",
+      "titulo": "Reviravolta: Jensen Huang articula retorno à NVIDIA com apoio de Elon Musk e Tim Sweeney",
+      "url": "https://canaltech.com.br/mercado/reviravolta-jensen-huang-articula-retorno-a-nvidia-com-apoio-de-elon-musk-e-tim-sweeney/",
+      "resumo": "Jensen Huang renunciou ao cargo de CEO da NVIDIA na última semana, mas não descarta voltar ao comando da empresa. De acordo com o site Financial Times, Huang conta com aliados no Vale do Silício para pressionar o conselho da Big Tech sobre um possível retorno . Uma das fontes ouvidas pela reportagem original afirma que há uma “sala de guerra” montada por parceiros e lobistas para trazê-lo de volta ao cargo. Há até a possibilidade de buscar apoio na Casa Branca, ainda que o caminho seja improvável — o Secretário do Tesouro dos EUA, Scott Bessent, já defendeu publicamente uma reestruturação na empresa de chips. Um dos argumentos dos aliados é de que Jensen Huang é uma pessoa querida no mercado de tecnologia. Outras fontes afirmam que o ex-CEO era o responsável por conduzir negociações importantes no mercado de IA. Um eventual retorno é apoiado até por funcionários da própria NVIDIA : comentários em caixa de sugestões internas da companhia defendem a volta do executivo. Por enquanto, a companhia é liderada de forma interina por Colette Kress, que atuava como vice-presidente executiva e diretora financeira antes da mudança. Apoio de grandes nomes Jensen Huang também é defendido por nom",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T17:02:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/32bR7hWUmRc33yKtg8Rh9WHENiQ=/0x0/filters:format(webp):quality(85)/486c9595-4175-434e-9999-3fd4ddf2b81f.png",
+      "score": 6.822,
+      "cobertura": [
+        "https://olhardigital.com.br/2026/11/16/pro/conselho-da-nvidia-descarta-discutir-retorno-de-jensen-huang-como-ceo/",
+        "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return"
+      ]
+    },
+    {
+      "id": "05581807193f",
+      "titulo": "Conselho da Nvidia descarta discutir retorno de Jensen Huang como CEO",
+      "url": "https://olhardigital.com.br/2026/11/16/pro/conselho-da-nvidia-descarta-discutir-retorno-de-jensen-huang-como-ceo/",
+      "resumo": "Segundo a fonte, os diretores estão concentrados na investigação sobre a conduta de Huang e não mantêm conversas sobre sua eventual reinstalação no cargo O post Conselho da Nvidia descarta discutir retorno de Jensen Huang como CEO apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-16T18:18:49+00:00",
+      "coletado_em": "2026-11-16T19:37:29.720222+00:00",
+      "imagem_feed": null,
+      "score": 6.304,
+      "cobertura": [
+        "https://canaltech.com.br/mercado/reviravolta-jensen-huang-articula-retorno-a-nvidia-com-apoio-de-elon-musk-e-tim-sweeney/",
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
+      ]
+    },
+    {
+      "id": "3f0451f8ded9",
+      "titulo": "Jensen Huang could be plotting return as Nvidia CEO, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
+      "resumo": "Jensen Huang could be back in his old Nvidia office soon as allies rally to push the AI chipmaker to take him back just days after he was ousted over an affair with an alleged Chinese spy.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-16T12:37:39+00:00",
+      "coletado_em": "2026-11-16T19:37:29.701619+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/tCck6nnA9N6apg5MsvEC7k-1920-80.png",
+      "score": 6.035,
+      "cobertura": [
+        "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return"
+      ]
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "7af8fd38f02c",
+      "titulo": "Dirty ice around young star Beta Pictoris suggests frequent collisions and sheds light on the system's formation",
+      "url": "https://phys.org/news/2026-11-dirty-ice-young-star-beta.html",
+      "resumo": "In a recent study of infrared light collected by the James Webb Space Telescope (JWST), a group of astronomers detected ice for the first time around the young star Beta Pictoris. Researchers had expected ice around Beta Pictoris, but previous searches had not directly detected it. The study, published in Science, found that the ice is mostly noncrystalline and mixed with carbon dioxide. The team says these new details provide clues about the early formation of the Beta Pictoris system and collisions that may still be occurring.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-16T17:30:02+00:00",
+      "coletado_em": "2026-11-16T19:37:29.702861+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dirty-ice-found-around.jpg",
+      "score": 6.319,
+      "cobertura": []
+    },
+    {
+      "id": "e4d4de7e772e",
+      "titulo": "Samsung pode deixar câmera com abertura variável para o Galaxy S28",
+      "url": "https://tecnoblog.net/noticias/samsung-pode-deixar-camera-com-abertura-variavel-para-o-galaxy-s28/",
+      "resumo": "Recurso chegou a ser cogitado para o Galaxy S27, mas custo pode empurrar retorno para 2028. Samsung pode deixar câmera com abertura variável para o Galaxy S28",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-16T17:12:33+00:00",
+      "coletado_em": "2026-11-16T19:37:29.722285+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/K9wnmHNTlzU",
+      "score": 5.49,
+      "cobertura": [
+        "https://canaltech.com.br/smartphone/galaxy-s27-ultra-pode-perder-camera-e-decepcionar-fas-da-samsung/"
+      ]
+    },
+    {
+      "id": "17b99053a97b",
+      "titulo": "Now fully online, the Simons Observatory will shape new studies of the Milky Way and the cosmos",
+      "url": "https://phys.org/news/2026-11-fully-online-simons-observatory-milky.html",
+      "resumo": "A new survey of the sky, from the largest structures in the universe to the dust and magnetic fields in our own Milky Way, is now fully underway. After two years of calibration, additional telescopes and a new solar array to provide energy security, the Simons Observatory (SO) in Chile's Atacama Desert is fully online and conducting science operations. Researchers at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford and SLAC National Accelerator Laboratory have had a hand in nearly every part of it.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-16T15:20:05+00:00",
+      "coletado_em": "2026-11-16T19:37:29.702861+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/stanford-and-slac-help.jpg",
+      "score": 5.111,
+      "cobertura": []
+    },
+    {
+      "id": "35d8be7aac65",
+      "titulo": "Galaxy Fit 3 despenca de preço e sai por menos de R$ 180",
+      "url": "https://canaltech.com.br/smartwatch/galaxy-fit-3-despenca-de-preco-e-sai-por-menos-de-r-180/",
+      "resumo": "A Galaxy Fit 3 está com um preço bem atraente para quem procura uma pulseira inteligente para acompanhar atividades físicas e monitorar dados de saúde. O modelo da Samsung pode ser encontrado por R$ 179,10 no Pix , uma ótima oportunidade para quem quer gastar pouco. Nessa faixa de preço, a smartband fica mais barata que duas concorrentes populares, a Huawei Band 10 e a Xiaomi Smart Band 10. Mas será que a economia compensa? 🥇 Melhor custo-benefício: Galaxy Fit 3 — R$ 179,10 no Pix; 🥈 Melhor alternativa para economizar: Huawei Band 10 — R$ 208,55 no cartão; 🥉 Melhor tela e autonomia: Xiaomi Smart Band 10 — R$ 319,90 no cartão; 🚨 Atenção: o preço da Galaxy Fit 3 é exclusivo para pagamento via Pix. Os valores podem mudar sem aviso prévio. Vale a pena comprar a Galaxy Fit 3? Sim. A Galaxy Fit 3 é uma boa opção para quem quer acompanhar exercícios, monitorar o sono e visualizar notificações do celular sem precisar de um smartwatch mais caro. Ela tem uma tela AMOLED de 1,6 polegada, com espaço suficiente para visualizar mensagens e informações de saúde. O modelo também oferece mais de 100 modos de exercícios, monitoramento de frequência cardíaca e oxigenação do sangue. Outro destaque é a",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T17:45:30+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/XPAl22o21mzoMVI2MHfKDcmp93I=/0x0/filters:format(webp):quality(85)/82e4c376-f7c4-4356-b2b9-4ced394b4d1a.jpeg",
+      "score": 4.896,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "635a65c01b8d",
+      "titulo": "Reading superconducting qubits while suppressing unwanted state transitions",
+      "url": "https://phys.org/news/2026-11-superconducting-qubits-suppressing-unwanted-state.html",
+      "resumo": "Recently an artificial intelligence proved an 18-year-old conjecture in computer science, called the Aaronson–Ambainis conjecture. The proof settles a long-standing conjecture (educated guess) that eliminates one proposed route to enormous quantum computer speedups, ruling out one particular variant of \"quantum supremacy,\" the term for the hypothesis that a programmable quantum computer can solve a problem that no classical computer can solve in any \"feasible\" amount of time.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-16T16:20:42+00:00",
+      "coletado_em": "2026-11-16T19:37:29.704526+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-superconductin.jpg",
+      "score": 6.205,
+      "cobertura": []
+    },
+    {
+      "id": "f2fb065b798c",
+      "titulo": "Hidden defects return a qubit's lost energy",
+      "url": "https://phys.org/news/2026-11-hidden-defects-qubit-lost-energy.html",
+      "resumo": "Today, many leading quantum computers are built from superconducting circuits. However, the qubits in these circuits can easily lose energy to their surroundings, scrambling the fragile quantum information they hold.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-16T14:20:08+00:00",
+      "coletado_em": "2026-11-16T19:37:29.704526+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-defects-return.jpg",
+      "score": 6.023,
+      "cobertura": []
+    },
+    {
+      "id": "a11e768860c8",
+      "titulo": "Quantum teleportation method uses weaker entanglement to transfer encoded information",
+      "url": "https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html",
+      "resumo": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encode logical qubits (units of quantum information) across groups of physical qubits, which makes teleporting the encoded state without losing information more challenging.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-16T12:40:01+00:00",
+      "coletado_em": "2026-11-16T19:37:29.704526+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-teleport-a.jpg",
+      "score": 5.888,
+      "cobertura": []
+    },
+    {
+      "id": "4f9a8b8bd227",
+      "titulo": "IQM Supports NVIDIA’s Work to Make Quantum Computers Schedulable in Slurm",
+      "url": "https://thequantuminsider.com/2026/11/16/iqm-quantum-computers-slurm-integration/",
+      "resumo": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, today announced at SC26 in Chicago its support for NVIDIA’s investment in making quantum processing units (QPUs) a schedulable resource in the Slurm workload manager by integrating IQM quantum computers. NVIDIA, which has committed to keeping Slurm open […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-16T16:30:50+00:00",
+      "coletado_em": "2026-11-16T19:37:29.704142+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-16_21-30.png",
+      "score": 5.871,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "a2ee37b387f7",
+      "titulo": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "resumo": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen, they think […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-16T16:39:36+00:00",
+      "coletado_em": "2026-11-16T19:37:29.712528+00:00",
+      "imagem_feed": null,
+      "score": 6.935,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+        "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+      ]
+    },
+    {
+      "id": "0435f4e17d3d",
+      "titulo": "Microsoft 365 outage led to chlorine gas leak at German hotel, poisoning of 15 guests and sending four to hospital",
+      "url": "https://www.techspot.com/news/114573-microsoft-365-outage-led-chlorine-gas-leak-german.html",
+      "resumo": "According to regional publication WDR (via Notebookcheck), the incident happened at the Hotel Ling Bao, part of Phantasialand theme park in Germany. It experienced a malfunction with its dosing system, which pumped too much chlorine into the pool. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-16T14:32:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.710985+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-16-ts3_thumbs-8b4.jpg",
+      "score": 6.89,
+      "cobertura": [
+        "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
+        "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized"
+      ]
+    },
+    {
+      "id": "0cc7e461a3ea",
+      "titulo": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
+      "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
+      "resumo": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver a safety alert about elevated chlorine levels in the […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-16T18:29:55+00:00",
+      "coletado_em": "2026-11-16T19:37:29.712528+00:00",
+      "imagem_feed": null,
+      "score": 6.124,
+      "cobertura": [
+        "https://www.techspot.com/news/114573-microsoft-365-outage-led-chlorine-gas-leak-german.html",
+        "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized"
+      ]
+    },
+    {
+      "id": "bd7cc537cd57",
+      "titulo": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "resumo": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-16T18:43:35+00:00",
+      "coletado_em": "2026-11-16T19:37:29.712528+00:00",
+      "imagem_feed": null,
+      "score": 5.149,
+      "cobertura": [
+        "https://www.techspot.com/news/114563-nearly-150000-people-sign-petition-requesting-jensen-huang.html"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "93ba9f0002bc",
+      "titulo": "Reviravolta: Jensen Huang articula retorno à NVIDIA com apoio de Elon Musk e Tim Sweeney",
+      "url": "https://canaltech.com.br/mercado/reviravolta-jensen-huang-articula-retorno-a-nvidia-com-apoio-de-elon-musk-e-tim-sweeney/",
+      "resumo": "Jensen Huang renunciou ao cargo de CEO da NVIDIA na última semana, mas não descarta voltar ao comando da empresa. De acordo com o site Financial Times, Huang conta com aliados no Vale do Silício para pressionar o conselho da Big Tech sobre um possível retorno . Uma das fontes ouvidas pela reportagem original afirma que há uma “sala de guerra” montada por parceiros e lobistas para trazê-lo de volta ao cargo. Há até a possibilidade de buscar apoio na Casa Branca, ainda que o caminho seja improvável — o Secretário do Tesouro dos EUA, Scott Bessent, já defendeu publicamente uma reestruturação na empresa de chips. Um dos argumentos dos aliados é de que Jensen Huang é uma pessoa querida no mercado de tecnologia. Outras fontes afirmam que o ex-CEO era o responsável por conduzir negociações importantes no mercado de IA. Um eventual retorno é apoiado até por funcionários da própria NVIDIA : comentários em caixa de sugestões internas da companhia defendem a volta do executivo. Por enquanto, a companhia é liderada de forma interina por Colette Kress, que atuava como vice-presidente executiva e diretora financeira antes da mudança. Apoio de grandes nomes Jensen Huang também é defendido por nom",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T17:02:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/32bR7hWUmRc33yKtg8Rh9WHENiQ=/0x0/filters:format(webp):quality(85)/486c9595-4175-434e-9999-3fd4ddf2b81f.png",
+      "score": 6.322,
+      "cobertura": [
+        "https://olhardigital.com.br/2026/11/16/pro/conselho-da-nvidia-descarta-discutir-retorno-de-jensen-huang-como-ceo/",
+        "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return"
+      ]
+    },
+    {
+      "id": "d1bee759e86a",
+      "titulo": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "resumo": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T19:12:02+00:00",
+      "coletado_em": "2026-11-16T19:37:29.714687+00:00",
+      "imagem_feed": null,
+      "score": 6.202,
+      "cobertura": [
+        "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
+      ]
+    },
+    {
+      "id": "708e121d69e5",
+      "titulo": "AI Companies Develop Decision Models to Avoid Hallucinations",
+      "url": "https://spectrum.ieee.org/typesafe-ai-hallucination-decision-models",
+      "resumo": "On 15 September, a startup called TypeSafe AI released a new AI model called Jev . The company’s broad, disruptive claims about Jev that turned heads: The company claimed that Jev, which it calls a “System One model” is cheaper, faster, and can’t hallucinate. TypeSafe AI’s marketing is an obvious shot across the bow of other AI companies and their large language models (LLMs), which, despite their capabilities in math and coding, are infamous for their cost and tendency to “hallucinate” factually incorrect replies. And the startup has certainly attracted both attention and investment. The company recently raised $870 million in funding at a valuation of $7.5 billion . But the most impressive metric of Jev’s success is arguably the many imitators it’s already spawned. Cloudflare, Amazon, OpenAI, and Microsoft quickly released “decision models” that imitate Jev’s capabilities. Start-ups, academic researchers, and independent enthusiasts have released dozens more. “I have to give Jev credit,” says Matt Mastracci , an independent developer who has trained and released several decision models including Djev , which Cloudflare cited as an inspiration for its own decision models . “It rea",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T17:00:54+00:00",
+      "coletado_em": "2026-11-16T19:37:29.713182+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/collage-of-the-question-what-color-is-the-sky-surrounded-by-a-shiny-sun-sticker-geometric-grid-and-a-confidence-meter-at-7.jpg?id=68692558&width=980",
+      "score": 5.87,
+      "cobertura": []
+    },
+    {
+      "id": "0b5fe7dce536",
+      "titulo": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "resumo": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T18:11:10+00:00",
+      "coletado_em": "2026-11-16T19:37:29.714687+00:00",
+      "imagem_feed": null,
+      "score": 5.591,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
+      ]
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "ba125f2d2941",
+      "titulo": "Striped semiconductor panel improves hydrogen production by separating water-splitting reaction sites",
+      "url": "https://techxplore.com/news/2026-11-striped-semiconductor-panel-hydrogen-production.html",
+      "resumo": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have developed an ordered patterning strategy that integrates p-type and n-type BiVO₄ stripes on a conductive substrate. This strategy enables efficient Z-scheme charge separation and significantly enhances the photocatalytic overall water-splitting process. The research is published in the journal Advanced Energy Materials.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-16T18:00:05+00:00",
+      "coletado_em": "2026-11-16T19:37:29.715648+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-ord.jpg",
+      "score": 5.371,
+      "cobertura": []
+    },
+    {
+      "id": "1ac90da339e8",
+      "titulo": "Scientists propose descriptor-driven design paradigm for battery cathode materials",
+      "url": "https://techxplore.com/news/2026-11-scientists-descriptor-driven-paradigm-battery.html",
+      "resumo": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have established a new paradigm for designing oxide cathode materials. They have moved beyond empirical trial and error toward goal-oriented design using physicochemical descriptors.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-16T17:40:08+00:00",
+      "coletado_em": "2026-11-16T19:37:29.715648+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-propose-des.jpg",
+      "score": 5.336,
+      "cobertura": []
+    },
+    {
+      "id": "98d870bf1eb4",
+      "titulo": "Researchers develop next-generation bifacial tandem solar cells",
+      "url": "https://techxplore.com/news/2026-11-generation-bifacial-tandem-solar-cells.html",
+      "resumo": "To increase the amount of electricity generated by solar cells, it is essential to develop technologies that capture and harness not only direct sunlight but also light reflected and scattered by the ground and surrounding objects. In this regard, two approaches have attracted considerable attention as next-generation solar cell technologies: bifacial structures, which absorb light from both the front and rear sides, and tandem structures, which enhance efficiency by stacking two solar cells that absorb different wavelengths of light.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-16T16:02:10+00:00",
+      "coletado_em": "2026-11-16T19:37:29.715648+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-even-light-ref.jpg",
+      "score": 5.176,
+      "cobertura": []
+    },
+    {
+      "id": "afd4e721f25a",
+      "titulo": "Why solar researchers are working to devise a silver reduction playbook",
+      "url": "https://techxplore.com/news/2026-11-solar-silver-reduction-playbook.html",
+      "resumo": "Solar power may have become one of the world's cheapest sources of renewable electricity, but an increasingly expensive precious metal is creating a challenge for the industry.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-16T15:00:14+00:00",
+      "coletado_em": "2026-11-16T19:37:29.715648+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-power.jpg",
+      "score": 5.081,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "294af5187bc4",
+      "titulo": "Nova vida nos Galaxy: vazamento revela Bixby 5.0 com memória de IA e tarefas automáticas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/nova-vida-nos-galaxy-vazamento-revela-bixby-50-com-memoria-de-ia-e-tarefas-automaticas/",
+      "resumo": "Um vazamento revelou mudanças importantes no assistente virtual da Samsung . A Bixby 5.0 deve ter recursos de inteligência artificial para memorizar preferências, entender pedidos complexos e executar tarefas automaticamente. As novidades foram demonstradas pelo canal AppX, no YouTube, e detalhadas pelo site Android Authority. A Bixby ganhará uma função chamada Memória para registrar informações pessoais e preferências, mantendo esses dados como referência em conversas futuras. O usuário poderá salvar informações com comandos, como “Lembre-se” e “Salve”, mas o assistente também será capaz de aprender com o histórico de chats. O recurso ficará nas configurações avançadas do aplicativo e precisará de processamento na nuvem para oferecer respostas personalizadas. Caso o usuário escolha o processamento totalmente offline, as respostas poderão perder parte dessa personalização, já que a Bixby não conseguirá consultar as memórias salvas pela internet. Vale ressaltar que essa função é diferente do aplicativo independente Samsung Memory, também identificado em vazamentos anteriores sobre a One UI 9.5. Enquanto o segundo tem uma proposta visual semelhante ao Pixel Screenshots, do Google, a ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-16T16:02:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Q2wI-0xi3dtsbl5wHwZ5CquuNrI=/0x0/filters:format(webp):quality(85)/fa6d7875-3eec-48f7-b0fd-5ba0cc06b3a7.png",
+      "score": 4.225,
+      "cobertura": []
+    },
+    {
+      "id": "e4654e8b6c2c",
+      "titulo": "Galaxy S27 Ultra pode perder câmera e decepcionar fãs da Samsung",
+      "url": "https://canaltech.com.br/smartphone/galaxy-s27-ultra-pode-perder-camera-e-decepcionar-fas-da-samsung/",
+      "resumo": "O Galaxy S27 Ultra pode perder uma de suas câmeras traseiras e decepcionar os fãs da Samsung. Um novo vazamento reforça rumores anteriores de que o próximo topo de linha da marca terá apenas três sensores, contra quatro do Galaxy S26 Ultra, e revela o suposto design definitivo do aparelho. A informação foi divulgada pelo conhecido informante Ice Universe, no X, que compartilhou esboços dos Galaxy S27 Ultra e S27 Pro. O vazador afirma ter 100% de certeza sobre a autenticidade dos desenhos, que mostram uma mudança considerável no visual dos celulares. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Galaxy S27 Ultra deve perder câmera de zoom O novo vazamento reforça informações divulgadas anteriormente sobre o conjunto fotográfico do Galaxy S27 Ultra. A expectativa é que a Samsung remova a teleobjetiva dedicada de 3x, presente nas gerações anteriores. Atualmente, o Galaxy S26 Ultra conta com quatro câmeras traseiras: uma principal de 200 MP, uma ultrawide de 50 MP e duas teleobjetivas com zoom óptico de 3x e 5x. Já o sucessor deve manter apenas três sensores, com a seguinte configuração: câmera principal de 200 MP, ultrawide de 50 MP e teleobjetiva de 50 MP com zo",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-16T12:39:04+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": null,
+      "score": 1.637,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/samsung-pode-deixar-camera-com-abertura-variavel-para-o-galaxy-s28/"
+      ]
+    },
+    {
+      "id": "ddd464c10221",
+      "titulo": "Vazamento revela \"câmera profissional\" da One UI 9.5 com modo rajada e pista de vídeo",
+      "url": "https://canaltech.com.br/apps/vazamento-revela-camera-profissional-da-one-ui-95-com-modo-rajada-e-pista-de-video/",
+      "resumo": "A Samsung prepara uma grande reformulação no Expert RAW , aplicativo de câmera com recursos profissionais para os celulares de topo de linha da marca. A ferramenta vai ganhar novo visual , modo de disparo em rajada e mais opções de abertura. De acordo com o site SamMobile, a nova versão do aplicativo é preparada para a One UI 9.5 , próxima grande atualização nos celulares e tablets da Samsung. As mudanças visuais incluem novos ícones e atalhos com o objetivo de melhorar o acesso aos recursos, além de criar uma experiência mais parecida com a do aplicativo padrão de câmera. Uma das novidades é um modo de disparo em rajada, ideal para capturar fotos em movimento sem perder a qualidade ou deixar um efeito “tremido”. A função conseguiria tirar até 30 fotos de uma vez e manter a opção de editar no formato RAW. Além disso, a abertura virtual pode ganhar um alcance ainda maior. A matéria original identificou menções a um possível recurso de vídeo, mas ainda não é possível acessá-lo no app. O que é o Expert RAW? O Expert RAW é um aplicativo da Samsung para tirar fotos no formato RAW , muito usado por profissionais por não perder dados por compressão. O app tem ferramentas de controle manua",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-16T18:26:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/EGFEWChNuGrOLs9evZ1vWojvyiU=/0x0/filters:format(webp):quality(85)/31a4070a-2eb1-45b2-a4e9-8b4c75aff813.png",
+      "score": 1.467,
+      "cobertura": []
+    }
+  ]
+}

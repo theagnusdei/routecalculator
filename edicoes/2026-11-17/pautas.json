@@ -1,0 +1,396 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "391c90667cf0",
+      "titulo": "STAT+: Bladder cancer immunotherapy from CG Oncology reduced risk of tumor recurrence",
+      "url": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
+      "resumo": "CG Oncology's bladder cancer immunotherapy reduced risk of tumor recurrence by 68% — results that may change how physicians treat certain patients.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-16T13:00:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.695359+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_180917809-1024x576.jpeg",
+      "score": 5.714,
+      "cobertura": []
+    },
+    "texto_fonte": "A cancer immunotherapy from CG Oncology delivered into the bladders of patients reduced the risk of tumor recurrence by 68% compared to current medical practice — positive study results announced Monday that may change the way physicians treat certain patients with bladder cancer.\nThe CG Oncology treatment, called cretostimogene, is made from a type of common cold virus engineered to target cells that express a specific mutation found in bladder tumors. Physicians use a catheter to infuse “creto” directly into the bladder, where it enters the mutated cancer cells, replicates rapidly, then breaks open the cells, killing them.\nThe randomized Phase 3 study enrolled 367 patients with intermediate-risk bladder cancer, a localized form of the disease that is typically removed in a minimally invasive surgical procedure. Patients are then monitored every three months. If the cancer returns, repeat surgical procedures can be performed, but over time, patients lose bladder function and the cancer can continue to grow.",
+    "autor_fonte": "Adam Feuerstein",
+    "site_fonte": "STAT",
+    "imagem_url": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_180917809-1024x576.jpeg",
+    "imagem_arquivo": "imagens/medicina-stat-bladder-cancer-immunotherapy-from-c.jpg",
+    "imagem_credito": "STAT",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "c121029c2f78",
+      "titulo": "New tool tracks unintended CRISPR edits and their effects in individual cells",
+      "url": "https://phys.org/news/2026-11-tool-tracks-unintended-crispr-effects.html",
+      "resumo": "A new era of genome research began in 2012 with the discovery that CRISPR/Cas9 could function as molecular scissors to cut specific DNA sequences. Over time, scientists harnessed CRISPR as a genome-editing tool, which held the promise of precise gene removal and addition for research purposes, targeted therapies for genetic diseases like cystic fibrosis or Huntington's, and a future where personalized treatments are the norm. But a major shortcoming has snagged that progress: CRISPR can make off-target edits to parts of the genome never meant to be touched.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-16T10:00:01+00:00",
+      "coletado_em": "2026-11-16T19:37:29.696168+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2022/crispr.jpg",
+      "score": 5.697,
+      "cobertura": []
+    },
+    "texto_fonte": "New tool tracks unintended CRISPR edits and their effects in individual cells\nA new era of genome research began in 2012 with the discovery that CRISPR/Cas9 could function as molecular scissors to cut specific DNA sequences. Over time, scientists harnessed CRISPR as a genome-editing tool, which held the promise of precise gene removal and addition for research purposes, targeted therapies for genetic diseases like cystic fibrosis or Huntington's, and a future where personalized treatments are the norm. But a major shortcoming has snagged that progress: CRISPR can make off-target edits to parts of the genome never meant to be touched.\nSalk scientists have designed Superb-seq as a solution. Superb-seq is a method that reads out all the edits—both on- and off-target—and changes to gene activity made by CRISPR, at single-cell resolution. This new tool allows researchers to identify unwanted edits and how those edits change the cell's molecular landscape, making it easier to study gene regulation in the lab and evaluate the safety of gene-editing therapies.\nThe study was published in Nature Methods on Nov. 16, 2026.\nWait… CRISPR has room for improvement?\nGenetics as a field has come a long way over a century of discovery—from discovering that the blueprint for life is written in a four-letter code, to revealing the double-helical structure of that code, to understanding the genetic basis for human diseases and editing the genome with CRISPR.\nThe field also has deep roots at Salk; Francis Crick, Ph.D., co-discoverer of DNA's double-helical structure, for which he earned a Nobel Prize, served as a research professor and president of the institute. Today, Graham McVicker, Ph.D., is working on a new question: How can we make genome editing more precise for scientists and safer for patients?\n\"What really inspired Superb-seq was a frustration with the existing state of affairs,\" says McVicker, senior author of the study and an associate professor at Salk. \"We knew there were problems with CRISPR making unwanted edits, but also there was no good way to see what those edits were and how they affected the cell—what we wanted to see was invisible using current technologies.\"\nHow does CRISPR genome editing work?\nThe clustered regularly interspaced short palindromic repeats (CRISPR) method for genome editing emerged from an observation in bacteria: They could defend themselves against infection by cutting up the viral genetic material that causes the infection. Cas9 is the protein that performs this cut, and it targets the viral genome using a strand of RNA, known as a guide RNA, which is encoded by the CRISPR elements.\nScientists soon realized that they could create their own guide RNAs to direct cutting to any desired stretch of genetic code. This would allow scientists to remove a gene to study its function in the lab or replace a mutated gene to restore health in a therapeutic setting.\nCRISPR has already been an incredible scientific tool, and in 2023 the first FDA-approved CRISPR-based therapy was developed to treat sickle cell disease and beta thalassemia. But despite its successes, the problem with off-target edits looms over the technology.\nWhat is Superb-seq?\nCurrent methods can show where unwanted edits are located, but don't reveal which individual cells carry those edits, nor how those edits impact cell behavior. Superb-seq does both.\n\"In some cases, off-target edits could disrupt key genes that protect against cancer or other unhealthy cellular states,\" says co-first author Brad Balderson, Ph.D., a postdoctoral researcher in McVicker's lab. \"That is why it's essential to not only know what off-target edits are being made, but to know in what cells they occurred and whether they have any impact on activity that could result in disorder or disease. That ability to distinguish between likely benign versus important off-target edits is a key layer of information Superb-seq gives us.\"\nSuperb-seq integrates Cas9 editing, a short edit-reporting DNA sequence and single-cell RNA sequencing to capture single-cell edits and their impact on gene expression. After developing Superb-seq, the Salk team tested it on 34,000 cells from three different cell lines. In one group of 10,000 human leukemia cells grown in the lab, Superb-seq detected 43 edit sites—36 of which were off-target—and 5,761 edited cells.\n\"There are some people that have worked on this off-target issue before that have an awareness of how bad it is, but for many people that pick up CRISPR to use it in the lab, the extent of this problem will really come as a surprise,\" says McVicker. \"I knew off-targets were an issue, but they were far more frequent than I was expecting.\"\nSuperb-seq detected gene expression changes caused by genome edits that are invisible to existing edit detection methods. It also improved interpretation of the effect of edits compared to a predecessor, Perturb-seq, which reads out gene expression and guide RNAs but not the resulting edits.\nBy connecting single-cell edits with changes in gene expression, Superb-seq reveals the effects of CRISPR genome editing with greater detail than ever before.\nHow could Superb-seq change what we see in the lab and clinic?\nThe Salk researchers foresee four primary applications for Superb-seq: basic research, drug development, personalized medicine and training machine learning models.\n\"There are tens of thousands of papers that use CRISPR to study different aspects of biology,\" says co-first author Michael Lorenzini, Ph.D., a staff scientist in McVicker's lab. \"Superb-seq could reveal the extent to which off-target edits color all those findings. And beyond basic discovery settings, our tool could be immensely helpful in establishing the safety of genome therapy candidates early on in development. Superb-seq could be used to profile candidates and learn what their off-target edits are, as well as their effects.\"\nMcVicker notes that, since genomes differ from person to person, the most effective genome-editing therapies may vary as well. Genetic differences can create new off-target edits, and Superb-seq could reveal both the edits and their effects on an individual basis to determine the safest treatment option.\nThe team also envisions Superb-seq as a valuable data generator for training new machine learning models that predict how cells respond to perturbations. Recently, there has been an emphasis on generating more data to train these models. The Salk researchers emphasize that generating better data is just as important, and that the absence of single-cell edit outcomes in current training data limits what artificial intelligence models can learn. Superb-seq could help overcome this problem and improve the accuracy of artificial intelligence models of cellular function.\nMcVicker, Balderson and Lorenzini have filed a patent for Superb-seq, and look forward to exploring how the tool can be used across the discovery pipeline—from bench to bedside.",
+    "autor_fonte": "Salk Institute",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2022/crispr.jpg",
+    "imagem_arquivo": "imagens/biologia-new-tool-tracks-unintended-crispr-edits.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-tool-tracks-unintended-crispr-effects.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "c9da46c837ee",
+      "titulo": "Agile Robots raises $500M to increase production capacity",
+      "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+      "resumo": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-16T17:47:48+00:00",
+      "coletado_em": "2026-11-16T19:37:29.699684+00:00",
+      "imagem_feed": null,
+      "score": 5.7,
+      "cobertura": []
+    },
+    "texto_fonte": "Agile Robots has raised $500 million in Series F funding. This brings the company’s valuation to $8.5 billion and total funding raised to $2 billion.\nAgile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotic hands. It also builds the software and AI models behind these robots. The company’s customers include leaders in the automotive, consumer electronics, healthcare, and service industries.\n“Physical AI will fundamentally change how the world builds, moves and makes things,” CEO and Founder of Agile Robots Dr. Zhaopeng Chen said. “Our vision is intelligent robots working alongside people in factories and warehouses everywhere, and Agile Robots is determined to lead that shift. We bring physical AI out of the lab and into industrial production, across logistics, automotive, electronics and manufacturing. This funding allows us to accelerate our global expansion, strengthen our presence in key markets and build out production capacity.”\nSoftBank Group led the Series F round, which also included NVIDIA, Hitachi Group (Hitachi and Hitachi Ventures) and T.Capital. Other investors spanned the automotive, artificial intelligence, digital and industrial technology sectors.\n“We believe physical AI will transform industries. Agile Robots combines deep robotics expertise with the ability to execute at industrial scale, enabling it to bring physical AI into everyday operations,” said Dennis Chang, managing partner at SoftBank Investment Advisers. “We are pleased to continue partnering with Dr. Chen and the Agile Robots team as they advance breakthroughs in industrial-scale automation.”\nInside Agile Robots’ plans to grow\nThe company said it will use the latest funding to support increased production capacity and expansion into key markets. Agile Robots plans to strengthen its presence in the United States and accelerate the development of innovative robotics applications.\nAgile Robots is one of more than 200 companies tracked in The Robot Report‘s humanoid robot database, which provides a snapshot of the market. The database tracks each developer’s robots, locomotion systems (wheeled or legged), commercial availability and headquarters location.\nAgile Robots will also continue to build out production capacity, including in Germany. The company opened earlier in 2026 a production site at Fürstenfeldbruck, near Munich, Germany, to meet rising demand. The site has the capacity to produce up to 10,000 legged and wheeled humanoid robots annually.\nAgile Robots was founded in 2018 as a spin-off from the German Aerospace Center (DLR), with the goal of applying world-class robotics research to real world industry. Since then, the company has deployed 20,000 industrial robots for customers in the automotive, consumer electronics, logistics and other industries.\nNow, the company has a growing portfolio of subsidiaries. These include including the global AI robotics research platform, Franka Robotics, and industrial deployment specialist Krause Automation, recently acquired from thyssenkrupp AG. Agile Robots manufactures in-house, including in Germany.",
+    "autor_fonte": "Brianna Wessling",
+    "site_fonte": "The Robot Report",
+    "imagem_url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilerobots-featured.jpg",
+    "imagem_arquivo": "imagens/robotica-agile-robots-raises-500m-to-increase-pro.jpg",
+    "imagem_credito": "The Robot Report",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "6d3dc9f1b0c6",
+      "titulo": "Microsoft explica “apagão” que derrubou o Outlook (não foi hacker)",
+      "url": "https://tecnoblog.net/noticias/microsoft-explica-apagao-que-derrubou-o-outlook-nao-foi-hacker/",
+      "resumo": "Microsoft informou que o \"apagão\" recente no Outlook e em outros serviços foi causado por uma falha em uma atualização de software aplicada em julho. Microsoft explica “apagão” que derrubou o Outlook (não foi hacker)",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-16T18:20:57+00:00",
+      "coletado_em": "2026-11-16T19:37:29.722285+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-outlook_tb.png",
+      "score": 6.108,
+      "cobertura": [
+        "https://canaltech.com.br/software/apagao-da-microsoft-empresa-explica-os-3-erros-que-derrubaram-80-dos-servidores/"
+      ]
+    },
+    "texto_fonte": "Resumo IA\n- A Microsoft informou que o “apagão” que afetou o Outlook e outros serviços da empresa na semana passada foi causado por uma falha em uma atualização de software (e não por um ataque hacker).\n- A falha ocorreu em uma atualização aplicada em julho em servidores de “gateway de rede” ligados ao Microsoft 365, que controla o acesso aos serviços da empresa.\n- A Microsoft reconheceu que os testes pós-atualização não foram executados corretamente, o que permitiu que a falha passasse despercebida até que uma sequência de acontecimentos criasse o cenário perfeito para que ela se manifestasse.\nO “apagão” que a Microsoft sofreu na última semana, que manteve o Outlook e vários serviços da companhia inacessíveis ou instáveis por horas, deixou algumas dúvidas no ar, entre elas, “a companhia teria sido alvo de hackers?”. Bom, de acordo com a própria empresa, o problema foi causado por falha em uma atualização de software.\nChega a ser irônico, pois atualizações de software visam corrigir falhas, não causá-las. Mas foi o que aconteceu aqui. Em um relatório preliminar sobre o caso, a companhia explica que o problema começou em uma atualização aplicada em julho deste ano em servidores de “gateway de rede” ligados ao Microsoft 365.\nEsses servidores controlam o acesso aos serviços da empresa (embora não respondam pela autenticação de usuários), recebendo solicitações dos usuários e as encaminhando para os sistemas que devem lidar com elas. Se essa dinâmica falha, os tais serviços deixam de ser acessados.\nA tal atualização de software visava corrigir um problema anterior. Depois que o procedimento foi realizado, nenhuma anormalidade foi percebida. Testes de carga de trabalho chegaram a ser executados, mas nenhum deles apontou falhas ou sinais de impactos operacionais negativos. Mas o problema estava lá.\nComo a falha na atualização passou despercebida?\nA própria Microsoft reconheceu que os testes pós-atualização não foram executados corretamente. Eles foram baseados em computadores mais antigos, com menos núcleos de processamento. Porém, o problema se manifestava com hardware mais recente e, portanto, com mais núcleos.\nEis que, no último dia 12, uma sequência de acontecimentos criou o cenário perfeito para que a falha, até então desconhecida, ganhasse forma.\nCerca de 15 horas antes da interrupção, o Microsoft Teams passou por um procedimento de failover, que transferiu seu tráfego para o gateway principal, também utilizado pelo Exchange Online.\nEsse tipo de transferência de carga não é incomum ou inesperado. O problema é que, na ocasião, 14% da capacidade dos servidores de gateway estava indisponível devido a outro problema. Embora a infraestrutura da empresa ainda tivesse capacidade para absorver essa transferência isoladamente, a combinação com a demanda do Microsoft Teams fez a falha se manifestar.\nOutlook só voltou à normalidade no dia seguinte\nA consequência foi esta: o Outlook e outros serviços ficaram indisponíveis por horas. A normalização nos sistemas da Microsoft só ocorreu no dia seguinte (13/11).\nTamanha demora se deve à dificuldade que a companhia teve para identificar a origem do problema e aplicar uma atualização para reverter a correção que estava no centro do caos. A Microsoft chegou a ativar uma capacidade extra nos servidores de gateway, mas nem isso foi suficiente. A solução só se mostrou efetiva com a reversão.\nQuem acha que o Outlook foi o serviço mais afetado, achou certo. Isso aconteceu porque o Outlook depende do Exchange Online. Enquanto serviços como Teams, OneDrive e SharePoint conseguiram recorrer a caminhos alternativos, por assim dizer, o Exchange Online não teve essa possibilidade em escala suficiente para manter a sua operação.\nVale destacar que este é um posicionamento preliminar. A Microsoft deve publicar um relatório mais detalhado sobre o “apagão” no próximo dia 20.",
+    "autor_fonte": "Emerson Alecrim",
+    "site_fonte": "Mobilon Mídia LTDA",
+    "imagem_url": "https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-outlook_tb.png",
+    "imagem_arquivo": "imagens/software-microsoft-explica-apagao-que-derrubou-o.jpg",
+    "imagem_credito": "Mobilon Mídia LTDA",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://tecnoblog.net/noticias/microsoft-explica-apagao-que-derrubou-o-outlook-nao-foi-hacker/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "b380dfe95e53",
+      "titulo": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+      "resumo": "President Trump has called for Jensen Huang to return as Nvidia CEO, but a new report says the board is not considering the move.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-16T18:24:40+00:00",
+      "coletado_em": "2026-11-16T19:37:29.701619+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/AcvQdNE4MvE4MZ6pKF6f9Y-1920-80.jpg",
+      "score": 8.065,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/ceos-de-tecnologia-pedem-volta-de-jensen-huang-a-nvidia/",
+        "https://olhardigital.com.br/2026/11/16/pro/conselho-da-nvidia-descarta-discutir-retorno-de-jensen-huang-como-ceo/",
+        "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+        "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+      ]
+    },
+    "texto_fonte": "Following reports that ousted Nvidia CEO Jensen Huang is plotting a return to the company, President Donald Trump has voiced his own support for such a move, Bloomberg reports. However, according to new insight from CNBC, Nvidia's board of directors is not considering the move and is instead focused on its ongoing investigation into Huang's extramarital affairs and a national security investigation, likely into possible allegations of chip smuggling into China.\nTrump reportedly made his comments in support of Huang's return to reporters at the White House on Monday, ahead of his trip to Asia. \"I would not mind that,\" he said. \"A lot of people are asking Jensen; they think Jensen should go back. That certainly isn’t a bad idea.” While Trump noted Huang's financial situation, he said the CEO did not put national security at risk and did not know Megaspeed executive Alice Huang was suspected of being a Chinese intelligence asset.\nLast week, the President said that Apple's former CEO Tim Cook was the only man to replace Huang in Nvidia's top job. Trump's comments also contrast sharply with those of Treasury Secretary Scott Bessent, who this week has called for Nvidia to replace Huang with an outsider, while giving the company 100 days to explain its dealings with China.\nAs mentioned, Jensen Huang's purported return does not seem to be an option the board is seriously considering. A person familiar with the matter told CNBC that the board of directors is focused on investigating Huang's conduct and a national security investigation and is not discussing his return.\nA large petition has started circulating pertaining to Huang's reinstatement, with Elon Musk the most notable to sign. Musk had ventured so far as to say it would be an 'honor' to hire Huang, presumably to his Terafab project, following revelations of his exit.\nWhile rumblings of possible illicit chip smuggling into China have dogged Nvidia for well over a year, Huang's tenure as founder and CEO ended somewhat abruptly last week after a series of revelations spiraled to bring about his resignation. In the wake of reports that US officials were said to be concerned about his close relationship with Megaspeed executive Alice Huang, it later transpired that Huang had indeed had an affair with Ms. Huang, and that there were suspicions she was a Chinese intelligence asset.\nSince that news broke, it has further been revealed that Huang also had an inappropriate relationship with one of his direct reports, Nvidia's VP of health care, Kimberly Powell, and that the company covered up the fling. Perhaps more concerningly for Jensen Huang, it has been alleged that Ms. Huang and Megaspeed may have been involved in chip smuggling into China to the tune of more than $7 billion, with hundreds of thousands of H100 and H200 chips said to have found their way into the country at her behest, a factor analysts believe may be the true reason behind Huang's exit.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nFor now, Nvidia's former CFO Colette Kress is serving as interim CEO, with one of her first orders of business the company's earnings call on November 17. The company's shares have tumbled sharply in the last week, perhaps understandably. Shares were down more than 4% on Monday, and more than 10% over the last five days, with the stock on course to lose nearly one-third of its value in the last six months.\nDownload the Tom's Hardware app for up-to-the-minute updates on iOS and Android. Also follow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nStephen is Tom's Hardware's News Editor with almost a decade of industry experience covering technology, having worked at TechRadar, iMore, and even Apple over the years. He has covered the world of consumer tech from nearly every angle, including supply chain rumors, patents, and litigation, and more. When he's not at work, he loves reading about history and playing video games.\n- \nI dont think Jensen will find employment anywhere anytime soon, much less NVidia. He's due to stand before U.S. congress and answer some tough questions. An investigation into his misdeeds is underway which could net him some time in the steel bar hotel. It should be known that this really has nothing to do with adultery, but rather, who these women actually were. The U.S. government doesn't fool around when it comes to things like national security. Circumventing sanctions/export laws is a big no-no and if he has been found to be doing that, he'll be doing some hard time, unless of course he can pay his way out. Corruption is a pretty big thing in government, so lord only knows. As well, it's alleged that one of these women was an executive who works under him, and that will make things very messy. That boy got some splainin to do. I think employment is the least of Jensen's concerns right nowReply",
+    "autor_fonte": "Stephen Warwick",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/AcvQdNE4MvE4MZ6pKF6f9Y-2000-80.jpg",
+    "imagem_arquivo": "imagens/hardware-trump-calls-for-jensen-huang-reinstateme.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "7af8fd38f02c",
+      "titulo": "Dirty ice around young star Beta Pictoris suggests frequent collisions and sheds light on the system's formation",
+      "url": "https://phys.org/news/2026-11-dirty-ice-young-star-beta.html",
+      "resumo": "In a recent study of infrared light collected by the James Webb Space Telescope (JWST), a group of astronomers detected ice for the first time around the young star Beta Pictoris. Researchers had expected ice around Beta Pictoris, but previous searches had not directly detected it. The study, published in Science, found that the ice is mostly noncrystalline and mixed with carbon dioxide. The team says these new details provide clues about the early formation of the Beta Pictoris system and collisions that may still be occurring.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-16T17:30:02+00:00",
+      "coletado_em": "2026-11-16T19:37:29.702861+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dirty-ice-found-around.jpg",
+      "score": 6.319,
+      "cobertura": []
+    },
+    "texto_fonte": "Dirty ice around young star Beta Pictoris suggests frequent collisions and sheds light on the system's formation\nKrystal Kasal\nAuthor\nIn a recent study of infrared light collected by the James Webb Space Telescope (JWST), a group of astronomers detected ice for the first time around the young star Beta Pictoris. Researchers had expected ice around Beta Pictoris, but previous searches had not directly detected it. The study, published in Science, found that the ice is mostly noncrystalline and mixed with carbon dioxide. The team says these new details provide clues about the early formation of the Beta Pictoris system and collisions that may still be occurring.\nA young star in a dusty disk\nBeta Pictoris is a roughly 20-million-year-old star about 64 light-years away, surrounded by a dusty disk containing planets and smaller bodies. While an age of 20 million years may not sound young, our own solar system is around 4.6 billion years old. So, Beta Pictoris' system is still stabilizing and forming smaller bodies within its dusty disk. So far, however, astronomers have identified three larger planets in the system, one of which was discovered earlier this year.\nEarlier observations around Beta Pictoris found carbon monoxide gas, although sunlight should have destroyed it within around 50 to 300 years, a short time on the cosmic scale. The researchers say that the presence of carbon monoxide gas might mean it was recently released from collisions involving solid ice, potentially from volatile-rich comets or planetesimals. Yet, no studies had previously found evidence of the ice. For pure ice, that made sense. Models suggested that pure ice grains would disappear rapidly under the conditions in the disk, but ice mixed with other materials could survive longer.\nInfrared study reveals ice\nIn the new study, the astronomers used JWST's near-infrared spectrograph (NIRSpec) to map the disk and analyze reflected starlight from opposite sides of the star. The new analysis directly detected signatures of water ice and carbon dioxide ice in the Beta Pictoris debris disk for the first time. The water ice was found to be overwhelmingly amorphous, meaning its molecules lack an orderly crystal structure. The team calculated that less than 7% of the ice volume could be crystalline water ice.\nThe spectra also showed that carbon dioxide was embedded in the water ice, with roughly one carbon dioxide molecule for every 10 water molecules. Although they say other mixtures are also possible, the carbon dioxide-to-water ratio is consistent with other spectral observations within the system.\nThe study authors write, \"We therefore suggest that a CO₂-H₂O mixture is probably the dominant configuration of the CO₂ ice, with the CO₂ ice located in a H₂O-rich environment in the β Pictoris disk.\"\nOld ice and ongoing collisions\nThe new observations of ice in Beta Pictoris resemble the ice in solar system comets and younger planet-forming disks, suggesting similar formation processes.\nThe study authors write, \"Both crystalline and amorphous H₂O ice have been observed within the solar system. If H₂O ice condensed in amorphous form early in the star formation process, then to remain amorphous, it must have remained below ~100 K or undergone processes that disrupt the crystal lattice, such as photolysis from high-energy photons, radiolysis from galactic cosmic rays, or sputtering from energetic stellar wind ions. In the outer disk, primordial amorphous H₂O ice (AWI) might then be common owing to these effects.\"\nThis means the ice may have originated in cold interstellar material or during the earliest stages of star formation. Then some of it was likely incorporated into icy planetesimals, protecting it from crystallization. The team also says that the ice signatures were found to be broadly uniform throughout the disk, which is more likely to mean it is coming from frequent collisions among these icy bodies throughout the disk, rather than a single recent smashup.\nThe study authors say that impact velocities in the early debris disk stage should be insufficient to crystallize water ice. And so, continuous collisions of icy bodies are probably happening at low impact velocities, keeping the water ice in an amorphous state. The anomalous carbon monoxide found in a previous study may also be explained by this process. Frequent collisions are likely supplying new carbon monoxide as it gets constantly destroyed by the star's light.\nThe study may also offer context for understanding our own solar system's icy ingredients. In future studies, comparisons across debris disks in systems of different ages could reveal how ice changes as planetary systems mature.\nWritten for you by our author Krystal Kasal, edited by Gaby Clark, and fact-checked and reviewed by Robert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.\nPublication details\nS. K. Betti et al., Carbon dioxide and amorphous water ices in the debris disk around β Pictoris, Science (2026). DOI: 10.1126/science.adw7770\n© 2026 Science X Network",
+    "autor_fonte": "Krystal Kasal",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/dirty-ice-found-around.jpg",
+    "imagem_arquivo": "imagens/astrofisica-dirty-ice-around-young-star-beta-pictori.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-dirty-ice-young-star-beta.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "635a65c01b8d",
+      "titulo": "Reading superconducting qubits while suppressing unwanted state transitions",
+      "url": "https://phys.org/news/2026-11-superconducting-qubits-suppressing-unwanted-state.html",
+      "resumo": "Recently an artificial intelligence proved an 18-year-old conjecture in computer science, called the Aaronson–Ambainis conjecture. The proof settles a long-standing conjecture (educated guess) that eliminates one proposed route to enormous quantum computer speedups, ruling out one particular variant of \"quantum supremacy,\" the term for the hypothesis that a programmable quantum computer can solve a problem that no classical computer can solve in any \"feasible\" amount of time.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-16T16:20:42+00:00",
+      "coletado_em": "2026-11-16T19:37:29.704526+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-superconductin.jpg",
+      "score": 6.205,
+      "cobertura": []
+    },
+    "texto_fonte": "Reading superconducting qubits while suppressing unwanted state transitions\nDavid Appell\nAuthor\nRecently an artificial intelligence proved an 18-year-old conjecture in computer science, called the Aaronson–Ambainis conjecture. The proof settles a long-standing conjecture (educated guess) that eliminates one proposed route to enormous quantum computer speedups, ruling out one particular variant of \"quantum supremacy,\" the term for the hypothesis that a programmable quantum computer can solve a problem that no classical computer can solve in any \"feasible\" amount of time.\nBut as theoretical computer science expert Scott Aaronson of the University of Texas at Austin wrote, \"It doesn't undermine any form of quantum supremacy that we did conjecture to exist!\" Which is to say, despite what you may have heard, the promises of quantum computing are still very much alive. Quantum computing is still very difficult, though. In particular, reading qubits is challenging because reading them often changes their state.\nToward that end, a research team from Colorado in the U.S. with a team member from Canada has built a device that can read a qubit without changing its state, with more than 99% fidelity. Their work is published in the journal Physical Review Letters.\nReading qubits without changing their state\nAkash V. Dixit of the U.S. National Institute of Standards and Technology in Boulder, Colorado, and colleagues explore \"the interaction between millimeter-wave photons and conventional transmon qubits, specifically for qubit readout.\"\nA \"qubit\" is the quantum mechanical version of a binary bit; its power comes because it is able to exist in more than one state simultaneously. A binary bit can only be in one state, 0 or 1. During calculations, the qubit uses all its simultaneous states, but when the state of the qubit is measured, it will be in one of two quantum mechanical states: |0> or |1>.\nThe state of a superconducting qubit is measured by a device called a readout resonator. The problem is, such a device often struggles to maintain the qubit's original state when consistently reading the qubit. Dixit and colleagues found a way around this problem, using a microwave resonator that operates in the millimeter range of wavelengths at a frequency of 35 gigahertz (GHz). Their new device accurately reads states using a much higher resonator frequency than conventional designs.\nReadout resonators are microwave cavities, enclosed structures usually made of metal, that trap microwaves inside. At certain frequencies, depending on the shape of the cavity, microwaves will form standing waves inside (also called stationary waves), allowing waves to reinforce one another and efficiently storing electromagnetic energy.\nIn particular, the resonant frequency of a readout resonator changes depending on whether the qubit is in its ground state or its excited state. Thus, readout resonators are used to measure the state of transmon qubits, the most widely used type of superconducting qubit. (The design of a transmon is basically a Josephson junction paired with a large shunting capacitor, designed to be unusually insensitive to electrical charge noise.)\nConventional transmons operate at 3 to 6 GHz, using readout resonators at 6 to 10 GHz. Here the researchers instead coupled a 3.083 GHz transmon to a 34.670 GHz aluminum cavity, meaning a readout-to-qubit frequency ratio greater than 10.\nThus a frequency measurement from the cavity measures the qubit's state. The new device's measurement fidelity is 99.2% using 109 readout photons, and the readout takes just 780 nanoseconds. This strategy raises the readout frequency rather than lowering the qubit frequency, preserving properties useful for conventional qubit operation.\nThe group writes that increasing the readout frequency to the millimeter range and keeping the transmon frequency in the microwave range \"allows us to maintain the required transmon anharmonicity needed for fast gates and operate with minimal residual thermal population.\"\nSuppressing unwanted state transitions\nThe group used a technique called Floquet simulations that helps explain why the large frequency separation works. The simulations are based on Floquet theory, a branch of ordinary differential equations providing a way to analyze systems being affected by regular, periodic pulses, particularly when the system's response is not constant but results in an enhanced response, akin to pushing a child on a swing. The simulations show that at millimeter-scale frequencies, the cavity drive mostly avoids transitions between states in the transmon's Josephson potential well.\n\"Because the drive-induced state transitions are suppressed,\" they write, \"we are able to perform a high-fidelity qubit readout using more than 100 photons.\" Moreover, they say coupling millimeter electromagnetic waves and transmon qubits in this way \"paves the way for further advancements in circuit QED (quantum electrodynamics) experiments.\"\nApplications of this new coupling they foresee include aid in dark matter searches and experiments where ultrastrong light interacts with matter in QED circuits. They also write that the coupling \"may be a central technology for hybrid quantum systems that leverage the capabilities of platforms, such as circuit optomechanics, Rydberg atoms, and other superconducting qubits.\"\nWritten for you by our author David Appell, edited by Sadie Harley, and fact-checked and reviewed by Robert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive. If this reporting matters to you, please consider a donation (especially monthly). You'll get an ad-free account as a thank-you.\nPublication details\nAkash V. Dixit et al., Millimeter Wave Readout of a Superconducting Qubit, Physical Review Letters (2026). DOI: 10.1103/c84y-ggqs. On arXiv: arxiv.org/abs/2603.13837\n© 2026 Science X Network",
+    "autor_fonte": "David Appell",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/reading-superconductin.jpg",
+    "imagem_arquivo": "imagens/quantica-reading-superconducting-qubits-while-sup.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-superconducting-qubits-suppressing-unwanted-state.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "a2ee37b387f7",
+      "titulo": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "resumo": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen, they think […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-16T16:39:36+00:00",
+      "coletado_em": "2026-11-16T19:37:29.712528+00:00",
+      "imagem_feed": null,
+      "score": 6.935,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+        "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+      ]
+    },
+    "texto_fonte": "Following Jensen Huang’s resignation as Nvidia’s CEO last week, Trump told reporters on Monday that he’s open to seeing Huang return and that he’s not certain that the woman Huang reportedly had an affair with was in fact a spy.\nTrump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia\nThe president also said he doesn’t know if one of the women Huang allegedly had an affair with was a Chinese spy.\n“I think having Jensen go back– a lot of people are asking Jensen, they think Jensen should go back. That certainly isn’t a bad idea.” Trump said he “would not mind” seeing Huang return as CEO, adding, “I threw out the name of Tim Cook, but I would say that Jensen’s reinstatement– I think he learned a big lesson, I guess maybe one lesson more important than another, but I would certainly not mind seeing that.” Trump has suggested Tim Cook step in as Nvidia’s CEO multiple times now.\nWhen asked about reports that Alice Huang, one of the women Jensen Huang allegedly had an affair with, was a Chinese spy, the president repeatedly claimed he wasn’t sure if it were true. “I don’t know that she’s a spy at all, nobody’s proven that,” Trump said.\nTrump also denied that Marco Rubio told him Alice Huang was a spy. “Usually what happens with that is that, any woman coming to the country that’s a beautiful woman that comes from China, they say she’s a spy,” Trump said. “I don’t know that she was a spy at all. I mean, I really don’t. I don’t know that, you know, Jensen obviously has two things going. He has a family situation, which is a rough deal, and what he wants to do is sell chips.”\nTrump went on to say national security “was not put at risk” by his close relationship with Jensen Huang.",
+    "autor_fonte": "Stevie Bonifield",
+    "site_fonte": "The Verge",
+    "imagem_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "imagem_arquivo": "imagens/computadores_pessoais-trump-says-it-certainly-isnt-a-bad-idea.jpg",
+    "imagem_credito": "The Verge",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "93ba9f0002bc",
+      "titulo": "Reviravolta: Jensen Huang articula retorno à NVIDIA com apoio de Elon Musk e Tim Sweeney",
+      "url": "https://canaltech.com.br/mercado/reviravolta-jensen-huang-articula-retorno-a-nvidia-com-apoio-de-elon-musk-e-tim-sweeney/",
+      "resumo": "Jensen Huang renunciou ao cargo de CEO da NVIDIA na última semana, mas não descarta voltar ao comando da empresa. De acordo com o site Financial Times, Huang conta com aliados no Vale do Silício para pressionar o conselho da Big Tech sobre um possível retorno . Uma das fontes ouvidas pela reportagem original afirma que há uma “sala de guerra” montada por parceiros e lobistas para trazê-lo de volta ao cargo. Há até a possibilidade de buscar apoio na Casa Branca, ainda que o caminho seja improvável — o Secretário do Tesouro dos EUA, Scott Bessent, já defendeu publicamente uma reestruturação na empresa de chips. Um dos argumentos dos aliados é de que Jensen Huang é uma pessoa querida no mercado de tecnologia. Outras fontes afirmam que o ex-CEO era o responsável por conduzir negociações importantes no mercado de IA. Um eventual retorno é apoiado até por funcionários da própria NVIDIA : comentários em caixa de sugestões internas da companhia defendem a volta do executivo. Por enquanto, a companhia é liderada de forma interina por Colette Kress, que atuava como vice-presidente executiva e diretora financeira antes da mudança. Apoio de grandes nomes Jensen Huang também é defendido por nom",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T17:02:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/32bR7hWUmRc33yKtg8Rh9WHENiQ=/0x0/filters:format(webp):quality(85)/486c9595-4175-434e-9999-3fd4ddf2b81f.png",
+      "score": 6.322,
+      "cobertura": [
+        "https://olhardigital.com.br/2026/11/16/pro/conselho-da-nvidia-descarta-discutir-retorno-de-jensen-huang-como-ceo/",
+        "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return"
+      ]
+    },
+    "texto_fonte": "Reviravolta: Jensen Huang articula retorno à NVIDIA com apoio de Elon Musk e Tim Sweeney\nPor André Lourenti Magalhães • Editado por Jones Oliveira |\nJensen Huang renunciou ao cargo de CEO da NVIDIA na última semana, mas não descarta voltar ao comando da empresa. De acordo com o site Financial Times, Huang conta com aliados no Vale do Silício para pressionar o conselho da Big Tech sobre um possível retorno.\nUma das fontes ouvidas pela reportagem original afirma que há uma “sala de guerra” montada por parceiros e lobistas para trazê-lo de volta ao cargo. Há até a possibilidade de buscar apoio na Casa Branca, ainda que o caminho seja improvável — o Secretário do Tesouro dos EUA, Scott Bessent, já defendeu publicamente uma reestruturação na empresa de chips.\nUm dos argumentos dos aliados é de que Jensen Huang é uma pessoa querida no mercado de tecnologia. Outras fontes afirmam que o ex-CEO era o responsável por conduzir negociações importantes no mercado de IA.\nUm eventual retorno é apoiado até por funcionários da própria NVIDIA: comentários em caixa de sugestões internas da companhia defendem a volta do executivo. Por enquanto, a companhia é liderada de forma interina por Colette Kress, que atuava como vice-presidente executiva e diretora financeira antes da mudança.\nApoio de grandes nomes\nJensen Huang também é defendido por nomes importantes do mercado, como Elon Musk e o CEO da Epic Games, Tim Sweeney. Ambos assinaram uma carta aberta pedindo para o conselho “trazer Jensen de volta”.\nA NVIDIA ainda não tem novas atualizações sobre o comando da empresa, mas rumores apontam que o CEO da Arm, Rene Haas, seria um dos favoritos a assumir a cadeira deixada por Huang.\nJensen Huang renunciou ao cargo após confirmar um caso extraconjugal com a ex-diretora da Megaspeed International e empresária Alice Huang, acusada de espionagem a favor da China.",
+    "autor_fonte": "André Lourenti Magalhães",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/Po-W2jwQdBpYxLdMQFSoUolGVSU=/1200x675/smart/filters:format(webp):quality(85)/ca450202-1e12-4e5a-9ce7-8077446f89df.png",
+    "imagem_arquivo": "imagens/inteligencia_artificial-reviravolta-jensen-huang-articula-retorn.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/mercado/reviravolta-jensen-huang-articula-retorno-a-nvidia-com-apoio-de-elon-musk-e-tim-sweeney/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "ba125f2d2941",
+      "titulo": "Striped semiconductor panel improves hydrogen production by separating water-splitting reaction sites",
+      "url": "https://techxplore.com/news/2026-11-striped-semiconductor-panel-hydrogen-production.html",
+      "resumo": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have developed an ordered patterning strategy that integrates p-type and n-type BiVO₄ stripes on a conductive substrate. This strategy enables efficient Z-scheme charge separation and significantly enhances the photocatalytic overall water-splitting process. The research is published in the journal Advanced Energy Materials.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-16T18:00:05+00:00",
+      "coletado_em": "2026-11-16T19:37:29.715648+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-ord.jpg",
+      "score": 5.371,
+      "cobertura": []
+    },
+    "texto_fonte": "Striped semiconductor panel improves hydrogen production by separating water-splitting reaction sites\nScientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have developed an ordered patterning strategy that integrates p-type and n-type BiVO₄ stripes on a conductive substrate. This strategy enables efficient Z-scheme charge separation and significantly enhances the photocatalytic overall water-splitting process. The research is published in the journal Advanced Energy Materials.\nAlthough solar-driven water splitting is a promising route to green hydrogen, photogenerated electrons and holes tend to recombine, and surface reverse reactions severely limit efficiency. Solid-state Z-scheme heterojunctions connect two semiconductors through a conductive mediator and can provide a high driving force for water splitting while directing high-energy electrons and holes to different components. However, conventional particle-based Z-scheme systems rely on random interparticle contacts, which makes charge-transfer pathways uncontrollable and often exacerbates recombination.\nOrdered stripes direct charge transfer\nTo address this issue, the researchers proposed an ordered patterning strategy. Using photolithography, they fabricated alternating stripes of p-type tetragonal zircon BiVO₄ (t-BVO) and n-type monoclinic scheelite BiVO₄ (m-BVO) on an FTO conductive glass substrate.\nThe FTO layer serves as a conductive mediator that establishes Z-scheme charge-transfer channels between adjacent stripes. Photogenerated electrons accumulate on the p-type t-BVO stripes and photogenerated holes accumulate on the n-type m-BVO stripes. This spatial separation effectively suppresses charge recombination and reverse reactions.\nThe patterned panel was fabricated by first depositing an m-BVO film on FTO via metal-organic decomposition, then patterning it by photolithography and wet etching, and finally hydrothermally growing t-BVO epitaxially on the exposed FTO regions. The resulting t-BVO//m-BVO alternating stripes were approximately 15 μm wide. Photochemical deposition, surface photovoltage imaging, Kelvin probe force microscopy and surface photovoltage measurements confirm the Z-scheme charge-transfer behavior.\nSeparated reaction sites boost hydrogen yields\nThe researchers then selectively photodeposited Rh@CrOₓ as a hydrogen-evolution cocatalyst on the t-BVO stripes and MnOₓ as an oxygen-evolution cocatalyst on the m-BVO stripes. This spatially separated the oxidation and reduction sites and further suppressed charge recombination and reverse reactions.\nUnder full-spectrum illumination, the patterned panel achieves stoichiometric overall water splitting, producing 1.77 mmol m⁻² of hydrogen and 0.84 mmol m⁻² of oxygen within one hour, with yields about four times higher than those of the unpatterned control.\nThis work demonstrates that combining ordered semiconductor patterning with a conductive substrate–mediated Z-scheme is an effective strategy for improving the efficiency of photocatalytic overall water splitting. This approach provides a new method for designing scalable photocatalytic panels.\nPublication details\nYufei Du et al., Patterning p‐Type and n‐Type BiVO 4 for Solar‐Driven Water Splitting, Advanced Energy Materials (2026). DOI: 10.1002/aenm.71670",
+    "autor_fonte": "Chinese Academy",
+    "site_fonte": "Tech Xplore",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/scientists-develop-ord.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-striped-semiconductor-panel-improves-hyd.jpg",
+    "imagem_credito": "Tech Xplore",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techxplore.com/news/2026-11-striped-semiconductor-panel-hydrogen-production.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "294af5187bc4",
+      "titulo": "Nova vida nos Galaxy: vazamento revela Bixby 5.0 com memória de IA e tarefas automáticas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/nova-vida-nos-galaxy-vazamento-revela-bixby-50-com-memoria-de-ia-e-tarefas-automaticas/",
+      "resumo": "Um vazamento revelou mudanças importantes no assistente virtual da Samsung . A Bixby 5.0 deve ter recursos de inteligência artificial para memorizar preferências, entender pedidos complexos e executar tarefas automaticamente. As novidades foram demonstradas pelo canal AppX, no YouTube, e detalhadas pelo site Android Authority. A Bixby ganhará uma função chamada Memória para registrar informações pessoais e preferências, mantendo esses dados como referência em conversas futuras. O usuário poderá salvar informações com comandos, como “Lembre-se” e “Salve”, mas o assistente também será capaz de aprender com o histórico de chats. O recurso ficará nas configurações avançadas do aplicativo e precisará de processamento na nuvem para oferecer respostas personalizadas. Caso o usuário escolha o processamento totalmente offline, as respostas poderão perder parte dessa personalização, já que a Bixby não conseguirá consultar as memórias salvas pela internet. Vale ressaltar que essa função é diferente do aplicativo independente Samsung Memory, também identificado em vazamentos anteriores sobre a One UI 9.5. Enquanto o segundo tem uma proposta visual semelhante ao Pixel Screenshots, do Google, a ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-16T16:02:00+00:00",
+      "coletado_em": "2026-11-16T19:37:29.724610+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Q2wI-0xi3dtsbl5wHwZ5CquuNrI=/0x0/filters:format(webp):quality(85)/fa6d7875-3eec-48f7-b0fd-5ba0cc06b3a7.png",
+      "score": 4.225,
+      "cobertura": []
+    },
+    "texto_fonte": "Nova vida nos Galaxy: vazamento revela Bixby 5.0 com memória de IA e tarefas automáticas\nPor Viviane França |\nUm vazamento revelou mudanças importantes no assistente virtual da Samsung. A Bixby 5.0 deve ter recursos de inteligência artificial para memorizar preferências, entender pedidos complexos e executar tarefas automaticamente. As novidades foram demonstradas pelo canal AppX, no YouTube, e detalhadas pelo site Android Authority.\nA Bixby ganhará uma função chamada Memória para registrar informações pessoais e preferências, mantendo esses dados como referência em conversas futuras. O usuário poderá salvar informações com comandos, como “Lembre-se” e “Salve”, mas o assistente também será capaz de aprender com o histórico de chats.\nO recurso ficará nas configurações avançadas do aplicativo e precisará de processamento na nuvem para oferecer respostas personalizadas. Caso o usuário escolha o processamento totalmente offline, as respostas poderão perder parte dessa personalização, já que a Bixby não conseguirá consultar as memórias salvas pela internet.\nVale ressaltar que essa função é diferente do aplicativo independente Samsung Memory, também identificado em vazamentos anteriores sobre a One UI 9.5. Enquanto o segundo tem uma proposta visual semelhante ao Pixel Screenshots, do Google, a memória integrada à Bixby serve especificamente para guardar o contexto pessoal entre conversas.\nA reformulação também transforma a Bixby em um agente de inteligência artificial que consegue dividir solicitações complexas em etapas e executá-las em segundo plano. No vídeo, o canal AppX usa o planejamento de uma viagem como exemplo hipotético do que o assistente poderá fazer no futuro, incluindo buscar hotéis, conferir opções disponíveis e ajudar no processo de reserva.\nJá a aba Ações, acessível pelo menu lateral, funciona como uma central de tarefas agendadas. Com ela, será possível configurar buscas recorrentes por informações, como a cotação do dólar e o índice Nifty, em horários específicos. Antes de salvar uma rotina, o assistente pede a confirmação do usuário. As tarefas ficam registradas e podem ser pausadas, reativadas ou excluídas a qualquer momento.\nA interface contará com mudanças para facilitar o envio de conteúdo durante as conversas. Uma nova barra flutuante chamada Ask Bixby terá um botão de adição (+) para anexar imagens da galeria, tirar fotos com a câmera ou selecionar arquivos do dispositivo. Na demonstração, o botão ainda apresenta funções mais básicas do que as encontradas no ChatGPT e no Gemini.\nA tela inicial do assistente também vai ter uma organização diferente. No topo, a Bixby cumprimentará o usuário pelo nome e apresentará sugestões divididas em duas categorias: “Ações para experimentar” e “Coisas para perguntar”. A primeira traz ideias de tarefas, como resumir conversas com um contato em uma nota ou limpar o armazenamento do celular. A segunda apresenta sugestões de perguntas para fazer ao assistente.\nA Samsung também prepara três novos widgets para a tela inicial dos Galaxy. Os atalhos incluem opções para abrir o microfone, digitar comandos, usar a câmera, anexar imagens da galeria e enviar arquivos. Os widgets atuais, incluindo os disponíveis na linha Galaxy S25, oferecem opções mais limitadas, concentradas em microfone, teclado e acesso ao Ask Bixby.\nQuando a nova Bixby será lançada?\nOs recursos foram identificados em um APK interno da Samsung, ainda não lançado oficialmente. Por isso, não há confirmação de que todas as novidades chegarão à versão final do assistente.\nA expectativa é que a empresa apresente a One UI 9.5 junto à linha Galaxy S27, no início de 2027. Caso o cronograma se confirme, a nova Bixby poderá estrear com a próxima geração de celulares da marca.",
+    "autor_fonte": "Viviane França",
+    "site_fonte": "Canaltech",
+    "imagem_url": "https://tl.ctcdn.com.br/CCJLk9vLShtj316mJ-_UWXTxlJI=/1200x675/smart/filters:format(webp):quality(85)/d706d909-8ec9-4f02-b7b2-75bd1f2fb62e.jpeg",
+    "imagem_arquivo": "imagens/ciberseguranca-nova-vida-nos-galaxy-vazamento-revela-bi.jpg",
+    "imagem_credito": "Canaltech",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://canaltech.com.br/inteligencia-artificial/nova-vida-nos-galaxy-vazamento-revela-bixby-50-com-memoria-de-ia-e-tarefas-automaticas/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]
