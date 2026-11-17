@@ -1,0 +1,33 @@
+# SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail
+
+- Editoria: Engenharia e Computação Quântica (`quantica`)
+- Fonte: The Quantum Insider — https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/
+- Autor: Matt Swayne
+- Publicado: 2026-11-17T15:40:15+00:00
+- Score: 5.39
+- Imagem: imagens/quantica-saxon-q-announces-quantum-watchdog-to-de.jpg | crédito: The Quantum Insider | licença: © do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)
+
+## Outras coberturas
+- nenhuma
+
+## Texto extraído
+
+Insider Brief
+- SAXON Q announced Quantum Watchdog, a patented system designed to detect quantum computer hardware failures and trigger protective responses, with implementation available in early 2027.
+- The system uses an independent classical processor to run verified test calculations, monitor operating conditions and compare results across multiple quantum processors.
+- Custom configurations can devote up to half of processing time to safety checks, while fully certified versions are expected within the next few years.
+PRESS RELEASE — SAXON Q, a leader in NV-center quantum computing, today announced the Quantum Watchdog, a patented safety system that monitors a quantum computer and puts it into a safe mode if it fails. The system is designed for quantum computers operating in research environments and upcoming industrial applications — including robotics, health care, automotive and defense — where hardware failures could put people or equipment at risk
+SAXON Q’s Quantum Watchdog runs on its own classical processor, with a separate clock, timers and sensors. Its firmware holds a library of test calculations, along with the statistics to tell if the quantum computer isn’t behaving within set parameters. The watchdog can then respond as needed to protect the processors and operations. Each system will be custom-built, giving customers control over how much monitoring they need. The watchdog is designed to work across quantum computing modalities, from data center clusters to room-temperature systems headed for use in the field.
+“Quantum computers are already doing valuable work in data centers and labs today, and room-temperature systems like ours will take them places others can’t, from vehicles and robots to defense systems in the field,” said Bernd Burchard, co-founder and chief intellectual property officer of SAXON Q. “Either way, a failure has real consequences. We designed the Quantum Watchdog to make it possible to bring quantum computers into security and safety-related areas while minimizing the risk to people and property.”
+Safety systems for classical electronics and computers have been around for decades, and frequently work by double-checking results. But checking a quantum computer’s answers isn’t always practical, and it doesn’t reveal whether the hardware itself is starting to fail. SAXON Q’s Quantum Watchdog takes a different approach, thanks to advancements in compact, multi-core quantum processors that can check each other’s work.
+Instead of checking every result, Quantum Watchdog confirms that the quantum computer itself is working as expected. While in service, it periodically swaps a user’s calculation for a test problem that has a verified answer. If the machine returns the wrong answer more often than it should, the watchdog marks it as a failure. It also tracks physical operating conditions, including power draw, temperature and magnetic field. If any fall outside the preset limits, the watchdog treats it as a failure and reacts according to established protocols.
+If a machine is running multiple quantum processors, the watchdog takes a page from aircraft and electronic brake systems that rely on redundancies. For a unit running two processors, it will test both and compare the answers, then put the unit into safe mode if the answers don’t match. With three processors or more, the watchdog takes a vote and can then shut down the processors that come back with answers that don’t match the majority to keep the others operating.
+“While the quantum industry is actively building toward error correction, there’s still the problem of making sure the hardware itself is working properly,” said Marius Grundmann, co-founder and CEO of SAXON Q. “A hardware failure is typically the result of an actual defect from manufacturing flaws, aging or tampering. That matters more and more as room-temperature machines like ours leave the lab. Error correction handles errors, the watchdog catches failures.”
+Quantum Watchdog is designed and patented as a hardware-neutral solution. It can be applied to quantum computing modalities including superconducting and trapped-ion processors, along with other qubit platforms and quantum sensors. The watchdog was initially developed, however, with NV-center diamond processors in mind, including SAXON Q’s room-temperature, multi-core quantum computers. For industries that operate outside the lab and can benefit from the power of quantum computing, that opens up a host of possibilities.
+Earlier this year, SAXON Q announced two new multi-core quantum computers, the SXQ128 and the SXQ512. In either model, one of the system’s control circuits can be configured as a Quantum Watchdog at the customer’s request, trading some computing capacity for added protection. SAXON Q is currently focusing on quantum HPC clusters where operators need to be able to identify and swap out a failed machine while the rest of the cluster continues to run, and on defense, where systems need to operate without cloud access.
+Availability
+SAXON Q’s Quantum Watchdog will be available for implementation in early 2027, and will be available upon request. Each watchdog is custom built based on individual requirements. For users needing the highest levels of safety, up to half of a quantum computer’s processing time can be spent on test calculations, while less critical operations can be set to test only at startup or intermittently.
+A basic version of the watchdog that does not require industry certification takes around six months to implement. A fully certified version that meets the highest safety requirements — including independent audits and field testing — will be available within the next few years. Patents have been granted in Europe, the U.S. and China, and SAXON Q is now offering licenses to quantum hardware manufacturers, system integrators and OEMs.
+Matt Swayne
+Get the latest research, company news, and market intelligence every week.
+MENTIONED IN THE ARTICLE

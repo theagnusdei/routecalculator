@@ -1,0 +1,777 @@
+{
+  "medicina": [
+    {
+      "id": "12bfc2ae4582",
+      "titulo": "História oral: artigo da HCS-Manguinhos aborda entrevista realizada com a parasitologista Maria Deane",
+      "url": "https://agencia.fiocruz.br/historia-oral-artigo-da-hcs-manguinhos-aborda-entrevista-realizada-com-parasitologista-maria-deane",
+      "resumo": "História oral: artigo da HCS-Manguinhos aborda entrevista realizada com a parasitologista Maria Deane Na Belém dos anos 1930, existiam três possibilidades para quem almejava ingressar no ensino superior: direito, engenharia e medicina. Maria escolheu a terceira opção, mas precisou vencer as objeções das tias. A permissão só foi dada após recorrerem aos conselhos do médico da família. Depois de perguntar para a adolescente se ela realmente queria ser médica, ele fez um alerta: “Você sabe que você vai ter que examinar cadáveres de homens nus?” […]. Ao que ela, segura da escolha que fizera, respondeu: “E daí?”. Ao permitirem que a filha mais velha, que desde cedo queria ter uma profissão e ganhar a própria vida, decidisse o rumo profissional, os pais de Maria José von Paumgartten Deane (1916-1995) abriram caminho para uma trajetória marcada pelo pioneirismo feminino na ciência e pela melhoria da saúde pública brasileira. A cientista fez importantes contribuições à parasitologia e à medicina tropical, a partir de estudos que ajudaram a elucidar o processo de transmissão e controle da malária, além de avanços nos conhecimentos sobre leishmaniose visceral e doença de Chagas. O episódio s",
+      "fonte": "Agência Fiocruz",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-17T17:03:38+00:00",
+      "coletado_em": "2026-11-17T18:35:27.339565+00:00",
+      "imagem_feed": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/inline-images/BR_RJCOC_DE-02-17.jpg",
+      "score": 6.831,
+      "cobertura": []
+    },
+    {
+      "id": "10c001b96645",
+      "titulo": "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
+      "url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
+      "resumo": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-17T12:00:00+00:00",
+      "coletado_em": "2026-11-17T18:35:27.339223+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2022/12/19467-1024x576.jpg",
+      "score": 6.217,
+      "cobertura": []
+    },
+    {
+      "id": "ead9d5362967",
+      "titulo": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
+      "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
+      "resumo": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-17T09:30:00+00:00",
+      "coletado_em": "2026-11-17T18:35:27.339223+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_331634765-1024x576.jpeg",
+      "score": 6.033,
+      "cobertura": []
+    },
+    {
+      "id": "5ffadf2be7cc",
+      "titulo": "Review examines pain mechanisms and offers a framework for personalized treatment of endometriosis",
+      "url": "https://medicalxpress.com/news/2026-11-pain-mechanisms-framework-personalized-treatment.html",
+      "resumo": "A joint research team comprising professor Kyeong A So of the Department of Obstetrics and Gynecology at Korea University Guro Hospital and professors Jae-Wook Jeong and Tae Hoon Kim of the University of Missouri School of Medicine has comprehensively examined how pain develops and persists in patients with endometriosis. The team proposed new research directions to translate these insights into personalized treatment. Their review article was selected as a featured article in the journal Endocrine Reviews, highlighting its scientific significance and clinical relevance.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-17T18:20:20+00:00",
+      "coletado_em": "2026-11-17T18:35:27.338548+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/review-examines-pain-m.jpg",
+      "score": 6.021,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "8a6fe66538b3",
+      "titulo": "New database iCellOmics integrates multiomics data for industrial cell lines",
+      "url": "https://phys.org/news/2026-11-database-icellomics-multiomics-industrial-cell.html",
+      "resumo": "Industrially relevant cell lines include both direct production hosts for recombinant proteins, vaccines and viral vectors, and biomedical models that serve as references for host-cell engineering and comparative studies. These cell lines support the development and worldwide supply of recombinant therapeutics, viral vaccines and gene therapies.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-17T16:40:11+00:00",
+      "coletado_em": "2026-11-17T18:35:27.340392+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-database-icellomic.jpg",
+      "score": 5.84,
+      "cobertura": []
+    },
+    {
+      "id": "a1944b962492",
+      "titulo": "Jumping genes may help build a more diverse brain, fruit fly study reveals",
+      "url": "https://phys.org/news/2026-11-genes-diverse-brain-fruit-fly.html",
+      "resumo": "Researchers at the University of Oxford have found that so-called \"jumping genes\" are surprisingly often incorporated into the genetic messages made by cells in the fruit fly brain. In the examples studied, an average of almost one in five RNA messages contained sequence from a jumping gene.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-17T16:20:02+00:00",
+      "coletado_em": "2026-11-17T18:35:27.340392+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/jumping-genes-may-help.jpg",
+      "score": 5.806,
+      "cobertura": []
+    },
+    {
+      "id": "4367a386f6ba",
+      "titulo": "Researchers count kinetochore proteins in living cells using an improved fluorescence-based method",
+      "url": "https://phys.org/news/2026-11-kinetochore-proteins-cells-fluorescence-based.html",
+      "resumo": "Accurate division of genetic material is critical for life and growth, and key to this is a protein structure called the kinetochore. Without this structure, the genetic material cannot be segregated equally into two daughter cells. However, challenges in discovering the exact molecular organization of the kinetochore in living cells have prevented researchers from understanding how these proteins work together to build it.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-17T15:40:11+00:00",
+      "coletado_em": "2026-11-17T18:35:27.340392+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-count-kine.jpg",
+      "score": 5.739,
+      "cobertura": []
+    },
+    {
+      "id": "035bd0aac3f8",
+      "titulo": "Neanderthal DNA linked to a key brain structure may lower the risk of schizophrenia",
+      "url": "https://phys.org/news/2026-11-neanderthal-dna-linked-key-brain.html",
+      "resumo": "When our ancestors interbred with Neanderthals tens of thousands of years ago, we inherited genetic variants that are still affecting us today.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-17T17:00:01+00:00",
+      "coletado_em": "2026-11-17T18:35:27.340392+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/neanderthal-dna-linked.jpg",
+      "score": 5.374,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "afd0415ebb44",
+      "titulo": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
+      "url": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
+      "resumo": "Boston Dynamics’ Atlas humanoid robot will undergo its first trials outside the automotive industry at a major semiconductor manufacturer in early 2027. The post Boston Dynamics’ Atlas humanoid lands first non-automotive trial appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-17T14:49:05+00:00",
+      "coletado_em": "2026-11-17T18:35:27.342974+00:00",
+      "imagem_feed": null,
+      "score": 5.008,
+      "cobertura": []
+    },
+    {
+      "id": "1dea03b2350e",
+      "titulo": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+      "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "resumo": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others. Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The count may change following vendor and vulnerability-authority review, and some findings do not yet have CVE tracking numbers. Many of these tools help teams train, simulate, test, and operate robots. Weaknesses in them could influence the models teams build, the test results they trust, and the instructions sent to robots. These findings create two demands for robotics teams: responding as AI helps uncover weaknesses faster , and assessing how each one could affect robot safety and operations . What AI changes about vulnerability discovery Vulnerability discovery involves examining code, tracing how systems communicate, and testing whether a suspected weakness can actually be exploited. AI can accelerate parts of this work, helping researchers analyze more software in less time. Attackers coul",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial",
+        "robotica"
+      ],
+      "publicado": "2026-11-16T10:00:01+00:00",
+      "coletado_em": "2026-11-17T18:35:27.341828+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=980",
+      "score": 4.454,
+      "cobertura": []
+    },
+    {
+      "id": "c9da46c837ee",
+      "titulo": "Agile Robots raises $500M to increase production capacity",
+      "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+      "resumo": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-16T17:47:48+00:00",
+      "coletado_em": "2026-11-17T18:35:27.342974+00:00",
+      "imagem_feed": null,
+      "score": 4.378,
+      "cobertura": []
+    },
+    {
+      "id": "13074a84e53e",
+      "titulo": "The hidden reason most robots fail on the factory floor",
+      "url": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
+      "resumo": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally. The post The hidden reason most robots fail on the factory floor appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-16T23:49:56+00:00",
+      "coletado_em": "2026-11-17T18:35:27.342974+00:00",
+      "imagem_feed": null,
+      "score": 4.077,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "2cd24e988391",
+      "titulo": "Microsoft eleva desempenho do Xbox Series em até 16% com tecnologia do Steam Deck",
+      "url": "https://canaltech.com.br/hardware/microsoft-eleva-desempenho-do-xbox-series-em-ate-16-com-tecnologia-do-steam-deck/",
+      "resumo": "A Microsoft começou a testar uma nova ferramenta que promete extrair ainda mais performance dos consoles Xbox Series X|S sem exigir mudanças no hardware . De acordo com a documentação oficial da atualização de outubro de 2026 do Microsoft Game Development Kit (GDK), a empresa introduziu de forma experimental o compilador de shaders ACO , originalmente desenvolvido pela comunidade de código aberto do projeto Mesa e amplamente utilizado no Linux e no Steam Deck para GPUs AMD. Nos testes iniciais feitos pelo próprio Xbox junto aos estúdios parceiros, o novo compilador entregou ganhos de desempenho que variam entre 2% e 16% em tempo de execução , dependendo do motor gráfico, do tipo de conteúdo e dos gargalos de shaders de cada jogo. Além de melhorar a taxa de quadros e a eficiência da GPU RDNA 2 dos consoles, a tecnologia também acelera o próprio processo de compilação durante o desenvolvimento. Otimização extra junto com a chegada do FSR 4 A adoção do compilador baseado em ACO funciona como uma alternativa opcional ao compilador padrão tradicional do Xbox, permitindo que os desenvolvedores otimizem o código executado diretamente nos chips gráficos da AMD. Como o ACO foi projetado esp",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-17T12:00:04+00:00",
+      "coletado_em": "2026-11-17T18:35:27.369208+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/9kTHY0IQY4pEzGmv8rGCht-vdlQ=/0x0/filters:format(webp):quality(85)/961c1963-ce15-4a0e-8907-751066694c69.png",
+      "score": 5.467,
+      "cobertura": []
+    },
+    {
+      "id": "3cdb8ebca826",
+      "titulo": "Redict deprecated in favor of Valkey",
+      "url": "https://lwn.net/Articles/1108155/",
+      "resumo": "Drew DeVault has announced that Redict , a fork of Redis that was created in response to Redis's 2024 license change , has been deprecated. He recommends switching to Valkey , the permissively licensed Redis fork supported by the Linux Foundation. The two projects are mutually compatible, so switching should be as simple as changing which package is installed and renaming the configuration file. I had hoped to rally the Redis diaspora around a copyleft initiative, to protect ourselves from future rug-pulls, and made Redict to serve this purpose. However, with the valkey project's success, and Redis's return to a copyleft license, Redict was not able to build a sustainable community. We recommend that Redict users switch to valkey, which uses a permissive license but has better long-term prospects. We advise against switching back to Redis; though it is once again open source, and copyleft, it uses a contributor license agreement which will facilitate another rug-pull when Redis has a bad financial quarter.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-17T16:20:44+00:00",
+      "coletado_em": "2026-11-17T18:35:27.344178+00:00",
+      "imagem_feed": null,
+      "score": 5.307,
+      "cobertura": []
+    },
+    {
+      "id": "7aee6a8976a2",
+      "titulo": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1108140/",
+      "resumo": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, bind, bind9.18, buildah, c-ares, cjose, cockpit, cockpit-files, cockpit-machines, cockpit-podman, containernetworking-plugins, crun, delve, dhcp, dogtag-pki, dovecot, dpdk, edk2, emacs, environment-modules, expat, fetchmail, firefox, flatpak, flatpak-builder, freerdp, gcc, gcc-toolset-15-gcc, gcc-toolset-16-gcc, git-lfs, glib2, glibc, glycin-loaders, gnome-remote-desktop, go-fdo-client, go-fdo-server, grafana, grafana-pcp, gstreamer1, gstreamer1-plugins-bad-free, gstreamer1-plugins-base, guava, gvfs, gvisor-tap-vsock, ignition, iperf3, java-1.8.0-openjdk, jq, kernel, librabbitmq, libreswan, librsvg2, libsoup, libsoup3, libX11, libXi, libxml2, libXrender, libXtst, lrzsz, microcode_ctl, mingw-glib2, mod_auth_openidc, mod_http2, NetworkManager, nginx, nginx:1.24, nginx:1.26, nodejs:24, nodejs:26, oci-seccomp-bpf-hook, openexr, openssh, openssl, pcp, perl-DBI, perl-DBI:1.641, perl-URI, php:8.4, podman, polkit, postgresql:16, python-jwcrypto, python-oauthlib, python-tornado, python3, python3.12, python3.9, rpm, rsyslog, runc, rust-sequoia-sq, sos, squid, sssd, tesseract, tftp, tomcat, tomcat9, unbo",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-17T14:15:33+00:00",
+      "coletado_em": "2026-11-17T18:35:27.344178+00:00",
+      "imagem_feed": null,
+      "score": 5.107,
+      "cobertura": []
+    },
+    {
+      "id": "aa9ce3deb1b1",
+      "titulo": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "resumo": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
+      "fonte": "GitHub Blog",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-17T18:29:29+00:00",
+      "coletado_em": "2026-11-17T18:35:27.343287+00:00",
+      "imagem_feed": null,
+      "score": 5.039,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "e561862ab376",
+      "titulo": "Jensen Huang says he would be ‘honored’ to return as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees",
+      "resumo": "In his first statement since his resignation, former Nvidia CEO Jensen Huang expressed openness to returning to his former role.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-17T16:33:23+00:00",
+      "coletado_em": "2026-11-17T18:35:27.344779+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Q57X2C2kb7mvEAhLmcPtrj-1920-80.jpg",
+      "score": 7.978,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/ceos-de-tecnologia-pedem-volta-de-jensen-huang-a-nvidia/",
+        "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+        "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+      ]
+    },
+    {
+      "id": "b380dfe95e53",
+      "titulo": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+      "resumo": "President Trump has called for Jensen Huang to return as Nvidia CEO, but a new report says the board is not considering the move.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-16T18:24:40+00:00",
+      "coletado_em": "2026-11-17T18:35:27.344779+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/AcvQdNE4MvE4MZ6pKF6f9Y-1920-80.jpg",
+      "score": 6.695,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/ceos-de-tecnologia-pedem-volta-de-jensen-huang-a-nvidia/",
+        "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "https://canaltech.com.br/mercado/conselho-da-nvidia-descarta-volta-de-jensen-huang-mesmo-apos-aprovacao-de-trump/",
+        "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+        "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+        "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+      ]
+    },
+    {
+      "id": "5ec44eee3a68",
+      "titulo": "Conselho da Nvidia descarta volta de Jensen Huang mesmo após aprovação de Trump",
+      "url": "https://canaltech.com.br/mercado/conselho-da-nvidia-descarta-volta-de-jensen-huang-mesmo-apos-aprovacao-de-trump/",
+      "resumo": "Porta fechada para o retorno de Jensen Huang: a NVIDIA descarta o retorno do ex-CEO que renunciou ao cargo na última semana. A decisão acontece após um movimento de aliados para pedir o executivo de volta e teve até com o apoio do presidente dos Estados Unidos , Donald Trump. De acordo com a agência Reuters, o conselho da fabricante de chips não tem interesse em trazê-lo de volta. Uma das avaliações é de que um eventual retorno seria muito arriscado enquanto ainda existem investigações em andamento sobre o caso . Por outro lado, a Big Tech corre contra o tempo para nomear um sucessor e se recuperar da queda massiva de valor de mercado nas bolsas de valores. A ex-CFO, Collette Kress, ocupa a posição de forma interina. Apoio de Donald Trump e Elon Musk Ainda há uma campanha ativa pela volta de Jensen Huang à NVIDIA. O jornal Financial Times afirmou que aliados montaram uma “sala de guerra” para conseguir apoio na Casa Branca e tentar convencer o conselho . O presidente dos Estados Unidos, Donald Trump, afirmou na última segunda-feira (17) que Huang “poderia voltar” e que “não se importa” com um retorno após as acusações . Trump ainda disse que há um grupo grande de pessoas que apoiam",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-17T12:10:12+00:00",
+      "coletado_em": "2026-11-17T18:35:27.369208+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5d3C5bAqji21_ou2A6azocghX_Y=/0x0/filters:format(webp):quality(85)/a1856980-2750-4074-a00e-53f55354fc14.jpg",
+      "score": 6.48,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/ceos-de-tecnologia-pedem-volta-de-jensen-huang-a-nvidia/",
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
+      ]
+    },
+    {
+      "id": "014151a53bd0",
+      "titulo": "CEOs de tecnologia pedem volta de Jensen Huang à Nvidia",
+      "url": "https://tecnoblog.net/noticias/ceos-de-tecnologia-pedem-volta-de-jensen-huang-a-nvidia/",
+      "resumo": "Campanha a favor de Jensen Huang tem apoio de grandes nomes da tecnologia, como Elon Musk, Tim Sweeney, Garry Tan e Travis Kalanick CEOs de tecnologia pedem volta de Jensen Huang à Nvidia",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-16T16:26:26+00:00",
+      "coletado_em": "2026-11-17T18:35:27.365064+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/03/gdoh4382-scaled-1-edited.jpg",
+      "score": 6.192,
+      "cobertura": [
+        "https://canaltech.com.br/mercado/conselho-da-nvidia-descarta-volta-de-jensen-huang-mesmo-apos-aprovacao-de-trump/",
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+        "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
+      ]
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "c00a30f7ecef",
+      "titulo": "NICER Status Updates",
+      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "resumo": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. The mission and space station teams are now focused on plans to finalize NICER’s 8-year […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-17T18:18:16+00:00",
+      "coletado_em": "2026-11-17T18:35:27.345619+00:00",
+      "imagem_feed": null,
+      "score": 5.967,
+      "cobertura": []
+    },
+    {
+      "id": "5ab3ab36f981",
+      "titulo": "This supernova is 50 million light-years away, but that's close enough for astronomers",
+      "url": "https://phys.org/news/2026-11-supernova-million-years-astronomers.html",
+      "resumo": "A new supernova has been spotted in NGC 1433, a spiral galaxy about 50 million light-years away. That's pretty close for supernova observations, and it's an opportunity for detailed follow-up study. It's not a core-collapse supernova, in which a massive star burns through its fuel, collapses and explodes. It's a Type Ia supernova. That means it's happening in a binary star system, where the exploding star is a white dwarf.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-17T17:40:14+00:00",
+      "coletado_em": "2026-11-17T18:35:27.345943+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-supernova-is-50-m.jpg",
+      "score": 5.946,
+      "cobertura": []
+    },
+    {
+      "id": "5e776772777c",
+      "titulo": "Galaxy outflows likely regulate star formation at 'cosmic noon,' NASA's Webb reveals",
+      "url": "https://phys.org/news/2026-11-galaxy-outflows-star-formation-cosmic.html",
+      "resumo": "Sitting here on the outskirts of our Milky Way galaxy, it's hard to imagine the galactic machinations that led to our Goldilocks spot around a very welcoming yellow dwarf star. But for decades, astronomers have suspected that the internal dynamics of massive galaxies like ours play an outsized role in regulating star formation.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-17T15:20:15+00:00",
+      "coletado_em": "2026-11-17T18:35:27.345943+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/galaxy-outflows-likely.jpg",
+      "score": 5.707,
+      "cobertura": []
+    },
+    {
+      "id": "c8ccb483f2f5",
+      "titulo": "Hacker que vazou GTA 6 usou Fire TV Stick para invadir a Rockstar",
+      "url": "https://tecnoblog.net/noticias/hacker-que-vazou-gta-6-usou-fire-tv-stick-para-invadir-a-rockstar/",
+      "resumo": "Integrante do grupo Lapsus$ confessou ataque de 2022 à Rockstar Games. Sentença será definida em 23 de novembro. Hacker que vazou GTA 6 usou Fire TV Stick para invadir a Rockstar",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-17T18:08:33+00:00",
+      "coletado_em": "2026-11-17T18:35:27.365064+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/sXCiA142w8Y",
+      "score": 5.699,
+      "cobertura": [
+        "https://canaltech.com.br/games/hacker-que-invadiu-rockstar-usando-um-fire-stick-e-vazou-gta-6-se-declara-culpado/"
+      ]
+    }
+  ],
+  "quantica": [
+    {
+      "id": "295a137c12e3",
+      "titulo": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
+      "url": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
+      "resumo": "Insider Brief PRESS RELEASE — SAXON Q, a leader in NV-center quantum computing, today announced the Quantum Watchdog, a patented safety system that monitors a quantum computer and puts it into a safe mode if it fails. The system is designed for quantum computers operating in research environments and upcoming industrial applications — including robotics, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-17T15:40:15+00:00",
+      "coletado_em": "2026-11-17T18:35:27.347077+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Saxon.jpg",
+      "score": 5.39,
+      "cobertura": []
+    },
+    {
+      "id": "98ac11d7adba",
+      "titulo": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
+      "url": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
+      "resumo": "Insider Brief PRESS RELEASE — QUDORA Technologies, a German-based developer of ion-trap quantum computers, has integrated NVIDIA CUDA-Q into its software development kit, enabling developers to write hybrid quantum-classical programs and run them on Qamelion, QUDORA’s quantum emulator with adaptive noise modeling. The integration gives CUDA-Q users access to an environment for developing and testing […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-17T15:02:20+00:00",
+      "coletado_em": "2026-11-17T18:35:27.347077+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-17_20-01.png",
+      "score": 5.329,
+      "cobertura": []
+    },
+    {
+      "id": "8990ecce932b",
+      "titulo": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
+      "url": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
+      "resumo": "Insider Brief PRESS RELEASE — QuiX Quantum, a Dutch-German developer of universal photonic quantum computers, together with Taiwanese partners Artilux Inc. and its affiliate Brillink Inc., has been awarded funding under the TechBridge Taiwan Call 2026 – Photonics Integrated Circuits, a joint programme of the Netherlands Enterprise Agency (RVO) and Taiwan’s Industrial Development Administration (IDA). […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-17T12:42:28+00:00",
+      "coletado_em": "2026-11-17T18:35:27.347077+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-17_17-40.png",
+      "score": 5.124,
+      "cobertura": []
+    },
+    {
+      "id": "2cac1ae6c354",
+      "titulo": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
+      "url": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
+      "resumo": "Insider Brief PRESS RELEASE — Qluster, a Paris-based startup specializing in quantum computing, announces its first funding round of €4.7 million led by Quantonation, an investment fund specializing in quantum technologies and disruptive physics-based innovations, with the support of Quantum Launchpad and Bpifrance. A spin-off from the prestigious Laboratoire Kastler Brossel, whose history is associated […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-17T12:38:47+00:00",
+      "coletado_em": "2026-11-17T18:35:27.347077+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Qluster_levee_preseed_16x9_EN_web.jpg",
+      "score": 5.119,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "e0185595ee6e",
+      "titulo": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "resumo": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-17T16:09:57+00:00",
+      "coletado_em": "2026-11-17T18:35:27.356177+00:00",
+      "imagem_feed": null,
+      "score": 6.989,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/ceos-de-tecnologia-pedem-volta-de-jensen-huang-a-nvidia/",
+        "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
+        "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
+      ]
+    },
+    {
+      "id": "b380dfe95e53",
+      "titulo": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+      "resumo": "President Trump has called for Jensen Huang to return as Nvidia CEO, but a new report says the board is not considering the move.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-16T18:24:40+00:00",
+      "coletado_em": "2026-11-17T18:35:27.344779+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/AcvQdNE4MvE4MZ6pKF6f9Y-1920-80.jpg",
+      "score": 6.195,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/ceos-de-tecnologia-pedem-volta-de-jensen-huang-a-nvidia/",
+        "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "https://canaltech.com.br/mercado/conselho-da-nvidia-descarta-volta-de-jensen-huang-mesmo-apos-aprovacao-de-trump/",
+        "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+        "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+        "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+      ]
+    },
+    {
+      "id": "21f899660346",
+      "titulo": "Microsoft’s Outlook outage is over. The scams aren’t",
+      "url": "https://www.pcworld.com/article/3288213/microsofts-outlook-outage-is-over-the-scams-arent.html",
+      "resumo": "Following the major Microsoft 365 outage on November 12, cybercriminals have started sending fake service notifications that appear to come from Microsoft, according to Microsoft Threat Intelligence on LinkedIn . The fraudsters are using a genuine incident number, EX1550543, which is linked to the issues with Exchange Online. The aim is to make the fake messages appear credible. The emails claim that certain messages have become stuck during the service disruption and that they will be deleted within 24 hours unless the user clicks on a link to restore them. Further reading: How a hidden bug broke Microsoft Outlook for 24 hours Using genuine details to deceive users According to Microsoft, the fake emails have subject lines beginning with ‘Outage’, followed by a six-character code. The sender names are also tailored to the recipient’s organisation and contain phrases such as ‘Outage Notification’ or ‘Service Health’. Microsoft has identified three sender domains used in the campaign: moments-notice.com, planetmaison.com and newbooker.com. Microsoft describes the attack as a phishing attempt that may be aimed at obtaining login credentials. However, the company has not been able to ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-17T15:32:38+00:00",
+      "coletado_em": "2026-11-17T18:35:27.349306+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3288213-0-39540000-1794929638-4_3b5394.png",
+      "score": 5.377,
+      "cobertura": [
+        "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad"
+      ]
+    },
+    {
+      "id": "48cfd48cbd14",
+      "titulo": "5 new jobs for Nvidia’s former CEO",
+      "url": "https://www.pcworld.com/article/3286942/5-new-jobs-for-nvidias-former-ceo.html",
+      "resumo": "Jensen Huang, Nvidia co-founder and CEO, is out after more than 30 years . The circumstances surrounding his resignation are the stuff of spy novels and Sorkin dramas, and easily the biggest tech news story of the year. But after all the dust settles, what’s next for one of tech’s most visible “rockstar” CEOs? Welcome to the Boost Mode newsletter. Every week I share my insights on PC gaming, desktop setups, and hardware optimization. I also track down some of the most interesting PC and nerd news from around the web, plus a PC game pick you might not have seen elsewhere. Want this newsletter to come directly to your inbox? Sign up on our website ! That’s assuming, of course, that there is anything next. Huang is 63 years old, and even if he loses quite a lot of money in the fallout, still one of the richest men on the planet. It’s not as if he’s actually needed to work for over a decade. And that also assumes that he’s free to work, as facilitating international smuggling can land you in prison. But he is, well, one of the richest men on the planet. I think it’s a safe bet that he won’t see the inside of a jail cell, even after he sees the inside of congressional hearings and court",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-17T13:59:58+00:00",
+      "coletado_em": "2026-11-17T18:35:27.349306+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3286942-0-87321300-1794924010-image_9107b2.png",
+      "score": 5.234,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "5fbc7d8ce285",
+      "titulo": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "resumo": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-17T16:44:15+00:00",
+      "coletado_em": "2026-11-17T18:35:27.358656+00:00",
+      "imagem_feed": null,
+      "score": 7.047,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+        "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
+      ]
+    },
+    {
+      "id": "0b5fe7dce536",
+      "titulo": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "resumo": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-16T18:11:10+00:00",
+      "coletado_em": "2026-11-17T18:35:27.358656+00:00",
+      "imagem_feed": null,
+      "score": 6.238,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+        "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
+      ]
+    },
+    {
+      "id": "2f0718683799",
+      "titulo": "AI Is Giving Optical Computing Another Shot",
+      "url": "https://spectrum.ieee.org/optical-computing-ai",
+      "resumo": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, up from $0.4 billion in 2022. One projection suggests that the market will continue to grow exponentially in the coming years. The reason for this sudden surge will surprise no one: AI. In particular, AI inference—the process of using AI models to respond to user queries—has driven much of the construction of huge, power-hungry data centers, and relatively energy-efficient optical systems are seen as a potential way forward. “Most of the interest in [photonics] is driven by the fact that AI inference has literally become limited by power, and in a rather striking manner,” says Peter McMahon , associate professor of applied and engineering physics at Cornell University, in Ithaca, N.Y., who has researched optical computing for over a decade. Optics, at least on paper, carries the promise of doing the same math as today’s GPUs at a drastically lower level of power. Switching from electroni",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial",
+        "quantica"
+      ],
+      "publicado": "2026-11-17T14:00:03+00:00",
+      "coletado_em": "2026-11-17T18:35:27.348081+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/close-up-of-a-green-circuit-board-with-a-central-microchip-and-intricate-traces.jpg?id=68692424&width=980",
+      "score": 5.684,
+      "cobertura": []
+    },
+    {
+      "id": "ac8d9de28a18",
+      "titulo": "Google Maps ganha IA que monta roteiros de viagem, busca em listas e agenda serviços",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-maps-ganha-ia-que-monta-roteiros-de-viagem-busca-em-listas-e-agenda-servicos/",
+      "resumo": "O Google anunciou novos recursos de inteligência artificial (IA) com Gemini para o Ask Maps , ferramenta integrada ao Google Maps. A atualização traz opções para montar roteiros de viagem, pesquisar locais em listas salvas e agendar serviços em estabelecimentos próximos. A criação de itinerários atende desde passeios curtos até viagens de carro com várias paradas ao longo de diferentes dias. A IA organiza os locais em uma sequência de visitas, com pinos numerados no mapa e uma programação diária com recomendações e dicas sobre cada destino. O roteiro pode ser alterado durante a viagem , com a inclusão de pontos turísticos, restaurantes e outras paradas. Antes de sair, o planejamento pode ser reaberto pelo Ask Maps ou pelo selo Itinerário, disponível no histórico de conversas. Essa visualização também mostra informações atualizadas sobre o trânsito, indica se o estabelecimento está aberto no momento e apresenta o clima ou ambiente da próxima parada. O usuário ainda pode iniciar a navegação pelo roteiro. Também é possível compartilhar o planejamento com outras pessoas ou exportar o conteúdo para o Google Docs pelo computador. Ao iniciar a navegação, o Google Maps também mostra o pain",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-17T16:09:00+00:00",
+      "coletado_em": "2026-11-17T18:35:27.369208+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/HeMiJIusym72EliNpw3Jc1agG0s=/0x0/filters:format(webp):quality(85)/896cde3f-125f-4931-bab4-6148e702a5ed.jpg",
+      "score": 5.337,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "aa95739fc7c4",
+      "titulo": "Solar-powered radiation detector for use in disaster zones",
+      "url": "https://techxplore.com/news/2026-11-solar-powered-detector-disaster-zones.html",
+      "resumo": "A portable, solar-powered radiation detector is described in the International Journal of Energy Technology and Policy. The device was designed to operate continuously without utility power, potentially improving radiation monitoring in remote areas and disaster zones when and where an external power supply is unavailable.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-17T18:20:01+00:00",
+      "coletado_em": "2026-11-17T18:35:27.359466+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/radiation.jpg",
+      "score": 5.52,
+      "cobertura": []
+    },
+    {
+      "id": "402b5a98b8c6",
+      "titulo": "Dunkelflaute: Why cloudy, windless weather is a challenge for power networks that rely on renewables",
+      "url": "https://techxplore.com/news/2026-11-dunkelflaute-cloudy-windless-weather-power.html",
+      "resumo": "In early November 2024, a large mass of still, cloudy, cold air settled over much of northwest Europe. For much of a week, wind turbines barely moved and the output from solar farms was negligible. In some areas,cold temperatures meant people needed extra electricity to heat their homes.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-17T17:40:23+00:00",
+      "coletado_em": "2026-11-17T18:35:27.359466+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/cloudy-day.jpg",
+      "score": 5.447,
+      "cobertura": []
+    },
+    {
+      "id": "8c8af12934a9",
+      "titulo": "Voyager 1 está prestes a atingir um dia-luz de distância da Terra – relembre a história da missão",
+      "url": "https://olhardigital.com.br/2026/11/17/ciencia-e-espaco/voyager-1-esta-prestes-a-atingir-um-dia-luz-de-distancia-da-terra-relembre-a-historia-da-missao/",
+      "resumo": "Como duas espaçonaves lançadas em 1977 chegaram tão longe? Conheça a história das Voyager e suas descobertas pelo Sistema Solar O post Voyager 1 está prestes a atingir um dia-luz de distância da Terra – relembre a história da missão apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-17T18:00:02+00:00",
+      "coletado_em": "2026-11-17T18:35:27.363305+00:00",
+      "imagem_feed": null,
+      "score": 4.883,
+      "cobertura": []
+    },
+    {
+      "id": "c998036c235c",
+      "titulo": "Florida's stormwater ponds become floating solar farms as costs fall and demand rises",
+      "url": "https://techxplore.com/news/2026-11-florida-stormwater-ponds-solar-farms.html",
+      "resumo": "Of the tens of thousands of retention ponds designed to collect runoff during Florida's frequent downpours, some are also being used to generate solar power, expanding sustainable energy production in the Sunshine State.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-17T10:40:06+00:00",
+      "coletado_em": "2026-11-17T18:35:27.359466+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-cop31-solution.jpg",
+      "score": 4.816,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "0206a2dd5759",
+      "titulo": "Hacker que invadiu Rockstar usando um Fire Stick e vazou GTA 6 se declara culpado",
+      "url": "https://canaltech.com.br/games/hacker-que-invadiu-rockstar-usando-um-fire-stick-e-vazou-gta-6-se-declara-culpado/",
+      "resumo": "Em julgamento realizado nesta segunda-feira (16), o hacker responsável pelo vazamento de GTA 6 em 2022 , Arion Kurtaj, declarou-se culpado por invadir e vazar clipes inacabados, além de tentar extorquir a Rockstar. Ele fazia parte do grupo hacker conhecido como Lapsus$ e também se envolveu em ataques contra Uber, Revolut e BT/EE, com danos estimados em £ 10 milhões . O jovem de 21 anos havia sido sentenciado a uma estadia por tempo indeterminado em um hospital de segurança máxima, devido à gravidade do seu autismo. Em janeiro, no entanto, Kurtaj foi transferido para uma prisão comum após ser considerado apto para enfrentar o julgamento, conforme reportagem da BBC. Além do ataque hacker às empresas, o réu foi acusado pela promotoria de desempenhar um papel de liderança no Lapsus$, gangue que também teria roubado US$ 300.000 de vítimas individuais. Além disso, durante a sua invasão à Uber, Kurtaj postou a foto de um pênis como parte das tentativas de extorquir a companhia para que a empresa pagasse o resgate. Kurtaj se declarou culpado de todas as acusações , incluindo agressões físicas a trabalhadores enquanto estava sob custódia, entre elas, múltiplos incidentes envolvendo mordidas",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-17T14:01:00+00:00",
+      "coletado_em": "2026-11-17T18:35:27.369208+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/FVtvmp9BJzyrJGWdE9MAOvBSndM=/0x0/filters:format(webp):quality(85)/249270ba-8bb7-4609-a80a-ecb8df35a058.jpg",
+      "score": 5.636,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/hacker-que-vazou-gta-6-usou-fire-tv-stick-para-invadir-a-rockstar/"
+      ]
+    },
+    {
+      "id": "df207e71b8f7",
+      "titulo": "Samsung prepara agente de viagem de bolso que lê seus e-mails e cria roteiros sozinho",
+      "url": "https://canaltech.com.br/apps/samsung-prepara-agente-de-viagem-de-bolso-que-le-seus-e-mails-e-cria-roteiros-sozinho/",
+      "resumo": "A Samsung desenvolve um agente de IA para planejar viagens com base em dados da agenda e do e-mail de cada pessoa. O roteiro seria criado automaticamente e pode fazer parte do Galaxy Claw, conjunto de agentes de IA automatizados para o ecossistema do Galaxy AI em celulares e tablets. Informações sobre o recurso foram encontradas pelo site Android Authority, mas ainda não é possível ver a ferramenta em ação. As linhas de código sugerem que a IA vai conseguir criar um itinerário rápido : é provável que registros como a reserva do hotel e as passagens de voo sejam considerados na hora de montar a programação. A novidade deve fazer parte de um novo pacote de ferramentas de IA previstas para a One UI 9.5 na linha Galaxy S27. Rumores indicam que a fabricante sul-coreana aposta em funções de agentes para automatizar diferentes tarefas nos celulares. O que é Galaxy Claw? Os vazamentos de novos recursos de IA são associados a uma experiência chamada Galaxy Claw , em que a One UI será capaz de fazer uma série de tarefas autônomas com agentes e conectores integrados aos aplicativos. Ainda não é possível confirmar se esse será o nome usado pela empresa no lançamento, mas informações encontrada",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-17T15:15:06+00:00",
+      "coletado_em": "2026-11-17T18:35:27.369208+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/k1cXg8qJppvFOFKMvJvO-gdmVn0=/0x0/filters:format(webp):quality(85)/b7014dbc-0c88-4e69-b591-bf5b09efe66a.png",
+      "score": 4.249,
+      "cobertura": []
+    },
+    {
+      "id": "7e228e9dcb78",
+      "titulo": "Samsung prepara tela quase sem bordas para futuros celulares Galaxy",
+      "url": "https://canaltech.com.br/smartphone/samsung-prepara-tela-quase-sem-bordas-para-futuros-celulares-galaxy/",
+      "resumo": "A Samsung está desenvolvendo uma tela com bordas quase invisíveis para uma futura geração de celulares Galaxy . A informação surgiu em uma publicação de um blog sul-coreano na plataforma Naver, mas ainda não há confirmação sobre qual aparelho receberia a novidade, nem uma previsão de lançamento. O principal mistério envolve o formato que a fabricante pretende adotar. Uma possibilidade é desenvolver uma tela plana com bordas extremamente finas , deixando a parte frontal do celular praticamente toda dedicada à exibição de imagens. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A outra alternativa seria apostar em uma tela curva nos quatro lados. Nesse modelo, o painel ultrapassaria as laterais do aparelho e também avançaria um pouco sobre as extremidades superior e inferior. Esse segundo caminho lembra os antigos celulares Galaxy Edge, que tinham laterais curvas. A diferença é que o novo formato levaria a curvatura para todas as extremidades da tela. Por enquanto, não existem informações sobre especificações, funcionamento ou limitações desse painel. O vazamento indica apenas que a Samsung está avaliando a possibilidade de levar o visual para alguns de seus próximos c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-17T14:30:26+00:00",
+      "coletado_em": "2026-11-17T18:35:27.369208+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+      "score": 1.18,
+      "cobertura": []
+    }
+  ]
+}
