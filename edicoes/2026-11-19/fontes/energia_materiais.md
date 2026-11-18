@@ -1,0 +1,37 @@
+# Structural battery electrode enables energy storage inside curved drone legs
+
+- Editoria: Energia e Novos Materiais (`energia_materiais`)
+- Fonte: Phys.org — https://techxplore.com/news/2026-11-battery-electrode-enables-energy-storage.html
+- Autor: The Korea Advanced Institute; Technology
+- Publicado: 2026-11-18T17:40:07+00:00
+- Score: 5.003
+- Imagem: imagens/energia_materiais-structural-battery-electrode-enables-ene.jpg | crédito: Tech Xplore | licença: © do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)
+
+## Outras coberturas
+- nenhuma
+
+## Texto extraído
+
+Structural battery electrode enables energy storage inside curved drone legs
+What if a drone's legs could do more than support its weight—and also store energy? Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed a structural battery electrode that remains stable even when fitted into curved structures, such as drone legs. By making it possible to integrate energy storage into a device's frame, the technology could help make drones and robots lighter and extend their operating times.
+A research team led by professor Il-Kwon Oh of the Department of Mechanical Engineering has developed a monolithically integrated lithium-sulfur (Li-S) battery cathode by growing nickel cobalt selenide (NiCo₂Se₄) nanowires directly on woven carbon cloth. Made from interwoven carbon fibers, the carbon cloth serves as a mechanically robust, flexible and electrically conductive foundation for the electrode. By growing ultrafine nanowires directly on its surface, the researchers created an electrode that combines mechanical robustness with reliable electrical conductivity.
+The paper is published in the journal Advanced Composites and Hybrid Materials.
+For drones and robots, maximizing energy storage while minimizing weight and space is a major engineering challenge. Conventional designs use separate batteries and structural frames, limiting opportunities to reduce overall weight and volume. Structural batteries offer a promising alternative by allowing components to both support mechanical loads and store energy. In a drone, for example, the landing legs could serve as structural supports while also functioning as part of the energy storage system.
+Fitting batteries into curved structures
+Turning this concept into a practical technology requires batteries that can conform to different component shapes. Drone legs and robotic frames often feature curved surfaces and hollow, tubular structures, making conventional flat battery designs difficult to integrate. The KAIST team therefore focused on developing an electrode suitable for installation within these nonplanar structures.
+The researchers selected lithium-sulfur batteries, which use sulfur as the cathode material and offer the potential for high energy storage capacity at a relatively low weight. The cathode is one of a battery's two electrodes and plays a central role in the electrochemical reactions involved in charging and discharging.
+Despite their advantages, lithium-sulfur batteries face several challenges. Sulfur has poor electrical conductivity, and intermediate compounds known as lithium polysulfides can dissolve and migrate away from the electrode during operation. This phenomenon can reduce battery performance by disrupting the electrochemical reactions needed for efficient energy storage.
+Conventional electrode fabrication methods present an additional challenge. Active materials are typically applied to a conductive substrate as a coating, which can detach under repeated bending or mechanical stress. Such detachment can disrupt electrical pathways and compromise electrode performance.
+Nanowires withstand repeated bending
+To overcome these limitations, the team grew nickel cobalt selenide nanowires directly on the carbon fiber surfaces. Nanowires are extremely thin, wirelike structures measured on the nanometer scale, with one nanometer equal to one billionth of a meter. Nickel cobalt selenide, a compound containing nickel, cobalt and selenium, helps facilitate sulfur-related electrochemical reactions while also helping to capture lithium polysulfides and limit their migration.
+This approach creates a tightly integrated structure in which the nanowires are firmly anchored to the carbon fibers rather than simply deposited as a separate coating. The direct connection helps maintain continuous electrical pathways, even when the electrode is bent.
+The electrode demonstrated mechanical durability in bending tests. After 1,000 bending cycles at a radius of just 2.5 mm, the nanowires remained firmly attached to the carbon fiber surfaces, with no visible damage or structural collapse. The results demonstrate the electrode's ability to maintain its structural integrity under repeated bending, an important requirement for integration into tightly curved spaces.
+The researchers then incorporated the electrode into a lithium-sulfur pouch cell to evaluate its feasibility for integration into various nonplanar structures. They integrated the cell into oval and square structures, as well as a drone-leg component, and successfully powered a light-emitting diode (LED). These demonstrations confirmed that the battery could supply electricity when integrated into structures with different geometries.
+Reliable power under structural stress
+To further evaluate its feasibility as a structural battery, the team also tested battery performance under external mechanical loads. When installed inside a cylindrical structure, the battery retained 99.8% of its initial voltage even under a load sufficient to fracture the surrounding structural frame. In a separate loading test, an LED powered by the battery remained illuminated without interruption or flickering.
+The study represents an important step toward extending structural battery technology beyond the flat configurations that have dominated previous research. By demonstrating a structural battery electrode capable of operating within curved and hollow structures, the researchers have opened up new possibilities for integrating energy storage into components with complex geometries.
+Looking ahead, the technology could be combined with load-bearing composite materials to create drone legs and robotic frames that provide both structural support and energy storage. Such composites typically combine materials such as carbon fibers and resins to achieve high strength at low weight. Integrating batteries into these components could make more efficient use of the limited weight and space available in drones and robots.
+However, further research will be needed to determine how much weight could be saved and how significantly flight times or operating durations could be extended in practical applications.
+"Drones and robots contain many curved and hollow components, so it is essential for batteries to operate reliably when integrated into these structures," said Oh. "Our study demonstrates the potential for drone legs and robotic frames to serve not only as structural components but also as energy storage systems."
+More information
+Jawon Ha et al., Monolithically integrated NiCo2Se4 nanowire–carbon cloth cathode scaffolds for non-planar lithium-sulfur structural-battery integration, Advanced Composites and Hybrid Materials (2026). DOI: 10.1007/s42114-026-02093-y

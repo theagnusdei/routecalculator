@@ -1,0 +1,763 @@
+{
+  "medicina": [
+    {
+      "id": "a213fbb4ea94",
+      "titulo": "Study shows a small change in dialysis mortality calculations could have big impacts for patient care",
+      "url": "https://medicalxpress.com/news/2026-11-small-dialysis-mortality-big-impacts.html",
+      "resumo": "A dialysis center that receives a poor mortality rating one year could receive a better rating the next, even if nothing about its patient care has changed. That is one potential consequence of a recent change in how Medicare collects patient information, according to a new analysis led by researchers at Brown University's School of Public Health and Warren Alpert Medical School and published in JAMA Internal Medicine.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-18T15:18:28+00:00",
+      "coletado_em": "2026-11-18T18:04:39.971429+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dialysis-equipment.jpg",
+      "score": 6.254,
+      "cobertura": []
+    },
+    {
+      "id": "f4c6aee82ef3",
+      "titulo": "Physical activity prepares the brain for psychotherapy in the treatment of depression",
+      "url": "https://medicalxpress.com/news/2026-11-physical-brain-psychotherapy-treatment-depression.html",
+      "resumo": "A new study shows that regular physical exercise can enhance the effectiveness of cognitive behavioral therapy (CBT) for mild to moderate depression. The international clinical trial, published in the journal Mental Health and Physical Activity, demonstrated that 12 weeks of prior training improved patients' cardiorespiratory fitness, resulting in significant gains in memory and learning during the psychotherapy phase.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-18T13:40:01+00:00",
+      "coletado_em": "2026-11-18T18:04:39.971429+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/depression-4.jpg",
+      "score": 6.1,
+      "cobertura": []
+    },
+    {
+      "id": "faffc516e8ae",
+      "titulo": "Dual-targeted CAR T-cell therapy shows promise in patients with treatment-resistant multiple myeloma",
+      "url": "https://medicalxpress.com/news/2026-11-dual-car-cell-therapy-patients.html",
+      "resumo": "A first-in-human study by Mass General Brigham Cancer Institute investigators found that a chimeric antigen receptor (CAR) T-cell therapy called TriPRIL reduced or eliminated signs of cancer in 12 of 15 patients with relapsed or refractory multiple myeloma. TriPRIL—short for trimeric APRIL (a proliferation-inducing ligand)—recognizes two proteins on myeloma cells instead of just one. Researchers published their findings in The Lancet.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-18T17:40:05+00:00",
+      "coletado_em": "2026-11-18T18:04:39.971429+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2015/multiplemyel.jpg",
+      "score": 6.003,
+      "cobertura": []
+    },
+    {
+      "id": "495d50011f45",
+      "titulo": "STAT+: FDA discloses reasons for rejecting Summit drug",
+      "url": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
+      "resumo": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-18T14:37:13+00:00",
+      "coletado_em": "2026-11-18T18:04:39.971939+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2018/10/Small-cell-lung-cancer-1024x576.jpg",
+      "score": 5.988,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "cf53070d3f8c",
+      "titulo": "DNA reveals the secret lives of Hawaiʻi's aeʻo (Hawaiian stilt)",
+      "url": "https://phys.org/news/2026-11-dna-reveals-secret-hawaii-aeo.html",
+      "resumo": "Long-legged, tuxedo-clad and famously noisy, the aeʻo, or Hawaiian stilt (Himantopus mexicanus knudseni), has a family life as complicated as any reality TV show. A new study led by University of Hawaiʻi at Mānoa researchers, published in Ecology and Evolution, paired a decade of birdwatching with DNA sequencing to uncover a world of egg-dumping, secret infidelities and surprisingly close family ties among the newly downlisted species.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-18T16:30:01+00:00",
+      "coletado_em": "2026-11-18T18:04:39.972882+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-reveals-the-secret.jpg",
+      "score": 6.376,
+      "cobertura": []
+    },
+    {
+      "id": "528f78db8659",
+      "titulo": "When AI misidentifies wildlife: New study maps where species identification fails",
+      "url": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
+      "resumo": "A small marsupial photographed by a camera trap in Colombia was identified by an AI model as a mammal whose known range does not include the country, even though the model had been told the animal was seen in Colombia. A new study in the Biodiversity Data Journal uses this kind of error as a starting point to ask whether general-purpose AI is ready for conservation work.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-18T15:50:01+00:00",
+      "coletado_em": "2026-11-18T18:04:39.972882+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-ai-misidentifies.jpg",
+      "score": 5.307,
+      "cobertura": []
+    },
+    {
+      "id": "100a1fa06864",
+      "titulo": "Poxviruses probably evolved in the digestive system of animals",
+      "url": "https://www.nature.com/articles/d41586-026-03436-x",
+      "resumo": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03436-x Large and giant DNA viruses that infect unicellular eukaryotes are abundant in the environment but have rarely been found in the gut microbiome. The discovery of such viruses that prevail in the digestive system of humans and animals exposes a long-overlooked facet of the gut microbiome that clarifies the origin of poxviruses.",
+      "fonte": "Nature",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-18T00:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.973571+00:00",
+      "imagem_feed": null,
+      "score": 5.204,
+      "cobertura": []
+    },
+    {
+      "id": "9e0378eda092",
+      "titulo": "Structural and regulatory evolution across the genus Hordeum",
+      "url": "https://www.nature.com/articles/s41586-026-11332-7",
+      "resumo": "Nature, Published online: 18 November 2026; doi:10.1038/s41586-026-11332-7 Chromosome-scale pangenomics across diploid Hordeum species reveals extensive structural variation, hybridization, introgression, horizontal gene transfer and regulatory evolution, revealing adaptive trait diversification and providing genomic resources for barley improvement.",
+      "fonte": "Nature",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-18T00:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.973571+00:00",
+      "imagem_feed": null,
+      "score": 5.204,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "25f3323f6db1",
+      "titulo": "Rockwell Automation acquiring mobile robot maker AGILOX",
+      "url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
+      "resumo": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors. The post Rockwell Automation acquiring mobile robot maker AGILOX appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-18T16:44:18+00:00",
+      "coletado_em": "2026-11-18T18:04:39.974529+00:00",
+      "imagem_feed": null,
+      "score": 5.751,
+      "cobertura": []
+    },
+    {
+      "id": "f209be90919d",
+      "titulo": "The beginning of a beautiful friendship? Interaction could be key to human acceptance of robots",
+      "url": "https://techxplore.com/news/2026-11-beautiful-friendship-interaction-key-human.html",
+      "resumo": "Whether people accept humanoid robots depends not only on what the robots can do for us, but above all on how we experience interacting with them—through all our senses and over time. This is the conclusion of a research team at the University of Potsdam that examined the psychological foundations of humanoid robot acceptance. Technical performance, safety, and the ability to meet human needs are not the only factors that determine acceptance. Instead, acceptance emerges from a dynamic interplay of perception and social interaction, as humans and robots respond to and influence each other.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-18T16:40:05+00:00",
+      "coletado_em": "2026-11-18T18:04:39.974655+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-beginning-of-a-bea.jpg",
+      "score": 5.394,
+      "cobertura": []
+    },
+    {
+      "id": "1f4f2fe9a40f",
+      "titulo": "Study investigates haptic feedback in virtual reality on users' experience",
+      "url": "https://techxplore.com/news/2026-11-haptic-feedback-virtual-reality-users.html",
+      "resumo": "Research published in the International Journal of Manufacturing Research shows that \"haptic,\" vibration-based feedback in virtual reality (VR) can help users understand collaborative robots and improve safety controls. However, in a pilot study researchers found no measurable improvement in the actual efficiency with which a task was carried out.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-18T18:00:09+00:00",
+      "coletado_em": "2026-11-18T18:04:39.974655+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/picking-up-good-vibrat.jpg",
+      "score": 5.041,
+      "cobertura": []
+    },
+    {
+      "id": "cc7152d76dc1",
+      "titulo": "Chinese robots learn from humans in tech hub Shenzhen",
+      "url": "https://techxplore.com/news/2026-11-chinese-robots-humans-tech-hub.html",
+      "resumo": "At a park refreshment stand in China's tech capital, Shenzhen, a humanoid robot grabs a cup and pulls a lever to form an ice cream spiral, then hands the customer their order.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-18T11:00:01+00:00",
+      "coletado_em": "2026-11-18T18:04:39.974655+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/chinese-artificial-int.jpg",
+      "score": 4.879,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "46ab9d47f29e",
+      "titulo": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1108354/",
+      "resumo": "Security updates have been issued by AlmaLinux (.NET 11.0, .NET 8.0, .NET 9.0, bind, buildah, cockpit, containernetworking-plugins, delve, firefox, freerdp, gcc, gcc-toolset-15-gcc, gcc-toolset-16-gcc, go-fdo-client, go-fdo-server, gstreamer1-plugins-base, kernel, oci-seccomp-bpf-hook, podman, sssd, webkit2gtk3, and yggdrasil), Debian (ghostscript, librest, openexr, and roundcube), Fedora (dash, gpsd, java-25-openjdk, java-latest-openjdk, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, p11-kit, and sgx-pccs), Mageia (apache, drakx-installer-images, kernel, kmod-xtables-addons, kmod-virtualbox, kmod-nvidia-current-wopengpu, roundcubemail, and zbar), Red Hat (yggdrasil), SUSE (amazon-cloudwatch-agent, buildah, ctdb, dpdk, govulncheck-vulndb, ignition, keylime-ima-policy, kubevirt1.8, libsolv-demo, libspeex1, libxi, open-iscsi, parted, perl-DBI, phodav, python-dulwich, python-m2crypto, skupper, sssd, tcpreplay, thrift, thunderbird, watchexec, and xen), and Ubuntu (apng2gif, astropy, binwalk, codemirror-js, elog, flightgear, fontforge, fop, freedombox, iwd, jackrabbit, jekyll, joblib, ldm, libapache-session-browseable-p",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-18T14:17:35+00:00",
+      "coletado_em": "2026-11-18T18:04:39.975478+00:00",
+      "imagem_feed": null,
+      "score": 5.657,
+      "cobertura": []
+    },
+    {
+      "id": "5e8fb352eb80",
+      "titulo": "NGINX2Root: Remote Code Execution vulnerabilities in nginx",
+      "url": "https://lwn.net/Articles/1108362/",
+      "resumo": "Xint is reporting that it has discovered a collection of five critical vulnerabilities in the NGINX web server. The worst flaw, it says, would allow an unauthenticated attacker to execute commands on an affected nginx server with HTTP/2 enabled . The company also reports a local-privilege escalation (LPE) kernel vulnerability , which was introduced in the 4.15 kernel, in the Stream Control Transmission Protocol (SCTP) subsystem. If chained with the NGINX vulnerability, it would allow an attacker to gain root privileges on the host. A kernel patch for this is not yet available. We also obtained a root shell on the host in a setup where nginx was running in a Docker container. On many Linux distributions, the SCTP module is installed by default and the kernel loads it automatically the first time a program opens an SCTP socket. Whether SCTP is reachable on a given host still depends on the kernel, the available modules, and the container's restrictions. Where it is reachable, the attacker can take over the host kernel. Since all containers on the host share that kernel, this gives the attacker control of the host and every container on it. Xint recommends updating to NGINX 1.31.9 , w",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-18T16:13:34+00:00",
+      "coletado_em": "2026-11-18T18:04:39.975478+00:00",
+      "imagem_feed": null,
+      "score": 5.347,
+      "cobertura": []
+    },
+    {
+      "id": "32a6f24959c8",
+      "titulo": "[$] Julia 1.13 brings REPL improvements and more",
+      "url": "https://lwn.net/Articles/1108153/",
+      "resumo": "Version 1.13 of Julia was released on September 10, 2026. Julia is a general-purpose language especially well suited to high-performance numerical computing. Its expressiveness, speed, and composability have made it increasingly popular with scientists and mathematicians. We last looked at Julia one year ago , in a review of the 1.12 release. The newest version features an enhanced read-eval-print loop (REPL), a GUI for installation, a smoother developer experience, and an assortment of performance improvements.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-18T15:56:18+00:00",
+      "coletado_em": "2026-11-18T18:04:39.975478+00:00",
+      "imagem_feed": null,
+      "score": 5.318,
+      "cobertura": []
+    },
+    {
+      "id": "137ab435d2c4",
+      "titulo": "OpenAI lança GPT-6.2 Astra e Sol mais baratos, mas estreia divide usuários",
+      "url": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-62-astra-e-sol-mais-baratos-mas-estreia-divide-usuarios/",
+      "resumo": "A OpenAI anunciou nesta terça-feira (17) o lançamento dos modelos de inteligência artificial (IA) GPT-6.2 Astra e GPT-6.2 Sol , que prometem melhorias em programação, criação de documentos e execução de tarefas complexas. As novidades também buscam reduzir o custo de utilização, mas já receberam críticas de usuários que tiveram acesso antecipado às ferramentas. Segundo a empresa, o Astra agora utiliza menos tokens para determinadas atividades e ficou 20% mais barato para desenvolvedores. Já o Sol mantém os preços da geração anterior, mas apresenta melhorias de eficiência que podem reduzir o consumo em tarefas rotineiras. Os modelos estão disponíveis no ChatGPT Work e no Codex para assinantes dos planos Plus, Pro, Enterprise e Edu , além de poderem ser acessados por desenvolvedores por meio da API da OpenAI. O que muda com o GPT-6.2 Astra e Sol? O GPT-6.2 Astra é o modelo mais avançado da nova geração, desenvolvido principalmente para atividades profissionais que exigem raciocínio complexo e várias etapas de execução. Entre as melhorias estão a capacidade de criar apresentações, planilhas e documentos mais próximos dos modelos fornecidos pelos usuários, respeitando características c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-18T17:02:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.996025+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/47KZ8teS09ddDYX0PA4tpJgOMdM=/0x0/filters:format(webp):quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png",
+      "score": 4.983,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "74751af8c331",
+      "titulo": "Nvidia descarta volta de Jensen Huang ao cargo de CEO",
+      "url": "https://tecnoblog.net/noticias/nvidia-descarta-volta-de-jensen-huang-ao-cargo-de-ceo/",
+      "resumo": "Presidente do conselho afirmou que a empresa não pretende reconduzir o cofundador. Nvidia descarta volta de Jensen Huang ao cargo de CEO",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-18T14:24:32+00:00",
+      "coletado_em": "2026-11-18T18:04:39.992695+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-ceo-jensen-huang.jpg",
+      "score": 7.368,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees",
+        "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+      ]
+    },
+    {
+      "id": "e561862ab376",
+      "titulo": "Jensen Huang says he would be ‘honored’ to return as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees",
+      "resumo": "In his first statement since his resignation, former Nvidia CEO Jensen Huang expressed openness to returning to his former role.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-17T16:33:23+00:00",
+      "coletado_em": "2026-11-18T18:04:39.975890+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Q57X2C2kb7mvEAhLmcPtrj-1920-80.jpg",
+      "score": 6.658,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "https://tecnoblog.net/noticias/nvidia-descarta-volta-de-jensen-huang-ao-cargo-de-ceo/",
+        "https://www.techspot.com/news/114595-jensen-huang-hed-honored-return-nvidia-ceo-if.html",
+        "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+      ]
+    },
+    {
+      "id": "9a8dddf94a81",
+      "titulo": "Nvidia não venderá mais chips de IA para a China",
+      "url": "https://tecnoblog.net/noticias/nvidia-nao-vendera-mais-chips-de-ia-para-a-china/",
+      "resumo": "Empresa vendeu US$ 2,4 bilhões em chips Hopper licenciados no último trimestre, mas não prevê novas remessa. Nvidia não venderá mais chips de IA para a China",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-18T14:34:58+00:00",
+      "coletado_em": "2026-11-18T18:04:39.992695+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2025/11/chip-nvidia-edited.jpg",
+      "score": 5.884,
+      "cobertura": [
+        "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+      ]
+    },
+    {
+      "id": "8b49451598e1",
+      "titulo": "Nvidia says it’s ‘absurd’ to assume it predicted the agentic moment during Vera’s development",
+      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-says-its-absurd-to-assume-it-predicted-the-agentic-moment-during-veras-development-product-intuition-helped-drive-cpu-design-superior-memory-bandwidth-will-play-critical-role-in-future-ai-agents-cpu-boss-claims",
+      "resumo": "AMD has criticized Nvidia, and to a lesser extent Arm, for claims about creating a CPU designed for agentic AI. Nvidia is pushing back on that characterization, instead saying Vera was designed with “base principles, product intuition, and oftentimes simple allegorical laws of computer science” in a recent interview with Tom’s Hardware.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-18T15:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.975890+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/MX9ZgfJcjpjFTu4aNfmAhP-1920-80.jpg",
+      "score": 5.874,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "49c56cb191c4",
+      "titulo": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+      "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+      "resumo": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-18T16:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.976443+00:00",
+      "imagem_feed": null,
+      "score": 6.274,
+      "cobertura": []
+    },
+    {
+      "id": "e7b1fb348415",
+      "titulo": "Two stars in the Andromeda galaxy merged before astronomers’ eyes",
+      "url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+      "resumo": "The finding offers clues to why some pairs of stars combine while others stay separate.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-18T16:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:40.015992+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/111726_MB_star-merger_main.jpg?w=800",
+      "score": 5.774,
+      "cobertura": []
+    },
+    {
+      "id": "883e59987eb4",
+      "titulo": "Thank You for Doing NASA Science!",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
+      "resumo": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-18T17:32:52+00:00",
+      "coletado_em": "2026-11-18T18:04:39.976443+00:00",
+      "imagem_feed": null,
+      "score": 5.44,
+      "cobertura": []
+    },
+    {
+      "id": "4860f27995d2",
+      "titulo": "What Is the Moon Base?",
+      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
+      "resumo": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station or base located in […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-18T17:36:03+00:00",
+      "coletado_em": "2026-11-18T18:04:39.976443+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/oy8DGEQNnTg",
+      "score": 5.246,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "5ee64c8c9aa8",
+      "titulo": "QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
+      "url": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/",
+      "resumo": "Insider Brief PRESS RELEASE — The National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratory and QuEra Computing, the leader in neutral-atom quantum computing, today announced the publication of a new study in Nature. Using Aquila, QuEra’s analog neutral-atom quantum computer, coupled with classical calculations on NERSC’s Perlmutter supercomputer, the team observed […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-18T17:03:12+00:00",
+      "coletado_em": "2026-11-18T18:04:39.977562+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_22-01.png",
+      "score": 6.585,
+      "cobertura": []
+    },
+    {
+      "id": "34fa599d4bf7",
+      "titulo": "How electrons find their way to diamond's quantum defects",
+      "url": "https://phys.org/news/2026-11-electrons-diamond-quantum-defects.html",
+      "resumo": "A diamond's most useful quantum properties come from defects, places where the regular arrangement of carbon atoms is broken. One of these, a nitrogen atom situated next to a vacancy caused by a missing carbon atom, has become a key component in quantum technology.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-18T15:20:05+00:00",
+      "coletado_em": "2026-11-18T18:04:39.977775+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-electrons-find-the.jpg",
+      "score": 5.757,
+      "cobertura": [
+        "https://thequantuminsider.com/2026/11/18/how-electrons-find-their-way-to-diamonds-quantum-defects/"
+      ]
+    },
+    {
+      "id": "d3060725b134",
+      "titulo": "Alice & Bob’s Updated Roadmap Targets 200 Logical Qubits From 3,600 Physical Qubits by 2030",
+      "url": "https://thequantuminsider.com/2026/11/18/alice-bobs-updated-roadmap-targets-200-logical-qubits-from-3600-physical-qubits-by-2030/",
+      "resumo": "Insider Brief PRESS RELEASE — Alice & Bob, a leader in fault-tolerant quantum computing, today unveiled an updated, modular roadmap. The company targets 200 logical qubits as soon as 2030, double its previous target, with Carbon, which will be built from just 3,600 physical cat qubits. “Cat qubits give an efficient path to fault tolerance. They […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-18T12:03:29+00:00",
+      "coletado_em": "2026-11-18T18:04:39.977562+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Alice-Bob-Roadmap-Acceleration.png",
+      "score": 5.613,
+      "cobertura": []
+    },
+    {
+      "id": "f1e59b7cf199",
+      "titulo": "Using a microwave link to transfer a three-level quantum state",
+      "url": "https://phys.org/news/2026-11-microwave-link-quantum-state.html",
+      "resumo": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-world tasks. Many of these technologies encode quantum information in qubits, which can exist in either of two basic states or a superposition of them.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-18T12:00:13+00:00",
+      "coletado_em": "2026-11-18T18:04:39.977775+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-a-microwave-link.jpg",
+      "score": 5.458,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "862f2e5d94fe",
+      "titulo": "Proton launches a privacy-first AI assistant for your PC",
+      "url": "https://www.pcworld.com/article/3289395/proton-launches-an-ai-assistant-for-computers-with-a-strong-focus-on-privacy.html",
+      "resumo": "Proton has released its AI assistant as a standalone computer app, Lumo Desktop. The app can search for documents on your computer and retrieve information from connected services such as Google Drive and Proton Mail. Through Connections, the assistant can also work with local folders, run commands, and retrieve content from the web. Users decide for themselves which actions Lumo is allowed to perform automatically, which require approval, and which should be blocked entirely. Proton Another new feature is called Schedules, which lets you automate recurring tasks such as compiling emails every week or regularly reviewing documents and other information. Proton has also introduced Skills, reusable instructions that control how the assistant carries out specific tasks. According to the company, neither conversations nor information from connected apps is used to train AI models. Chat history is also protected by encryption designed to prevent even Proton itself from reading the content. Lumo Desktop is available to download for Windows, Linux, and macOS. The program requires a Proton account.",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-18T14:44:45+00:00",
+      "coletado_em": "2026-11-18T18:04:39.979563+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3289395-0-77551600-1795013093-4_4b0e56.png",
+      "score": 6.35,
+      "cobertura": []
+    },
+    {
+      "id": "e561862ab376",
+      "titulo": "Jensen Huang says he would be ‘honored’ to return as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees",
+      "resumo": "In his first statement since his resignation, former Nvidia CEO Jensen Huang expressed openness to returning to his former role.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-17T16:33:23+00:00",
+      "coletado_em": "2026-11-18T18:04:39.975890+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Q57X2C2kb7mvEAhLmcPtrj-1920-80.jpg",
+      "score": 6.158,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "https://tecnoblog.net/noticias/nvidia-descarta-volta-de-jensen-huang-ao-cargo-de-ceo/",
+        "https://www.techspot.com/news/114595-jensen-huang-hed-honored-return-nvidia-ceo-if.html",
+        "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+      ]
+    },
+    {
+      "id": "a7d68164c388",
+      "titulo": "I’m furious that I love Nvidia’s RTX Spark so much",
+      "url": "https://www.pcworld.com/article/3288499/im-furious-that-i-love-nvidias-rtx-spark-so-much.html",
+      "resumo": "I freaking love Nvidia’s RTX Spark. And I’m getting increasingly annoyed about it. I’ve spent the past few weeks throwing absurd AI workloads at computers with 128GB of unified memory, running enormous language models locally, and discovering entirely new things I can do with my PC. I made a $7,000 laptop chew through 220,202 AI tokens in 13 minutes . Then I gave MSI’s $8,000 EdgeMesa RTX Spark mini PC a job collecting research throughout the day, even when I’m not sitting in front of it. It’s awesome. This is the sort of weird, experimental computing that made me fall in love with PCs in the first place. I can dream up some ridiculous project, throw a mountain of hardware at it, and see what happens. No permission required! And no annoying cloud API meter ticking away every time I get curious. And I hate that this wonderful new frontier is emerging from the same AI gold rush that’s making ordinary computers so damned expensive. AI giveth. AI taketh away PCWorld has been covering the RAM and SSD pricing apocalypse for months. Some memory modules cost four or five times what they did a year ago. Storage prices have skyrocketed. Graphics cards are getting squeezed, too. HP reported s",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-18T14:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.979563+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3275866-0-08940300-1793797262-nvidia-rtx-spark-7.jpg?quality=50&strip=all",
+      "score": 5.78,
+      "cobertura": []
+    },
+    {
+      "id": "fc6e9269702e",
+      "titulo": "I gave Nvidia’s $7,500 RTX Spark mini PC a job, and now it works while I don’t",
+      "url": "https://www.pcworld.com/article/3288337/i-gave-nvidias-8000-rtx-spark-mini-pc-a-job-and-now-it-works-while-i-dont.html",
+      "resumo": "A couple of weeks ago, I made a $7,000 Nvidia RTX Spark laptop chew through 220,202 AI tokens in 13 minutes because I wanted to see what would happen. Then I started wondering what would happen if I did it again. And again. And again. You know, like that Goofy meme . My experiments with Asus’ ProArt P16 RTX Spark laptop showed me how liberating it is to stop paying for every AI token . But MSI’s tiny EdgeMesa RTX Spark desktop has me thinking about something even bigger. I’ve turned this $7,500 mini PC with 128GB of unified RAM into a dedicated AI research machine that keeps working after I’ve walked away. I’m not just asking my computer to do things anymore. I’m giving it a job, and actively pondering what additional headaches I can offload on local intelligence. None of this was possible before the rise of systems like RTX Spark , and that’s exciting as hell. From AI experiments to an AI research assistant My personal AI research project, Betting With Receipts, digs into sporting events and player performance, looking for things the betting markets might have missed. It uses AI to investigate promising leads, challenge its own conclusions, and discard anything that doesn’t hold u",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-18T14:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.979563+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3288337-0-17218700-1795010450-MSI-EdgeMesa-RTX-spark-mini-pc-14.jpg?quality=50&strip=all",
+      "score": 5.78,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "14b67dddb807",
+      "titulo": "Will AI Coding Eat Video Game Engines?",
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "resumo": "When Travis McGeathy’s studio, Seeker Entertainment, ran out of funding in September, its game KinForge went down with it. KinForge was an online game built in Unreal Engine 5.7 and designed to run on servers hosted by Amazon Web Services (AWS). With no one left to pay the server bill, the game became unplayable even for those few developers, including studio co-founder McGeathy, who had the code. Then, on a whim, McGeathy pointed Anthropic’s Claude Code at the project and asked it to make KinForge playable without AWS. After four hours of mostly hands-off work he had a build that let players host their own games. Claude added support for peer-to-peer play over both the Internet and a local area network. To McGeathy’s surprise, it also added persistent save states, a feature that lets players resume a game if they’re disconnected. Although KinForge is still built in Unreal Engine, developments like this could give companies that create game engines cause for concern. The conversion was accomplished with an agentic AI workflow that partially bypasses the elaborate, user-friendly game engine UI that many companies, including Unreal Engine creator Epic Games, have spent decades perfec",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-18T12:00:03+00:00",
+      "coletado_em": "2026-11-18T18:04:39.985636+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-game-development-software-being-used-to-generate-and-refine-images-videos-and-3d-models-of-an-1800s-saloon-setting-for-a-vi.jpg?id=68705132&width=980",
+      "score": 6.058,
+      "cobertura": []
+    },
+    {
+      "id": "137ab435d2c4",
+      "titulo": "OpenAI lança GPT-6.2 Astra e Sol mais baratos, mas estreia divide usuários",
+      "url": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-62-astra-e-sol-mais-baratos-mas-estreia-divide-usuarios/",
+      "resumo": "A OpenAI anunciou nesta terça-feira (17) o lançamento dos modelos de inteligência artificial (IA) GPT-6.2 Astra e GPT-6.2 Sol , que prometem melhorias em programação, criação de documentos e execução de tarefas complexas. As novidades também buscam reduzir o custo de utilização, mas já receberam críticas de usuários que tiveram acesso antecipado às ferramentas. Segundo a empresa, o Astra agora utiliza menos tokens para determinadas atividades e ficou 20% mais barato para desenvolvedores. Já o Sol mantém os preços da geração anterior, mas apresenta melhorias de eficiência que podem reduzir o consumo em tarefas rotineiras. Os modelos estão disponíveis no ChatGPT Work e no Codex para assinantes dos planos Plus, Pro, Enterprise e Edu , além de poderem ser acessados por desenvolvedores por meio da API da OpenAI. O que muda com o GPT-6.2 Astra e Sol? O GPT-6.2 Astra é o modelo mais avançado da nova geração, desenvolvido principalmente para atividades profissionais que exigem raciocínio complexo e várias etapas de execução. Entre as melhorias estão a capacidade de criar apresentações, planilhas e documentos mais próximos dos modelos fornecidos pelos usuários, respeitando características c",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-18T17:02:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.996025+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/47KZ8teS09ddDYX0PA4tpJgOMdM=/0x0/filters:format(webp):quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png",
+      "score": 5.983,
+      "cobertura": []
+    },
+    {
+      "id": "bff0d93ba0d2",
+      "titulo": "Google libera agente de IA gratuito que faz ligações e compras por você",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-libera-agente-de-ia-gratuito-que-faz-ligacoes-e-compras-por-voce/",
+      "resumo": "O Google anunciou nesta terça-feira (17) que está liberando gratuitamente o Tasks , um agente de inteligência artificial (IA) do Gemini capaz de realizar tarefas como organizar compromissos, pesquisar produtos, fazer compras e ligar para estabelecimentos comerciais. A novidade chega inicialmente a seis países, mas o Brasil ficou de fora da expansão gratuita. Segundo a empresa, a ferramenta está sendo disponibilizada sem custos para centenas de milhões de usuários nos Estados Unidos, Canadá, Austrália, Índia, Japão e Coreia do Sul . Anteriormente, o recurso era restrito aos assinantes dos planos Google AI Pro e Ultra. O Tasks também ganhou novas funcionalidades, como integração ao Google Pay para realizar compras e a possibilidade de conversar com estabelecimentos comerciais por telefone. Esses recursos mais avançados, porém, estão sendo liberados inicialmente apenas nos Estados Unidos. O que é e como funciona o Tasks do Gemini? Anteriormente chamado de Gemini Spark , o Tasks é uma ferramenta que permite delegar atividades ao assistente de IA do Google , incluindo aquelas que exigem várias etapas e a utilização de diferentes aplicativos. Por exemplo, o usuário pode solicitar que o G",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-18T15:00:05+00:00",
+      "coletado_em": "2026-11-18T18:04:39.996025+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/zxN9gOsej75801FDL0D6E6Ds218=/0x0/filters:format(webp):quality(85)/cdc2eeda-acc5-418e-957a-f2bdd96345ca.png",
+      "score": 5.774,
+      "cobertura": []
+    },
+    {
+      "id": "9a8dddf94a81",
+      "titulo": "Nvidia não venderá mais chips de IA para a China",
+      "url": "https://tecnoblog.net/noticias/nvidia-nao-vendera-mais-chips-de-ia-para-a-china/",
+      "resumo": "Empresa vendeu US$ 2,4 bilhões em chips Hopper licenciados no último trimestre, mas não prevê novas remessa. Nvidia não venderá mais chips de IA para a China",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-18T14:34:58+00:00",
+      "coletado_em": "2026-11-18T18:04:39.992695+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2025/11/chip-nvidia-edited.jpg",
+      "score": 5.384,
+      "cobertura": [
+        "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+      ]
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "538ef1803427",
+      "titulo": "Structural battery electrode enables energy storage inside curved drone legs",
+      "url": "https://techxplore.com/news/2026-11-battery-electrode-enables-energy-storage.html",
+      "resumo": "What if a drone's legs could do more than support its weight—and also store energy? Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed a structural battery electrode that remains stable even when fitted into curved structures, such as drone legs. By making it possible to integrate energy storage into a device's frame, the technology could help make drones and robots lighter and extend their operating times.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-18T17:40:07+00:00",
+      "coletado_em": "2026-11-18T18:04:39.987982+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-li-s-st.jpg",
+      "score": 5.003,
+      "cobertura": []
+    },
+    {
+      "id": "11c3744551ed",
+      "titulo": "Making hydrogen flames easier to see could help power a cleaner energy future",
+      "url": "https://techxplore.com/news/2026-11-hydrogen-flames-easier-power-cleaner.html",
+      "resumo": "New research from Adelaide University is helping engineers understand how to make hydrogen-powered appliances—including cooktops and ovens—safer and more reliable, supporting the wider uptake of hydrogen as a cleaner energy source compared to natural gas.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-18T16:20:14+00:00",
+      "coletado_em": "2026-11-18T18:04:39.987982+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-hydrogen-flames.jpg",
+      "score": 4.859,
+      "cobertura": []
+    },
+    {
+      "id": "5703580b5c26",
+      "titulo": "What's the best way to analyze nuclear materials? The answer may be X-rays",
+      "url": "https://techxplore.com/news/2026-11-nuclear-materials-rays.html",
+      "resumo": "Forensic science often brings to mind TV crime shows, with investigators analyzing evidence to uncover what happened at a crime scene. At the U.S. Department of Energy's (DOE) Argonne National Laboratory, scientists are applying similar principles to nuclear materials. They are using advanced tools to trace their origins, transformations and histories. This work, known as nuclear forensics, is significant for national security and the safe stewardship of nuclear energy.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-18T15:40:12+00:00",
+      "coletado_em": "2026-11-18T18:04:39.987982+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/whats-the-best-way-to-1.jpg",
+      "score": 4.79,
+      "cobertura": []
+    },
+    {
+      "id": "152f74dc6dd3",
+      "titulo": "“Wishbone”: a study of its origin in birds and reptiles offers clues about dinosaur evolution",
+      "url": "https://jornal.usp.br/uspnews/wishbone-a-study-of-its-origin-in-birds-and-reptiles-offers-clues-about-dinosaur-evolution/",
+      "resumo": "Embryonic development in modern birds and reptiles suggests that the furcula results from the fusion of the clavicles and interclavicle. This hypothesis helps explain the evolution of the dinosaur skeleton",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-18T11:35:08+00:00",
+      "coletado_em": "2026-11-18T18:04:39.989279+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261028_furcula-1024x538.jpg",
+      "score": 4.725,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "c55996444218",
+      "titulo": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "resumo": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-18T02:52:04+00:00",
+      "coletado_em": "2026-11-18T18:04:39.988289+00:00",
+      "imagem_feed": null,
+      "score": 4.381,
+      "cobertura": []
+    },
+    {
+      "id": "80835d37d0d1",
+      "titulo": "GTA 6: golpes de phishing no setor de games aumentam 1.300% antes do lançamento",
+      "url": "https://olhardigital.com.br/2026/11/18/games-e-consoles/gta-6-golpes-phishing-aumento-1300-por-cento/",
+      "resumo": "Levantamento da KnowBe4 aponta crescimento de ataques que usam a expectativa pelo jogo para roubar dados e direcionar vítimas a sites fraudulentos O post GTA 6: golpes de phishing no setor de games aumentam 1.300% antes do lançamento apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-18T17:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.991099+00:00",
+      "imagem_feed": null,
+      "score": 4.329,
+      "cobertura": []
+    },
+    {
+      "id": "986e326c06c3",
+      "titulo": "3 golpes mais perigosos na semana de lançamento de GTA 6; saiba como se proteger",
+      "url": "https://canaltech.com.br/seguranca/3-golpes-mais-perigosos-na-semana-de-lancamento-de-gta-6-saiba-como-se-proteger/",
+      "resumo": "Grand Theft Auto VI é um dos lançamentos mais aguardados da história dos games: a franquia da Rockstar ganha um novo capítulo na sexta-feira (19) após uma longa espera de 13 anos. No entanto, a alta procura pelo jogo também abre brechas para golpes e fraudes online . O jogo já bateu recorde de pré-vendas nas lojas oficiais de PlayStation e Xbox , além de ser um dos itens mais visados em varejistas. É muito importante recorrer a plataformas oficiais para comprar o game sem correr riscos. A seguir, o Canaltech lista alguns golpes associados ao lançamento e como evitá-los — para deixar os crimes somente dentro do game. 3 golpes online associados ao lançamento de GTA 6 Confira: 1. Versões falsas do jogo GTA VI não tem uma versão para PC PlayStation 4 (no Xbox One, o acesso ocorre apenas pelo serviço Xbox Cloud Gaming). Qualquer anúncio que prometa o game para essas plataformas é uma fraude online e, no caso da versão para PC, criminosos podem aproveitar a oportunidade para instalar malwares. Durante o longo hiato para o lançamento do jogo, golpistas também tentaram alcançar vítimas com promessas de versões falsas de Beta e acesso antecipado . Agora, o ponto de atenção está nas platafor",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-18T14:12:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.996025+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5SJbv3ALu4ibjm6zLIlrLpi1vWQ=/0x0/filters:format(webp):quality(85)/fc2be1f2-d608-43d6-894b-d7e1893e375a.jpg",
+      "score": 4.199,
+      "cobertura": []
+    },
+    {
+      "id": "77b6e2a04409",
+      "titulo": "Review GTA 6 | Depois de 13 anos, Rockstar entrega um marco para a indústria",
+      "url": "https://canaltech.com.br/games/review-grand-theft-auto-6/",
+      "resumo": "Depois de 13 anos, dois adiamentos e uma série de vazamentos que viraram caso de polícia, Grand Theft Auto 6 chegou . E não é exagero dizer que tem tudo para ocupar o posto de jogo mais importante da indústria dos videogames na próxima década. Os números apontam nessa direção: foram 15 milhões de cópias vendidas e US$ 1,45 bilhão faturado antes do lançamento de GTA 6 . Mas o impacto vai além das cifras: empresas de diferentes partes do mundo, como a gigante Logitech , deram folga aos funcionários para jogar na estreia — até o grupo Magalu entrou nessa . A euforia se justifica. GTA 6 entrega um primor técnico raramente visto , uma história madura e envolvente , capaz de cativar quem valoriza uma boa narrativa, e diversão na medida certa . Some a isso novos recursos e mecânicas que colocam o jogo muito à frente de seu antecessor, Grand Theft Auto V. Joguei o novo título da Rockstar por três semanas antes do lançamento e conto neste review para o Canaltech por que GTA 6 tem tudo para ser o Melhor Jogo do Ano de 2026 e uma das grandes referências do mercado pelos próximos dez anos. 📦 Compre GTA 6 com o melhor preço na Amazon 💥 Compre GTA 6 no KaBuM! e receba rapidinho na sua casa 🤝 Enc",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-18T11:00:00+00:00",
+      "coletado_em": "2026-11-18T18:04:39.996025+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/airsP55MFVvv27C2KKsG6MpioXU=/0x0/filters:format(webp):quality(85)/969f6b21-8c57-488b-b9a8-576053c44e36.jpg",
+      "score": 3.929,
+      "cobertura": []
+    }
+  ]
+}
