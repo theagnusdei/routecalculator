@@ -1,0 +1,757 @@
+{
+  "medicina": [
+    {
+      "id": "6bce8d4eb1a8",
+      "titulo": "Experimental GLS-1 inhibitor demonstrates antitumor activity in advanced treatment-resistant ovarian cancer",
+      "url": "https://medicalxpress.com/news/2026-11-experimental-gls-inhibitor-antitumor-advanced.html",
+      "resumo": "Combining the experimental therapy IACS-6274 with targeted therapy bevacizumab and paclitaxel chemotherapy showed promising antitumor activity in a Phase I trial of patients with advanced platinum-resistant ovarian cancer, according to new results presented by researchers from The University of Texas MD Anderson Cancer Center.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-19T14:40:05+00:00",
+      "coletado_em": "2026-11-19T18:17:18.860389+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/experimental-gls1-inhi.jpg",
+      "score": 6.173,
+      "cobertura": []
+    },
+    {
+      "id": "cac235ad62f7",
+      "titulo": "Novel CAR-T platform uses radiation-activated switch to destroy tumors more effectively",
+      "url": "https://medicalxpress.com/news/2026-11-car-platform-destroy-tumors-effectively.html",
+      "resumo": "Engineering patients' own immune cells to find and destroy cancer using chimeric antigen receptor (CAR) T-cell therapy has transformed the treatment of blood cancers. However, its use is limited in solid tumors because the immunosuppressive tumor microenvironment prevents CAR T-cell entry into the tumor and causes cells that enter to become exhausted.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-19T16:20:12+00:00",
+      "coletado_em": "2026-11-19T18:17:18.860389+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-car-t-platform-u-1.jpg",
+      "score": 5.837,
+      "cobertura": []
+    },
+    {
+      "id": "6e4c6096ca48",
+      "titulo": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
+      "url": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
+      "resumo": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-19T16:59:47+00:00",
+      "coletado_em": "2026-11-19T18:17:18.860865+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/peps-1024x576.jpeg",
+      "score": 5.706,
+      "cobertura": []
+    },
+    {
+      "id": "a1731ddf79b4",
+      "titulo": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
+      "url": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
+      "resumo": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-19T11:30:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.860865+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_499879090-1024x576.jpeg",
+      "score": 5.701,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "464c52756de0",
+      "titulo": "Decoding interactomes: Supercomputing predicts bacterial protein links from shared evolutionary patterns",
+      "url": "https://phys.org/news/2026-11-decoding-interactomes-supercomputing-bacterial-protein.html",
+      "resumo": "Predicting how proteins interact inside a cell is essential to understanding how organisms function and why they differ from one another, yet experimental hurdles and the computational cost of analyzing millions of protein pairs make it impossible to explore complete interaction networks, particularly in understudied bacteria and organisms.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-19T17:20:01+00:00",
+      "coletado_em": "2026-11-19T18:17:18.861291+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2021/escherichiac.jpg",
+      "score": 5.943,
+      "cobertura": []
+    },
+    {
+      "id": "588511568639",
+      "titulo": "Huge extinct orca may have eaten other whales",
+      "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-19T18:00:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.897108+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321244420.jpg",
+      "score": 5.317,
+      "cobertura": []
+    },
+    {
+      "id": "93aa0cf86ec7",
+      "titulo": "Something strange is living beneath the skin of deep-sea pigs",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+      "resumo": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptionally large. Researchers suspect it depends heavily on its host for survival, but what the sea pigs gain in return remains a mystery.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-19T10:33:03+00:00",
+      "coletado_em": "2026-11-19T18:17:18.861729+00:00",
+      "imagem_feed": null,
+      "score": 5.179,
+      "cobertura": []
+    },
+    {
+      "id": "6147eb5e9b5f",
+      "titulo": "How cells use alternative genetic instructions to produce 'shadowing proteins'",
+      "url": "https://phys.org/news/2026-11-cells-alternative-genetic-shadowing-proteins.html",
+      "resumo": "The human genome contains tens of thousands of genes that provide instructions for making the proteins responsible for carrying out essential functions throughout the body. But those instructions may be more versatile than scientists once understood.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-18T18:40:06+00:00",
+      "coletado_em": "2026-11-19T18:17:18.861291+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-cells-use-alternat.jpg",
+      "score": 5.061,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "5b55dfee2458",
+      "titulo": "What industrial drone deployments reveal about real-world autonomy challenges",
+      "url": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
+      "resumo": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation. The post What industrial drone deployments reveal about real-world autonomy challenges appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-19T17:01:55+00:00",
+      "coletado_em": "2026-11-19T18:17:18.862527+00:00",
+      "imagem_feed": null,
+      "score": 5.26,
+      "cobertura": []
+    },
+    {
+      "id": "c3fd1c56c70e",
+      "titulo": "Six-inch robot could inspect nuclear waste pipes beyond reach of conventional cameras",
+      "url": "https://techxplore.com/news/2026-11-inch-robot-nuclear-pipes-conventional.html",
+      "resumo": "How do you inspect underground pipes that carry contaminated waste from the inside out? It's a question the Hanford Site in Washington state has faced as it works to clean up the waste left by decades of nuclear production.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-19T16:40:04+00:00",
+      "coletado_em": "2026-11-19T18:17:18.862638+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-spiine-pipe-inspec.jpg",
+      "score": 4.871,
+      "cobertura": []
+    },
+    {
+      "id": "ed7c50a30b4f",
+      "titulo": "Featherweight flying robot carries its own sensors and computers",
+      "url": "https://techxplore.com/news/2026-11-featherweight-flying-robot-sensors.html",
+      "resumo": "Over the past decade, MIT researchers have developed aerial microrobots with bumblebee-like speed, agility and durability for tasks like precision agriculture or search and rescue. But these featherweight microrobots couldn't carry the electronics needed for navigation, forcing them to remain connected to a motion-capture system in the lab.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-18T19:00:25+00:00",
+      "coletado_em": "2026-11-19T18:17:18.862638+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-featherweight-fly.jpg",
+      "score": 4.571,
+      "cobertura": [
+        "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+      ]
+    },
+    {
+      "id": "25f3323f6db1",
+      "titulo": "Rockwell Automation acquiring mobile robot maker AGILOX",
+      "url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
+      "resumo": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors. The post Rockwell Automation acquiring mobile robot maker AGILOX appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-18T16:44:18+00:00",
+      "coletado_em": "2026-11-19T18:17:18.862527+00:00",
+      "imagem_feed": null,
+      "score": 4.357,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "dfa35d444aff",
+      "titulo": "Four PHP security releases including fixes for critical vulnerabilities",
+      "url": "https://lwn.net/Articles/1108552/",
+      "resumo": "The PHP Project has announced the release of PHP 8.5.13 , 8.4.28 , 8.3.37 , and 8.2.36 . Each contains a number of security and bug fixes, including several fixes for critical vulnerabilities that could allow remote-code execution. According to the project's pre-release announcement on November 18, all of the vulnerabilities of critical severity \" require either non-default configuration or uncommon setups \". See the release notes for details; Linux vendors and projects should be releasing updated packages soon.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-19T14:29:04+00:00",
+      "coletado_em": "2026-11-19T18:17:18.863406+00:00",
+      "imagem_feed": null,
+      "score": 5.655,
+      "cobertura": []
+    },
+    {
+      "id": "701d9e891079",
+      "titulo": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1108551/",
+      "resumo": "Security updates have been issued by AlmaLinux (cockpit, cockpit-files, cockpit-machines, gimp, glib-networking, krb5, libpcap, nginx, nodejs26, perl-CGI, php8.4, skopeo, tigervnc, and xorg-x11-server), Debian (haproxy, libreoffice, libvisio, needrestart, openjdk-21, and openjdk-25), Fedora (asterisk, erlang, ffmpeg, ignition, libosmocore, luksmeta, msedit, openapv, passwordsafe, rabbitmq-server, sngrep, and vyper), Mageia (firefox, nss, rootcerts, rsync, and thunderbird), Slackware (libfontenc and libXfont2), SUSE (389-ds, apache2, aspell, bind, brotli, busybox, civetweb, containerd, cosign, docker, gleam, glibc, graphicsmagick, helm, ignition, ImageMagick, java-17-openjdk, java-21-openjdk, java-25-openjdk, jhead, kernel, kubernetes, libsofia-sip-ua-glib3, mcphost, perl-HTTP-Body, perl-MIME-tools, phodav, python-asyncssh, python-django, python-joserfc, python315, qemu, rootlesskit, roundcubemail, rsyslog, runc, tempo-cli, trivy, and xorg-x11-server), and Ubuntu (cloud-init, gstreamer1.0, hplip, libcpanel-json-xs-perl, linux, linux-aws, linux-aws-5.4, linux-aws-fips, linux-azure-5.4, linux-azure-fips, linux-bluefield, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-19T14:05:42+00:00",
+      "coletado_em": "2026-11-19T18:17:18.863406+00:00",
+      "imagem_feed": null,
+      "score": 5.62,
+      "cobertura": []
+    },
+    {
+      "id": "00dcf8ed7101",
+      "titulo": "Presentation: AI-Assisted Software Delivery: From Code to Production",
+      "url": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "The panelists explore how engineering teams adapt delivery architectures, pipelines, security, and governance for AI-assisted development. They share practical strategies for verifying AI-generated code, solving testing and deployment bottlenecks, maintaining human oversight, and measuring AI’s true impact on software velocity, quality, reliability, and operational cost. By Garima Bajpaj, Martin Reynolds, Patrick Debois, Gunnar Grosch, Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-19T14:30:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.862899+00:00",
+      "imagem_feed": "https://res.infoq.com/presentations/ai-assisted-software-delivery/en/mediumimage/infoq-live-medium-1795097572325.jpg",
+      "score": 5.307,
+      "cobertura": []
+    },
+    {
+      "id": "1359fddbf694",
+      "titulo": "The best things in open source are built together",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "resumo": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
+      "fonte": "GitHub Blog",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-19T16:00:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.862846+00:00",
+      "imagem_feed": null,
+      "score": 5.302,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "acefe840f6dc",
+      "titulo": "DDR6 RAM shrinks by 44% while delivering 4 times more bandwidth than DDR5 — JEDEC previews 12.8 GT/s modules with up to 1 terabyte of capacity per slot",
+      "url": "https://www.tomshardware.com/pc-components/ram/ddr6-ram-shrinks-by-44-percent-while-delivering-4x-ddr5s-baseline-bandwidth-jedec-previews-12-8-gt-s-modules-with-up-to-1-terabyte-of-capacity-per-slot",
+      "resumo": "Upcoming DDR6 memory cuts module length from 133mm to 74mm while kicking off at 12.8 GT/s, more than doubling DDR5’s baseline transfer rate.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-19T10:00:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.863794+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/3VoQDRuLUv63rpfjVnFPBg-1920-80.jpg",
+      "score": 5.439,
+      "cobertura": [
+        "https://www.techspot.com/news/114629-ddr6-memory-could-44-shorter-than-ddr5-while.html"
+      ]
+    },
+    {
+      "id": "cf653894bd27",
+      "titulo": "Google lança Gemini 4 Neon para substituir Argon; veja o que muda",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-neon-para-substituir-argon-veja-o-que-muda/",
+      "resumo": "O Google começou a liberar o Gemini 4 Neon , novo modelo de inteligência artificial (IA) que substitui o Argon e o antigo Pro no aplicativo Gemini para assinantes do Google AI Pro . A novidade foi anunciada nesta quarta-feira (18) e promete melhora na análise de documentos, a programação e a execução de tarefas complexas. O Neon também está disponível para assinantes do Google AI Ultra e ocupa uma posição intermediária na família Gemini 4, entre o Hydrogen , voltado para atividades do cotidiano, e o Carbon , modelo mais avançado da empresa. Segundo o Google, a nova IA foi desenvolvida para combinar raciocínio avançado com respostas mais rápidas e menor consumo de recursos computacionais em determinadas tarefas. Com a mudança, o aplicativo Gemini passa a oferecer três modelos principais para assinantes do AI Pro: seleção automática, Hydrogen e Neon. Já o Carbon permanece exclusivo do plano AI Ultra na versão destinada ao consumidor. A distribuição é gradual, e usuários do plano gratuito e do Google AI Plus não terão acesso ao Neon. O que muda do Gemini 4 Argon para o Neon? Lançado em setembro, o Gemini 4 Argon foi desenvolvido para resolver problemas complexos, principalmente em pro",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-19T14:58:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.880725+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
+      "score": 5.251,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/"
+      ]
+    },
+    {
+      "id": "b12fb39978bd",
+      "titulo": "Get 32GB of DDR5 for $240 with this blistering Intel gaming PC bundle",
+      "url": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-for-usd240-with-this-blistering-intel-gaming-pc-bundle-the-270k-plus-cpu-also-comes-with-a-1tb-990-pro-ssd-z890-and-a-cooler-for-just-usd1-079",
+      "resumo": "Score Intel's latest Core Ultra 7 270K Plus with a Z890 motherboard and 32GB of DDR5-6000 memory for $240 off with this bundle.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-19T10:54:03+00:00",
+      "coletado_em": "2026-11-19T18:17:18.863794+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ygsGxc5LMXakijQcKnAgCi-1920-80.jpg",
+      "score": 5.005,
+      "cobertura": []
+    },
+    {
+      "id": "e97afb5b21dd",
+      "titulo": "Intel continues layoffs with cuts to its IT department, hundreds of employees reportedly affected",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-continues-layoffs-with-cuts-to-its-it-department-hundreds-of-employees-reportedly-affected-companys-workforce-reduced-by-27-800-under-lip-bu-tan",
+      "resumo": "Intel continues to reduce headcount, IT department affected this time.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-19T14:58:13+00:00",
+      "coletado_em": "2026-11-19T18:17:18.863794+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/HtxYQrfbwNDmi4SjXbdcqn-1920-80.jpg",
+      "score": 4.851,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "4cc59e849f09",
+      "titulo": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "resumo": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-19T14:31:15+00:00",
+      "coletado_em": "2026-11-19T18:17:18.864236+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/0Ke0s62W4yY",
+      "score": 7.909,
+      "cobertura": [
+        "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
+        "https://www.techspot.com/news/114614-nasa-voyager-1-reaches-distance-one-light-day.html",
+        "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space"
+      ]
+    },
+    {
+      "id": "7c9cb9bac7d9",
+      "titulo": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
+      "url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
+      "resumo": "The Voyager 1 probe continues to fly out into interstellar space after its historic distance milestone. NASA expects it to keep working until at least 2027.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-19T11:02:37+00:00",
+      "coletado_em": "2026-11-19T18:17:18.864818+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/x92jSVrYz5idAHyxfXnJRC-1920-80.jpg",
+      "score": 5.716,
+      "cobertura": [
+        "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+        "https://www.techspot.com/news/114614-nasa-voyager-1-reaches-distance-one-light-day.html"
+      ]
+    },
+    {
+      "id": "085acb320d74",
+      "titulo": "Webb confirms first-of-its-kind merger of a supergiant and smaller sun-like star",
+      "url": "https://phys.org/news/2026-11-webb-kind-merger-supergiant-smaller.html",
+      "resumo": "Researchers recently identified a first of its kind: A star slightly less massive than the sun spiraled into and merged with a puffy supergiant star on the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially \"rejuvenated\" star Bao. Their discovery was then bolstered by quick-turn observations from NASA's James Webb Space Telescope that were carefully cross-referenced with extensive data from telescopes in space and on the ground.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-18T23:20:05+00:00",
+      "coletado_em": "2026-11-19T18:17:18.864496+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/about-half-of-the-andr.jpg",
+      "score": 5.219,
+      "cobertura": []
+    },
+    {
+      "id": "f10308fdb789",
+      "titulo": "Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026",
+      "url": "https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026",
+      "resumo": "The Empire State Building is illuminated in gold to celebrate Voyager 1 hitting one light-day from Earth.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-19T15:00:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.864818+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/icay2WGMHRyUViV3E9LhAm-1920-80.png",
+      "score": 5.054,
+      "cobertura": [
+        "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
+      ]
+    }
+  ],
+  "quantica": [
+    {
+      "id": "be9a82d47e86",
+      "titulo": "From Lab to Live: Inside the Practical Realities of Deploying Quantum Computing at Data Center Scale",
+      "url": "https://thequantuminsider.com/2026/11/19/from-lab-to-live-inside-the-practical-realities-of-deploying-quantum-computing-at-data-center-scale/",
+      "resumo": "Behind Equinix and Diraq’s collaboration to bring a silicon spin quantum computer into a commercial data center … and what it actually takes to get there. Insider Brief The recent headlines around Diraq and Equinix’s collaboration have focused on a milestone: a silicon spin quantum computer, installed inside an operational commercial data center in Sydney. […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-19T16:07:22+00:00",
+      "coletado_em": "2026-11-19T18:17:18.865128+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/1-Diraqs-quantum-computer-in-an-Equinix-data-centre.jpg",
+      "score": 5.465,
+      "cobertura": []
+    },
+    {
+      "id": "ddeb97143b15",
+      "titulo": "Securities Regulators Warn That Slow Progress on Quantum Security is a Mistake",
+      "url": "https://thequantuminsider.com/2026/11/19/securities-regulators-warn-that-slow-progress-on-quantum-security-is-a-mistake/",
+      "resumo": "Insider Brief Financial markets are still in the early stages of preparing for quantum computers that could break the security protecting trades, payments and confidential records, a global group of securities regulators said. And they might not be moving fast enough to manage the threat. The International Organization of Securities Commissions (IOSCO) urged regulators and […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-19T12:35:50+00:00",
+      "coletado_em": "2026-11-19T18:17:18.865128+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/IOSCO-logo-on-digital-finance-background-1.png",
+      "score": 5.14,
+      "cobertura": []
+    },
+    {
+      "id": "69416c170867",
+      "titulo": "Delta Gold Launches Dedicated Quantum Sensing Program",
+      "url": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
+      "resumo": "With new equipment funding at Penn State and the University of Toronto, Delta Gold Technologies has launched a dedicated quantum sensing program, allowing its gold nanoclusters to get to work on navigation and magnetic sensing while the quantum computing effort continues. Insider Brief For most of us, day-to-day navigation happens somewhere overhead. Our phones listen […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-19T17:12:49+00:00",
+      "coletado_em": "2026-11-19T18:17:18.865128+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/delta-gold-logo-blue.png",
+      "score": 5.08,
+      "cobertura": []
+    },
+    {
+      "id": "aac99d4ef813",
+      "titulo": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
+      "url": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
+      "resumo": "Insider Brief PRESS RELEASE — BMO today announced it has demonstrated quantum utility in a machine learning application using IBM quantum computers, meaning the work was performed reliably at a scale beyond what exact traditional computing methods can practically reproduce. The work explores how quantum computing could help AI models identify which information matters most […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-19T11:51:36+00:00",
+      "coletado_em": "2026-11-19T18:17:18.865128+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/BMO-Financial-Group-Communications-BMO-Demonstrates-Quantum-Ut.jpg",
+      "score": 5.08,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "db060590b03e",
+      "titulo": "NASA's Voyager 1 reaches a distance of one light-day from Earth",
+      "url": "https://www.techspot.com/news/114614-nasa-voyager-1-reaches-distance-one-light-day.html",
+      "resumo": "One \"day\" might not sound like a lot of time or distance, and in the vast emptiness of space, where everything is so far apart, it really isn't. Rather than using familiar measurements such as miles or kilometers, distances in space are often described in terms of how light travels. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-18T20:36:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.870010+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2024/06/2024-06-17-ts3_thumbs-5b6.jpg",
+      "score": 5.971,
+      "cobertura": [
+        "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+        "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
+        "https://www.tomshardware.com/tech-industry/space/voyager-1-spacecraft-crosses-milestones-distance-of-one-light-day-from-earth-49-years-after-launch-now-16-09-billion-miles-away-signal-takes-full-24-hours-to-travel-home",
+        "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space"
+      ]
+    },
+    {
+      "id": "6b2d70dde80a",
+      "titulo": "A bug in Nvidia’s drivers could damage your SSD",
+      "url": "https://www.pcworld.com/article/3291007/a-suspected-bug-in-nvidias-drivers-could-damage-your-ssd.html",
+      "resumo": "Several users reported that Nvidia’s latest graphics drivers are writing large amounts of data to the SSD even when the computer is idling, according to Tom’s Hardware , citing posts on Nvidia’s forums . In some cases, this is said to amount to as much as 30 GB per hour. This report comes shortly after AMD fixed a similar issue in its graphics drivers . According to users, this affects, among others, the GeForce drivers 621.14 and 621.24. The problem appears to be linked to the background process NVDisplay.Container.exe, which repeatedly rewrites a log file on the computer’s storage device. On Nvidia’s forums, users report that Nvidia’s latest graphics drivers are writing large amounts of data to the computer’s SSD, even when the computer is not in use. PC för Alla One user measured around 3 GB of writes per hour with version 621.14, while another reports up to 30 GB per hour with the newer version 621.24. With the older driver, version 621.01, the write activity was significantly lower. This extensive write activity can cause unnecessary wear and tear on the SSD, as these storage devices have a limited lifespan in terms of the amount of data written. Some users are also reporting ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-19T16:55:07+00:00",
+      "coletado_em": "2026-11-19T18:17:18.866011+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3291007-0-21238100-1795107286-4_91c7bd.png",
+      "score": 5.548,
+      "cobertura": []
+    },
+    {
+      "id": "7825053c0c2b",
+      "titulo": "DDR6 memory modules could be 44% shorter than DDR5 while delivering over 50% more bandwidth",
+      "url": "https://www.techspot.com/news/114629-ddr6-memory-could-44-shorter-than-ddr5-while.html",
+      "resumo": "As VideoCardz notes, a full-size DDR5 stick measures just over 133 mm from end to end. The design JEDEC has in mind for DDR6 measures 74 mm, putting it within a few millimeters of those little SO-DIMMs found in laptops. Unfortunately, you can probably guess who stands to benefit most... Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-19T14:26:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.870010+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-19-ts3_thumbs-7a6.jpg",
+      "score": 5.501,
+      "cobertura": [
+        "https://www.tomshardware.com/pc-components/ram/ddr6-ram-shrinks-by-44-percent-while-delivering-4x-ddr5s-baseline-bandwidth-jedec-previews-12-8-gt-s-modules-with-up-to-1-terabyte-of-capacity-per-slot"
+      ]
+    },
+    {
+      "id": "4c0a893ddd15",
+      "titulo": "Your Windows desktop is a mess. Fix it in 5 minutes",
+      "url": "https://www.pcworld.com/article/3288629/your-windows-desktop-is-a-mess-fix-it-in-5-minutes.html",
+      "resumo": "Your Windows desktop can get out of hand fast. You’ve got a dozen browser tabs open, three Word documents, a spreadsheet you swear was right there a minute ago, and an Outlook window buried underneath it all. Before long, you’re spending more time hunting down the window you need than actually working in it. You don’t need another productivity app to straighten things out. Windows 11 already includes powerful tools for organizing your work, and Microsoft finally brought back some sorely missed taskbar customization options, too. Here are three ways to tame the chaos in about five minutes — no finicky downloads required. Welcome to PCWorld’s newsletter, Smart Mode! The focus of this newsletter is productivity: from software to hardware to peripherals, all with the idea to get what you need to get done, efficiently. I’m PCWorld executive editor Brad Chacos, filling in for your usual host Mark Hachman, who covers the productivity tips, tools, and trends that you need to know about, both from within PCWorld and beyond. If you want the latest issue in your inbox each week, just sign up right here . 1. Put your windows where they belong Stop dragging windows around your screen and painst",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-19T13:00:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.866011+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2025/12/windows-11.jpg?quality=50&strip=all",
+      "score": 5.174,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "882aa41de97d",
+      "titulo": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "url": "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/",
+      "resumo": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-19T18:14:37+00:00",
+      "coletado_em": "2026-11-19T18:17:18.877587+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm-width-1200-format-webp.jpg",
+      "score": 7.245,
+      "cobertura": [
+        "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-neon-para-substituir-argon-veja-o-que-muda/"
+      ]
+    },
+    {
+      "id": "cf653894bd27",
+      "titulo": "Google lança Gemini 4 Neon para substituir Argon; veja o que muda",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-neon-para-substituir-argon-veja-o-que-muda/",
+      "resumo": "O Google começou a liberar o Gemini 4 Neon , novo modelo de inteligência artificial (IA) que substitui o Argon e o antigo Pro no aplicativo Gemini para assinantes do Google AI Pro . A novidade foi anunciada nesta quarta-feira (18) e promete melhora na análise de documentos, a programação e a execução de tarefas complexas. O Neon também está disponível para assinantes do Google AI Ultra e ocupa uma posição intermediária na família Gemini 4, entre o Hydrogen , voltado para atividades do cotidiano, e o Carbon , modelo mais avançado da empresa. Segundo o Google, a nova IA foi desenvolvida para combinar raciocínio avançado com respostas mais rápidas e menor consumo de recursos computacionais em determinadas tarefas. Com a mudança, o aplicativo Gemini passa a oferecer três modelos principais para assinantes do AI Pro: seleção automática, Hydrogen e Neon. Já o Carbon permanece exclusivo do plano AI Ultra na versão destinada ao consumidor. A distribuição é gradual, e usuários do plano gratuito e do Google AI Plus não terão acesso ao Neon. O que muda do Gemini 4 Argon para o Neon? Lançado em setembro, o Gemini 4 Argon foi desenvolvido para resolver problemas complexos, principalmente em pro",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-19T14:58:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.880725+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
+      "score": 6.751,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/"
+      ]
+    },
+    {
+      "id": "db48b20db167",
+      "titulo": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
+      "url": "https://spectrum.ieee.org/ai-agent-manager",
+      "resumo": "AI agents are running amok on the internet, armed with commands to accomplish certain tasks but often acting in undesirable or unexpected ways. These rogue incidents run the gamut from deleting an entire email inbox to hacking websites and even launching cyberattacks . Much like human workers need managers, Weiyan Shi , an assistant professor at Northeastern University , believes AI agents require oversight. “They are running potentially for a long time. However, the longer they run, they may have some errors, and they may make some dangerous, unsafe actions. We feel like there should be a middle layer,” she says. This middle layer comes in the form of meta-agents that oversee behavior, provide quality control, and kick issues up the chain of command to a human when appropriate. “Worker agents are like the sheep wandering around, and the meta agent is like this shepherd trying to get them back on track,” Shi says. As such, Shi and her colleagues at Northeastern University and Stanford University named their framework Shepherd , an intelligent guide for agentic sheep. To arm meta-agents with power, the team borrowed a concept from software development: version control. The accompany",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-19T15:00:03+00:00",
+      "coletado_em": "2026-11-19T18:17:18.871306+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/illustration-of-an-ai-agent-supervising-and-designating-tasks-to-smaller-ai-agents.jpg?id=68511562&width=980",
+      "score": 5.804,
+      "cobertura": []
+    },
+    {
+      "id": "1054662f25c3",
+      "titulo": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "resumo": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-19T18:09:11+00:00",
+      "coletado_em": "2026-11-19T18:17:18.872701+00:00",
+      "imagem_feed": null,
+      "score": 5.734,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "1aed5650daf8",
+      "titulo": "Harvesting electricity from prickly pear cacti",
+      "url": "https://techxplore.com/news/2026-11-harvesting-electricity-pear-cacti.html",
+      "resumo": "In a greenhouse at the University of California, Santa Cruz, electricity gently hums, but it isn't coming from a lightbulb or socket. Instead, the voltage is being produced from the stems of prickly pear cacti, which researchers converted into living solar panels.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-19T16:00:21+00:00",
+      "coletado_em": "2026-11-19T18:17:18.873294+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-harvest-el.jpg",
+      "score": 5.303,
+      "cobertura": []
+    },
+    {
+      "id": "18155dd3390f",
+      "titulo": "Rooftop solar may reduce heat-related deaths by making cooling more affordable",
+      "url": "https://techxplore.com/news/2026-11-rooftop-solar-deaths-cooling.html",
+      "resumo": "With intensifying climate change, extreme temperatures are becoming more common across the globe. Such extreme temperatures represent an urgent public health challenge that warrants both effective environmental and energy policy. Previous studies have linked both extreme heat and extreme cold to higher mortality risks, which are projected to grow as climate change increases the frequency and severity of temperature extremes. Addressing these threats requires effective climate adaptation measures, including ways to help people maintain safe indoor temperatures.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-19T15:40:13+00:00",
+      "coletado_em": "2026-11-19T18:17:18.873294+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/residential-solar-pane.jpg",
+      "score": 5.269,
+      "cobertura": []
+    },
+    {
+      "id": "cf653894bd27",
+      "titulo": "Google lança Gemini 4 Neon para substituir Argon; veja o que muda",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-neon-para-substituir-argon-veja-o-que-muda/",
+      "resumo": "O Google começou a liberar o Gemini 4 Neon , novo modelo de inteligência artificial (IA) que substitui o Argon e o antigo Pro no aplicativo Gemini para assinantes do Google AI Pro . A novidade foi anunciada nesta quarta-feira (18) e promete melhora na análise de documentos, a programação e a execução de tarefas complexas. O Neon também está disponível para assinantes do Google AI Ultra e ocupa uma posição intermediária na família Gemini 4, entre o Hydrogen , voltado para atividades do cotidiano, e o Carbon , modelo mais avançado da empresa. Segundo o Google, a nova IA foi desenvolvida para combinar raciocínio avançado com respostas mais rápidas e menor consumo de recursos computacionais em determinadas tarefas. Com a mudança, o aplicativo Gemini passa a oferecer três modelos principais para assinantes do AI Pro: seleção automática, Hydrogen e Neon. Já o Carbon permanece exclusivo do plano AI Ultra na versão destinada ao consumidor. A distribuição é gradual, e usuários do plano gratuito e do Google AI Plus não terão acesso ao Neon. O que muda do Gemini 4 Argon para o Neon? Lançado em setembro, o Gemini 4 Argon foi desenvolvido para resolver problemas complexos, principalmente em pro",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-19T14:58:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.880725+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
+      "score": 5.251,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/"
+      ]
+    },
+    {
+      "id": "bbbcbfdc8eb2",
+      "titulo": "A little manganese makes a big difference for next-generation batteries",
+      "url": "https://techxplore.com/news/2026-11-manganese-big-difference-generation-batteries.html",
+      "resumo": "As electric vehicles become more widespread, researchers are looking for ways to make rechargeable batteries store more energy while reducing their cost and environmental impact. Aluminum is a promising candidate. It can store large amounts of lithium, and a single sheet of aluminum foil can serve as both the battery's active material and the component that carries electricity.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-19T14:00:01+00:00",
+      "coletado_em": "2026-11-19T18:17:18.873294+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-little-manganese-mak.jpg",
+      "score": 5.111,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "545bf858ae60",
+      "titulo": "Vulnerabilidade crítica afeta milhões de sites, apps e serviços feitos em Java",
+      "url": "https://canaltech.com.br/seguranca/vulnerabilidade-critica-afeta-milhoes-de-sites-apps-e-servicos-feitos-em-java/",
+      "resumo": "Uma vulnerabilidade crítica no Java pode permitir que criminosos invadam sites, aplicativos e serviços que utilizam a linguagem de programação. Identificada como CVE-2026-114938 e chamada de Java4Shell , a falha permite a execução remota de códigos maliciosos, em alguns casos sem que o invasor precise de login ou senha. A brecha foi divulgada na terça-feira (17) pela empresa de segurança Calif e recebeu uma pontuação de 9,2 em uma escala de gravidade que vai até 10. A Oracle, responsável pelo Java, já disponibilizou atualizações para corrigir o problema. Segundo o Tom's Hardware, a exploração pode permitir o acesso a informações confidenciais, incluindo dados de usuários , e abrir caminho para o comprometimento de sistemas inteiros. O problema está no OpenJDK, implementação de código aberto do Java utilizada como base para diferentes distribuições da linguagem. Como essa tecnologia está presente em sistemas corporativos, servidores e aplicações na internet, a vulnerabilidade tem um alcance potencial elevado. Como funciona a vulnerabilidade no Java? A Java4Shell afeta um componente responsável pela decodificação de informações no formato Base64, utilizado para representar dados em t",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-19T14:02:00+00:00",
+      "coletado_em": "2026-11-19T18:17:18.880725+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/gW0SLgpdvfvSsaGUzrxqxa7xxO4=/0x0/filters:format(webp):quality(85)/9b3955bb-660f-4211-8b6a-2877fb890301.png",
+      "score": 4.164,
+      "cobertura": []
+    },
+    {
+      "id": "6c0f28021700",
+      "titulo": "Xiaomi terá celular com tela curva nos 4 ladros e bordas invisíveis, diz leaker",
+      "url": "https://canaltech.com.br/smartphone/xiaomi-tera-celular-com-tela-curva-nos-4-ladros-e-bordas-invisiveis-diz-leaker/",
+      "resumo": "A Xiaomi pode estar preparando um smartphone com uma tela curva nos quatro lados e bordas praticamente invisíveis. A informação foi divulgada em 19 de novembro pelo leaker Digital Chat Station , que afirmou que uma fabricante está desenvolvendo simultaneamente duas tecnologias de tela: uma quad-curved sem bordas aparentes e outra de formato amplo (wide). Embora o informante não tenha citado diretamente a empresa, a expectativa é de que os projetos pertençam à Xiaomi , considerando o histórico de vazamentos do perfil e as discussões sobre o assunto na publicação original. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Ao ser questionado se a proposta de tela sem bordas significava a ausência física das extremidades ou apenas um efeito visual, o leaker explicou que se trata da segunda opção. Ele usou os produtos da Apple como exemplo de telas que parecem não ter bordas, mesmo sem eliminar fisicamente essa estrutura. O informante também afirmou que outras fabricantes estão pesquisando tecnologias semelhantes e que boa parte delas deve apresentar novidades em 2027. Xiaomi também prepara celular com tela ampla O segundo projeto mencionado pelo leaker envolve um smartphon",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-19T18:10:02+00:00",
+      "coletado_em": "2026-11-19T18:17:18.880725+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/5r5xoaRSiQGUJwAPWXnueS7v9J4=/0x0/filters:format(webp):quality(85)/5ba042d2-5907-4d84-a4f5-0a0207e23a72.jpg",
+      "score": 1.586,
+      "cobertura": []
+    },
+    {
+      "id": "55439a5291b0",
+      "titulo": "240 Hz em um celular? Novo OnePlus pode surpreender com tela OLED",
+      "url": "https://canaltech.com.br/smartphone/240-hz-em-um-celular-novo-oneplus-pode-surpreender-com-tela-oled/",
+      "resumo": "A OnePlus pode surpreender com uma tela OLED de 240 Hz em seu próximo celular topo de linha . Um novo vazamento aponta que a fabricante chinesa estuda usar um painel com essa taxa de atualização no OnePlus 17, previsto para 2027. O display também pode trazer resolução 2K e bordas ultrafinas. As informações foram divulgadas pelo informante Digital Chat Station, na rede social Weibo. Segundo ele, a BOE desenvolveu uma nova tela de 6,89 polegadas com especificações avançadas, que pode equipar um futuro smartphone da OnePlus. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas O painel teria resolução 2K, suporte ao padrão de cores BT.2020 e um chip dedicado para controlar a exibição. Além disso, a tecnologia LIPO de nova geração permitiria bordas extremamente finas nos quatro lados da tela. OnePlus 17 pode dar salto na qualidade da tela Se os rumores forem confirmados, o OnePlus 17 terá um avanço considerável em relação ao antecessor. O OnePlus 16, lançado em outubro deste ano, tem uma tela OLED BOE X4 de 6,78 polegadas, resolução 1,5K e taxa de atualização de até 185 Hz em jogos compatíveis. No uso cotidiano, o modelo atual trabalha com até 165 Hz na interface e nos a",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-19T12:01:29+00:00",
+      "coletado_em": "2026-11-19T18:17:18.880725+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/tgzFz5fJKpUnQ-m3DcJVtCotNT0=/0x0/filters:format(webp):quality(85)/7ccdb202-066b-4514-959e-65248714021b.webp",
+      "score": 0.993,
+      "cobertura": []
+    }
+  ]
+}
