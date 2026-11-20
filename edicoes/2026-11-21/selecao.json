@@ -1,0 +1,752 @@
+{
+  "medicina": [
+    {
+      "id": "78cde72e248d",
+      "titulo": "Malaria antibody protects infants but lowers immune response to R21 vaccine, trial finds",
+      "url": "https://medicalxpress.com/news/2026-11-malaria-antibody-infants-lowers-immune.html",
+      "resumo": "A single intramuscular dose of an experimental malaria monoclonal antibody safely provided infants with strong protection during Mali's six-month malaria season. However, potential interference with the R21 malaria vaccine is putting plans to pursue development of L9LS for this age group on hold, according to results from a clinical trial presented at the annual meeting of the American Society of Tropical Medicine and Hygiene (ASTMH).",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-20T14:40:26+00:00",
+      "coletado_em": "2026-11-20T17:49:24.076277+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/kenya-baby.jpg",
+      "score": 6.217,
+      "cobertura": []
+    },
+    {
+      "id": "497eaa326357",
+      "titulo": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
+      "resumo": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-20T14:16:35+00:00",
+      "coletado_em": "2026-11-20T17:49:24.077066+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "score": 5.979,
+      "cobertura": []
+    },
+    {
+      "id": "43fe92ba817d",
+      "titulo": "Could an erectile dysfunction drug offer a new way to treat Alzheimer's?",
+      "url": "https://medicalxpress.com/news/2026-11-erectile-dysfunction-drug-alzheimer.html",
+      "resumo": "A drug developed to treat erectile dysfunction might seem an unlikely treatment for Alzheimer's disease. But researchers are increasingly interested in whether medicines such as Viagra could also help protect the brain.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-20T16:40:01+00:00",
+      "coletado_em": "2026-11-20T17:49:24.076277+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-pill.jpg",
+      "score": 5.921,
+      "cobertura": []
+    },
+    {
+      "id": "088e5f93a4d9",
+      "titulo": "Opioid misuse recognized, but not always recorded, national survey finds",
+      "url": "https://medicalxpress.com/news/2026-11-opioid-misuse-national-survey.html",
+      "resumo": "Primary care clinicians who recognized opioid misuse in their patients did not always record it in the medical record, according to a national survey of 1,470 clinicians led by researchers at Wake Forest University School of Medicine.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-20T16:00:22+00:00",
+      "coletado_em": "2026-11-20T17:49:24.076277+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/doctor-and-female-pati.jpg",
+      "score": 5.851,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "8296bc9edbaf",
+      "titulo": "Study reveals hidden evolutionary diversity in endangered white pines",
+      "url": "https://phys.org/news/2026-11-reveals-hidden-evolutionary-diversity-endangered.html",
+      "resumo": "Accurate species delimitation is fundamental to biodiversity conservation, yet it remains a persistent challenge in species-rich plant groups, particularly conifers, where convergent evolution, gene flow and incomplete lineage sorting often obscure species boundaries.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-20T13:20:09+00:00",
+      "coletado_em": "2026-11-20T17:49:24.078028+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-hidden-e-1.jpg",
+      "score": 5.593,
+      "cobertura": []
+    },
+    {
+      "id": "fec4af3b3419",
+      "titulo": "Optical DNA mapping assembles yeast genomes at chromosome scale",
+      "url": "https://phys.org/news/2026-11-optical-dna-yeast-genomes-chromosome.html",
+      "resumo": "Large, complex genomes remain difficult to characterize accurately, even with modern DNA sequencing. Researchers at Chalmers University of Technology have now extended an optical genome mapping approach, previously demonstrated for bacterial genomes, to more complex eukaryotic genomes. Using two yeast species, they generated optical maps covering entire chromosomes, including large repetitive regions that are particularly difficult to reconstruct.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-19T21:30:01+00:00",
+      "coletado_em": "2026-11-20T17:49:24.078028+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/optical-dna-mapping-as.jpg",
+      "score": 5.168,
+      "cobertura": []
+    },
+    {
+      "id": "13a5b6616e02",
+      "titulo": "Male bumblebees contribute to nest care, challenging view that they only mate",
+      "url": "https://phys.org/news/2026-11-male-bumblebees-contribute-view.html",
+      "resumo": "For decades, researchers have assumed male bumblebees' contribution to hives consisted mainly of DNA. However, a new study finds that the males actually help incubate baby bumbles, and that with males' assistance, hives thrive. The study, published in the Royal Society Open Science journal, quantifies the beneficial effects of having male babysitters in the hive.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-20T16:00:01+00:00",
+      "coletado_em": "2026-11-20T17:49:24.078028+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2020/bumblebee.jpg",
+      "score": 4.85,
+      "cobertura": []
+    },
+    {
+      "id": "6dd09b43a1ff",
+      "titulo": "Unexpected stone tools from Israel raise questions about cultural evolution",
+      "url": "https://www.newscientist.com/article/2599953-unexpected-stone-tools-from-israel-raise-questions-about-cultural-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Ancient humans in the eastern Mediterranean first began producing advanced stone blades 100,000 years before the tools became widely used, indicating that new technologies weren't automatically adopted by communities",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-20T12:00:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.137029+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321291718.jpg",
+      "score": 4.779,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "4f39f4f6079c",
+      "titulo": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+      "url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+      "resumo": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! Drones navigating cluttered spaces often encounter openings narrower than their bodies. We present a design method that jointly optimizes a quadrotor’s geometry and how its two side arms bend on contact. The resulting prototype folds from 31.3 cm to 14.1 cm wide on contact and flies through a 15 cm opening. [ Paper ] via [ Autonomous Robots Lab ] Thanks, Kostas! TeCoBots are soft, snake-like robots that can work alone and can also grab onto each other to form chains, loops and branches, building a new body for each task. A single robot can inch like a worm, roll across gravel and grass, climb inside a pipe and lift a 2.5-liter water bottle. The claw it uses to grab objects is the same one it uses to grab another robot, so linking up needs no extra docking hardware. Linked together, the robots do things none can do alone. [ TeCoBots ] Thanks, Mahmud! AHEADance is a huma",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-20T17:30:03+00:00",
+      "coletado_em": "2026-11-20T17:49:24.079897+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/small-quadrotor-drone-with-glowing-leds-squeezes-itself-to-slip-through-a-rectangular-hole-in-a-wooden-wall.gif?id=68705683&width=980",
+      "score": 7.113,
+      "cobertura": []
+    },
+    {
+      "id": "4b9ad03637b5",
+      "titulo": "MassRobotics launching marine robotics facility on Boston Harbor",
+      "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
+      "resumo": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027. The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-20T17:04:28+00:00",
+      "coletado_em": "2026-11-20T17:49:24.080341+00:00",
+      "imagem_feed": null,
+      "score": 5.315,
+      "cobertura": []
+    },
+    {
+      "id": "540f3a8165c0",
+      "titulo": "'Killer robots' talks in battle against the clock",
+      "url": "https://techxplore.com/news/2026-11-killer-robots-clock.html",
+      "resumo": "A U.N. conference on \"killer robots\" was running out of time Friday after Russia in particular slowed five days of grueling talks on whether to begin negotiating regulations for lethal autonomous weapons.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-20T14:50:02+00:00",
+      "coletado_em": "2026-11-20T17:49:24.080492+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/several-militaries-are.jpg",
+      "score": 5.233,
+      "cobertura": []
+    },
+    {
+      "id": "525bdced9075",
+      "titulo": "US, Russia and China look set to block ban on autonomous weapons",
+      "url": "https://www.newscientist.com/article/2599904-us-russia-and-china-look-set-to-block-ban-on-autonomous-weapons/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "More than 70 countries are ready to begin negotiations on prohibiting lethal autonomous weapons, but large militarised nations are expected to obstruct efforts to agree a ban",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-20T14:38:10+00:00",
+      "coletado_em": "2026-11-20T17:49:24.137029+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321401609_00564b.jpg",
+      "score": 5.014,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "1db2220343af",
+      "titulo": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1108811/",
+      "resumo": "Security updates have been issued by AlmaLinux (bind9.18, bubblewrap, fence-agents, freerdp, grafana, grafana-pcp, gstreamer1-plugins-bad-free, jackson-core, jackson-databind, java-17-openjdk, java-21-openjdk, java-25-openjdk, kernel, kernel-rt, mysql8.4, mysql:8.4, qt5-qtbase, qt5-qtdeclarative, raptor2, resteasy, and sos), Debian (electrum, nginx, openjdk-17, pam-mysql, php8.2, and php8.4), Fedora (aws, bind9-next, blender, c-ares, composer, dr_libs, et, gh, incron, libaec, libfontenc, libXfont2, mtools, nebula, perl-Imager, perl-Text-JSCalendar, perl-Text-JSContact, php, python-loguru, python3.6, qpid-proton, roundcubemail, runc, and xen), Gentoo (nginx, PHP, and Ruby), Mageia (hplip), Oracle (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, bubblewrap, emacs, firefox, flatpak-builder, gcc, gimp, glibc, grafana, grafana-pcp, gstreamer1, gvfs, java-1.8.0-openjdk, java-17-openjdk, java-21-openjdk, java-25-openjdk, libssh2, mod_http2, perl-CGI, perl-DBI, perl-DBI:1.641, python3.9, rpm, squid, tesseract, thunderbird, tigervnc, util-linux, webkit2gtk3, and xdg-dbus-proxy), Red Hat (compat-openssl10, kernel, nginx, nginx:1.24, nginx:1.26, nodejs22, nodejs:22, openssl, python-urllib3, python3",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-20T13:52:40+00:00",
+      "coletado_em": "2026-11-20T17:49:24.081629+00:00",
+      "imagem_feed": null,
+      "score": 5.142,
+      "cobertura": []
+    },
+    {
+      "id": "9cdee5247e8b",
+      "titulo": "[$] Bringing the Agama installer to openSUSE Tumbleweed",
+      "url": "https://lwn.net/Articles/1107830/",
+      "resumo": "The openSUSE Project has been working on the Agama installer for four years; it was the default installer for openSUSE Leap 16.0 when it was released in 2025, and has been adopted by other openSUSE flavors as well. Now the project is gearing up to go all-in on Agama for Tumbleweed , the rolling-release edition that is meant to be where updates and new features land first. Even so, the community has concerns about losing some of YaST's legacy functionality and the impact on installing Tumbleweed on systems that have less RAM.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-20T14:49:13+00:00",
+      "coletado_em": "2026-11-20T17:49:24.081629+00:00",
+      "imagem_feed": null,
+      "score": 4.731,
+      "cobertura": []
+    },
+    {
+      "id": "179395bffff3",
+      "titulo": "Vim Classic 8.3.1 released",
+      "url": "https://lwn.net/Articles/1108817/",
+      "resumo": "Version 8.3.1 of Vim Classic —a long-term support fork of Vim maintained without LLM assistance—has been released. This release includes applicable Vim patches up to Vim 8.2.3237, including numerous bug fixes, minor features, and compatibility improvements for Vim plugins. This release also removes Python 2 support from Vim Classic. The full list of changes in this release is available on sourcehut.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-20T14:17:33+00:00",
+      "coletado_em": "2026-11-20T17:49:24.081629+00:00",
+      "imagem_feed": null,
+      "score": 4.681,
+      "cobertura": []
+    },
+    {
+      "id": "5a51c05d8e67",
+      "titulo": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
+      "url": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Google has announced it is donating Agent Substrate and gVisor to the Cloud Native Computing Foundation (CNCF), placing two important components of its AI agent infrastructure under vendor-neutral open-source governance. By Craig Risi",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-20T12:00:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.080828+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/google-substrate-gvisor-cncf/en/headerimage/generatedHeaderImage-1794408775099.jpg",
+      "score": 4.629,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "3f23871144f3",
+      "titulo": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+      "resumo": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-20T16:30:08+00:00",
+      "coletado_em": "2026-11-20T17:49:24.082266+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/FpyrzhxuSBtv2GwT3GsT95-1920-80.jpg",
+      "score": 5.553,
+      "cobertura": [
+        "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+      ]
+    },
+    {
+      "id": "f08f80a507e2",
+      "titulo": "MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review",
+      "resumo": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of unified memory, strong local AI performance, and the ability to game on the side. But its high $7,499 price isn't that much cheaper than more versatile DGX Spark systems.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-20T12:00:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.082266+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/WPYDMgTLPyiFtgLo3Et3bn-1920-80.jpg",
+      "score": 5.129,
+      "cobertura": []
+    },
+    {
+      "id": "5616e037cde0",
+      "titulo": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
+      "resumo": "A pissed traveler decided to check their desktop CPU after a check-in attendant refused to have it carried in the cabin, despite being historically allowed by the airline.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-20T11:00:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.082266+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ZVUfmduJvkhQ95gx3zpH4a-1920-80.png",
+      "score": 5.049,
+      "cobertura": []
+    },
+    {
+      "id": "048307fe18e5",
+      "titulo": "OpenAI's AI models boost AMD's upcoming flagship GPU design by up to 14% in PPA",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+      "resumo": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-20T10:30:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.082266+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+      "score": 5.01,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "e07a649dad07",
+      "titulo": "A star's last gasps: ALMA reveals a giant gas ring and budding hourglass around a star in transition",
+      "url": "https://phys.org/news/2026-11-star-gasps-alma-reveals-giant.html",
+      "resumo": "Stars like our sun don't die quietly. In their final act, they swell into red giants, shed their outer layers into space and leave behind a glowing, often strikingly sculpted cloud of gas called a planetary nebula. That transformation is thought to take only a few thousand years, a blink in the life of a star, so catching one in the act is rare.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-20T15:20:01+00:00",
+      "coletado_em": "2026-11-20T17:49:24.083283+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-stars-last-gasps-alm.jpg",
+      "score": 5.282,
+      "cobertura": []
+    },
+    {
+      "id": "7b0714736133",
+      "titulo": "Researchers trace shifting pulsation modes in δ Scuti star KIC 4737720",
+      "url": "https://phys.org/news/2026-11-shifting-pulsation-modes-scuti-star.html",
+      "resumo": "Stars in the night sky may look calm and unchanging, but some are in fact constantly \"vibrating.\" Just as a musical instrument can sound several notes at once, a star can pulse in several modes simultaneously. By measuring minute changes in a star's brightness, astronomers can read these stellar vibrations and, in turn, probe the physical processes at work inside it.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-20T16:20:08+00:00",
+      "coletado_em": "2026-11-20T17:49:24.083283+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-trace-shif.jpg",
+      "score": 4.885,
+      "cobertura": []
+    },
+    {
+      "id": "57bebe29f83b",
+      "titulo": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+      "resumo": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-20T16:27:46+00:00",
+      "coletado_em": "2026-11-20T17:49:24.082927+00:00",
+      "imagem_feed": null,
+      "score": 4.849,
+      "cobertura": []
+    },
+    {
+      "id": "3c75783da394",
+      "titulo": "NASA’s Curiosity Mars Rover Collects Samples",
+      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+      "resumo": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-20T15:53:24+00:00",
+      "coletado_em": "2026-11-20T17:49:24.082927+00:00",
+      "imagem_feed": null,
+      "score": 4.789,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "8efe412d3d8d",
+      "titulo": "10-Member Team Drawn from Chinese Institutions Wins 2026 Gordon Bell Prize",
+      "url": "https://thequantuminsider.com/2026/11/20/10-member-team-drawn-from-chinese-institutions-wins-2026-gordon-bell-prize/",
+      "resumo": "Insider Brief PRESS RELEASE — ACM, the Association for Computing Machinery, named a ten-member team drawn from Chinese institutions as the winner of the 2026 ACM Gordon Bell Prize for their project “Closing the FeMo-Cofactor ‘Quantum-Advantage’ Gap with Exascale Supercomputers.” The ACM Gordon Bell Prize tracks the progress of parallel computing and rewards innovation in […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-20T16:13:55+00:00",
+      "coletado_em": "2026-11-20T17:49:24.084408+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-11.10.59-AM.png",
+      "score": 5.024,
+      "cobertura": []
+    },
+    {
+      "id": "5f7018c1bfec",
+      "titulo": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+      "url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+      "resumo": "Insider Brief The U.S. Department of Commerce’s quantum computing awards combine research funding with government ownership, giving companies access to capital for specific engineering projects in exchange for shares and commitments governing how the work is completed. Agreements disclosed in SEC filings by Rigetti Computing, D-Wave Quantum and Quantinuum show how the arrangement works. Each […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-20T16:05:47+00:00",
+      "coletado_em": "2026-11-20T17:49:24.084408+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Commerce-Graphic.png",
+      "score": 5.01,
+      "cobertura": []
+    },
+    {
+      "id": "099b8712cd7f",
+      "titulo": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
+      "url": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
+      "resumo": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances in quantum technologies, solar energy, LEDs and other optoelectronic technologies. The work is published in Nature Physics.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-20T16:40:08+00:00",
+      "coletado_em": "2026-11-20T17:49:24.084747+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/combining-their-skills.jpg",
+      "score": 4.921,
+      "cobertura": []
+    },
+    {
+      "id": "d7a331ea216e",
+      "titulo": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
+      "url": "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/",
+      "resumo": "Insider Brief It turns out teamwork can indeed make the dream work, even when the team isn’t allowed to talk. It helps to have a few entangled qubits, though. In a study, a Google-led team of researchers used a quantum chip to beat the best classical strategies in games that barred players from communicating, demonstrating […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-19T20:31:49+00:00",
+      "coletado_em": "2026-11-20T17:49:24.084408+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Amber-and-blue-3x3-grid-1.png",
+      "score": 4.785,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "f08f80a507e2",
+      "titulo": "MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review",
+      "resumo": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of unified memory, strong local AI performance, and the ability to game on the side. But its high $7,499 price isn't that much cheaper than more versatile DGX Spark systems.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-20T12:00:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.082266+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/WPYDMgTLPyiFtgLo3Et3bn-1920-80.jpg",
+      "score": 5.629,
+      "cobertura": []
+    },
+    {
+      "id": "859ee3ec8c20",
+      "titulo": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "resumo": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-20T16:34:13+00:00",
+      "coletado_em": "2026-11-20T17:49:24.096194+00:00",
+      "imagem_feed": null,
+      "score": 5.11,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
+      ]
+    },
+    {
+      "id": "5616e037cde0",
+      "titulo": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
+      "resumo": "A pissed traveler decided to check their desktop CPU after a check-in attendant refused to have it carried in the cabin, despite being historically allowed by the airline.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-20T11:00:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.082266+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ZVUfmduJvkhQ95gx3zpH4a-1920-80.png",
+      "score": 5.049,
+      "cobertura": []
+    },
+    {
+      "id": "019aeb7c30ba",
+      "titulo": "Nvidia is in turmoil. Should AMD double down on gaming?",
+      "url": "https://www.pcworld.com/article/3289828/nvidia-is-in-trouble-should-amd-double-down-on-gaming.html",
+      "resumo": "Nvidia has a monopoly on consumer graphics cards. That’s not hyperbole, that is the full, technical truth — AMD has lost ground steadily for years, and Intel’s GPU ambitions seem to be stalled if not abandoned. But Nvidia is in a lot of potential trouble, with its 30-year veteran CEO out amid international intrigue . The company isn’t going anywhere, but it’s certainly not focused on gaming right now. As a PC gamer, I’m itching to see AMD reverse years of losses in the GPU sector, especially while it seems like no one else is interested in innovating for hardware. Is now the time for AMD to push back? Let’s examine the situation. Does AMD even care about graphics cards anymore? Recently CEO Dr. Lisa Su said that AMD is a “ data center first company .” For context, while Nvidia is the clear and massive leader in supplying hardware to “AI” data centers, AMD is doing just fine out of the bubble, too. In the most recent quarterly report, the company claimed $13.4 billion in revenue with a 54 percent profit margin. Data center income accounts for over $8.5 billion, with just $770 million coming from the “Gaming” segment (another $2.95 billion from “Client,” i.e. providing CPUs for stand",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-20T14:00:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.086865+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2025/04/Su-holds-up-Ryzen-7000.png",
+      "score": 4.804,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "9be98e73c6c8",
+      "titulo": "Following the “mathocalypse,” mathematicians consider the future",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+      "resumo": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-20T15:20:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.096613+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Math-AI-01-press.jpg?itok=kKHwiUOm",
+      "score": 5.532,
+      "cobertura": []
+    },
+    {
+      "id": "ee916781ca89",
+      "titulo": "5 tarefas pesadas que o novo Gemini 4 Carbon faz e nenhuma outra IA consegue",
+      "url": "https://canaltech.com.br/inteligencia-artificial/tarefas-pesadas-que-so-o-gemini-4-carbon-faz/",
+      "resumo": "O Google lançou o Gemini 4 Carbon , seu modelo de inteligência artificial mais avançado até agora. Diferente dos chatbots usados para responder perguntas e resumir textos, a novidade foi desenvolvida para lidar com tarefas complexas, que exigem planejamento, análise e várias etapas até chegar a um resultado. A principal diferença em relação ao Gemini 4 Argon, indicado pelo Google para tarefas do dia a dia, está no tempo dedicado ao raciocínio . O Carbon consegue analisar diferentes caminhos para resolver um problema e revisar o próprio trabalho antes de apresentar uma resposta. Em contrapartida, pode demorar mais para concluir uma solicitação e consumir mais tokens. No entanto, o acesso ao Gemini 4 Carbon é restrito aos assinantes do plano Google AI Ultra no aplicativo Gemini e no AI Mode da Busca do Google. Os desenvolvedores também podem experimentar o modelo pela API paga do Gemini e pelo Google AI Studio. 5 coisas que o Gemini 4 Carbon consegue fazer Veja cinco coisas que o Gemini 4 Carbon consegue fazer: Organizar as contas e montar um orçamento doméstico Criar um site ou aplicativo sem precisar programar Estudar matérias difíceis e resolver problemas complexos Analisar docume",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-20T10:30:05+00:00",
+      "coletado_em": "2026-11-20T17:49:24.109687+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "score": 5.41,
+      "cobertura": []
+    },
+    {
+      "id": "5b555635e749",
+      "titulo": "Agentes de inteligência artificial ampliam autonomia e levantam preocupações sobre segurança",
+      "url": "https://jornal.usp.br/radio-usp/agentes-de-inteligencia-artificial-ampliam-autonomia-e-levantam-preocupacoes-sobre-seguranca/",
+      "resumo": "Sistemas capazes de tomar decisões e executar tarefas de forma independente podem facilitar atividades cotidianas, mas também abrir caminho para fraudes financeiras e ataques cibernéticos.",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-20T11:57:56+00:00",
+      "coletado_em": "2026-11-20T17:49:24.099906+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2016/09/colunista_radioUSP-marceloFinger-3-1024x1024.jpg",
+      "score": 5.276,
+      "cobertura": []
+    },
+    {
+      "id": "0b1c832cdf59",
+      "titulo": "Signal bloqueia capturas de tela para proteger mensagens contra IA",
+      "url": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/signal-bloqueia-capturas-de-tela-para-proteger-mensagens-contra-ia/",
+      "resumo": "Signal bloqueia capturas de tela no Android e iOS 27 para impedir que Gemini, Siri e agentes de IA leiam mensagens, mas admite limites na defesa O post Signal bloqueia capturas de tela para proteger mensagens contra IA apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-20T14:53:08+00:00",
+      "coletado_em": "2026-11-20T17:49:24.103219+00:00",
+      "imagem_feed": null,
+      "score": 5.138,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "0fb8ef6f07d7",
+      "titulo": "Where do ions go? Hidden differences inside next-generation battery materials",
+      "url": "https://techxplore.com/news/2026-11-ions-hidden-differences-generation-battery.html",
+      "resumo": "When a rechargeable battery operates, ions move into and out of its electrode materials. But where exactly do these ions settle inside the crystal structure? And does their location affect how well a battery performs? These questions are particularly important for next-generation batteries that use abundant elements such as sodium, magnesium and calcium instead of lithium.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-20T17:20:08+00:00",
+      "coletado_em": "2026-11-20T17:49:24.099447+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-do-ions-go-revea.jpg",
+      "score": 5.494,
+      "cobertura": []
+    },
+    {
+      "id": "ac58731c8e07",
+      "titulo": "Acabou a “farra”? Híbridos têm data para voltar a pagar IPVA em São Paulo",
+      "url": "https://canaltech.com.br/carros/acabou-a-farra-hibridos-tem-data-para-voltar-a-pagar-ipva-em-sao-paulo/",
+      "resumo": "Quem comprou um carro híbrido contando com a isenção permanente do IPVA em São Paulo precisa começar a se preparar para uma mudança no orçamento que vai acontecer em um futuro próximo. O benefício concedido pelo governo estadual tem data para terminar: 31 de dezembro de 2026 . A partir de janeiro de 2027, os proprietários dos modelos contemplados voltarão a recolher o imposto . A boa notícia é que a cobrança não será integral logo no primeiro ano, já que a legislação estabeleceu uma retomada escalonada , com aumento progressivo da alíquota. A regra foi criada pela Lei Estadual 18.065/2024 e vale para uma categoria específica de híbridos e carros movidos a hidrogênio. Portanto, não significa que todos os eletrificados que circulam pelo estado tenham recebido ou receberão o mesmo tratamento tributário. Veja quais híbridos perdem a isenção e quanto vão pagar O benefício contempla híbridos com motor a combustão flex ou abastecido exclusivamente com etanol, desde que também atendam às exigências técnicas do sistema elétrico. Entre elas estão potência mínima de 40 kW (cerca de 54 cv) para o motor elétrico e bateria com tensão mínima de 150 volts . O valor venal do automóvel também precis",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-20T17:02:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.109687+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/dHj4B0NLFIJndcUtPuWnck1lpls=/0x0/filters:format(webp):quality(85)/4db67ff2-2a23-4b97-b691-20ba6920e447.jpeg",
+      "score": 5.011,
+      "cobertura": []
+    },
+    {
+      "id": "3d02766e0556",
+      "titulo": "The BepiColombo spacecraft is finally entering orbit around Mercury",
+      "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "After an eight-year voyage towards the sun, the BepiColombo spacecraft can finally begin its mission to unpick the many mysteries of our solar system's smallest planet",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-20T08:00:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.137029+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321265627.jpg",
+      "score": 4.984,
+      "cobertura": []
+    },
+    {
+      "id": "56b66020b348",
+      "titulo": "Honda apresenta bike elétrica com potência insana, mas não revela preço",
+      "url": "https://canaltech.com.br/carros/honda-apresenta-bike-eletrica-com-potencia-insana-mas-nao-revela-preco/",
+      "resumo": "A Honda decidiu ampliar sua atuação no mercado de mobilidade elétrica com a apresentação da RN0 , sua e-bike preparada para Mountain Bike . A novidade foi revelada durante a EICMA 2026, feira de motocicletas realizada em Milã o, na Itália, e marca a entrada da fabricante japonesa em um segmento dominado por marcas especializadas em bicicletas. O projeto foi desenvolvido em conjunto com a Rotwild , fabricante alemã conhecida por suas mountain bikes premium . A proposta é combinar a experiência da Honda na engenharia de motocicletas com soluções específicas para enfrentar trilhas, terrenos acidentados e percursos com subidas e descidas exigentes. Apesar da estreia mundial, a empresa ainda não apresentou todos os detalhes comerciais do modelo. A RN0 tem previsão de chegar a concessionárias selecionadas da Honda na Europa em 2027, mas não há confirmação de venda no Brasil . Motor da Honda RN0 entrega 750 W e tem câmbio automático O sistema de assistência elétrica utiliza uma nova unidade de acionamento da Shimano, com 750 W de potência máxima e 10,2 kgf/m de torque . O conjunto pesa apenas 2,3 kg e trabalha com uma bateria de 720 Wh , instalada no quadro. Segundo a fabricante, a combin",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-20T14:02:00+00:00",
+      "coletado_em": "2026-11-20T17:49:24.109687+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/fi350Sx0rkKYZRxe0V0tl0K_yqo=/0x0/filters:format(webp):quality(85)/c8775d4c-5fb8-4cd6-aad4-cd5114f6f758.jpg",
+      "score": 4.207,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "35de27ceeea6",
+      "titulo": "iFood sofre outro vazamento de dados de clientes",
+      "url": "https://tecnoblog.net/noticias/ifood-sofre-outro-vazamento-de-dados-de-clientes/",
+      "resumo": "Telefones, CPFs e informações de parceiros e entregadores também foram expostas. É o segundo caso na plataforma em 2026. iFood sofre outro vazamento de dados de clientes",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-19T19:19:10+00:00",
+      "coletado_em": "2026-11-20T17:49:24.105364+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capa-ifood-erro-1.jpeg",
+      "score": 4.295,
+      "cobertura": [
+        "https://canaltech.com.br/seguranca/ifood-sofre-ataque-hacker-e-expoe-dados-de-clientes-e-entregadores-veja-o-que-vazou/"
+      ]
+    },
+    {
+      "id": "053902a362c0",
+      "titulo": "iFood sofre ataque hacker e expõe dados de clientes e entregadores; veja o que vazou",
+      "url": "https://canaltech.com.br/seguranca/ifood-sofre-ataque-hacker-e-expoe-dados-de-clientes-e-entregadores-veja-o-que-vazou/",
+      "resumo": "O iFood confirmou nesta quinta-feira (19) que sofreu um ataque hacker que expôs dados pessoais de clientes, entregadores e representantes de restaurantes parceiros. A invasão ocorreu no sábado (14) e permitiu que criminosos acessassem informações como telefones, CPFs e, em determinados casos, dados de contas bancárias. A empresa ainda investiga o incidente e não informou quantas pessoas foram afetadas. Segundo o iFood, senhas, cartões de crédito, meios de pagamento e informações biométricas não foram comprometidos. Em comunicado oficial, a plataforma afirmou que não encontrou evidências de que os dados acessados tenham sido divulgados ou utilizados indevidamente até o momento. Os serviços continuam funcionando normalmente. O iFood também notificou a Agência Nacional de Proteção de Dados (ANPD) sobre o incidente e começará a enviar e-mails nesta quinta-feira (19) para comunicar as pessoas atingidas. Como aconteceu o ataque hacker ao iFood? Segundo informações divulgadas pela empresa, os criminosos conseguiram acessar sistemas internos do iFood no dia 14 de novembro e obter diferentes informações cadastrais de usuários da plataforma. O método utilizado para realizar a invasão ainda n",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-19T19:29:21+00:00",
+      "coletado_em": "2026-11-20T17:49:24.109687+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/r7OMYTE8KqbLWQUhIR5xOQ55nWc=/0x0/filters:format(webp):quality(85)/5f5f5da6-2068-4870-91c7-214c2fe0489b.png",
+      "score": 4.151,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/ifood-sofre-outro-vazamento-de-dados-de-clientes/"
+      ]
+    },
+    {
+      "id": "342c12bae181",
+      "titulo": "Grupo assume vazamento de dados de clientes da Visa, Mastercard e JPMorgan",
+      "url": "https://tecnoblog.net/noticias/grupo-assume-vazamento-de-dados-de-clientes-da-visa-mastercard-e-jpmorgan/",
+      "resumo": "Empresas confirmaram incidentes envolvendo fornecedores terceirizados, mas afirmam que suas redes e operações de pagamento não foram afetadas. Grupo assume vazamento de dados de clientes da Visa, Mastercard e JPMorgan",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-20T07:08:23+00:00",
+      "coletado_em": "2026-11-20T17:49:24.105364+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2018/11/cartao-credito-dinheiro.jpg",
+      "score": 3.829,
+      "cobertura": []
+    },
+    {
+      "id": "23d6f0ab28f2",
+      "titulo": "iPhone 20 pode parecer uma \"barra de vidro\" quase sem bordas; veja imagens",
+      "url": "https://canaltech.com.br/smartphone/iphone-20-pode-parecer-uma-barra-de-vidro-quase-sem-bordas-veja-imagens/",
+      "resumo": "O iPhone 20 pode chegar com um visual completamente diferente dos celulares atuais da Apple , com uma construção quase toda em vidro e uma tela curva com bordas praticamente invisíveis. Novas imagens conceituais, baseadas em rumores e vazamentos, antecipam como pode ser o smartphone comemorativo dos 20 anos do iPhone. A proposta é transformar o aparelho em uma espécie de \"barra de vidro\", com uma aparência mais uniforme entre a tela, as laterais e a traseira. Apesar das mudanças, o conjunto de câmeras pode manter o chamado camera plateau , módulo elevado que abriga as lentes dos modelos Pro. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Além do design, os rumores apontam para botões com resposta tátil, um sensor fotográfico desenvolvido pela própria Apple e novas tecnologias de bateria. O que esperar do visual do iPhone 20? A principal mudança pode estar na construção do aparelho. Em vez das laterais retas e das divisões mais evidentes entre os materiais, o iPhone 20 pode apostar em superfícies curvas e uma estrutura com aparência contínua. A tela também deve receber atenção especial. Os rumores sugerem bordas extremamente finas e um painel que acompanha a cur",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-20T17:10:27+00:00",
+      "coletado_em": "2026-11-20T17:49:24.109687+00:00",
+      "imagem_feed": null,
+      "score": 1.226,
+      "cobertura": []
+    }
+  ]
+}
