@@ -1,0 +1,762 @@
+{
+  "medicina": [
+    {
+      "id": "81b611dbc23c",
+      "titulo": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
+      "url": "https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html",
+      "resumo": "In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not all populations are benefiting from this expansion. As GLP-1 use has increased, disparities in access to these drugs have widened significantly, according to a new study led by researchers at Boston University School of Public Health (BUSPH).",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-21T14:00:01+00:00",
+      "coletado_em": "2026-11-21T16:48:05.074344+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/despite-soaring-demand.jpg",
+      "score": 5.751,
+      "cobertura": []
+    },
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-21T16:48:05.073333+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "620a21301f08",
+      "titulo": "Integrated health service delivery through medical mobile units helped to reduce deaths among individuals at risk for HIV who also inject drugs",
+      "url": "https://www.nih.gov/news-events/news-releases/integrated-health-service-delivery-through-medical-mobile-units-helped-reduce-deaths-among-individuals-risk-hiv-who-also-inject-drugs",
+      "resumo": "NIH-funded clinical trial shows mobile units may help overcome significant barriers to accessing HIV and addiction treatment, but replication is needed.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-21T16:48:05.073333+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "269a0f7a2f74",
+      "titulo": "Alcohol may weaken cancer immunotherapy, early research suggests",
+      "url": "https://medicalxpress.com/news/2026-11-alcohol-weaken-cancer-immunotherapy-early.html",
+      "resumo": "Cancer immunotherapy has transformed treatment for several advanced cancers, yet the difference between these treatments working and not could depend on simple routine habits. A recent study published in Science Signaling explores one such overlooked factor: regular alcohol consumption.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-21T16:00:01+00:00",
+      "coletado_em": "2026-11-21T16:48:05.074344+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/alcohol-may-weaken-can.jpg",
+      "score": 5.46,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "42f91793f3ba",
+      "titulo": "Scientists say the human family tree may need a radical rewrite",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+      "resumo": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo. As scientists uncover more fossils and analyze evolutionary relationships, the boundaries that once separated these ancient relatives are becoming increasingly difficult to defend.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-21T13:44:55+00:00",
+      "coletado_em": "2026-11-21T16:48:05.075866+00:00",
+      "imagem_feed": null,
+      "score": 5.077,
+      "cobertura": []
+    },
+    {
+      "id": "8e097765d128",
+      "titulo": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "resumo": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "hardware"
+      ],
+      "publicado": "2026-11-21T12:01:13+00:00",
+      "coletado_em": "2026-11-21T16:48:05.119150+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+      "score": 4.867,
+      "cobertura": []
+    },
+    {
+      "id": "8296bc9edbaf",
+      "titulo": "Study reveals hidden evolutionary diversity in endangered white pines",
+      "url": "https://phys.org/news/2026-11-reveals-hidden-evolutionary-diversity-endangered.html",
+      "resumo": "Accurate species delimitation is fundamental to biodiversity conservation, yet it remains a persistent challenge in species-rich plant groups, particularly conifers, where convergent evolution, gene flow and incomplete lineage sorting often obscure species boundaries.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-20T13:20:09+00:00",
+      "coletado_em": "2026-11-21T16:48:05.075338+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-hidden-e-1.jpg",
+      "score": 4.459,
+      "cobertura": []
+    },
+    {
+      "id": "c318f1929337",
+      "titulo": "Broadening the role of RNA: A messenger, a mediator and now a condensate coordinator",
+      "url": "https://phys.org/news/2026-11-broadening-role-rna-messenger-condensate.html",
+      "resumo": "New research about condensates—cellular compartments that act as hubs for facilitating biological reactions—continues to reveal novel insights into how cells function. Among those continuing to push the field forward are members of the Marine Biological Laboratory's condensate consortium, including Amy Gladfelter, a professor at Duke University and current co-director of the MBL physiology course, and former MBL physiology course student and past MBL Whitman fellow Dragomir Milovanovic, a professor at the Charité Berlin University Institute of Biochemistry.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-21T00:40:01+00:00",
+      "coletado_em": "2026-11-21T16:48:05.075338+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/broadening-the-role-of.jpg",
+      "score": 4.338,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "4f39f4f6079c",
+      "titulo": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+      "url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+      "resumo": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! Drones navigating cluttered spaces often encounter openings narrower than their bodies. We present a design method that jointly optimizes a quadrotor’s geometry and how its two side arms bend on contact. The resulting prototype folds from 31.3 cm to 14.1 cm wide on contact and flies through a 15 cm opening. [ Paper ] via [ Autonomous Robots Lab ] Thanks, Kostas! TeCoBots are soft, snake-like robots that can work alone and can also grab onto each other to form chains, loops and branches, building a new body for each task. A single robot can inch like a worm, roll across gravel and grass, climb inside a pipe and lift a 2.5-liter water bottle. The claw it uses to grab objects is the same one it uses to grab another robot, so linking up needs no extra docking hardware. Linked together, the robots do things none can do alone. [ TeCoBots ] Thanks, Mahmud! AHEADance is a huma",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-20T17:30:03+00:00",
+      "coletado_em": "2026-11-21T16:48:05.076553+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/small-quadrotor-drone-with-glowing-leds-squeezes-itself-to-slip-through-a-rectangular-hole-in-a-wooden-wall.gif?id=68705683&width=980",
+      "score": 5.671,
+      "cobertura": []
+    },
+    {
+      "id": "540f3a8165c0",
+      "titulo": "Countries open path toward 'killer robots' pact",
+      "url": "https://techxplore.com/news/2026-11-killer-robots-clock.html",
+      "resumo": "Countries opened a path Saturday toward finding an international agreement on regulating lethal autonomous weapons systems—though campaigners seeking to stop so-called killer robots were disappointed by the \"weakened\" outcome.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-20T14:50:02+00:00",
+      "coletado_em": "2026-11-21T16:48:05.077094+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/several-militaries-are.jpg",
+      "score": 3.996,
+      "cobertura": []
+    },
+    {
+      "id": "4b9ad03637b5",
+      "titulo": "MassRobotics launching marine robotics facility on Boston Harbor",
+      "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
+      "resumo": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027. The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-20T17:04:28+00:00",
+      "coletado_em": "2026-11-21T16:48:05.076971+00:00",
+      "imagem_feed": null,
+      "score": 3.908,
+      "cobertura": []
+    },
+    {
+      "id": "525bdced9075",
+      "titulo": "US, Russia and China look set to block ban on autonomous weapons",
+      "url": "https://www.newscientist.com/article/2599904-us-russia-and-china-look-set-to-block-ban-on-autonomous-weapons/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "More than 70 countries are ready to begin negotiations on prohibiting lethal autonomous weapons, but large militarised nations are expected to obstruct efforts to agree a ban",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-20T14:38:10+00:00",
+      "coletado_em": "2026-11-21T16:48:05.117408+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321401609_00564b.jpg",
+      "score": 3.791,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "92ec79f956ed",
+      "titulo": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
+      "url": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Google recently detailed how three interacting bugs across Google Kubernetes Engine (GKE), Private Service Connect, and the Linux kernel caused intermittent Kubernetes API connectivity failures, blocking around 800 developers from deploying to production. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-21T09:44:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.077357+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/gke-kernel-network-bug/en/headerimage/generatedHeaderImage-1794082671635.jpg",
+      "score": 5.03,
+      "cobertura": []
+    },
+    {
+      "id": "26481616130f",
+      "titulo": "QCon San Francisco 2026: Scaling Tech by Aligning Humans",
+      "url": "https://www.infoq.com/news/2026/11/scalling-tech-humans/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "At QCon San Francisco 2026, Scott Behrens, Principal Security Engineer at Netflix, presented how staff-plus engineers can define and align a company-wide technical strategy. By Daniel Dominguez",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-21T13:30:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.077357+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/scalling-tech-humans/en/headerimage/generatedHeaderImage-1795181753113.jpg",
+      "score": 4.853,
+      "cobertura": []
+    },
+    {
+      "id": "b2a5ee21b71b",
+      "titulo": "7 formas de usar o Claude Code para tocar um negócio sem saber programar",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-claude-code-tocar-negocio-sem-saber-programar/",
+      "resumo": "Para administrar um pequeno negócio, é necessário cuidar de várias tarefas ao mesmo tempo . Em um dia, você precisa atender clientes e atualizar o site; no outro, conferir pagamentos pendentes ou resolver problemas no sistema de agendamento. A contratação de desenvolvedores para criar ferramentas específicas para cada tarefa nem sempre é uma opção, principalmente quando o negócio ainda está começando. É aí que o Claude Code pode ajudar , mesmo que você não saiba programar. O assistente de codificação da Anthropic cria sites, desenvolve ferramentas personalizadas e automatiza tarefas repetitivas a partir de comandos em texto. É só explicar o que precisa e a IA cuida da escrita do código para tirar a ideia do papel. A ferramenta está disponível em aplicativo para desktop, terminal e pela web a partir do plano Pro , que custa cerca de R$ 92 por mês. Embora facilite a criação de softwares, as soluções precisam passar por testes antes de entrar em funcionamento. Também é importante revisar as permissões de acesso e proteger informações confidenciais de clientes. 7 formas de usar o Claude Code para gerenciar um negócio Veja sete formas de usar o Claude Code no seu negócio: Criar um site ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-21T11:30:07+00:00",
+      "coletado_em": "2026-11-21T16:48:05.094999+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "score": 4.573,
+      "cobertura": []
+    },
+    {
+      "id": "b28c05d85059",
+      "titulo": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
+      "url": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Grafana 13.3 introduces shared variables across dashboards and adds Notebooks to record investigations. Both features are in public preview and require feature toggles for self-managed installations. By Mark Silvester",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-21T14:30:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.077357+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/grafana-13-3-shared-variables/en/headerimage/header-1795209346746.jpeg",
+      "score": 4.451,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "b23169c26818",
+      "titulo": "This week on Tom's Hardware Premium: 21 November 2026",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/this-week-on-toms-hardware-premium-21-november-2026-amd-nvidia-and-more-show-off-the-future-of-high-performance-computing-at-sc26",
+      "resumo": "We go through an exhaustive list of everything we covered at SC26, which includes brand-new devices and developments from AMD, Nvidia, Intel and many more.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-21T16:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.078587+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/k7AZPdUoiC82RTTkcZ4eQP-1920-80.jpg",
+      "score": 7.11,
+      "cobertura": [
+        "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
+      ]
+    },
+    {
+      "id": "f3ac3528008b",
+      "titulo": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+      "url": "https://spectrum.ieee.org/sram-memory-z2ram",
+      "resumo": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Intel’s failed attempt to create “universal memory.” But Gelsinger, who is now a general partner at venture capital firm Playground , believes that AI is forcing a rethink of the entire computing stack—and that memory is a key part of that shift. Playground has backed Nagare Labs , a company spun out of Georgia Tech working on a prototype memory technology called Z2RAM. Instead of replacing existing memory, Z2RAM will attempt to offer a new layer in the existing memory stack that could prove useful for AI workloads and for other tasks that benefit from low latencies. “This is an SRAM addition, rather than a DRAM replacement,” says Suman Datta , a Georgia Tech professor and former Intel transistor researcher. Datta cofounded Nagare Labs with colleague Shimeng Yu . The company emerged from stealth on 26 October with US $5 million in funding led by Playground . Z2RAM for Faster Memory Datta say",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-21T14:00:02+00:00",
+      "coletado_em": "2026-11-21T16:48:05.078179+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/two-men-smiling-together-as-they-operate-an-advanced-wafer-probe-station.jpg?id=68654814&width=980",
+      "score": 6.851,
+      "cobertura": []
+    },
+    {
+      "id": "ca5b927c2a93",
+      "titulo": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
+      "resumo": "Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-21T15:30:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.078587+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/y5wCHQoNSMbWsCzSYHhUEX-1920-80.jpg",
+      "score": 6.055,
+      "cobertura": []
+    },
+    {
+      "id": "cdf085c86e95",
+      "titulo": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip — 21 MHz of RISC muscle speeds 2.2M parameter chatbot replies",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
+      "resumo": "Nintendo’s classic SNES console now has its own ChatGPT client, and it's accelerated by the Super FX 2 chip.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-21T15:02:17+00:00",
+      "coletado_em": "2026-11-21T16:48:05.078587+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7-1920-80.jpg",
+      "score": 5.006,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "88875db0d172",
+      "titulo": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "resumo": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-21T14:53:40+00:00",
+      "coletado_em": "2026-11-21T16:48:05.079708+00:00",
+      "imagem_feed": null,
+      "score": 6.191,
+      "cobertura": []
+    },
+    {
+      "id": "41fef234fe64",
+      "titulo": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+      "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+      "resumo": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-21T11:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.080024+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-1920-80.jpg",
+      "score": 4.831,
+      "cobertura": [
+        "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ]
+    },
+    {
+      "id": "374e22dbf184",
+      "titulo": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
+      "resumo": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-21T15:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.080024+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Lk7KWwRZdwsKrpVCVhW7c-1920-80.jpg",
+      "score": 4.702,
+      "cobertura": []
+    },
+    {
+      "id": "16e3316175eb",
+      "titulo": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
+      "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
+      "resumo": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers have taken to calling the \"MeV gap.\" But a new paper from an international group of scientists working with the Fermi Large Area Telescope (LAT) Collaboration, recently published in The Astrophysical Journal Supplement Series, takes a stab at closing that gap by identifying 450 cosmic sources in the 20–200 MeV range, providing the clearest view of low-energy gamma rays ever.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-21T13:00:10+00:00",
+      "coletado_em": "2026-11-21T16:48:05.079454+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/fermis-14-year-all-sky.jpg",
+      "score": 4.656,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "c44ff83f6e37",
+      "titulo": "A tiny superconducting sandwich could help computers use less energy",
+      "url": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
+      "resumo": "MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and signal control for more energy-efficient computing.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-20T21:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.081019+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/mit-psfc-moodera-ingla-sandwich.jpg?itok=mQc4T7Ds",
+      "score": 4.437,
+      "cobertura": []
+    },
+    {
+      "id": "f6e77b7161f8",
+      "titulo": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity",
+      "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-20T22:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.117408+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321280192.jpg",
+      "score": 4.025,
+      "cobertura": []
+    },
+    {
+      "id": "1ffd4f943091",
+      "titulo": "Voyager 1 atinge distância recorde da Terra – e mais destaques da semana",
+      "url": "https://olhardigital.com.br/2026/11/21/ciencia-e-espaco/voyager-1-atinge-distancia-recorde-da-terra-e-mais-destaques-da-semana/",
+      "resumo": "E ainda: Starship pode ficar ainda maior, chuva de meteoros risca o céu, Brasil entra na era quântica e muito mais! O post Voyager 1 atinge distância recorde da Terra – e mais destaques da semana apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "astrofisica",
+        "quantica"
+      ],
+      "publicado": "2026-11-21T12:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.091823+00:00",
+      "imagem_feed": null,
+      "score": 3.966,
+      "cobertura": []
+    },
+    {
+      "id": "27d8a5d56f18",
+      "titulo": "Quantum software matches classical benchmark for a molecular interaction",
+      "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
+      "resumo": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these interactions can reduce the need for lengthy and expensive lab work, but some interactions still remain beyond the reach of classical computers.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-21T03:00:01+00:00",
+      "coletado_em": "2026-11-21T16:48:05.080652+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/section-of-a-dna-stran.jpg",
+      "score": 3.951,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "13d943843be9",
+      "titulo": "Modder cools gaming laptop with a bounce house blower for a 35-degree drop",
+      "url": "https://www.tomshardware.com/pc-components/air-cooling/laptop-cooled-by-bounce-house-blower-gets-35-degree-drop-in-temperatures-modder-compares-laptop-cooler-with-increasingly-powerful-fan-setups",
+      "resumo": "A PC cooling enthusiast attached a bounce house blower to the bottom of his laptop, bringing temperatures below 50 degrees Celsius.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-21T15:31:48+00:00",
+      "coletado_em": "2026-11-21T16:48:05.078587+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/RcuuBM84d3nzg32ZXZQS3M-1920-80.jpg",
+      "score": 5.558,
+      "cobertura": []
+    },
+    {
+      "id": "3e90a07a5ab3",
+      "titulo": "A new Windows zero-day reportedly gets past BitLocker using only the screen reader and a USB stick",
+      "url": "https://www.techspot.com/news/114655-new-windows-zero-day-reportedly-gets-past-bitlocker.html",
+      "resumo": "The exploit, dubbed FastUnlock, lives entirely inside software that ships with Windows. It requires no malware download, no credential theft and no memory corruption bug. It is a logic flaw, and according to former Microsoft researcher Abdelhamid Naceri it worked on every machine he tried. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-21T15:23:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.087604+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-21-ts3_thumbs-ceb.jpg",
+      "score": 4.743,
+      "cobertura": []
+    },
+    {
+      "id": "fb1cb948fc8f",
+      "titulo": "Best Black Friday gaming chair deals 2026",
+      "url": "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-secretlab-razer-and-more",
+      "resumo": "The best Black Friday deals on gaming chairs for every budget, style, and comfort level. Upgrade your gaming chair with something high-quality.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-21T16:38:40+00:00",
+      "coletado_em": "2026-11-21T16:48:05.078587+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/sRFGL8XtiMGf2KpND49w55-1920-80.jpg",
+      "score": 4.682,
+      "cobertura": [
+        "https://www.pcworld.com/article/1382155/best-early-black-friday-laptop-deals-2026.html",
+        "https://www.pcworld.com/article/1383757/best-black-friday-monitor-deals-2026.html",
+        "https://www.pcworld.com/article/1377179/best-early-black-friday-chromebook-deals-2026.html",
+        "https://www.pcworld.com/article/2133475/best-early-black-friday-thunderbolt-dock-deals-2026.html",
+        "https://www.pcworld.com/article/1384292/best-black-friday-amazon-tech-deals.html",
+        "https://canaltech.com.br/tablet/tab-s10-lite-ou-s10-fe-qual-comprar-na-black-friday-2026/"
+      ]
+    },
+    {
+      "id": "95067d171bc4",
+      "titulo": "Trump wants to ban US companies from building overseas data centers as bans slow development",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
+      "resumo": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-21T16:29:39+00:00",
+      "coletado_em": "2026-11-21T16:48:05.078587+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/RFvVuwiNda6baSCvcjjFgE-1920-80.png",
+      "score": 4.665,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "79aea5974793",
+      "titulo": "Governança de IA: 5 que falhas podem comprometer adoção da tecnologia em empresas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
+      "resumo": "A inteligência artificial já faz parte da rotina de muitas empresas, mas incorporar a tecnologia às operações é apenas uma etapa do processo. À medida que novas ferramentas e agentes passam a executar atividades, acessar informações e apoiar decisões, cresce também a necessidade de estabelecer critérios para orientar e controlar seu uso. Nesse cenário, a governança de IA deixa de ser uma preocupação restrita à área de tecnologia e passa a ser um elemento fundamental para garantir que a adoção aconteça de forma segura, coordenada e alinhada aos objetivos do negócio. Quando diferentes departamentos adotam soluções de IA sem critérios compartilhados, o que deveria representar um ganho de produtividade pode gerar problemas operacionais, riscos de segurança e custos difíceis de administrar. O desafio não está apenas em incorporar novas ferramentas, mas em entender como elas serão utilizadas, por quem e com qual finalidade. Um levantamento do Capgemini Research Institute , publicado em 2025 e realizado com 1.100 executivos de grandes empresas de 15 países, ajuda a dimensionar essa questão. Embora 93% das organizações pesquisadas já explorassem, testassem ou implementassem recursos de int",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-21T13:30:03+00:00",
+      "coletado_em": "2026-11-21T16:48:05.094999+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Pdk5AoUglhAGWGhFQ1ykK2m1iw0=/0x0/filters:format(webp):quality(85)/cd82fcd4-c5f4-42e9-b4b6-47d3f9d212aa.png",
+      "score": 5.753,
+      "cobertura": []
+    },
+    {
+      "id": "d4ba65c12736",
+      "titulo": "What is the Riemann hypothesis and why is its solution so monumental?",
+      "url": "https://www.newscientist.com/article/2600226-what-is-the-riemann-hypothesis-and-why-is-its-solution-so-monumental/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "It has been called the hardest problem in mathematics, and now through a combination of human ingenuity and relentlessness, and the computational power of AI, the Riemann hypothesis may have finally been solved",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-20T21:24:57+00:00",
+      "coletado_em": "2026-11-21T16:48:05.117408+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321431557.jpg",
+      "score": 5.003,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+      ]
+    },
+    {
+      "id": "480a8b723958",
+      "titulo": "New approach enables physically consistent AI models of chaotic systems",
+      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "resumo": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-20T20:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.089598+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/mit-lids-stable_chaos.jpg?itok=yDuaaSB5",
+      "score": 4.901,
+      "cobertura": []
+    },
+    {
+      "id": "89298d3b7fb0",
+      "titulo": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "resumo": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-21T16:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.090238+00:00",
+      "imagem_feed": null,
+      "score": 4.66,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "3d02766e0556",
+      "titulo": "The BepiColombo spacecraft is finally entering orbit around Mercury",
+      "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "After an eight-year voyage towards the sun, the BepiColombo spacecraft can finally begin its mission to unpick the many mysteries of our solar system's smallest planet",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-20T08:00:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.117408+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321265627.jpg",
+      "score": 5.151,
+      "cobertura": [
+        "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival"
+      ]
+    },
+    {
+      "id": "0fb8ef6f07d7",
+      "titulo": "Where do ions go? Hidden differences inside next-generation battery materials",
+      "url": "https://techxplore.com/news/2026-11-ions-hidden-differences-generation-battery.html",
+      "resumo": "When a rechargeable battery operates, ions move into and out of its electrode materials. But where exactly do these ions settle inside the crystal structure? And does their location affect how well a battery performs? These questions are particularly important for next-generation batteries that use abundant elements such as sodium, magnesium and calcium instead of lithium.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-20T17:20:08+00:00",
+      "coletado_em": "2026-11-21T16:48:05.090839+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-do-ions-go-revea.jpg",
+      "score": 4.066,
+      "cobertura": []
+    },
+    {
+      "id": "ef4eeb9c8618",
+      "titulo": "A decades-old mystery about light could hold the key to faster internet",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+      "resumo": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it. Researchers at KAIST and Caltech have precisely measured how barium titanate controls and absorbs light, resolving longstanding uncertainties that have slowed its development. Their findings could make it easier to build optical devices that transmit information faster while wasting less light.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-21T00:02:01+00:00",
+      "coletado_em": "2026-11-21T16:48:05.090609+00:00",
+      "imagem_feed": null,
+      "score": 3.659,
+      "cobertura": []
+    },
+    {
+      "id": "ac58731c8e07",
+      "titulo": "Acabou a “farra”? Híbridos têm data para voltar a pagar IPVA em São Paulo",
+      "url": "https://canaltech.com.br/carros/acabou-a-farra-hibridos-tem-data-para-voltar-a-pagar-ipva-em-sao-paulo/",
+      "resumo": "Quem comprou um carro híbrido contando com a isenção permanente do IPVA em São Paulo precisa começar a se preparar para uma mudança no orçamento que vai acontecer em um futuro próximo. O benefício concedido pelo governo estadual tem data para terminar: 31 de dezembro de 2026 . A partir de janeiro de 2027, os proprietários dos modelos contemplados voltarão a recolher o imposto . A boa notícia é que a cobrança não será integral logo no primeiro ano, já que a legislação estabeleceu uma retomada escalonada , com aumento progressivo da alíquota. A regra foi criada pela Lei Estadual 18.065/2024 e vale para uma categoria específica de híbridos e carros movidos a hidrogênio. Portanto, não significa que todos os eletrificados que circulam pelo estado tenham recebido ou receberão o mesmo tratamento tributário. Veja quais híbridos perdem a isenção e quanto vão pagar O benefício contempla híbridos com motor a combustão flex ou abastecido exclusivamente com etanol, desde que também atendam às exigências técnicas do sistema elétrico. Entre elas estão potência mínima de 40 kW (cerca de 54 cv) para o motor elétrico e bateria com tensão mínima de 150 volts . O valor venal do automóvel também precis",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-20T17:02:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.094999+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/dHj4B0NLFIJndcUtPuWnck1lpls=/0x0/filters:format(webp):quality(85)/4db67ff2-2a23-4b97-b691-20ba6920e447.jpeg",
+      "score": 3.607,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "93138fbb4db2",
+      "titulo": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "resumo": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.",
+      "fonte": "Krebs on Security",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-21T00:36:39+00:00",
+      "coletado_em": "2026-11-21T16:48:05.091067+00:00",
+      "imagem_feed": null,
+      "score": 3.835,
+      "cobertura": []
+    },
+    {
+      "id": "3dc4f51cffdb",
+      "titulo": "GTA 6 pirata para Xbox sai em poucos dias, diz Cyberleek",
+      "url": "https://canaltech.com.br/games/gta-6-pirata-para-xbox-sai-em-poucos-dias-diz-cyberleek/",
+      "resumo": "O grupo Cyberleek, conhecido por supostos vazamentos de GTA 6, prometeu liberar uma versão pirata do jogo para Xbox no dia 23 de novembro. Os responsáveis afirmam ter acesso a uma versão praticamente completa do game, mas ainda não há confirmação sobre a autenticidade dos arquivos. Na quinta-feira (19), data de lançamento oficial de GTA 6, o grupo disponibilizou um pacote que supostamente contém mais de 200 GB de arquivos do jogo. No entanto, o material não inclui o executável, necessário para iniciar o game. Segundo o Cyberleek, o arquivo restante será liberado na próxima segunda-feira (23), independentemente de outras condições. O grupo também afirma que a versão poderá ser utilizada para emular GTA 6 no PC, com desempenho superior a 30 fps. Vazamento de GTA 6 envolve criptomoeda A promessa faz parte de uma campanha do Cyberleek para valorizar sua própria criptomoeda. Inicialmente, o grupo condicionou a liberação do executável a um valor de mercado de US$ 15 milhões, mas depois afirmou que disponibilizaria o arquivo mesmo sem atingir a meta. Essa não é a primeira tentativa do grupo de lucrar com supostos vazamentos. Em agosto, uma análise de transações apontou que os responsáveis",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "computadores_pessoais",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-20T17:54:00+00:00",
+      "coletado_em": "2026-11-21T16:48:05.094999+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/EvNlspKTmXUGuQlWnXg6cVKTCtU=/0x0/filters:format(webp):quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg",
+      "score": 3.133,
+      "cobertura": []
+    },
+    {
+      "id": "342c12bae181",
+      "titulo": "Grupo assume vazamento de dados de clientes da Visa, Mastercard e JPMorgan",
+      "url": "https://tecnoblog.net/noticias/grupo-assume-vazamento-de-dados-de-clientes-da-visa-mastercard-e-jpmorgan/",
+      "resumo": "Empresas confirmaram incidentes envolvendo fornecedores terceirizados, mas afirmam que suas redes e operações de pagamento não foram afetadas. Grupo assume vazamento de dados de clientes da Visa, Mastercard e JPMorgan",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-20T07:08:23+00:00",
+      "coletado_em": "2026-11-21T16:48:05.093334+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2018/11/cartao-credito-dinheiro.jpg",
+      "score": 3.036,
+      "cobertura": []
+    },
+    {
+      "id": "23d6f0ab28f2",
+      "titulo": "iPhone 20 pode parecer uma \"barra de vidro\" quase sem bordas; veja imagens",
+      "url": "https://canaltech.com.br/smartphone/iphone-20-pode-parecer-uma-barra-de-vidro-quase-sem-bordas-veja-imagens/",
+      "resumo": "O iPhone 20 pode chegar com um visual completamente diferente dos celulares atuais da Apple , com uma construção quase toda em vidro e uma tela curva com bordas praticamente invisíveis. Novas imagens conceituais, baseadas em rumores e vazamentos, antecipam como pode ser o smartphone comemorativo dos 20 anos do iPhone. A proposta é transformar o aparelho em uma espécie de \"barra de vidro\", com uma aparência mais uniforme entre a tela, as laterais e a traseira. Apesar das mudanças, o conjunto de câmeras pode manter o chamado camera plateau , módulo elevado que abriga as lentes dos modelos Pro. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Além do design, os rumores apontam para botões com resposta tátil, um sensor fotográfico desenvolvido pela própria Apple e novas tecnologias de bateria. O que esperar do visual do iPhone 20? A principal mudança pode estar na construção do aparelho. Em vez das laterais retas e das divisões mais evidentes entre os materiais, o iPhone 20 pode apostar em superfícies curvas e uma estrutura com aparência contínua. A tela também deve receber atenção especial. Os rumores sugerem bordas extremamente finas e um painel que acompanha a cur",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-20T17:10:27+00:00",
+      "coletado_em": "2026-11-21T16:48:05.094999+00:00",
+      "imagem_feed": null,
+      "score": -0.189,
+      "cobertura": []
+    }
+  ]
+}
