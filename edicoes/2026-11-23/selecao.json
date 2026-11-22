@@ -1,0 +1,549 @@
+{
+  "medicina": [
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-22T17:10:21.907915+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "620a21301f08",
+      "titulo": "Integrated health service delivery through medical mobile units helped to reduce deaths among individuals at risk for HIV who also inject drugs",
+      "url": "https://www.nih.gov/news-events/news-releases/integrated-health-service-delivery-through-medical-mobile-units-helped-reduce-deaths-among-individuals-risk-hiv-who-also-inject-drugs",
+      "resumo": "NIH-funded clinical trial shows mobile units may help overcome significant barriers to accessing HIV and addiction treatment, but replication is needed.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-22T17:10:21.907915+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "304ee6857028",
+      "titulo": "New imaging technology reveals previously unseen immune cell patterns in tissue",
+      "url": "https://medicalxpress.com/news/2026-11-imaging-technology-reveals-previously-unseen.html",
+      "resumo": "Scientists can now see a previously hidden dimension of the immune system thanks to BCR-MERFISH, a new imaging technology developed by researchers at Boston Children's Hospital. By mapping where different groups of antibody-producing cells are located in tissue, the technology could help researchers better understand how immune responses contribute to disease and eventually inform new approaches to diagnosis and treatment. The breakthrough, published in Nature Methods, opens new possibilities for investigating inflammatory bowel disease, autoimmune disorders, infections and cancer.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-22T14:00:04+00:00",
+      "coletado_em": "2026-11-22T17:10:21.909116+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-imaging-technology-3.jpg",
+      "score": 5.215,
+      "cobertura": []
+    },
+    {
+      "id": "9e686c543495",
+      "titulo": "A blood-pressure drug may activate health-promoting brown fat",
+      "url": "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+      "resumo": "Large retrospective study suggests the tissue deters more than cardiovascular disease.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-22T17:10:21.907915+00:00",
+      "imagem_feed": null,
+      "score": 5.0,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "0de54afb8116",
+      "titulo": "SUV grande da Jeep fica \"no precinho\" e sai mais barato que T-Cross",
+      "url": "https://canaltech.com.br/carros/suv-grande-da-jeep-fica-no-precinho-e-sai-mais-barato-que-t-cross/",
+      "resumo": "Quem procura um SUV familiar no mercado de usados pode encontrar opções de categorias superiores por v alores próximos aos cobrados por modelos compactos novos. É o caso do Jeep Commander Limited T270 2022 , que reúne espaço para sete ocupantes, motor turbo flex e uma lista generosa de equipamentos. De acordo com a Tabela Fipe de novembro de 2026 , o modelo tem preço médio de R$ 136.481 . O valor fica abaixo dos R$ 171.990 cobrados pelo Volkswagen T-Cross Comfortline zero km , versão intermediária da linha, uma diferença de mais de R$ 35 mil. Além da economia na compra, o Commander oferece dimensões generosas e uma configuração que pode atender famílias que precisam transportar mais passageiros. Mas o que esse SUV da Jeep entrega pelo preço de um usado? SUV grande é perfeito para famílias Lançado no Brasil em 2021, o Commander ocupa uma posição acima do Compass na linha da Jeep. A proposta é oferecer mais espaço e versatilidade, com uma carroceria de 4,76 metros de comprimento e 2,79 m de entre-eixos , além da terceira fileira de assentos. O modelo também tem 1,86 m de largura e 1,68 m de altura. Com a terceira fileira rebatida, o porta-malas comporta 661 litros de bagagem . Quando",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-22T16:01:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.923669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/MIIqkdDJZPZnJEJA_ofIQpYVfzY=/0x0/filters:format(webp):quality(85)/91570077-6ea9-4188-be43-24114e2f2158.jpeg",
+      "score": 4.471,
+      "cobertura": []
+    },
+    {
+      "id": "de05828c7469",
+      "titulo": "How do tumors talk to nerves? This scientist is finding out",
+      "url": "https://www.sciencenews.org/article/tumors-talk-nerve-sn-10-sebnem-ece-eksi",
+      "resumo": "After finding proteins linked to memory in prostate cancer cells, Sebnem Ece Eksi hopes to map nerve fibers in tumors.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina",
+        "biologia",
+        "hardware"
+      ],
+      "publicado": "2026-11-21T12:00:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.952674+00:00",
+      "imagem_feed": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_sn10-Ece-Eksi_main.jpg?w=800",
+      "score": 4.371,
+      "cobertura": []
+    },
+    {
+      "id": "180a91a94589",
+      "titulo": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
+      "url": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
+      "resumo": "Some parasites, such as Trypanosoma rangeli and Trypanosoma cruzi, can be passed between mammals and blood-feeding insects called triatomine bugs. Bugs can acquire these parasites when feeding on infected mammals, while mammals can also become infected through encounters with infected bugs.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-22T13:00:02+00:00",
+      "coletado_em": "2026-11-22T17:10:21.909783+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-parasite-makes-mice-1.jpg",
+      "score": 4.122,
+      "cobertura": []
+    },
+    {
+      "id": "42f91793f3ba",
+      "titulo": "Scientists say the human family tree may need a radical rewrite",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+      "resumo": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo. As scientists uncover more fossils and analyze evolutionary relationships, the boundaries that once separated these ancient relatives are becoming increasingly difficult to defend.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-21T13:44:55+00:00",
+      "coletado_em": "2026-11-22T17:10:21.910062+00:00",
+      "imagem_feed": null,
+      "score": 3.81,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "3640b1da9f52",
+      "titulo": "The manufacturing data gap holding back physical AI",
+      "url": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
+      "resumo": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency. The post The manufacturing data gap holding back physical AI appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-21T22:25:35+00:00",
+      "coletado_em": "2026-11-22T17:10:21.911137+00:00",
+      "imagem_feed": null,
+      "score": 4.077,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "69a51794a195",
+      "titulo": "Claude Code Has Been Leaking Secrets Through Its \"Don't Ask Again\" Feature",
+      "url": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Agentic security firm Apiiro found that Claude Code has been exposing secrets in public repositories due to how it stores them in local file on developers' machines to implement \"Don't Ask Again\". The company identified 1,122 secrets in claude/settings.local.json files and another 1,160 in git history, in the shared settings.json, and in agent chat transcripts stored in repos. By Sergio De Simone",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-22T11:00:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.911565+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/claude-code-leaking-secrets/en/headerimage/linux-6-12-real-time-1795344939763.jpeg",
+      "score": 5.1,
+      "cobertura": []
+    },
+    {
+      "id": "f89fb72e4838",
+      "titulo": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
+      "url": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "The PostgreSQL Global Development Group released PostgreSQL 19, introducing changes to database maintenance, query planning, replication, and application development. The release focuses on reducing administrative overhead and improving performance, with new tools for reorganizing tables without downtime and controlling query plans. By Robert Krzaczyński",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-22T12:54:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.911565+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/postgresql-19-released/en/headerimage/generatedHeaderImage-1795349035334.jpg",
+      "score": 4.763,
+      "cobertura": []
+    },
+    {
+      "id": "92ec79f956ed",
+      "titulo": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
+      "url": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Google recently detailed how three interacting bugs across Google Kubernetes Engine (GKE), Private Service Connect, and the Linux kernel caused intermittent Kubernetes API connectivity failures, blocking around 800 developers from deploying to production. By Renato Losio",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-21T09:44:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.911565+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/gke-kernel-network-bug/en/headerimage/generatedHeaderImage-1794082671635.jpg",
+      "score": 4.025,
+      "cobertura": []
+    },
+    {
+      "id": "ffc0260ab40a",
+      "titulo": "SportyNet passa a integrar a programação gratuita do Samsung TV Plus",
+      "url": "https://canaltech.com.br/entretenimento/sportynet-passa-a-integrar-a-programacao-gratuita-do-samsung-tv-plus/",
+      "resumo": "A SportyNet passou a integrar o catálogo do Samsung TV Plus, serviço de streaming gratuito disponível nas Smart TVs da Samsung. A parceria permite que a emissora distribua sua programação esportiva por meio de um canal FAST, com transmissões de partidas ao vivo, programas de análise e conteúdos produzidos pela própria empresa. O canal terá uma grade linear dedicada ao futebol, com jogos de competições como LALIGA, Serie A Italiana, Bundesliga e as Séries B e C do Campeonato Brasileiro. A programação também incluirá debates e atrações sobre o cenário nacional e internacional da modalidade. A entrada no Samsung TV Plus amplia os canais de distribuição da SportyNet, que já mantém presença no YouTube e na televisão por assinatura. O acesso à nova programação será gratuito, sem necessidade de contratar um pacote de assinatura. De acordo com dados da Samsung Ads, o Samsung TV Plus está disponível em aproximadamente 26,4 milhões de Smart TVs no Brasil. A plataforma reúne cerca de 160 canais de diferentes categorias e conteúdos sob demanda. O alcance potencial informado pela empresa é de 84 milhões de pessoas em televisores conectados. Para Julia Rossi, diretora de Estratégia e Novos Negóc",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-22T12:54:52+00:00",
+      "coletado_em": "2026-11-22T17:10:21.923669+00:00",
+      "imagem_feed": null,
+      "score": 3.864,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "e6d9e9e8a3eb",
+      "titulo": "TGP em notebooks gamer: por que duas RTX iguais podem ter desempenhos opostos?",
+      "url": "https://canaltech.com.br/notebook/tgp-em-notebooks-gamer-diferencas-em-placas-de-video/",
+      "resumo": "Comprar um notebook gamer exige uma pesquisa minuciosa que vai muito além de ler o adesivo ao lado do teclado (principalmente porque ele geralmente não fala muita coisa). Um cenário comum no mercado é a frustração de investir pesado em uma máquina com GPU de última geração, apenas para descobrir que ela entrega dezenas de quadros por segundo a menos que o notebook de um amigo equipado com a mesmíssima GPU . Estamos falando do TGP, ou Total Graphics Power. Como os notebooks possuem restrições de espaço físico e refrigeração em comparação aos desktops, marcas como AMD e NVIDIA permitem que as parceiras configurem quanta energia a placa de vídeo pode puxar da tomada . O que é o TGP e como ele funciona O Total Graphics Power representa a q uantidade máxima de energia, em Watts, que o chip gráfico tem permissão para consumir . Na prática, a energia consumida por um chip é diretamente proporcional às frequências de operação que ele consegue atingir e, consequentemente, ao calor dissipado dentro da carcaça do notebook. Quando a fabricante projeta um chip gráfico mobile, ela não crava um consumo único obrigatório, mas fornece uma janela operacional. Um mesmo chip moderno pode operar consum",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-22T14:30:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.923669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/j6tLQy4ALJ4OMXY7ESZdcvH4ceQ=/0x0/filters:format(webp):quality(85)/64258602-0d5d-4239-b7e3-2c4b7f722f88.jpg",
+      "score": 5.814,
+      "cobertura": []
+    },
+    {
+      "id": "f3ac3528008b",
+      "titulo": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+      "url": "https://spectrum.ieee.org/sram-memory-z2ram",
+      "resumo": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Intel’s failed attempt to create “universal memory.” But Gelsinger, who is now a general partner at venture capital firm Playground , believes that AI is forcing a rethink of the entire computing stack—and that memory is a key part of that shift. Playground has backed Nagare Labs , a company spun out of Georgia Tech working on a prototype memory technology called Z2RAM. Instead of replacing existing memory, Z2RAM will attempt to offer a new layer in the existing memory stack that could prove useful for AI workloads and for other tasks that benefit from low latencies. “This is an SRAM addition, rather than a DRAM replacement,” says Suman Datta , a Georgia Tech professor and former Intel transistor researcher. Datta cofounded Nagare Labs with colleague Shimeng Yu . The company emerged from stealth on 26 October with US $5 million in funding led by Playground . Z2RAM for Faster Memory Datta say",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-21T14:00:02+00:00",
+      "coletado_em": "2026-11-22T17:10:21.912353+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/two-men-smiling-together-as-they-operate-an-advanced-wafer-probe-station.jpg?id=68654814&width=980",
+      "score": 5.566,
+      "cobertura": []
+    },
+    {
+      "id": "c59e02b050cb",
+      "titulo": "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes",
+      "url": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips",
+      "resumo": "The BIS's IFR says that chip fabs can no longer assume a design's performance based on the specifications provided by their customer.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-22T13:30:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.912936+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY-1920-80.jpg",
+      "score": 5.318,
+      "cobertura": []
+    },
+    {
+      "id": "e8a695c7a861",
+      "titulo": "AI agents design an entirely new CPU architecture from scratch, startup claims",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+      "resumo": "Architect Labs says its AI agents designed Frostbite, an interaction-net CPU with 4.59x the performance per watt of an in-order core.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-22T13:00:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.912936+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/E6ZGdHQ5GTZE5a3yPzPScR-1920-80.jpg",
+      "score": 4.772,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "7af22af94225",
+      "titulo": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
+      "url": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html",
+      "resumo": "How the first massive black holes formed in the universe remains an open question in astronomy. Black holes weighing about a billion solar masses within the first billion years of the universe require extraordinary origin stories.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-22T16:40:01+00:00",
+      "coletado_em": "2026-11-22T17:10:21.914059+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-finds-a-possible.jpg",
+      "score": 5.992,
+      "cobertura": []
+    },
+    {
+      "id": "e3f1710712ab",
+      "titulo": "Milky Way simulation reaches record resolution with the help of three supercomputers",
+      "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
+      "resumo": "A team of researchers, including those from the University of Tokyo, have developed a new way to model the Milky Way at a level of detail never achieved before. They simulated the entire galaxy down to the level of individual stars by combining the power of some of the world's most powerful supercomputers using an AI-accelerated model that works on a variety of hardware platforms. Their methods can improve our understanding of galactic evolution.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-22T14:00:01+00:00",
+      "coletado_em": "2026-11-22T17:10:21.914059+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-supercomputers-c.jpg",
+      "score": 5.215,
+      "cobertura": []
+    },
+    {
+      "id": "a4de171f1628",
+      "titulo": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+      "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
+      "resumo": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
+      "fonte": "Space.com",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-22T15:00:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.914710+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/2VZB5hMXtFVHiNULWtqb4b-1920-80.jpg",
+      "score": 5.164,
+      "cobertura": []
+    },
+    {
+      "id": "88875db0d172",
+      "titulo": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "resumo": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-21T14:53:40+00:00",
+      "coletado_em": "2026-11-22T17:10:21.914344+00:00",
+      "imagem_feed": null,
+      "score": 4.838,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "a4dfa6ab4b4b",
+      "titulo": "TQI linking test v15 (delete me)",
+      "url": "https://thequantuminsider.com/2026/11/21/__trashed-5/",
+      "resumo": "IonQ announced a deal with Mastercard today. Analysts said IonQ’s roadmap is ambitious. Mastercard also commented. D-Wave Quantum and D-Wave were mentioned. The city of Chattanooga hosted it. Over a long time horizon, Horizon Europe funds research. Horizon Quantum Computing is different from Horizon raising money. IBM , Harvard , HSBC",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-21T21:45:27+00:00",
+      "coletado_em": "2026-11-22T17:10:21.915160+00:00",
+      "imagem_feed": null,
+      "score": 0.552,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "fa475de37ad5",
+      "titulo": "Polymega's $229 USB drive lets a Windows PC play PlayStation and Saturn discs",
+      "url": "https://www.techspot.com/news/114654-polymega-229-usb-drive-windows-pc-play-playstation.html",
+      "resumo": "The Remix first went up for pre-order in April for $199. Playmaji raised the price to $229 in October – saying costs for nearly everything kept climbing – and reopened orders with holiday shipping at the same time. Its product page now promises orders will ship by the end of the year. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-22T15:32:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.917519+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-21-ts3_thumbs-8a9.jpg",
+      "score": 5.219,
+      "cobertura": []
+    },
+    {
+      "id": "6b454b180fc0",
+      "titulo": "Maker builds Mad Max-inspired wall of 100 Noctua PC fans",
+      "url": "https://www.tomshardware.com/pc-components/case-fans/maker-builds-mad-max-inspired-wall-of-100-noctua-pc-fans-stress-tests-usd2-355-open-source-openfan-xl-controller",
+      "resumo": "A wall of 100 Noctua PC fans was built by maker Sasa Karanovic because \"why not\" and to demo his new OpenFAN XL fan controller.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-22T16:00:46+00:00",
+      "coletado_em": "2026-11-22T17:10:21.912936+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Y3DebBKkA5ePUXBxKFiiX3-1920-80.jpg",
+      "score": 5.07,
+      "cobertura": []
+    },
+    {
+      "id": "0a0363c3cd97",
+      "titulo": "Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis",
+      "url": "https://www.tomshardware.com/laptops/lenovo-pro-9n-review",
+      "resumo": "The Lenovo Pro 9n is a lighter alternative to the Surface Laptop Ultra, offering a vivid OLED panel and lots of ports, though it shares similar weaknesses, like battery life.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-22T16:00:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.912936+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/ZXSfLv5CgGWf6ginq5ZsFA-1920-80.jpg",
+      "score": 5.069,
+      "cobertura": []
+    },
+    {
+      "id": "e875541c9fda",
+      "titulo": "Dev squeezes an AI language model onto a floppy for 486DX and Pentium PC stalwarts",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-squeezes-an-ai-language-model-onto-a-floppy-for-486dx-and-pentium-pc-stalwarts-tiny-2-1-needs-540kb-of-memory-and-speaks-via-pc-speaker-is-a-question-answering-transformer-with-367k-parameters",
+      "resumo": "An inspired developer has shoehorned a language model onto a floppy disk created especially for 486DX and Pentium PC users running DOS.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-22T11:00:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.912936+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/wqXY5fMoARr5jLvxdawrNS-1920-80.jpg",
+      "score": 4.6,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "7961820b288e",
+      "titulo": "Surge um novo canal comercial, operado de ponta a ponta por IA",
+      "url": "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/",
+      "resumo": "A inteligência artificial já ocupa espaço nas agendas de investimento das empresas, mas transformar esse movimento em resultados concretos continua sendo um desafio. Uma pesquisa do IBM Institute for Business Value, realizada em parceria com a Oxford Economics, mostrou que apenas 37% das iniciativas de IA entregaram o valor de negócio esperado pela alta liderança até o fim de 2025. Parte dessa dificuldade está na forma como a tecnologia é incorporada às operações. Em análise publicada este ano, a Bain & Company chama atenção para os ganhos pontuais de produtividade, como relatórios preparados mais rapidamente ou tarefas executadas com menos esforço, que não alteram de maneira significativa a capacidade de entrega das organizações. Capturar valor em escala exige repensar fluxos de trabalho, responsabilidades e modelos operacionais. No setor comercial, esse desafio é especialmente visível. A Gartner projeta que, até 2028, os agentes de IA serão dez vezes mais numerosos que os vendedores, mas menos de 40% dos profissionais de vendas dirão que eles melhoraram sua produtividade. O dado reforça que ampliar o uso de ferramentas não garante melhores resultados. Enquanto isso, oportunidades",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-22T13:30:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.923669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "score": 5.718,
+      "cobertura": []
+    },
+    {
+      "id": "ce2a4b3bc5dc",
+      "titulo": "10 recursos do Gemini Intelligence para celulares Android",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-intelligence-recursos-para-celulares-android/",
+      "resumo": "O Gemini Intelligence é uma plataforma de inteligência artificial do Google integrada aos dispositivos Android, que transforma o smartphone em um assistente agêntico que consegue entender o contexto das suas atividades, interpretar o que você vê e fala e executar tarefas com várias etapas. A ideia é deixar o Android mais inteligente e proativo , com recursos que identificam informações importantes e ajudam a resolver tarefas na hora certa. Com isso, o celular pode realizar ações automaticamente, organizar informações de diferentes aplicativos e ajudar em atividades do dia a dia a partir de comandos simples, sem que você precise fazer tudo manualmente. A plataforma conta com várias funções , desde a automação de tarefas em aplicativos até a criação de widgets personalizados, a revisão de textos e o preenchimento de formulários. 10 ferramentas do Gemini Intelligence para o Android Conheça dez recursos do Gemini Intelligence para celulares Android: Automação de tarefas em aplicativos Sugestões proativas Rambler no Gboard Create My Widget Device Assistance Ferramentas de escrita Tradução de língua de sinais para texto Navegação automática no Chrome Preenchimento automático inteligente ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-22T12:30:03+00:00",
+      "coletado_em": "2026-11-22T17:10:21.923669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/v_YmqAw8yrD3Xd8-vqXqHqWbDZQ=/0x0/filters:format(webp):quality(85)/db795608-5ac1-423e-8224-19559cb11ed2.jpg",
+      "score": 4.627,
+      "cobertura": []
+    },
+    {
+      "id": "79aea5974793",
+      "titulo": "Governança de IA: 5 que falhas podem comprometer adoção da tecnologia em empresas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
+      "resumo": "A inteligência artificial já faz parte da rotina de muitas empresas, mas incorporar a tecnologia às operações é apenas uma etapa do processo. À medida que novas ferramentas e agentes passam a executar atividades, acessar informações e apoiar decisões, cresce também a necessidade de estabelecer critérios para orientar e controlar seu uso. Nesse cenário, a governança de IA deixa de ser uma preocupação restrita à área de tecnologia e passa a ser um elemento fundamental para garantir que a adoção aconteça de forma segura, coordenada e alinhada aos objetivos do negócio. Quando diferentes departamentos adotam soluções de IA sem critérios compartilhados, o que deveria representar um ganho de produtividade pode gerar problemas operacionais, riscos de segurança e custos difíceis de administrar. O desafio não está apenas em incorporar novas ferramentas, mas em entender como elas serão utilizadas, por quem e com qual finalidade. Um levantamento do Capgemini Research Institute , publicado em 2025 e realizado com 1.100 executivos de grandes empresas de 15 países, ajuda a dimensionar essa questão. Embora 93% das organizações pesquisadas já explorassem, testassem ou implementassem recursos de int",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-21T13:30:03+00:00",
+      "coletado_em": "2026-11-22T17:10:21.923669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Pdk5AoUglhAGWGhFQ1ykK2m1iw0=/0x0/filters:format(webp):quality(85)/cd82fcd4-c5f4-42e9-b4b6-47d3f9d212aa.png",
+      "score": 4.504,
+      "cobertura": []
+    },
+    {
+      "id": "4c76cacd2298",
+      "titulo": "CESAR School detalha os passos para integrar IA em todos os processos de ensino",
+      "url": "https://canaltech.com.br/inteligencia-artificial/cesar-school-detalha-os-passos-para-integrar-ia-em-todos-os-processos-de-ensino/",
+      "resumo": "A escola de inovação CESAR School, no Recife (PE), tem um projeto em andamento para se tornar uma “universidade nativa de IA”. O planejamento implica em reformular a grade curricular para integrar o uso de inteligência artificial de olho nas mudanças causadas pela tecnologia no mercado de trabalho. A implementação vai além de apenas permitir o uso de uma ferramenta de IA durante os estudos: a escola dividiu o processo em diferentes eixos que passam pelo aprendizado do aluno, desenvolvimento dos docentes e princípios de governança e escalabilidade dos dados. O projeto foi abordado durante o festival Rec’n’Play, realizado na última semana na capital pernambucana. O cofundador do Porto Digital e do Cesar, Silvio Meira, reforçou a necessidade de “preparar pessoas para o futuro” e na necessidade de redesenhar processos educacionais de olho nesse novo propósito de inteligência. Por dentro de uma universidade IA-nativa No meio tecnológico, o termo nativo é usado para identificar um aplicativo ou um recurso específico integrado à base de uma plataforma. A ideia do CESAR é seguir um caminho parecido com a inteligência artificial dentro de todos os processos de uma formação acadêmica. O trab",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-22T11:00:01+00:00",
+      "coletado_em": "2026-11-22T17:10:21.923669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/lwKBm6xpacLmJNm-LQVwxSMFbh8=/0x0/filters:format(webp):quality(85)/bc304b6a-4ece-4110-a140-eb34b9d09c82.png",
+      "score": 4.5,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "55a347a18483",
+      "titulo": "Anode-free sodium batteries last longer thanks to an electrolyte that forms its own shield",
+      "url": "https://techxplore.com/news/2026-11-anode-free-sodium-batteries-longer.html",
+      "resumo": "Sodium batteries, which store and release electrical energy by moving sodium ions between their two electrodes, could be a more affordable alternative to lithium-based batteries. This is because sodium is highly abundant on Earth and can be sourced from widely available raw materials.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-22T16:20:01+00:00",
+      "coletado_em": "2026-11-22T17:10:21.920652+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-electrolyte-prolon.jpg",
+      "score": 4.955,
+      "cobertura": []
+    },
+    {
+      "id": "14bf232c02c6",
+      "titulo": "Bateria do celular caindo do nada? Entenda por que isso acontece e como resolver",
+      "url": "https://canaltech.com.br/apps/bateria-do-celular-caindo-do-nada-entenda-por-que-isso-acontece-e-como-resolver/",
+      "resumo": "A bateria do celular está descarregando muito rápido, mesmo quando o aparelho fica boa parte do dia parado? A queda repentina de carga pode ter diferentes causas , desde falhas em aplicativos até problemas no próprio componente. Em alguns casos, o consumo aumenta após uma atualização do sistema ou quando algum processo continua ativo em segundo plano. Isso não significa necessariamente que a bateria esteja chegando ao fim da vida útil . O software também pode interferir na estimativa de carga e fazer a porcentagem exibida na tela cair de uma vez. Já o envelhecimento natural da bateria e as temperaturas extremas podem comprometer sua capacidade de armazenar energia. Os smartphones também têm recursos para evitar problemas quando a bateria não consegue fornecer energia suficiente . Nos iPhones, por exemplo, a Apple criou um sistema que identifica quando o componente não consegue atender às necessidades do aparelho. Nesses casos, o celular reduz seu desempenho para controlar o consumo de energia. Antes de pensar em trocar de celular, vale investigar o que está causando o problema . Para isso, alguns ajustes nas configurações do Android e do iOS ajudam a identificar aplicativos que con",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-21T18:30:00+00:00",
+      "coletado_em": "2026-11-22T17:10:21.923669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/ie7MtMOwi9kqe5X7iTm1ZPaGqdU=/0x0/filters:format(webp):quality(85)/a4098faa-c170-40c0-bc31-6d62ceb77af6.png",
+      "score": 3.14,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": []
+}
