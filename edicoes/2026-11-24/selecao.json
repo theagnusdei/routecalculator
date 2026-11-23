@@ -1,0 +1,843 @@
+{
+  "medicina": [
+    {
+      "id": "fd273c2b0c0d",
+      "titulo": "Can AI expedite medical imaging? Yes—if we can trust the picture",
+      "url": "https://medicalxpress.com/news/2026-11-ai-medical-imaging-picture.html",
+      "resumo": "When it comes to medical imaging, everyone wants better technology faster—but no one wants to cut corners on health and safety. Enter a new statistical tool that determines whether AI-generated data could accurately stand in for patient data in clinical trials.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-23T20:00:08+00:00",
+      "coletado_em": "2026-11-23T21:26:42.137205+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-ai-expedite-medica.jpg",
+      "score": 6.39,
+      "cobertura": []
+    },
+    {
+      "id": "9d49e3a0971f",
+      "titulo": "STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter",
+      "url": "https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/?utm_campaign=rss",
+      "resumo": "The Danish biotech Genmab in on a roll with cancer drugs, with success in three late-stage clinical trials over the course of a month.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-23T09:30:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.137816+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2026/11/Genmab-Copenhagen-Office-1-Joost-Melis-1024x576.jpg",
+      "score": 5.853,
+      "cobertura": []
+    },
+    {
+      "id": "babb31044ab4",
+      "titulo": "STAT+: Limb girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
+      "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
+      "resumo": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-23T21:23:42+00:00",
+      "coletado_em": "2026-11-23T21:26:42.137816+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2024/05/AdobeStock_417740127_Editorial_Use_Only-1024x576.jpeg",
+      "score": 5.844,
+      "cobertura": []
+    },
+    {
+      "id": "51b8397c3a64",
+      "titulo": "England launches world's largest AI-aided breast cancer screening trial",
+      "url": "https://medicalxpress.com/news/2026-11-england-world-largest-ai-aided.html",
+      "resumo": "England's state-run health service said Monday it has launched the world's largest AI-assisted breast cancer screening trial, which is set to involve nearly 700,000 women over the next three years.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-23T19:10:01+00:00",
+      "coletado_em": "2026-11-23T21:26:42.137205+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2021/breast-cancer-screenin.jpg",
+      "score": 5.803,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "30dbc8896b1d",
+      "titulo": "Proteins with ancient viral roots guard genetic switches left by mobile DNA",
+      "url": "https://phys.org/news/2026-11-proteins-ancient-viral-roots-genetic.html",
+      "resumo": "Much of our genome contains mobile pieces or \"transposable elements\": pieces of DNA that spread and accumulated over millions of years, some originating from ancient viruses. Although many are no longer mobile, their sequences can influence when nearby genes switch on or off.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-23T18:20:31+00:00",
+      "coletado_em": "2026-11-23T21:26:42.138125+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/family-of-proteins-kee.jpg",
+      "score": 6.222,
+      "cobertura": []
+    },
+    {
+      "id": "08c454399f8e",
+      "titulo": "How DNA's surroundings shape gene regulation",
+      "url": "https://phys.org/news/2026-11-dna-gene.html",
+      "resumo": "Turning genes on and off requires transcription factors—proteins that bind specific stretches of DNA and help control gene activity. But DNA is not laid out bare inside the nucleus. It is wrapped around proteins and folded into chromatin, which can make some regions easier to reach than others.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-23T20:20:01+00:00",
+      "coletado_em": "2026-11-23T21:26:42.138125+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-dnas-surroundings.jpg",
+      "score": 5.926,
+      "cobertura": []
+    },
+    {
+      "id": "b80c607cfb59",
+      "titulo": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "resumo": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies. The post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine",
+      "fonte": "Quanta Magazine",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-23T15:27:11+00:00",
+      "coletado_em": "2026-11-23T21:26:42.138783+00:00",
+      "imagem_feed": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Default.webp",
+      "score": 5.915,
+      "cobertura": []
+    },
+    {
+      "id": "133ab8915d8a",
+      "titulo": "Specialized brain cells help wasps recognize other wasp faces",
+      "url": "https://phys.org/news/2026-11-specialized-brain-cells-wasps-wasp.html",
+      "resumo": "Wasps can recognize the faces of their nestmates, much like humans can tell the difference between mom and dad, friend and foe. Now, new research from Wake Forest University shows how the wasp brain makes those distinctions. The finding, said Christopher Jernigan, assistant professor of biology, offers additional perspectives in understanding how animals across species—even humans—process social visual information to distinguish one face from another.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-23T16:00:01+00:00",
+      "coletado_em": "2026-11-23T21:26:42.138125+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/specialized-brain-cell.jpg",
+      "score": 5.51,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "e7d218213534",
+      "titulo": "NVIDIA reinstates Jensen Huang after 11-day absence",
+      "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+      "resumo": "The NVIDIA board reversed its decision following discussions with Huang and senior U.S. government officials, amid growing pressure from the White House, investors and technology executives. The post NVIDIA reinstates Jensen Huang after 11-day absence appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-23T14:20:46+00:00",
+      "coletado_em": "2026-11-23T21:26:42.139438+00:00",
+      "imagem_feed": null,
+      "score": 7.227,
+      "cobertura": [
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://www.tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://canaltech.com.br/mercado/jensen-huang-volta-a-nvidia-apos-escandalo-de-espionagem-chinesa/",
+        "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+        "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+        "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html"
+      ]
+    },
+    {
+      "id": "f806a258d5a6",
+      "titulo": "Submarine finds world’s deepest explosive volcanic activity in Mariana trench",
+      "url": "https://www.newscientist.com/article/2599436-submarine-finds-worlds-deepest-explosive-volcanic-activity-in-mariana-trench/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "A deep-sea robotic submarine has found evidence of explosive volcanic eruptions 6100 metres below sea level, surprising scientists who were only seeking geological samples",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-23T17:00:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.177095+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321796106.jpg",
+      "score": 4.897,
+      "cobertura": []
+    },
+    {
+      "id": "f59e860c1274",
+      "titulo": "Special Report: Engineering Focus on Motion Control",
+      "url": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+      "resumo": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI. The post Special Report: Engineering Focus on Motion Control appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-23T15:16:26+00:00",
+      "coletado_em": "2026-11-23T21:26:42.139438+00:00",
+      "imagem_feed": null,
+      "score": 4.8,
+      "cobertura": []
+    },
+    {
+      "id": "241ae7d73526",
+      "titulo": "A LEASH for AI-controlled robots: New system could reduce harmful actions",
+      "url": "https://techxplore.com/news/2026-11-leash-ai-robots-actions.html",
+      "resumo": "Large language models, the models behind the functioning of ChatGPT, Gemini and similar platforms, are now also used in robotics. These models can help robots to interpret user instructions, plan their actions and respond to changes in their surroundings.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-23T12:40:01+00:00",
+      "coletado_em": "2026-11-23T21:26:42.139554+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-system-could-reduc-2.jpg",
+      "score": 4.755,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "8fe67a31a8e1",
+      "titulo": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j",
+      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-nov16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "This week's Java roundup for November 16th, 2026, features news highlighting: the Java4Shell RCE vulnerability; Oracle CSPUs; Lazy Constants targeted for JDK 28; the November 2026 edition of Azul Payara; point releases of Java Operator SDK, LangChain4j and Micrometer; maintenance releases of Liberica JDK and Helidon; and second release candidates of Hibernate Reactive. By Michael Redlich",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-23T15:30:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.139817+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/java-news-roundup-nov16-2026/en/headerimage/java-news-roundup-image-1795447387323.jpg",
+      "score": 5.119,
+      "cobertura": []
+    },
+    {
+      "id": "3abf1cf87da7",
+      "titulo": "Parque de Ciência e Tecnologia da USP realiza programação gratuita e especial neste sábado, dia 28",
+      "url": "https://jornal.usp.br/cadernodecultura/parque-de-ciencia-e-tecnologia-da-usp-realiza-programacao-gratuita-e-especial-neste-sabado-dia-28/",
+      "resumo": "As atrações “Sábado no Parque” e “Expedição CienTec” convidam o público a participar de atividades que unem ciência e diversão além de propor reflexões sobre as mudanças climáticas",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-23T18:38:32+00:00",
+      "coletado_em": "2026-11-23T21:26:42.152509+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261123_ParqueCienTec-1024x538.png",
+      "score": 5.051,
+      "cobertura": []
+    },
+    {
+      "id": "b5d909eb1e16",
+      "titulo": "CachyOS November 2026 release",
+      "url": "https://lwn.net/Articles/1109269/",
+      "resumo": "CachyOS , a performance-focused distribution based on Arch Linux , has announced its November 2026 release. Notable changes in this release include a new recovery environment (\"cachyos-recovery\") for rolling back broken systems, Easy Anti-Cheat (EAC) v2 support for games that require EAC to run, version 2.0.0 of the CachyOS Package Installer, and more.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-23T14:21:41+00:00",
+      "coletado_em": "2026-11-23T21:26:42.140182+00:00",
+      "imagem_feed": null,
+      "score": 4.878,
+      "cobertura": []
+    },
+    {
+      "id": "48ec26674cf2",
+      "titulo": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1109268/",
+      "resumo": "Security updates have been issued by AlmaLinux (buildah, cifs-utils, cockpit-files, cockpit-machines, container-tools:rhel8, curl, expat, fence-agents, flatpak, fltk, gfs2-utils, gimp:2.8, gnome-remote-desktop, grafana, gstreamer1-plugins-bad-free, java-1.8.0-openjdk, kernel, libgsf, libpcap, librabbitmq, libreoffice, mingw-expat, nginx, nginx:1.24, nginx:1.26, openssh, php8.4, php:7.4, php:8.2, podman, python-oauthlib, qt5-qt3d, rpm, rsync, skopeo, thunderbird, unbound, vim, xdg-desktop-portal, xfsprogs, and xorg-x11-server-Xwayland), Debian (anope, gpgme1.0, kernel, kitty, krb5, libeot, libgd2, linux-6.12, needrestart, network-manager-iodine, postfixadmin, python-django, ruby3.1, ruby3.3, sympa, and webkit2gtk), Fedora (aws, clamav, dash, fontconfig, fzf, mariadb-connector-c, maturin, mingw-expat, mingw-poppler, mingw-SDL2_image, mingw-speex, nginx, nginx-mod-brotli, nginx-mod-fancyindex, nginx-mod-headers-more, nginx-mod-js-challenge, nginx-mod-modsecurity, nginx-mod-naxsi, nginx-mod-vts, python-jiter, python-pydantic-settings, python3.14, python3.16, radsecproxy, ruff, runc, rust-afterburn, rust-astral_async_zip, rust-clearscreen, rust-coreos-installer, rust-coreutils, rust-jit",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-23T14:10:48+00:00",
+      "coletado_em": "2026-11-23T21:26:42.140182+00:00",
+      "imagem_feed": null,
+      "score": 4.865,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "b792d64f327c",
+      "titulo": "Jensen Huang returns to applause from employees at Nvidia HQ",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+      "resumo": "Jensen Huang returned to the office after being reinstated to CEO to cheers, according to videos spread on social media.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-23T21:00:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.140510+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/sDEMAVk3qrauvEM3EtLfHJ-1920-80.jpg",
+      "score": 8.149,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "977785b85055",
+      "titulo": "Jensen Huang volta à NVIDIA após escândalo de espionagem chinesa",
+      "url": "https://canaltech.com.br/mercado/jensen-huang-volta-a-nvidia-apos-escandalo-de-espionagem-chinesa/",
+      "resumo": "A NVIDIA anunciou nesta segunda-feira (23) que Jensen Huang está de volta ao cargo de CEO e presidente da empresa , 11 dias após sua saída em meio a um escândalo envolvendo um suposto caso de espionagem chinesa. A decisão foi aprovada por unanimidade pelo conselho de administração e tem efeito imediato. Segundo comunicado oficial da fabricante de chips, a reintegração aconteceu após uma série de reuniões entre Huang e os integrantes do conselho. A empresa afirmou que ficou satisfeita com a transparência do executivo e sua capacidade de liderança. O conselho também informou que consultou integrantes de alto escalão do governo dos Estados Unidos antes de tomar a decisão. Com base nas informações recebidas, a NVIDIA concluiu que o retorno de Huang não representa um risco à segurança nacional do país. \"Acreditamos que Jensen é a pessoa certa para liderar a NVIDIA e que seu retorno atende aos interesses de nossos acionistas, funcionários, parceiros e clientes\", afirmou Harvey Jones, presidente do conselho. O que muda com a volta de Jensen Huang? Com a decisão, Huang reassume os cargos de presidente, CEO e integrante do conselho de administração. Harvey Jones continuará como presidente d",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-23T14:17:09+00:00",
+      "coletado_em": "2026-11-23T21:26:42.157858+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/qal3GtHlrbZd5PdaYpoNXwUpscU=/0x0/filters:format(webp):quality(85)/be9f29e1-d9bf-489d-90d4-c3d6ea4d1f61.png",
+      "score": 7.423,
+      "cobertura": [
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "b433f3408852",
+      "titulo": "O que a ‘novela’ de Jensen Huang na Nvidia ensina sobre poder em big techs",
+      "url": "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+      "resumo": "Jensen Huang passou 11 dias fora da cadeira de CEO da Nvidia. A empresa anunciou, nesta segunda-feira (23), o retorno do executivo ao comando. Huang havia renunciado em 12 de novembro, após a revelação do seu relacionamento extraconjugal com Alice Huang (apesar do sobrenome, eles não são parentes). Autoridades americanas investigam a empresária por suspeita […] O post O que a ‘novela’ de Jensen Huang na Nvidia ensina sobre poder em big techs apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-23T20:34:55+00:00",
+      "coletado_em": "2026-11-23T21:26:42.154298+00:00",
+      "imagem_feed": null,
+      "score": 7.353,
+      "cobertura": [
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "b9a9df7f387f",
+      "titulo": "Jensen Huang retorna ao comando da Nvidia",
+      "url": "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+      "resumo": "Executivo assume os cargos de presidente e CEO. Jensen Huang retorna ao comando da Nvidia",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-23T14:26:09+00:00",
+      "coletado_em": "2026-11-23T21:26:42.155640+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/09/capa-tbr-jensen-huang.jpg",
+      "score": 7.084,
+      "cobertura": [
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://canaltech.com.br/mercado/jensen-huang-volta-a-nvidia-apos-escandalo-de-espionagem-chinesa/",
+        "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+        "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+        "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "42918358d761",
+      "titulo": "Stellar pulses reveal hidden binary in JWST calibration star sample",
+      "url": "https://phys.org/news/2026-11-stellar-pulses-reveal-hidden-binary.html",
+      "resumo": "Stars used to calibrate the James Webb Space Telescope (JWST) must have precisely characterized spectra so that their fluxes can be measured accurately. Yet some stars that appear single may in fact harbor unresolved companions that alter their predicted radiation. One such object, HD 158485—an A-type star in the JWST calibration program—has now been shown to be a binary system whose two stars both pulsate.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-23T21:20:04+00:00",
+      "coletado_em": "2026-11-23T21:26:42.141290+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/pulsation-timing-resul.jpg",
+      "score": 6.537,
+      "cobertura": []
+    },
+    {
+      "id": "67813de0a1c8",
+      "titulo": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+      "resumo": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-infrared observation from Webb […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-23T15:00:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.141069+00:00",
+      "imagem_feed": null,
+      "score": 6.378,
+      "cobertura": []
+    },
+    {
+      "id": "0391d4af16d5",
+      "titulo": "Star's record eruption shows how key elements can spread through space",
+      "url": "https://phys.org/news/2026-11-star-eruption-key-elements-space.html",
+      "resumo": "An international team of astronomers led by Wouter Vlemmings and Miora Andriantsaralaza, both from Chalmers, have imaged a nearby star in unprecedented detail, using the telescope ALMA in Chile.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-23T20:20:04+00:00",
+      "coletado_em": "2026-11-23T21:26:42.141290+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/stars-record-eruption.jpg",
+      "score": 5.426,
+      "cobertura": []
+    },
+    {
+      "id": "bac9e080d06b",
+      "titulo": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "resumo": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’s website starting Monday, Nov. 23, and […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-23T16:08:23+00:00",
+      "coletado_em": "2026-11-23T21:26:42.141069+00:00",
+      "imagem_feed": "https://www.youtube.com/embed/224QFgY9PTM",
+      "score": 5.272,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "c82645b565f1",
+      "titulo": "Rotonium Unveils a Quantum Computer That Operates at Room Temperature",
+      "url": "https://thequantuminsider.com/2026/11/23/rotonium-unveils-a-quantum-computer-that-operates-at-room-temperature/",
+      "resumo": "Insider Brief PRESS RELEASE — Rotonium has unveiled a quantum computer prototype that operates at room temperature, with no cryogenic cooling anywhere in the quantum chain: from the single-photon source to the processor and the detectors that read the results. The machine houses a photonic quantum processor with four effective qubits on a chip measuring […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-23T08:57:29+00:00",
+      "coletado_em": "2026-11-23T21:26:42.142121+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/fd739f_3de8e5b9c7a0404a95493ac5a10a2538mv2.avif",
+      "score": 5.672,
+      "cobertura": []
+    },
+    {
+      "id": "f1a087a03e57",
+      "titulo": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+      "url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+      "resumo": "Insider Brief PRESS RELEASE — QuEra Computing, the leader in fault-tolerant quantum computing, today announced that it is a collaborating partner in ASQC (Application-Aware Error Correction Codesign for Scientific Quantum Computing), a Harvard-led project that received $12 million from the U.S. Department of Energy (DOE). ASQC is one of 12 Phase II awards DOE announced […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-23T18:39:43+00:00",
+      "coletado_em": "2026-11-23T21:26:42.142121+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-23_23-37.png",
+      "score": 5.403,
+      "cobertura": []
+    },
+    {
+      "id": "29ef6ff6510f",
+      "titulo": "A ameaça quântica já entrou no radar da cibersegurança",
+      "url": "https://canaltech.com.br/seguranca/a-ameaca-quantica-ja-entrou-no-radar-da-ciberseguranca/",
+      "resumo": "Enquanto grande parte do mercado ainda concentra energia na corrida da inteligência artificial, um risco mais silencioso avança em paralelo. A computação quântica está evoluindo em ritmo acelerado e já começa a exigir uma revisão dos mecanismos de criptografia que protegem governos, bancos e empresas no mundo todo. A computação quântica deixou de ser uma promessa distante. No fim de 2024, o Google apresentou o chip Willow, com 105 qubits , capaz de executar em menos de cinco minutos um teste específico de desempenho que, segundo estimativa da empresa, levaria mais de dez septilhões de anos em um supercomputador clássico. Pouco depois, a IBM anunciou o Starling , projetado para operar 200 qubits lógicos e executar cerca de 100 milhões de portas quânticas, com lançamento previsto para 2029. A Microsoft também apresentou o Majorana 1, anunciado pela empresa como o primeiro processador quântico baseado em uma arquitetura topológica, projetada para permitir a expansão dos sistemas até um milhão de qubits. Criptografia tradicional em risco Esses avanços têm implicações importantes para o futuro da segurança da informação, embora nenhum deles represente, por si só, a capacidade atual de q",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "quantica",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T09:00:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.157858+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/42-r1G_Qp6uNL7lcEIIvsUBc_OM=/0x0/filters:format(webp):quality(85)/318bb30c-386b-453e-9327-1916bf7b3d84.jpg",
+      "score": 5.075,
+      "cobertura": []
+    },
+    {
+      "id": "e70a56991d9a",
+      "titulo": "planqc Expands Into the UK With New Cambridge Site",
+      "url": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+      "resumo": "Insider Brief PRESS RELEASE — planqc, one of Europe’s leading developers of neutral-atom quantum computers, is expanding into the United Kingdom with the establishment of planqc UK Ltd and a new site in Cambridge. The company is investing in the double-digit millions in the UK. Cambridge will host a full neutral-atom laboratory for the assembly, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-23T12:36:39+00:00",
+      "coletado_em": "2026-11-23T21:26:42.142121+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Planqc-optical-bench-in-violet-1-1.png",
+      "score": 4.901,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "da8a40509d60",
+      "titulo": "Jensen Huang is back. Nvidia’s AI empire is too powerful to disrupt",
+      "url": "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+      "resumo": "Jensen Huang is back at Nvidia , just 11 days after resigning amid revelations about extramarital affairs and concerns about a possible foreign intelligence connection. His return sent Nvidia’s stock soaring in early trading, and President Donald Trump says he personally helped convince the company’s board to reinstate him. That’s quite a turnaround for a CEO whose return the board had publicly ruled out just last week. Nvidia’s directors say their independent investigation will continue, even as Huang slips back into his trademark leather jacket. The leadership crisis may be over, but the questions surrounding his departure aren’t. Meanwhile, Nvidia’s enormously lucrative AI business rolls on. There’s a reason so many powerful people wanted Huang back. When Huang stepped down, I wrote about how Nvidia’s AI business had become so staggeringly lucrative that even a new CEO wouldn’t be likely to put GeForce gamers first. I also explained why Nvidia couldn’t simply flip a switch and start pumping out more graphics cards even if it wanted to. The supply chain is complicated. The economics aren’t. Nvidia’s GPUs have become essential to the AI infrastructure boom, turning the company int",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-23T20:37:11+00:00",
+      "coletado_em": "2026-11-23T21:26:42.143013+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3284206-0-94500400-1794587618-Nvidia-CEO-Jensen-Huang.jpg?quality=50&strip=all",
+      "score": 7.607,
+      "cobertura": [
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "47b1648bdb93",
+      "titulo": "How Jensen Huang ended up as Nvidia CEO again",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "resumo": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-23T19:57:18+00:00",
+      "coletado_em": "2026-11-23T21:26:42.149543+00:00",
+      "imagem_feed": null,
+      "score": 7.085,
+      "cobertura": [
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://canaltech.com.br/mercado/jensen-huang-volta-a-nvidia-apos-escandalo-de-espionagem-chinesa/",
+        "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+        "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+        "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "42ca67beaed9",
+      "titulo": "Jensen Huang is back as Nvidia CEO two weeks after resigning",
+      "url": "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+      "resumo": "After weeks of scandal and intrigue, Nvidia’s board of directors has unanimously voted to reinstate Jensen Huang as CEO. Huang, who admitted to an affair with a suspected foreign intelligence asset and has been accused of affairs with multiple subordinates, will also act as Nvidia’s president and director of the board. “In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang’s reinstatement poses no national security risk,” states the press release on Nvidia’s website. “We have every confidence in Jensen and look forward to working with him as he resumes his leadership of the Company.” Huang co-founded Nvidia in 1993, but resigned voluntarily two weeks ago after investigations broke, accounting an extramarital affair with a Chinese technology executive of a Singapore-based GPU supplier. Alice Huang (no relation) is suspected of facilitating the smuggling of Nvidia GPUs to China, circumventing US export bans and fueling China’s domestic AI industry. Huang admitted to the affair, and has also been accused of other affairs with multiple Nvidia subordinates. The ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-23T14:46:46+00:00",
+      "coletado_em": "2026-11-23T21:26:42.143013+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/3266248-0-40879200-1792599591-RTX-Spark-1-1.png",
+      "score": 7.061,
+      "cobertura": [
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "c723a41a612f",
+      "titulo": "Jensen is back: Nvidia board reinstates Huang as CEO",
+      "url": "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+      "resumo": "The move marks a sharp reversal by the board. Chair Harvey C. Jones said last week that the company had no plans to reinstate Huang as CEO, a statement that came after Huang said he would be \"honored\" to return if the board wanted him back. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-23T17:08:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.148440+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-23-ts3_thumbs-8a5.jpg",
+      "score": 6.959,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/president-trump-says-nvidia-board-rehiring-jensen-huang-would-be-best-for-the-company-and-the-us-treasury-sec-bessent-walks-back-outsider-ceo-comments-claims-huang-is-technically-an-outsider-now",
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://www.tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "b7579835e4e7",
+      "titulo": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "resumo": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T16:57:40+00:00",
+      "coletado_em": "2026-11-23T21:26:42.150445+00:00",
+      "imagem_feed": null,
+      "score": 6.794,
+      "cobertura": [
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "aa93777566bc",
+      "titulo": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "resumo": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T15:04:01+00:00",
+      "coletado_em": "2026-11-23T21:26:42.150445+00:00",
+      "imagem_feed": null,
+      "score": 6.634,
+      "cobertura": [
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "90f831b4fd3e",
+      "titulo": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "resumo": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T14:21:59+00:00",
+      "coletado_em": "2026-11-23T21:26:42.150445+00:00",
+      "imagem_feed": null,
+      "score": 6.579,
+      "cobertura": [
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "f82e2058d3bb",
+      "titulo": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "resumo": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T21:15:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.149811+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/mit-mcgovern-languages.jpg?itok=wMLbQvpF",
+      "score": 5.778,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "af522ce59574",
+      "titulo": "New synthetic graphite paves way for rapid EV charging",
+      "url": "https://techxplore.com/news/2026-11-synthetic-graphite-paves-rapid-ev.html",
+      "resumo": "Lithium-ion batteries, like those found in cars, cell phones and cameras, often have anodes made of graphite. During charging, lithium ions move into the graphite anode. How quickly they can move through the graphite is one of the key factors limiting how fast a battery can charge. James Tour's lab at Rice University has recently developed a new kind of synthetic graphite, one that supports much faster charging and can be produced in a fraction of a second.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-23T19:20:27+00:00",
+      "coletado_em": "2026-11-23T21:26:42.151067+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/electric-vehicle-batte-3.jpg",
+      "score": 4.821,
+      "cobertura": []
+    },
+    {
+      "id": "3c61d920adeb",
+      "titulo": "Bubbles to the rescue: Scientists make nuclear reactors better, one tiny sphere at a time",
+      "url": "https://techxplore.com/news/2026-11-scientists-nuclear-reactors-tiny-sphere.html",
+      "resumo": "Tiny helium bubbles injected into the liquid fuel of advanced nuclear reactors are supposed to clean out radioactive materials. But nuclear scientists in the 1960s and 1970s learned that there is a limit to their cleaning power. Similar to soap scum building up in a bathtub, the bubbles clean—until they don't.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-23T18:50:06+00:00",
+      "coletado_em": "2026-11-23T21:26:42.151067+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/bubbles-to-the-rescue.jpg",
+      "score": 4.77,
+      "cobertura": []
+    },
+    {
+      "id": "cedae0e20a91",
+      "titulo": "GrapheneOS diz que Google ameaça fabricantes para barrar sistema",
+      "url": "https://tecnoblog.net/noticias/grapheneos-diz-que-google-ameaca-fabricantes-para-barrar-sistema/",
+      "resumo": "Projeto afirma que licenças dos serviços Google vêm sendo usadas para impedir parcerias. Motorola já confirmou suporte ao GrapheneOS no Signature 27. GrapheneOS diz que Google ameaça fabricantes para barrar sistema",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-23T19:22:34+00:00",
+      "coletado_em": "2026-11-23T21:26:42.155640+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/03/capa_tbr-grapheneos.png",
+      "score": 4.525,
+      "cobertura": []
+    },
+    {
+      "id": "82c45189482d",
+      "titulo": "Celular retrô inspirado no BlackBerry atrasa e só chega em 2027",
+      "url": "https://canaltech.com.br/smartphone/celular-retro-inspirado-no-blackberry-atrasa-e-so-chega-em-2027/",
+      "resumo": "O Clicks Communicator , celular retrô que resgata o teclado físico dos antigos BlackBerry, teve seu lançamento adiado e só começará a chegar aos consumidores em 2027. O smartphone estava previsto para dezembro de 2026, mas problemas na fabricação de componentes obrigaram a empresa a alterar o cronograma. Segundo a Clicks, a produção foi afetada pela dificuldade de obter um material essencial para fabricar as placas de circuito impresso do aparelho. Com isso, a montagem dos primeiros dispositivos só começará em janeiro. A fabricante explica que a situação geopolítica de 2026 aumentou o prazo de entrega de alguns materiais em até três vezes. Além disso, a alta demanda por memórias para data centers também prejudicou a produção. Quando o Clicks Communicator será lançado? A Clicks espera receber os materiais necessários até o final de dezembro e iniciar a montagem dos celulares no começo de janeiro de 2027. As primeiras entregas estão previstas para o final do mesmo mês. No entanto, nem todos os compradores receberão o aparelho nesse período. A fabricante estima concluir cerca de dois terços dos pedidos antes do Ano-Novo Chinês, quando as fábricas interrompem as atividades por algumas ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-23T20:40:13+00:00",
+      "coletado_em": "2026-11-23T21:26:42.157858+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Kv_x0LAUxQMIMw1-77hr8C4Jd8g=/0x0/filters:format(webp):quality(85)/03cc56ce-57e6-4b22-aa69-fdf574a968e3.png",
+      "score": 4.512,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "2b44b2f135b7",
+      "titulo": "Nvidia investiga possível vazamento de dados após ameaça de grupo hacker",
+      "url": "https://olhardigital.com.br/2026/11/23/seguranca/nvidia-investiga-possivel-vazamento-de-dados-apos-ameaca-de-grupo-hacker/",
+      "resumo": "Ainda não há informações públicas sobre a natureza dos arquivos supostamente obtidos pelos criminosos, nem sobre a quantidade de dados envolvida O post Nvidia investiga possível vazamento de dados após ameaça de grupo hacker apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-23T20:25:06+00:00",
+      "coletado_em": "2026-11-23T21:26:42.154298+00:00",
+      "imagem_feed": null,
+      "score": 4.335,
+      "cobertura": []
+    },
+    {
+      "id": "fcb8bb2f8ebd",
+      "titulo": "Vazou: dobrável da Motorola vai ter \"tela larga\" e bateria de 5.000 mAh",
+      "url": "https://canaltech.com.br/smartphone/vazou-dobravel-da-motorola-vai-ter-tela-larga-e-bateria-de-5000-mah/",
+      "resumo": "A Motorola prepara um novo celular dobrável com um formato diferente do tradicional. O Razr Flex deve apostar em uma tela mais larga, bateria de 5.000 mAh e carregamento sem fio. O aparelho recebeu uma nova certificação que revela mais detalhes de sua ficha técnica. O dispositivo apareceu em um registro do Wireless Power Consortium , órgão responsável pela certificação de carregamento sem fio. O documento, datado de 22 de novembro, identifica o aparelho pelo número de modelo XT2761. Segundo a certificação, o Razr Flex terá suporte para carregamento sem fio de até 15 W pelo padrão Extended Power Profile. O valor é inferior aos 25 W apontados em vazamentos anteriores, mas não descarta a possibilidade de velocidades maiores por tecnologias proprietárias. Como será o Motorola Razr Flex? O principal destaque do novo dobrável será seu formato. Diferente dos modelos tradicionais da linha Razr, que possuem uma construção em formato de concha, o Razr Flex deve adotar um design mais largo, com abertura semelhante à de um livro. De acordo com os rumores, o aparelho terá uma tela interna de 6,92 polegadas, com taxa de atualização de 165 Hz , além de um display externo de 4,97 polegadas. O conj",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "inteligencia_artificial",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-23T17:09:01+00:00",
+      "coletado_em": "2026-11-23T21:26:42.157858+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/kzqhinZlCihpozXKqywtANi0u3I=/0x0/filters:format(webp):quality(85)/6b44edbb-3a51-40ee-9638-416655ef1f89.jpg",
+      "score": 4.161,
+      "cobertura": []
+    },
+    {
+      "id": "aa21ae45e03b",
+      "titulo": "Atriz escondeu do marido por 2 anos que estava em GTA 6; veja reação",
+      "url": "https://canaltech.com.br/games/atriz-escondeu-do-marido-por-2-anos-que-estava-em-gta-6-veja-reacao/",
+      "resumo": "A comediante Amber Wallin escondeu do marido por dois anos que dublou diversos NPCs menores em GTA 6 . Entre suas atuações está uma personagem de um segmento inicial que notifica Lucia de que ela poderá cumprir pena em um regime de \"quase prisão domiciliar\". A dubladora também aparece detonando Jason após ser importunada por ele. Benjamin Wallin descobriu as participações da esposa no jogo como qualquer outro jogador . \"Acordos de confidencialidade não se aplicam a maridos\", afirmou o cônjuge em um vídeo interpretado como se o casal estivesse em um reality show. Entre as frases que se destacaram na dublagem de Amber em GTA 6 estão \"O filho da puta quer bater o ponto cedo quando a coisa fica séria\" e \"Vai trabalhar, vadia. Tempo é dinheiro!\" A esposa afirma que a Rockstar poderia \"assassiná-la\" se contasse o segredo para o marido . Os dois são comediantes, costumam fazer vídeos do tipo e já estão juntos há sete anos . A Rockstar Games adotou uma política rígida em GTA 6 para impedir possíveis vazamentos, mesmo sobre os atores que participaram do jogo. Por exemplo, tivemos certeza de que a atriz da protagonista era Manni L. Perez apenas depois do lançamento do título . GTA 6 versus Z",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-23T13:10:05+00:00",
+      "coletado_em": "2026-11-23T21:26:42.157858+00:00",
+      "imagem_feed": null,
+      "score": 3.54,
+      "cobertura": []
+    },
+    {
+      "id": "3e1fdb720555",
+      "titulo": "Nova pulseira da Samsung pode custar mais caro e mudar pouco; entenda",
+      "url": "https://canaltech.com.br/smartwatch/nova-pulseira-da-samsung-pode-custar-mais-caro-e-mudar-pouco-entenda/",
+      "resumo": "A Samsung pode aumentar o preço da sua próxima pulseira fitness sem promover grandes mudanças no produto. Segundo um vazamento publicado pelo site francês Dealabs, o Galaxy Fit 4 pode custar € 79,90 na França , cerca de € 10 a mais que o valor de lançamento do Galaxy Fit 3 no mercado europeu. O preço representa um aumento de aproximadamente US$ 11 em relação ao antecessor, que chegou aos Estados Unidos por US$ 59,99. Ainda não há informações sobre quanto o novo modelo custará em outros países, mas se considerarmos que a Fit 3 foi lançada por R$ 549 no Brasil, o aumento levaria a Fit 4 para a casa dos R$ 630, aproximadamente. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas O mesmo vazamento aponta que a pulseira será vendida em três opções de cores: preto, prata e verde . A versão verde parece corresponder ao acabamento azul-claro identificado em um vazamento anterior. A diferença pode estar apenas na nomenclatura que a Samsung pretende utilizar oficialmente. Galaxy Fit 4 pode trazer poucas novidades As informações disponíveis até agora sugerem que o Galaxy Fit 4 terá uma evolução discreta em relação ao modelo anterior . Vazamentos anteriores indicaram uma tela ligeir",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-23T15:10:34+00:00",
+      "coletado_em": "2026-11-23T21:26:42.157858+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/XPAl22o21mzoMVI2MHfKDcmp93I=/0x0/filters:format(webp):quality(85)/82e4c376-f7c4-4356-b2b9-4ced394b4d1a.jpeg",
+      "score": 0.992,
+      "cobertura": []
+    }
+  ]
+}

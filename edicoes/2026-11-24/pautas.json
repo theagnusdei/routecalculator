@@ -1,0 +1,412 @@
+[
+  {
+    "categoria": "medicina",
+    "candidato": {
+      "id": "fd273c2b0c0d",
+      "titulo": "Can AI expedite medical imaging? Yes—if we can trust the picture",
+      "url": "https://medicalxpress.com/news/2026-11-ai-medical-imaging-picture.html",
+      "resumo": "When it comes to medical imaging, everyone wants better technology faster—but no one wants to cut corners on health and safety. Enter a new statistical tool that determines whether AI-generated data could accurately stand in for patient data in clinical trials.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-23T20:00:08+00:00",
+      "coletado_em": "2026-11-23T21:26:42.137205+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-ai-expedite-medica.jpg",
+      "score": 6.39,
+      "cobertura": []
+    },
+    "texto_fonte": "Can AI expedite medical imaging? Yes—if we can trust the picture\nWhen it comes to medical imaging, everyone wants better technology faster—but no one wants to cut corners on health and safety. Enter a new statistical tool that determines whether AI-generated data could accurately stand in for patient data in clinical trials.\nJointly developed by researchers from Virginia Tech; the University of Maryland, Baltimore County; Texas Tech University; and Princeton University, the model was published in the Proceedings of the National Academy of Sciences.\nCutting trial timelines\nDeploying a more powerful, precise MRI in a hospital, for instance, requires approval from the U.S. Food and Drug Administration (FDA). To prove these devices are safe and effective, manufacturers must run clinical trials—research studies using human subjects that can take years and cost millions of dollars.\nTo accelerate this process, the FDA is exploring AI-generated synthetic data alternatives that could compress trial timelines to a matter of months.\n\"The problem is, you have to verify that the synthetic data is true to life,\" said Yulia R. Gel, Virginia Tech professor of statistics. \"We want clinical trials with synthetic data to reach the same conclusions we would get with real people.\"\nThe tool developed by Gel and her colleagues bridges two fields—computational topology and statistics—to measure and compare complex image data.\nTo test the method, the team compared synthetic mammograms against real patient data, tracking how breast cancer responds to different radiation doses. The proposed method enabled the researchers to assess the faithfulness of the synthetic images as a replacement for human data in trial evaluations.\nBut the research won't stop with publication. Gel and her team are already in conversation with the FDA to customize the model for streamlined premarket and postmarket evaluations.\nStress-testing AI across industries\nThe model's applications could reach far beyond medicine. The researchers have already applied it in materials science to verify synthetic representations of wood, fabric and metal.\n\"AI applications are vast and varied,\" said statistics graduate student Jaidev Goel, one of the leading authors on the paper. \"It's being used to generate new protein structures and new compounds in drug discovery. A materials scientist may want to make something with the properties of cotton. We can use this tool to make sure it truly does have the properties of cotton—its density or texture.\"\nDown the road, the model could verify synthetic data for power grids and 3D objects or help spot false assertions and restrict behavior in large language models.\n\"We shouldn't blindly buy into the hype of AI,\" Goel said. \"We have always come up with ways to stress-test new tools. That's the crucial role statistics plays in human history.\"\nPublication details\nPoor, H. Vincent, Topological validation of generated scientific images, Proceedings of the National Academy of Sciences (2026). DOI: 10.1073/pnas.2622414123. doi.org/10.1073/pnas.2622414123\nJournal information: Proceedings of the National Academy of Sciences",
+    "autor_fonte": "Virginia Tech",
+    "site_fonte": "Medical Xpress",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/can-ai-expedite-medica.jpg",
+    "imagem_arquivo": "imagens/medicina-can-ai-expedite-medical-imaging-yesif-we.jpg",
+    "imagem_credito": "Medical Xpress",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://medicalxpress.com/news/2026-11-ai-medical-imaging-picture.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "biologia",
+    "candidato": {
+      "id": "30dbc8896b1d",
+      "titulo": "Proteins with ancient viral roots guard genetic switches left by mobile DNA",
+      "url": "https://phys.org/news/2026-11-proteins-ancient-viral-roots-genetic.html",
+      "resumo": "Much of our genome contains mobile pieces or \"transposable elements\": pieces of DNA that spread and accumulated over millions of years, some originating from ancient viruses. Although many are no longer mobile, their sequences can influence when nearby genes switch on or off.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-23T18:20:31+00:00",
+      "coletado_em": "2026-11-23T21:26:42.138125+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/family-of-proteins-kee.jpg",
+      "score": 6.222,
+      "cobertura": []
+    },
+    "texto_fonte": "Proteins with ancient viral roots guard genetic switches left by mobile DNA\nMuch of our genome contains mobile pieces or \"transposable elements\": pieces of DNA that spread and accumulated over millions of years, some originating from ancient viruses. Although many are no longer mobile, their sequences can influence when nearby genes switch on or off.\nThe genome's internal fossils\nAs they evolved, cells have even repurposed some of these sequences to develop new ways of regulating genes. But this creates a challenge.\nTransposable elements can provide useful new genetic \"switches,\" but if their activity becomes uncontrolled, it can affect gene regulation and hurt or even destroy the cell. So cells have evolved ways to keep transposable elements in check.\nOne well-studied system uses the so-called \"KRAB zinc-finger proteins\" (KZFPs). These recruit machinery that adds chemical marks to the proteins that package DNA in the cell (called histones), helping lock nearby DNA regions into a closed, inactive state.\nHowever, the number of transposable elements is vast and only a small fraction of them are bound by KZFPs. A team from the Laboratory of virology and genetics at EPFL, led by Didier Trono, with his postdoc Wayo Matsushima, has discovered another family of controlling proteins, called \"SCAN zinc-finger proteins\" (SZFPs). They have now shown that SZFPs commonly target regulatory sequences derived from transposable elements and keep them inactive through a different mechanism.\nThe study, published in Nature Genetics, points to a new way in which cells protect their existing gene activity while also allowing the genome to acquire new regulatory sequences over evolutionary time.\nA protein family born from ancient viruses\nThe researchers traced the SZFP family across 68 genomes from vertebrate animals. They found that parts of the proteins, called the SCAN domain, have roots in an ancient retrovirus. The family later expanded independently in different animal groups, including mammals and lizards and snakes. Its DNA-recognizing regions also changed, allowing different proteins to recognize different transposable-element sequences.\nTo understand what these proteins do, the team then mapped where SZFPs attach to human DNA. They found that most of those targeted DNA sequences came from transposable elements. Meanwhile, they also found that different SZFPs evolved to recognize different pieces of transposable-element DNA, suggesting that the proteins and their genomic targets evolved alongside each other.\nA different way to keep DNA closed\nDNA is not loose inside a cell. It winds around proteins and folds into a material called chromatin. Some stretches are open enough for proteins to reach genes and help switch them on. Others stay tightly packed and less accessible. Scientists already knew that cells could keep DNA closed by adding chemical marks that help maintain a silenced state. The EPFL team found that SZFPs work without relying on these familiar marks.\nTo see how, the researchers temporarily removed one of these proteins from cells. Within hours, DNA around its usual binding sites became easier to access, and proteins involved in switching genes on began entering those regions. When the missing protein returned, the DNA closed again. Further experiments showed that opening required the cell's normal chromatin-rearranging machinery. A related protein showed a similar effect in mouse stem cells.\nThe findings suggest that SZFPs keep selected stretches of DNA inaccessible, rather than silencing them through the usual chemical tagging system.\nProtecting genes while allowing change\nThe authors describe SZFPs as \"guard\" transcription factors. They appear to prevent proteins that open DNA from gaining access to particular regulatory regions. Unlike some conventional silencing mechanisms, their effects appear more local, potentially helping cells control one DNA switch without shutting down a larger surrounding region.\nThe findings also offer an evolutionary perspective. Transposable elements can introduce new genetic switches, some of which are later adopted by the host genome. By controlling when these switches become accessible, proteins such as SZFPs may help preserve established gene programs while contributing to differences in gene regulation between species.\n\"Repurposing the regulatory elements derived from transposable elements dramatically changes genetic programs and thus may contribute to the emergence of biological features specific to certain species,\" says Matsushima.\nPublication details\nWayo Matsushima et al., Evolutionary lineage-specific and heterochromatin-independent repression of transposon-derived sequences, Nature Genetics (2026). DOI: 10.1038/s41588-026-02823-4",
+    "autor_fonte": "Nik Papageorgiou",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/family-of-proteins-kee.jpg",
+    "imagem_arquivo": "imagens/biologia-proteins-with-ancient-viral-roots-guard.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-proteins-ancient-viral-roots-genetic.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "robotica",
+    "candidato": {
+      "id": "e7d218213534",
+      "titulo": "NVIDIA reinstates Jensen Huang after 11-day absence",
+      "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+      "resumo": "The NVIDIA board reversed its decision following discussions with Huang and senior U.S. government officials, amid growing pressure from the White House, investors and technology executives. The post NVIDIA reinstates Jensen Huang after 11-day absence appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-23T14:20:46+00:00",
+      "coletado_em": "2026-11-23T21:26:42.139438+00:00",
+      "imagem_feed": null,
+      "score": 7.227,
+      "cobertura": [
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://www.tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://canaltech.com.br/mercado/jensen-huang-volta-a-nvidia-apos-escandalo-de-espionagem-chinesa/",
+        "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+        "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+        "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html"
+      ]
+    },
+    "texto_fonte": "So much for robotics being in its post-Jensen Huang era. Just 11 days after his resignation amid allegations of personal misconduct and concerns about potential national security risks involving China, NVIDIA has reinstated Jensen Huang as president and CEO.\nThe company announced today that its board of directors unanimously voted to bring Huang back. Huang also returns to NVIDIA’s board, effective immediately.\nNVIDIA said the board was satisfied with Huang’s candor and ability to lead the company. It also consulted with senior U.S. government officials before determining that his reinstatement poses no national security risk.\n“The Board believes Jensen is the right person to lead NVIDIA, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers,” said Harvey Jones, NVIDIA’s board chair.\nThe decision marks a dramatic reversal for NVIDIA. During the company’s earnings call on Nov. 17, Jones explicitly ruled out bringing Huang back, saying the board had unanimously accepted his resignation and did not intend to reinstate him. Just six days later, the board unanimously voted to restore Huang to the position he had held since co-founding NVIDIA in 1993.\nThe reversal followed growing pressure from President Donald Trump, NVIDIA employees, investors and prominent technology executives. Trump publicly supported Huang’s potential return on Nov. 16, saying he would not object to his reinstatement. On Sunday, Nov. 22, Trump again urged NVIDIA’s board to bring Huang back.\nMeanwhile, a “Stand With Jensen” petition attracted more than 200,000 signatures, including support from current and former NVIDIA employees, investors and technology leaders such as Elon Musk and Epic Games CEO Tim Sweeney.\nNVIDIA also faced considerable financial uncertainty following Huang’s departure, with its market value falling sharply and questions emerging about who could replace an executive who had led the company for more than three decades.\nIt remains unclear precisely what persuaded the board to reverse course. NVIDIA did not identify which government officials were consulted or disclose what information they provided. The company also did not say whether the public campaign influenced its decision.\nColette Kress, who served as interim CEO following Huang’s resignation, will continue in her role as chief financial officer. Jones will remain board chair.\n“I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution,” Huang said. “I take this responsibility with the greatest humility and renewed commitment.”\nHuang also thanked NVIDIA’s board, employees, shareholders and his family for their support, adding, “I can’t wait to get back to work.”\nNational security investigation continues\nHuang’s reinstatement does not end the scrutiny surrounding his departure. NVIDIA said an independent board committee will continue investigating reports that Huang was targeted by a foreign intelligence effort.\nThe committee has retained independent counsel, and Huang has committed to cooperating fully with the investigation. NVIDIA also recently established a National Security and Export Control Committee composed entirely of independent directors. The committee will oversee trade compliance and national security risks, with support from legal counsel and national security specialists.\nThe company did not provide a timeline for completing its internal investigation.\nHuang’s return brings back robotics’ biggest champion\nHuang’s return also restores one of the robotics industry’s most visible advocates to the helm of a company that has become increasingly important to robot development.\nAs The Robot Report previously examined, Huang has spent years promoting robotics and physical AI as major long-term opportunities. He has regularly featured robots in NVIDIA’s keynote presentations and helped bring greater attention to the industry’s potential.\nUnder his leadership, NVIDIA expanded its robotics portfolio with technologies including Isaac Sim, Isaac Lab, GR00T foundation models, Isaac ROS and Jetson computing platforms.\nNVIDIA has also invested in and partnered with robotics developers, including humanoid companies, as it works to establish its technology as a foundation for robot training, simulation and deployment.",
+    "autor_fonte": "Steve Crowe",
+    "site_fonte": "The Robot Report",
+    "imagem_url": "https://www.therobotreport.com/wp-content/uploads/2026/11/nvidia-jensen-returns.jpg",
+    "imagem_arquivo": "imagens/robotica-nvidia-reinstates-jensen-huang-after-11.jpg",
+    "imagem_credito": "The Robot Report",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "software",
+    "candidato": {
+      "id": "8fe67a31a8e1",
+      "titulo": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j",
+      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-nov16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "This week's Java roundup for November 16th, 2026, features news highlighting: the Java4Shell RCE vulnerability; Oracle CSPUs; Lazy Constants targeted for JDK 28; the November 2026 edition of Azul Payara; point releases of Java Operator SDK, LangChain4j and Micrometer; maintenance releases of Liberica JDK and Helidon; and second release candidates of Hibernate Reactive. By Michael Redlich",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-23T15:30:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.139817+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/java-news-roundup-nov16-2026/en/headerimage/java-news-roundup-image-1795447387323.jpg",
+      "score": 5.119,
+      "cobertura": []
+    },
+    "texto_fonte": "This week's Java roundup for November 16th, 2026, features news highlighting: the Java4Shell RCE vulnerability; Oracle CSPUs; Lazy Constants targeted for JDK 28; the November 2026 edition of Azul Payara; point releases of Java Operator SDK, LangChain4j and Micrometer; maintenance releases of Liberica JDK and Helidon; and second release candidates of Hibernate Reactive.\nOpenJDK\nOracle has released versions 27.0.1.0.3, 25.0.5.0.3, 21.0.13.0.3, 17.0.21.0.3, 11.0.33.0.3 and 8u511b3 of the JDK as part of their quarterly Critical Security Patch Update Advisory for November 2026. Further details on this release may be found in the release notes for version 27.0.1.0.3, version 25.0.5.0.3, version 21.0.13.0.3, version 17.0.21.0.3, version 11.0.33.0.3 and version 8u511 b33.\nJEP 547, Lazy Constants (Fourth Preview), has been elevated from Proposed to Target to Targeted for JDK 28. This JEP proposes a fourth preview, with no changes, after three rounds of preview delivered in the upcoming release of JDK 27 and JDK 26 through JDK 25. Formerly known as Stable Values and Computed Constants, this feature introduces the concept of computed constants, defined as immutable value holders that are initialized at most once. This offers the performance and safety benefits of final fields, while offering greater flexibility as to the timing of initialization. The name change from Stable Values to Lazy Constants with the release of JDK 26, better captures the intent of a high-level use case.\nJEP 548, Vector API (Thirteenth Incubator), has been elevated from its JEP Draft 8397768 to Candidate status. This JEP proposes a thirteenth incubation with one notable change, after twelve rounds of incubation delivered in JDK 16 through JDK 27. This feature introduces an API to \"express vector computations that reliably compile at runtime to optimal vector instructions on supported CPU architectures, thus achieving performance superior to equivalent scalar computations.\" This JEP adds support for Vector<Float16> vectors, whose lanes hold 16-bit floating-point numbers in the IEEE 754 binary16 format. The Vector API will continue to incubate until the necessary features of Project Valhalla become available as preview features. At that time, the Vector API team will adapt the Vector API and its implementation to use them, and will promote the Vector API from Incubation to Preview.\nJDK 28\nBuild 25 of the JDK 28 early-access builds was made available this past week featuring updates from Build 24 that include fixes for various issues. More details on this release may be found in the release notes.\nFor JDK 28, developers are encouraged to report bugs via the Java Bug Database.\nJava4Shell\nA new Remote Code Execution (RCE) vulnerability, known as Java4Shell (CVE-2026-114938), affects versions 27.0.1.0.3, 25.0.5.0.3, 21.0.13.0.3, 17.0.21.0.3 and 8u511b33-perf of Oracle Java SE, versions 21.0.13.0.3 and 17.0.21.0.3 of Oracle GraalVM for JDK, and Oracle GraalVM Enterprise Edition: 21.3.20.0.3. As described in the CVE documentation:\n[This] difficult to exploit vulnerability allows [an] unauthenticated attacker with network access via multiple protocols to compromise Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in takeover of Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition. Note: This vulnerability can only be exploited by supplying data to APIs in the specified Component without using Untrusted Java Web Start applications or Untrusted Java applets, such as through a web service.\nOrganizations and projects that have addressed this CVE include: BellSoft, Azul, JetBrains, GraalVM, Quarkus and WildFly. InfoQ will follow up with a more detailed news story.\nSpring Framework\nIt was a busy week over at Spring as the various teams have delivered GA releases that include: Spring Boot, Spring Framework, Spring Security, Spring Session, Spring Integration, Spring HATEOAS, Spring Modulith, Spring AI, Spring AMQP, Spring for Apache Kafka and Spring LDAP.\nThe Spring team has also resolved a total of 90 CVEs spanning multiple projects. InfoQ will follow up with a more detailed news story.\nAzul Payara\nThe release of Azul Payara 7.6.0, the November 2026 edition, includes Community Edition 7.2026.11, Enterprise Edition 6.44.0 and Enterprise Edition 5.93.0. Along with bug fixes and component upgrades, all three editions deliver resolutions to five CVEs, two of which are related to Azul Payara:\n- CVE-2026-90908, a vulnerability in the GenericAdminAuthenticator class that allows a remote, unauthenticated attacker to bypass JMX/RMI administrative access restrictions by spoofing the client host address that may lead to remote code execution.\n- CVE-2026-110003, A vulnerability in the administration REST interface that allows a remote, unauthenticated attacker to bypass secure-admin remote-access restrictions by supplying an arbitrary value in the X-GlassFish-authToken HTTP header that grants execution of arbitrary administrative commands, equivalent to complete compromise of the server.\nFurther details on this release may be found in the release notes and the Azul Payara security advisories page.\nHibernate\nThe second release candidates of Hibernate Reactive 5.1.0 and 5.0.0 ship with one single bug fix from the first release candidates, in which use of the Jakarta Persistence @TableGenerator annotation could cause a deadlock when a session holding the lock on the row of the generator table needed a new block of IDs.\nVersion 5.0.0.CR2 will be the last release candidate. With the GA release of version 5.0.0.Final, it will be declared as end-of-life and focus will be on version 5.1.0.\nMore details on these releases may be found in the release notes for version 5.1.0.CR2 and version 5.0.0.CR2.\nJava Operator SDK\nThe release of Java Operator SDK 5.7.0 provides bug fixes, dependency upgrades and new features such as: the ability to enable virtual threads via construction in the Operator class or the josdk.use-virtual-threads property; and a new keepAlive() method, defined in the Operator class that starts a non-daemon thread to keep the JVM running until the operator is shut down. Version 5.7 is now built on Fabric8 Kubernetes Client 8.0. Further details on this release may be found in the release notes.\nBellSoft\nConcurrent with Oracle's Critical Security Patch Update (CSPU) for November 2026, BellSoft has released CSPU patches for versions 27.0.1.1 25.0.5.1, 21.0.13.1, 17.0.21.1, 11.0.33.1, 8u514 7u523 and 6u523 of Liberica JDK, their downstream distribution of OpenJDK, to address this list of CVEs. This release also includes a patch for the aforementioned Java4Shell Remote Code Execution vulnerability.\nWith an overall total of 111 fixes and backports, BellSoft states they have participated in eliminating 21 issues in all releases.\nHelidon\nThe release of Helidon 27.0.2 delivers bug fixes and one notable change in which the default limit of decoded-input (strings, byte arrays, JSON, forms, and buffered multipart parts) for in-memory entity conversations has been increased to 1 mebibyte (MiB). More details on this release may be found in the release notes.\nThis release also aligns with the Oracle Critical Patch Updates for November 2026 and includes the Helidon 4.x and 3.x release trains as described in this blog post.\nLangChain4j\nThe formal release (along with the thirty-fourth beta release) of LangChain4j 1.24.0 ships with bug fixes, documentation improvements, dependency upgrades and new features such as: new DecisionSchedulerPlanner and DecisionModels classes to serve as a decision model-based agentic pattern; and support for resuming suspended agentic systems in the AgentMonitor class. Further details on this release, including breaking changes, may be found in the release notes.\nMicrometer\nAfter two milestones and two releases candidates, the GA release of Micrometer Metrics 1.18.0 provides bug fixes, documentation improvements, dependency upgrades and new features such as: an optimization of the PrometheusMeterRegistry and MicrometerCollector classes for collecting data snapshots; and a new RowState inner class, defined in the MultiGauge class, that eliminates the need to remove and re-register an instance of the existing Row inner class. More details on this release, including deprecations, may be found in the release notes.\nSimilarly, the GA release of Micrometer Tracing 1.8.0 delivers bug fixes, documentation improvements, dependency upgrades and new features such as: a simplification of baggage handles and lookups by directly storing the name of the handle and its metadata by eliminating use of the CompositeBaggage and Java AtomicReference classes; and a refactor of the BaggageTextMapPropagator class for improved baggage propagation. Further details on this release, including deprecations, may be found in the release notes.",
+    "autor_fonte": "Michael Redlich",
+    "site_fonte": "InfoQ",
+    "imagem_url": "https://res.infoq.com/news/2026/11/java-news-roundup-nov16-2026/en/headerimage/java-news-roundup-image-1795447387323.jpg",
+    "imagem_arquivo": "imagens/software-java-news-roundup-java4shell-oracle-cspu.jpg",
+    "imagem_credito": "InfoQ",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.infoq.com/news/2026/11/java-news-roundup-nov16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "candidato": {
+      "id": "b792d64f327c",
+      "titulo": "Jensen Huang returns to applause from employees at Nvidia HQ",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+      "resumo": "Jensen Huang returned to the office after being reinstated to CEO to cheers, according to videos spread on social media.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-23T21:00:00+00:00",
+      "coletado_em": "2026-11-23T21:26:42.140510+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/sDEMAVk3qrauvEM3EtLfHJ-1920-80.jpg",
+      "score": 8.149,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "https://www.pcworld.com/article/3294132/jensen-huang-is-back-as-nvidia-ceo-two-weeks-after-resigning.html",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://olhardigital.com.br/2026/11/23/pro/o-que-a-novela-de-jensen-huang-na-nvidia-ensina-sobre-poder-em-big-techs/",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    "texto_fonte": "Jensen Huang returned to Nvidia on Monday after being reinstated as chief executive by the board. Videos on social media show the executive in a wool fleece, rather than his trademark leather jacket, with multiple floors' worth of office workers cheering him on.\nHuang's remarks weren't shared alongside these videos, and words he did say aren't audible in the videos. But his words have leaked out to reporters and were posted on social media.\nBloomberg's Ed Ludlow posted on X that Huang thanked staff for a second chance, called today his \"first day of work,\" and joked that the IT department needs to give him a new computer, which he hopes is RTX Spark-based.\n\"I am gonna be a better CEO the second time around,\" Huang reportedly promised.\nThe videos of cheering employees make it look like Huang came home to a hero's welcome, but not everyone seems happy. One anonymous engineer told Yahoo Finance that \"This is the worst outcome. We already paid the price of his departure but are still saddled with working for a jerk.\"\nHuang's return to power less than two weeks after his resignation came as a surprise, despite wide support from the tech community, an online petition, and some vocal Nvidia engineers. The announcement that Huang had been reinstated states that Nvidia's board \"received input from senior levels of the United States government,\" with President Donald Trump praising the decision.\nHuang will have plenty to contend with back in the corner office, including investigations from both the board and the SEC, as well as congressional inquiries into his relationship with Alice Huang, who reportedly was in regular contact with Chinese security services during her relationship with the Nvidia executive.\nNvidia's stock has increased more than 32% since the announcement of Huang's reinstatement.\nDownload the Tom's Hardware app for up-to-the-minute updates on iOS and Android. Also follow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nAndrew E. Freedman is a senior editor at Tom's Hardware focusing on laptops, desktops and gaming. He also keeps up with the latest news. A lover of all things gaming and tech, his previous work has shown up in Tom's Guide, Laptop Mag, Kotaku, PCMag and Complex, among others. Follow him on Threads @FreedmanAE and BlueSky @andrewfreedman.net. You can send him tips on Signal: andrewfreedman.01",
+    "autor_fonte": "Andrew E Freedman",
+    "site_fonte": "Tom's Hardware",
+    "imagem_url": "https://cdn.mos.cms.futurecdn.net/sDEMAVk3qrauvEM3EtLfHJ-2560-80.jpg",
+    "imagem_arquivo": "imagens/hardware-jensen-huang-returns-to-applause-from-em.jpg",
+    "imagem_credito": "Tom's Hardware",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "astrofisica",
+    "candidato": {
+      "id": "42918358d761",
+      "titulo": "Stellar pulses reveal hidden binary in JWST calibration star sample",
+      "url": "https://phys.org/news/2026-11-stellar-pulses-reveal-hidden-binary.html",
+      "resumo": "Stars used to calibrate the James Webb Space Telescope (JWST) must have precisely characterized spectra so that their fluxes can be measured accurately. Yet some stars that appear single may in fact harbor unresolved companions that alter their predicted radiation. One such object, HD 158485—an A-type star in the JWST calibration program—has now been shown to be a binary system whose two stars both pulsate.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-23T21:20:04+00:00",
+      "coletado_em": "2026-11-23T21:26:42.141290+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/pulsation-timing-resul.jpg",
+      "score": 6.537,
+      "cobertura": []
+    },
+    "texto_fonte": "Stellar pulses reveal hidden binary in JWST calibration star sample\nStars used to calibrate the James Webb Space Telescope (JWST) must have precisely characterized spectra so that their fluxes can be measured accurately. Yet some stars that appear single may in fact harbor unresolved companions that alter their predicted radiation. One such object, HD 158485—an A-type star in the JWST calibration program—has now been shown to be a binary system whose two stars both pulsate.\nResearchers from the Xinjiang Astronomical Observatory of the Chinese Academy of Sciences made the discovery using long-term observations from NASA's TESS satellite. Their study provides the first orbital solution and dynamical mass ratio for the system and has been published in The Astrophysical Journal Letters.\nThe team identified six stable δ Scuti pulsation modes, which fall into two groups with opposing light-travel-time variations. These signals trace the orbital motion of the two stars, yielding a period of 382.80 days, an eccentricity of 0.242 and a mass ratio of 0.818. An orbital model built from earlier TESS data also predicted the timing variations of a later observing campaign with accuracy, providing an independent check of the result.\nThe finding carries implications for JWST calibration. Using the measured mass ratio, the team compared a two-star atmosphere model with a conventional single-star model. The resulting fluxes differ by about 1.6% between one and five μm and by 2.5% between five and 28 μm. Those differences do not represent a measured error in JWST calibration, but they do show how an unresolved binary can shift predicted infrared fluxes even when a single-star model reproduces its optical spectrum well.\nThe study shows that stellar pulsations can expose binaries that conventional observations leave unresolved, and it underscores the need to account for hidden companions when evaluating calibration standards for high-precision space astronomy.\nPublication details\nChenglong Lv et al., TESS Pulsation Timing Reveals the JWST Calibration Star HD 158485 as a Double-pulsator Binary, The Astrophysical Journal Letters (2026). DOI: 10.3847/2041-8213/aeb301",
+    "autor_fonte": "Li Yali",
+    "site_fonte": "Phys.org",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/2026/pulsation-timing-resul.jpg",
+    "imagem_arquivo": "imagens/astrofisica-stellar-pulses-reveal-hidden-binary-in-j.jpg",
+    "imagem_credito": "Phys.org",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://phys.org/news/2026-11-stellar-pulses-reveal-hidden-binary.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "quantica",
+    "candidato": {
+      "id": "c82645b565f1",
+      "titulo": "Rotonium Unveils a Quantum Computer That Operates at Room Temperature",
+      "url": "https://thequantuminsider.com/2026/11/23/rotonium-unveils-a-quantum-computer-that-operates-at-room-temperature/",
+      "resumo": "Insider Brief PRESS RELEASE — Rotonium has unveiled a quantum computer prototype that operates at room temperature, with no cryogenic cooling anywhere in the quantum chain: from the single-photon source to the processor and the detectors that read the results. The machine houses a photonic quantum processor with four effective qubits on a chip measuring […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-23T08:57:29+00:00",
+      "coletado_em": "2026-11-23T21:26:42.142121+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/fd739f_3de8e5b9c7a0404a95493ac5a10a2538mv2.avif",
+      "score": 5.672,
+      "cobertura": []
+    },
+    "texto_fonte": "Insider Brief\n- Rotonium unveiled a four-qubit photonic quantum computer prototype that operates at room temperature from the photon source through the processor and detectors.\n- The 18-by-4-millimeter chip encodes multiple qubits in a single photon and is designed for compact systems such as industrial robots, autonomous vehicles and satellites.\n- Rotonium’s roadmap calls for a 16-qubit desktop system in 2028, a 32-qubit accelerator card in 2029 and a 96-qubit module by 2030.\nPRESS RELEASE — Rotonium has unveiled a quantum computer prototype that operates at room temperature, with no cryogenic cooling anywhere in the quantum chain: from the single-photon source to the processor and the detectors that read the results.\nThe machine houses a photonic quantum processor with four effective qubits on a chip measuring just 18 by 4 millimetres. Rotonium defines effective qubits as qubits that can be used together in a verified computation under the stated test conditions. The technology encodes quantum information in different properties of a single photon, known as degrees of freedom, making it possible to represent multiple qubits within one photon. It is protected by six patent families, with 25 patent applications and six patents granted, and is designed for manufacturing processes compatible with silicon photonics.\nRotonium’s approach targets edge quantum computing: compact quantum accelerators that can be integrated into industrial systems, robots, autonomous vehicles and satellites, where size, weight and power consumption are critical.\n“Quantum computing must not become a technology reserved for a handful of large research centres,” says Roberto Siagri, co-founder and CEO of Rotonium. “What matters is not only how many qubits we can develop, but how usable they really are at the edge. This is what we call Industrial Quantum Utility.”\n“The entire system operates at room temperature, without cryogenics”, explains Fabrizio Tamburini, co-founder and Chief Quantum Officer of Rotonium. “Our prototype demonstrates the feasibility of compact photonic circuits and provides the foundation for a progressive increase in computing capacity.”\nThe company’s roadmap foresees a desktop system with 16 effective qubits in 2028, a PCI Express accelerator card with 32 effective qubits in 2029, and a System-on-Module with 96 effective qubits by 2030, with thousands of effective qubits targeted by 2035.\nMatt Swayne\nGet the latest research, company news, and market intelligence every week.\nMENTIONED IN THE ARTICLE",
+    "autor_fonte": "Matt Swayne",
+    "site_fonte": "The Quantum Insider",
+    "imagem_url": "https://thequantuminsider.com/wp-content/uploads/2026/10/tqi-share-1200x630-1.jpg",
+    "imagem_arquivo": "imagens/quantica-rotonium-unveils-a-quantum-computer-that.jpg",
+    "imagem_credito": "The Quantum Insider",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://thequantuminsider.com/2026/11/23/rotonium-unveils-a-quantum-computer-that-operates-at-room-temperature/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "computadores_pessoais",
+    "candidato": {
+      "id": "da8a40509d60",
+      "titulo": "Jensen Huang is back. Nvidia’s AI empire is too powerful to disrupt",
+      "url": "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+      "resumo": "Jensen Huang is back at Nvidia , just 11 days after resigning amid revelations about extramarital affairs and concerns about a possible foreign intelligence connection. His return sent Nvidia’s stock soaring in early trading, and President Donald Trump says he personally helped convince the company’s board to reinstate him. That’s quite a turnaround for a CEO whose return the board had publicly ruled out just last week. Nvidia’s directors say their independent investigation will continue, even as Huang slips back into his trademark leather jacket. The leadership crisis may be over, but the questions surrounding his departure aren’t. Meanwhile, Nvidia’s enormously lucrative AI business rolls on. There’s a reason so many powerful people wanted Huang back. When Huang stepped down, I wrote about how Nvidia’s AI business had become so staggeringly lucrative that even a new CEO wouldn’t be likely to put GeForce gamers first. I also explained why Nvidia couldn’t simply flip a switch and start pumping out more graphics cards even if it wanted to. The supply chain is complicated. The economics aren’t. Nvidia’s GPUs have become essential to the AI infrastructure boom, turning the company int",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-23T20:37:11+00:00",
+      "coletado_em": "2026-11-23T21:26:42.143013+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3284206-0-94500400-1794587618-Nvidia-CEO-Jensen-Huang.jpg?quality=50&strip=all",
+      "score": 7.607,
+      "cobertura": [
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    "texto_fonte": "Jensen Huang is back at Nvidia, just 11 days after resigning amid revelations about extramarital affairs and concerns about a possible foreign intelligence connection. His return sent Nvidia’s stock soaring in early trading, and President Donald Trump says he personally helped convince the company’s board to reinstate him.\nThat’s quite a turnaround for a CEO whose return the board had publicly ruled out just last week.\nNvidia’s directors say their independent investigation will continue, even as Huang slips back into his trademark leather jacket. The leadership crisis may be over, but the questions surrounding his departure aren’t. Meanwhile, Nvidia’s enormously lucrative AI business rolls on. There’s a reason so many powerful people wanted Huang back.\nWhen Huang stepped down, I wrote about how Nvidia’s AI business had become so staggeringly lucrative that even a new CEO wouldn’t be likely to put GeForce gamers first. I also explained why Nvidia couldn’t simply flip a switch and start pumping out more graphics cards even if it wanted to.\nThe supply chain is complicated. The economics aren’t.\nNvidia’s GPUs have become essential to the AI infrastructure boom, turning the company into a financial powerhouse whose fortunes can move the broader stock market. Investors were rattled by Huang’s departure. When Nvidia announced his return Monday morning, shares jumped more than 30 percent in early trading.\nWall Street’s enthusiasm makes sense. Few executives are as closely associated with their company’s success as Huang. But when the president of the United States gets involved? That’s something else entirely.\nNow you’re playing with power!\nPresident Donald Trump told CNBC that he’d personally spoken with Nvidia’s board about reinstating Huang.\nhttps://truthsocial.com/@realDonaldTrump/posts/117666713950631493\n“I spoke to them, let me put it that way,” Trump said. “And I convinced them.”\nAsked whether the stock market’s reaction influenced his thinking, Trump acknowledged, “Probably so,” before emphasizing the longer-term stakes. His explanation? Huang has “other chips in his brain that nobody else knows about.”\nThe president of the United States personally lobbied to restore the embattled CEO of one of America’s most consequential technology companies. Nvidia’s board confirmed receiving input from senior government officials.\nAnd then think about how far Nvidia has come. Huang helped transform a company best known for GeForce graphics cards into a cornerstone of the global AI economy. Nvidia’s chips are central to the ambitions of technology giants, investors, and governments alike. Nvidia spent decades disrupting computing. Now the people who depend on its success have a powerful interest in keeping its leadership stable.\nAdam Patrick Murray / IDG\nAnd there’s a legitimate case for Huang’s comeback. I’ve spent a lot of my career marveling at Nvidia’s technological wizardry, and both his vision and execution deserve enormous credit. Nvidia says government assurances satisfied the board that his reinstatement poses no national security risk. The continuing investigation, however, means serious questions remain unresolved. Returning to the CEO’s chair isn’t the same thing as answering them.\nStill, there’s something deeply unsettling about watching Wall Street and the White House rally around one executive before the investigation has even concluded.\nFor GeForce gamers, the business calculation hasn’t changed either. Nvidia continues to create incredible graphics technology, but AI brings in vastly more money. Huang’s departure wasn’t going to reverse those priorities, and his return certainly won’t.\nNvidia built its empire by changing the rules of computing. Now it’s become so important to Wall Street and Washington that changing who’s in charge is, apparently, a much harder sell.",
+    "autor_fonte": "Brad Chacos",
+    "site_fonte": "PCWorld",
+    "imagem_url": "https://www.pcworld.com/wp-content/uploads/2026/11/3284206-0-94500400-1794587618-Nvidia-CEO-Jensen-Huang.jpg?quality=50&strip=all&w=1024",
+    "imagem_arquivo": "imagens/computadores_pessoais-jensen-huang-is-back-nvidias-ai-empire-i.jpg",
+    "imagem_credito": "PCWorld",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://www.pcworld.com/article/3294371/jensen-huang-is-back-nvidias-ai-empire-is-too-powerful-to-disrupt.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "inteligencia_artificial",
+    "candidato": {
+      "id": "b7579835e4e7",
+      "titulo": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "resumo": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T16:57:40+00:00",
+      "coletado_em": "2026-11-23T21:26:42.150445+00:00",
+      "imagem_feed": null,
+      "score": 6.794,
+      "cobertura": [
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    "texto_fonte": "It’s safe to say no one expected this.\nMonday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI industry built on top of Nvidia’s AI infrastructure, Huang’s departure looked like an imminent threat to the business — and the mood on his return has been ecstatic. Share prices are rocketing back up, particularly for neoclouds like CoreWeave and Nebius, and the Nasdaq rose 7% on the news.\nStill, tech leaders should be clear-eyed about all the problems likely to come with Huang’s reinstatement. President Trump is already telling reporters that the U.S. government found no national security concerns resulting from the affair, but the broader national security concerns aren’t so easy to dismiss, and Trump’s involvement may do more harm than good for Nvidia and its partners. This isn’t the end of the problems caused by Huang’s affairs; it’s likely just the beginning.\nMost importantly, serious questions remain about how Nvidia chips were smuggled into China, and how much Nvidia knew about it. Among Jensen Huang’s defenders, it’s become common to question whether Alice Huang was really a spy, but it’s clear that a lot of restricted chips were flowing into China through her company. Just this weekend, The New York Times reported sustained contact between Alice Huang and a member of China’s Ministry of State Security during the same period she was having an affair with Jensen Huang.\nWith Democrats in control of Congress, including investigative bodies like the House Oversight Committee, there are plenty of ways to force the issue. Nvidia’s role in violating U.S. export controls would likely have been the subject of prolonged uncomfortable investigation, whether Huang returned or not. But with him back in the CEO’s seat, there will be a lot more riding on any revelations that come up — and any new revelations will damage Nvidia as a company alongside Huang himself.\nThen there are the questions raised by Trump’s intervention. It’s unprecedented in American history for a sitting president to intervene to clear a CEO accused of being a national security risk. Simply pressing the Department of Justice to exonerate Huang would have been a scandal, but calling the Nvidia board goes significantly further. Huang has already donated $25 million to Trump’s ballroom project, so it’s easy to make the case that Trump was intervening on behalf of a donor, setting national security risks aside for his personal benefit.\nAll of this is happening just as Democrats retake Congress, with all of its associated investigative powers. Even if they can’t fire Huang or remove Trump, there are lots of uncomfortable questions that are still unanswered. Was there any Department of Justice inquiry into whether Huang had committed a crime, or did Trump make the call on his own? Did the intelligence services make any official assessment that could be subpoenaed into the congressional record? Investigating Democrats will be particularly interested in Commerce Secretary Howard Lutnick, who oversees export controls and retains significant financial ties to the industry through his firm, Cantor Fitzgerald.\nIf all of this sounds exhausting, you’re getting a sense of what the next year will be like for anyone following national news. Congress will keep a steady drip of embarrassing revelations, milking as much political juice as possible out of Huang and everyone associated with him. Trump will keep lashing out, often making things worse for everyone involved. (Trump’s statement to CBS, which defends Huang in racist terms while also accusing him of treason, is an early taste.) It’s going to be ugly and sad, and the most successful tech company of the last decade will be right at the center of it.\nI have to assume that this was the scenario the board was concerned about when it decided to remove Huang two weeks ago. Since then, the cost of removing him has gone up: an open letter from Nvidia’s employees and partners, a tanking stock market, and, ultimately, direct intervention from the president of the United States.\nBut nothing has lowered the cost of keeping Huang, and the ugly scenario the board foresaw earlier this month is still very much in place. We’re about to see it come to life.",
+    "autor_fonte": "Russell Brandom",
+    "site_fonte": "TechCrunch",
+    "imagem_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+    "imagem_arquivo": "imagens/inteligencia_artificial-jensen-huang-isnt-out-of-the-woods-yet.jpg",
+    "imagem_credito": "TechCrunch",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "energia_materiais",
+    "candidato": {
+      "id": "af522ce59574",
+      "titulo": "New synthetic graphite paves way for rapid EV charging",
+      "url": "https://techxplore.com/news/2026-11-synthetic-graphite-paves-rapid-ev.html",
+      "resumo": "Lithium-ion batteries, like those found in cars, cell phones and cameras, often have anodes made of graphite. During charging, lithium ions move into the graphite anode. How quickly they can move through the graphite is one of the key factors limiting how fast a battery can charge. James Tour's lab at Rice University has recently developed a new kind of synthetic graphite, one that supports much faster charging and can be produced in a fraction of a second.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-23T19:20:27+00:00",
+      "coletado_em": "2026-11-23T21:26:42.151067+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/electric-vehicle-batte-3.jpg",
+      "score": 4.821,
+      "cobertura": []
+    },
+    "texto_fonte": "New synthetic graphite paves way for rapid EV charging\nLithium-ion batteries, like those found in cars, cell phones and cameras, often have anodes made of graphite. During charging, lithium ions move into the graphite anode. How quickly they can move through the graphite is one of the key factors limiting how fast a battery can charge. James Tour's lab at Rice University has recently developed a new kind of synthetic graphite, one that supports much faster charging and can be produced in a fraction of a second.\n\"This method could help make future electric vehicle batteries charge faster while reducing the cost and environmental impact of battery manufacturing,\" said Tour, the T.T. and W.F. Chao Professor of Chemistry and corresponding author on this study. \"Our analysis suggests it could reduce energy consumption and greenhouse gas emissions by more than 80% compared with conventional graphite production.\"\nA split-second route to ordered graphite\nThe study, recently published in Advanced Materials, describes a method that uses a small amount of a nickel compound and an extremely short, powerful electrical pulse. The nickel compound is added to petroleum coke, a low-cost carbon residue from oil refining. A single electrical pulse then briefly heats the mixture to about 2,500°C, triggering its rapid transformation into graphite—the same form of carbon found in pencil leads. But in this case, the process produces highly ordered, low-defect graphite with promising properties for fast-charging battery anodes.\nGraphite is a two-dimensional material, meaning that it is created from layers of horizontal structures only one atom thick stacked on top of each other. In graphite, each layer is composed of carbon atoms neatly ordered into hexagons. When the research team added a little bit of nickel compound to the petroleum coke, the carbon atoms were able to quickly organize around the tiny nickel particles.\n\"The nickel acts almost like a temporary construction worker, helping the carbon atoms organize themselves into a highly ordered, layered graphite structure,\" said Haojie Zhu, a postdoctoral associate and first author of the paper. \"Usually, creating graphite requires prolonged heating at extremely high temperatures for long periods, but this method allows us to do it in just two-tenths of a second.\"\nGraphite tested at four-minute charging rates\nThe nickel slightly expanded the interlayer spacing in the graphite, providing greater access for subsequent lithium entry during charging. When the team tested this nickel-formed graphite on a lithium-ion battery, they found it significantly outperformed conventional graphite for charging, tolerating a rate equivalent to a four-minute charging time. And it retained 80% of its capacity after 1,000 charge and discharge cycles, during which the battery was fully drained and then charged up again.\n\"This method addresses two major challenges simultaneously: improving battery fast-charging performance and simplifying the production of a key battery material,\" Tour said. \"Imagine charging your battery in four minutes.\"\nThe team found that the benefits of nickel-assisted graphite production remained even after more than 99% of the residual nickel was removed. This suggests that the main advantage comes from how nickel helps build the graphite structure rather than simply from nickel remaining in the material.\nFinding the right temperature\nSurprisingly, more heat did not necessarily mean better graphite: At excessively high temperatures, much of the nickel was lost, while lower temperatures resulted in less ordered graphite.\n\"We identified the Goldilocks region for graphite preparation,\" Tour said.\n\"What I find especially exciting is that a process lasting just 0.2 seconds can produce graphite with such impressive fast-charging performance,\" Zhu said. \"Making better materials is not always about using more energy or processing them for longer but about applying the right conditions at exactly the right moment.\"\nPublication details\nHaojie Zhu et al., Trace‐Metal‐Assisted Flash Synthesis for Fast‐Charging Graphite Anodes, Advanced Materials (2026). DOI: 10.1002/adma.75785",
+    "autor_fonte": "Rachel Leeson",
+    "site_fonte": "Tech Xplore",
+    "imagem_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/electric-vehicle-batte-3.jpg",
+    "imagem_arquivo": "imagens/energia_materiais-new-synthetic-graphite-paves-way-for-rap.jpg",
+    "imagem_credito": "Tech Xplore",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://techxplore.com/news/2026-11-synthetic-graphite-paves-rapid-ev.html",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  },
+  {
+    "categoria": "ciberseguranca",
+    "candidato": {
+      "id": "2b44b2f135b7",
+      "titulo": "Nvidia investiga possível vazamento de dados após ameaça de grupo hacker",
+      "url": "https://olhardigital.com.br/2026/11/23/seguranca/nvidia-investiga-possivel-vazamento-de-dados-apos-ameaca-de-grupo-hacker/",
+      "resumo": "Ainda não há informações públicas sobre a natureza dos arquivos supostamente obtidos pelos criminosos, nem sobre a quantidade de dados envolvida O post Nvidia investiga possível vazamento de dados após ameaça de grupo hacker apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-23T20:25:06+00:00",
+      "coletado_em": "2026-11-23T21:26:42.154298+00:00",
+      "imagem_feed": null,
+      "score": 4.335,
+      "cobertura": []
+    },
+    "texto_fonte": "A Nvidia está investigando possível incidente de segurança cibernética envolvendo um parceiro externo depois que um grupo de ransomware afirmou ter invadido a empresa e ameaçou divulgar informações supostamente roubadas. A organização criminosa The Gentlemen incluiu a fabricante de chips em seu site de vazamentos e estabeleceu 28 de novembro como prazo para a publicação dos dados.\nEm comunicado enviado a veículos especializados, a Nvidia afirmou que não encontrou indícios de comprometimento de seus próprios sistemas ou redes. “Estamos investigando um incidente que pode ter afetado um parceiro terceirizado. Não encontramos indícios de que os sistemas ou redes da Nvidia tenham sido afetados. Continuaremos monitorando a situação”, declarou um porta-voz da companhia ao The Register.\nA investigação, portanto, não confirma que a fabricante tenha sofrido uma invasão direta. Ainda não há informações públicas sobre a natureza dos arquivos supostamente obtidos pelos criminosos, nem sobre a quantidade de dados envolvida.\nGrupo hacker ameaça divulgar informações em novembro\n- A Nvidia apareceu no site de vazamentos da The Gentlemen em 18 de novembro. Na publicação, os criminosos utilizaram a identificação “DATA INFO – SOON” (informações sobre os dados em breve) e adicionaram uma contagem regressiva com término previsto para 28 de novembro;\n- Até o momento, o grupo não apresentou amostras dos arquivos que afirma ter roubado. Também não detalhou quais informações estariam envolvidas no suposto incidente;\n- Segundo o PCMag, a organização também incluiu entre suas supostas vítimas a Jentech Precision Industrial, empresa taiwanesa que se identifica como parceira da Nvidia no fornecimento de soluções de resfriamento para data centers de inteligência artificial (IA);\n- A possível relação entre os dois registros ainda não está esclarecida. Não há confirmação de que o incidente investigado pela Nvidia tenha ocorrido especificamente na Jentech ou de que informações da fabricante tenham sido comprometidas por meio desse fornecedor.\nQuem é o grupo The Gentlemen?\nA The Gentlemen surgiu em 2025 e opera no modelo de ransomware como serviço (RaaS, na sigla em inglês). Nesse formato, os responsáveis pela operação disponibilizam ferramentas e infraestrutura para outros criminosos realizarem ataques, em troca de uma parcela dos pagamentos obtidos.\nA organização utiliza estratégia conhecida como dupla extorsão. Além de criptografar os arquivos das vítimas, os invasores extraem informações e ameaçam publicá-las caso o resgate não seja pago.\nDe acordo com informações da Microsoft citadas pelo TechRadar, o programa malicioso do grupo foi desenvolvido na linguagem Go e possui recursos que permitem aos invasores se movimentar lateralmente pelas redes comprometidas, ampliando o alcance da infecção.\nA organização já reivindicou ataques contra empresas de diferentes setores, incluindo saúde, indústria, educação e serviços financeiros. Entre os casos mencionados pelo TechRadar estão um incidente no Caribbean Medical Center, em Porto Rico, que afetou aproximadamente 92 mil pessoas, e um ataque à fabricante estadunidense Gator Cases, em abril de 2026, que expôs informações de 1.171 indivíduos.\nÉ importante destacar que a inclusão de uma empresa no site de vazamentos do grupo não comprova, por si só, que o ataque tenha ocorrido.\nLeia mais:\n- Contabilidade da Nvidia é alvo de investigação nos Estados Unidos\n- Nvidia traz Jensen Huang de volta ao comando; ações sobem 31%\n- Alta da Nvidia impulsiona Nasdaq e ações de rivais de chips\nNvidia já foi alvo de ataques cibernéticos\nEsta não seria a primeira vez que a fabricante enfrenta incidente de segurança envolvendo informações corporativas.\nEm fevereiro de 2022, a Nvidia sofreu invasão atribuída ao grupo LAPSUS$. Na ocasião, os criminosos afirmaram ter obtido aproximadamente 1 TB de informações confidenciais, incluindo credenciais de funcionários e código proprietário.\nMais recentemente, em maio de 2026, a companhia confirmou a exposição de informações de usuários armênios após um ataque a um parceiro regional da plataforma GeForce NOW Alliance. Entre os dados afetados estavam nomes, endereços de e-mail, números de telefone, datas de nascimento e nomes de usuário.\nNaquele episódio, a Nvidia também esclareceu que sua própria rede e os serviços operados diretamente pela companhia não haviam sido comprometidos.\nPor enquanto, a investigação mais recente permanece em andamento. A eventual divulgação de arquivos em 28 de novembro poderá fornecer mais elementos para esclarecer o que aconteceu e se informações relacionadas à Nvidia realmente foram obtidas pelos criminosos.",
+    "autor_fonte": "Rodrigo Mozelli",
+    "site_fonte": "Olhar Digital",
+    "imagem_url": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia_logo.jpg",
+    "imagem_arquivo": "imagens/ciberseguranca-nvidia-investiga-possivel-vazamento-de-d.jpg",
+    "imagem_credito": "Olhar Digital",
+    "imagem_licenca": "© do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)",
+    "imagem_pagina": "https://olhardigital.com.br/2026/11/23/seguranca/nvidia-investiga-possivel-vazamento-de-dados-apos-ameaca-de-grupo-hacker/",
+    "status": "falhou",
+    "erro": "claude-cli: Claude Code CLI não instalado (npm i -g @anthropic-ai/claude-code) | gemini: GEMINI_API_KEY não definida (crie grátis em https://aistudio.google.com/apikey)",
+    "artigo": null,
+    "backend": null,
+    "alertas_automaticos": [
+      "Imagem protegida por direitos autorais do veículo de origem: confirmar autorização ou substituir por imagem livre antes de publicar."
+    ]
+  }
+]
