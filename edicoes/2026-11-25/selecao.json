@@ -1,0 +1,794 @@
+{
+  "medicina": [
+    {
+      "id": "d61b0871505c",
+      "titulo": "Two new studies point to advances in personalized lung cancer treatment",
+      "url": "https://medicalxpress.com/news/2026-11-advances-personalized-lung-cancer-treatment.html",
+      "resumo": "Lung cancer is the leading cause of cancer death in the United States, but for a growing number of patients, the outlook is improving. As Lung Cancer Awareness Month draws attention to the disease and advances in care, Marina Garassino, M.D., a thoracic oncologist at the University of Chicago Medicine, is helping push the field forward.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-24T17:20:10+00:00",
+      "coletado_em": "2026-11-24T20:10:18.169157+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-new-studies-point.jpg",
+      "score": 6.248,
+      "cobertura": []
+    },
+    {
+      "id": "9b79ddeb0885",
+      "titulo": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
+      "url": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
+      "resumo": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
+      "fonte": "STAT News",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-24T13:39:31+00:00",
+      "coletado_em": "2026-11-24T20:10:18.169973+00:00",
+      "imagem_feed": "https://www.statnews.com/wp-content/uploads/2015/12/FirstOp_ClinicalTrials-1024x576.jpg",
+      "score": 6.223,
+      "cobertura": []
+    },
+    {
+      "id": "ceb5cda465a5",
+      "titulo": "A new drug treatment for head and neck cancer",
+      "url": "https://medicalxpress.com/news/2026-11-drug-treatment-neck-cancer.html",
+      "resumo": "On Nov. 5, the U.S. Food and Drug Administration (FDA) approved the use of a new drug to treat head and neck cancer, the first in seven years. Called amivantamab, the drug is the first to target two growth receptors for head and neck cancer simultaneously, reducing the cancer's ability to adapt to the treatment. The FDA granted amivantamab accelerated approval because of the promising results it showed during clinical trials, which were led by Yale School of Medicine researchers.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-24T16:00:06+00:00",
+      "coletado_em": "2026-11-24T20:10:18.169157+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-drug-treatment-f.jpg",
+      "score": 6.122,
+      "cobertura": []
+    },
+    {
+      "id": "d6c658ddf366",
+      "titulo": "FDA approval offers a new endocrine therapy option for people with early-stage breast cancer",
+      "url": "https://medicalxpress.com/news/2026-11-fda-endocrine-therapy-option-people.html",
+      "resumo": "About 70% of breast cancers are hormone receptor-positive, meaning the cancer cells have receptors that allow hormones such as estrogen to promote their growth. For people with early-stage hormone receptor (HR)-positive, HER2-negative breast cancer, surgery is often followed by endocrine therapy to reduce the chance that the cancer will return. Depending on the patient, treatment can include tamoxifen or an aromatase inhibitor, often taken for five years or longer.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-24T15:20:13+00:00",
+      "coletado_em": "2026-11-24T20:10:18.169157+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2021/breast-cancer-1.jpg",
+      "score": 6.063,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "d8ed6012533f",
+      "titulo": "Scientists pinpoint DNA copying 'traffic jams' impacting genome stability",
+      "url": "https://phys.org/news/2026-11-scientists-dna-traffic-impacting-genome.html",
+      "resumo": "Creating an accurate copy of the genome—the entire length of DNA in a cell—is the fundamental step before cells can divide, the basis on which all life sits. Errors in that duplication process—including replication pauses—lead to natural genetic changes that underpin evolution, but also give rise to diseases such as cancer.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-24T19:00:07+00:00",
+      "coletado_em": "2026-11-24T20:10:18.171085+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-pinpoint-dn.jpg",
+      "score": 6.419,
+      "cobertura": []
+    },
+    {
+      "id": "c8dda13ed9e1",
+      "titulo": "Four decades of citizen science reveal widespread declines in native plant distributions in Japan",
+      "url": "https://phys.org/news/2026-11-decades-citizen-science-reveal-widespread.html",
+      "resumo": "A new study led by researchers at Kyushu University has found that nearly 45% of 1,864 native plant species surveyed across Kanagawa Prefecture, Japan, were recorded in fewer locations over approximately four decades. The findings, published in Communications Biology on Sept. 15, 2026, show how long-running citizen science surveys can reveal biodiversity changes that conventional assessments focused on threatened species may miss.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-24T17:00:09+00:00",
+      "coletado_em": "2026-11-24T20:10:18.171085+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-decades-of-citize.jpg",
+      "score": 5.215,
+      "cobertura": []
+    },
+    {
+      "id": "c079e77e65ac",
+      "titulo": "Designing and optimizing genetic circuits in biology",
+      "url": "https://phys.org/news/2026-11-optimizing-genetic-circuits-biology.html",
+      "resumo": "Although genetic circuits are important tools in synthetic biology and related fields, such as health care and sustainable manufacturing, designing them to function reliably can be challenging and often requires extensive laboratory testing and optimization.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-24T16:10:01+00:00",
+      "coletado_em": "2026-11-24T20:10:18.171085+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-circuits.jpg",
+      "score": 5.137,
+      "cobertura": []
+    },
+    {
+      "id": "5a8f2449dad9",
+      "titulo": "Planktonic hyperiidean amphipod confirmed in the Aegean Sea, and a new study shows how to identify subadult males",
+      "url": "https://phys.org/news/2026-11-planktonic-hyperiidean-amphipod-aegean-sea.html",
+      "resumo": "Amphipods change in size and shape each time they molt. When a species is told apart from its relatives by small anatomical details, this creates a practical problem: a trait that identifies an adult may be absent or different in the younger animal. A recently published study in Biodiversity Data Journal tests this problem on Phronima atlantica, a planktonic amphipod of the open ocean, and identifies which of its features stay reliable in males from the subadult to the adult stage.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-24T20:00:14+00:00",
+      "coletado_em": "2026-11-24T20:10:18.171085+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/planktonic-hyperiidean.jpg",
+      "score": 5.031,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "e7d218213534",
+      "titulo": "NVIDIA reinstates Jensen Huang after 11-day absence",
+      "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+      "resumo": "The NVIDIA board reversed its decision following discussions with Huang and senior U.S. government officials, amid growing pressure from the White House, investors and technology executives. The post NVIDIA reinstates Jensen Huang after 11-day absence appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-23T14:20:46+00:00",
+      "coletado_em": "2026-11-24T20:10:18.173201+00:00",
+      "imagem_feed": null,
+      "score": 6.257,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+        "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html"
+      ]
+    },
+    {
+      "id": "621bb9afafda",
+      "titulo": "Robotics Summit 2027 opens call for speakers",
+      "url": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+      "resumo": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more. The post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-24T18:03:37+00:00",
+      "coletado_em": "2026-11-24T20:10:18.173201+00:00",
+      "imagem_feed": null,
+      "score": 5.17,
+      "cobertura": []
+    },
+    {
+      "id": "6d7d5fab1d0a",
+      "titulo": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
+      "url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+      "resumo": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland. The post SoftBank acquires Marc Raibert’s Robotics and AI Institute appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-24T14:48:57+00:00",
+      "coletado_em": "2026-11-24T20:10:18.173201+00:00",
+      "imagem_feed": null,
+      "score": 4.868,
+      "cobertura": []
+    },
+    {
+      "id": "2ea0e52685b3",
+      "titulo": "Drones autônomos lançam vespas microscópicas para combater pragas agrícolas",
+      "url": "https://agencia.fapesp.br/drones-autonomos-lancam-vespas-microscopicas-para-combater-pragas-agricolas/59673",
+      "resumo": "Solução criada por startup apoiada pelo PIPE-FAPESP distribui os insetos benéficos com precisão nas lavouras, interrompendo o ciclo de lagartas antes da eclosão dos ovos e reduzindo o uso de agrotóxicos",
+      "fonte": "Agência FAPESP",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "robotica",
+        "astrofisica"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-24T20:10:18.189620+00:00",
+      "imagem_feed": null,
+      "score": 4.2,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "af9c759ad849",
+      "titulo": "Firefox 161.0 released",
+      "url": "https://lwn.net/Articles/1109478/",
+      "resumo": "Version 161.0 of the Firefox web browser has been released. Notable changes in this release include the ability to assign a shortcut to copy the current tab's URL, addition of a menu item for Tab Groups , and the built-in VPN can be turned off or on for specific sites . There are also a number of security fixes in this release.",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-24T16:18:02+00:00",
+      "coletado_em": "2026-11-24T20:10:18.174603+00:00",
+      "imagem_feed": null,
+      "score": 5.149,
+      "cobertura": []
+    },
+    {
+      "id": "3d839aa63148",
+      "titulo": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1109472/",
+      "resumo": "Security updates have been issued by AlmaLinux (aspell, curl, fence-agents, flatpak, flatpak-builder, freerdp, git-lfs, golang, grafana, grafana-pcp, gstreamer1-plugins-good, kernel, kernel-rt, libgsf, liblerc, mutter, netpbm, nodejs26, openssh, patch, perl-CGI, php, php:8.2, php:8.3, php:8.4, podman, python-oauthlib, python36:3.6, qt6-qtbase, rsync, ruby, ruby4.0, skopeo, sqlite, virt:rhel and virt-devel:rhel, wayland, webkit2gtk3, and xdg-desktop-portal), Debian (chromium, mediawiki, pymongo, and radsecproxy), Fedora (c-ares, clamav, libmodulemd, mimedefang, mycli, poppler, sqlite, tpm2-tss, xfsprogs, and xorg-x11-server-Xwayland), Gentoo (GPGME and GPL Ghostscript), Oracle (bind, bind9.18, cifs-utils, cockpit-files, cockpit-machines, curl, dovecot, edk2, expat, fence-agents, firefox, freerdp, gfs2-utils, grafana-pcp, java-1.8.0-openjdk, kernel, libgsf, librabbitmq, mingw-expat, netpbm, nginx, nodejs:26, openssh, perl-URI, php8.4, python-oauthlib, python3.9, qt5-qtbase, skopeo, sos, thunderbird, and xdg-desktop-portal), Red Hat (curl, libevent, libvirt, mariadb-connector-c, php8.4, php:8.2, python, python3, python3.11, python3.9, sssd, and thunderbird), SUSE (bind, cockpit, dpdk,",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-24T14:03:12+00:00",
+      "coletado_em": "2026-11-24T20:10:18.174603+00:00",
+      "imagem_feed": null,
+      "score": 4.955,
+      "cobertura": []
+    },
+    {
+      "id": "591498cac5dd",
+      "titulo": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
+      "url": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "New research from the Cloud Native Computing Foundation (CNCF) and Linux Foundation Research finds that VMs host an average of 53% of production applications, while emerging AI and agentic workloads are creating additional demand for virtualisation, particularly where stronger execution isolation is required. By Craig Risi",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-24T12:00:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.173787+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/cncf-vm-ai-workloads/en/headerimage/generatedHeaderImage-1794993904528.jpg",
+      "score": 4.947,
+      "cobertura": []
+    },
+    {
+      "id": "e1b37198c0b0",
+      "titulo": "OpenAI Scales Git for Coding Agents with Pando",
+      "url": "https://www.infoq.com/news/2026/11/openai-git-pando/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "OpenAI has detailed Pando, a new backend that scales Git for concurrent coding-agent workloads without replacing familiar Git workflows. The company reports nearly 80% lower median push latency by coordinating branch updates independently and reusing stored packfiles across fetches. By Eran Stiller",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-24T11:55:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.173787+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/openai-git-pando/en/headerimage/openai-pando-header-1795331180238.jpeg",
+      "score": 4.941,
+      "cobertura": [
+        "https://openai.com/business/customer-stories/ifood"
+      ]
+    }
+  ],
+  "hardware": [
+    {
+      "id": "b792d64f327c",
+      "titulo": "Jensen Huang returns to applause from employees at Nvidia HQ",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+      "resumo": "Jensen Huang returned to the office after being reinstated to CEO to cheers, according to videos spread on social media.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-23T21:00:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.175125+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/sDEMAVk3qrauvEM3EtLfHJ-1920-80.jpg",
+      "score": 6.725,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "b9a9df7f387f",
+      "titulo": "Jensen Huang retorna ao comando da Nvidia",
+      "url": "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+      "resumo": "Executivo assume os cargos de presidente e CEO. Jensen Huang retorna ao comando da Nvidia",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-23T14:26:09+00:00",
+      "coletado_em": "2026-11-24T20:10:18.195830+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/09/capa-tbr-jensen-huang.jpg",
+      "score": 6.109,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+        "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "dd033a45ee1c",
+      "titulo": "Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031",
+      "url": "https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/",
+      "resumo": "Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031 Comprar memória RAM em 2026 se tornou algo muito difícil por conta dos preços nas alturas. Com o setor de data center ficando com a maior parte da produção de DRAM, sobra cada vez menos para o mercado de consumo, algo que impacta a disponibilidade e o preço. A Samsung , uma das três maiores fabricantes desse componente, já tem pedidos fechados para o resto dessa década, direcionando boa parte da sua produção para os servidores . Segundo informações do portal sul-coreano Economy Tribune, a gigante já tem praticamente toda a sua capacidade de produção de semicondutores de memória reservada por meio de acordos para o período entre 2027 e 2029 . Diante da escassez prolongada impulsionada pela corrida da inteligência artificial, grandes compradores já negociam contratos de fornecimento de longo prazo que se estendem até 2031 . A demanda não se restringe às memórias HBM , essenciais para aceleradores de IA, mas atinge também a DRAM convencional, usada em PCs e servidores comuns , além de memórias NAND corporativas. No caso da DRAM, toda a capacidade de wafers prevista para 2027 já está praticamente esgotada",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-24T19:06:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.201324+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/UYhVPEZI8VKYzCnyrImDHytr6yA=/1200x675/smart/filters:format(webp):quality(85)/9e17cdf6-cf9b-44da-a2f1-fed325af4455.jpg",
+      "score": 5.98,
+      "cobertura": []
+    },
+    {
+      "id": "2dd73fac1781",
+      "titulo": "Jensen Huang confessed to more affairs before the board reinstated him as Nvidia CEO, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care",
+      "resumo": "Jensen Huang admitted to more affairs than the two that Nvidia's board members were already aware of before they agreed to let him return to the company as CEO, President, and board member, amid reports that one of the women involved is a Chinese spy.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-24T14:24:38+00:00",
+      "coletado_em": "2026-11-24T20:10:18.175125+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/XNZEYgk3a4MBRkDm2jky8N-1920-80.jpg",
+      "score": 5.634,
+      "cobertura": [
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html"
+      ]
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "8d0e58502c37",
+      "titulo": "Webb Reveals New Details in Supernova Remnant",
+      "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+      "resumo": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-24T16:51:27+00:00",
+      "coletado_em": "2026-11-24T20:10:18.175889+00:00",
+      "imagem_feed": null,
+      "score": 6.652,
+      "cobertura": []
+    },
+    {
+      "id": "d53362694930",
+      "titulo": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+      "resumo": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-24T19:19:52+00:00",
+      "coletado_em": "2026-11-24T20:10:18.175889+00:00",
+      "imagem_feed": null,
+      "score": 5.405,
+      "cobertura": []
+    },
+    {
+      "id": "7b9fce499d3b",
+      "titulo": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+      "resumo": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-24T13:58:28+00:00",
+      "coletado_em": "2026-11-24T20:10:18.175889+00:00",
+      "imagem_feed": null,
+      "score": 5.398,
+      "cobertura": []
+    },
+    {
+      "id": "4d0419b3dd8c",
+      "titulo": "Webb finds evidence star's layers may have merged just hours before Cas A supernova",
+      "url": "https://phys.org/news/2026-11-webb-evidence-star-layers-merged.html",
+      "resumo": "NASA's James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-23T22:20:01+00:00",
+      "coletado_em": "2026-11-24T20:10:18.176279+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-colorful-roughly-cir.jpg",
+      "score": 5.117,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "731bc1a45d52",
+      "titulo": "Quantum Art Appoints Mark Solomon and Tal Inbar to Business Development Roles",
+      "url": "https://thequantuminsider.com/2026/11/24/quantum-art-appoints-mark-solomon-tal-inbar-business-development/",
+      "resumo": "Insider Brief PRESS RELEASE — Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, today announced two additions to its leadership team: Mark Solomon has joined as Head of U.S. Strategic Growth and Business Development, and Tal Inbar has joined as Senior Vice […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-24T13:34:16+00:00",
+      "coletado_em": "2026-11-24T20:10:18.178320+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-24_18-19.png",
+      "score": 6.066,
+      "cobertura": []
+    },
+    {
+      "id": "7230346330fe",
+      "titulo": "New theoretical model allows for sustained entanglement between diamond qubits at greater separations",
+      "url": "https://phys.org/news/2026-11-theoretical-sustained-entanglement-diamond-qubits.html",
+      "resumo": "In a new study accepted in the journal Physical Review B, a team of physicists from the University of Delaware may have found a way to overcome limitations in maintaining the entanglement of diamond qubits. The model involves driving the qubits away from equilibrium using microwave radiation while the surrounding material is allowed to remain in equilibrium. The approach allows for both long-range and steady-state entanglement of the qubits. The paper is published on the arXiv preprint server.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-24T17:30:01+00:00",
+      "coletado_em": "2026-11-24T20:10:18.178672+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-theoretical-model.jpg",
+      "score": 5.764,
+      "cobertura": []
+    },
+    {
+      "id": "2d66a0b23e44",
+      "titulo": "Canadian Researchers Piece Together a Million-Qubit Quantum Chip",
+      "url": "https://thequantuminsider.com/2026/11/24/canadian-researchers-piece-together-a-million-qubit-quantum-chip/",
+      "resumo": "Insider Brief PRESS RELEASE — Researchers at the National Research Council (NRC) and the University of Warwick are taking an important step toward building practical quantum computers powerful enough to solve problems beyond the reach of today’s technology. The team has developed a new approach using the elements germanium and silicon to address one of […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-24T08:43:08+00:00",
+      "coletado_em": "2026-11-24T20:10:18.178320+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/qn-story-quantum-chip-banner-1170x400-1.jpg",
+      "score": 5.232,
+      "cobertura": []
+    },
+    {
+      "id": "a48fe90b77d9",
+      "titulo": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
+      "url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+      "resumo": "Insider Brief A quantum computer may one day serve as a computational partner to help chatbots predict what comes next, although scientists caution a lot of work remains. In an experiment, a team of researchers replaced eight layers of a large language model with a compact module that can run on a quantum processor, cutting […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-24T12:23:06+00:00",
+      "coletado_em": "2026-11-24T20:10:18.178320+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png",
+      "score": 4.976,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "c723a41a612f",
+      "titulo": "Jensen is back: Nvidia board reinstates Huang as CEO",
+      "url": "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+      "resumo": "The move marks a sharp reversal by the board. Chair Harvey C. Jones said last week that the company had no plans to reinstate Huang as CEO, a statement that came after Huang said he would be \"honored\" to return if the board wanted him back. Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-23T17:08:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.185168+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-23-ts3_thumbs-8a5.jpg",
+      "score": 5.82,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care",
+        "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "32af257829de",
+      "titulo": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "resumo": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
+      "fonte": "The Verge",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-24T20:02:03+00:00",
+      "coletado_em": "2026-11-24T20:10:18.186701+00:00",
+      "imagem_feed": null,
+      "score": 5.234,
+      "cobertura": [
+        "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+      ]
+    },
+    {
+      "id": "2dd73fac1781",
+      "titulo": "Jensen Huang confessed to more affairs before the board reinstated him as Nvidia CEO, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care",
+      "resumo": "Jensen Huang admitted to more affairs than the two that Nvidia's board members were already aware of before they agreed to let him return to the company as CEO, President, and board member, amid reports that one of the women involved is a Chinese spy.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-24T14:24:38+00:00",
+      "coletado_em": "2026-11-24T20:10:18.175125+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/XNZEYgk3a4MBRkDm2jky8N-1920-80.jpg",
+      "score": 5.134,
+      "cobertura": [
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html"
+      ]
+    },
+    {
+      "id": "4d2efe9e847c",
+      "titulo": "10 free ways to make your Windows PC harder to hack",
+      "url": "https://www.pcworld.com/article/2405341/10-free-ways-to-make-your-windows-pc-harder-to-hack.html",
+      "resumo": "Online safety doesn’t have to be complicated. With some simple steps, you can easily protect your PC from malware and safeguard your personal data with very little extra effort. The best part? None of these tips cost money. In fact, most important security tools you need are completely free . You can keep yourself and your PC safe online without spending a single dime. Here’s how. 1. Use an antivirus Antivirus software is a must-have for any PC. Thankfully, you don’t have to go out of your way to get one anymore because all Windows 11 and Windows 10 PCs come with Windows Security and Microsoft Defender , giving you access to a minimal-yet-capable antivirus. It automatically scans your system in the background and checks the files you download and the applications you run, spotting malware before it can take hold. You can go further and configure Microsoft Defender for extra security if you want. Or you could opt for a third-party antivirus, many of which come with extra security features . If you decide to take this route, know that we currently recommend Norton 360 Deluxe , but any antivirus will do if all you care about is basic protection. Recommended: The best antivirus softwar",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-24T14:00:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.179662+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2025/04/shutterstock_2269675573.jpg?quality=50&strip=all",
+      "score": 5.1,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "58c64dd3bfb5",
+      "titulo": "Agentic system personalizes physical controls to help users “DJ their art”",
+      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+      "resumo": "“TangiMap” uses an AI agent to reprogram how buttons, knobs, and sliders are used, helping users do things like edit photos and perform music in a more dynamic, tactile way.",
+      "fonte": "MIT News",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-24T19:30:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.187044+00:00",
+      "imagem_feed": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-csail-TangiMap.jpg?itok=eoPhYjUD",
+      "score": 6.224,
+      "cobertura": []
+    },
+    {
+      "id": "b7579835e4e7",
+      "titulo": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "resumo": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T16:57:40+00:00",
+      "coletado_em": "2026-11-24T20:10:18.188234+00:00",
+      "imagem_feed": null,
+      "score": 5.665,
+      "cobertura": [
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "aa93777566bc",
+      "titulo": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "resumo": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T15:04:01+00:00",
+      "coletado_em": "2026-11-24T20:10:18.188234+00:00",
+      "imagem_feed": null,
+      "score": 5.622,
+      "cobertura": [
+        "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    },
+    {
+      "id": "90f831b4fd3e",
+      "titulo": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "resumo": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "fonte": "TechCrunch",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-23T14:21:59+00:00",
+      "coletado_em": "2026-11-24T20:10:18.188234+00:00",
+      "imagem_feed": null,
+      "score": 5.608,
+      "cobertura": [
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://tecnoblog.net/noticias/jensen-huang-retorna-ao-comando-da-nvidia/",
+        "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+        "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/"
+      ]
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "0e6472ce3c10",
+      "titulo": "The mystery of sub-Neptunes – the planets we thought shouldn’t exist",
+      "url": "https://www.newscientist.com/article/2598445-the-mystery-of-sub-neptunes-the-planets-we-thought-shouldnt-exist/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Sub-Neptunes are the most abundant exoplanets, but are unlike anything in our solar system. We are finally gaining tantalising clues about what they are and how they came to be",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-24T16:00:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.227403+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320534148.jpg",
+      "score": 5.422,
+      "cobertura": []
+    },
+    {
+      "id": "287407328809",
+      "titulo": "Excess renewable energy could power new industrial processes",
+      "url": "https://techxplore.com/news/2026-11-excess-renewable-energy-power-industrial.html",
+      "resumo": "As the U.S. expands its reliance on renewable energy, a considerable amount of excess electricity will be generated by solar and wind power plants. A new study explores how this energy could potentially be harnessed by certain technologies or production processes, reducing costs and increasing energy efficiency.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-24T17:40:01+00:00",
+      "coletado_em": "2026-11-24T20:10:18.189154+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-renewableene.jpg",
+      "score": 5.281,
+      "cobertura": []
+    },
+    {
+      "id": "ef178ea5668e",
+      "titulo": "Poco X8 vs Poco X8 Pro: qual smartphone Xiaomi comprar?",
+      "url": "https://tecnoblog.net/guias/poco-x8-vs-poco-x8-pro-qual-smartphone-xiaomi-comprar/",
+      "resumo": "Comparamos os testes entre Poco X8 e Poco X8 Pro; descubra o que muda em desempenho, tela, câmeras e bateria Poco X8 vs Poco X8 Pro: qual smartphone Xiaomi comprar?",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-24T19:49:53+00:00",
+      "coletado_em": "2026-11-24T20:10:18.195830+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/guia-poco-x8-vs-poco-x8-pro.png",
+      "score": 4.711,
+      "cobertura": []
+    },
+    {
+      "id": "a7de7d1d0874",
+      "titulo": "Teste mostra que nitrogênio líquido apaga fogo em baterias de lítio até 55% mais rápido",
+      "url": "https://canaltech.com.br/carros/teste-mostra-que-nitrogenio-liquido-apaga-fogo-em-baterias-de-litio-ate-55-mais-rapido/",
+      "resumo": "Teste mostra que nitrogênio líquido apaga fogo em baterias de lítio até 55% mais rápido O nitrogênio líquido pode ser um ótimo aliado na hora de apagar incêndios em baterias de lítio. É o que mostrou uma nova análise, que revelou que o composto elimina as chamas até 55,1% mais rapidamente que o Novec 1230 , o agente extintor tradicionalmente usado em sistemas de combate a incêndios. E mais: o nitrogênio é também econômico, já que consome 83,2% menos produto. Os dados foram obtidos por meio de um experimento que simulou condições reais de superaquecimento extremo, conhecido como fuga térmica, em uma bateria LFP (lítio ferro fosfato) comercial de 314 Ah. Depois, os pesquisadores provocaram a fuga térmica, a reação em cadeia que faz com que a temperatura da bateria suba rapidamente , com risco de incêndio e explosão. Na média de todas as pressões avaliadas, a substância criogênica reduziu o tempo de combate às chamas em 47,3% e economizou 72,9% de agente extintor em comparação ao composto químico convencional. O desempenho superior se deve à física: o nitrogênio líquido absorve imensa quantidade de energia térmica ao evaporar enquanto dilui o oxigênio ao redor do foco das chamas. Port",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-24T16:00:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.201324+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/B5YdU1PhvVbZQya9kaZjjmfr3Ww=/1200x675/smart/filters:format(webp):quality(85)/ad778f6d-8b2f-4192-b90c-ddace20dabac.png",
+      "score": 4.172,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "1b052dde7fc4",
+      "titulo": "Rockstar negocia direitos de filme e série de Red Dead Redemption",
+      "url": "https://canaltech.com.br/entretenimento/rockstar-negocia-direitos-de-filme-e-serie-de-red-dead-redemption/",
+      "resumo": "Rockstar negocia direitos de filme e série de Red Dead Redemption A Rockstar Games busca ativamente estúdios interessados em produzir uma adaptação de Red Dead Redemption — sua franquia realista de velho-oeste. Rumores apontam que a desenvolvedora tenta negociar o licenciamento da propriedade intelectual por US$ 100 milhões. As informações foram divulgadas pelo The Ankler, que indica que nenhuma produtora adquiriu o projeto ainda. Porém, a iniciativa de levar a saga para Hollywood pode ser genuína, principalmente quando se veem tantas versões ganharem destaque. Só em 2026, vimos Resident Evil , Street Fighter e Mortal Kombat II nas telonas. O valor cobrado pela companhia é visto como “barato”, já que a Amazon pagou US$ 250 milhões em 2017 apenas para ter o direito de fazer uma série de O Senhor dos Anéis . Vale lembrar que o Red Dead Redemption 2 (2018) é um sucesso estrondoso, com 85 milhões de jogadores — o 3º mais vendido da história . De acordo com o vazamento, ela busca opções nos cinemas e em séries televisivas. Na prática, não há um formato “fechado”, e o estúdio norte-americano apenas quer ver as histórias de Arthur Morgan e John Marston ganharem vida de algum modo. Apesar ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-24T17:23:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.201324+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/Z8SyUTyAROc3Mx_tnja6SNm8rTA=/1200x675/smart/filters:format(webp):quality(85)/29db5098-dd18-49c3-9912-6a386e61d9e3.jpg",
+      "score": 4.302,
+      "cobertura": []
+    },
+    {
+      "id": "76e346dcf71d",
+      "titulo": "Port de GTA 6 para PC avança rápido graças a vazamento de build de Xbox Series X",
+      "url": "https://canaltech.com.br/games/port-de-gta-6-para-pc-avanca-rapido-gracas-a-vazamento-de-build-de-xbox-series-x/",
+      "resumo": "Port de GTA 6 para PC avança rápido graças a vazamento de build de Xbox Series X Apesar de 2026 ter tido grandes nomes como The Legend of Zelda: Ocarina of Time Remake e GTA 6 , o cenário de emulação tem sido um dos grandes destaques, com evoluções em tempo recorde. Em poucos dias, o game da Nintendo foi emulado e ganhou port para PC. Agora, chegou a vez do título da Rockstar, que já aparece sendo emulado, embora em um estado ainda não jogável . A comunidade atribui o início dos trabalhos do port não oficial de GTA 6 para PC ao vazamento da build de Xbox Series X feita pelo leaker CyberLeek . Isso aconteceu ontem (23) e diversos projetos de emulação do game já começaram. Um deles chegou no menu inicial do jogo, mas um outro, chamado de CGBJ, já mostra o gameplay inicial de Lucia na prisão, mesmo que a pouquíssimos quadros por segundo e com os gráficos bastante limitados . Além do CGBJ, outros quatro projetos disputam espaço nessa corrida: TuxBox e Xbox2Windows já conseguem inicializar o jogo e exibir os primeiros quadros, enquanto Victory e XCL avançaram até a tela inicial. Na compilação mais recente do CGBJ, já é possível movimentar a personagem com um controle, interagir com NPCs",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica",
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-24T16:09:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.201324+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/-Jbwaeubjne1UWRxg-OmgBDe0jI=/1200x675/smart/filters:format(webp):quality(85)/969f6b21-8c57-488b-b9a8-576053c44e36.jpg",
+      "score": 4.185,
+      "cobertura": []
+    },
+    {
+      "id": "8fc18645444d",
+      "titulo": "GTA 6 é inicializado no PC apenas três horas após vazamento de arquivos do Xbox",
+      "url": "https://olhardigital.com.br/2026/11/24/games-e-consoles/gta-6-pc-vazamento-xbox-inteligencia-artificial/",
+      "resumo": "Desenvolvedores utilizam ferramentas de inteligência artificial para criar versão não oficial do jogo, mas ainda não conseguiram acessar áreas jogáveis O post GTA 6 é inicializado no PC apenas três horas após vazamento de arquivos do Xbox apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-24T17:00:00+00:00",
+      "coletado_em": "2026-11-24T20:10:18.193780+00:00",
+      "imagem_feed": null,
+      "score": 4.115,
+      "cobertura": []
+    },
+    {
+      "id": "166c98ceebcb",
+      "titulo": "iPhone 18e pode mudar bastante de visual; veja o que esperar",
+      "url": "https://canaltech.com.br/smartphone/iphone-18e-pode-mudar-bastante-de-visual-veja-o-que-esperar/",
+      "resumo": "iPhone 18e pode mudar bastante de visual; veja o que esperar O iPhone 18e pode passar por uma mudança importante no visual e ficar mais parecido com os modelos mais caros da Apple. Imagens CAD obtidas pelo portal Engadget indicam que o celular deve ganhar um novo módulo de câmera traseiro, com formato quase quadrado. Os arquivos teriam sido compartilhados por uma fonte ligada à cadeia de produção da Apple, que já antecipou corretamente informações sobre cores de gerações anteriores do iPhone. iPhone 18e pode ganhar novo módulo de câmera A principal mudança aparece na traseira. O atual iPhone 17e não possui um módulo propriamente dito, já que a câmera fica praticamente integrada ao vidro, com apenas a lente protuberante. No iPhone 18e, a Apple pode adotar uma área elevada de aproximadamente 28 x 35 mm para abrigar a câmera principal, o flash LED e o microfone traseiro. Apesar do vazamento, não há imagens divulgadas de como o celular deve ficar. No entanto, é elaborado que o módulo lembra um pouco ao usado no iPad Pro com chip M5. Ainda assim, o iPhone 18e deve continuar com apenas uma câmera traseira. Curiosamente, esse novo visual pode ser exclusivo do modelo mais barato. Os mesmos",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-24T12:21:30+00:00",
+      "coletado_em": "2026-11-24T20:10:18.201324+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/cd4-XoR4qiFd6JAkbiERV86aZ3A=/1200x675/smart/filters:format(webp):quality(85)/83fc06ad-63c6-425d-a21e-cb57601035d3.png",
+      "score": 3.874,
+      "cobertura": []
+    }
+  ]
+}
