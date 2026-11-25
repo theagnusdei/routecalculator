@@ -1,0 +1,747 @@
+{
+  "medicina": [
+    {
+      "id": "3cc5071ce08d",
+      "titulo": "PET/CT imaging provides new insights into type 1 diabetes progression",
+      "url": "https://medicalxpress.com/news/2026-11-petct-imaging-insights-diabetes.html",
+      "resumo": "A novel molecular imaging approach that measures beta-cell mass in the pancreas can offer valuable insights into the progression of type 1 diabetes, according to new research published in the Journal of Nuclear Medicine. The study found that individuals who have had type 1 diabetes for less than seven years have higher total beta-cell mass and function, larger pancreatic volume and lower intrapancreatic fat compared to those who have had the disease for longer. This valuable information, paired with functional tests, has the potential to significantly improve clinical trials of new therapeutic interventions.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-25T18:30:06+00:00",
+      "coletado_em": "2026-11-25T19:17:23.730982+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/petct-imaging-provides.jpg",
+      "score": 6.461,
+      "cobertura": []
+    },
+    {
+      "id": "e98013862226",
+      "titulo": "Fiocruz promove seminário internacional sobre cannabis medicinal no Museu do Amanhã",
+      "url": "https://agencia.fiocruz.br/fiocruz-promove-seminario-internacional-sobre-cannabis-medicinal-no-museu-do-amanha",
+      "resumo": "Fiocruz promove seminário internacional sobre cannabis medicinal no Museu do Amanhã A Fiocruz e a Associação de Apoio à Pesquisa e Pacientes de Cannabis Medicinal (Apepi) promovem, no início de dezembro (5 e 6/12), a 4ª edição do Seminário Internacional Cannabis Medicinal: Um Olhar para o Futuro . O evento será realizado no Museu do Amanhã, no Rio de Janeiro, e tem como objetivo ampliar o diálogo entre ciência, sociedade civil e poder público, considerando o papel das associações de pacientes na garantia do direito à saúde e na construção de alternativas de acesso ao tratamento. Realizado pelo Programa Institucional de Políticas sobre Drogas, Direitos Humanos e Saúde Mental (PDHSM) da Presidência da Fiocruz, o evento traz quatro temas como eixos principais: a incorporação de tratamentos ao Sistema Único de Saúde (SUS); a ampliação do acesso; os avanços da pesquisa científica; e a regulamentação das associações de pacientes. Além disso, pretende aprofundar o debate sobre os desafios enfrentados pelas associações que atuam no acolhimento de pacientes e na produção de cannabis para fins terapêuticos, em especial, diante das demandas por regulamentação e segurança jurídica para essas i",
+      "fonte": "Agência Fiocruz",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-25T16:53:39+00:00",
+      "coletado_em": "2026-11-25T19:17:23.731990+00:00",
+      "imagem_feed": null,
+      "score": 6.442,
+      "cobertura": []
+    },
+    {
+      "id": "c8e691a78458",
+      "titulo": "Molecular backdoor destroys 'undruggable' protein driving rare childhood cancer",
+      "url": "https://medicalxpress.com/news/2026-11-molecular-backdoor-destroys-undruggable-protein.html",
+      "resumo": "A secret molecular backdoor let researchers from Penn State College of Medicine destroy a protein that drives a rare and often fatal bone and soft tissue cancer in children and adolescents that often returns in treatment-resistant forms. Now, just three years after the discovery, a Phase I clinical trial is underway and, once complete, a Phase II trial to test the approach's efficacy in patients will follow shortly thereafter.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-25T14:40:09+00:00",
+      "coletado_em": "2026-11-25T19:17:23.730982+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-backdoor-des.jpg",
+      "score": 6.081,
+      "cobertura": []
+    },
+    {
+      "id": "fa2688280e31",
+      "titulo": "Potential limits of breast cancer screening policies across Southeast Asia identified",
+      "url": "https://medicalxpress.com/news/2026-11-potential-limits-breast-cancer-screening.html",
+      "resumo": "In Southeast Asia, breast cancer screening could have limited potential to reduce breast cancer mortality due to screening age eligibility not aligning with the actual ages at which women develop the disease, according to a study by the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine).",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-25T18:40:06+00:00",
+      "coletado_em": "2026-11-25T19:17:23.730982+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-medicine-study-ide-1.jpg",
+      "score": 5.979,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "0764d90cc510",
+      "titulo": "Evolution's balancing act—keeping genes in sync after genome duplication",
+      "url": "https://phys.org/news/2026-11-evolution-genes-sync-genome-duplication.html",
+      "resumo": "Getting the right balance is important in all walks of life, whether it's a healthy combination of food groups in a balanced diet or a balanced mix of skills that allows a work or sports team to succeed.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-25T19:00:27+00:00",
+      "coletado_em": "2026-11-25T19:17:23.732570+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/evolutions-balancing-a.jpg",
+      "score": 6.018,
+      "cobertura": []
+    },
+    {
+      "id": "dec1169eaa2d",
+      "titulo": "DNA storage system holds data in living human cells and protects access with genetic decoys",
+      "url": "https://phys.org/news/2026-11-dna-storage-human-cells-access.html",
+      "resumo": "University of Texas at Dallas researchers have developed a method for securely storing data in the DNA of living human cells while protecting the information from unauthorized access. The researchers describe the technology in a paper published online Oct. 21 in Nature Communications.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-25T15:20:06+00:00",
+      "coletado_em": "2026-11-25T19:17:23.732570+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-storage-system-hol.jpg",
+      "score": 5.642,
+      "cobertura": []
+    },
+    {
+      "id": "9674d30d61ae",
+      "titulo": "Cells can adjust gene activity to partly offset extra or missing chromosomes",
+      "url": "https://phys.org/news/2026-11-cells-adjust-gene-offset-extra.html",
+      "resumo": "When a cell loses or gains an extra chromosome, the activity of hundreds or even thousands of genes is affected. A new study published in Nature Communications shows that cells have a much greater ability than previously thought to compensate for such changes. The findings provide new insight into how genes are regulated and may help improve our understanding of how cancer cells cope with major changes in their genetic material.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-25T18:20:01+00:00",
+      "coletado_em": "2026-11-25T19:17:23.732570+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/cells-can-compensate-f.jpg",
+      "score": 5.443,
+      "cobertura": []
+    },
+    {
+      "id": "add56af713fb",
+      "titulo": "Genetic analysis reveals peak orchid root fungal diversity at one of the most biodiverse places on Earth",
+      "url": "https://phys.org/news/2026-11-genetic-analysis-reveals-peak-orchid.html",
+      "resumo": "The fungal communities living in the roots of epiphytic orchids vary with altitude, location and orchid species, according to research published in the journal Microbial Ecology. The study, conducted in Podocarpus National Park in southern Ecuador, found that mid-elevation forests harbor the greatest diversity of these microorganisms, while their richness decreases at higher elevations and their community composition differs.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-25T12:40:01+00:00",
+      "coletado_em": "2026-11-25T19:17:23.732570+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-combined-effects-o.jpg",
+      "score": 5.414,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "eae8a16c0982",
+      "titulo": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+      "resumo": "On 5 November, 10 teams descended upon a 52-acre mock town in College Station, Texas called Disaster City . They were there for a nine-day competition to see how well teams of robots and humans could navigate simulated catastrophes, like a market ravaged by a tornado and a nighttime strike on a military base. At stake? US $2.5 million in prize money. The scenarios were the final of the DARPA Triage Challenge , which the U.S. agency has been running for three years with the goal of saving more lives in urgent mass casualty events. Engineers from academia and industry have competed in elaborately staged mass casualty events , such as simulated combat zones and plane crash scenes. Teams spent years designing systems where autonomous ground robots and drones could help first responders find mock victims and decide the best way to care for them. “Triage is all about resources,” says Jeremy Pamplin , who managed the challenge for DARPA. Pamplin is a critical care physician and retired colonel who spent 28 years in the U.S. Army. In mass casualty events, medics race to assess trauma with finite resources and limited time. Some victims need urgent help that medics can provide immediately, ",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-25T15:00:03+00:00",
+      "coletado_em": "2026-11-25T19:17:23.734658+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-helmeted-woman-calling-out-to-a-quadruped-robot-during-a-simulated-field-disaster.jpg?id=68752154&width=980",
+      "score": 6.211,
+      "cobertura": []
+    },
+    {
+      "id": "60b2be1be2ba",
+      "titulo": "Swarm intelligence for surfaces: Miniature robots bring artificial skin to life",
+      "url": "https://techxplore.com/news/2026-11-swarm-intelligence-surfaces-miniature-robots.html",
+      "resumo": "From responsive textiles that create a new tactile experience in gaming to interactive displays, soft robotic arms and intelligent factory conveyor systems—miniature robots made from thin polymer films could provide surfaces with a whole range of new and useful functions. Professor Gianluca Rizzello's research group at Saarland University is studying how such film-based robots work together beneath a silicone skin, acting collectively like artificial muscles and sensory nerves. Lightweight, flexible and powered solely by electricity, the system requires no bulky hydraulic or pneumatic equipment, external sensors, cameras or tangles of cables.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-25T17:00:19+00:00",
+      "coletado_em": "2026-11-25T19:17:23.735518+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/phd-students-saverio-a.jpg",
+      "score": 4.803,
+      "cobertura": []
+    },
+    {
+      "id": "d43a285e7545",
+      "titulo": "How Vention is cutting factory programming from weeks to minutes",
+      "url": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
+      "resumo": "Etienne Lacroix explains why AI deployment—not just better models—will define the future of industrial automation. The post How Vention is cutting factory programming from weeks to minutes appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-25T18:24:42+00:00",
+      "coletado_em": "2026-11-25T19:17:23.735350+00:00",
+      "imagem_feed": null,
+      "score": 4.801,
+      "cobertura": []
+    },
+    {
+      "id": "73a9b25fccb2",
+      "titulo": "FCC should focus on robot security, not country of origin",
+      "url": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
+      "resumo": "Where a robot was assembled tells you little about who controls it once it's deployed, writes Brain Corp CEO David Pinn. The post FCC should focus on robot security, not country of origin appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-25T17:00:07+00:00",
+      "coletado_em": "2026-11-25T19:17:23.735350+00:00",
+      "imagem_feed": null,
+      "score": 4.652,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "c30cdd38355c",
+      "titulo": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1109650/",
+      "resumo": "Security updates have been issued by AlmaLinux (emacs, go-toolset:rhel8, xorg-x11-server-Xwayland, and yggdrasil-worker-package-manager), Debian (flatpak, libeot, libzstd, mapserver, rails, request-tracker5, and runc), Fedora (age, chromium, cri-o1.35, cri-o1.36, cri-o1.37, fluxbox, git-annex, libreswan, mariadb-connector-c, mimedefang, mycli, nextcloud, openssh, perl-Data-Dump, php-smarty4, python-pydantic, python-pydantic-core, sbsigntools, and sqlite), Mageia (awslc, haproxy, java-11-openjdk, java-1.8.0-openjdk, miniupnpc, perl-Imager, python3-loguru, and scapy), Oracle (.NET 10.0, .NET 8.0, .NET 9.0, aspell, bind, buildah, cockpit, dogtag-pki, dovecot, emacs, fence-agents, fetchmail, flatpak, freerdp, gcc-toolset-15-gcc, glib2, go-fdo-server, grafana, gstreamer1-plugins-base, gstreamer1-plugins-good, guava, ipa, librsvg2, libXi, libXrender, mysql8.4, NetworkManager, openexr, openssh, perl-CGI, python-oauthlib, rsync, ruby, tesseract, tomcat9, util-linux, xdg-dbus-proxy, and xorg-x11-server), Slackware (mozilla-firefox and mozilla-thunderbird), SUSE (alsa, aws-nitro-enclaves-cli, bson-devel, busybox, chromedriver, chromium, efivar-39, epiphany, gegl, golang-github-prometheus-pro",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-25T14:06:22+00:00",
+      "coletado_em": "2026-11-25T19:17:23.736581+00:00",
+      "imagem_feed": null,
+      "score": 5.532,
+      "cobertura": []
+    },
+    {
+      "id": "f4a2d2569db8",
+      "titulo": "Reitoria da USP recebe secretários estaduais de ciência e tecnologia durante fórum nacional",
+      "url": "https://jornal.usp.br/institucional/reitoria-da-usp-recebe-secretarios-estaduais-de-ciencia-e-tecnologia-durante-forum-nacional/",
+      "resumo": "Encontro integrou a programação da \"3ª Reunião Anual do Fórum Consecti 2026\" e incluiu apresentações institucionais da Universidade, do Instituto Butantan, do IPT e do Ipen",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-25T15:57:53+00:00",
+      "coletado_em": "2026-11-25T19:17:23.753675+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261124_3a-CONSECTI_Foto-Marcos-Santos_MG_9157-15-1024x538.jpg",
+      "score": 5.0,
+      "cobertura": []
+    },
+    {
+      "id": "befc49c82927",
+      "titulo": "Debian wakes up wearing Windows XP's actual skin",
+      "url": "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111",
+      "resumo": "Win4Wine runs the genuine Explorer shell atop Linux",
+      "fonte": "The Register",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-25T13:23:32+00:00",
+      "coletado_em": "2026-11-25T19:17:23.736334+00:00",
+      "imagem_feed": "https://image.theregister.com/?imageId=5312115&width=800",
+      "score": 4.973,
+      "cobertura": []
+    },
+    {
+      "id": "6f937299d9db",
+      "titulo": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "resumo": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "fonte": "Ars Technica",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-25T18:38:29+00:00",
+      "coletado_em": "2026-11-25T19:17:23.736206+00:00",
+      "imagem_feed": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+      "score": 4.776,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "671298c24537",
+      "titulo": "7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak",
+      "url": "https://www.tomshardware.com/pc-components/cpus/7-new-intel-nova-lake-s-core-ultra-4000-series-cpus-detailed-in-new-leak-lineup-includes-5-5ghz-ultra-9-4970k-bfc-ahead-of-the-expected-february-2027-release",
+      "resumo": "A number of new, unannounced Intel Core Ultra 4000-series chips have been detailed in a Nova Lake document, ahead of what is expected to be an official unveiling of the chips at a next-generation desktop chip event in Berlin, Germany, in February 2027.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-25T15:30:00+00:00",
+      "coletado_em": "2026-11-25T19:17:23.737047+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/229FoESMtHATGsTaPQxpLj-1920-80.jpg",
+      "score": 5.307,
+      "cobertura": []
+    },
+    {
+      "id": "6a0714a89a88",
+      "titulo": "Husband of Jensen Huang’s mistress has much more significant Chinese intelligence connections than her, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/husband-of-jensen-huangs-mistress-has-much-more-significant-chinese-intelligence-connections-than-her-report-claims-us-officials-warn-he-was-asset-with-ministry-of-state-security-connections",
+      "resumo": "The husband of alleged Chinese spy Alice Huang, the former Megaspeed employee who was involved in an affair with Nvidia CEO Jensen Huang, has even stronger ties to the Chinese intelligence services, U.S. intelligence officials have told Congress.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-25T13:11:02+00:00",
+      "coletado_em": "2026-11-25T19:17:23.737047+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/YtB9RGwrLiZvKMoFdZYGtD-1920-80.jpg",
+      "score": 5.106,
+      "cobertura": []
+    },
+    {
+      "id": "0fb858e525ea",
+      "titulo": "Inteligência artificial amplia riscos de fraudes corporativas e exige novos mecanismos de controle",
+      "url": "https://jornal.usp.br/radio-usp/inteligencia-artificial-amplia-riscos-de-fraudes-corporativas-e-exige-novos-mecanismos-de-controle/",
+      "resumo": "Incorporação da tecnologia à rotina das empresas exige reforço dos controles internos, capacitação dos funcionários e supervisão dos sistemas",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-25T16:57:29+00:00",
+      "coletado_em": "2026-11-25T19:17:23.753675+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2021/04/20210427_inteligencia-artificial-1024x538.jpg",
+      "score": 5.098,
+      "cobertura": []
+    },
+    {
+      "id": "7a295ee99125",
+      "titulo": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz",
+      "url": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen",
+      "resumo": "AMD's Radeon RX 9060 XT has reached a new GPU frequency world record of 4,837 MHz. AMD VP Jack Huynh and veteran overclocker Bill Alverson used liquid nitrogen cooling to help the smaller RDNA 4 GPU open a 48MHz gap over the previous world record run.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-25T11:30:00+00:00",
+      "coletado_em": "2026-11-25T19:17:23.737047+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/xZuigq5Szn7wTRX8pM9SwP-1920-80.jpg",
+      "score": 4.975,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "1d9cf67cf255",
+      "titulo": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+      "resumo": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-25T14:56:54+00:00",
+      "coletado_em": "2026-11-25T19:17:23.737696+00:00",
+      "imagem_feed": null,
+      "score": 7.556,
+      "cobertura": [
+        "https://phys.org/news/2026-11-nasa-hubble-views-ocean-stars.html"
+      ]
+    },
+    {
+      "id": "e0250b6be828",
+      "titulo": "NASA's Hubble views ocean of stars in groundwork for Roman",
+      "url": "https://phys.org/news/2026-11-nasa-hubble-views-ocean-stars.html",
+      "resumo": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy's disk. These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-25T18:50:01+00:00",
+      "coletado_em": "2026-11-25T19:17:23.738034+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-and-white-stars-f.jpg",
+      "score": 7.498,
+      "cobertura": [
+        "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
+      ]
+    },
+    {
+      "id": "8d2b6f887c4c",
+      "titulo": "A cosmically close supernova may spill the stellar explosion’s secrets",
+      "url": "https://www.sciencenews.org/article/close-supernova-secrets-white-dwarf",
+      "resumo": "In early November, astronomers caught a nearby supernova. They soon realized it was something special and started scrambling to study it.",
+      "fonte": "Science News",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-25T17:00:00+00:00",
+      "coletado_em": "2026-11-25T19:17:23.785480+00:00",
+      "imagem_feed": "https://media.sciencenews.org/wp-content/uploads/sites/2/2026/11/112326_MB_supernova_main.jpg?w=800",
+      "score": 5.752,
+      "cobertura": []
+    },
+    {
+      "id": "660b4829d45d",
+      "titulo": "Empresas ampliam participação brasileira em projeto do Telescópio Gigante de Magalhães",
+      "url": "https://jornal.usp.br/universidade/empresas-ampliam-participacao-brasileira-em-projeto-do-telescopio-gigante-de-magalhaes/",
+      "resumo": "Quatro empresas do Brasil participaram de encontro internacional para apresentar os requisitos técnicos e as perspectivas de contratação relacionados à construção do domo do telescópio",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-25T16:49:52+00:00",
+      "coletado_em": "2026-11-25T19:17:23.753675+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2020/09/20200916_00_telescopio_magalhaes2.jpg",
+      "score": 5.085,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "260f5b2ac9d3",
+      "titulo": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
+      "url": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
+      "resumo": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, is partnering with QAI Co., Ltd., a South Korean quantum-AI data center and cloud infrastructure company, to deliver an IQM Radiance R3 54-qubit quantum computer. The order covers a complete on-premises quantum computing solution for QAI’s data center, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-25T18:08:13+00:00",
+      "coletado_em": "2026-11-25T19:17:23.739891+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-25_23-06.png",
+      "score": 6.571,
+      "cobertura": []
+    },
+    {
+      "id": "3c6095327d54",
+      "titulo": "New quantum network entangles 123 qubits that store information in atoms' positions",
+      "url": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
+      "resumo": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process. Their study, published in Physical Review Letters, describes a new platform for manipulating entangled atomic networks in measurement-based quantum computation—a process usually hindered by difficulties manipulating only one atom or one group of atoms at a time.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-25T18:00:15+00:00",
+      "coletado_em": "2026-11-25T19:17:23.740194+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-build-123.jpg",
+      "score": 6.407,
+      "cobertura": []
+    },
+    {
+      "id": "6f02850c697a",
+      "titulo": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
+      "url": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+      "resumo": "Insider Brief PRESS RELEASE — ARQUE Systems, a Jülich–Aachen spin-off, aims to overcome a major hurdle in quantum computing using innovative quantum semiconductor technology. As part of the € 35 million Q-STAR.NRW project, their approach will now be tested with up to 200 qubits, helping to stimulate value creation in the Rhenish mining area. The development […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-25T10:18:34+00:00",
+      "coletado_em": "2026-11-25T19:17:23.739891+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-25_15-03.png",
+      "score": 5.891,
+      "cobertura": []
+    },
+    {
+      "id": "731bc1a45d52",
+      "titulo": "Quantum Art Appoints Mark Solomon and Tal Inbar to Business Development Roles",
+      "url": "https://thequantuminsider.com/2026/11/24/quantum-art-appoints-mark-solomon-tal-inbar-business-development/",
+      "resumo": "Insider Brief PRESS RELEASE — Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, today announced two additions to its leadership team: Mark Solomon has joined as Head of U.S. Strategic Growth and Business Development, and Tal Inbar has joined as Senior Vice […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-24T13:34:16+00:00",
+      "coletado_em": "2026-11-25T19:17:23.739891+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-24_18-19.png",
+      "score": 5.059,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "fdd624e7f54c",
+      "titulo": "Best Windows backup software for PCs and laptops",
+      "url": "https://www.pcworld.com/article/407021/best-windows-backup-software.html",
+      "resumo": "By now, the importance of backing up your Windows PC or laptop goes without saying. Just take a moment to consider how much of your data is at potential risk of a drive failure, natural disaster, or a bad actor, if you don’t have a solid backup plan in place. The best Windows backup software includes file backup, sure, but also disk imaging and full image restore, as well as disaster recovery. Our picks for best Windows backup software are selected with all the must-haves of data backup and recovery in mind, so in the tragic event that your primary local data repository is compromised, you’re fully covered. What backup utilities come with Windows? Sadly, while other operating systems make backup easy, Microsoft saddles users with a patchwork system of utilities and holdover imaging tools from Windows 7. Some of these work well (Restore Points, File History), others don’t (System Repair Disc, Recovery Drive). None are suitable for quick and easy disaster recovery — even the online backup that is available when you use Windows with a Microsoft cloud account. Thankfully, there are a number of highly capable and far more reliable third-party backup options for Windows that cover the pa",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-25T16:00:00+00:00",
+      "coletado_em": "2026-11-25T19:17:23.741111+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/10/407021-0-47883400-1793289633-backup-software_aufmacher.png",
+      "score": 5.854,
+      "cobertura": []
+    },
+    {
+      "id": "8454bb7d7e0c",
+      "titulo": "Best Black Friday Chromebook deals: Real bargains are rare, but we found them",
+      "url": "https://www.pcworld.com/article/1377179/best-black-friday-chromebook-deals-2026.html",
+      "resumo": "Black Friday deals have arrived! I’ve collected the best deals on Chromebooks for years, and I’m here once again to dig out the best Chromebook deals for Black Friday. I’m going to warn you, though — this job is harder than ever. You’re probably aware of how laptop prices have skyrocketed because of the shortages of memory and storage, and unfortunately those trends are affecting Chromebooks as well. There are deals, but they’re tougher to find. I’m going to continue a trend I began last year, listing a couple of refurbished Chromebooks first in case you want some truly deep discounts. I’ll move on to budget Chromebooks, and then midrange and premium Chromebooks. If I were buying a Chromebook, I’d want one with at least 8GB of memory, and I’d want it for about $250. Unfortunately, I think that you’re going to be forced to pay more than that, but I’ll do my best to guide you to the best values overall, with an explanation of why I chose each deal. Check out our list of the best Chromebooks for more ideas. (I also found a deal on Google’s new Googlebook laptops, listed below.) Deals at a glance Best refurbished Chromebook: Dell Chromebook 11 3100 (Renewed), (Celeron N4020/4GB RAM/16G",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-25T19:09:44+00:00",
+      "coletado_em": "2026-11-25T19:17:23.741111+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/1377179-0-71975700-1794921596-Chromebook-deals-pcworld.png",
+      "score": 5.685,
+      "cobertura": [
+        "https://www.tomshardware.com/live/news/best-black-friday-2026-3d-printer-deals",
+        "https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals-prebuilts-2026",
+        "https://www.tomshardware.com/software/vpn/the-best-vpn-deals-2026",
+        "https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-2026",
+        "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-2026",
+        "https://www.tomshardware.com/live/news/black-friday-2026",
+        "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-dell-msi-alienware-rog"
+      ]
+    },
+    {
+      "id": "76877cab69b0",
+      "titulo": "Best Black Friday laptop deals 2026: Save on notebooks while you can",
+      "url": "https://www.pcworld.com/article/1382155/best-black-friday-laptop-deals-2026.html",
+      "resumo": "Deals at a glance Top laptop deals • Under $500: Acer Aspire Lite 15 , $474.98 ($325.01 off at Amazon) • Under $800: Acer Aspire 14 AI , $649.99 ($200 off at Amazon) • Gaming: Lenovo LOQ , $1,049.99 ($450 off at Best Buy) • Premium: Microsoft Surface Laptop , $924.46 ($325.53 off at Amazon) Finding a top-tier laptop without paying full price is always tough, especially now given the, um, current climate . Fortunately Black Friday sales are here! How we choose Black Friday deals I’ve been overseeing PCWorld’s laptop reviews for years now, assisting our team in carefully evaluating hundreds of laptops of all shapes and sizes (price points, too!). In addition to this effort, I also maintain our laptop deals roundup on a daily basis and our best laptops roundup on a weekly basis, so I’m pretty tuned in to what’s going on in laptop land. If you’re curious about our methodology, go ahead and check out our comprehensive explainer piece on how we test laptops . Updated November 25, 2026 to include the latest deals and prices. Black Friday laptop deals under $500 Acer Acer Aspire Lite 15 , $474.98 ($325.01 off at Amazon) Who is this for? The Acer Aspire Lite is perfect for anyone who wants ",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-25T13:23:00+00:00",
+      "coletado_em": "2026-11-25T19:17:23.741111+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/1382155-0-31917100-1794921700-Untitled-design-6.jpg?quality=50&strip=all",
+      "score": 5.622,
+      "cobertura": [
+        "https://www.tomshardware.com/live/news/best-black-friday-2026-3d-printer-deals",
+        "https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals-prebuilts-2026",
+        "https://www.tomshardware.com/monitors/gaming-monitors/here-are-the-best-oled-gaming-monitor-deals-you-can-snag-for-black-friday-beautiful-monitors-up-to-39-percent-off",
+        "https://www.tomshardware.com/software/vpn/the-best-vpn-deals-2026",
+        "https://www.tomshardware.com/pc-components/microsd-cards/best-nintendo-switch-2-microsd-express-card-deals-2026",
+        "https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-2026",
+        "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-2026",
+        "https://www.tomshardware.com/live/news/black-friday-2026",
+        "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-dell-msi-alienware-rog",
+        "https://www.tomshardware.com/live/news/black-friday-2026-monitors"
+      ]
+    },
+    {
+      "id": "9fade8309713",
+      "titulo": "Your Windows 11 PC is getting a speed boost thanks to major RAM cuts",
+      "url": "https://www.pcworld.com/article/3297540/microsofts-own-programmes-are-using-up-the-computers-memory-the-problem-is-now-being-fixed.html",
+      "resumo": "At the Ignite developer conference, Microsoft shared more details about its efforts to reduce memory usage in Windows 11, reports Windows Latest . According to the company, the Defender security program, the OneDrive cloud storage service, and the Purview data protection service now collectively use over 500 MB less RAM than before. Memory usage in Microsoft 365 has also been reduced by 360 MB. To achieve this, Microsoft reviewed which components need to be loaded into RAM and how different components can share resources. Rising memory prices are one of the reasons why Microsoft is focusing on improving performance on computers with 8 or 16 GB of RAM. However, users with better-equipped computers should also be able to benefit from these optimizations. Some of these improvements already rolled out as part of the October update for Windows 11.",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-25T18:03:59+00:00",
+      "coletado_em": "2026-11-25T19:17:23.741111+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/3286957-0-16128000-1794848580-Windows-11-logo-skewed-captured-from-laptop-screen.jpg?quality=50&strip=all",
+      "score": 5.564,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "78aecac727ce",
+      "titulo": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular",
+      "url": "https://canaltech.com.br/software/one-ui-95-vai-ganhar-recurso-de-ia-que-melhora-fotos-com-zoom-no-celular/",
+      "resumo": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular A Samsung está desenvolvendo uma ferramenta de inteligência artificial (IA) capaz de melhorar a qualidade de fotografias tiradas com zoom nos celulares Galaxy. O “ Zoom Enhancer” permitirá aprimorar a nitidez de imagens diretamente na Galeria do celular, mesmo após a captura. A novidade foi identificada pelo SamMobile nesta quarta-feira (25) na primeira versão beta da One UI 9.5 para a linha Galaxy S26. A ferramenta ainda está oculta no sistema e não pode ser acessada pelos participantes do programa de testes. Como funciona o Zoom Enhancer da Samsung? Diferentemente do zoom óptico, que utiliza as lentes da câmera para aproximar uma cena, o zoom digital recorta e amplia uma parte da imagem capturada pelo sensor. Esse processo pode resultar na perda de detalhes e na redução da nitidez da fotografia. O Zoom Enhancer utilizará o Galaxy AI para aprimorar tanto fotos tiradas com altos níveis de zoom quanto imagens de baixa resolução. Após ativar o recurso nas configurações da Galeria, o aplicativo deverá identificar automaticamente fotografias que podem ser aprimoradas e sugerir a edição. Nos exemplos divulgados pe",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-25T18:20:03+00:00",
+      "coletado_em": "2026-11-25T19:17:23.762360+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/3hShOrfeLCWGiatLHyRK_9fThpU=/1200x675/smart/filters:format(webp):quality(85)/1f9fa76d-6cab-43ef-a9cb-9242363bc6fc.png",
+      "score": 5.493,
+      "cobertura": []
+    },
+    {
+      "id": "37b5c9ba9326",
+      "titulo": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "resumo": "",
+      "fonte": "Hugging Face",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-25T18:52:55+00:00",
+      "coletado_em": "2026-11-25T19:17:23.751627+00:00",
+      "imagem_feed": null,
+      "score": 5.353,
+      "cobertura": []
+    },
+    {
+      "id": "ca8fcdbec9de",
+      "titulo": "AI’s stunning progress in maths shows how little we understand it",
+      "url": "https://www.newscientist.com/article/2600491-ais-stunning-progress-in-maths-shows-how-little-we-understand-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The biggest problem in maths has been cracked by AI, but it remains impossible to predict how its capabilities will advance in other fields",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-25T18:00:00+00:00",
+      "coletado_em": "2026-11-25T19:17:23.784431+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321427795.jpg",
+      "score": 5.206,
+      "cobertura": []
+    },
+    {
+      "id": "0fb858e525ea",
+      "titulo": "Inteligência artificial amplia riscos de fraudes corporativas e exige novos mecanismos de controle",
+      "url": "https://jornal.usp.br/radio-usp/inteligencia-artificial-amplia-riscos-de-fraudes-corporativas-e-exige-novos-mecanismos-de-controle/",
+      "resumo": "Incorporação da tecnologia à rotina das empresas exige reforço dos controles internos, capacitação dos funcionários e supervisão dos sistemas",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-25T16:57:29+00:00",
+      "coletado_em": "2026-11-25T19:17:23.753675+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2021/04/20210427_inteligencia-artificial-1024x538.jpg",
+      "score": 5.098,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "b484c10ebc52",
+      "titulo": "Wolf pack approach to wind and solar power",
+      "url": "https://techxplore.com/news/2026-11-wolf-approach-solar-power.html",
+      "resumo": "Researchers have developed a new way of managing electricity supplies that could help keep power grids stable as they become more dependent on wind and solar energy. Details of the algorithmic approach, which is based on the hunting behavior of a wolf pack, are reported in the International Journal of Critical Infrastructures.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-25T17:50:04+00:00",
+      "coletado_em": "2026-11-25T19:17:23.752103+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/power-grid-5.jpg",
+      "score": 5.389,
+      "cobertura": []
+    },
+    {
+      "id": "73c772cc75c6",
+      "titulo": "Nano-links stitch perovskite solar cell layers together, boosting stability while preserving efficiency",
+      "url": "https://techxplore.com/news/2026-11-nano-links-perovskite-solar-cell.html",
+      "resumo": "A research team at The Hong Kong University of Science and Technology (HKUST) has developed a novel interface engineering technology that addresses performance degradation in perovskite solar cells caused by interfacial mechanical failure. By forming nano-link networks across and within the interfacial layers of the solar cell, the technology significantly improves the mechanical reliability and stability of the devices while maintaining high power conversion efficiency.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-25T15:40:06+00:00",
+      "coletado_em": "2026-11-25T19:17:23.752103+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/trans-interface-engine-1.jpg",
+      "score": 5.172,
+      "cobertura": []
+    },
+    {
+      "id": "1c46ddfc655e",
+      "titulo": "Bug ou desgaste real? One UI 9.5 vai resolver falha na bateria de celulares Galaxy",
+      "url": "https://canaltech.com.br/software/bug-ou-desgaste-real-one-ui-95-vai-resolver-falha-na-bateria-de-celulares-galaxy/",
+      "resumo": "Bug ou desgaste real? One UI 9.5 vai resolver falha na bateria de celulares Galaxy A Samsung deve corrigir um problema relacionado à saúde da bateria de celulares Galaxy com o lançamento da One UI 9.5. Desde a chegada da One UI 9.0, usuários relatam quedas anormais no percentual de saúde da bateria , inclusive em smartphones com poucas semanas de uso. A informação sobre a correção foi compartilhada nesta quarta-feira (25) pela equipe de suporte da Samsung na Turquia após um usuário enviar um relatório de erro pelo aplicativo Samsung Members. Em uma publicação no fórum da fabricante, o usuário relata casos de celulares que passaram a indicar 94% de saúde da bateria após apenas um mês de uso . A resposta da Samsung chegou cerca de duas semanas depois do envio do relatório. Bug ou desgaste prematuro da bateria? A Samsung não esclareceu se o problema está relacionado a um erro no cálculo da saúde da bateria ou se a One UI 9.0 está contribuindo para a degradação acelerada do componente. A saúde da bateria indica quanto da capacidade original de armazenamento de energia o componente ainda preserva. A tendência é que esse percentual diminua conforme o smartphone acumula ciclos de carregam",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "medicina",
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-25T17:32:00+00:00",
+      "coletado_em": "2026-11-25T19:17:23.762360+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/V2AGqa_GAXbJ67uEhfKMaDMSjHc=/1200x675/smart/filters:format(webp):quality(85)/84926d77-53de-4b20-94a1-d78cce54dc3f.png",
+      "score": 4.407,
+      "cobertura": []
+    },
+    {
+      "id": "c945ebcc524d",
+      "titulo": "Researchers use data from 130 wells worldwide to speed up drilling-fluid solids checks",
+      "url": "https://techxplore.com/news/2026-11-wells-worldwide-drilling-fluid-solids.html",
+      "resumo": "As the world faces ongoing pressure to secure reliable energy supplies while controlling costs and improving operational efficiency, even small delays in drilling operations can have significant consequences. For oil, gas and geothermal drilling, one of the routine but important checks is determining how much solid material is present in the drilling fluid.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-25T12:00:02+00:00",
+      "coletado_em": "2026-11-25T19:17:23.752103+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2024/oil-rig-2.jpg",
+      "score": 4.363,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "b64c659b66fb",
+      "titulo": "Encontro aberto na USP em Pirassununga apresenta soluções para o saneamento",
+      "url": "https://jornal.usp.br/universidade/encontro-aberto-na-usp-em-pirassununga-apresenta-solucoes-para-o-saneamento/",
+      "resumo": "Evento desta sexta-feira, 27 de novembro, reúne pesquisadores, estudantes e o serviço municipal de água e esgoto para apresentar tecnologias de monitoramento da água e prevenção de vazamentos",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-25T15:33:01+00:00",
+      "coletado_em": "2026-11-25T19:17:23.753675+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261123_00_saneamento_hidrico_torneira_agua-1024x538.jpg",
+      "score": 4.961,
+      "cobertura": []
+    },
+    {
+      "id": "dd322f8195dc",
+      "titulo": "GTA 6 tem mais de 1.500 prédios acessíveis, o dobro do que vazamentos previam",
+      "url": "https://canaltech.com.br/games/gta-6-tem-mais-de-1500-predios-acessiveis-o-dobro-do-que-vazamentos-previam/",
+      "resumo": "GTA 6 tem mais de 1.500 prédios acessíveis, o dobro do que vazamentos previam Um jogador descobriu recentemente que mais de 1.560 prédios de GTA 6 são acessíveis , ou seja, você pode entrar e interagir com o seu ambiente interno. Isso representa cerca de 28% de todos os imóveis catalogados na experiência da Rockstar . Neste momento, você deve estar se perguntando quem contou todos os edifícios e espaços do título a menos de uma semana de seu lançamento e foi o usuário “Aileos”, no Reddit. Ele revela que das 5.588 obras presentes, ele conseguiu acessar 1.563 . O número supera o que já tinha sido apresentado nos vazamentos que o título sofreu ao longo dos anos. Em 2025, rumores indicavam 700 ambientes interativos — o que era visto como “utópico” e o equivalente a “ter expectativas altas” e “irreais”. A realidade trouxe mais do que o dobro . Se comparado a Grand Theft Auto V (2013), essa quantidade é ainda mais impressionante. Considerado por muitos como o game de mundo aberto “moderno” definitivo por uma década, o jogo tinha cerca de 100 áreas internas exploráveis. Nesse sentido, o lançamento representa um salto de 1.320% pela Rockstar. Ainda que o número de áreas internas explorávei",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-25T15:48:00+00:00",
+      "coletado_em": "2026-11-25T19:17:23.762360+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/UKfWWUbZsilHXra9_jN0FF2ommU=/1200x675/smart/filters:format(webp):quality(85)/3a441984-f5a0-4a44-90b9-2dd9d9b58af2.jpg",
+      "score": 4.235,
+      "cobertura": []
+    },
+    {
+      "id": "056aa8b3453b",
+      "titulo": "Samsung prepara o Galaxy Z TriFold 2 para 2027, com design mais fino e leve",
+      "url": "https://canaltech.com.br/smartphone/samsung-prepara-o-galaxy-z-trifold-2-para-2027-com-design-mais-fino-e-leve/",
+      "resumo": "Samsung prepara o Galaxy Z TriFold 2 para 2027, com design mais fino e leve A Samsung já trabalha no Galaxy Z TriFold 2 , seu próximo celular com três partes dobráveis, que pode chegar ao mercado em meados de 2027 . O aparelho deve ter um design mais fino, leve e resistente que o antecessor, mas há sinais de que a fabricante pretende repetir a estratégia de lançamento limitado da primeira geração. A informação mais recente vem de um vazamento sobre o codinome do dispositivo. Segundo o site GalaxyClub , o novo dobrável está em desenvolvimento sob o nome Q9m, seguindo a mesma lógica adotada pela Samsung no primeiro Galaxy Z TriFold , identificado internamente como Q7m. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A expectativa é que o modelo faça parte da linha Galaxy Z Fold 9, prevista para 2027. Ainda não há confirmação sobre os países que receberão o aparelho, mas as primeiras informações indicam que ele pode ficar restrito a alguns mercados. Também sabemos que a Samsung já prepara Galaxy Z Fold 9 e Fold 9 Ultra . Galaxy Z TriFold 2 deve repetir lançamento limitado O codinome Q9m é um dos principais indícios de que a Samsung pretende manter o novo TriFold como um",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "inteligencia_artificial",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-25T10:01:54+00:00",
+      "coletado_em": "2026-11-25T19:17:23.762360+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/yfQc2HTeYXEtQ7Zf-bXqFW1mPQQ=/1200x675/smart/filters:format(webp):quality(85)/dd2411a8-9a06-42ad-af8d-5f7afb9b3883.jpg",
+      "score": 0.772,
+      "cobertura": []
+    }
+  ]
+}

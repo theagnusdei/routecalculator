@@ -1,0 +1,29 @@
+# IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre
+
+- Editoria: Engenharia e Computação Quântica (`quantica`)
+- Fonte: The Quantum Insider — https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/
+- Autor: Mohib Ur Rehman
+- Publicado: 2026-11-25T18:08:13+00:00
+- Score: 6.571
+- Imagem: imagens/quantica-iqm-to-deploy-54-qubit-quantum-computer.jpg | crédito: The Quantum Insider | licença: © do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)
+
+## Outras coberturas
+- nenhuma
+
+## Texto extraído
+
+Insider Brief
+- IQM Quantum Computers has secured an order from South Korean company QAI for an IQM Radiance R3 54-qubit quantum computer to be installed at QAI’s data centre in Seoul.
+- The system is expected to be delivered by the end of 2027 and will be the first IQM quantum computer deployed in a private data centre in Asia.
+- QAI plans to offer access through its Quantum-as-a-Service platform, combining quantum computing resources with GPU-based infrastructure for enterprise, research and public-sector customers.
+PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, is partnering with QAI Co., Ltd., a South Korean quantum-AI data center and cloud infrastructure company, to deliver an IQM Radiance R3 54-qubit quantum computer. The order covers a complete on-premises quantum computing solution for QAI’s data center, including an IQM Radiance R3 system and associated services.
+The 54-qubit quantum computer will be the first IQM quantum computer deployed to a private data center in Asia. The deal brings on-premises quantum computing into QAI’s commercial data center environment, where it will help build applications and a resilient, competitive infrastructure within South Korea’s quantum ecosystem. The IQM Radiance R3 is expected to be delivered and installed on-premises at QAI’s data center in Seoul by the end of 2027.
+“We are proud to partner with QAI as they bring an IQM Radiance R3 54-qubit quantum computer to their data center in Seoul,” said Sylwia Barthel de Weydenthal, Chief Commercial Officer at IQM Quantum Computers. “This sale marks an important milestone for quantum computing in South Korea. With on-premises access to IQM Radiance, QAI will be able to accelerate research, develop commercial applications for businesses and support sovereign quantum capabilities that keep critical technology and data under national control. We look forward to working closely with QAI to build a thriving quantum ecosystem in Korea and across the Asia-Pacific region.”
+QAI builds data centers that combine GPU-based AI computing with quantum computing resources. Once the system is operational, QAI plans to make it available to its customers through its Quantum-as-a-Service (QaaS) offering. This would give Korean enterprises, research institutions and public organizations access to the IQM Radiance R3 quantum computer hosted in South Korea. The system will initially be used to explore industry use cases in compute-intensive fields such as drug discovery, next-generation materials, including batteries, financial portfolio optimization and scheduling optimization for logistics and energy infrastructure.
+“By bringing IQM Radiance R3 into our data center in Seoul, we are creating a place where Korean companies and researchers can use GPUs and a quantum computer together to solve real problems,” said Ui-tae Kim, Co-CEO and CTO of QAI. “Together with IQM, we will build an environment where Korea’s industry and research community can work with quantum computing hands-on.”
+IQM Radiance is IQM’s most powerful on-premises quantum computer, designed for integration into high-performance computing (HPC) environments, where installing it on site reduces latency for hybrid quantum-classical workloads. The 54-qubit system offers high-fidelity gates and tunable couplers between the qubits, arranged in a square lattice with the highest connectivity available at this scale. Its layout natively supports surface-code error correction. Customers own and operate the system on site, with pulse-level access and the option to upgrade with the latest chips and components as IQM’s technology develops.
+South Korea has made quantum technology a national priority. Under its Sixth Basic Plan for Science and Technology, the government plans to invest more than 200 trillion South Korean won (approximately EUR 135 billion) in research and development between 2026 and 2030, with quantum named as one of ten national strategic technology fields. In January 2026, the Ministry of Science and ICT also set out its first comprehensive plan for the quantum science, technology and industry, which aims to give Korea the world’s highest utilization rate of quantum computers by 2035, alongside training 10,000 quantum professionals and fostering 2,000 quantum companies. Reaching those goals will require businesses and researchers in Korea to have hands-on access to quantum computers. With IQM‘s quantum computer installed on-premises and integrated into its data center offering, QAI will be able to provide that access as a service to customers across Korea.
+IQM‘s first quantum computer in South Korea, an IQM Spark at Chungbuk National University, was the first commercial quantum computer installed through the Korean government’s official procurement process. IQM opened its Seoul office in June 2025. The QAI order will further extend IQM’s installed base across Asia-Pacific, following systems already delivered in South Korea, Taiwan and Japan.
+Mohib Ur Rehman
+Get the latest research, company news, and market intelligence every week.
+MENTIONED IN THE ARTICLE
