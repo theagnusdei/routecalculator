@@ -1,0 +1,116 @@
+# The Best Black Friday 2026 Deals on Tech and PC Hardware
+
+- Editoria: Computadores Pessoais (`computadores_pessoais`)
+- Fonte: TechSpot — https://www.techspot.com/news/114707-best-black-friday-2026-deals-tech-pc-hardware.html
+- Autor: Ivan Franco
+- Publicado: 2026-11-26T15:32:00+00:00
+- Score: 5.036
+- Imagem: imagens/computadores_pessoais-the-best-black-friday-2026-deals-on-tech.jpg | crédito: TechSpot | licença: © do veículo/autor original — uso SOMENTE com autorização ou como referência; considere substituir por imagem livre (NASA, ESA, Wikimedia, banco próprio)
+
+## Outras coberturas
+- https://www.tomshardware.com/peripherals/usb/best-usb-charger-and-power-bank-deals-for-black-friday-2026-from-tiny-single-port-smartphone-chargers-to-large-power-banks-for-laptops-weve-found-the-best-deals
+- https://www.pcworld.com/article/2133475/best-black-friday-thunderbolt-dock-deals-2026.html
+- https://www.tomshardware.com/monitors/gaming-monitors/here-are-the-best-oled-gaming-monitor-deals-you-can-snag-for-black-friday-beautiful-monitors-up-to-39-percent-off
+- https://www.tomshardware.com/live/news/black-friday-2026-day-two
+- https://www.tomshardware.com/pc-components/ram/best-ram-memory-deals-ddr5-ddr4-2026
+
+## Texto extraído
+
+This year's Black Friday is shaping up to be an interesting one. Some of the most compelling deals are coming from Apple, of all companies, with discounts across its MacBook, iPad, and AirPods lineups. Nintendo's Switch 2 is seeing a rare price cut, OLED gaming monitors continue to become more affordable, and there are some genuinely excellent Windows laptop deals, including the Dell XPS 13 for $549 and an OLED-equipped HP OmniBook for just $449.
+For PC enthusiasts, it's a more mixed picture. GPU deals are nonexistent, and meaningful discounts on SSDs are few and far between. CPUs are a brighter spot, with several AMD Ryzen and Intel CPUs available at attractive prices, in line with the recommendations in our recently updated CPU buying guide. It's also a great time to shop for mechanical keyboards, gaming mice, and noise-canceling headphones.
+As we've done for years, we've sifted through hundreds of offers to bring you a handpicked selection of tech deals that are actually worth your attention. We're prioritizing products we'd recommend in the first place, not simply those sporting the biggest discount.
+We'll be adding new deals, updating prices, and removing expired offers throughout Black Friday and Cyber Monday. Alongside most products, you'll find our Product Finder score, a meta-rating compiled from professional reviews across the web. And as always, the best deal is on something you actually wanted to buy in the first place.
+Top Deals
+- 88 Apple MacBook Air 13 M5 Laptop with 512GB SSD, 16GB RAM for $1,049 (list $1,299)
+- 81 Dell XPS 13 with Core 5 320, 8GB, 256GB SSD Laptop for $549 (list $750)
+- 87 Alienware AW3426DW 34" QD-OLED Monitor for $649 (list $800)
+- 85 AMD Ryzen 7 9850X3D Unlocked Processor for $399 (list $499)
+- 84 Intel Core Ultra 7 270K Plus Unlocked Processor for $232 (list $310)
+- 85 Samsung Galaxy S26 Ultra 256GB Unlocked for $1,049 (list $1,400)
+- 88 Nintendo Switch 2 for $469 (list $500)
+- 88 Nintendo Switch 2 + Mario Kart World Bundle for $499 (list $550)
+- 87 Keychron K2 75% Wireless Mechanical Keyboard for $51 (list $80)
+- HP Omnibook 5 14" with 2K OLED Touchscreen, Core 5 320, 8GB, 256GB Laptop for $449 (list $800)
+- 89 Apple MacBook Neo 256GB SSD, 8GB RAM for $599 (list $700)
+- Amazon Fire TV 4K for $19 (list $60)
+- 86 Apple iPad Mini 8th Gen 128GB Wi-Fi for $599 (list $700)
+- 93 Apple AirPods Pro 3 for $149 (usually $250)
+- 86 Samsung Galaxy Z Fold 8 Unlocked Foldable Phone with 256GB for $1,549 (normally $1,900)
+- 90 Samsung Odyssey OLED G9 49" Curved Gaming Monitor for $854 (list $1,300)
+- Asus ROG XG27AQDMGR 27" OLED Gaming Monitor for $379 (list $600)
+- 82 Beats Powerbeats Pro 2 Wireless Earbuds for $179 (normally $250)
+- Logitech G515 Lightspeed TKL Low Profile Wireless Mechanical Keyboard for $89 (list $160)
+- 93 Sony WH-1000XM6 Wireless Headset for $348 (usually $460)
+- 81 DJI Osmo Action 4 Essential Combo for $169 (normally $240)
+- 86 Apple MacBook Pro 14 M6 Laptop with 1TB SSD, 16GB RAM for $1,779 (list $1,999)
+- 85 Apple Mac Mini M6 with 256GB SSD, 16GB RAM for $779 (list $899)
+- 92 Alienware AW3426DWM 34" Gaming Monitor for $269 (list $400)
+- 86 Fractal Design North ATX Mid Tower PC Case for $115 (usually $155)
+- Acer Predator X32 OLED 31.5" 240Hz 4K Gaming Monitor for $799 (list $999)
+- 90 Alienware AW2725DF 27" QD-OLED Gaming Monitor for $584 (list $650)
+- 90 Apple Watch Series 12 Smartwatch for $299 (normally $400)
+- 89 Apple AirTag 2nd Gen 4-pack for $79 (list $100)
+- 90 Apple MacBook Pro 16 with PROLED XDR Display with 1TB SSD, 24GB RAM for $3,200 (list $3,399)
+- 85 Samsung 9100 Pro 1 TB PCIe NVMe PCIe 5.0 SSD for $209 (normally $340)
+- Logitech G923 TrueForce Racing Wheel & Pedals for PS5/PS4 and PC for $249 (list $350)
+- Alienware 16 Aurora with Intel Core 7-240H, RTX 5060, 120Hz, 16GB, 1TB SSD Gaming Laptop for $1,339 (list $1,450)
+- 84 Apple iPad 11" (11th-gen) 128GB Wi-Fi for $379 (list $450)
+- 84 Asus ROG Strix Scope II 96 Wireless Gaming Keyboard for $109 (usually $180)
+- Samsung Galaxy Buds 4 Pro Wireless Earbuds for $169 (normally $250)
+- 89 Logitech G502 Lightspeed Wireless Gaming Mouse for $74 (list $150)
+- 81 AMD Ryzen 9 9900X Unlocked Processor for $332 (list $499)
+- 81 Sonos Ace Active Noise Cancelling Headphones for $229 (usually $349)
+- 85 Logitech G Pro TKL Mechanical Gaming Keyboard for $75 (list $120)
+- 89 Razer DeathAdder V4 Pro Wireless Gaming Mouse for $137 (normally $170)
+- 84 Apple iPad Air 11" M4 Wi-Fi for $649 (list $749)
+- Logitech G309 Lightspeed Wireless Gaming Mouse for $44 (list $90)
+- 83 Apple AirPods Max 2 for $419 (list $549)
+- 80 Google Pixel Watch 5 Android Smartwatch for $299 (normally $400)
+- 90 AMD Ryzen 5 5600X Unlocked Processor for $127 (normally $171)
+- 89 Sony WF-1000XM5 True Wireless Earbuds for $179 (usually $299)
+- Garmin Instinct 3 Solar Smartwatch for $249 (list $400)
+- 83 AMD Ryzen 7 9700X Unlocked Processor for $254 (list $349)
+- 85 Microsoft Surface Laptop 7 with Snapdragon X Elite, 256GB SSD, 16GB RAM for $899 (list $1,370)
+- 92 Alienware AW3926QW 39" 5K OLED Gaming Monitor for $999 (list $1,100)
+- Bose SoundLink Max Bluetooth Speaker for $279 (list $399)
+- 69 Logitech G213 Prodigy LightSync Wired Mechanical Keyboard for $39 (list $60)
+- 90 Sennheiser Momentum 4 Active Noise Cancelling Headphones for $189 (usually $299)
+- GoPro Lit Hero Action Camera for $169 (normally $279)
+- 89 Logitech MX Master 3S Wireless Mouse for $75 (list $99)
+- 94 Sony WH-1000XM4C Wireless Headset for $188 (usually $300)
+- Razer Basilisk V3 X HyperSpeed Wireless Gaming Mouse for $41 (list $69)
+- 87 Keychron K2 75% Wireless Mechanical Keyboard for $58 (normally $90)
+- 87 Samsung T9 2TB Portable SSD for $349 (normally $499)
+- 83 Logitech MX Anywhere 2S Android Smartwatch for $42 (normally $60)
+- Razer Kiyo V2 X Webcam for $42 (normally $100)
+- 91 Sonos Arc Ultra Soundbar with Dolby Atmos for $849 (list $1,100)
+- eero 7 Mesh Wi-Fi 7 System for $229 (normally $300)
+- TP-Link Archer AX21 AX1800 Dual-Band Gigabit Wi-Fi router for $51 (normally $99)
+- Microsoft Office Pro 2021 for $22 at TechSpot Store (list $220)
+- Microsoft Office 2024 Professional Plus for $39 at TechSpot Store (list $250)
+- Microsoft Windows 11 Pro for $10 at TechSpot Store (list $199)
+Still Noteworthy
+- 73 Samsung Galaxy Watch 8 Smartwatch for $199 (usually $350)
+- 85 Apple Watch Ultra 4 Smartwatch for $699 (normally $799)
+- 80 Ray-Ban Meta Gen 2 Smart Glasses for $284 (normally $380)
+- 78 Apple Studio Display for $1,399 (list $1,600)
+- Sennheiser HD 599 SE Open Back Headphone for $99 (usually $240)
+- Samsung Odyssey G3 (G30H) 27" 200Hz Gaming Monitor for $139 (list $230)
+- 79 Apple iPad Mini 7th Gen 128GB Wi-Fi for $499 (list $600)
+- 89 Garmin Fenix 9 Smartwatch for $949 (list $1,050)
+- 74 Logitech G502 X Wired Gaming Mouse for $39 (list $99)
+- 88 Asus ROG Azoth 96 HE Wireless Gaming Keyboard for $234 (list $360)
+- Motorola Moto G Stylus 2026 Unlocked Phone with 128GB for $349 (usually $500)
+- 84 Sonos Beam Gen 2 Soundbar for $339 (list $499)
+- 72 Samsung Galaxy S26 FE with 128GB, Unlocked Smartphone for $499 (list $699)
+- 82 Beats Pill Bluetooth Speaker for $94 (normally $150)
+- 80 Google Pixel 10a 128GB Unlocked for $549 (list $599)
+- 77 Sony InZone H9 II Wireless Gaming Headset for $238 (list $350)
+- 87 Razer Cobra Pro Wireless Gaming Mouse for $69 (usually $130)
+- 77 Samsung Galaxy Tab S10 FE 10.9" Android Tablet for $469 (list $700)
+- 80 Google Pixel 11 256GB Unlocked for $692 (list $899)
+- Intel Core i9-12900KF Processor for $245 (normally $331)
+- 85 Logitech G915 X TKL RGB Wireless Gaming Keyboard for $139 (normally $230)
+- 74 Samsung Galaxy Buds 3 FE True Wireless Earbuds for $99 (normally $150)
+- Google Pixel Buds 2a Wireless Earbuds for $99 (normally $130)
+- TP-Link Deco S4 Mesh Wi-Fi System 3-Pack for $91 (list $150)

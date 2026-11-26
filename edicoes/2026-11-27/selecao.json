@@ -1,0 +1,722 @@
+{
+  "medicina": [
+    {
+      "id": "b78615cd8d68",
+      "titulo": "Dengue avança até 57 quilômetros por ano em direção ao Sul do Brasil",
+      "url": "https://jornal.usp.br/radio-usp/dengue-avanca-ate-57-quilometros-por-ano-em-direcao-ao-sul-do-brasil/",
+      "resumo": "Pesquisa quantifica a velocidade de expansão da doença e destaca a importância de antecipar medidas de prevenção e vigilância em saúde",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-26T17:43:26+00:00",
+      "coletado_em": "2026-11-26T19:00:29.631066+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2022/05/20220516_dengue-1024x538.jpg",
+      "score": 5.707,
+      "cobertura": []
+    },
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-26T19:00:29.611317+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "620a21301f08",
+      "titulo": "Integrated health service delivery through medical mobile units helped to reduce deaths among individuals at risk for HIV who also inject drugs",
+      "url": "https://www.nih.gov/news-events/news-releases/integrated-health-service-delivery-through-medical-mobile-units-helped-reduce-deaths-among-individuals-risk-hiv-who-also-inject-drugs",
+      "resumo": "NIH-funded clinical trial shows mobile units may help overcome significant barriers to accessing HIV and addiction treatment, but replication is needed.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-26T19:00:29.611317+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "afecc6e3364a",
+      "titulo": "Experimental drug shows promise in overcoming treatment resistance in aggressive acute myeloid leukemia",
+      "url": "https://medicalxpress.com/news/2026-11-experimental-drug-treatment-resistance-aggressive.html",
+      "resumo": "Researchers at the Johns Hopkins Sidney Kimmel Comprehensive Cancer Center and Johns Hopkins Children's Center found that an experimental drug may help overcome one of the major challenges in treating an aggressive subtype of acute myeloid leukemia (AML), known as FLT3-positive AML. In laboratory and animal studies, the drug, called PHI-101, was effective against leukemia cells carrying genetic mutations that cause resistance to existing FLT3-targeted therapies.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-26T16:40:02+00:00",
+      "coletado_em": "2026-11-26T19:00:29.612457+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/experimental-drug-show-5.jpg",
+      "score": 5.297,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "ac5892c481a8",
+      "titulo": "Protein redesign boosts DNA insertion activity and reveals how molecular machinery selects targets",
+      "url": "https://phys.org/news/2026-11-protein-redesign-boosts-dna-insertion.html",
+      "resumo": "Genome engineering is exciting, given its vast potential to treat and even cure diseases, but it is still a largely uncharted biomedical innovation. Scientists at St. Jude Children's Research Hospital recently uncovered the mechanisms involved in precisely integrating DNA into a target genomic location using CRISPR-associated transposases (CASTs). By studying type I-F3 CAST, the researchers unveiled structural findings that explain how this CAST family achieves successful DNA integration at precise target sites and offer insights for future genomic engineering approaches. The results were published in Nature.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-26T15:40:02+00:00",
+      "coletado_em": "2026-11-26T19:00:29.613641+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/structural-redesign-of.jpg",
+      "score": 6.199,
+      "cobertura": []
+    },
+    {
+      "id": "5da5d5dbb040",
+      "titulo": "Two mechanisms of amino acid transport in a rare disease-associated protein revealed",
+      "url": "https://phys.org/news/2026-11-mechanisms-amino-acid-rare-disease.html",
+      "resumo": "Cells must constantly exchange amino acids with their environment to make proteins and support numerous bodily processes. To do this, they have specialized transporters located in their membranes.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-26T14:40:01+00:00",
+      "coletado_em": "2026-11-26T19:00:29.613641+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2023/amino-acid.jpg",
+      "score": 5.106,
+      "cobertura": []
+    },
+    {
+      "id": "beb9a40ad154",
+      "titulo": "Reflorestamento voltado à captura de carbono pode ameaçar a biodiversidade",
+      "url": "https://jornal.usp.br/radio-usp/reflorestamento-voltado-a-captura-de-carbono-pode-ameacar-a-biodiversidade/",
+      "resumo": "Baixa diversidade de espécies selecionadas para a restauração de florestas tropicais preocupa especialistas e pode comprometer a recuperação dos ecossistemas",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-26T16:01:31+00:00",
+      "coletado_em": "2026-11-26T19:00:29.631066+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/02/20230227_reflorestamento-1024x538.jpg",
+      "score": 5.033,
+      "cobertura": []
+    },
+    {
+      "id": "7e9652dc1ab2",
+      "titulo": "Some miniature Cas12m proteins can cut DNA after all",
+      "url": "https://phys.org/news/2026-11-miniature-cas12m-proteins-dna.html",
+      "resumo": "An international research group led by graduate student Hayato Morinaga, Assistant Professor Satoshi N. Omura and Professor Osamu Nureki from the University of Tokyo has demonstrated for the first time that some Cas12m proteins do have an active state capable of cutting, or \"cleaving,\" DNA. The team also clarified the structural differences between the active and inactive variations.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-26T10:00:06+00:00",
+      "coletado_em": "2026-11-26T19:00:29.613641+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-smallest-cas-prote.jpg",
+      "score": 4.739,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "f1984f72225e",
+      "titulo": "Autonomous crane system handles port containers with centimeter-level precision",
+      "url": "https://techxplore.com/news/2026-11-autonomous-crane-port-centimeter-precision.html",
+      "resumo": "Robotic systems have already been deployed in many factories, industrial sites and warehouses worldwide to automate processes and improve their efficiency. A taxing task that requires the precise control of large machinery is lifting and moving shipping containers in ports.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-26T14:20:02+00:00",
+      "coletado_em": "2026-11-26T19:00:29.615800+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-autonomous-crane-sy-1.jpg",
+      "score": 5.077,
+      "cobertura": []
+    },
+    {
+      "id": "eae8a16c0982",
+      "titulo": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+      "resumo": "On 5 November, 10 teams descended upon a 52-acre mock town in College Station, Texas called Disaster City . They were there for a nine-day competition to see how well teams of robots and humans could navigate simulated catastrophes, like a market ravaged by a tornado and a nighttime strike on a military base. At stake? US $2.5 million in prize money. The scenarios were the final of the DARPA Triage Challenge , which the U.S. agency has been running for three years with the goal of saving more lives in urgent mass casualty events. Engineers from academia and industry have competed in elaborately staged mass casualty events , such as simulated combat zones and plane crash scenes. Teams spent years designing systems where autonomous ground robots and drones could help first responders find mock victims and decide the best way to care for them. “Triage is all about resources,” says Jeremy Pamplin , who managed the challenge for DARPA. Pamplin is a critical care physician and retired colonel who spent 28 years in the U.S. Army. In mass casualty events, medics race to assess trauma with finite resources and limited time. Some victims need urgent help that medics can provide immediately, ",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-25T15:00:03+00:00",
+      "coletado_em": "2026-11-26T19:00:29.615026+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/a-helmeted-woman-calling-out-to-a-quadruped-robot-during-a-simulated-field-disaster.jpg?id=68752154&width=980",
+      "score": 5.047,
+      "cobertura": []
+    },
+    {
+      "id": "20ed4c2ea05b",
+      "titulo": "Robots roam Singapore's urban AI testing ground",
+      "url": "https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html",
+      "resumo": "When coffee is spilled at an office block in a futuristic enclave of Singapore, AI-powered cameras and sensors detect it and send a cleaning robot right away.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-26T09:41:28+00:00",
+      "coletado_em": "2026-11-26T19:00:29.615800+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/singapore-is-carrying.jpg",
+      "score": 4.218,
+      "cobertura": []
+    },
+    {
+      "id": "b6b47820b906",
+      "titulo": "New method improves state estimation for pneumatic artificial muscle–driven joints",
+      "url": "https://techxplore.com/news/2026-11-method-state-pneumatic-artificial-muscledriven.html",
+      "resumo": "Pneumatic artificial muscles (PAMs) are lightweight and flexible, with a high power-to-weight ratio. These properties have made antagonistic PAM-driven joints widely used in soft robotic systems. However, precise and reliable control requires accurate estimates of joint states.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-25T23:40:01+00:00",
+      "coletado_em": "2026-11-26T19:00:29.615800+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/gru-ukf-method-improve.jpg",
+      "score": 3.704,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "a88188741705",
+      "titulo": "Indie web browser Ladybird enters alpha testing",
+      "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+      "resumo": "Upstart engine gets downloadable macOS and Linux builds, but no security guarantees",
+      "fonte": "The Register",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-26T18:15:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.616587+00:00",
+      "imagem_feed": "https://image.theregister.com/?imageId=243744&width=800",
+      "score": 5.464,
+      "cobertura": []
+    },
+    {
+      "id": "38ad71130420",
+      "titulo": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1109990/",
+      "resumo": "Security updates have been issued by AlmaLinux (cifs-utils, cjose, cockpit-machines, containernetworking-plugins, dhcp, edk2, firewalld, fltk, freerdp, gdm, ghostscript, grafana, kernel, librabbitmq, netpbm, nginx:1.24, nginx:1.26, openscap, openssl, php, python-botocore, qt6-qt3d, resource-agents, rsync, ruby, ruby:2.5, ruby:3.3, ruby:4.0, skopeo, spice, thunderbird, and webkit2gtk3), Debian (exim4, firefox-esr, librsvg, lrzsz, roundcube, shadow, and thunderbird), Fedora (chromium, cri-o1.35, cri-o1.36, dotnet10.0, dotnet11.0, dotnet8.0, dotnet9.0, firefox, fluidsynth, kernel, libreswan, mingw-dbus, perl-Config-General, perl-HTTP-Body, perl-libnet, perl-SQL-Abstract, poppler, radicale, sbsigntools, webkitgtk, and xorg-x11-server-Xwayland), Mageia (php), Oracle (dpdk, gcc-toolset-15-gcc, grafana, gstreamer1-plugins-bad-free, librabbitmq, mod_http2, nginx, php:7.4, php:8.3, python-oauthlib, python3.12, sqlite, tftp, xfsprogs, and xorg-x11-server-Xwayland), Red Hat (brotli, cjose, containernetworking-plugins, expat, firefox, kernel, mod_auth_openidc:2.3, nodejs:24, podman, ruby, ruby4.0, ruby:2.5, ruby:3.3, ruby:4.0, and thunderbird), Slackware (seamonkey), SUSE (389-ds, amazon-ssm-a",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-26T14:06:22+00:00",
+      "coletado_em": "2026-11-26T19:00:29.616814+00:00",
+      "imagem_feed": null,
+      "score": 5.057,
+      "cobertura": []
+    },
+    {
+      "id": "c0b346c9f1ec",
+      "titulo": "Linus Torvalds fica furioso com atualização “gigante” no Linux",
+      "url": "https://tecnoblog.net/noticias/linus-torvalds-fica-furioso-com-atualizacao-gigante-no-linux/",
+      "resumo": "Torvalds não gostou de receber uma atualização com 41 mil linhas de código em plena reta final do desenvolvimento do Linux 7.4. Linus Torvalds fica furioso com atualização “gigante” no Linux",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-26T16:49:51+00:00",
+      "coletado_em": "2026-11-26T19:00:29.634958+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linus-torvalds-bravo.png",
+      "score": 5.014,
+      "cobertura": []
+    },
+    {
+      "id": "5320c8a37a10",
+      "titulo": "WhatsApp anuncia eSIM com pacotes de dados para viagens internacionais",
+      "url": "https://tecnoblog.net/noticias/whatsapp-anuncia-esim-com-pacotes-de-dados-para-viagens-internacionais/",
+      "resumo": "WhatsApp permitirá a compra de pacotes de dados via eSIM dentro do próprio app. Opções disponíveis variarão de acordo com o país de destino. WhatsApp anuncia eSIM com pacotes de dados para viagens internacionais",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-26T18:53:01+00:00",
+      "coletado_em": "2026-11-26T19:00:29.634958+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-3_tb.png",
+      "score": 4.736,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "6ffd309fca6a",
+      "titulo": "Electronics manufacturers set up memory 'war rooms' to find, lock in DRAM supplies amid worst shortage in history",
+      "url": "https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units",
+      "resumo": "The memory chip shortage is forcing companies to find supplies using non-traditional avenues, such as online listings and the gray market. Some have even taken out loans just to have enough cash to buy chips as soon as they become available.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-26T16:11:07+00:00",
+      "coletado_em": "2026-11-26T19:00:29.617240+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/pU95E8pwfvrx8dWfwg7X8M-1920-80.jpg",
+      "score": 5.899,
+      "cobertura": []
+    },
+    {
+      "id": "1eebf2b51d6d",
+      "titulo": "Two Californian Nvidia AI chip customers are really Chinese-owned",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls",
+      "resumo": "Nvidia sells its advanced AI chips to two Californian companies with links to Chinese parent companies, including one that has already been blacklisted. Nvidia is only allowed to sell to specific companies, with export controls intended to prevent these chips from falling into the wrong hands in China.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-26T18:00:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.617240+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/TVYovaCvDrBoMvxiTPWqLL-1920-80.png",
+      "score": 5.587,
+      "cobertura": []
+    },
+    {
+      "id": "0168d37e92da",
+      "titulo": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
+      "resumo": "Data centers in Singapore, Malaysia, Thailand, and Indonesia are now required to obtain export licenses if they want to get their Nvidia AI GPUs delivered.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-26T16:00:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.617240+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/YAxQQsbvwDfFaHJ7zGMocj-1920-80.jpg",
+      "score": 5.381,
+      "cobertura": []
+    },
+    {
+      "id": "84e2117a560c",
+      "titulo": "TSMC's A14 1.4nm-class node is ready for chip design",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p",
+      "resumo": "TSMC announces availability of its version 0.9 process design kit for its A14 manufacturing technology. Availability of the v0.9 version of PDK signals that the fabrication process is generally ready for design and production.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-26T13:00:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.617240+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/YAQU3zRSbuCHbUYm5L4oD4-1920-80.jpg",
+      "score": 5.114,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "1d9cf67cf255",
+      "titulo": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+      "resumo": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "fonte": "NASA",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-25T14:56:54+00:00",
+      "coletado_em": "2026-11-26T19:00:29.617829+00:00",
+      "imagem_feed": null,
+      "score": 6.395,
+      "cobertura": [
+        "https://phys.org/news/2026-11-nasa-hubble-views-ocean-stars.html"
+      ]
+    },
+    {
+      "id": "e0250b6be828",
+      "titulo": "NASA's Hubble views ocean of stars in groundwork for Roman",
+      "url": "https://phys.org/news/2026-11-nasa-hubble-views-ocean-stars.html",
+      "resumo": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy's disk. These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-25T18:50:01+00:00",
+      "coletado_em": "2026-11-26T19:00:29.618110+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-and-white-stars-f.jpg",
+      "score": 6.045,
+      "cobertura": [
+        "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
+      ]
+    },
+    {
+      "id": "96882d792a27",
+      "titulo": "ESO statement on approval of launch of one million space data centres",
+      "url": "https://www.eso.org/public/news/eso2614/",
+      "resumo": "",
+      "fonte": "ESO",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-26T17:00:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.618021+00:00",
+      "imagem_feed": "https://cdn.eso.org/images/screen/eso2607a.jpg",
+      "score": 5.081,
+      "cobertura": []
+    },
+    {
+      "id": "5fe18022afa1",
+      "titulo": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record",
+      "url": "https://phys.org/news/2026-11-scientists-quasar-mere-million-years.html",
+      "resumo": "Scientists have discovered the most distant quasar yet, the core of a galaxy with a slow-chomping black hole at its center dating back to nearly the dawn of the universe.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-26T14:00:02+00:00",
+      "coletado_em": "2026-11-26T19:00:29.618110+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/farthest-quasar.jpg",
+      "score": 5.048,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "505c7669b29d",
+      "titulo": "SAP and planqc Expand Quantum Computing Partnership, Plan Hardware Tests in 2027",
+      "url": "https://thequantuminsider.com/2026/11/26/sap-and-planqc-expand-quantum-computing-partnership-plan-hardware-tests-in-2027/",
+      "resumo": "Insider Brief PRESS RELEASE — SAP and planqc are expanding their collaboration in quantum computing. At the Quantum Day Munich by SAP, the two companies demonstrated the first live integration of a planqc neutral-atom quantum computer into an SAP environment. This marks an important step towards making quantum computing capabilities directly accessible to business applications. […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-26T14:30:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.619150+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/SAP-and-planqc-quantum-collaboration-1.png",
+      "score": 5.241,
+      "cobertura": []
+    },
+    {
+      "id": "260f5b2ac9d3",
+      "titulo": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
+      "url": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
+      "resumo": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, is partnering with QAI Co., Ltd., a South Korean quantum-AI data center and cloud infrastructure company, to deliver an IQM Radiance R3 54-qubit quantum computer. The order covers a complete on-premises quantum computing solution for QAI’s data center, […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-25T18:08:13+00:00",
+      "coletado_em": "2026-11-26T19:00:29.619150+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-25_23-06.png",
+      "score": 5.175,
+      "cobertura": []
+    },
+    {
+      "id": "3c6095327d54",
+      "titulo": "New quantum network entangles 123 qubits that store information in atoms' positions",
+      "url": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
+      "resumo": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process. Their study, published in Physical Review Letters, describes a new platform for manipulating entangled atomic networks in measurement-based quantum computation—a process usually hindered by difficulties manipulating only one atom or one group of atoms at a time.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-25T18:00:15+00:00",
+      "coletado_em": "2026-11-26T19:00:29.619412+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-build-123.jpg",
+      "score": 5.022,
+      "cobertura": []
+    },
+    {
+      "id": "b5f2ad6b8946",
+      "titulo": "Ultracold atoms could help unravel a major flaw in quantum theory",
+      "url": "https://www.newscientist.com/article/2600718-ultracold-atoms-could-help-unravel-a-major-flaw-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "Standard quantum theory struggles to predict how long a particle will take to get from one place to another, but an experiment with ultracold atoms could help rule out some interpretations",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-26T12:00:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.660168+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321989822.jpg",
+      "score": 4.684,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "1594943e9f86",
+      "titulo": "The Best Black Friday 2026 Deals on Tech and PC Hardware",
+      "url": "https://www.techspot.com/news/114707-best-black-friday-2026-deals-tech-pc-hardware.html",
+      "resumo": "This year's Black Friday is shaping up to be an interesting one. Some of the most compelling deals are coming from Apple, of all companies, with discounts across its MacBook, iPad, and AirPods lineups. Nintendo's Switch 2 is seeing a rare price cut, OLED gaming monitors continue to become more... Read Entire Article",
+      "fonte": "TechSpot",
+      "peso_fonte": 0.7,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-26T15:32:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.626867+00:00",
+      "imagem_feed": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-25-ts3_thumbs-3ec.jpg",
+      "score": 5.036,
+      "cobertura": [
+        "https://www.tomshardware.com/peripherals/usb/best-usb-charger-and-power-bank-deals-for-black-friday-2026-from-tiny-single-port-smartphone-chargers-to-large-power-banks-for-laptops-weve-found-the-best-deals",
+        "https://www.pcworld.com/article/2133475/best-black-friday-thunderbolt-dock-deals-2026.html",
+        "https://www.tomshardware.com/monitors/gaming-monitors/here-are-the-best-oled-gaming-monitor-deals-you-can-snag-for-black-friday-beautiful-monitors-up-to-39-percent-off",
+        "https://www.tomshardware.com/live/news/black-friday-2026-day-two",
+        "https://www.tomshardware.com/pc-components/ram/best-ram-memory-deals-ddr5-ddr4-2026",
+        "https://www.pcworld.com/article/1377179/best-black-friday-chromebook-deals-2026.html",
+        "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-black-friday-soldering-iron-deals-for-hobbyists-and-makers-right-now-limited-time-sale-discounts-on-digital-irons-premium-solder-and-heat-proof-accessories",
+        "https://www.pcworld.com/article/3289448/ask-ai-to-beat-amazons-black-friday-deals-with-this-prompt.html",
+        "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "https://www.tomshardware.com/networking/routers/best-wi-fi-router-deals-2026"
+      ]
+    },
+    {
+      "id": "0ec990da5888",
+      "titulo": "Modder transforma PS5 Pro em PC gamer com water cooler de 360 mm e gabinete",
+      "url": "https://canaltech.com.br/hardware/modder-transforma-ps5-pro-em-pc-gamer-com-water-cooler-de-360-mm-e-gabinete/",
+      "resumo": "Modder transforma PS5 Pro em PC gamer com water cooler de 360 mm e gabinete Jogos pesados fazem os consoles entrarem no modo turbo de refrigeração para controlar as temperaturas do hardware, que fica em um espaço apertado. Isso gera muito ruído e pode não ser agradável. Porém um modder suíço resolveu esse problema, mais especificamente de seu PS5 Pro, retirando a placa principal e montando um PC com refrigeração líquida , algo que dá um fôlego extra considerável ao console. O projeto, batizado de PS5C e desenvolvido pelo entusiasta suíço Nico, coloca a placa-mãe do console da Sony dentro de um gabinete Phanteks XT V3 equipado com componentes típicos de desktops de alto desempenho. Para manter o chip resfriado de forma silenciosa mesmo sob carga máxima, o criador instalou um water cooler AIO Lian-Li Hydroshift II de 360 mm com tela LCD integrada , acompanhado por conjuntos de fans Jonsbo para otimizar a circulação de ar . Adaptação elétrica, impressão 3D e custo do projeto Como o PlayStation 5 Pro não utiliza conectores de energia no padrão ATX convencional, Nico precisou adaptar uma fonte compacta da NZXT . Ele dividiu dois cabos PCIe em seus terminais positivo e negativo e os sold",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-26T12:36:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.639432+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/3NsiW_UKhy5-JTe5QEJc9Gi7wgI=/1200x675/smart/filters:format(webp):quality(85)/0d20bb0f-ec23-497b-973b-6f692f960bca.jpg",
+      "score": 4.981,
+      "cobertura": []
+    },
+    {
+      "id": "bd97238bf6d6",
+      "titulo": "Best Thunderbolt docks to extend your laptop’s capabilities",
+      "url": "https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html",
+      "resumo": "A Thunderbolt laptop docking station offers a serious boost to your productivity, providing support for old and new peripherals alike. It’s a necessity for a home office, but only buy what you need: In 2026, premium Thunderbolt 5 docks might be overkill for a Windows PC. Here, we’ll recommend the best Thunderbolt docks — an overall pick, as well as budget and premium recommendations — based on our own testing of dozens of Thunderbolt docking stations. That testing includes a formal performance evaluation, of course, but also simply using each dock day-in and day-out over an extended period. If you need help deciding what’s best for you, a FAQ at the bottom of the page is there to assist. That FAQ includes an explanation of why I generally lean toward slightly older Thunderbolt 4 docks at the moment. Thunderbolt 5 docks supply 140 watts of power, however, making them very appropriate for a new breed of RTX Spark laptops . Be aware that significantly older laptops often don’t use Thunderbolt. They may have a slower, generic USB-C port instead, making my picks for the best USB-C hubs and dongles a better choice. If you have a Ryzen laptop, you’re rocking USB4 instead of Thunderbolt 4,",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-26T00:13:51+00:00",
+      "coletado_em": "2026-11-26T19:00:29.620142+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/393714-0-27630600-1793898026-thunderbolt-dock-primary-100868060-orig.jpg?quality=50&strip=all",
+      "score": 4.876,
+      "cobertura": []
+    },
+    {
+      "id": "1eebf2b51d6d",
+      "titulo": "Two Californian Nvidia AI chip customers are really Chinese-owned",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls",
+      "resumo": "Nvidia sells its advanced AI chips to two Californian companies with links to Chinese parent companies, including one that has already been blacklisted. Nvidia is only allowed to sell to specific companies, with export controls intended to prevent these chips from falling into the wrong hands in China.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-26T18:00:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.617240+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/TVYovaCvDrBoMvxiTPWqLL-1920-80.png",
+      "score": 4.587,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "2061ba31a1aa",
+      "titulo": "Melhor soundbar em 2026: 10 modelos para turbinar o som da sua TV",
+      "url": "https://tecnoblog.net/guias/melhor-soundbar/",
+      "resumo": "Quer melhorar o áudio que vem da TV? Selecionamos as melhores soundbars para quem quer reproduzir música, filmes e jogos com máxima qualidade sonora Melhor soundbar em 2026: 10 modelos para turbinar o som da sua TV",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-26T17:49:30+00:00",
+      "coletado_em": "2026-11-26T19:00:29.634958+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/lg-s60tr-guia-de-compras.png",
+      "score": 4.618,
+      "cobertura": []
+    },
+    {
+      "id": "89875781edf8",
+      "titulo": "Amazon avalia impacto do Muse na publicidade antes de liberar agente",
+      "url": "https://tecnoblog.net/noticias/amazon-avalia-impacto-do-muse-na-publicidade-antes-de-liberar-agente/",
+      "resumo": "Amazon negocia fim do bloqueio ao agente de IA da Meta, mas teme impacto na renda com anúncios. Amazon avalia impacto do Muse na publicidade antes de liberar agente",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-26T11:06:07+00:00",
+      "coletado_em": "2026-11-26T19:00:29.634958+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/09/amazon-ia-meta-muse.png",
+      "score": 4.517,
+      "cobertura": []
+    },
+    {
+      "id": "11fea53c9476",
+      "titulo": "AI solved the hardest problem in maths – is there anything it can’t do?",
+      "url": "https://www.newscientist.com/article/2600704-ai-solved-the-hardest-problem-in-maths-is-there-anything-it-cant-do/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "The past year of solutions to long-standing open problems has shown AI is good at maths, but columnist Jacob Aron says that doesn’t mean it can tackle biology or climate change",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "biologia",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-26T09:00:00+00:00",
+      "coletado_em": "2026-11-26T19:00:29.660168+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321988657.jpg",
+      "score": 4.472,
+      "cobertura": []
+    },
+    {
+      "id": "d57e9b04f08a",
+      "titulo": "Aprovação de novo projeto de satélites da SpaceX preocupa astrônomos; saiba o porquê",
+      "url": "https://canaltech.com.br/ciencia-e-espaco/aprovacao-de-novo-projeto-de-satelites-da-spacex-preocupa-astronomos-saiba-o-porque/",
+      "resumo": "Aprovação de novo projeto de satélites da SpaceX preocupa astrônomos; saiba o porquê A Comissão Federal de Comunicação (FCC), agência reguladora de telecomunicações nos Estados Unidos, acaba de conceder a SpaceX a aprovação para lançar um milhão dos satélites Starmind . Com o “sinal verde”, a empresa de Elon Musk fica liberada para levar os data-centers de inteligência artificial ao espaço. “Esta ação abre uma nova fronteira para a infraestrutura computacional necessária para alimentar a liderança e crescimento dos Estados Unidos”, declarou Brendan Carr, diretor do FCC. “Ao levar a capacidade computacional para além da Terra, a SpaceX e seus muitos concorrentes que trabalham em seus próprios centros de dados orbitais estão atendendo às demandas do momento”, acrescentou. Se tudo correr conforme o planejado, a SpaceX deve lançar a primeira leva dos satélites Starmind no terceiro trimestre do ano que vem . Os novos equipamentos vão ao espaço com o foguete Starship — que, aliás, já lançou mais de 20 da nova geração de satélites Starlink nos últimos testes de voo realizados. O que é a Starmind da SpaceX Para entender melhor a proposta dos Starmind, vale resgatar brevemente os planos da ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "astrofisica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-26T17:41:45+00:00",
+      "coletado_em": "2026-11-26T19:00:29.639432+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/VCUjDu0Sw_wUhBBCckFplwNjRAA=/1200x675/smart/filters:format(webp):quality(85)/561c1c01-c1a5-4ab4-af94-41edc6166db3.png",
+      "score": 4.454,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "72fdd0a29531",
+      "titulo": "Troque o livro físico pela leitura digital com o Amazon Kindle Paperwhite",
+      "url": "https://olhardigital.com.br/2026/11/26/reviews/troque-o-livro-fisico-pela-leitura-digital-com-o-amazon-kindle-paperwhite/",
+      "resumo": "Com tela maior, iluminação ajustável, resistência à água e bateria que pode durar semanas, leitor digital da Amazon é uma alternativa para quem deseja carregar uma biblioteca inteira pra qualquer lugar O post Troque o livro físico pela leitura digital com o Amazon Kindle Paperwhite apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-26T17:44:52+00:00",
+      "coletado_em": "2026-11-26T19:00:29.633391+00:00",
+      "imagem_feed": null,
+      "score": 4.31,
+      "cobertura": []
+    },
+    {
+      "id": "028bfd5c13ef",
+      "titulo": "Steel industry waste and seashells yield a material that cleans water and produces hydrogen",
+      "url": "https://techxplore.com/news/2026-11-steel-industry-seashells-yield-material.html",
+      "resumo": "Researchers at the Federal University of São Carlos (UFSCar) and the Federal University of Rio Grande do Norte (UFRN) in Brazil have developed a sustainable nanomaterial from steel industry waste and seashells. When activated by sunlight, the compound can perform two tasks simultaneously: breaking down water pollutants and producing hydrogen (H₂), a promising clean fuel for the energy transition.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-25T22:20:02+00:00",
+      "coletado_em": "2026-11-26T19:00:29.629687+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/steel-industry-waste-a.jpg",
+      "score": 4.156,
+      "cobertura": []
+    },
+    {
+      "id": "bd66aec9e3ba",
+      "titulo": "Rearranging atomic layers reduces voltage decay in high-capacity lithium-ion battery cathodes",
+      "url": "https://techxplore.com/news/2026-11-rearranging-atomic-layers-voltage-decay.html",
+      "resumo": "A new approach for designing cathode materials that could help enhance cycle performance has been proposed. A research team led by professor Kisuk Kang of the Department of Materials Science and Engineering at Seoul National University College of Engineering has identified a principle for suppressing voltage decay through the arrangement of atomic layers in cathode materials. Through experiments and simulations, the researchers found that an \"O6 structure,\" which combines characteristics of different atomic arrangements, reduces structural evolution within the material during cycles.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-25T20:20:01+00:00",
+      "coletado_em": "2026-11-26T19:00:29.629687+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-professor-kisuk-ka.jpg",
+      "score": 4.09,
+      "cobertura": []
+    },
+    {
+      "id": "b484c10ebc52",
+      "titulo": "Wolf pack approach to wind and solar power",
+      "url": "https://techxplore.com/news/2026-11-wolf-approach-solar-power.html",
+      "resumo": "Researchers have developed a new way of managing electricity supplies that could help keep power grids stable as they become more dependent on wind and solar energy. Details of the algorithmic approach, which is based on the hunting behavior of a wolf pack, are reported in the International Journal of Critical Infrastructures.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-25T17:50:04+00:00",
+      "coletado_em": "2026-11-26T19:00:29.629687+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/power-grid-5.jpg",
+      "score": 4.017,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "e674213f0165",
+      "titulo": "1Password sofre invasão e alerta clientes sobre vazamento de dados",
+      "url": "https://tecnoblog.net/noticias/1password-sofre-invasao-e-alerta-clientes-sobre-vazamento-de-dados/",
+      "resumo": "A 1Password sofreu uma invasão após hackers comprometerem a conta corporativa de um funcionário no GitHub. 1Password sofre invasão e alerta clientes sobre vazamento de dados",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-26T13:49:54+00:00",
+      "coletado_em": "2026-11-26T19:00:29.634958+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/1password-capa.jpg",
+      "score": 4.233,
+      "cobertura": []
+    },
+    {
+      "id": "07dc6bfb816b",
+      "titulo": "iPhone 20 Pro pode ganhar edição especial com peças de cerâmica; entenda",
+      "url": "https://canaltech.com.br/smartphone/iphone-20-pro-pode-ganhar-edicao-especial-com-pecas-de-ceramica-entenda/",
+      "resumo": "iPhone 20 Pro pode ganhar edição especial com peças de cerâmica; entenda A Apple pode lançar uma edição limitada do iPhone 20 Pro com acabamento de cerâmica para comemorar os 20 anos do celular. A informação vem do leaker Fixed Focus Digital, que afirma ter tido acesso a componentes de cerâmica desenvolvidos para o aparelho. A produção prevista seria bastante restrita, o que indica a possibilidade de uma versão especial do smartphone em 2027. Segundo uma publicação do informante na rede social chinesa Weibo, os componentes já estariam em desenvolvimento. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Em um comentário posterior, ele explicou que o projeto poderá avançar para a produção em massa caso seja aprovado nos testes de validação de engenharia. O leaker também brincou que a baixa quantidade de unidades poderia fazer o aparelho ganhar valor no mercado de revenda. Só que até o momento, não há confirmação de que a Apple realmente pretende comercializar essa edição. Apple pode apostar em cerâmica no acabamento do iPhone Ainda não está claro qual parte do iPhone 20 Pro receberia o material. O vazamento não especifica se a Apple pretende fabricar a traseira inteira ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-26T15:21:21+00:00",
+      "coletado_em": "2026-11-26T19:00:29.639432+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/CalelzEZ_O4NhnniPmVVD6_vB2M=/1200x675/smart/filters:format(webp):quality(85)/c69c31a3-147e-43a3-82fb-ae37a3c9de83.jpg",
+      "score": 1.22,
+      "cobertura": []
+    }
+  ]
+}
