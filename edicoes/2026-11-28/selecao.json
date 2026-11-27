@@ -1,0 +1,756 @@
+{
+  "medicina": [
+    {
+      "id": "645924a527f9",
+      "titulo": "In a first, ultrasound maps blood flow through an entire human kidney in 3D",
+      "url": "https://medicalxpress.com/news/2026-11-ultrasound-blood-entire-human-kidney.html",
+      "resumo": "For the first time, a research team at the Inserm Institute of Physics for Medicine (Inserm/ESPCI Paris-PSL/CNRS) in Paris has succeeded in visualizing the entire vascular network and blood flow in a human kidney. This breakthrough opens up promising clinical prospects: improving our understanding and diagnosis of kidney diseases linked to vascular defects. To achieve this, the researchers used a new ultrasound technique developed in their laboratory and previously tested in animals, which could eventually be extended to other organs. The results are published in The Lancet Medical Imaging & Theranostics.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-27T18:20:08+00:00",
+      "coletado_em": "2026-11-27T18:59:51.189164+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/kidney-as-youve-never.jpg",
+      "score": 6.475,
+      "cobertura": []
+    },
+    {
+      "id": "4c4694185eb5",
+      "titulo": "Incidência de câncer de estômago chama atenção entre adultos mais jovens",
+      "url": "https://jornal.usp.br/campus-ribeirao-preto/incidencia-de-cancer-de-estomago-chama-atencao-entre-adultos-mais-jovens/",
+      "resumo": "Evolução da medicina, acesso aos serviços de saúde e fatores ambientais ajudam a compreender o cenário da doença",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-11-27T12:45:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.212137+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261126_cancer-estomago-1024x538.jpg",
+      "score": 6.244,
+      "cobertura": []
+    },
+    {
+      "id": "ac83a1baa13b",
+      "titulo": "New approach could make curative lung cancer treatment possible for more patients",
+      "url": "https://medicalxpress.com/news/2026-11-approach-curative-lung-cancer-treatment.html",
+      "resumo": "Despite significant advances in treatment, lung cancer remains the leading cause of cancer-related deaths worldwide. A clinical trial recently published in Nature Medicine suggests that a more flexible approach to treating locally advanced non-small-cell lung cancer could open up new treatment options for patients. By starting with a combination of chemotherapy and immunotherapy (durvalumab), followed by reassessment by a multidisciplinary team, doctors may be able to offer curative surgery to more patients. The study also suggests that patients who remain ineligible for surgery after this initial treatment may still have another potentially curative option: a combination of chemotherapy and radiation therapy.",
+      "fonte": "Medical Xpress",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-27T15:40:17+00:00",
+      "coletado_em": "2026-11-27T18:59:51.189164+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-could-mak.jpg",
+      "score": 6.2,
+      "cobertura": []
+    },
+    {
+      "id": "3bebab886292",
+      "titulo": "Nav. ed. pt Giro Saude 27 de novembro",
+      "url": "https://agencia.fiocruz.br/nav-ed-pt-giro-saude-27-de-novembro",
+      "resumo": "Nav. ed. pt Giro Saude 27 de novembro renata.moehlecke Sex, 27/11/2026 - 11:49 Tipo de caixa Duplo horizontal Título Giro Saúde: 27 de novembro Imagem Chamada Novo episódio destaca medicamento inovador para o câncer de mama, a vacinação contra mpox e as ações do Novembro Negro",
+      "fonte": "Agência Fiocruz",
+      "peso_fonte": 0.9,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-27T14:49:54+00:00",
+      "coletado_em": "2026-11-27T18:59:51.190265+00:00",
+      "imagem_feed": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/imagemNavegacaoEditorial/CapaGiro91_d.jpg",
+      "score": 6.072,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "d941e8c4ebfc",
+      "titulo": "Why fertile male killifish outlive their peers",
+      "url": "https://phys.org/news/2026-11-fertile-male-killifish-outlive-peers.html",
+      "resumo": "Why do some individuals of the same species live significantly longer than others? In evolutionary biology and aging research, this question is often linked to a trade-off between reproduction and survival. The underlying idea is that energy and resources invested in reproduction may lead to compromises in repair and maintenance, thereby hindering a long life. Thus, the assumption is that particularly successful reproduction at a young age comes at the cost of a shorter lifespan.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-27T16:10:03+00:00",
+      "coletado_em": "2026-11-27T18:59:51.190554+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-fertile-male-killi.jpg",
+      "score": 5.748,
+      "cobertura": []
+    },
+    {
+      "id": "ac5892c481a8",
+      "titulo": "Protein redesign boosts DNA insertion activity and reveals how molecular machinery selects targets",
+      "url": "https://phys.org/news/2026-11-protein-redesign-boosts-dna-insertion.html",
+      "resumo": "Genome engineering is exciting, given its vast potential to treat and even cure diseases, but it is still a largely uncharted biomedical innovation. Scientists at St. Jude Children's Research Hospital recently uncovered the mechanisms involved in precisely integrating DNA into a target genomic location using CRISPR-associated transposases (CASTs). By studying type I-F3 CAST, the researchers unveiled structural findings that explain how this CAST family achieves successful DNA integration at precise target sites and offer insights for future genomic engineering approaches. The results were published in Nature.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-26T15:40:02+00:00",
+      "coletado_em": "2026-11-27T18:59:51.190554+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/structural-redesign-of.jpg",
+      "score": 4.963,
+      "cobertura": []
+    },
+    {
+      "id": "b6da890b8b98",
+      "titulo": "New fern species discovered after nearly 200 years of being mistaken for another",
+      "url": "https://phys.org/news/2026-11-fern-species-years-mistaken.html",
+      "resumo": "Chinese researchers have formally described a new fern species that has been hiding in plain sight for nearly 200 years. Named Drynaria lineatisora, the species was collected as early as the 19th century in Myanmar and Vietnam, but it was repeatedly misidentified as the widespread Drynaria coronans. Recent field studies by researchers from the Xishuangbanna Tropical Botanical Garden (XTBG) of the Chinese Academy of Sciences and their collaborators confirmed that it is indeed a distinct species.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-27T17:40:02+00:00",
+      "coletado_em": "2026-11-27T18:59:51.190554+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-fern-species-disco.jpg",
+      "score": 4.902,
+      "cobertura": []
+    },
+    {
+      "id": "c13b1de20646",
+      "titulo": "Researchers reveal sex chromosome evolution and molecular sex markers in the pitcher plant Nepenthes mirabilis",
+      "url": "https://phys.org/news/2026-11-reveal-sex-chromosome-evolution-molecular.html",
+      "resumo": "Researchers have uncovered the genomic basis of sex determination in Nepenthes mirabilis, the only pitcher plant native to China, identifying an XX/XY sex chromosome system and molecular markers that can distinguish male from female plants long before they flower.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-27T16:50:02+00:00",
+      "coletado_em": "2026-11-27T18:59:51.190554+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-reveal-sex.jpg",
+      "score": 4.815,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "a350a6fd9ec6",
+      "titulo": "GXO doubling down on robotics in 2027",
+      "url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+      "resumo": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio. The post GXO doubling down on robotics in 2027 appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-27T13:56:43+00:00",
+      "coletado_em": "2026-11-27T18:59:51.192561+00:00",
+      "imagem_feed": null,
+      "score": 4.894,
+      "cobertura": []
+    },
+    {
+      "id": "eb20fa134e6e",
+      "titulo": "From lab to blueberry field: Blueberry-picking robot uses soft silicone bands to selectively harvest ripe fruit",
+      "url": "https://techxplore.com/news/2026-11-lab-blueberry-field-robot-soft.html",
+      "resumo": "Building a robot that can pick blueberries without damaging the fruit is a technical challenge. Turning that robot into something growers can afford and use in the field presents a different set of questions.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-27T12:40:01+00:00",
+      "coletado_em": "2026-11-27T18:59:51.192688+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-lab-to-blueberry.jpg",
+      "score": 4.437,
+      "cobertura": []
+    },
+    {
+      "id": "f28bf3186845",
+      "titulo": "Sony's dog robot can't do chores but offers companionship",
+      "url": "https://techxplore.com/news/2026-11-sony-dog-robot-chores-companionship.html",
+      "resumo": "The people at Sony don't use words like \"product\" or \"reboot\" when they talk about Aibo, the Japanese electronics and entertainment company's robotic dog.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-27T10:05:45+00:00",
+      "coletado_em": "2026-11-27T18:59:51.192688+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/japan-robot-dog.jpg",
+      "score": 4.246,
+      "cobertura": []
+    },
+    {
+      "id": "f1984f72225e",
+      "titulo": "Autonomous crane system handles port containers with centimeter-level precision",
+      "url": "https://techxplore.com/news/2026-11-autonomous-crane-port-centimeter-precision.html",
+      "resumo": "Robotic systems have already been deployed in many factories, industrial sites and warehouses worldwide to automate processes and improve their efficiency. A taxing task that requires the precise control of large machinery is lifting and moving shipping containers in ports.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-26T14:20:02+00:00",
+      "coletado_em": "2026-11-27T18:59:51.192688+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-autonomous-crane-sy-1.jpg",
+      "score": 3.932,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "13cc0cbce597",
+      "titulo": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1110189/",
+      "resumo": "Security updates have been issued by AlmaLinux (gdm, ghostscript, gnome-remote-desktop, grafana, kernel, kernel-rt, mariadb10.11, and virt:rhel and virt-devel:rhel), Debian (exim4, kernel, node-dompurify, and pam), Fedora (chromium, cockpit, forgejo, haveged, jupyterlab, kernel, mariadb10.11, mariadb11.8, mkvtoolnix, mosquitto, mozilla-ublock-origin, nodejs24, python-notebook, ruby, ruby-build, tpm2-tss, valkey, varnish, wordpress, xen, xq, and zstd), Gentoo (FreeType and ImageMagick), Mageia (flatpak, php8.4-mongodb, php8.5-mongodb, and unrtf), Oracle (cockpit-machines, flatpak-builder, grafana-pcp, httpd, mutter, nginx:1.24, openssl, and webkit2gtk3), Red Hat (container-tools:rhel8, grafana, grafana-pcp, java-17-openjdk, java-21-openjdk, java-25-openjdk, kernel, kernel-rt, mysql8.4, ruby, ruby4.0, ruby:2.5, ruby:3.3, and ruby:4.0), SUSE (afflib-devel, AppStream, aws-iam-authenticator, bugwarden, diffutils, epiphany, expat, firefox, haproxy, heimdall, hostapd, java-21-openjdk, java-25-openjdk, keepassxc, krb5, krb5-mini, kubevirt1.8, libeot, libjpeg-turbo, libnfs-devel, libXtst, libzvbi-chains0, mariadb-java-client, mtools, nginx, nvidia-modprobe.cuda, nvidia-open-driver-G06-signe",
+      "fonte": "LWN.net",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-27T14:22:47+00:00",
+      "coletado_em": "2026-11-27T18:59:51.193827+00:00",
+      "imagem_feed": null,
+      "score": 5.082,
+      "cobertura": []
+    },
+    {
+      "id": "efaeb4502ef5",
+      "titulo": "Netflix Builds Quasar to Measure the Blast Radius of Library API Changes",
+      "url": "https://www.infoq.com/news/2026/11/netflix-quasar-api-impact/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "Netflix developed Quasar, an internal tool that combines semantic code indexing and API comparisons to identify downstream consumers affected by library changes. Using SCIP, Amazon S3, and Athena, it traces API references across repositories, helping maintainers assess migration impact and make informed release decisions. Netflix is also exploring agent-assisted consumer migrations. By Leela Kumili",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-27T14:35:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.193022+00:00",
+      "imagem_feed": "https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg",
+      "score": 4.75,
+      "cobertura": []
+    },
+    {
+      "id": "2a5ff160879e",
+      "titulo": "“Gestão humanizada não é um slogan: é engenharia de confiabilidade aplicada a pessoas”, diz nova diretora do ICMC",
+      "url": "https://jornal.usp.br/institucional/para-mim-gestao-humanizada-nao-e-um-slogan-e-engenharia-de-confiabilidade-aplicada-a-pessoas/",
+      "resumo": "Kalinka Regina Lucas Jaquie Castelo Branco e Paulo Leandro Dattori da Silva assumem a diretoria do ICMC em São Carlos, em programação que também celebrou os 55 anos da unidade",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-27T11:15:56+00:00",
+      "coletado_em": "2026-11-27T18:59:51.212137+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261126_Posse_ICMC_IMG-20261126-WA0048-1024x538.jpg",
+      "score": 4.63,
+      "cobertura": []
+    },
+    {
+      "id": "7d1b2c1a33e5",
+      "titulo": "Hackers invadem principal plataforma de nuvem da Força Aérea dos EUA",
+      "url": "https://tecnoblog.net/noticias/hackers-invadem-principal-plataforma-de-nuvem-da-forca-aerea-dos-eua/",
+      "resumo": "Ataque ao Cloud One já provocou interrupções em sistemas da Força Aérea. Hackers invadem principal plataforma de nuvem da Força Aérea dos EUA",
+      "fonte": "Tecnoblog",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-27T17:31:40+00:00",
+      "coletado_em": "2026-11-27T18:59:51.216887+00:00",
+      "imagem_feed": "https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-software-capa-3-nov-2022.png",
+      "score": 4.587,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "742a4dc85d15",
+      "titulo": "Beijing’s AI ambitions are under threat as models may fall behind by up to nine months versus competitors — Chinese AI labs are under heavy fire from export controls, maturing chip stacks and a distillation crackdown",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/beijings-ai-ambitions-are-under-threat-as-models-may-fall-behind-by-up-to-nine-months-versus-competitors-chinese-ai-labs-are-under-heavy-fire-from-export-controls-maturing-chip-stacks-and-a-distillation-crackdown",
+      "resumo": "This week, several reports have detailed how closing GPU rental loopholes across Asia may have had an impact on the development of Chinese AI models.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-27T15:00:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.194236+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/72RfazhH7UiPwPYLuGp2yh-1920-80.jpg",
+      "score": 5.288,
+      "cobertura": []
+    },
+    {
+      "id": "b2b22398ee8b",
+      "titulo": "TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise",
+      "resumo": "TSMC brings agentic AI to chip design as A14 design rule count hits 3.6X that of N5 while customers demand 33% shorter development cycle.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-27T13:00:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.194236+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/zr4jtQdQr2Ewa8sDbKneqF-1920-80.jpg",
+      "score": 5.114,
+      "cobertura": []
+    },
+    {
+      "id": "137706532b4e",
+      "titulo": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome",
+      "url": "https://canaltech.com.br/apps/google-corrige-falha-que-fazia-aba-do-gemini-devorar-memoria-ram-no-chrome/",
+      "resumo": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome O Google corrigiu uma falha que fazia a versão web do Gemini consumir quantidades excessivas de memória RAM no Chrome. O problema era relatado por usuários havia mais de um ano, com registros de consumo de até 8,4 GB de RAM em uma única aba do navegador. A correção foi confirmada pelo perfil oficial de suporte do Google no Reddit, em resposta a um usuário que publicou uma imagem na qual a aba do Gemini consumia 5,4 GB de memória RAM . A empresa não explicou o que causava o problema e pediu que os usuários informem caso continuem enfrentando dificuldades relacionadas ao consumo de memória. De acordo com um levantamento do portal Android Authority, publicado nesta quinta-feira (26), o problema também afetava conversas curtas com a inteligência artificial (IA). Em um dos relatos, o consumo de RAM passou de aproximadamente 250 MB para 900 MB em apenas 15 minutos de conversa com o Gemini. Por que o Chrome consome tanta memória RAM? A memória RAM armazena temporariamente informações utilizadas pelos programas em execução no computador. Quando há pouca memória disponível, o desempenho de outros aplicativos pode ser",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-27T18:02:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.222684+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/B0h8i8hw0Rlgfya0-54BGPTG_7o=/1200x675/smart/filters:format(webp):quality(85)/a909272c-096c-4cda-a749-bc6616c9a20b.jpg",
+      "score": 4.992,
+      "cobertura": []
+    },
+    {
+      "id": "4d87447d6e2e",
+      "titulo": "Chips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed",
+      "url": "https://olhardigital.com.br/2026/11/27/pro/chips-avancados-da-nvidia-sao-encontrados-em-data-center-chines-ligado-a-megaspeed/",
+      "resumo": "Descoberta foi feita a partir de documentos apresentados por empresas chinesas para conseguir empréstimos bancários O post Chips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed apareceu primeiro em Olhar Digital .",
+      "fonte": "Olhar Digital",
+      "peso_fonte": 0.65,
+      "categorias": [
+        "hardware"
+      ],
+      "publicado": "2026-11-27T17:38:53+00:00",
+      "coletado_em": "2026-11-27T18:59:51.215000+00:00",
+      "imagem_feed": null,
+      "score": 4.8,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "8641946e4461",
+      "titulo": "A small galaxy's giant dark matter core challenges the standard cosmological model",
+      "url": "https://phys.org/news/2026-11-small-galaxy-giant-dark-core.html",
+      "resumo": "New findings show that a nearby dwarf galaxy, UGCA 320, may challenge some predictions of the widely accepted cosmological model of the universe. By combining observations from the MUSE instrument with radio measurements from the MeerKAT telescope, astronomers have found that it hosts an unusually large dark matter core. The paper was posted to the arXiv preprint server on Nov. 11.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-27T13:40:10+00:00",
+      "coletado_em": "2026-11-27T18:59:51.195428+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-galaxys-giant.jpg",
+      "score": 5.52,
+      "cobertura": []
+    },
+    {
+      "id": "a133916ae0f8",
+      "titulo": "The dark matter puzzle deepens: Nearby galaxies challenge cosmic simulations",
+      "url": "https://phys.org/news/2026-11-dark-puzzle-deepens-nearby-galaxies.html",
+      "resumo": "Galaxies appear to hold a surprise beneath their visible stars: Their inner regions contain less dark matter than some of our most advanced simulations predict. Dark matter is invisible, but its gravitational pull helps govern the motions of stars and gas. By measuring these movements, astronomers can reconstruct where this unseen matter lies and test the computer simulations used to understand the universe. A study of 136 nearby galaxies, involving the Instituto de Astrofísica de Canarias (IAC), reveals a discrepancy that becomes more extensive in more massive systems, offering fresh clues about how galaxies form and evolve.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-27T17:00:03+00:00",
+      "coletado_em": "2026-11-27T18:59:51.195428+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-dark-matter-puzzle.jpg",
+      "score": 5.332,
+      "cobertura": []
+    },
+    {
+      "id": "128bd72f98f2",
+      "titulo": "The faintest supernova ever observed refuses to go out, staying visible for nearly a year",
+      "url": "https://phys.org/news/2026-11-faintest-supernova-staying-visible-year.html",
+      "resumo": "An international team of astronomers, including Paul Groot of Radboud University, has discovered that a supernova explosion does not always have to be extremely bright. The team has identified the faintest supernova observed to date. It remained visible for an exceptionally long time and appears to have been caused by a so-called white dwarf and a relatively small companion star. The discovery may have implications for our understanding of the evolution of binary stars and the measurement of the expansion of the universe. The results were published in Nature Astronomy.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-27T15:40:27+00:00",
+      "coletado_em": "2026-11-27T18:59:51.195428+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-faintest-supernova.jpg",
+      "score": 5.201,
+      "cobertura": []
+    },
+    {
+      "id": "be352f5a2ff3",
+      "titulo": "JWST studies a tiny, metal-poor galaxy with just a fraction of the sun's oxygen abundance",
+      "url": "https://phys.org/news/2026-11-jwst-tiny-metal-poor-galaxy.html",
+      "resumo": "Astronomers using the James Webb Space Telescope (JWST) have studied one of the most metal-poor galaxies known. Seen as it was around 12.2 billion years ago, LAP2 is a tiny system with a stellar mass comparable to that of a massive star cluster. The research paper was posted to the arXiv preprint server on Nov. 3.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-26T20:00:01+00:00",
+      "coletado_em": "2026-11-27T18:59:51.195428+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-studies-an-extrem.jpg",
+      "score": 5.08,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "7b89e550aa90",
+      "titulo": "Quantum Computing 101: Can a Cat be Alive and Dead at The Same Time?",
+      "url": "https://thequantuminsider.com/2026/11/27/quantum-computing-101-can-a-cat-be-alive-and-dead-at-the-same-time/",
+      "resumo": "What is a qubit, why do quantum computers need to be colder than outer space, and what will they really be able to do? A plain-English guide to quantum computing, from Schrödinger’s cat to post-quantum cryptography.",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-27T16:51:24+00:00",
+      "coletado_em": "2026-11-27T18:59:51.196745+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Alive-and-Dead-Cat_.png",
+      "score": 5.967,
+      "cobertura": []
+    },
+    {
+      "id": "9ec2e2bd0574",
+      "titulo": "Guest Post: The Encryption Upgrade Needs a Backup Plan",
+      "url": "https://thequantuminsider.com/2026/11/27/encryption-upgrade-needs-backup-plan/",
+      "resumo": "Guest Post By Companies preparing for quantum computers may have to confront a threat that requires no quantum computer at all. For the operators of critical infrastructure, from electric utilities and water systems to hospitals and telecom networks, the lesson is simple: keep the move to quantum-resistant cryptography on schedule, but buy systems that can […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-27T13:27:38+00:00",
+      "coletado_em": "2026-11-27T18:59:51.196745+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/eusvweosble.jpg",
+      "score": 5.153,
+      "cobertura": []
+    },
+    {
+      "id": "719cb35376be",
+      "titulo": "Ethereum Plans Shift to Hash-Based Signatures for Post-Quantum Security",
+      "url": "https://thequantuminsider.com/2026/11/27/ethereum-shift-hash-based-signatures-post-quantum-security/",
+      "resumo": "Insider Brief Ethereum’s core developers are preparing to phase out the elliptic-curve cryptography that secures the network and switch to hash-based signatures, a change meant to protect against attacks powered by quantum computers or by advances in artificial intelligence, Crypto Briefing reported. The plan was set out in a series of blog posts under the […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-27T10:51:41+00:00",
+      "coletado_em": "2026-11-27T18:59:51.196745+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-27_15-50.png",
+      "score": 4.95,
+      "cobertura": []
+    },
+    {
+      "id": "d1ea87a6fbcf",
+      "titulo": "Gyeonggi Province Holds Forum on Quantum and Semiconductor Industry Cooperation",
+      "url": "https://thequantuminsider.com/2026/11/27/gyeonggi-province-quantum-industry-development-forum/",
+      "resumo": "Insider Brief PRESS RELEASE — The ‘Gyeonggi Quantum Innovation Forum and 2026 Gyeonggi Quantum-Semiconductor Convergence Industry Networking Day’, hosted by Gyeonggi Province and the Gyeonggi Business and Science Accelerator and organised by Sungkyunkwan University’s Anchor Project Group and the Korea Nanotechnology Institute, was held on the 25th at the Novotel Ambassador Suwon. The event brought […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-27T16:07:06+00:00",
+      "coletado_em": "2026-11-27T18:59:51.196745+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-27_21-05.png",
+      "score": 4.894,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "0e0aeecf9560",
+      "titulo": "Skip the junk: These are Amazon’s best Black Friday tech deals",
+      "url": "https://www.pcworld.com/article/1384292/best-black-friday-amazon-tech-deals-2026.html",
+      "resumo": "It’s officially Black Friday season, which means it’s time for Amazon tech deals. Of course, there’s always the ever-present issue of sifting through the clutter to find the deals that are truly worthwhile. This is where PCWorld’s tech experts come in. Our guide to the best Amazon Black Friday tech deals will point you to the best bargains in all the most popular tech categories. Deals at a glance Top tech deals on Amazon Under $25: Amazon Fire TV Stick 4K , now $19.99, was $59.99 (lowest price ever) Budget laptop: Acer Aspire Lite 15 , $474.98 ($325.01 off at Amazon) Midrange laptop: Acer Aspire 14 AI , $649.99 ($200 off at Amazon) Premium laptop: Microsoft Surface Laptop , $999 ($250 off at Amazon) Best midrange Chromebook: Lenovo Chromebook m14 , $245.99 ($44 off at Amazon) AMD mini PC: Bosgame E5 —$199.49 (42% off on Amazon) Intel mini PC: Glorlin Mini PC , $382 (15% off on Amazon) Budget office monitor: AOC 27-inch fast IPS 1080p — $95 ($25 off at Amazon) OLED gaming monitor: Alienware 34-inch 1440p 240Hz — $719 ($80 off at Amazon) Best Thunderbolt 4 docking station: Plugable Thunderbolt 4 Dock (TBT4-UD5) , 96W charging, $159.96 ($40 off at Amazon) USB-C docking station: Anker",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-27T17:51:45+00:00",
+      "coletado_em": "2026-11-27T18:59:51.198040+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/1384292-0-64544400-1794921573-Amazon-logo-orange-smile-on-black-background.jpg?quality=50&strip=all",
+      "score": 6.073,
+      "cobertura": [
+        "https://www.tomshardware.com/laptops/gaming-laptops/these-are-the-best-gaming-laptop-deals-weve-found-this-black-friday-to-suit-all-budgets-save-up-to-usd1-200-off-a-range-of-portable-powerhouses",
+        "https://www.tomshardware.com/video-games/retro-gaming/here-are-the-best-retro-tech-deals-weve-found-for-black-friday-deals-on-retro-tech-for-the-modern-pc-setup",
+        "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
+        "https://www.techspot.com/news/114707-best-black-friday-2026-deals-tech-pc-hardware.html",
+        "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
+        "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live",
+        "https://www.tomshardware.com/pc-components/ssds/best-ssd-deals-discounts-2026",
+        "https://www.tomshardware.com/peripherals/gaming-mice/these-are-the-best-black-friday-gaming-mouse-deals-weve-found-so-far-even-the-newer-generations-are-on-sale",
+        "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+        "https://www.tomshardware.com/monitors/gaming-monitors/best-gaming-monitor-deals-oled",
+        "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+        "https://www.tomshardware.com/gift-guides-seasonal-sales/best-pc-building-tool-deals-screwdrivers-blowers",
+        "https://www.tomshardware.com/live/news/best-black-friday-2026-3d-printer-deals-day-two"
+      ]
+    },
+    {
+      "id": "7eaa6865d8b5",
+      "titulo": "Best Black Friday monitor deals: The perfect PC upgrade for 2026",
+      "url": "https://www.pcworld.com/article/1383757/best-black-friday-monitor-deals-2026.html",
+      "resumo": "Trying to find good deals on laptops, desktops, or gaming hardware this year has been kind of like trying to find a safe topic of conversation around a Thanksgiving dinner table: borderline impossible. Fortunately, monitors don’t rely on big memory and storage, and panels are only getting cheaper. So this Black Friday is a great time to hunt for a new monitor. We’ve been reviewing monitors for decades at PCWorld, so we don’t just look at the bottom-line price when making a recommendation. We take in the visual fidelity and panel quality, extra features like USB-C video or multiple PC inputs, brand reliability, and what the typical user actually needs and wants. We avoid “whitebox” brands, though occasionally the savings are so great that they’ll beat out the bigger players. For gamers, it’s all about OLED right now. The panels are getting fast enough, bright enough, and cheap enough that almost anyone can justify the upgrade, especially if you want a big centerpiece monitor. For more regular “office” use we insist on an IPS-LCD panel for color accuracy and comfortable text reading, with USB-C power delivery being a great upgrade for single-cable connections to laptops. Deals at a g",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-27T16:44:19+00:00",
+      "coletado_em": "2026-11-27T18:59:51.198040+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/1383757-0-60444900-1794921336-Monitor-deal-roundup.png",
+      "score": 5.955,
+      "cobertura": [
+        "https://www.tomshardware.com/video-games/retro-gaming/here-are-the-best-retro-tech-deals-weve-found-for-black-friday-deals-on-retro-tech-for-the-modern-pc-setup",
+        "https://www.tomshardware.com/live/news/black-friday-2026-monitor-deals",
+        "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
+        "https://www.techspot.com/news/114707-best-black-friday-2026-deals-tech-pc-hardware.html",
+        "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
+        "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live",
+        "https://www.tomshardware.com/pc-components/ssds/best-ssd-deals-discounts-2026",
+        "https://www.tomshardware.com/peripherals/gaming-mice/these-are-the-best-black-friday-gaming-mouse-deals-weve-found-so-far-even-the-newer-generations-are-on-sale",
+        "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+        "https://www.tomshardware.com/monitors/gaming-monitors/best-gaming-monitor-deals-oled",
+        "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+        "https://www.tomshardware.com/gift-guides-seasonal-sales/best-pc-building-tool-deals-screwdrivers-blowers",
+        "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-black-friday-soldering-iron-deals-for-hobbyists-and-makers-right-now-limited-time-sale-discounts-on-digital-irons-premium-solder-and-heat-proof-accessories",
+        "https://www.tomshardware.com/pc-components/motherboards/best-motherboard-deals-amd-intel",
+        "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+        "https://www.tomshardware.com/live/news/best-black-friday-2026-3d-printer-deals-day-two"
+      ]
+    },
+    {
+      "id": "8454bb7d7e0c",
+      "titulo": "Best Black Friday Chromebook deals: Real bargains are rare, but we found them",
+      "url": "https://www.pcworld.com/article/1377179/best-black-friday-chromebook-deals-2026.html",
+      "resumo": "Black Friday deals have arrived! I’ve collected the best deals on Chromebooks for years, and I’m here once again to dig out the best Chromebook deals for Black Friday. I’m going to warn you, though — this job is harder than ever. You’re probably aware of how laptop prices have skyrocketed because of the shortages of memory and storage, and unfortunately those trends are affecting Chromebooks as well. There are deals, but they’re tougher to find. I’m going to continue a trend I began last year, listing a couple of refurbished Chromebooks first in case you want some truly deep discounts. I’ll move on to budget Chromebooks, and then midrange and premium Chromebooks. If I were buying a Chromebook, I’d want one with at least 8GB of memory, and I’d want it for about $250. Unfortunately, I think that you’re going to be forced to pay more than that, but I’ll do my best to guide you to the best values overall, with an explanation of why I chose each deal. Check out our list of the best Chromebooks for more ideas. (I also found a deal on Google’s new Googlebook laptops, listed below.) Deals at a glance Best refurbished Chromebook: Dell Chromebook 11 3100 (Renewed), (Celeron N4020/4GB RAM/16G",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-27T17:29:57+00:00",
+      "coletado_em": "2026-11-27T18:59:51.198040+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/1377179-0-71975700-1794921596-Chromebook-deals-pcworld.png",
+      "score": 5.534,
+      "cobertura": [
+        "https://www.tomshardware.com/laptops/gaming-laptops/these-are-the-best-gaming-laptop-deals-weve-found-this-black-friday-to-suit-all-budgets-save-up-to-usd1-200-off-a-range-of-portable-powerhouses",
+        "https://www.tomshardware.com/video-games/retro-gaming/here-are-the-best-retro-tech-deals-weve-found-for-black-friday-deals-on-retro-tech-for-the-modern-pc-setup",
+        "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
+        "https://www.techspot.com/news/114707-best-black-friday-2026-deals-tech-pc-hardware.html",
+        "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
+        "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live",
+        "https://www.tomshardware.com/pc-components/ssds/best-ssd-deals-discounts-2026",
+        "https://www.tomshardware.com/peripherals/gaming-mice/these-are-the-best-black-friday-gaming-mouse-deals-weve-found-so-far-even-the-newer-generations-are-on-sale",
+        "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+        "https://www.tomshardware.com/monitors/gaming-monitors/best-gaming-monitor-deals-oled",
+        "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+        "https://www.tomshardware.com/gift-guides-seasonal-sales/best-pc-building-tool-deals-screwdrivers-blowers",
+        "https://www.tomshardware.com/live/news/best-black-friday-2026-3d-printer-deals-day-two"
+      ]
+    },
+    {
+      "id": "3df0c8485143",
+      "titulo": "The HyperX Omen Max 16 laptop with a RTX 5090 and a Core i9 Ultra can be yours for amazing $1,200 off",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/the-hyperx-omen-max-16-gaming-laptop-with-a-rtx-5090-and-a-core-i9-ultra-can-be-yours-for-an-amazing-usd1-200-off-highest-end-gear-for-26-percent-off-less-than-a-comparable-desktop-pc",
+      "resumo": "The HyperX Omen Max 16 laptop with a RTX 5090 and a Core i9 Ultra can be yours for just $3,799 — highest-end gear for less price than a comparable desktop",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-27T17:20:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.194236+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/Gy3fmrHAqMnrZN3gUxgBDb-1920-80.png",
+      "score": 5.517,
+      "cobertura": []
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "0f9957586415",
+      "titulo": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+      "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "resumo": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the best answers from large language models (LLMs) by carefully wording instructions, supplying examples, and giving the systems personas or other context. Dinesh Rai Employer: Boston Children’s Hospital Occupation: Clinical AI Engineer Education: Bachelor’s degree in supply-chain management and marketing sciences, Rutgers Business School; Doctor of Medicine, Albert Einstein College of Medicine It was an unusual role for a hospital, but Rai had an unusual résumé. While he was trained as an emergency physician, he had also taught himself to code just before entering medical school. After completing a fellowship in clinical informatics—which focuses on the intersection of clinical practice and IT systems—he moved into health technology. Boston Children’s brought him on board in August 2023. Three years later, Rai still works there. Prompt engineering, however, has become a much less important par",
+      "fonte": "IEEE Spectrum",
+      "peso_fonte": 0.95,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-27T14:00:01+00:00",
+      "coletado_em": "2026-11-27T18:59:51.208583+00:00",
+      "imagem_feed": "https://spectrum.ieee.org/media-library/smiling-man-in-glasses-sits-at-a-desk-surrounded-by-computer-monitors-and-gadgets.png?id=68731256&width=980",
+      "score": 5.649,
+      "cobertura": []
+    },
+    {
+      "id": "137706532b4e",
+      "titulo": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome",
+      "url": "https://canaltech.com.br/apps/google-corrige-falha-que-fazia-aba-do-gemini-devorar-memoria-ram-no-chrome/",
+      "resumo": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome O Google corrigiu uma falha que fazia a versão web do Gemini consumir quantidades excessivas de memória RAM no Chrome. O problema era relatado por usuários havia mais de um ano, com registros de consumo de até 8,4 GB de RAM em uma única aba do navegador. A correção foi confirmada pelo perfil oficial de suporte do Google no Reddit, em resposta a um usuário que publicou uma imagem na qual a aba do Gemini consumia 5,4 GB de memória RAM . A empresa não explicou o que causava o problema e pediu que os usuários informem caso continuem enfrentando dificuldades relacionadas ao consumo de memória. De acordo com um levantamento do portal Android Authority, publicado nesta quinta-feira (26), o problema também afetava conversas curtas com a inteligência artificial (IA). Em um dos relatos, o consumo de RAM passou de aproximadamente 250 MB para 900 MB em apenas 15 minutos de conversa com o Gemini. Por que o Chrome consome tanta memória RAM? A memória RAM armazena temporariamente informações utilizadas pelos programas em execução no computador. Quando há pouca memória disponível, o desempenho de outros aplicativos pode ser",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-27T18:02:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.222684+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/B0h8i8hw0Rlgfya0-54BGPTG_7o=/1200x675/smart/filters:format(webp):quality(85)/a909272c-096c-4cda-a749-bc6616c9a20b.jpg",
+      "score": 5.492,
+      "cobertura": []
+    },
+    {
+      "id": "e2757cbeb59f",
+      "titulo": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA",
+      "url": "https://canaltech.com.br/apps/gemini-live-vai-ganhar-aba-de-atividade-para-gerenciar-tarefas-e-rotinas-da-ia/",
+      "resumo": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA O Google trabalha em uma atualização para o Gemini Live que permitirá acompanhar tarefas executadas pela inteligência artificial (IA) em segundo plano . O modo de conversas por voz do Gemini ganhará uma seção chamada \"Atividade\", que reunirá tarefas pontuais e programadas pelo usuário. A novidade foi identificada pelo portal Android Authority nesta sexta-feira (27), durante uma análise do código da versão 17.78.14 do aplicativo do Google para Android. Atualmente, já é possível solicitar a execução de tarefas por meio do Gemini Live. A atualização permitirá acompanhar essas atividades sem precisar retornar à interface principal do aplicativo. Como funcionará a aba de Atividade do Gemini Live? Localizada na parte superior da interface do Gemini Live, a nova seção será dividida em duas categorias: Tarefas: atividades atribuídas à IA para serem executadas em segundo plano; Agendadas: tarefas que devem ser realizadas periodicamente, conforme as instruções do usuário. Nos testes do Android Authority, foi possível acessar as duas abas, mas nenhuma delas exibiu as tarefas criadas pelo portal. Quais tarefas podem",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-27T17:02:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.222684+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+      "score": 5.385,
+      "cobertura": []
+    },
+    {
+      "id": "5d39f3c4f93f",
+      "titulo": "Agentes de inteligência artificial prometem facilitar tarefas, mas ampliam riscos de segurança e privacidade",
+      "url": "https://jornal.usp.br/radio-usp/agentes-de-inteligencia-artificial-prometem-facilitar-tarefas-mas-ampliam-riscos-de-seguranca-e-privacidade/",
+      "resumo": "Ferramentas capazes de realizar compras, organizar compromissos e acessar informações exigem limites de atuação, controle de gastos e aprovação humana para evitar fraudes e prejuízos",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-27T12:17:35+00:00",
+      "coletado_em": "2026-11-27T18:59:51.212137+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_luli2--1024x1024.jpg",
+      "score": 5.208,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "1f97ee729b76",
+      "titulo": "Salty lake water helps a zinc battery keep working at −50°C",
+      "url": "https://techxplore.com/news/2026-11-salty-lake-zinc-battery-50c.html",
+      "resumo": "Extreme cold can affect a water-based battery's ability to deliver electricity. Its liquid electrolyte—the fluid that carries charge—can freeze, while the charged particles moving through it slow down. Researchers have now built a rechargeable zinc battery that works at −50°C (−58°F) using saline lake water as a starting ingredient.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-27T14:30:01+00:00",
+      "coletado_em": "2026-11-27T18:59:51.210270+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/salty-lake-water-helps.jpg",
+      "score": 4.592,
+      "cobertura": []
+    },
+    {
+      "id": "18dae0d9c510",
+      "titulo": "CNH B pode dirigir eletrificados com mais de 4.250 kg?",
+      "url": "https://canaltech.com.br/carros/cnh-b-pode-dirigir-eletrificados-com-mais-de-4250-kg/",
+      "resumo": "CNH B pode dirigir eletrificados com mais de 4.250 kg? Quem dirige SUVs e picapes eletrificados precisa ter atenção. É que esses carros podem ser mais pesados que suas versões equivalentes a combustão — e, graças a uma mudança no Código de Trânsito Brasileiro (CTB) sancionada em setembro, motoristas com CNH na categoria B foram autorizados a conduzir elétricos ou híbridos com peso bruto total (PBT) de até 4.250 kg . A alteração no CTB importa porque amplia em 750 kg o teto tradicional de 3.500 kg para compensar o peso extra das baterias presentes em SUVs e picapes eletrificados — contanto que o modelo possua tração predominantemente elétrica. A flexibilização foi incorporada a uma legislação voltada a linhas de financiamento para taxistas, transporte escolar e motoristas de aplicativo, mas beneficia todos os condutores da categoria B que respeitarem o limite de até oito lugares além do motorista. Para modelos puramente a combustão ou sem predominância elétrica, o limite máximo de 3.500 kg permanece. O que é o PBT e penalidades por irregularidade O PBT é uma especificação que descreve a soma da tara do veículo com sua capacidade máxima de carga e passageiros ; portanto, é equivocado",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-27T18:00:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.222684+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/CDLUKI-lPq16-ZC94i2OUckDx-M=/1200x675/smart/filters:format(webp):quality(85)/40528ea1-8aa0-4e1f-b535-e670301f9646.png",
+      "score": 4.488,
+      "cobertura": []
+    },
+    {
+      "id": "19a20347ae20",
+      "titulo": "Q&A: Evolutionary algorithms may automate the search for better energy forecasting model settings",
+      "url": "https://techxplore.com/news/2026-11-qa-evolutionary-algorithms-automate-energy.html",
+      "resumo": "A doctoral dissertation of Aleksei Vakhnin in the field of Environmental Science will be examined at the Faculty of Science, Forestry and Technology, Kuopio campus.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-27T15:40:06+00:00",
+      "coletado_em": "2026-11-27T18:59:51.210270+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2025/solar.jpg",
+      "score": 4.2,
+      "cobertura": []
+    },
+    {
+      "id": "dcbee2fc29c2",
+      "titulo": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+      "resumo": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a major source of plastic pollution into a valuable industrial resource while making lubricant production more sustainable.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-27T09:52:24+00:00",
+      "coletado_em": "2026-11-27T18:59:51.209967+00:00",
+      "imagem_feed": null,
+      "score": 4.081,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "id": "b22c2c475111",
+      "titulo": "Extensão falsa do Planilhas Google é usada para espionar e roubar e-mails do Gmail",
+      "url": "https://canaltech.com.br/seguranca/extensao-falsa-do-planilhas-google-e-usada-para-espionar-e-roubar-e-mails-do-gmail/",
+      "resumo": "Extensão falsa do Planilhas Google é usada para espionar e roubar e-mails do Gmail Uma extensão falsa do Planilhas Google (Google Sheets) está sendo utilizada por cibercriminosos para espionar e roubar e-mails do Gmail . A ferramenta maliciosa consegue monitorar até dez contas simultaneamente e pode voltar a interceptar mensagens mesmo após o usuário alterar sua senha. O ataque foi detalhado nesta terça-feira (24) por pesquisadores da empresa de cibersegurança Gen Threat Labs. A extensão é instalada no Google Chrome sem o conhecimento da vítima pelo Remus Stealer, um malware desenvolvido para roubar informações de usuários do Windows. Os responsáveis pelo malware afirmavam ter descoberto uma vulnerabilidade no Gmail. Em resposta ao portal Cybernews, o Google negou a existência de uma falha de segurança relacionada ao ataque. Como funciona o roubo de e-mails do Gmail? Após infectar o computador, o Remus modifica as configurações do Chrome para instalar a extensão e ativar o modo de desenvolvedor do navegador. A ferramenta aparece com o nome \"Google Sheets\" , na versão 0.5.4, e utiliza a descrição de uma extensão legítima do Google que permite editar documentos offline. A cada minuto",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "computadores_pessoais",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-27T13:01:00+00:00",
+      "coletado_em": "2026-11-27T18:59:51.222684+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/i3LajvhteISaZdAnv7CscehCtgg=/1200x675/smart/filters:format(webp):quality(85)/85f9f246-a04f-449d-ab4f-e56153ba5c2d.png",
+      "score": 4.016,
+      "cobertura": []
+    },
+    {
+      "id": "e28651285ba4",
+      "titulo": "HONOR prepara celular com três câmeras gigantes de 200 MP, diz vazamento",
+      "url": "https://canaltech.com.br/smartphone/honor-prepara-celular-com-tres-cameras-gigantes-de-200-mp-diz-vazamento/",
+      "resumo": "HONOR prepara celular com três câmeras gigantes de 200 MP, diz vazamento A HONOR pode estar preparando um dos conjuntos fotográficos mais ambiciosos do mercado de smartphones. A fabricante chinesa estaria desenvolvendo um celular com três câmeras traseiras de 200 MP , incluindo uma lente ultrawide com sensor de grandes dimensões. As informações foram publicadas pelo leaker Digital Chat Station em uma postagem na rede social chinesa Weibo . Segundo o informante, o projeto prevê sensores de alta resolução nas câmeras principal, teleobjetiva e ultrawide , configuração que ainda é pouco comum no segmento. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas O destaque fica justamente para a terceira lente, que também teria 200 MP e sensor de 1/1,5 polegada . A especificação sugere uma aposta em fotografias com ângulo mais amplo sem abrir mão de uma quantidade elevada de detalhes. Nova câmera ultrawide pode melhorar fotos noturnas A escolha de um sensor maior para a câmera ultrawide pode trazer benefícios que vão além da resolução do novo dispositivo da HONOR. Isso porque, com mais pixels disponíveis, o aparelho teria maior margem para realizar recortes nas imagens, recur",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "ciberseguranca"
+      ],
+      "publicado": "2026-11-27T14:55:08+00:00",
+      "coletado_em": "2026-11-27T18:59:51.222684+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/yQxsjKmqH9CKDkqSjMxT5v5oaaE=/1200x675/smart/filters:format(webp):quality(85)/5c2f7374-c3d5-478d-a477-ec0cb38b6275.png",
+      "score": 1.18,
+      "cobertura": []
+    }
+  ]
+}
