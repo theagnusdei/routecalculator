@@ -1,0 +1,694 @@
+{
+  "medicina": [
+    {
+      "id": "3d1238c18443",
+      "titulo": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+      "url": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+      "resumo": "Experimental drug invika halts progression of refractory tumors by selectively stimulating tumor-fighting T cells.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-28T17:33:32.895639+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "620a21301f08",
+      "titulo": "Integrated health service delivery through medical mobile units helped to reduce deaths among individuals at risk for HIV who also inject drugs",
+      "url": "https://www.nih.gov/news-events/news-releases/integrated-health-service-delivery-through-medical-mobile-units-helped-reduce-deaths-among-individuals-risk-hiv-who-also-inject-drugs",
+      "resumo": "NIH-funded clinical trial shows mobile units may help overcome significant barriers to accessing HIV and addiction treatment, but replication is needed.",
+      "fonte": "NIH",
+      "peso_fonte": 1.0,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": null,
+      "coletado_em": "2026-11-28T17:33:32.895639+00:00",
+      "imagem_feed": null,
+      "score": 5.5,
+      "cobertura": []
+    },
+    {
+      "id": "eb86f7fecac5",
+      "titulo": "New cancer drug tears down tumors’ walls and unleashes the immune system",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126063318.htm",
+      "resumo": "A promising experimental drug breaks down the protective barriers that many deadly cancers use to hide from the immune system. In mice, it eliminated aggressive pancreatic tumors, prevented breast cancer from spreading, and made otherwise resistant tumors vulnerable to immunotherapy. The treatment also created lasting immune memory that protected animals against future tumors.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "medicina"
+      ],
+      "publicado": "2026-11-28T12:54:23+00:00",
+      "coletado_em": "2026-11-28T17:33:32.896553+00:00",
+      "imagem_feed": null,
+      "score": 5.429,
+      "cobertura": []
+    },
+    {
+      "id": "4c4694185eb5",
+      "titulo": "Incidência de câncer de estômago chama atenção entre adultos mais jovens",
+      "url": "https://jornal.usp.br/campus-ribeirao-preto/incidencia-de-cancer-de-estomago-chama-atencao-entre-adultos-mais-jovens/",
+      "resumo": "Evolução da medicina, acesso aos serviços de saúde e fatores ambientais ajudam a compreender o cenário da doença",
+      "fonte": "Jornal da USP",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-11-27T12:45:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.918032+00:00",
+      "imagem_feed": "https://jornal.usp.br/wp-content/uploads/2026/11/20261126_cancer-estomago-1024x538.jpg",
+      "score": 5.229,
+      "cobertura": []
+    }
+  ],
+  "biologia": [
+    {
+      "id": "bb82d7b7b696",
+      "titulo": "CRISPR is now being used to control genes, not just edit them",
+      "url": "https://www.newscientist.com/article/2601111-crispr-is-now-being-used-to-control-genes-instead-of-editing-them/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "resumo": "CRISPR-based treatments that work by turning genes on or off are being tested in trials, and could be even more powerful than conventional gene editing",
+      "fonte": "New Scientist",
+      "peso_fonte": 0.85,
+      "categorias": [
+        "medicina",
+        "biologia"
+      ],
+      "publicado": "2026-11-28T09:00:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.958548+00:00",
+      "imagem_feed": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_322188779.jpg",
+      "score": 5.07,
+      "cobertura": []
+    },
+    {
+      "id": "d941e8c4ebfc",
+      "titulo": "Why fertile male killifish outlive their peers",
+      "url": "https://phys.org/news/2026-11-fertile-male-killifish-outlive-peers.html",
+      "resumo": "Why do some individuals of the same species live significantly longer than others? In evolutionary biology and aging research, this question is often linked to a trade-off between reproduction and survival. The underlying idea is that energy and resources invested in reproduction may lead to compromises in repair and maintenance, thereby hindering a long life. Thus, the assumption is that particularly successful reproduction at a young age comes at the cost of a shorter lifespan.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-27T16:10:03+00:00",
+      "coletado_em": "2026-11-28T17:33:32.898423+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-fertile-male-killi.jpg",
+      "score": 4.511,
+      "cobertura": []
+    },
+    {
+      "id": "6adc1a92e5a3",
+      "titulo": "Plant-inspired adhesive joins tiny blood vessels without stitches",
+      "url": "https://phys.org/news/2026-11-adhesive-tiny-blood-vessels.html",
+      "resumo": "Sewing together a blood vessel just a millimeter wide is delicate work. The connection must withstand each pulse while limiting damage to the vessel's inner lining. A new adhesive inspired by plant roots offers another approach. In rats, it cut the average joining time from about 39 minutes to less than nine while preserving a smoother passage for blood.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-28T17:00:01+00:00",
+      "coletado_em": "2026-11-28T17:33:32.898423+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-inspired-adhesiv-1.jpg",
+      "score": 4.486,
+      "cobertura": []
+    },
+    {
+      "id": "840eaea43058",
+      "titulo": "Snapping shrimp without their 'helmets' show signs of disorientation after a blast from a nearby neighbor",
+      "url": "https://phys.org/news/2026-11-snapping-shrimp-helmets-disorientation-blast.html",
+      "resumo": "Snapping shrimp wield weapons powerful enough to endanger their own nervous systems. By quickly closing an oversized claw, they create a bubble whose collapse releases a shock wave. During fights, rivals can fire these blasts within a centimeter (0.4 inches) of each other's eyes and brains.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "biologia"
+      ],
+      "publicado": "2026-11-28T16:00:01+00:00",
+      "coletado_em": "2026-11-28T17:33:32.898423+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/snapping-shrimp-withou.jpg",
+      "score": 4.378,
+      "cobertura": []
+    }
+  ],
+  "robotica": [
+    {
+      "id": "a350a6fd9ec6",
+      "titulo": "GXO doubling down on robotics in 2027",
+      "url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+      "resumo": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio. The post GXO doubling down on robotics in 2027 appeared first on The Robot Report .",
+      "fonte": "The Robot Report",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-27T13:56:43+00:00",
+      "coletado_em": "2026-11-28T17:33:32.900350+00:00",
+      "imagem_feed": null,
+      "score": 3.806,
+      "cobertura": []
+    },
+    {
+      "id": "eb20fa134e6e",
+      "titulo": "From lab to blueberry field: Blueberry-picking robot uses soft silicone bands to selectively harvest ripe fruit",
+      "url": "https://techxplore.com/news/2026-11-lab-blueberry-field-robot-soft.html",
+      "resumo": "Building a robot that can pick blueberries without damaging the fruit is a technical challenge. Turning that robot into something growers can afford and use in the field presents a different set of questions.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-27T12:40:01+00:00",
+      "coletado_em": "2026-11-28T17:33:32.900474+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-lab-to-blueberry.jpg",
+      "score": 3.427,
+      "cobertura": []
+    },
+    {
+      "id": "f28bf3186845",
+      "titulo": "Sony's dog robot can't do chores but offers companionship",
+      "url": "https://techxplore.com/news/2026-11-sony-dog-robot-chores-companionship.html",
+      "resumo": "The people at Sony don't use words like \"product\" or \"reboot\" when they talk about Aibo, the Japanese electronics and entertainment company's robotic dog.",
+      "fonte": "Tech Xplore",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "robotica"
+      ],
+      "publicado": "2026-11-27T10:05:45+00:00",
+      "coletado_em": "2026-11-28T17:33:32.900474+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/japan-robot-dog.jpg",
+      "score": 3.375,
+      "cobertura": []
+    },
+    {
+      "id": "e53352e100c3",
+      "titulo": "Xiaomi S40: vale a pena comprar o robô aspirador em 2027?",
+      "url": "https://canaltech.com.br/eletro/xiaomi-s40-vale-a-pena-comprar-o-robo-aspirador-em-2027/",
+      "resumo": "Xiaomi S40: vale a pena comprar o robô aspirador em 2027? Robôs aspiradores são uma daquelas tecnologias que parecem feitas sob medida para quem tem uma rotina corrida. Em vez de reservar alguns minutos todos os dias para varrer a casa, basta programar o aparelho e deixar que ele percorra os cômodos enquanto você trabalha, descansa ou cuida de outras tarefas. O Xiaomi Robot Vacuum S40 tenta entregar essa praticidade sem cobrar o preço de modelos mais sofisticados. Ele tem sucção de até 10.000 Pa, navegação a laser LDS, controle pelo aplicativo Xiaomi Home e um reservatório de água para passar pano . A proposta é aspirar e limpar o piso em uma mesma rotina, com pouca intervenção do usuário. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Mas existe uma diferença importante entre manter a casa limpa e fazer uma faxina completa . O S40 consegue recolher poeira, cabelos, pelos e farelos que aparecem no dia a dia, mas não tem um sistema de esfregação capaz de remover sozinho manchas secas ou sujeira pesada. Além disso, o usuário ainda precisa esvaziar o compartimento de pó, lavar o pano e preparar o ambiente. Em 2027, o Xiaomi S40 continua sendo uma opção interessante par",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "robotica",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-28T13:00:03+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/6M0D6_DPIL-mcNW-RXhM5l19ybU=/1200x675/smart/filters:format(webp):quality(85)/6ad1a6c6-139e-4c62-b6db-e2568126bd04.jpeg",
+      "score": 1.637,
+      "cobertura": []
+    }
+  ],
+  "software": [
+    {
+      "id": "72af7ad542e7",
+      "titulo": "Google Enhances its Open-Source MaxText Training Framework for Long-Context Training",
+      "url": "https://www.infoq.com/news/2026/11/google-long-context-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "resumo": "To address the computational, memory, and communication bottlenecks of long-context training, Google has integrated four context-parallelism strategies into MaxText, its open-source JAX training framework, enabling LLM training with context lengths up to 14 million tokens on Cloud TPUs. By Sergio De Simone",
+      "fonte": "InfoQ",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "software"
+      ],
+      "publicado": "2026-11-28T16:00:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.900803+00:00",
+      "imagem_feed": "https://res.infoq.com/news/2026/11/google-long-context-training/en/headerimage/google-maxtext-training-1795880642734.jpeg",
+      "score": 5.528,
+      "cobertura": []
+    },
+    {
+      "id": "0b16c518e089",
+      "titulo": "Como a inteligência artificial está acelerando ports não oficiais de jogos",
+      "url": "https://canaltech.com.br/games/como-a-inteligencia-artificial-esta-acelerando-ports-nao-oficiais-de-jogos/",
+      "resumo": "Como a inteligência artificial está acelerando ports não oficiais de jogos Muitos jogadores veem uma verdadeira corrida pelos ports não oficiais de jogos, cujo objetivo é recriar as principais experiências do PlayStation, Nintendo e XBOX nos computadores. Quanto mais veloz e mais recursos acrescentar, é melhor e torna o usuário “famoso” dentro da comunidade. O processo, que costumava levar anos, hoje em dia chega ao máximo de meses . Em alguns casos, semanas ou até mesmo dias. Para você ter uma ideia, em menos de uma semana do lançamento de GTA 6 — o game mais esperado de todos os tempos — ele já é jogável e logo será portado por completo . A tendência é que, em pouco tempo e com uso da IA, qualquer máquina execute os principais títulos disponíveis. O remake de The Legend of Zelda: Ocarina of Time passou por isso , Grand Theft Auto VI está prestes a passar e não falta muito para vermos uma agilidade ainda maior. Saiba como a inteligência artificial acelera a chegada de ports não oficiais de jogos , assim como abre caminho para uma democratização ainda maior dentro da comunidade: Os ports do “Velho Testamento” Quando um desenvolvedor ou grupo de devs decidia levar um jogo exclusivo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-28T17:00:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/eZqzOOeRV3-oZGzCLiA2K43k-GU=/1200x675/smart/filters:format(webp):quality(85)/1b281f3e-3d57-4adf-b302-640c650ff4cc.jpg",
+      "score": 4.536,
+      "cobertura": []
+    },
+    {
+      "id": "3367d0424644",
+      "titulo": "A crise de confiança no multiplayer: o que a indústria de games precisa aprender sobre transparência",
+      "url": "https://canaltech.com.br/games/a-crise-de-confianca-no-multiplayer-o-que-a-industria-de-games-precisa-aprender-sobre-transparencia/",
+      "resumo": "A crise de confiança no multiplayer: o que a indústria de games precisa aprender sobre transparência Os jogos multiplayer sempre tiveram um elemento que vai além da competição: a convivência entre pessoas. Seja em uma partida casual com amigos ou em uma disputa profissional, a experiência depende diretamente da interação entre os jogadores. É por isso que a toxicidade virou um dos principais desafios da indústria de games . O problema vai de ofensas durante uma partida a comportamentos capazes de afastar pessoas de comunidades inteiras e comprometer a relação delas com os próprios jogos. Nos últimos anos, as desenvolvedoras avançaram na criação de ferramentas para identificar e combater essas práticas. Sistemas automatizados analisam mensagens, reconhecem padrões de comportamento e identificam infrações em uma escala que equipes humanas sozinhas não dariam conta. Esse avanço é necessário, especialmente em jogos que reúnem milhões de pessoas. Mas pouca atenção vai para o que acontece depois que uma denúncia é feita . Pela minha experiência, boa parte da moderação acontece nos bastidores. O jogador identifica uma conduta inadequada, usa a ferramenta de denúncia e, muitas vezes, segue",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-28T16:30:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/J6-WC8ihRYWbSuaHwLLR6_38E_M=/1200x675/smart/filters:format(webp):quality(85)/e467ff99-8e30-48c7-94a0-4e167611caa8.png",
+      "score": 4.481,
+      "cobertura": []
+    },
+    {
+      "id": "0596db4ec183",
+      "titulo": "O que são modelos de IA de código aberto?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-codigo-aberto/",
+      "resumo": "O que são modelos de IA de código aberto? As ferramentas de inteligência artificial mais conhecidas disponíveis no mercado funcionam com código fechado , como o ChatGPT, o Gemini e o Claude. Isso significa que as empresas responsáveis não divulgam o código nem os parâmetros usados para desenvolver os modelos. Embora qualquer pessoa possa acessar os serviços, os detalhes técnicos da tecnologia ficam restritos às próprias empresas. Também existem modelos de IA de código aberto , que disponibiliza os principais arquivos e informações usados em seu desenvolvimento. Com acesso a esses arquivos, outros desenvolvedores podem estudar como a tecnologia funciona, fazer alterações e adaptar o modelo para diferentes projetos. A principal diferença está no acesso à tecnologia . Enquanto os modelos fechados dependem das condições de uso definidas pelas empresas, os modelos abertos dão mais liberdade para estudar, modificar e executar a IA. Mas é importante observar que nem todos oferecem os mesmos arquivos ou permitem os mesmos tipos de uso. Isso depende do que cada projeto disponibiliza e da licença adotada. A seguir, tire suas dúvidas sobre: O que são IAs de código aberto? Como funcionam as IA",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-28T10:30:03+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/57JgxeVzA8rnqg1bnTlkIgzHqPE=/1200x675/smart/filters:format(webp):quality(85)/9b3955bb-660f-4211-8b6a-2877fb890301.png",
+      "score": 4.43,
+      "cobertura": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "004b3dd90243",
+      "titulo": "Banned Nvidia Blackwell AI racks surface in China — data center tied to $14M loan and alleged spy Alice Huang",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/banned-nvidia-blackwell-ai-racks-surface-in-china-data-center-tied-to-usd14m-loan-and-alleged-spy-alice-huang",
+      "resumo": "Nvidia's Blackwell AI chips were installed in a Chinese data center linked to Alice Huang, a suspected spy. This is despite the high-performance AI server chips being under export controls.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-28T15:22:32+00:00",
+      "coletado_em": "2026-11-28T17:33:32.901946+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-1920-80.jpg",
+      "score": 5.463,
+      "cobertura": []
+    },
+    {
+      "id": "90f67bd3d657",
+      "titulo": "Memory shortage could ease years earlier than RAM makers claim — TrendForce says RAM pricing will stabilize in 2027 and drop in 2028",
+      "url": "https://www.tomshardware.com/pc-components/dram/memory-shortage-could-ease-years-earlier-than-ram-makers-claim-trendforce-says-ram-pricing-will-stabilize-in-2027-and-drop-in-2028",
+      "resumo": "The Taiwan-based market research firm is bringing good news for gamers, enthusiasts, and PC builders, but it might take just a bit longer before we can feel relief.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-28T17:20:55+00:00",
+      "coletado_em": "2026-11-28T17:33:32.901946+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/FSpmYWVM4titL3D7pdfTkj-1920-80.jpg",
+      "score": 5.176,
+      "cobertura": []
+    },
+    {
+      "id": "8ad785863d63",
+      "titulo": "Thermaltake’s budget RTX 5060 Ti gaming desktops are as little as $1,299",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/thermaltakes-budget-rtx-5060-ti-gaming-desktops-are-as-little-as-usd1-299-choose-between-ddr4-and-ddr5-configurations-with-up-to-usd100-off",
+      "resumo": "Both prebuilt gaming PCs come with Nvidia's RTX 5060 Ti 8GB graphics, 1TB of storage, RGB cooling, and an Intel AI software bundle, while also including a holiday bundle with two PC games.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-28T10:45:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.901946+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/mKXeae6WoXFrzkUy9ST8gb-1920-80.jpg",
+      "score": 5.05,
+      "cobertura": []
+    },
+    {
+      "id": "ba31e7c21fea",
+      "titulo": "Como funciona o treinamento de uma IA?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-funciona-o-treinamento-de-uma-ia/",
+      "resumo": "Como funciona o treinamento de uma IA? Antes de responder a uma pergunta, reconhecer uma imagem ou escrever um código, uma Inteligência Artificial (IA) precisa passar por um longo processo de treinamento . É nessa etapa que o sistema aprende a identificar padrões e relações em grandes quantidades de dados. Esses dados podem incluir textos, imagens, áudios, vídeos, códigos e números. O tipo de informação depende do que a IA precisa fazer. Um modelo de linguagem, por exemplo, precisa analisar muitos exemplos de texto para aprender como as palavras se relacionam e como o contexto muda o significado de uma frase. Já uma IA criada para reconhecer objetos em fotos precisa trabalhar com imagens. Mas é importante não imaginar o treinamento como uma pessoa estudando um livro e guardando as informações na memória. A IA não “entende” os dados da mesma forma que um ser humano. O modelo transforma as informações em representações matemáticas e ajusta seus parâmetros para encontrar padrões que ajudem a produzir melhores resultados. Quanto mais vezes o processo é repetido, mais o modelo ajusta seus parâmetros. Em termos simples, ele tenta prever uma resposta, compara o resultado com o esperado e ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-28T14:30:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/6scmupWqG5TiSA4dBCQwRgHj5Fo=/1200x675/smart/filters:format(webp):quality(85)/0a91427f-ec89-413c-8190-845ee1ccc7d8.png",
+      "score": 4.776,
+      "cobertura": []
+    }
+  ],
+  "astrofisica": [
+    {
+      "id": "c94d3488a4ed",
+      "titulo": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+      "url": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+      "resumo": "The Event Horizon Telescope (EHT), a massive international collaboration of scientists and radio observatories, is like the gift that keeps on giving. In 2019, the EHT Collaboration gave us the first image of a black hole: the supermassive black hole (SMBH) at the heart of the M87 galaxy (M87*). In 2022, it provided the first image of Sagittarius A*, the SMBH at the center of the Milky Way. Between 2024 and 2026, the international array also produced detailed images of the relativistic jets emanating from 3C 84 and M87*.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-28T02:40:01+00:00",
+      "coletado_em": "2026-11-28T17:33:32.903063+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-event-horizon-tele.jpg",
+      "score": 4.896,
+      "cobertura": []
+    },
+    {
+      "id": "8c87d0cafd31",
+      "titulo": "James Webb discovers a nearly pristine galaxy from 13 billion years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126063322.htm",
+      "resumo": "Astronomers have discovered an extraordinarily primitive galaxy from 13 billion years ago that may carry the chemical fingerprints of the universe’s first stars. The discovery could solve a decades-old mystery surrounding ancient galaxies near the Milky Way and reveal how the building blocks of life first spread across the cosmos.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-28T01:30:16+00:00",
+      "coletado_em": "2026-11-28T17:33:32.903445+00:00",
+      "imagem_feed": null,
+      "score": 4.691,
+      "cobertura": []
+    },
+    {
+      "id": "3367d0424644",
+      "titulo": "A crise de confiança no multiplayer: o que a indústria de games precisa aprender sobre transparência",
+      "url": "https://canaltech.com.br/games/a-crise-de-confianca-no-multiplayer-o-que-a-industria-de-games-precisa-aprender-sobre-transparencia/",
+      "resumo": "A crise de confiança no multiplayer: o que a indústria de games precisa aprender sobre transparência Os jogos multiplayer sempre tiveram um elemento que vai além da competição: a convivência entre pessoas. Seja em uma partida casual com amigos ou em uma disputa profissional, a experiência depende diretamente da interação entre os jogadores. É por isso que a toxicidade virou um dos principais desafios da indústria de games . O problema vai de ofensas durante uma partida a comportamentos capazes de afastar pessoas de comunidades inteiras e comprometer a relação delas com os próprios jogos. Nos últimos anos, as desenvolvedoras avançaram na criação de ferramentas para identificar e combater essas práticas. Sistemas automatizados analisam mensagens, reconhecem padrões de comportamento e identificam infrações em uma escala que equipes humanas sozinhas não dariam conta. Esse avanço é necessário, especialmente em jogos que reúnem milhões de pessoas. Mas pouca atenção vai para o que acontece depois que uma denúncia é feita . Pela minha experiência, boa parte da moderação acontece nos bastidores. O jogador identifica uma conduta inadequada, usa a ferramenta de denúncia e, muitas vezes, segue",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "astrofisica"
+      ],
+      "publicado": "2026-11-28T16:30:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/J6-WC8ihRYWbSuaHwLLR6_38E_M=/1200x675/smart/filters:format(webp):quality(85)/e467ff99-8e30-48c7-94a0-4e167611caa8.png",
+      "score": 4.481,
+      "cobertura": []
+    },
+    {
+      "id": "8641946e4461",
+      "titulo": "A small galaxy's giant dark matter core challenges the standard cosmological model",
+      "url": "https://phys.org/news/2026-11-small-galaxy-giant-dark-core.html",
+      "resumo": "New findings show that a nearby dwarf galaxy, UGCA 320, may challenge some predictions of the widely accepted cosmological model of the universe. By combining observations from the MUSE instrument with radio measurements from the MeerKAT telescope, astronomers have found that it hosts an unusually large dark matter core. The paper was posted to the arXiv preprint server on Nov. 11.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "astrofisica"
+      ],
+      "publicado": "2026-11-27T13:40:10+00:00",
+      "coletado_em": "2026-11-28T17:33:32.903063+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-small-galaxys-giant.jpg",
+      "score": 4.449,
+      "cobertura": []
+    }
+  ],
+  "quantica": [
+    {
+      "id": "7b89e550aa90",
+      "titulo": "Quantum Computing 101: Can a Cat be Alive and Dead at The Same Time?",
+      "url": "https://thequantuminsider.com/2026/11/27/quantum-computing-101-can-a-cat-be-alive-and-dead-at-the-same-time/",
+      "resumo": "What is a qubit, why do quantum computers need to be colder than outer space, and what will they really be able to do? A plain-English guide to quantum computing, from Schrödinger’s cat to post-quantum cryptography.",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-27T16:51:24+00:00",
+      "coletado_em": "2026-11-28T17:33:32.904366+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/Alive-and-Dead-Cat_.png",
+      "score": 4.68,
+      "cobertura": []
+    },
+    {
+      "id": "e32f1fe87094",
+      "titulo": "New research establishes fundamental complexity limit for quantum circuit optimization",
+      "url": "https://phys.org/news/2026-11-fundamental-complexity-limit-quantum-circuit.html",
+      "resumo": "Quantum circuit optimization is an important research area, as the computational resources required to execute quantum algorithms remain a major challenge. In particular, two-qubit operations are generally associated with higher error rates than single-qubit gates on current quantum hardware, making reducing the number of two-qubit gates an important objective.",
+      "fonte": "Phys.org",
+      "peso_fonte": 0.75,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-27T22:40:04+00:00",
+      "coletado_em": "2026-11-28T17:33:32.904664+00:00",
+      "imagem_feed": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-establish.jpg",
+      "score": 4.222,
+      "cobertura": []
+    },
+    {
+      "id": "9ec2e2bd0574",
+      "titulo": "Guest Post: The Encryption Upgrade Needs a Backup Plan",
+      "url": "https://thequantuminsider.com/2026/11/27/encryption-upgrade-needs-backup-plan/",
+      "resumo": "Guest Post By Companies preparing for quantum computers may have to confront a threat that requires no quantum computer at all. For the operators of critical infrastructure, from electric utilities and water systems to hospitals and telecom networks, the lesson is simple: keep the move to quantum-resistant cryptography on schedule, but buy systems that can […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-27T13:27:38+00:00",
+      "coletado_em": "2026-11-28T17:33:32.904366+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/eusvweosble.jpg",
+      "score": 4.095,
+      "cobertura": []
+    },
+    {
+      "id": "719cb35376be",
+      "titulo": "Ethereum Plans Shift to Hash-Based Signatures for Post-Quantum Security",
+      "url": "https://thequantuminsider.com/2026/11/27/ethereum-shift-hash-based-signatures-post-quantum-security/",
+      "resumo": "Insider Brief Ethereum’s core developers are preparing to phase out the elliptic-curve cryptography that secures the network and switch to hash-based signatures, a change meant to protect against attacks powered by quantum computers or by advances in artificial intelligence, Crypto Briefing reported. The plan was set out in a series of blog posts under the […]",
+      "fonte": "The Quantum Insider",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "quantica"
+      ],
+      "publicado": "2026-11-27T10:51:41+00:00",
+      "coletado_em": "2026-11-28T17:33:32.904366+00:00",
+      "imagem_feed": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-27_15-50.png",
+      "score": 4.04,
+      "cobertura": []
+    }
+  ],
+  "computadores_pessoais": [
+    {
+      "id": "90f67bd3d657",
+      "titulo": "Memory shortage could ease years earlier than RAM makers claim — TrendForce says RAM pricing will stabilize in 2027 and drop in 2028",
+      "url": "https://www.tomshardware.com/pc-components/dram/memory-shortage-could-ease-years-earlier-than-ram-makers-claim-trendforce-says-ram-pricing-will-stabilize-in-2027-and-drop-in-2028",
+      "resumo": "The Taiwan-based market research firm is bringing good news for gamers, enthusiasts, and PC builders, but it might take just a bit longer before we can feel relief.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-28T17:20:55+00:00",
+      "coletado_em": "2026-11-28T17:33:32.901946+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/FSpmYWVM4titL3D7pdfTkj-1920-80.jpg",
+      "score": 5.176,
+      "cobertura": []
+    },
+    {
+      "id": "229ce505de03",
+      "titulo": "Makita power tool battery pack adapter tested as portable laptop power solution",
+      "url": "https://www.tomshardware.com/peripherals/usb/makita-power-tool-battery-pack-adapter-tested-as-portable-laptop-power-solution-usd44-adp15-charges-a-thinkpad-at-60w-and-iphone-17-pro-max-at-37w",
+      "resumo": "Leading power tool firm Makita has released an adapter for its battery packs, allowing them to be used for charging phones, tablets, and even laptops. A Japanese PC magazine has tested its laptop companion prowess.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-28T11:30:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.901946+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/eHjeTzRNy8JF5pX4XuEXW6-1920-80.jpg",
+      "score": 5.109,
+      "cobertura": []
+    },
+    {
+      "id": "8ad785863d63",
+      "titulo": "Thermaltake’s budget RTX 5060 Ti gaming desktops are as little as $1,299",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/thermaltakes-budget-rtx-5060-ti-gaming-desktops-are-as-little-as-usd1-299-choose-between-ddr4-and-ddr5-configurations-with-up-to-usd100-off",
+      "resumo": "Both prebuilt gaming PCs come with Nvidia's RTX 5060 Ti 8GB graphics, 1TB of storage, RGB cooling, and an Intel AI software bundle, while also including a holiday bundle with two PC games.",
+      "fonte": "Tom's Hardware",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais",
+        "hardware"
+      ],
+      "publicado": "2026-11-28T10:45:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.901946+00:00",
+      "imagem_feed": "https://cdn.mos.cms.futurecdn.net/mKXeae6WoXFrzkUy9ST8gb-1920-80.jpg",
+      "score": 5.05,
+      "cobertura": []
+    },
+    {
+      "id": "0e0aeecf9560",
+      "titulo": "Skip the junk: These are Amazon’s best Black Friday tech deals",
+      "url": "https://www.pcworld.com/article/1384292/best-black-friday-amazon-tech-deals-2026.html",
+      "resumo": "It’s officially Black Friday season, which means it’s time for Amazon tech deals. Of course, there’s always the ever-present issue of sifting through the clutter to find the deals that are truly worthwhile. This is where PCWorld’s tech experts come in. Our guide to the best Amazon Black Friday tech deals will point you to the best bargains in all the most popular tech categories. Deals at a glance Top tech deals on Amazon Under $25: Amazon Fire TV Stick 4K , now $19.99, was $59.99 (lowest price ever) Budget laptop: Acer Aspire Lite 15 , $474.98 ($325.01 off at Amazon) Midrange laptop: Acer Aspire 14 AI , $649.99 ($200 off at Amazon) Premium laptop: Microsoft Surface Laptop , $999 ($250 off at Amazon) Best midrange Chromebook: Lenovo Chromebook m14 , $245.99 ($44 off at Amazon) AMD mini PC: Bosgame E5 —$199.49 (42% off on Amazon) Intel mini PC: Glorlin Mini PC , $382 (15% off on Amazon) Budget office monitor: AOC 27-inch fast IPS 1080p — $95 ($25 off at Amazon) OLED gaming monitor: Alienware 34-inch 1440p 240Hz — $719 ($80 off at Amazon) Best Thunderbolt 4 docking station: Plugable Thunderbolt 4 Dock (TBT4-UD5) , 96W charging, $159.96 ($40 off at Amazon) USB-C docking station: Anker",
+      "fonte": "PCWorld",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "computadores_pessoais"
+      ],
+      "publicado": "2026-11-27T17:51:45+00:00",
+      "coletado_em": "2026-11-28T17:33:32.905598+00:00",
+      "imagem_feed": "https://www.pcworld.com/wp-content/uploads/2026/11/1384292-0-64544400-1794921573-Amazon-logo-orange-smile-on-black-background.jpg?quality=50&strip=all",
+      "score": 4.709,
+      "cobertura": [
+        "https://www.tomshardware.com/video-games/retro-gaming/here-are-the-best-retro-tech-deals-weve-found-for-black-friday-deals-on-retro-tech-for-the-modern-pc-setup",
+        "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+        "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
+      ]
+    }
+  ],
+  "inteligencia_artificial": [
+    {
+      "id": "0596db4ec183",
+      "titulo": "O que são modelos de IA de código aberto?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-codigo-aberto/",
+      "resumo": "O que são modelos de IA de código aberto? As ferramentas de inteligência artificial mais conhecidas disponíveis no mercado funcionam com código fechado , como o ChatGPT, o Gemini e o Claude. Isso significa que as empresas responsáveis não divulgam o código nem os parâmetros usados para desenvolver os modelos. Embora qualquer pessoa possa acessar os serviços, os detalhes técnicos da tecnologia ficam restritos às próprias empresas. Também existem modelos de IA de código aberto , que disponibiliza os principais arquivos e informações usados em seu desenvolvimento. Com acesso a esses arquivos, outros desenvolvedores podem estudar como a tecnologia funciona, fazer alterações e adaptar o modelo para diferentes projetos. A principal diferença está no acesso à tecnologia . Enquanto os modelos fechados dependem das condições de uso definidas pelas empresas, os modelos abertos dão mais liberdade para estudar, modificar e executar a IA. Mas é importante observar que nem todos oferecem os mesmos arquivos ou permitem os mesmos tipos de uso. Isso depende do que cada projeto disponibiliza e da licença adotada. A seguir, tire suas dúvidas sobre: O que são IAs de código aberto? Como funcionam as IA",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-28T10:30:03+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/57JgxeVzA8rnqg1bnTlkIgzHqPE=/1200x675/smart/filters:format(webp):quality(85)/9b3955bb-660f-4211-8b6a-2877fb890301.png",
+      "score": 5.43,
+      "cobertura": []
+    },
+    {
+      "id": "ba31e7c21fea",
+      "titulo": "Como funciona o treinamento de uma IA?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-funciona-o-treinamento-de-uma-ia/",
+      "resumo": "Como funciona o treinamento de uma IA? Antes de responder a uma pergunta, reconhecer uma imagem ou escrever um código, uma Inteligência Artificial (IA) precisa passar por um longo processo de treinamento . É nessa etapa que o sistema aprende a identificar padrões e relações em grandes quantidades de dados. Esses dados podem incluir textos, imagens, áudios, vídeos, códigos e números. O tipo de informação depende do que a IA precisa fazer. Um modelo de linguagem, por exemplo, precisa analisar muitos exemplos de texto para aprender como as palavras se relacionam e como o contexto muda o significado de uma frase. Já uma IA criada para reconhecer objetos em fotos precisa trabalhar com imagens. Mas é importante não imaginar o treinamento como uma pessoa estudando um livro e guardando as informações na memória. A IA não “entende” os dados da mesma forma que um ser humano. O modelo transforma as informações em representações matemáticas e ajusta seus parâmetros para encontrar padrões que ajudem a produzir melhores resultados. Quanto mais vezes o processo é repetido, mais o modelo ajusta seus parâmetros. Em termos simples, ele tenta prever uma resposta, compara o resultado com o esperado e ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "hardware",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-28T14:30:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/6scmupWqG5TiSA4dBCQwRgHj5Fo=/1200x675/smart/filters:format(webp):quality(85)/0a91427f-ec89-413c-8190-845ee1ccc7d8.png",
+      "score": 5.276,
+      "cobertura": []
+    },
+    {
+      "id": "1708b3d5433d",
+      "titulo": "Como funciona o Claude Docs e Slides? 6 prompts para aprender a usar",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-funciona-claude-docs-slides-prompts-para-aprender/",
+      "resumo": "Como funciona o Claude Docs e Slides? 6 prompts para aprender a usar O Claude, da Anthropic, agora tem integração nativa com o Google Docs, Planilhas (Sheets) e Apresentações (Slides) para criar e editar arquivos com a ajuda da IA. Com o recurso, é possível produzir documentos, reorganizar textos e preparar apresentações sem alternar entre diferentes abas do navegador. A integração funciona por meio de uma barra lateral nos aplicativos do Google e de recursos disponíveis na própria interface do Claude. O assistente consegue ler o conteúdo dos arquivos, sugerir mudanças e editar textos, tabelas e slides com base nas instruções do usuário. As alterações ficam registradas no histórico de versões dos arquivos e aparecem associadas à conta do usuário. Também é possível definir o nível de autonomia do Claude antes de autorizar as edições, com opções que vão da aprovação manual à aplicação automática de mudanças. A seguir, confira: Como funciona o Claude Docs e Slides? Quais planos têm acesso ao recurso? 6 prompts para usar o Claude Docs e Slides Como funciona o Claude Docs e Slides? A extensão do Claude para o Google Workspace abre uma barra lateral dentro do arquivo . Para acessá-la no ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-28T17:30:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/XlkkFDmYSGBFWNkXE1wRPmumhKA=/1200x675/smart/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "score": 5.093,
+      "cobertura": []
+    },
+    {
+      "id": "0b16c518e089",
+      "titulo": "Como a inteligência artificial está acelerando ports não oficiais de jogos",
+      "url": "https://canaltech.com.br/games/como-a-inteligencia-artificial-esta-acelerando-ports-nao-oficiais-de-jogos/",
+      "resumo": "Como a inteligência artificial está acelerando ports não oficiais de jogos Muitos jogadores veem uma verdadeira corrida pelos ports não oficiais de jogos, cujo objetivo é recriar as principais experiências do PlayStation, Nintendo e XBOX nos computadores. Quanto mais veloz e mais recursos acrescentar, é melhor e torna o usuário “famoso” dentro da comunidade. O processo, que costumava levar anos, hoje em dia chega ao máximo de meses . Em alguns casos, semanas ou até mesmo dias. Para você ter uma ideia, em menos de uma semana do lançamento de GTA 6 — o game mais esperado de todos os tempos — ele já é jogável e logo será portado por completo . A tendência é que, em pouco tempo e com uso da IA, qualquer máquina execute os principais títulos disponíveis. O remake de The Legend of Zelda: Ocarina of Time passou por isso , Grand Theft Auto VI está prestes a passar e não falta muito para vermos uma agilidade ainda maior. Saiba como a inteligência artificial acelera a chegada de ports não oficiais de jogos , assim como abre caminho para uma democratização ainda maior dentro da comunidade: Os ports do “Velho Testamento” Quando um desenvolvedor ou grupo de devs decidia levar um jogo exclusivo ",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "software",
+        "hardware",
+        "computadores_pessoais",
+        "inteligencia_artificial"
+      ],
+      "publicado": "2026-11-28T17:00:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/eZqzOOeRV3-oZGzCLiA2K43k-GU=/1200x675/smart/filters:format(webp):quality(85)/1b281f3e-3d57-4adf-b302-640c650ff4cc.jpg",
+      "score": 5.036,
+      "cobertura": []
+    }
+  ],
+  "energia_materiais": [
+    {
+      "id": "3f0fae874d42",
+      "titulo": "Bateria do iPhone 18 Pro Max dura mais que a do 18 Pro mesmo? Nós fizemos o teste",
+      "url": "https://canaltech.com.br/smartphone/bateria-do-iphone-18-pro-max-dura-mais-que-a-do-18-pro-mesmo-nos-fizemos-o-teste/",
+      "resumo": "Bateria do iPhone 18 Pro Max dura mais que a do 18 Pro mesmo? Nós fizemos o teste Uma das principais dúvidas de quem pretende comprar um celular da linha Pro da Apple é se vale a pena pagar mais pelo modelo maior apenas pela bateria. Afinal, o iPhone 18 Pro Max tem a proposta de oferecer mais autonomia, mas será que essa diferença é tão grande na prática? Para descobrir, colocamos o iPhone 18 Pro e o 18 Pro Max lado a lado em um teste de reprodução de vídeos no YouTube. Os dois ficaram quatro horas seguidas com o mesmo conteúdo na tela, com brilho, volume e resolução configurados da mesma forma. O resultado mostrou uma vantagem considerável para o modelo maior. Enquanto o iPhone 18 Pro consumiu 15% da carga, o Pro Max gastou apenas 8% no mesmo período. iPhone 18 Pro Max consome quase metade da bateria Depois das quatro horas de reprodução, o iPhone 18 Pro Max gastou apenas 8% da carga , enquanto o iPhone 18 Pro consumiu 15% no mesmo período. Isso equivale a uma média de consumo de 2% por hora no Pro Max e 3,75% por hora no Pro . A diferença de 7 pontos percentuais parece pequena à primeira vista, mas fica bem mais clara quando projetamos a autonomia total. Modelo Consumo em 4 horas",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "inteligencia_artificial",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-28T14:00:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/GdZRsvN4k5VL7ivHPjdjkVtvgeE=/1200x675/smart/filters:format(webp):quality(85)/bf0b69a3-d705-4a92-b403-64362bd3d560.jpg",
+      "score": 4.228,
+      "cobertura": []
+    },
+    {
+      "id": "80bec0f4ef64",
+      "titulo": "Scientists create stunning, non-fading paint without a single pigment",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261127203630.htm",
+      "resumo": "Researchers have developed a pigment-free coating that delivers the rich, glossy appearance of automotive paint without the problem of fading. Inspired by nature, the technology uses microscopic silicon spheres to produce durable colors that remain consistent from different viewing angles. The coating is so lightweight that the color layer for an entire passenger airliner could theoretically weigh less than a carton of milk.",
+      "fonte": "ScienceDaily",
+      "peso_fonte": 0.8,
+      "categorias": [
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-28T13:34:17+00:00",
+      "coletado_em": "2026-11-28T17:33:32.917297+00:00",
+      "imagem_feed": null,
+      "score": 3.989,
+      "cobertura": []
+    },
+    {
+      "id": "d8d68e666f10",
+      "titulo": "Tem só 8 episódios: série sci-fi da Netflix é pedida certa para o fim de semana",
+      "url": "https://canaltech.com.br/entretenimento/tem-so-8-episodios-serie-sci-fi-da-netflix-e-pedida-certa-para-o-fim-de-semana/",
+      "resumo": "Tem só 8 episódios: série sci-fi da Netflix é pedida certa para o fim de semana Se você está procurando uma nova série para maratonar no final de semana, a Netflix tem uma produção que pode ser a pedida certa: The Boroughs . O programa estreou na gigante do streaming em maio deste ano, mas passou um tanto quanto despercebida pelos assinantes. Produzida pelos irmãos Duffer, os criadores de Stranger Things , a série The Boroughs conta com um elenco recheado de estrelas, como Alfred Molina e Geena Davis, para narrar uma história intrigante que mistura ficção científica e suspense. Ao todo, são apenas oito episódios disponíveis em uma temporada única, uma maratona rápida e sem amarras para quem não quer se comprometer com uma série de muitos capítulos. Qual é a história de The Boroughs? Criada por Jeffrey Addiss e Will Matthews, The Boroughs se passa no estado do Novo México, nos EUA, onde uma comunidade de aposentados aparentemente otimista e idílica abriga um grupo de idosos com vivências distintas. O clima ensolarado e pacífico do local logo muda quando o viúvo Sam Cooper (Molina), que vive relutantemente na comunidade após a morte da esposa, começa a suspeitar de que há algo estran",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-28T00:01:00+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/LTQPEXCSbSKhWvjaZxVRb5vptFA=/1200x675/smart/filters:format(webp):quality(85)/ce96d78e-3a9f-481f-8fff-c487702937d7.png",
+      "score": 3.826,
+      "cobertura": []
+    },
+    {
+      "id": "7ad01e955ce9",
+      "titulo": "Telescópio flagra o “último suspiro” de estrela como o Sol e intriga astrônomos",
+      "url": "https://canaltech.com.br/ciencia-e-espaco/telescopio-flagra-o-ultimo-suspiro-de-estrela-como-o-sol-e-intriga-astronomos/",
+      "resumo": "Telescópio flagra o “último suspiro” de estrela como o Sol e intriga astrônomos Parece que o “último suspiro” do nosso Sol pode ser diferente do que os cientistas pensavam . É o que indicam novos dados obtidos pelo Atacama Large Millimeter/submillimeter Array (ALMA), o maior radiotelescópio do mundo, que acaba de flagrar os últimos momentos de uma estrela como a nossa. Antes de continuar, é importante lembrar que estrelas como o Sol “morrem” quando esgotam as reservas de hidrogênio em seus núcleos; sem a transformação do hidrogênio em hélio, a estrela não tem mais como sustentar sua estrutura, que é constantemente puxada por sua própria gravidade. Depois, o núcleo da estrela dá origem ao que chamamos de anã branca, enquanto suas camadas mais externas se expandem e constituem uma gigante vermelha. Nesta fase, o núcleo da estrela fica cercado por camadas de hidrogênio e hélio, que ocasionalmente disparam emissões e lançam material estelar ao espaço. E foi este processo que estudaram com o ALMA. Fim do Sol Os pesquisadores usaram o telescópio para estudar a estrela IRAS 06530-0213, encontrada a cerca de 12 mil anos-luz de nós. Ali, descobriram um anel gasoso que parece ser uma espécie",
+      "fonte": "Canaltech",
+      "peso_fonte": 0.6,
+      "categorias": [
+        "biologia",
+        "astrofisica",
+        "energia_materiais"
+      ],
+      "publicado": "2026-11-27T20:00:09+00:00",
+      "coletado_em": "2026-11-28T17:33:32.927669+00:00",
+      "imagem_feed": "https://tl.ctcdn.com.br/bQDBsNKePudAzq20N1U2jeT0Yrw=/1200x675/smart/filters:format(webp):quality(85)/f0b70a73-b229-4a23-9244-6044182952ff.png",
+      "score": 3.676,
+      "cobertura": []
+    }
+  ],
+  "ciberseguranca": []
+}
